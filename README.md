@@ -1,6 +1,8 @@
-#2017 Psychoinformatics and Neuroinformatics Final Project
+# 2017 Psychoinformatics and Neuroinformatics Final Project
 
 2017 Psychoinformatics and Neuroinformatics Final Project
+
+Discriminative words reseach for PTT and DCard.
 
 #The following parts should be edited later
 
