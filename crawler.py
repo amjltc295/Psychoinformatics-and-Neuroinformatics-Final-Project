@@ -1,52 +1,53 @@
-from urllib import parse,request
+import requests
 from bs4 import BeautifulSoup
+import time
 
 # get text of an index page
-def getPageText(req):
-    response=request.urlopen(req)
-    data=response.read()
-    mytext=data.decode('utf-8')
-    return mytext
+def getPageText(link):
+    pageText=requests.get(link, cookies={'over18':'1'}).text
+    return pageText
 
 # search all pushes in an article page
-def searchPage(link):
-    URL='https://www.ptt.cc'
-    URN='/ask/over18'
-    q=parse.urlencode({'yes':'yes','from':link})
-    q=q.encode('utf-8')
-    h={'Cookie':'over18=1','User-Agent':'Mozilla/5.0'}
-    req=request.Request(URL+URN,q,h) 
-    data=request.urlopen(req).read()
-    t=data.decode('utf-8')
+def searchPage(link,keyWord):
+    count=0
+    t = getPageText(link)
     soup = BeautifulSoup(t, 'lxml')
     pushes = soup.find_all('div', 'push')
     for push in pushes:
         #state = push.find('span', 'hl push-tag').getText()
         #state2 = push.find('span', 'f1 hl push-tag').getText()
-        ptt_id = push.find('span', 'f3 hl push-userid').getText()
+        #ptt_id = push.find('span', 'f3 hl push-userid').getText()
         content = push.find('span', 'f3 push-content').getText()
-        print(ptt_id, content)
+        print(content)
+        count += searchKeyword(content,keyWord)
+    return count
 
 # get the number of previous page
-def getPrevPage(text): 
-    soup = BeautifulSoup(text, 'lxml')
+def getPrevPage(soup): 
     prevPage = str(soup.find_all('a', 'btn wide')[1])
     x=str(prevPage).find('index')
     y=str(prevPage).find('.html')
     return prevPage[x+5:y]
 
-URL='https://www.ptt.cc'
-URN='/ask/over18'
-h={'Cookie':'over18=1','User-Agent':'Mozilla/5.0'}
+def searchKeyword(text,word):
+    count=0
+    a=0
+    while(a>=0):
+        a=text.find(word)
+        if(a>=0):
+            count+=1
+            text=text[a+len(word):]
+    return count
+
+start = time.time()
 
 pageNum=''
-
-for i in range(5): # 翻頁5次
-    prevPage='/bbs/Gossiping/index'+pageNum+'.html'
-    print(prevPage) #印index網址
-    q=parse.urlencode({'yes':'yes','from':prevPage}).encode('utf-8')
-    req=request.Request(URL+URN,q,h)
-    pageText=getPageText(req) #Page 1
+count=0
+N=2
+for i in range(N): # 翻頁N次
+    prevPage='https://www.ptt.cc/bbs/Gossiping/index'+pageNum+'.html'
+    #print(prevPage)
+    pageText = getPageText(prevPage)
 
     soup = BeautifulSoup(pageText, 'lxml')
     articles = soup.find_all('div', 'r-ent')
@@ -56,12 +57,12 @@ for i in range(5): # 翻頁5次
     for article in articles:
         meta = article.find('div', 'title').find('a') or NOT_EXIST
         link = meta.get('href') 
-        #print(link)        #印文章連結
-        #searchPage(link)   #印推文
-
+        print(link)        #印文章連結
+        count += searchPage('https://www.ptt.cc'+link,'我')   
+        print(count)
     #next page
-    pageNum=getPrevPage(pageText)
+    pageNum=getPrevPage(soup)
     
-    
-
+end = time.time()
+print('time:', end - start)
 input('Done')
