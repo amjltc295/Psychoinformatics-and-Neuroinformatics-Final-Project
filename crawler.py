@@ -3,10 +3,14 @@ from multiprocessing import Process
 from bs4 import BeautifulSoup
 import time
 from dataIO import TypeResultWrapper, WordResultWrapper
+import sys, os
 
 def getPageText(link):    
     #a = time.time()
-    pageText=requests.get(link, cookies={'over18':'1'}).text
+    if(link == 'empty'):
+        pageText='This page has been deleted.'
+    else:
+        pageText=requests.get(link, cookies={'over18':'1'}).text
     #b = time.time()
     #print('get page text time:', b-a)
     return pageText
@@ -73,11 +77,14 @@ def searchKeyword(text,word):
             text=text[a+len(word):]
     return count
 
-def downloadPage(link, filename, foldername):
+def downloadPage(filename, forumName, page, link):
     a = time.time()
     pageText = getPageText(link)
     b = time.time()
-    f = open(foldername+'/'+filename+".txt","w")
+    directory = 'ptt/'+forumName+'/'+str(page)+'/'
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    f = open(directory+filename+".txt","w")
     f.write(link+'\n'+pageText)
     f.close()
     print('download time:', round(b-a, 2))
@@ -106,11 +113,11 @@ def searchForum(forumName, startPage, totalPage, keyWord):
         #next page
         pageNum -= 1
 
-def downloadForum(forumName, startPage, totalPage, foldername):
+def downloadForum(forumName, startPage, totalPage):
     pageNum=startPage
     N=totalPage
-    articleCount=0
     for i in range(N): # 翻頁N次
+        articleCount=0
         prevPage='https://www.ptt.cc/bbs/'+forumName+'/index'+str(pageNum)+'.html'
         print('page', pageNum)
         pageText = getPageText(prevPage)
@@ -122,34 +129,49 @@ def downloadForum(forumName, startPage, totalPage, foldername):
                                  
         for article in articles:
             meta = article.find('div', 'title').find('a') or NOT_EXIST
-            if(meta != NOT_EXIST):
+            if(meta == NOT_EXIST):
+                link = 'empty' 
+                print(link)
+                downloadPage(str(articleCount), forumName, pageNum, link) #empty page
+            else:
                 link = meta.get('href') 
                 print(link)
-                downloadPage('https://www.ptt.cc'+link, str(articleCount), foldername)
-                articleCount += 1
+                downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
+            articleCount += 1
         #next page
         pageNum -= 1
 
 #main
-start = time.time()
-keyword='推'
-foldername = 'ptt_Gossiping'
-startPage = 22600
-pages = 1
-totalPage = 18
+def main(argv):
+    start = time.time()
+    if(argv[0] == '-d'):
+        if(len(argv)!= 4):
+            print('usage: -d "forumName" "startPage" "number of pages"')
+            sys.exit()
+        else:
+            forumName = argv[1]
+            startPage = int(argv[2])
+            pages = int(argv[3])
 
-#download forum from web
-downloadForum('Gossiping', startPage, pages, foldername)
+        #download forum from web
+        downloadForum(forumName, startPage, pages)
+    else:
+        print('option not correct')
+        sys.exit()
+    #search forum from web
+    #keyword='推'
+    #searchForum('Gossiping', startPage, pages, keyword)
 
-#search forum from web
-#searchForum('Gossiping', startPage, pages, keyword)
+    #search from text file
+    '''
+    totalPage = 18
+    for i in range(totalPage):
+        file = open(foldername+'/'+str(i)+'.txt', 'r')
+        searchText(file.read(), keyword)
+    '''
+    end = time.time()
+    print('time:', end - start, 'seconds')
 
-#search from text file
-'''
-for i in range(totalPage):
-    file = open(foldername+'/'+str(i)+'.txt', 'r')
-    searchText(file.read(), keyword)
-'''
-end = time.time()
-print('time:', end - start, 'seconds')
-input('Done')
+if __name__ == '__main__':
+    main(sys.argv[1:])
+    
