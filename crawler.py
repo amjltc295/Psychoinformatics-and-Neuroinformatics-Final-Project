@@ -27,12 +27,15 @@ def getContent(soup):
     return main_content
 
 # search an article page
-def searchPage(link,keyWord):
-    ww=WordResultWrapper(keyWord)
+def searchPage(link,keyWord):    
     t = getPageText(link)
+    return searchText(t)
 
+# search from file
+def searchText(text,keyWord):
     #a = time.time()
-    soup = BeautifulSoup(t, 'lxml')
+    ww = WordResultWrapper(keyWord)
+    soup = BeautifulSoup(text, 'lxml')
     #title
     title = getTitle(soup)
     ww.titleNum = searchKeyword(title,keyWord)
@@ -120,25 +123,33 @@ def downloadForum(forumName, startPage, totalPage, foldername):
         for article in articles:
             meta = article.find('div', 'title').find('a') or NOT_EXIST
             if(meta != NOT_EXIST):
-                articleCount += 1
                 link = meta.get('href') 
                 print(link)
-
                 downloadPage('https://www.ptt.cc'+link, str(articleCount), foldername)
+                articleCount += 1
         #next page
         pageNum -= 1
 
 #main
-
 start = time.time()
-#(forum name, start page, number of pages, foldername)
+keyword='推'
 foldername = 'ptt_Gossiping'
 startPage = 22600
 pages = 1
+totalPage = 18
+
+#download forum from web
 downloadForum('Gossiping', startPage, pages, foldername)
-#(forum name, start page, number of pages, keyword)
-#keyword='推'
-#searchForum('Gossiping', startPage, pages, keyword) 
+
+#search forum from web
+#searchForum('Gossiping', startPage, pages, keyword)
+
+#search from text file
+'''
+for i in range(totalPage):
+    file = open(foldername+'/'+str(i)+'.txt', 'r')
+    searchText(file.read(), keyword)
+'''
 end = time.time()
 print('time:', end - start, 'seconds')
 input('Done')
