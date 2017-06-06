@@ -1,16 +1,20 @@
 import requests
+from multiprocessing import Process
 from bs4 import BeautifulSoup
 import time
 from dataIO import TypeResultWrapper, WordResultWrapper
 
-def getPageText(link):
+def getPageText(link):    
+    #a = time.time()
     pageText=requests.get(link, cookies={'over18':'1'}).text
+    #b = time.time()
+    #print('get page text time:', b-a)
     return pageText
 
 def getTitle(soup):
     return soup.find('span', 'article-meta-value').getText()
 
-def getContent_pushes(soup):
+def getContent(soup):
     s=soup.find_all('span', 'f6')
     for i in s:
         i.decompose()
@@ -26,12 +30,14 @@ def getContent_pushes(soup):
 def searchPage(link,keyWord):
     ww=WordResultWrapper(keyWord)
     t = getPageText(link)
+
+    #a = time.time()
     soup = BeautifulSoup(t, 'lxml')
     #title
     title = getTitle(soup)
     ww.titleNum = searchKeyword(title,keyWord)
     #content
-    content = getContent_pushes(soup)
+    content = getContent(soup)
     ww.contentNum = searchKeyword(content,keyWord)
     #pushes
     pushes = soup.find_all('div', 'push')
@@ -42,8 +48,9 @@ def searchPage(link,keyWord):
         comment = push.find('span', 'f3 push-content').getText()
         #print(comment)
         ww.commentNum += searchKeyword(comment,keyWord)
-    print(ww.titleNum, ww.contentNum, ww.commentNum)
-    #ww.printWordResult
+    ww.printWordResult()
+    #b = time.time()
+    #print('search keyword time:', b-a)
     return ww
 
 # get the number of previous page
@@ -63,40 +70,75 @@ def searchKeyword(text,word):
             text=text[a+len(word):]
     return count
 
+def downloadPage(link, filename, foldername):
+    a = time.time()
+    pageText = getPageText(link)
+    b = time.time()
+    f = open(foldername+'/'+filename+".txt","w")
+    f.write(link+'\n'+pageText)
+    f.close()
+    print('download time:', round(b-a, 2))
+
+def searchForum(forumName, startPage, totalPage, keyWord):
+    pageNum=startPage
+    N=totalPage
+    for i in range(N): # 翻頁N次
+        prevPage='https://www.ptt.cc/bbs/'+forumName+'/index'+str(pageNum)+'.html'
+        print('page', pageNum)
+        pageText = getPageText(prevPage)
+
+        soup = BeautifulSoup(pageText, 'lxml')
+        articles = soup.find_all('div', 'r-ent')
+
+        NOT_EXIST = BeautifulSoup('<a>本文已被刪除</a>', 'lxml').a
+                                 
+        for article in articles:
+            meta = article.find('div', 'title').find('a') or NOT_EXIST
+            if(meta != NOT_EXIST):
+                articleCount += 1
+                link = meta.get('href') 
+                print(link)
+
+                searchPage('https://www.ptt.cc'+link, keyWord)
+        #next page
+        pageNum -= 1
+
+def downloadForum(forumName, startPage, totalPage, foldername):
+    pageNum=startPage
+    N=totalPage
+    articleCount=0
+    for i in range(N): # 翻頁N次
+        prevPage='https://www.ptt.cc/bbs/'+forumName+'/index'+str(pageNum)+'.html'
+        print('page', pageNum)
+        pageText = getPageText(prevPage)
+
+        soup = BeautifulSoup(pageText, 'lxml')
+        articles = soup.find_all('div', 'r-ent')
+
+        NOT_EXIST = BeautifulSoup('<a>本文已被刪除</a>', 'lxml').a
+                                 
+        for article in articles:
+            meta = article.find('div', 'title').find('a') or NOT_EXIST
+            if(meta != NOT_EXIST):
+                articleCount += 1
+                link = meta.get('href') 
+                print(link)
+
+                downloadPage('https://www.ptt.cc'+link, str(articleCount), foldername)
+        #next page
+        pageNum -= 1
+
+#main
+
 start = time.time()
-
-pageNum=''
-count=0
-N=1
-'''
-f = open("test.txt","w") #opens file with name of "test.txt"
-prevPage='https://www.ptt.cc/bbs/Gossiping/index'+pageNum+'.html'
-pageText = getPageText(prevPage)
-soup = BeautifulSoup(pageText, 'lxml')
-f.write(soup.text)
-print(soup.text)
-f.close()
-
-'''
-for i in range(N): # 翻頁N次
-    prevPage='https://www.ptt.cc/bbs/Gossiping/index'+pageNum+'.html'
-    print('page', pageNum)
-    pageText = getPageText(prevPage)
-
-    soup = BeautifulSoup(pageText, 'lxml')
-    articles = soup.find_all('div', 'r-ent')
-
-    NOT_EXIST = BeautifulSoup('<a>本文已被刪除</a>', 'lxml').a
-                             
-    for article in articles:
-        meta = article.find('div', 'title').find('a') or NOT_EXIST
-        if(meta != NOT_EXIST):
-            link = meta.get('href') 
-            print(link)        #印文章連結
-            searchPage('https://www.ptt.cc'+link,u'我')
-    #next page
-    pageNum=getPrevPage(soup)
-   
+#(forum name, start page, number of pages, foldername)
+foldername = 'ptt_Gossiping'
+startPage = 22600
+pages = 1
+downloadForum('Gossiping', startPage, pages, foldername)
+#(forum name, start page, number of pages, keyword)
+#keyword='推'
+#searchForum('Gossiping', startPage, pages, keyword) 
 end = time.time()
 print('time:', end - start, 'seconds')
 input('Done')
