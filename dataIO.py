@@ -5,7 +5,6 @@ def readTextList(text_list_file):
     text_list = text_list_file.read().split('\n')
 
     print ("Text from file: ")
-    print (text_list)
     listLen = len(text_list)
     word_list_dict = dict()
     i = 0
@@ -15,7 +14,8 @@ def readTextList(text_list_file):
             i += 1
             a_word_type = []
             while (text_list[i] != ''):
-                a_word_type.append(text_list[i])
+                if not ( '/' in text_list[i] ):
+                    a_word_type.append(text_list[i])
                 i += 1
             word_list_dict[type_name] = a_word_type
         elif text_list[i] == '':
@@ -31,6 +31,17 @@ def readForumList(forum_list_file):
     forum_list = forum_list_file.read().split('\n')
     return forum_list
 
+
+def readPickle(filename):
+    with open(filename, 'rb') as read_file:
+        fileContent = pickle.load(read_file)
+    print ("Read pickle from %s" % filename)
+    return fileContent
+
+def writePickle(filename, content):
+    with open(filename, 'wb') as write_file:
+        pickle.dump(content, write_file)
+    print ("Write pickle into '%s'" % filename)
 
 def readWordListDict(word_list_pickle_file):
     with open(word_list_pickle_file, 'rb') as read_file:
@@ -64,6 +75,8 @@ class WordResultWrapper:
         self.titleNum = 0
         self.contentNum = 0
         self.commentNum = 0
+        self.fromMale = 0
+        self.fromFemale = 0
 
     def printWordResult(self):
         #Remove white space for Chinese characters
@@ -71,4 +84,4 @@ class WordResultWrapper:
         #English
         if len(self.wordName) == len(self.wordName.encode()):
             wordLen = 0
-        print ("%-*s %8d %8d %8d" % ((8-wordLen), self.wordName, self.titleNum, self.contentNum, self.commentNum))
+        print ("%-*s %8d %8d %8d %8d %8d" % ((8-wordLen), self.wordName, self.titleNum, self.contentNum, self.commentNum, self.fromMale, self.fromFemale))
