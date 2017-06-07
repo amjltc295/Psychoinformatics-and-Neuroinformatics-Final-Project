@@ -1,11 +1,11 @@
 import requests
-from multiprocessing import Process
+#from multiprocessing import Process
 from bs4 import BeautifulSoup
 import time
-from dataIO import TypeResultWrapper, WordResultWrapper
+import dataIO
 import sys, os
 
-def getPageText(link):    
+def getPageText(link):
     #a = time.time()
     if(link == 'empty'):
         pageText='This page has been deleted.'
@@ -31,14 +31,14 @@ def getContent(soup):
     return main_content
 
 # search an article page
-def searchPage(link,keyWord):    
+def searchPage(link,keyWord):
     t = getPageText(link)
     return searchText(t)
 
 # search from file
 def searchText(text,keyWord):
     #a = time.time()
-    ww = WordResultWrapper(keyWord)
+    ww = dataIO.WordResultWrapper(keyWord)
     soup = BeautifulSoup(text, 'lxml')
     #title
     title = getTitle(soup)
@@ -61,7 +61,7 @@ def searchText(text,keyWord):
     return ww
 
 # get the number of previous page
-def getPrevPage(soup): 
+def getPrevPage(soup):
     prevPage = str(soup.find_all('a', 'btn wide')[1])
     x=str(prevPage).find('index')
     y=str(prevPage).find('.html')
@@ -81,13 +81,14 @@ def downloadPage(filename, forumName, page, link):
     a = time.time()
     pageText = getPageText(link)
     b = time.time()
-    directory = 'ptt/'+forumName+'/'+str(page)+'/'
+    directory = 'ptt/'+forumName+'/'
     if not os.path.exists(directory):
         os.makedirs(directory)
-    f = open(directory+str(page)+'_'+filename+".txt","w")
+    filePath = directory+str(page)+'_'+filename+".txt"
+    f = open(filePath, 'w')
     f.write(link+'\n'+pageText)
     f.close()
-    print('download time:', round(b-a, 2))
+    print(' download to %s, time: %f' % (filePath, round(b-a, 2)))
 
 def searchForum(forumName, startPage, totalPage, keyWord):
     pageNum=startPage
@@ -101,12 +102,12 @@ def searchForum(forumName, startPage, totalPage, keyWord):
         articles = soup.find_all('div', 'r-ent')
 
         NOT_EXIST = BeautifulSoup('<a>本文已被刪除</a>', 'lxml').a
-                                 
+
         for article in articles:
             meta = article.find('div', 'title').find('a') or NOT_EXIST
             if(meta != NOT_EXIST):
-                articleCount += 1
-                link = meta.get('href') 
+                #articleCount += 1
+                link = meta.get('href')
                 print(link)
 
                 searchPage('https://www.ptt.cc'+link, keyWord)
@@ -126,16 +127,16 @@ def downloadForum(forumName, startPage, totalPage):
         articles = soup.find_all('div', 'r-ent')
 
         NOT_EXIST = BeautifulSoup('<a>本文已被刪除</a>', 'lxml').a
-                                 
+
         for article in articles:
             meta = article.find('div', 'title').find('a') or NOT_EXIST
             if(meta == NOT_EXIST):
-                link = 'empty' 
-                print(link)
+                link = 'empty'
+                print(link, end='')
                 downloadPage(str(articleCount), forumName, pageNum, link) #empty page
             else:
-                link = meta.get('href') 
-                print(link)
+                link = meta.get('href')
+                print(link, end='')
                 downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
             articleCount += 1
         #next page
@@ -174,4 +175,4 @@ def main(argv):
 
 if __name__ == '__main__':
     main(sys.argv[1:])
-    
+

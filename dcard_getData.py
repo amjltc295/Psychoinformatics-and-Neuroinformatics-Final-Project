@@ -117,27 +117,45 @@ class DcardWrapper:
                 #for eachPost in result:
                     count += 1
                     #print (eachPost['comments'])
-                    wordInTitles = re.findall(eachWord, eachPost['title'])
-                    if wordInTitles:
-                        wordResultWrapper.titleNum += len(wordInTitles)
-                        if eachPost['gender'] == 'M':
-                            wordResultWrapper.fromMale += len(wordInTitles)
-                        elif eachPost['gender'] == 'F':
-                            wordResultWrapper.fromFemale += len(wordInTitles)
+                    try:
+                        wordInTitles = re.findall(eachWord, eachPost['title'])
+                    except:
+                        print ("")
+                        print ("Error key title", eachPost)
+                        continue
+                    else:
+                    #if wordInTitles:
+                        try:
+                            wordResultWrapper.titleNum += len(wordInTitles)
 
-                    wordInContent = re.findall(eachWord, eachPost['content'])
+                            if eachPost['gender'] == 'M':
+                                wordResultWrapper.fromMale += len(wordInTitles)
+                            elif eachPost['gender'] == 'F':
+                                wordResultWrapper.fromFemale += len(wordInTitles)
+                        except:
+                            print ("")
+                            print ("Error in title",  eachPost['title'])
+                            continue
+
+                    try:
+                        wordInContent = re.findall(eachWord, eachPost['content'])
+                    except:
+                        print ("")
+                        print ("Error key content", eachPost)
+                        continue
+
                     if wordInContent:
                         try:
                             wordResultWrapper.contentNum += len(wordInContent)
+                            if eachPost['gender'] == 'M':
+                                wordResultWrapper.fromMale += len(wordInContent)
+                            elif eachPost['gender'] == 'F':
+                                wordResultWrapper.fromFemale += len(wordInContent)
                         except:
-                            print ("Error in wordInContent: ")
-                            print (wordInContent)
-                            print ("Post: ")
-                            print (eachPost['content'])
-                        if eachPost['gender'] == 'M':
-                            wordResultWrapper.fromMale += len(wordInContent)
-                        elif eachPost['gender'] == 'F':
-                            wordResultWrapper.fromFemale += len(wordInContent)
+                            print ("")
+                            print ("Error in wordInContent: ", wordInContent)
+                            print ("Post: ", eachPost['content'])
+                            continue
 
                     for eachComment in eachPost['comments']:
                         try:
@@ -150,8 +168,9 @@ class DcardWrapper:
                                     elif eachComment['gender'] == 'F':
                                         wordResultWrapper.fromFemale += len(wordInComment)
                         except:
-                            print ("Error in eachComment")
-                            print (eachComment)
+                            print ("")
+                            print ("Error in eachComment", eachComment)
+                            print ("")
 
                 print ("Searching %s in %s ...  %d / %d               " % (eachWord, forumName, self.searching_num, self.searching_num))
                 typeResultWrapper.addWord(wordResultWrapper)
@@ -175,18 +194,18 @@ class DcardWrapper:
             return False
 
 
-def main():
-    welcome_message()
-    dcardWrapper = DcardWrapper()
-    forumName = sys.argv[1]
-    searching_num =  int(sys.argv[2]) if sys.argv[2] != 'i' else dcardWrapper.dcard.forums.infinite_page
-    with open('word_list_female.txt', 'r') as text_list_file:
-        dcardWrapper.word_list_dict = dataIO.readTextList(text_list_file)
-    dcardWrapper.getWordDataFromForum(forumName, searching_num)
+def main(argv):
+    if len(argv) < 2:
+        help_message()
+    else:
+        welcome_message()
+        dcardWrapper = DcardWrapper()
+        forumName = argv[0]
+        searching_num =  int(argv[1]) if argv[1] != 'i' else dcardWrapper.dcard.forums.infinite_page
+        with open('word_list_female.txt', 'r') as text_list_file:
+            dcardWrapper.word_list_dict = dataIO.readTextList(text_list_file)
+        dcardWrapper.getWordDataFromForum(forumName, searching_num)
 
 
 if __name__ == "__main__":
-    if len(sys.argv) <= 2:
-        help_message()
-    else:
-        main()
+    main(sys.argv[1:])
