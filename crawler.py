@@ -84,7 +84,7 @@ def downloadPage(filename, forumName, page, link):
     directory = 'ptt/'+forumName+'/'+str(page)+'/'
     if not os.path.exists(directory):
         os.makedirs(directory)
-    f = open(directory+filename+".txt","w")
+    f = open(directory+str(page)+'_'+filename+".txt","w")
     f.write(link+'\n'+pageText)
     f.close()
     print('download time:', round(b-a, 2))
