@@ -1,0 +1,252 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495067580.A.388.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「照鏡子就揪出洩密者」　川普爆美國情災 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:上報
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:「照鏡子就能揪出洩密者」　川普引爆美國情報災難
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「照鏡子就揪出洩密者」　川普爆美國情災">
+<meta property="og:description" content="1.媒體來源:上報
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:「照鏡子就能揪出洩密者」　川普引爆美國情報災難
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495067580.A.388.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495067580.A.388.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lsyiiin (curl)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「照鏡子就揪出洩密者」　川普爆美國情災</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 08:32:57 2017</span></div>
+1.媒體來源:上報
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+
+2.完整新聞標題:「照鏡子就能揪出洩密者」　川普引爆美國情報災難
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+
+日前，美國總統川普（Donald Trump）被外媒爆出，10日會晤俄國外交部長拉夫洛夫（
+Sergei Lavrov）和俄國駐美大使基斯里爾克（Sergei Kislyak）時，透露有關恐怖組織
+「伊斯蘭國」（Islamic State，IS）恐攻行動的情報，而該情報被列為最高機密。
+
+對此，川普16日在推特（Twitter）上回應：「作為總統，我想和俄羅斯分享，而我也有
+絕對權利這麼做。」另一則寫道：「我從上任時就要求過柯米（FBI局長）和其他人，要
+找出在情報單位裡的洩密者。」
+
+
+&#34;如今要找到洩密者很簡單，川普只要照照鏡子就行了。&#34;
+
+
+《路透》（Reuters）16日報導，川普洩漏情資給俄國官員，可能間接幫助戰略上的敵人
+。川普的作為雖在技術上不犯法，但也許會為美國帶來險峻的後果。
+
+
+洩密造成危害
+
+
+在美國情報界中，總統就像國王一樣，當總統說某件情資為機密時，該情資就是美國機密
+；若總統想要在推特上公布核彈發射密碼，也沒有人能阻止他。
+
+但總統洩漏情報仍有些限制，例如：川普透漏給俄國官員的情資就是不能被分享的。據報
+導，透漏IS行動細節給美國的情報來源，來自中東區域的盟邦（以色列），因此來源必須
+保密，情資也不能與他國分享，而川普很明顯逾越了界線。
+
+川普向俄國誇耀他所知的IS情資，無疑是在戰爭時期，向中東地區的戰略敵人洩漏同盟的
+情資。川普背叛同盟對美國的信任，而這份好不容易才建立起的信任再也不會回來。沒有
+信任，同盟不會再向美國提供情報，沒有情報，中東地區的戰爭可能導致更多人死亡。
+
+前總統布希（George W. Bush）的國務院高階顧問柯恩（Elliot A. Cohen）以「叛國罪
+」的嚴重罪名譴責川普，他說：「這犯下滔天大罪。若是意外，對任何人都是嚴重的冒犯
+；若是故意，那就是叛國罪。」
+
+川普在過去一周的所作所為，對美國情報單位造成沉痛的打擊，他似乎還沒搞清楚如何運
+用情資、運用失敗的後果，以及當總統隨意輕視情資的重要性，為什麼會發生災難。
+
+
+重傷美國情報單位
+
+
+川普在上任短短4個月內，對美國情資單位、美國盟邦以及聯盟關係所造成的傷害，可能
+需要未來4年的時間才能修復，也可能無法修復。
+
+川普曾將美國中央情報局（Central Intelligence Agency，CIA）與納粹相比，也曾稱聯
+邦調查局（FBI）對俄國影響2016年美國總統大選的調查，是一場詐欺的騙局。
+
+川普開除FBI局長柯米（James Comey）讓FBI士氣低落，被外界質疑開除的時機點敏感，
+柯米卸職前正主導調查川普的競選團隊是否與俄國交涉。《路透》分析，川普此舉可能妨
+礙司法。
+
+
+自己人也無法護航
+
+
+川普邀請他的俄國官員到白宮，並向他們吹噓情資。其中一位官員，俄國駐美大使基斯里
+爾克，正是與前國家安全顧問弗林（Michael Flynn）聯繫者，也是造成弗林下台的主因
+。
+
+當川普洩密的爭議爆發，現任國家安全顧問麥馬斯特（H.R. McMaster）緊急出面滅火並
+否認：「沒有討論任何機密情報，總統也沒有洩露任何尚未公開的軍事行動，我當時也在
+場，並沒有這回事。」然而川普稍後卻在推特上打臉；「作為總統，我想和俄羅斯分享，
+而我也有絕對權利這麼做。」
+
+如今，麥馬斯特承認，川普確實不經詳慮地與俄國官員分享了機密。
+
+麥馬斯特的最新說法是：「總統沒有注意這則情資的來源。」若此事為真，就如希拉蕊處
+理郵件訊息一樣，川普也「極度粗心大意」。
+
+
+自掘墳墓
+
+
+前總統布希的白宮律師戈德史密斯（Jack Goldsmith）認為，川普此舉可能構成濫用權力
+。
+
+他分析：「若總統在便利貼上寫下核彈發射密碼，然後拍下上傳到推特，這在技術上不違
+法，但是我們知道，這種程度的怠職已經違反了他在宣誓就職時的誓詞。」美國總統宣誓
+就職的誓詞提到：「保衛我們的政府，免受非法手段顛覆推翻。」
+
+他也表示：「（向他國透露敏感情報）蠻接近叛國罪條文的敘述，因此，以法律而言，即
+使沒有明顯的犯罪證明，川普此舉仍是自掘墳墓。」
+
+川普洩漏情資給俄國官員，可能間接幫助敵人推翻美國政府。他的作為雖在技術上不犯法
+，但也許會為美國帶來險峻的後果。
+
+
+
+4.完整新聞連結 (或短網址):<a href="http://upmedia.mg/news_info.php?SerialNo=17290" target="_blank" rel="nofollow">http://upmedia.mg/news_info.php?SerialNo=17290</a>
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+
+5.備註:川普起飛囉～\讓美國再次偉大/
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.137.247.251
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495067580.A.388.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495067580.A.388.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohrring</span><span class="f3 push-content">: 要搞我？挖洞給你跳ㄏㄏ</span><span class="push-ipdatetime"> 05/18 08:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amwkscl</span><span class="f3 push-content">: 美國中天，希粉還在鬧</span><span class="push-ipdatetime"> 05/18 08:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TaiwanHero</span><span class="f3 push-content">: 美國史上最糟的總統快要毫無爭議惹    lol</span><span class="push-ipdatetime"> 05/18 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 想起李登輝講的空包彈</span><span class="push-ipdatetime"> 05/18 08:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colbert0626</span><span class="f3 push-content">: 該不會要被民主及共和黨聯合弄下台吧</span><span class="push-ipdatetime"> 05/18 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">durant1224</span><span class="f3 push-content">: 他快完蛋了</span><span class="push-ipdatetime"> 05/18 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 李登輝的空包彈是新黨編的謠言要攻擊李登輝的啦</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Toge</span><span class="f3 push-content">: 美國人自己選的，世界最蠢民族無誤</span><span class="push-ipdatetime"> 05/18 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colbert0626</span><span class="f3 push-content">: 好奇的是新黨怎麼知道對岸是空包彈呢?</span><span class="push-ipdatetime"> 05/18 08:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qaz12wsx45</span><span class="f3 push-content">: 龍婆表示：</span><span class="push-ipdatetime"> 05/18 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OrangeBay</span><span class="f3 push-content">: 美國李登輝</span><span class="push-ipdatetime"> 05/18 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JerryLian</span><span class="f3 push-content">: 美國老掉牙的反蘇聯勢力 跟9.2一樣難以根治</span><span class="push-ipdatetime"> 05/18 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 這道理不難啊, 空包彈又不是什麼機密, 全世界情報機關</span><span class="push-ipdatetime"> 05/18 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 都可以自己推理出來的, 最好是因為這種事情害間諜被抓</span><span class="push-ipdatetime"> 05/18 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 空包彈是李登輝講的不是新黨講的, 新黨編的故事是</span><span class="push-ipdatetime"> 05/18 08:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 這套路陳水扁跟葉盛茂 司法找其中一個加壓看會不會成為破</span><span class="push-ipdatetime"> 05/18 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 口</span><span class="push-ipdatetime"> 05/18 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 「李講空包彈害間諜被抓」.  實際間諜是因為香港那邊</span><span class="push-ipdatetime"> 05/18 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 有人倒戈才導致我們安插在中國的內鬼被抓</span><span class="push-ipdatetime"> 05/18 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bightm12400</span><span class="f3 push-content">: 空軍振奮</span><span class="push-ipdatetime"> 05/18 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">preattyall</span><span class="f3 push-content">: 川粉怎麼不見了？</span><span class="push-ipdatetime"> 05/18 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dslite</span><span class="f3 push-content">: 幹靈糧 股價跌慘了</span><span class="push-ipdatetime"> 05/18 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamkandt</span><span class="f3 push-content">: 反正美國人喜歡</span><span class="push-ipdatetime"> 05/18 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yiersan</span><span class="f3 push-content">: 廢物左派最後掙扎罷了</span><span class="push-ipdatetime"> 05/18 09:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rnmrn</span><span class="f3 push-content">: 小心變成美國最後一任總統</span><span class="push-ipdatetime"> 05/18 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silstone</span><span class="f3 push-content">: 總統了不起連任一次 和普丁搭上關係 一輩子吃香喝辣</span><span class="push-ipdatetime"> 05/18 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dogbydog</span><span class="f3 push-content">: 美國李登輝</span><span class="push-ipdatetime"> 05/18 10:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 我只看到帥哥</span><span class="push-ipdatetime"> 05/18 11:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: 吱吱大崩潰</span><span class="push-ipdatetime"> 05/19 15:21
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495067580.A.388.html?cacheKey=2052-49336362&offset=6925&offset-sig=4769b7cb9657dd3fa5c22375d8b786b942efd9ec" data-longpollurl="/v1/longpoll?id=26e847895874cafc5d9c0a980532ab6643674d94" data-offset="6925"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

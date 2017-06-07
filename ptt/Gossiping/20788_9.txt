@@ -1,0 +1,237 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495462482.A.0AD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 機師疑在機上睡覺　台灣虎航：不會懲處 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="為什麼會有一堆人說這副機師沒錯 = =
+這根本不叫做 不會解決問題，但會解決提出問題的人
+以飛航安全的角度而言 兩邊都有錯  但副機師行為本來就很可議
+1.PIC閉眼不一定等於在睡覺
+2.看到左邊閉眼睛應該是先確定他是不是真的在睡覺
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 機師疑在機上睡覺　台灣虎航：不會懲處">
+<meta property="og:description" content="為什麼會有一堆人說這副機師沒錯 = =
+這根本不叫做 不會解決問題，但會解決提出問題的人
+以飛航安全的角度而言 兩邊都有錯  但副機師行為本來就很可議
+1.PIC閉眼不一定等於在睡覺
+2.看到左邊閉眼睛應該是先確定他是不是真的在睡覺
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495462482.A.0AD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495462482.A.0AD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ttnakafzcm (燦&#39;s)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 機師疑在機上睡覺　台灣虎航：不會懲處</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 22:14:39 2017</span></div>
+為什麼會有一堆人說這副機師沒錯 = =
+
+這根本不叫做 不會解決問題，但會解決提出問題的人
+
+以飛航安全的角度而言 兩邊都有錯  但副機師行為本來就很可議
+
+1.PIC閉眼不一定等於在睡覺
+
+2.看到左邊閉眼睛應該是先確定他是不是真的在睡覺
+  若是真的在睡覺 請叫醒他而不是拍照
+
+3.就算要檢舉  應該要落地後馬上去檢舉  放了一年才檢舉這心態本就有問題
+
+如果落地後馬上去檢舉  說不定還可以調CVR出來確認是不是真的在睡覺 = =
+
+放了一年才檢舉  被拍的人根本死無對證  說不定是閉眼瞬間被拍照  其實根本沒睡
+
+以座艙資源管理Cockpit Resource Management的角度而言  這機師本來就該被懲處
+
+TMD你看到隔壁在睡覺第一時間不是叫醒他而是先拿出手機拍照
+
+飛安是這樣搞得?
+
+
+還有   以台灣的規定而言  你要睡  請去組員休息艙Crew Bunk或是後面的乘客區休息
+
+在駕艙睡覺是不合法的
+
+--
+                                       <span class="f1 hl">▌                           </span><span class="f3 hl">σ</span>
+                                     <span class="f0 b1">▋</span><span class="f1 hl">▋                        </span><span class="f0">◢</span><span class="f5 b5">    </span><span class="f5">◣</span><span class="f0"> </span>◢◤
+<span class="b1">     </span><span class="b1 hl">有ＰＴＴ使用上的問題嗎？      </span><span class="hl">   </span><span class="b1 hl">  </span><span class="f1 hl">▌ </span><span class="f1 b1 hl"> </span><span class="f0 b1">◥</span><span class="f0 b1"> </span><span class="f1 hl">▍</span><span class="f1">◢</span><span class="f1 b1 hl">◣</span><span class="f0 b1">▍</span><span class="f1 b1 hl">▆</span><span class="f0 b1">▌</span><span class="f1 hl">▌</span><span class="f0 b1">  </span><span class="f0"> </span>◣<span class="b5"> </span><span class="f5 b7">◤</span><span class="b5">◢</span><span class="f5 b5"> </span>◢<span class="b7 hl">“</span>◤<span class="f0 b1"> </span>
+                                     <span class="f0 b1">▍</span><span class="f0"> </span><span class="f0 b1"> </span><span class="f1 hl">▎</span><span class="f1 b1"> ◣</span><span class="f1">▊ </span><span class="f1 b1"> </span><span class="f1">◤</span><span class="f1 hl">  </span><span class="f1 b1 hl"> </span><span class="f1">▅</span><span class="f0 b1">▌</span><span class="f1 hl">▍</span><span class="f0">   </span>◤<span class="b5"> </span><span class="f0 b7">^ ^ </span><span class="f0 b5"> </span><span class="b7">◥</span>◣
+<span class="b4"> </span><span class="b4 hl"> 按 hh 會有〝小天使〞為你解惑唷！ </span><span class="hl">  </span><span class="f0 b1">▎ </span><span class="f1">▉ </span><span class="f1 b1"> </span><span class="f1">▎</span><span class="f1">▊</span><span class="f0 b1">▎</span><span class="f0"> </span><span class="f1">▅ </span><span class="f1 b1"> </span><span class="f0 b1">▆▌</span><span class="f1">▍</span><span class="f1 b4">  </span><span class="f1">  </span>◥<span class="hl">/</span><span class="f3 b3 hl">: </span><span class="b3 hl">\</span><span class="f5">◤</span>   <span class="b4">   </span>
+<span class="f4">φseven                             </span><span class="f0 b1">◤</span><span class="f1">▍◥</span><span class="f1"> </span><span class="f1 b1"> </span><span class="f1">▎▋◥</span><span class="f1 b1"> </span><span class="f1">▋</span><span class="f0 b1">▍</span><span class="f1 b1">▇</span><span class="f0 b1">▍</span><span class="f1 b1">▇</span><span class="f1">   </span><span class="f0">◢</span><span class="f1 b1"> </span><span class="b1 hl">√√  </span><span class="f1">◣</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.136.122.76
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495462482.A.0AD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495462482.A.0AD.html</a>
+</span><span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:17:21
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc1217</span><span class="f3 push-content">: 想知道最後一段為什麼不行</span><span class="push-ipdatetime"> 05/22 22:17
+</span></div>台灣民航法規定不行  但國外有的國家可以  有相關程序.....
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:17:54
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 落地後馬上去檢舉 =&gt; 副機師從此黑掉,丟頭路</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 他之所以花一年拍不只一位機師的這些情況是很容易理解的</span><span class="push-ipdatetime"> 05/22 22:24
+</span></div>蛤  黑人問號  所以不叫醒機長反而拍照就很正確?
+
+你永遠工作不打瞌睡?
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:25:01
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 實際情況 <a href="https://www.youtube.com/watch?v=_nhxm5QEbYI" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=_nhxm5QEbYI</a></span><span class="push-ipdatetime"> 05/22 22:25
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/_nhxm5QEbYI" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 你是&#34;副&#34;的,人家是資深老鳥,最好你會叫他不准睡</span><span class="push-ipdatetime"> 05/22 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ttnakafzcm</span><span class="f3 push-content">: 以維護飛安角度而言  不去叫醒本來就有問題......= =</span><span class="push-ipdatetime"> 05/22 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 駕駛配置一正一副,飛機配有自動駕駛..等等,這些並不是為</span><span class="push-ipdatetime"> 05/22 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 了讓機師打瞌睡而設計設置的</span><span class="push-ipdatetime"> 05/22 22:33
+</span></div>我同意阿 問題在於你看到隔壁打瞌睡不叫醒他 卻拍照檢舉   這被懲處真的剛好而已
+
+打瞌睡我可沒說絕對沒問題-.-
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:34:52
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">:       在座位上</span><span class="push-ipdatetime"> 05/22 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 電影裡丹佐華盛頓就是把降的方便當成隨便,直接睡死在座位</span><span class="push-ipdatetime"> 05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 閉眼瞬間被拍，一睜眼就衝三小罵出來了</span><span class="push-ipdatetime"> 05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 還會被爆料？護航也請用點腦好嗎？</span><span class="push-ipdatetime"> 05/22 22:34
+</span></div>誰跟你在護航了  我有說打瞌睡的機師沒錯? 黑人問號....
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:35:39
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 機師如果要每天玩那麼累，上飛機就睡…</span><span class="push-ipdatetime"> 05/22 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 辭一辭好嗎？為了乘客著想</span><span class="push-ipdatetime"> 05/22 22:36
+</span></div>= =  你很明顯沒把文章看好看滿    我明明是說兩邊都有錯.........
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:38:12
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 我沒說機長沒錯 但請檢討FO 這還不叫護航 XD</span><span class="push-ipdatetime"> 05/22 22:38
+</span></div>我有說機長不用檢討?   登愣  又一個沒把文章看完的...
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:39:20
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 你沒考慮到現實中誰敢叫機長起床 空中浩劫一堆這種</span><span class="push-ipdatetime"> 05/22 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 空難</span><span class="push-ipdatetime"> 05/22 22:39
+</span></div>
+告訴你 我空中浩劫全集都有   ....
+
+另外再跟你說 接下來有GE235 下一季有GE222
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 睜眼說瞎話，大概是機師要練的專長XDD</span><span class="push-ipdatetime"> 05/22 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 睜眼就不會被拍了</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 張飛一定很適合當機師</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 睡好睡滿啊～～</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div>為啥要把文章看成非A即B阿 問號
+
+我可沒說機師在駕艙睡覺是OK的   可是你TMD 隔壁看到機長在睡不去叫醒他?
+
+這到底為啥不用檢討 蛤?
+<span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:45:12
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 光是你一直強調是閉眼不一定睡覺 就知道是護航啦</span><span class="push-ipdatetime"> 05/22 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">:  閉眼閉到躺下來 我知道你會說難道閉眼不能躺嗎 我</span><span class="push-ipdatetime"> 05/22 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 先破哏</span><span class="push-ipdatetime"> 05/22 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 請告知閣下在哪家航空服務拜託拜託</span><span class="push-ipdatetime"> 05/22 22:44
+</span></div><span class="f2">※ 編輯: ttnakafzcm (220.136.122.76), 05/22/2017 22:45:45
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 機長身為PIC 本來就身負重任 除非他事先告知FO如果</span><span class="push-ipdatetime"> 05/22 22:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 他打瞌睡請叫醒他 誰敢叫教官起來 菜就是該死</span><span class="push-ipdatetime"> 05/22 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 菜就是該死，就算可以匿名爆料也實在很好回推</span><span class="push-ipdatetime"> 05/22 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 你又知道他不是拍完照再叫醒？</span><span class="push-ipdatetime"> 05/22 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 閉眼都不是睡覺了廠廠</span><span class="push-ipdatetime"> 05/22 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 會讓人想檢舉鐵定是累犯，方便當隨便又逼菜吞</span><span class="push-ipdatetime"> 05/22 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">horcetian</span><span class="f3 push-content">: 聽過不少靠這種抓耙子手段陰人或賺一手的，遇到算衰小</span><span class="push-ipdatetime"> 05/22 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 其他行業也許會得利 但在民航界 這位FO跟自殺沒兩</span><span class="push-ipdatetime"> 05/22 23:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 樣 他動機絕不可能是上位或得利 動機絕對是其他</span><span class="push-ipdatetime"> 05/22 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mustangccx</span><span class="f3 push-content">: 發現問題然後擴大問題不就好棒棒</span><span class="push-ipdatetime"> 05/22 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 沒擴大問題你怎知問題在哪 空難常常就是忽略問題或</span><span class="push-ipdatetime"> 05/22 23:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 隱瞞問題 裝聾作啞 更好棒棒</span><span class="push-ipdatetime"> 05/22 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">satosi011</span><span class="f3 push-content">: 副機師叫解決問題? 當場把正機師叫起來才對吧.....</span><span class="push-ipdatetime"> 05/23 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">satosi011</span><span class="f3 push-content">: 打瞌睡很危險 又不敢叫資深機師起來? 副機師對飛安的標</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">satosi011</span><span class="f3 push-content">: 準也是低的可笑</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnsonliang</span><span class="f3 push-content">: 你正確 幫補血</span><span class="push-ipdatetime"> 05/23 00:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mustangccx</span><span class="f3 push-content">: 花一年收集就不是隱匿？時效性啊！空難會等你一年？</span><span class="push-ipdatetime"> 05/23 01:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mustangccx</span><span class="f3 push-content">: 這就叫放任擺爛縱容啦</span><span class="push-ipdatetime"> 05/23 01:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: FO也確實沒盡責 但看到只檢討FO就知道 有多可笑了</span><span class="push-ipdatetime"> 05/23 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">:  搞不清楚PIC責任</span><span class="push-ipdatetime"> 05/23 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 民航潛規則啦 教官等於你老闆 他拍照被罵 一堆連拍</span><span class="push-ipdatetime"> 05/23 10:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 都不敢拍 你以為其他FO真的會叫醒教官啊</span><span class="push-ipdatetime"> 05/23 10:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 這FO被認為沒即時叫醒教官 應該懲處 這沒錯 但這每</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 天都在航班上發生 只是這名FO白目點出來潛規則 結果</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 被砲  那以後誰敢當吹哨者</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imfanyun</span><span class="f3 push-content">: 搞不好副機師有叫 但沒被理 才會拍照 這也是種可能啊！</span><span class="push-ipdatetime"> 05/23 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mustangccx</span><span class="f3 push-content">: 只檢討FO？虎航是沒約談PIC嗎？難道要未審先判？</span><span class="push-ipdatetime"> 05/23 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mustangccx</span><span class="f3 push-content">: 一堆搞不好就是大家看照片說故事嘛，有掛快爆求打臉</span><span class="push-ipdatetime"> 05/23 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 都被懲處了 還看圖說故事勒 睡覺難道要打呼才算嗎</span><span class="push-ipdatetime"> 05/23 15:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">:  這不是跟性侵犯說我有進去但沒射一樣</span><span class="push-ipdatetime"> 05/23 15:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">policeman180</span><span class="f3 push-content">: 飛安犯錯不可怕 可怕的是覺得自己沒錯</span><span class="push-ipdatetime"> 05/23 16:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495462482.A.0AD.html?cacheKey=2052-37098331&offset=8965&offset-sig=b45abf4cb53de4df90d8f5848c7c438bb9e72f07" data-longpollurl="/v1/longpoll?id=6cd977d32868be0d68d27144c4f9cd0e5180d1ca" data-offset="8965"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

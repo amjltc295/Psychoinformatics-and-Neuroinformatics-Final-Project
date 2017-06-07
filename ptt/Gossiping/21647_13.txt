@@ -1,0 +1,179 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496040178.A.EC3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 為了6袋蕉 果農打死偷蕉賊 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我只想知道 這件事情
+對於不敢檢討受害人的潮潮來說
+是不該檢討被偷的受害人
+還是不該檢討被打死的受害人
+大家覺得呢
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 為了6袋蕉 果農打死偷蕉賊">
+<meta property="og:description" content="我只想知道 這件事情
+對於不敢檢討受害人的潮潮來說
+是不該檢討被偷的受害人
+還是不該檢討被打死的受害人
+大家覺得呢
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496040178.A.EC3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496040178.A.EC3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">michaelwu (我是阿鋪)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 為了6袋蕉 果農打死偷蕉賊</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 14:42:56 2017</span></div>
+<span class="f2">※ 引述《dedeka (得得卡)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: ※ 例如蘋果日報、奇摩新聞
+</span><span class="f6">: 中時
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: ※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+</span><span class="f6">: 為了6袋蕉 果農打死偷蕉賊
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: ※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!
+</span><span class="f6">: 只為6袋香蕉，屏東高樹鄉偷蕉賊，慘遭蕉農活活打死！27日早上7點半左右，舊寮村38歲
+</span><span class="f6">: 蕉農楊健宏，接到母親通知，趕赴蕉園抓賊，鄭姓竊賊持鐮刀對抗，不料，楊某成功壓制
+</span><span class="f6">: 、捆綁鄭男後，一氣之下持撐香蕉樹的竹管，將偷蕉賊鄭男打死，楊父直到中午才報警。
+</span><span class="f6">: 楊嫌辯稱失手打死人，訊後被依傷害致死罪嫌移送，法官昨日裁定收押，楊父氣憤指出，
+</span><span class="f6">: 今年至今，蕉園已遭竊7次，大嘆「台灣牛做到死，就賠給吸毒的」。
+</span><span class="f6">: 氣瘋了 蕉園已遭竊7次
+</span><span class="f6">: 警方調查，50歲鄭姓死者住高雄茂林，有公共危險、侵占前科，但無竊盜記錄，目前
+</span><span class="f6">: 從事割椰子工作，27日他自作主張，開著老闆的小貨車，前往沿山公路旁的蕉園偷蕉，他
+</span><span class="f6">: 割完6串套袋香蕉，放在車上時，被趕來的楊嫌發現，楊怒持竹管追打他，鄭男拿鐮刀對
+</span><span class="f6">: 峙，但因鄭身形瘦小，當下即遭身高170多公分的楊男制伏。
+</span><span class="f6">: 疑虐殺 3關係人待釐清
+</span><span class="f6">: 楊壓倒死者後，拿繩子綑綁對方手腳，但並未立即報警處理，直到中午12點半，楊父看鄭
+</span><span class="f6">: 男身體狀況不對，似乎已失去意識，才報警處理。警方到場後，見到鄭男全身沾滿泥巴，
+</span><span class="f6">: 倒在地上，手腳雖已鬆綁，但也無生命跡象，楊則主動拿出繩子，坦承有毆打對方，但強
+</span><span class="f6">: 調，只在綑綁之前打人，一切都是他一人所為。
+</span><span class="f6">: 楊還說，2人對峙數分鐘後，他即成功壓制對方，並捆綁鄭男，但到10時左右鬆綁，還買
+</span><span class="f6">: 水給他喝；楊嫌解釋，當下不報警，是因為在等待是否還有共犯出現，該段期間，真的沒
+</span><span class="f6">: 再打他，都只是在質問他，為什麼要偷蕉、偷了幾次、有無共犯等問題。
+</span><span class="f6">: 遭收押 大嘆像牛做到死
+</span><span class="f6">: 然而，警方在現場找到3名關係人，3人指出，是楊嫌找他們到園裡，指認死者是否為最近
+</span><span class="f6">: 頻頻犯案的偷蕉賊，但楊卻稱是找這3名友人幫忙抓賊。警方指出，因為雙方供詞有出入
+</span><span class="f6">: ，加上案發後5小時的過程未明，全案仍在調查中，將釐清是否多人合力虐死竊賊。
+</span><span class="f6">: 警方表示，初步相驗結果顯示，死者手部、背部有遭毆打傷痕，主要致死原因，有待檢察
+</span><span class="f6">: 官擇日解剖複驗。
+</span><span class="f6">: 楊嫌向警方苦嘆「很倒楣」，香蕉被偷就算了，賊還死在園內，自己真是一時氣憤才失手
+</span><span class="f6">: 。楊父則說，今年香蕉已經被偷7次，光4月，就被偷了3次，苦嘆「台灣牛做到死，就賠
+</span><span class="f6">: 給吸毒的」，怎叫人不生氣？
+</span><span class="f6">: 據了解，1串套袋香蕉約25至30公斤，目前1公斤價格約30元，因此，楊嫌遭竊的香蕉要價
+</span><span class="f6">: 大約介於4500元至5400元，為了數千元，鬧出一條命，有人感到不值，但也有地方民眾怒
+</span><span class="f6">: 指，死者就是最近竊蕉案頻傳的禍源，楊嫌失手殺人，應減輕刑責。
+</span><span class="f6">: ★保護自己、遠離毒品 中時電子報與你一起拒絕毒害！
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: ※ 當新聞連結過長時，需提供短網址方便網友點擊
+</span><span class="f6">: <a href="https://goo.gl/q1QeJc" target="_blank" rel="nofollow">https://goo.gl/q1QeJc</a>
+</span><span class="f6">: 5.備註:
+</span><span class="f6">: ※ 一個人一天只能張貼一則新聞，被刪或自刪也算額度內，超貼者水桶，請注意
+</span><span class="f6">: 總比標題變成：「蕉農慘遭毒蟲持鐮刀砍死」好吧？
+</span>
+我只想知道 這件事情
+對於不敢檢討受害人的潮潮來說
+是不該檢討被偷的受害人
+還是不該檢討被打死的受害人
+
+大家覺得呢
+不檢討誰比較潮
+比較多台女會覺得自己被溫暖到了 來取暖
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.137.221.98
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496040178.A.EC3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496040178.A.EC3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 檢討肥宅啊 嘴那麼臭又法盲</span><span class="push-ipdatetime"> 05/29 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">randall1234</span><span class="f3 push-content">: 推1樓</span><span class="push-ipdatetime"> 05/29 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 檢討先犯法的那個</span><span class="push-ipdatetime"> 05/29 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xupmc</span><span class="f3 push-content">: 換成是你 你家的東西被垃圾一偷再偷你要怎麼辦?</span><span class="push-ipdatetime"> 05/29 14:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xupmc</span><span class="f3 push-content">: 要賠他賠不出來  要關監獄沒位置關小犯  只好放出來繼續偷</span><span class="push-ipdatetime"> 05/29 14:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SamDalembert</span><span class="f3 push-content">: 家裡有孕婦的都要賠了 香蕉園裡有啥? 殺人就輸了</span><span class="push-ipdatetime"> 05/29 14:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alladult</span><span class="f3 push-content">: 上學遲到不用打死嗎?以後還會有人乖乖準時上課嗎?</span><span class="push-ipdatetime"> 05/29 15:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496040178.A.EC3.html?cacheKey=2052-1893600&offset=3672&offset-sig=70e3ddfd615bdc5a6c509bd9896788bcb5bb7b3d" data-longpollurl="/v1/longpoll?id=775597b914e6ceabf511b82cd064b7fd2446c218" data-offset="3672"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

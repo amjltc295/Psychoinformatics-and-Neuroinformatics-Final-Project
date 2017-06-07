@@ -1,0 +1,158 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496763980.A.7B7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 顯示健康狀況，科學家研發可變色紋身 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+科技新報
+2.完整新聞標題:
+顯示健康狀況，科學家研發可變色紋身
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 顯示健康狀況，科學家研發可變色紋身">
+<meta property="og:description" content="1.媒體來源:
+科技新報
+2.完整新聞標題:
+顯示健康狀況，科學家研發可變色紋身
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496763980.A.7B7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496763980.A.7B7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">csi9507121 (Corydoras)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 顯示健康狀況，科學家研發可變色紋身</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 23:46:17 2017</span></div>
+1.媒體來源:
+科技新報
+
+2.完整新聞標題:
+顯示健康狀況，科學家研發可變色紋身
+
+3.完整新聞內文:
+
+紋身的原因林林總總，有些人為了紀念逝去的感情，有人為了美觀，甚或宗教信仰。雖然
+至今仍然不少人對紋身持負面態度，以有色眼鏡看待紋身的人，認為他們是壞人，不過在
+未來，紋身可能是一種人人都會做、且對身體健康有益的事。
+
+
+麻省理工和哈佛大學的科研人員合作，正在研發一款新型的紋身墨水 DermalAbyss，它取
+代傳統的墨水，在刺入皮膚後會對健康變化有反應。DermalAbyss 紋身墨水能偵測皮膚的
+血糖、鈉或酸鹼值轉變，紋身的顏色也會隨之轉變，科研人員舉例指糖尿病患者只需察看
+紋身就能得知胰島素情況。現在研究人員已在豬皮上測試 DermalAbyss，未來或可用於人
+體。
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/3ZO465" target="_blank" rel="nofollow">https://goo.gl/3ZO465</a>
+
+5.備註:
+這油墨的醫療及市場潛力極高
+
+因為這油墨能測量血糖高低
+
+那理論上應該也能發展出測量腫瘤標記的油墨
+
+如果能做出測量AFP、CEA、CA 19-9的紋身油墨
+
+應該能挽救不少罹癌初期的病患
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.251.52.208
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496763980.A.7B7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496763980.A.7B7.html</a>
+</span><span class="f2">※ 編輯: csi9507121 (111.251.52.208), 06/06/2017 23:47:57
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 酷</span><span class="push-ipdatetime"> 06/06 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack168168tw</span><span class="f3 push-content">: 刺下去直接變色…而且是無法醫的那種 崩潰</span><span class="push-ipdatetime"> 06/06 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 看成變身刺青</span><span class="push-ipdatetime"> 06/06 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 全身要圖滿圖好</span><span class="push-ipdatetime"> 06/06 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alprazolam</span><span class="f3 push-content">: 8+9退燒了</span><span class="push-ipdatetime"> 06/06 23:47
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496763980.A.7B7.html?cacheKey=2052-9554154&offset=1678&offset-sig=7ccb2119169b1e32283aeff4f01de6ee8b04c3ee" data-longpollurl="/v1/longpoll?id=86d2d3133b24c7632bc48e3d55a57224509dd0be" data-offset="1678"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

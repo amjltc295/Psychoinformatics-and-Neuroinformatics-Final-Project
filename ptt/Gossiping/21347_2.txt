@@ -1,0 +1,178 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495815132.A.B09.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 會計跟財金要選哪一個 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="跟你說啦，絕對是會計，財金學的東西有夠淺，
+什麼個經總經財管，通通輸會計系學的，
+財管學的內容很像會計系的成管會，但是又不貼近實務，成本會計很貼近實務，
+個經總經絕大部分都是供給需求，無聊，
+會計系的審計學就是財報啦，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 會計跟財金要選哪一個">
+<meta property="og:description" content="跟你說啦，絕對是會計，財金學的東西有夠淺，
+什麼個經總經財管，通通輸會計系學的，
+財管學的內容很像會計系的成管會，但是又不貼近實務，成本會計很貼近實務，
+個經總經絕大部分都是供給需求，無聊，
+會計系的審計學就是財報啦，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495815132.A.B09.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495815132.A.B09.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cpz (我是閃亮亮的鑽石)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 會計跟財金要選哪一個</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 00:12:08 2017</span></div>
+<span class="f2">※ 引述《lebron860330 (抽抽)》之銘言：
+</span><span class="f6">: 剛剛沒選分類，所以重發一次
+</span><span class="f6">: 小弟原本讀資工，微積分 離散 線性代數…這些要讀的都可以過，但只要跟寫程式有關的
+</span><span class="f6">: ，沒興趣也沒能力，不喜歡一直盯著電腦做白工，念不太下去了
+</span><span class="f6">: 去做一個叫UCAN的線上測驗，發現自己興趣跟商科比較符合，假如要轉會計或財金，這兩
+</span><span class="f6">: 科系需要有哪方面的特質跟專長，或者需要做哪些準備
+</span><span class="f6">: 好像聽說中會很難，是難在需要什麼特殊思維嗎？那財金有沒有很困難的科目？
+</span><span class="f6">: 希望有讀過會計跟財金或有類似經驗的能替小弟解答，謝謝
+</span>
+
+
+跟你說啦，絕對是會計，財金學的東西有夠淺，
+
+什麼個經總經財管，通通輸會計系學的，
+
+財管學的內容很像會計系的成管會，但是又不貼近實務，成本會計很貼近實務，
+
+個經總經絕大部分都是供給需求，無聊，
+
+會計系的審計學就是財報啦，
+
+教你怎樣抓財報舞弊還是錯誤，
+
+中會也是會計系學的深，
+
+這個學起來，資產評價都不用擔心，商學院精隨。
+
+
+
+--
+         冬月之金，形寒性冷；木多則難施琢削之功；水盛未免沉潛之患。
+                 土能制水，金體不寒，火來助土，子母成功，
+                     喜比肩聚氣相扶，欲官印溫養為利。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.41.150.195
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495815132.A.B09.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495815132.A.B09.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuugen2</span><span class="f3 push-content">: 喔，所以財金畢業後?</span><span class="push-ipdatetime"> 05/27 00:13
+</span></div>
+
+拉保險賣基金考桂圓啊，你不知道政大財管大學畢業，
+
+金融海嘯那陣子多慘，都去賣保險惹。
+
+
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uytqazescf</span><span class="f3 push-content">: 我選國貿因為妹比較正</span><span class="push-ipdatetime"> 05/27 00:13
+</span></div><span class="f2">※ 編輯: cpz (114.41.150.195), 05/27/2017 00:14:32
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fabledqqman</span><span class="f3 push-content">: 會計 出路超廣 選我正解</span><span class="push-ipdatetime"> 05/27 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s1994314</span><span class="f3 push-content">: 但他媽 會計沒慧根真的不好唸</span><span class="push-ipdatetime"> 05/27 00:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 財金不是有錢人交朋友的地方嗎 沒錢的還是去會計爆肝吧</span><span class="push-ipdatetime"> 05/27 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuugen2</span><span class="f3 push-content">: 下一篇 會計，國貿，財金</span><span class="push-ipdatetime"> 05/27 00:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cst02</span><span class="f3 push-content">: 會計出路廣個頭</span><span class="push-ipdatetime"> 05/27 00:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blackkeyss</span><span class="f3 push-content">: 財金出路比較廣啦但幾乎都是業務職</span><span class="push-ipdatetime"> 05/27 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Walmart</span><span class="f3 push-content">: 出路超廣 可惜在單位不是討人厭就是不受重視</span><span class="push-ipdatetime"> 05/27 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Walmart</span><span class="f3 push-content">: 還出路超廣沾沾自喜 笑死人</span><span class="push-ipdatetime"> 05/27 00:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Iamidiots</span><span class="f3 push-content">: 出入廣=吃不飽餓不死</span><span class="push-ipdatetime"> 05/27 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkgoblin</span><span class="f3 push-content">: 作帳查帳基本上就是會審課本那一套 投資若照財管書本</span><span class="push-ipdatetime"> 05/27 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkgoblin</span><span class="f3 push-content">: 恐怕沒三個月就被fire</span><span class="push-ipdatetime"> 05/27 00:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NTUACCT</span><span class="f3 push-content">: 會計人給推</span><span class="push-ipdatetime"> 05/27 00:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edward0811</span><span class="f3 push-content">: 其實唸財金也可以去四大</span><span class="push-ipdatetime"> 05/27 00:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edward0811</span><span class="f3 push-content">: 不過真的，成本會計，審計學比經計總經計量有用</span><span class="push-ipdatetime"> 05/27 00:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wonderwalk</span><span class="f3 push-content">: 商學院修過中會就能進四大啊  幹嘛讀會計</span><span class="push-ipdatetime"> 05/27 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edward0811</span><span class="f3 push-content">: 如果外型夠好，又想挑戰業務財金大勝會計</span><span class="push-ipdatetime"> 05/27 00:42
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495815132.A.B09.html?cacheKey=2052-1981996&offset=3197&offset-sig=b40c9c6003938aca87e375e08fdb1ee94d18f55f" data-longpollurl="/v1/longpoll?id=6ea8d2840c3345f618085be690ffcd3c28b94941" data-offset="3197"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

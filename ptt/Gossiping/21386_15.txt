@@ -1,0 +1,299 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495856177.A.F23.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 補習班針對實名制提出的反制措施 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="小魯在某補習班當工讀生，這幾天一直聽到班主任與各個補習班老師討論如何遊走法律邊緣
+以下是目前討論出來的方法：
+1.不使用老師做宣傳，就不用打名字了！
+#因為目前修法並無要求補習班「主動告知」學員教師身分
+2.將老師真實身分資料放在補習班建立的內網。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 補習班針對實名制提出的反制措施">
+<meta property="og:description" content="小魯在某補習班當工讀生，這幾天一直聽到班主任與各個補習班老師討論如何遊走法律邊緣
+以下是目前討論出來的方法：
+1.不使用老師做宣傳，就不用打名字了！
+#因為目前修法並無要求補習班「主動告知」學員教師身分
+2.將老師真實身分資料放在補習班建立的內網。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495856177.A.F23.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495856177.A.F23.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">azxcvbnm106 (鐵蛋)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 補習班針對實名制提出的反制措施</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 11:36:14 2017</span></div>
+
+
+<span class="f6 hl">小魯在某補習班當工讀生，這幾天一直聽到班主任與各個補習班老師討論如何</span><span class="f1 hl">遊走法律邊緣</span>
+
+<span class="hl">以下是目前討論出來的方法：</span>
+
+<span class="hl">1.不使用老師做宣傳，就不用打名字了！</span>
+
+<span class="hl">#因為目前修法並無要求補習班「主動告知」學員教師身分</span>
+
+<span class="hl">2.將老師真實身分資料放在補習班建立的內網。</span>
+<span class="hl">課表上不再寫老師，改成將課程編訂代碼，要用代碼上網查詢</span>
+<span class="hl">要查詢老師身分，一定要有報名那一科，否則無法登入（你一定要是學生才跟你帳號密碼的意思）</span>
+
+<span class="hl">3.消極：任職老師名冊一樣上繳教育部，但招生手法不變，反正不一定會被抓。</span>
+
+
+<span class="hl">目前大約是這樣，這是昨天三讀後老師們急就章想出來的。因為這些老師大多數都是公教職人員，他們很怕被抓包兼差……所以他們現在都在干焦陳☆～哈哈</span>
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.124.15.125
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495856177.A.F23.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495856177.A.F23.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jaychou515</span><span class="f3 push-content">: ☠☠☠☠☠☠☠☠☠</span><span class="push-ipdatetime"> 05/27 11:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">error123</span><span class="f3 push-content">: 想太多，不敢誠實公開的會被誠實公開的補習班消滅</span><span class="push-ipdatetime"> 05/27 11:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 為啥不強制招牌跟網站必須列出老師名字</span><span class="push-ipdatetime"> 05/27 11:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roro1984</span><span class="f3 push-content">: 是都不會有人檢舉喔 可以連續處罰或撤照的</span><span class="push-ipdatetime"> 05/27 11:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CYL009</span><span class="f3 push-content">: 意外嗎  反正政府部會查  嘻嘻</span><span class="push-ipdatetime"> 05/27 11:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watashiD</span><span class="f3 push-content">: 學生總可以知道老師真名吧?不給查就檢舉</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 因為很多老師是現職公務員、老師，依法不得兼差。</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Walmart</span><span class="f3 push-content">: 我只能說上有政策 下有對策 台灣法很多都立好看用</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 給自己學生真名不是問題，怕的是招牌貼出來後給外人檢</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 招牌列出老師名字反而違規，因為必須要註冊的公司名才能宣</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MyDarling</span><span class="f3 push-content">: 這種就多檢舉幾次就會怕了，直接到櫃台問問不到嗎</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 傳，之前有新聞講過了</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 舉。因為補習班負責人可以掛自己親戚，但授課老師掛真</span><span class="push-ipdatetime"> 05/27 11:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 名會讓很多教授、公務員、公立學校老師很不方便。</span><span class="push-ipdatetime"> 05/27 11:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lhsieh</span><span class="f3 push-content">: 這初期免不了,再來就學生檢舉跟業者互咬,最後就乖乖的</span><span class="push-ipdatetime"> 05/27 11:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 學生知道老師真名他們不怕啊！所以才設內網可查的方式迴避</span><span class="push-ipdatetime"> 05/27 11:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 業者不會互咬，競爭歸競爭不會殺到兩敗俱傷，學生要補</span><span class="push-ipdatetime"> 05/27 11:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 習更不可能檢舉老師。一堆國考研究所班底下學生會不知</span><span class="push-ipdatetime"> 05/27 11:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 台上是某某大學教授、某某機關公務員嗎？</span><span class="push-ipdatetime"> 05/27 11:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amwkscl</span><span class="f3 push-content">: 哪家啊？站內信給我，我去檢舉</span><span class="push-ipdatetime"> 05/27 11:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 這個立法本來就很可笑，一堆職業都實名還不是天天性侵.</span><span class="push-ipdatetime"> 05/27 11:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 一開始難免想些奧步啦 但是最後會遵守的會變成主流</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robert7066</span><span class="f3 push-content">: 找女老師就不會被右肩了</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sungenius</span><span class="f3 push-content">: 有關係就沒關係，法條僅具文</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 公立學校教師是不能兼 若政府機關的公務員則服務機關同意</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">super10000</span><span class="f3 push-content">: 學生不在乎老師真名，但在乎哪位老師授課，都不給知，</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddd1264</span><span class="f3 push-content">: 幹譙 ㄑㄧㄠˊ</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">super10000</span><span class="f3 push-content">: 怎麼報名</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 爽啦哈哈哈</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 就可以教 只是大概有一半沒有知會服務機關</span><span class="push-ipdatetime"> 05/27 11:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">borissun</span><span class="f3 push-content">: 會想反制就表示有影響到，至於實名本來就是方便肉搜，</span><span class="push-ipdatetime"> 05/27 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">borissun</span><span class="f3 push-content">: 期待政府有作為，太慢了</span><span class="push-ipdatetime"> 05/27 11:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">borissun</span><span class="f3 push-content">: 真的知會，上面一定同意??就算同意，也是留個辮子</span><span class="push-ipdatetime"> 05/27 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eskawater</span><span class="f3 push-content">: 補教老師還是爽賺爽吃學生</span><span class="push-ipdatetime"> 05/27 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">triplee</span><span class="f3 push-content">: 不是有人說實名制不是重點 不是重點怎麼補習班反成這樣</span><span class="push-ipdatetime"> 05/27 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">susuqi</span><span class="f3 push-content">: 一堆教職人員兼差啊 為人師表知法犯法</span><span class="push-ipdatetime"> 05/27 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: 就跟醫師一樣執教者需要正式證書(如學歷證書)就好了</span><span class="push-ipdatetime"> 05/27 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 如果這麼容易閃過就不會一直幹焦了</span><span class="push-ipdatetime"> 05/27 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: 沒有公開在醒目位置就開罰</span><span class="push-ipdatetime"> 05/27 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 觀念指正：有關補習班函釋，公務員是“可以”任教的</span><span class="push-ipdatetime"> 05/27 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 只有老師不可以</span><span class="push-ipdatetime"> 05/27 11:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">marineone</span><span class="f3 push-content">: 補教業ㄧ堆化名 逃稅  別的行業都要乖乖申報 就補教業</span><span class="push-ipdatetime"> 05/27 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">marineone</span><span class="f3 push-content">: 不用？實名制幹的好</span><span class="push-ipdatetime"> 05/27 11:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 樓上沒錯 銓敘部85年的函釋早說過了 公務員服務機關同意</span><span class="push-ipdatetime"> 05/27 11:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 上有政策，下有對策，不意外。</span><span class="push-ipdatetime"> 05/27 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 可以在下班時間教補習班 只是不少沒有服務機關同意</span><span class="push-ipdatetime"> 05/27 11:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">folkblues</span><span class="f3 push-content">: 實名對預防性侵沒有助益+1，但如果能抓逃漏稅也就還好</span><span class="push-ipdatetime"> 05/27 11:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">folkblues</span><span class="f3 push-content">: ，不過公務員不涉及利益衝突的兼職應該也該開放吧</span><span class="push-ipdatetime"> 05/27 11:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 其實補習班可以經學生要求才提供 法沒有說要積極公告</span><span class="push-ipdatetime"> 05/27 11:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 大概只有資深主管級 像是郭如意 這種機關會同意 趴數不夠</span><span class="push-ipdatetime"> 05/27 11:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 重點是大多數學生根本不在乎名字 只在乎讓我考上就好</span><span class="push-ipdatetime"> 05/27 11:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 的話 服務機關同意機會就不高了</span><span class="push-ipdatetime"> 05/27 11:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 先檢舉再說</span><span class="push-ipdatetime"> 05/27 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 但是一個學生問到 基本上以後網路都查得到惹</span><span class="push-ipdatetime"> 05/27 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 先求有再求好</span><span class="push-ipdatetime"> 05/27 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 說逃稅就更搞笑 補習班負責人是一直徵得到稅 是兼職不好查</span><span class="push-ipdatetime"> 05/27 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lloop</span><span class="f3 push-content">: 就一直檢舉啊</span><span class="push-ipdatetime"> 05/27 11:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">azxcvbnm106</span><span class="f3 push-content">: 那些老師還說這次修法侵害隱私權違憲(￣▽￣)</span><span class="push-ipdatetime"> 05/27 11:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kducky</span><span class="f3 push-content">: 其實我補習的老師都自己先講了科科</span><span class="push-ipdatetime"> 05/27 12:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 有個屁業，抓最兇的不是政府或學生，是同業啊哈哈</span><span class="push-ipdatetime"> 05/27 12:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 賺到了你會表現出賺到的樣子嗎 當然是裝作很委屈阿</span><span class="push-ipdatetime"> 05/27 12:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linwind</span><span class="f3 push-content">: 同業自己會殺同業，之前都聽過會派學生混到對方班的事發</span><span class="push-ipdatetime"> 05/27 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linwind</span><span class="f3 push-content">: 生了，這法很有效</span><span class="push-ipdatetime"> 05/27 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 家長就要知道老師姓名阿 家長要求你能不敢給嘛?</span><span class="push-ipdatetime"> 05/27 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 補習班賣點就是老師，蓋住作生意，這樣業績直接下滑</span><span class="push-ipdatetime"> 05/27 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Moselle</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dahlia7357</span><span class="f3 push-content">: 當家長是白癡 鬧這麼大搞的跟上妓院一樣還搞代號</span><span class="push-ipdatetime"> 05/27 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevininla</span><span class="f3 push-content">: 不意外啊有些人就是不敢坦蕩蕩</span><span class="push-ipdatetime"> 05/27 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dahlia7357</span><span class="f3 push-content">: 你不給姓名 林北家長繳錢?是入天地會喔幹</span><span class="push-ipdatetime"> 05/27 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amyforestry</span><span class="f3 push-content">: 補習班競爭激烈，應該會到處檢舉</span><span class="push-ipdatetime"> 05/27 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">biosphere</span><span class="f3 push-content">: 先檢舉再說</span><span class="push-ipdatetime"> 05/27 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">The5F</span><span class="f3 push-content">: 現職公務員還沒人檢舉？ 名字給我我去檢舉</span><span class="push-ipdatetime"> 05/27 12:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppit</span><span class="f3 push-content">: 性侵事件結果打到公教人員兼差...</span><span class="push-ipdatetime"> 05/27 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 兼職被查到也不能怎樣 沒聽過兼職被懲處</span><span class="push-ipdatetime"> 05/27 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riomusi</span><span class="f3 push-content">: 丟給北市府1999，拜託了</span><span class="push-ipdatetime"> 05/27 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunny21333</span><span class="f3 push-content">: 嘻嘻</span><span class="push-ipdatetime"> 05/27 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 推lyu001 除非得罪長官 長官根本不管你下班時間</span><span class="push-ipdatetime"> 05/27 12:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">buddar</span><span class="f3 push-content">: 不敢出示真名的老師可能有問題，要呼籲學生家長不要去補習</span><span class="push-ipdatetime"> 05/27 13:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starmiau</span><span class="f3 push-content">: 實名對預防性侵沒有助益+1 計程車都實名阿還不是有性侵</span><span class="push-ipdatetime"> 05/27 13:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Argyris</span><span class="f3 push-content">: 檢舉下去</span><span class="push-ipdatetime"> 05/27 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brian0314</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fukku100</span><span class="f3 push-content">: 不使用老師做宣傳哪要用什麼</span><span class="push-ipdatetime"> 05/27 14:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cmid05</span><span class="f3 push-content">: 跟味全還有某黨參選人有點像</span><span class="push-ipdatetime"> 05/27 14:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ADEMAIN</span><span class="f3 push-content">: 畢竟K黨老經驗了啊這種事</span><span class="push-ipdatetime"> 05/27 14:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">salasaba</span><span class="f3 push-content">: 最後會促成線上教育市場蓬勃發展</span><span class="push-ipdatetime"> 05/27 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">salasaba</span><span class="f3 push-content">: 樂見其成</span><span class="push-ipdatetime"> 05/27 14:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">salasaba</span><span class="f3 push-content">: 21世紀了，在家用電腦手機上課更有效率省成本</span><span class="push-ipdatetime"> 05/27 14:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whface</span><span class="f3 push-content">: 當對手不會去檢舉喔？</span><span class="push-ipdatetime"> 05/27 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tongiwo</span><span class="f3 push-content">: 本來政策就沒什麼太大意義</span><span class="push-ipdatetime"> 05/27 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: 太神拉</span><span class="push-ipdatetime"> 05/27 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kamio629</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ericleft</span><span class="f3 push-content">: 不用老師名字宣傳 補習班會倒一堆吧</span><span class="push-ipdatetime"> 05/27 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 不用老師名字宣傳 只能靠口碑 不過 我想台灣家長國小中</span><span class="push-ipdatetime"> 05/27 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CS5566</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/27 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 高中) 對於孩子的補習班老師會更加注意</span><span class="push-ipdatetime"> 05/27 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">raku</span><span class="f3 push-content">: 誰叫玩到會寫書的鬧大了,這下GG了</span><span class="push-ipdatetime"> 05/27 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">raku</span><span class="f3 push-content">: 兼職查到真的沒怎樣,但是一定就不能再兼職了</span><span class="push-ipdatetime"> 05/27 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bmandheling</span><span class="f3 push-content">: 跟醫生一樣把執照掛出來啊 沒執照？那掛畢業證書啊</span><span class="push-ipdatetime"> 05/27 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggttoo</span><span class="f3 push-content">: XDDDDD</span><span class="push-ipdatetime"> 05/27 15:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toyokawa</span><span class="f3 push-content">: 不要臉  敢做不敢當</span><span class="push-ipdatetime"> 05/27 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bearking2</span><span class="f3 push-content">: 幹 一群爛人 公教族群就是有這種垃圾</span><span class="push-ipdatetime"> 05/27 16:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MermaidFA</span><span class="f3 push-content">: 檢舉啦</span><span class="push-ipdatetime"> 05/27 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nerv</span><span class="f3 push-content">: 補習班自己會互相殺到見骨，不用擔心啦</span><span class="push-ipdatetime"> 05/27 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sggs</span><span class="f3 push-content">: 證明這是好政策啊</span><span class="push-ipdatetime"> 05/27 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dinex</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/27 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lorazin</span><span class="f3 push-content">: 不如開個檢舉專區</span><span class="push-ipdatetime"> 05/27 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 1.那補習班就跟沒宣傳差不多。 2.學生爆料超輕鬆 3.等死</span><span class="push-ipdatetime"> 05/27 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jonahlin</span><span class="f3 push-content">: 是我眼睛業障重還是某族群腦袋業障重</span><span class="push-ipdatetime"> 05/27 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jonahlin</span><span class="f3 push-content">: 公教不得兼差還有人在護航  這不就踩到痛腳了</span><span class="push-ipdatetime"> 05/27 17:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jupiter1129</span><span class="f3 push-content">: 不可能 ～不寫出老師名字 ～跟本招不到學生 ～</span><span class="push-ipdatetime"> 05/27 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">capcombio</span><span class="f3 push-content">: 到底是幹了什麼見不得人的虧心事 不敢用真名?</span><span class="push-ipdatetime"> 05/27 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stevenkuo</span><span class="f3 push-content">: 果然公教人員就是不簡單</span><span class="push-ipdatetime"> 05/27 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bhsugar</span><span class="f3 push-content">: 中華民國的公務人員真的很優秀欸</span><span class="push-ipdatetime"> 05/27 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">befly10015</span><span class="f3 push-content">: .</span><span class="push-ipdatetime"> 05/27 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Moratti</span><span class="f3 push-content">: 噁心 垃圾東西</span><span class="push-ipdatetime"> 05/27 19:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tv5566</span><span class="f3 push-content">: 幹 超爽 沒9.2鬼島果然進步了</span><span class="push-ipdatetime"> 05/27 19:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 不知道他們在不敢啥…因為大部分都沒什麼學歷？</span><span class="push-ipdatetime"> 05/27 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">happydo</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 20:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iMANIA</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HoterLin</span><span class="f3 push-content">: 組專業檢舉團+1</span><span class="push-ipdatetime"> 05/27 21:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: 誇張～大家勤勞點檢舉就好啦</span><span class="push-ipdatetime"> 05/27 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 再推個</span><span class="push-ipdatetime"> 05/27 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mojia</span><span class="f3 push-content">: 只要建立真實資料備查，其實沒差。沒必要檔人財路。</span><span class="push-ipdatetime"> 05/27 22:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 教師不能兼差沒問題，但明明公務人員兼補習班已經有函釋說</span><span class="push-ipdatetime"> 05/27 23:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 明只要服務機關同意就可以！怎麼一堆人把教師和公務人員混在</span><span class="push-ipdatetime"> 05/27 23:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mips</span><span class="f3 push-content">: 一起講</span><span class="push-ipdatetime"> 05/27 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 噁</span><span class="push-ipdatetime"> 05/27 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/28 00:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abasqoo</span><span class="f3 push-content">: 先檢舉再說 一群垃圾</span><span class="push-ipdatetime"> 05/28 00:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jauruyu</span><span class="f3 push-content">: 東菇互航不遺餘力阿 防止逃漏稅 兼職 你也可以噴喔 呵呵</span><span class="push-ipdatetime"> 05/28 06:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HCG10G8bear</span><span class="f3 push-content">: 部分老師真的很垃圾</span><span class="push-ipdatetime"> 05/28 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sion1993</span><span class="f3 push-content">: 垃圾老師</span><span class="push-ipdatetime"> 05/28 09:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 鬼島敗類一堆...</span><span class="push-ipdatetime"> 05/28 09:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gama5566</span><span class="f3 push-content">: 果真垃圾教師 規定不能兼職還硬要</span><span class="push-ipdatetime"> 05/28 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NSYSUEE</span><span class="f3 push-content">: 我孩子之後要上補習班的話，我會重視它們有沒有實名，沒</span><span class="push-ipdatetime"> 05/28 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NSYSUEE</span><span class="f3 push-content">: 有的話就再見</span><span class="push-ipdatetime"> 05/28 10:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NSYSUEE</span><span class="f3 push-content">: 它們在怎想對策也沒用，現在一堆家長也開始重視這個案子</span><span class="push-ipdatetime"> 05/28 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NSYSUEE</span><span class="f3 push-content">: 了</span><span class="push-ipdatetime"> 05/28 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 唉 很多鄉民不懂為何補教老師喜歡低調 那我解釋一下好了</span><span class="push-ipdatetime"> 05/28 12:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 你中樂透彩 會高調到處宣傳？不會吧 只會低調花錢</span><span class="push-ipdatetime"> 05/28 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 寫書取筆名也一樣理由 一來本名可能宣傳起來沒那麼好聽</span><span class="push-ipdatetime"> 05/28 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 二來誰賺錢會高調？都是低調偷偷賺</span><span class="push-ipdatetime"> 05/28 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 所以很多鄉民 說老師不想公布本名就是有鬼.....</span><span class="push-ipdatetime"> 05/28 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 等你哪天有了賺錢門路 你也不想公開高調</span><span class="push-ipdatetime"> 05/28 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 然後公務人員是可以兼職的 很多人搞不清狀況</span><span class="push-ipdatetime"> 05/28 12:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 先聲明 我跟補教界沒關係 只是這法案，我覺得還有的鬧</span><span class="push-ipdatetime"> 05/28 12:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 法律之前人人平等 但是藝人 作家可以取藝名 補教老師卻不行</span><span class="push-ipdatetime"> 05/28 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">H264</span><span class="f3 push-content">: 搞不好哪天會有人出來申請釋憲 讓我們繼續看下去</span><span class="push-ipdatetime"> 05/28 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NSYSUEE</span><span class="f3 push-content">: 藝人化名後，其實我們都查得到他的真名</span><span class="push-ipdatetime"> 05/28 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">evaji548</span><span class="f3 push-content">: XDDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 05/28 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaletra</span><span class="f3 push-content">: 學生都是看老師去的</span><span class="push-ipdatetime"> 05/28 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qoozxc789</span><span class="f3 push-content">: 台灣被這些自私人玩爛了</span><span class="push-ipdatetime"> 05/28 17:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/28 17:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bigmango</span><span class="f3 push-content">: 聽起來都很爛，那些老師就這種智商？</span><span class="push-ipdatetime"> 05/28 17:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soscoco</span><span class="f3 push-content">: 啊就垃圾狼師群啊！</span><span class="push-ipdatetime"> 05/28 18:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qq05</span><span class="f3 push-content">: 想逃稅+非法教書</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mike9</span><span class="f3 push-content">: 說個笑話  教育事業</span><span class="push-ipdatetime"> 05/28 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azjba89xz</span><span class="f3 push-content">: 幹你娘一堆兼職</span><span class="push-ipdatetime"> 05/28 20:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">morphology</span><span class="f3 push-content">: 高調，還有自己知道就爆出來同事有誰在誘姦好嗎？</span><span class="push-ipdatetime"> 05/28 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/28 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ienari</span><span class="f3 push-content">: 垃圾行業</span><span class="push-ipdatetime"> 05/29 01:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p40403</span><span class="f3 push-content">: 可以用老師名字去威脅漂亮的英文老師嗎</span><span class="push-ipdatetime"> 06/06 17:03
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495856177.A.F23.html?cacheKey=2052-2025578&offset=17734&offset-sig=07f3523d110fe71c1a1e1f5b8c437bdc089f41ad" data-longpollurl="/v1/longpoll?id=cb29ca72d7aec3f56219ceecc9eea8d569f80798" data-offset="17734"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

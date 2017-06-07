@@ -1,0 +1,167 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495280059.A.433.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 美售台250枚肩射刺針飛彈 軍方評估增購 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+自由
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 美售台250枚肩射刺針飛彈 軍方評估增購">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+自由
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495280059.A.433.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495280059.A.433.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">nerudaliu (Chairborne Ranger)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 美售台250枚肩射刺針飛彈 軍方評估增購</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 19:34:16 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+自由
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+美售台250枚肩射刺針飛彈 軍方評估增購300枚
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+〔記者羅添斌／台北報導〕美國在2015年宣佈售台250枚肩射式刺針飛彈，預計明年起交
+運台灣，將配備在海軍飛彈快艇及陸戰隊步兵營，軍方官員今天指出，為因應中國戰機、
+武裝直升機等對台威脅升高，軍方正評估是否向美提出增購肩射型刺針飛彈的需求。
+官員並且表示，增購刺針飛彈的數量估計需要300枚，獲得的肩射式刺針飛彈，將會用在
+陸軍地面部隊使用，強化部隊的野戰防空戰力。
+美國國防安全合作署在2015年12月公佈對台軍售項目，其中包括250枚的Block1-92F人員
+攜行式（肩射型）刺針飛彈，金額達到2億1700萬美元，我國國防部對此提出相對預算62
+億餘台幣，在2017年至2020年執行。
+軍方官員今天指出，美國2015年售台的這一批肩射型刺針飛彈，是專供光六快艇、沱江級
+飛彈巡邏艦等海軍輕快兵力，以及陸戰隊步兵營部隊使用，以有效提升戰場存活率，並讓
+敵軍的航空器產生重大損傷。
+他表示，軍方在近2年的漢光演習電腦兵推及實兵演練中，評估認為中國快速換裝新式戰
+機、攻擊直升機，對台的軍事威脅程度日益嚴重，軍方考量強化各級部隊的防空戰力，認
+為有必要讓陸軍聯兵旅級地面部隊的野戰防空戰力加以提升，因此正在評估是否向美增購
+肩射型刺針飛彈。
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="http://m.ltn.com.tw/news/politics/breakingnews/2073636" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/politics/breakingnews/2073636</a>
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.136.243.242
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495280059.A.433.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495280059.A.433.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: Press F to pick up the missile.</span><span class="push-ipdatetime"> 05/20 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andyyuan</span><span class="f3 push-content">: 先清掉上層一堆媚共將領吧，不然買再多武器都一樣</span><span class="push-ipdatetime"> 05/20 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sdd5426</span><span class="f3 push-content">: 軍盲會酸過期爛貨</span><span class="push-ipdatetime"> 05/20 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 阿拉花瓜</span><span class="push-ipdatetime"> 05/20 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Koibito</span><span class="f3 push-content">: 軍方內賊要不要清啊</span><span class="push-ipdatetime"> 05/20 19:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 一枚約1000萬美金而已，便宜快買</span><span class="push-ipdatetime"> 05/20 19:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 100</span><span class="push-ipdatetime"> 05/20 19:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rooo2012</span><span class="f3 push-content">: 買來參加派對用的</span><span class="push-ipdatetime"> 05/20 19:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">genheit</span><span class="f3 push-content">: g8330330的數學老師在哭</span><span class="push-ipdatetime"> 05/20 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bbflisky</span><span class="f3 push-content">: 民生問題一堆不去認真解決。</span><span class="push-ipdatetime"> 05/20 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yycbr</span><span class="f3 push-content">: 弱勢下扛這種東西發射出去 就要做好死的準備</span><span class="push-ipdatetime"> 05/20 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flyingmax</span><span class="f3 push-content">: 美國貨很貨，台灣不考慮自製嗎？  長期需求哦</span><span class="push-ipdatetime"> 05/20 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hans14</span><span class="f3 push-content">: 管制不嚴而外流的話, 變成恐怖份子攻擊客機起降的利器</span><span class="push-ipdatetime"> 05/20 20:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hk416</span><span class="f3 push-content">: 多買幾枚  這武器便宜但又恐怖 可以打下直升機、運輸機</span><span class="push-ipdatetime"> 05/20 20:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 能買當然多買呀 這好東西</span><span class="push-ipdatetime"> 05/20 20:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hk416</span><span class="f3 push-content">: Mi-28直升機最怕它 幾乎每次發射每次中</span><span class="push-ipdatetime"> 05/20 20:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kraven</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thaleschou</span><span class="f3 push-content">: 可以開放民兵然後發下去嗎？</span><span class="push-ipdatetime"> 05/20 22:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495280059.A.433.html?cacheKey=2052-37409752&offset=3583&offset-sig=432b20e1c6a4f13b711355a177d9824594cc206b" data-longpollurl="/v1/longpoll?id=511a7926e2fca846b6bbf3f5c31f543b96567144" data-offset="3583"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

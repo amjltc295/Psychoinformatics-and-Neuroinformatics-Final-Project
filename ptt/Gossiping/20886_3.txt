@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495531919.A.029.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 柯潔首輪告負：「AlphaGo幾乎成圍棋上帝 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="星海一定是比較有意思的，因為這才能夠了解現在DL學東西能多快
+當然，這最基本的限制是APM
+圍棋的盤面，就是一個 19*19 、數值只能是 0,1,2 的矩陣，
+然後你能做的決定就只有決定在某個可以落子的座標上面放你的棋子
+而且圍棋歷史上的規則其實變化得不大
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 柯潔首輪告負：「AlphaGo幾乎成圍棋上帝">
+<meta property="og:description" content="星海一定是比較有意思的，因為這才能夠了解現在DL學東西能多快
+當然，這最基本的限制是APM
+圍棋的盤面，就是一個 19*19 、數值只能是 0,1,2 的矩陣，
+然後你能做的決定就只有決定在某個可以落子的座標上面放你的棋子
+而且圍棋歷史上的規則其實變化得不大
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495531919.A.029.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495531919.A.029.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">arrenwu (山田妖精的下僕)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 柯潔首輪告負：「AlphaGo幾乎成圍棋上帝</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 17:31:56 2017</span></div>
+<span class="f6">: → tkucuh: AG快去挑戰星海啦。                                      05/23 17:17
+</span><span class="f6">: → arrenwu: 挑戰星海會比較有意思得多                               05/23 17:17
+</span><span class="f6">: 推 silver5566: 星海更無聊，人類的操作贏不了電腦，更何況計算更簡單  05/23 17:20
+</span><span class="f6">: 推 powderzhon: 我也覺得星海更簡單 光不用手速就屌打人類             05/23 17:22
+</span><span class="f6">: 推 ZealZhang: 操作一定會調…又不是只為了要贏比賽…                 05/23 17:22
+</span><span class="f6">: → tkucuh: 重點在戰場迷霧，聯合打主要敵人等預測與策略。            05/23 17:23
+</span>星海一定是比較有意思的，因為這才能夠了解現在DL學東西能多快
+當然，這最基本的限制是APM
+
+圍棋的盤面，就是一個 19*19 、數值只能是 0,1,2 的矩陣，
+然後你能做的決定就只有決定在某個可以落子的座標上面放你的棋子
+而且圍棋歷史上的規則其實變化得不大
+
+星海的action space顯然是比圍棋大得多了，
+但更重要的是，星海的比賽不像圍棋比賽那麼多、歷史那麼悠久。
+而且一個patch就可能讓某個流行的戰術變得不能用。
+
+Neural Network 的結構上，不會因為你輸個一兩場之後就有太大型的變化
+可是人類卻可能在輸一場之後，就想出一個對策。
+在NN結構的AI蒙地卡羅到對抗方式之前，新的patch可能老早就上了
+
+所以要測試AI的話，星海肯定是比圍棋有意思的
+
+--
+<span class="hl">「我才沒有讀過那個女人的小說呢！」</span>
+<a href="http://i.imgur.com/pLDvmc2.png" target="_blank" rel="nofollow">http://i.imgur.com/pLDvmc2.png</a>    <span class="f6 hl">～澤村‧史賓瑟‧英梨梨</span>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="pLDvmc2"><a href="//imgur.com/pLDvmc2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 67.194.239.192
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495531919.A.029.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495531919.A.029.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Merkle</span><span class="f3 push-content">: automaton2000開下去 爆基礎兵就淹死你了</span><span class="push-ipdatetime"> 05/23 17:33
+</span></div>用這個的話，只要follow正常開局，人類玩家就輸了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cerberi</span><span class="f3 push-content">: 所以很難吧！成功了就可馬上軍事化了</span><span class="push-ipdatetime"> 05/23 17:34
+</span></div>軍事化會先遇到能不能製作自動殺人兵器的問題 目前國際上是禁止的
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snow3804</span><span class="f3 push-content">: 結果微操就打爆你了</span><span class="push-ipdatetime"> 05/23 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 可是電腦在微操跟手速都大勝人類耶...更變態搞不好</span><span class="push-ipdatetime"> 05/23 17:36
+</span></div>所以我說要限制APM啊。我們是想看AI是否能在智略上贏過人類
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 可以做到每隻單兵微操</span><span class="push-ipdatetime"> 05/23 17:36
+</span></div>這個世紀帝國2就辦得到了。你去開一個自創的地圖，
+用40支騎士 vs 40個西班牙征服者，你玩哪邊都是你輸
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LeeSeDol</span><span class="f3 push-content">: 那中國把技術用在兵棋推演上，台灣會不會很危險？</span><span class="push-ipdatetime"> 05/23 17:37
+</span></div>這問題，我想有沒有AI是沒差的
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">david1230</span><span class="f3 push-content">: 目前所有發展中的ai都有基金會在監控 軍事化想太多</span><span class="push-ipdatetime"> 05/23 17:37
+</span></div><span class="f2">※ 編輯: arrenwu (67.194.239.192), 05/23/2017 17:38:11
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">david1230</span><span class="f3 push-content">: 全名是人工智慧倫理和監管基金</span><span class="push-ipdatetime"> 05/23 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LeeSeDol</span><span class="f3 push-content">: 那個基金會可以監控中國嗎？</span><span class="push-ipdatetime"> 05/23 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">raku</span><span class="f3 push-content">: 不要嘗試製造出怪物好嗎？</span><span class="push-ipdatetime"> 05/23 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chienk</span><span class="f3 push-content">: 星海光 要怎樣 才是公平 就很難定義  微操這種事情  一次</span><span class="push-ipdatetime"> 05/23 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chienk</span><span class="f3 push-content">: 控多少兵  切換速度</span><span class="push-ipdatetime"> 05/23 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 兩邊都給一樣鍵盤滑鼠就好了。</span><span class="push-ipdatetime"> 05/23 17:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 手速會限制</span><span class="push-ipdatetime"> 05/23 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: 會蠻慘的,AI判斷5支槍兵就能守住,人類作不出這種極限判斷</span><span class="push-ipdatetime"> 05/24 08:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495531919.A.029.html?cacheKey=2052-38578157&offset=3342&offset-sig=8b9549c1a89aba58dfe3ed410008d5a8a7fd4950" data-longpollurl="/v1/longpoll?id=727487b4a974cbaf64e2b417068c9ed33ed683c9" data-offset="3342"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

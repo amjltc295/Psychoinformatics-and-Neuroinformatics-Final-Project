@@ -1,0 +1,185 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496663403.A.69F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 宏碁推前瞻教育　首辦小學生IoT創作賽 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:蘋果新聞
+2.完整新聞標題:宏碁推前瞻教育　首辦小學生IoT創作賽
+3.完整新聞內文:
+投入前瞻教育創新基礎建設，宏碁宣佈將全面啓動以物聯網創新應用為主題的大中小學創
+作競賽，提升青少年未來競爭力。宏碁集團創辦人施振榮宣佈，會針對大專院校舉辦的龍
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 宏碁推前瞻教育　首辦小學生IoT創作賽">
+<meta property="og:description" content="1.媒體來源:蘋果新聞
+2.完整新聞標題:宏碁推前瞻教育　首辦小學生IoT創作賽
+3.完整新聞內文:
+投入前瞻教育創新基礎建設，宏碁宣佈將全面啓動以物聯網創新應用為主題的大中小學創
+作競賽，提升青少年未來競爭力。宏碁集團創辦人施振榮宣佈，會針對大專院校舉辦的龍
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496663403.A.69F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496663403.A.69F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">MyMine (咩麥)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 宏碁推前瞻教育　首辦小學生IoT創作賽</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 19:49:59 2017</span></div>
+1.媒體來源:蘋果新聞
+
+
+
+2.完整新聞標題:宏碁推前瞻教育　首辦小學生IoT創作賽
+
+
+
+3.完整新聞內文:
+
+投入前瞻教育創新基礎建設，宏碁宣佈將全面啓動以物聯網創新應用為主題的大中小學創
+作競賽，提升青少年未來競爭力。宏碁集團創辦人施振榮宣佈，會針對大專院校舉辦的龍
+騰微笑創業競賽，將轉型以物聯網為競賽主題，2018年會與智高合作針對小學生啟動首屆
+「雲教授物聯網創作大賽」。
+
+宏碁將全面啓動大中小學創作競賽，包括針對大專院校學生的「龍騰微笑創業競賽」將轉
+型，2018年開始將以物聯網為競賽主題；針對國、高中生舉辦的「BeingLife明日生活˙
+萬物智聯創作大賽」繼續鎖定以物聯網為主題；同時2018年將針對小學生舉辦首屆「雲教
+授物聯網創作大賽」，期望創作無形、間接、未來的隱性價值，以有助提升台灣長期的競
+爭力。。
+
+龍騰論文獎從1987年至2005年正式落幕為止共舉辦了19屆，19年來已成為校園中的重要活
+動。而為鼓勵將學術能量應用至產業界，為市場與經濟帶來更大價值，自2006年起，「龍
+騰論文獎」從個人性質的論文發表，轉型為講求團隊精神、著重知識經濟的「龍騰微笑競
+賽」，希望在校園中激發出一股新的原創力量。
+
+施振榮指出，一般人談物聯網（Internet of Things，IoT）往往都只強調物，其實所謂
+的「Things」同時包括了「事」和「物」，物是有形的，事是無形的，這些事物的積累才
+產生了大數據，需經過進一步的智慧判讀後才能發揮其價值。
+
+因此，與其強調萬物互聯的「物聯網」，施振榮特別提出，不如更應重視萬物智聯的「
+智聯網」（Internet of Beings，IoB）。相較於物聯網是以資料數據為中心，智聯網則
+以人（使用者）為中心，透過雲端運算與智慧數據分析，更能洞察使用者的需求，沒有智
+慧的物聯網，價值就無法體現。（王郁倫／台北報導）
+
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.appledaily.com.tw/realtimenews/article/new/20170604/1132968/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/new/20170604/1132968/</a>
+
+
+5.備註:
+
+個人覺得台灣小學的科技競賽還是不夠成熟
+有企業來做來推動固然是好事
+但還是希望不要變成推甄升學的工具..
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 124.11.132.45
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496663403.A.69F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496663403.A.69F.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ANiZan9991</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/05 19:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">emperor</span><span class="f3 push-content">: 不是都老師做的?</span><span class="push-ipdatetime"> 06/05 19:50
+</span></div>不是都父母做嗎 老師是科展壓哨用的
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 小學生父母組</span><span class="push-ipdatetime"> 06/05 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">robinyu85</span><span class="f3 push-content">: 結果都是父母出錢出力 階級繼續複製</span><span class="push-ipdatetime"> 06/05 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XZXie</span><span class="f3 push-content">: 現在什麼鳥活動都要掛個前瞻喔  超屌der</span><span class="push-ipdatetime"> 06/05 19:51
+</span></div>讓小朋友先接觸邏輯
+這總比蓋鐵軌好是沒錯啦
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 大前瞻時代</span><span class="push-ipdatetime"> 06/05 19:53
+</span></div>再等等 前瞻馬桶快出現了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ericayou</span><span class="f3 push-content">: ToT</span><span class="push-ipdatetime"> 06/05 20:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jknm0510a</span><span class="f3 push-content">: 小學生連英文字母iot都念不出來吧</span><span class="push-ipdatetime"> 06/05 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simpson083</span><span class="f3 push-content">: 八卦是宏碁 哈哈哈</span><span class="push-ipdatetime"> 06/05 20:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ninggo</span><span class="f3 push-content">: 變成回收業爸爸們的pk</span><span class="push-ipdatetime"> 06/05 20:11
+</span></div>沒回收的也會參戰吧
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">giobu</span><span class="f3 push-content">: 其實前瞻計劃的錢拿去做前瞻教育 說不定還真的比鐵軌有用</span><span class="push-ipdatetime"> 06/05 20:13
+</span></div>有道理
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankc</span><span class="f3 push-content">: 要不要先教教自己的工程師</span><span class="push-ipdatetime"> 06/05 20:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hcwang1126</span><span class="f3 push-content">: 幹 前瞻元年 上行下效</span><span class="push-ipdatetime"> 06/05 20:37
+</span></div>效 都效!!
+<span class="f2">※ 編輯: MyMine (124.11.133.138), 06/06/2017 21:51:28
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496663403.A.69F.html?cacheKey=2052-7905796&offset=3436&offset-sig=ba7a4c527c5e8b5f354a95a601a3e4d302752ed9" data-longpollurl="/v1/longpoll?id=6bc51bd23d6b5e774f000ebc09ae7a116c1ec7eb" data-offset="3436"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

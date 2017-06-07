@@ -1,0 +1,185 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496202228.A.00C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 加班工時帳戶制 勞部鬆口 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="經濟日報
+加班工時帳戶制 勞部鬆口
+因一例一休引發民怨，民進黨籍立委何欣純等人提案修改勞基法，對於加班工時部採三個
+月結算一次的「工時帳戶」設計。對此，勞動部鬆口說「可以討論」，據了解，勞動部初
+步評估此設計不致造成勞工過勞，對於勞工權益影響應可以接受。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 加班工時帳戶制 勞部鬆口">
+<meta property="og:description" content="經濟日報
+加班工時帳戶制 勞部鬆口
+因一例一休引發民怨，民進黨籍立委何欣純等人提案修改勞基法，對於加班工時部採三個
+月結算一次的「工時帳戶」設計。對此，勞動部鬆口說「可以討論」，據了解，勞動部初
+步評估此設計不致造成勞工過勞，對於勞工權益影響應可以接受。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496202228.A.00C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496202228.A.00C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Siegfried921 (白兔，♂的)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 加班工時帳戶制 勞部鬆口</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 11:43:45 2017</span></div>
+經濟日報
+
+加班工時帳戶制 勞部鬆口
+
+因一例一休引發民怨，民進黨籍立委<span class="f2 hl">何欣純</span>等人提案修改勞基法，對於加班工時部採三個
+月結算一次的「工時帳戶」設計。對此，勞動部鬆口說「可以討論」，據了解，<span class="f2 hl">勞動部初
+</span><span class="f2 hl">步評估此設計不致造成勞工過勞，對於勞工權益影響應可以接受。</span>
+
+民進黨籍立委何欣純等人上周提案修改勞基法，主要有三大主張：一是休息日加班工時以
+實際工時計算；二、加班工時上限採「每季138個小時、每月最高54小時」；三、年度未
+休完特休假可遞延至翌年。其中，<span class="f2 hl">加班工時採每季結算的「工時帳戶」爭議最大，勞團已
+</span><span class="f2 hl">表態強力反對。</span>
+
+勞動部長林美珠上周在立法院表示，對於黨籍立委的提案，勞動部已著手評估，主要是考
+量對勞工權益影響。其中，<span class="f2 hl">針對加班工時採工時帳戶制度，勞動部高層官員說，可以討論
+</span><span class="f2 hl">。</span>
+
+國內企業希望工時能有彈性，主張仿照德國工時帳戶制度，但過去勞動部都會立刻跳出來
+反對，主要是因為<span class="f2 hl">國內工會尚不具備與資方談判的能力與條件</span>，貿然採工時帳戶制，雇主
+獲得工時彈性，但會出現<span class="f2 hl">勞工在旺季過勞，淡季則薪水太少的現象。</span>
+
+不過這次民進黨籍立委提案，勞動部並未反對。勞動部勞動條件司長謝倩蒨解釋，德國工
+時帳戶是由勞雇雙方約定總工時，包括正常工時及加班工時如何使用，係屬「個人總工時
+的變形」；但<span class="f2 hl">這次立委提案的工時帳戶僅是限於加班工時，類似「加班時數區間彈性」，
+</span><span class="f2 hl">因此有討論空間。</span>
+
+<span class="f2 hl">官員也表示，因休息日加班費和加班工時的種種限制，已引起企業「寒蟬效應」，</span>乾脆休
+息日都不要加班，才不會踩到地雷，此導致勞工無法在休息日加班，賺不到加班費。
+
+<a href="https://goo.gl/M68JN8" target="_blank" rel="nofollow">https://goo.gl/M68JN8</a>
+<a href="https://goo.gl/kIMVSk" target="_blank" rel="nofollow">https://goo.gl/kIMVSk</a>
+
+看起來勞動部是有計劃地在演戲
+和上星期的態度相比，又更軟一些
+今天還要審低薪白領案
+勞工們的副本越來越多了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.138.235.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496202228.A.00C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496202228.A.00C.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 林美珠蔡英文親戚捏 你們敢嘴</span><span class="push-ipdatetime"> 05/31 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 喔 挖 那會發存摺嗎</span><span class="push-ipdatetime"> 05/31 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 早說表姐是草包</span><span class="push-ipdatetime"> 05/31 11:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eatingshit</span><span class="f3 push-content">: 選前最挺勞工的政府</span><span class="push-ipdatetime"> 05/31 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tml7415</span><span class="f3 push-content">: 至少民進黨還是比國民黨好</span><span class="push-ipdatetime"> 05/31 11:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 跟邱太三一樣一輩子當副的</span><span class="push-ipdatetime"> 05/31 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chose</span><span class="f3 push-content">: 忘了把勞當人看 靴靴</span><span class="push-ipdatetime"> 05/31 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">theseller</span><span class="f3 push-content">: 資 進 黨..</span><span class="push-ipdatetime"> 05/31 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GambitCT</span><span class="f3 push-content">: 他媽的逼鬆了才是真的，幹</span><span class="push-ipdatetime"> 05/31 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sagarain</span><span class="f3 push-content">: 心中最軟的</span><span class="push-ipdatetime"> 05/31 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunchen0201</span><span class="f3 push-content">: 改革就是需要這樣穩健且務實 宅心仁厚的好政府</span><span class="push-ipdatetime"> 05/31 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwer0916</span><span class="f3 push-content">: 反正再怎麼，覺青還是會替民進黨掌權者硬凹。他們吃台灣</span><span class="push-ipdatetime"> 05/31 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwer0916</span><span class="f3 push-content">: 米 喝台灣水，卻幫民進黨糟蹋台灣勞工，噁心！</span><span class="push-ipdatetime"> 05/31 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infor</span><span class="f3 push-content">: 資動部 簡直是垃圾想法</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwert1629</span><span class="f3 push-content">: 呵呵～勞團</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fonzae</span><span class="f3 push-content">: 最好休息日不加班，這個立委來亂的？</span><span class="push-ipdatetime"> 05/31 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwert1629</span><span class="f3 push-content">: 不用養家的人真他媽輕鬆</span><span class="push-ipdatetime"> 05/31 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fonzae</span><span class="f3 push-content">: 目前太多企業，要求員工上班，但是用別的方式迴避</span><span class="push-ipdatetime"> 05/31 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">daniel3658</span><span class="f3 push-content">: 開放中資買房、放寬加班上限 住家裡沒工作的蠢吱無感</span><span class="push-ipdatetime"> 05/31 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itsawar99</span><span class="f3 push-content">: 噁心資動部</span><span class="push-ipdatetime"> 05/31 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 掠奪勞工不遺餘力</span><span class="push-ipdatetime"> 05/31 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">take3024</span><span class="f3 push-content">: 嗚嗚嗚嗚嗚嗚嗚嗚</span><span class="push-ipdatetime"> 05/31 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 如果要這樣, 那麼加班工時的加成也不應該每日重算!</span><span class="push-ipdatetime"> 05/31 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 例如:一季加班10小時內x1.33, 10~20 x1.6, 20~30 x 2</span><span class="push-ipdatetime"> 05/31 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 要改就統一這樣改, 就只有資方佔便宜, 我呸!</span><span class="push-ipdatetime"> 05/31 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">doubleperson</span><span class="f3 push-content">: 垃圾資進黨，你們才是收割學運成果的收割黨。幹</span><span class="push-ipdatetime"> 05/31 12:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 幹你娘咧，薪資怎麼不一起學德國</span><span class="push-ipdatetime"> 05/31 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">schula</span><span class="f3 push-content">: 嗯…</span><span class="push-ipdatetime"> 05/31 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 可以你老母</span><span class="push-ipdatetime"> 05/31 12:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 七天假還來可不可以?</span><span class="push-ipdatetime"> 05/31 12:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 沒噓到XX證明大部分勞工可以接受啊XDDDD</span><span class="push-ipdatetime"> 05/31 12:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mybook</span><span class="f3 push-content">: 真要這樣改也可 但最低單位0.5小時計 薪資一律x2起跳</span><span class="push-ipdatetime"> 05/31 13:49
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496202228.A.00C.html?cacheKey=2052-2756091&offset=5074&offset-sig=71f82b63efaaea592ffeee3707e94ba54825a602" data-longpollurl="/v1/longpoll?id=fa959661a5e6931e66b77b8e8f8cf03153c07ba2" data-offset="5074"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

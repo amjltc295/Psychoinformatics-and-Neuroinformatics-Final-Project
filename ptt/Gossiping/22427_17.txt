@@ -1,0 +1,218 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496549645.A.431.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 如果64天安門成功的八卦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="無知的是你啊
+不過原文的人可能也不知道實際64背後的政治意義
+64天安門事件表象是中共中央是否武力鎮壓學生的事
+但是在中南海裡代表的是一場權力核心博弈戰爭
+當初溫家寶有聽趙紫陽的命令(溫家寶當時是中共中央辦公廳主任 現任是栗戰書)
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 如果64天安門成功的八卦">
+<meta property="og:description" content="無知的是你啊
+不過原文的人可能也不知道實際64背後的政治意義
+64天安門事件表象是中共中央是否武力鎮壓學生的事
+但是在中南海裡代表的是一場權力核心博弈戰爭
+當初溫家寶有聽趙紫陽的命令(溫家寶當時是中共中央辦公廳主任 現任是栗戰書)
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496549645.A.431.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496549645.A.431.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">xeloss (蟹工船の労働者)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 如果64天安門成功的八卦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 12:14:01 2017</span></div>
+<span class="f2">※ 引述《aliconcon (阿里空空)》之銘言：
+</span><span class="f6">: ※ 引述《Fw200 (小松坡戰鬥群)》之銘言：
+</span><span class="f6">: : 如題
+</span><span class="f6">: : 如果當天64成功的話 會發生什麼事呢
+</span><span class="f6">: : 中國共產黨會GG嗎 台灣會比現在強還是弱的
+</span><span class="f6">: : 還是中國會更強還是崩潰
+</span><span class="f6">: : 有沒有這類八卦在
+</span><span class="f6">: : 謝謝
+</span><span class="f6">: 什麼是當天64成功？
+</span><span class="f6">: 講這什麼沒邏輯的話啊
+</span><span class="f6">: 還是你年紀太小 不懂什麼是64天安門
+</span><span class="f6">: 是從1989年4月15日 中國大學生為了紀念胡耀邦
+</span><span class="f6">: 而發起的民主運動
+</span><span class="f6">: 6月4日這一天中國為了停止這場運動 而開始屠殺學生
+</span><span class="f6">: 所以你說如果當天64成功的話  是指把學生全部殺光嗎？？？
+</span><span class="f6">: 什麼叫64成功啊 沒邏輯的話
+</span><span class="f6">: 你要問的應該是如果當初中國民主化成功的話
+</span><span class="f6">: 中國現在會比較強嗎？
+</span><span class="f6">: 怎麼會說64成功....成功死光的話也不關本佛的事啦
+</span><span class="f6">: 中國人關臺灣屁事
+</span>無知的是你啊
+
+不過原文的人可能也不知道實際64背後的政治意義
+
+64天安門事件表象是中共中央是否武力鎮壓學生的事
+
+但是在中南海裡代表的是一場權力核心博弈戰爭
+
+當初溫家寶有聽趙紫陽的命令(溫家寶當時是中共中央辦公廳主任 現任是栗戰書)
+
+及時召回萬里(時任全國人大委員長)
+
+這場政治權力的博弈就翻盤了
+
+但溫家寶遲疑了一天
+
+讓鄧矮子有機會運作中共元老們在政治局會議廢掉趙紫陽
+
+--
+人は城、人は石垣、人は堀、情けは味方、仇は敵なり
+                                                武田信玄より
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 119.14.56.123
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496549645.A.431.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496549645.A.431.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LFD</span><span class="f3 push-content">: 我覺得64很成功阿 成功殺死一堆民運人士</span><span class="push-ipdatetime"> 06/04 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Vett</span><span class="f3 push-content">: 動不動就有鄉野奇談</span><span class="push-ipdatetime"> 06/04 12:16
+</span></div>這不是鄉野奇談阿
+
+趙紫楊2005死前的回憶錄有提到當時他的構想
+
+包括如何應付當時中共鷹派主張鎮壓的元老和李鵬/姚依林
+
+趙當時手上是有武器的
+
+缺的是軍權 但要凍結鄧矮子的中央軍委主席權限也要有手段
+
+關鍵就在萬里手上
+
+只是就是被人先下手為強反將一軍惹w
+<span class="f2">※ 編輯: xeloss (119.14.56.123), 06/04/2017 12:21:51
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Vett</span><span class="f3 push-content">: 李鵬要鎮壓 執行的是鄧小平的意志</span><span class="push-ipdatetime"> 06/04 12:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 其實當初氣氛就是真的很緊張 大家也都各自盤算</span><span class="push-ipdatetime"> 06/04 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 只能說 天運吧 剛好當時胡過世 學生開始搞活動 越搞越大</span><span class="push-ipdatetime"> 06/04 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 搞到六月初 整個氣氛已經到了沸騰 共中央各方角力暗自盤算</span><span class="push-ipdatetime"> 06/04 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 當時李對示威活動表示要強硬 趙則認為要溝通</span><span class="push-ipdatetime"> 06/04 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 鄧後來偏向李 整個歷史就偏向一邊了</span><span class="push-ipdatetime"> 06/04 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 從後來中共對趙僅軟禁 沒有給予消失 我是覺得中共對趙</span><span class="push-ipdatetime"> 06/04 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 有所認同? 或是也怕動作太大又搧風點火?</span><span class="push-ipdatetime"> 06/04 13:50
+</span></div>不是認同 而當下是殺趙紫陽沒好處
+
+殺趙紫陽只是會激起黨內改革派集結做反戈一擊
+
+同時萬一處決趙紫陽一事茲事體大
+
+好歹趙當時是政治局常委+中共總書記
+
+讓在天安門示威的學生知曉
+
+恐怕整個風暴會從北京席捲全中國大陸
+
+無助於安定政權
+
+只廢掉趙的實權是最安定的做法
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 總之 那段日子 算是中共最接近從內部自行民主的時間點</span><span class="push-ipdatetime"> 06/04 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 只是當初如果真的民主化 是好是壞也未知</span><span class="push-ipdatetime"> 06/04 13:53
+</span></div>你想太多了
+
+趙只是中共高層的改革開放派
+
+但趙在死前沒提過要廢掉中國共產黨 中國走向民主的話
+
+趙充其量是黨內溫和派
+
+可接受基層反映民情挑戰領導權威的高層
+
+直接連結到全民主選舉太跳tone
+
+海外大紀元之類的華文媒體的想像聽聽就好
+
+不全然是對的
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 畢竟民主改革定會踩到舊派利益 各地舊派肯定起來鬧</span><span class="push-ipdatetime"> 06/04 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JanPat</span><span class="f3 push-content">: 到時候各地紛亂 可能對人民的民生更不好也未可知</span><span class="push-ipdatetime"> 06/04 13:57
+</span></div><span class="f2">※ 編輯: xeloss (119.14.56.123), 06/04/2017 14:46:31
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496549645.A.431.html?cacheKey=2052-1104931&offset=3622&offset-sig=54e80aaba738d2ed92535a5d57953f2bc4147df7" data-longpollurl="/v1/longpoll?id=9e2b8105f2580fdf92772b2e4a7597a234951d4b" data-offset="3622"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

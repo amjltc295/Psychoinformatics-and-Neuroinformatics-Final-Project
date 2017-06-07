@@ -1,0 +1,208 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495120007.A.CB3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 立委提案 行人過馬路時滑手機罰三百元 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+公視新聞網
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 立委提案 行人過馬路時滑手機罰三百元">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+公視新聞網
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495120007.A.CB3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495120007.A.CB3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">saiulbb (Becky♪＃是我的拉!)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 立委提案 行人過馬路時滑手機罰三百元</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 23:06:43 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+公視新聞網
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+立委提案 行人過馬路時滑手機罰三百元
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+晚間新聞 2017-05-18
+
+<a href="https://youtu.be/GlW_yj-BfHE" target="_blank" rel="nofollow">https://youtu.be/GlW_yj-BfHE</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/GlW_yj-BfHE" frameborder="0" allowfullscreen></iframe></div></div></div><span class="b4 hl">
+</span><span class="b4 hl">穿越馬路當「低頭族」，一邊走路、一邊滑手機，可能影響交通，也恐怕危及自身安全。
+</span><span class="b4 hl">今天在立法院交通委員會，立委陳歐珀提案修法，建議處300元罰鍰。</span>不過，<span class="f1 hl">也有立委認
+</span><span class="f1 hl">為，只是過馬路滑手機或打電話，並沒有造成交通事故就開罰，不符比例原則，而且舉發
+</span><span class="f1 hl">也有困難，最後決議保留。</span>
+
+智慧型手機越來越普及，現代人幾乎人手一機，有些人連走路或過馬路時，不是一邊講電
+話，就是低頭滑手機。
+
+==民眾 林小姐==
+如果手機有震動的話
+我都會看一下 隨時會看一下
+因為怕說有重要急事要找我
+
+==民眾 王先生==
+走在路上的時候會
+但是要上到柏油路的時候
+就會把它收進去了
+
+<span class="f3 hl">一邊走路、一邊滑手機真的很危險，很可能因為沒注意到前方狀況而發生危險，例如不慎
+</span><span class="f3 hl">跌倒或被車輛撞傷，因此民進黨立委陳歐珀等18人，提案修正「道路交通管理處罰條例」
+</span><span class="f3 hl">第78條，新增穿越馬路時，只要以手持方式使用行動電話等裝置，導致有礙交通安全之行
+</span><span class="f3 hl">為者，將處罰新台幣三百元。</span>
+
+==民進黨立委 陳歐珀==
+我提出處分三百塊
+不是要處分 而是要警示
+過去到現在 我們發現到
+全世界都一樣
+因為手機的使用
+智慧型手機的使用
+造成很多交通上的安全
+
+<span class="f2 hl">陳歐珀表示，美國曾經做過調查，低頭滑手機是造成行人死亡最大幫兇，而且愛達荷州已
+</span><span class="f2 hl">制訂法律，如果走路滑手機、將被罰款50美金，相當於台幣1500元左右，因此希望國內也
+</span><span class="f2 hl">能有相關罰則</span>，<span class="b1 hl">不過因為有其他立委考量,如果沒造成交通事故就開罰，不符比例原則，
+</span><span class="b1 hl">而且舉發也有困難，最後此案暫時保留。</span>
+
+記者賴淑敏 蔣龍祥 台北報導
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="http://news.pts.org.tw/article/358986" target="_blank" rel="nofollow">http://news.pts.org.tw/article/358986</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+雖然立法立意良善，但舉發困難等問題暫時保留，如果沒交通事故被檢舉的一定會盧的XD
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.56.143.149
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495120007.A.CB3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495120007.A.CB3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QBey</span><span class="f3 push-content">: 只能滑oppo</span><span class="push-ipdatetime"> 05/18 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gogobar</span><span class="f3 push-content">: 幹，垃圾</span><span class="push-ipdatetime"> 05/18 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 現在手機有手錶或是音樂多功能阿</span><span class="push-ipdatetime"> 05/18 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 300 笑死</span><span class="push-ipdatetime"> 05/18 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pftmax</span><span class="f3 push-content">: 罰人民很快，罰財團裝死</span><span class="push-ipdatetime"> 05/18 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 腦殘KMT 35席真的太多 下次只給KMT 5席 多的30席全給DPP</span><span class="push-ipdatetime"> 05/18 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pftmax</span><span class="f3 push-content">: 人民沒造成危害要罰，財團毒害人民拘禁勞工都不吭聲</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 這種都很有效率  酒駕繼續縱容</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">netion</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">j21802</span><span class="f3 push-content">: 幹你娘垃圾廢物立委沒種修酒駕重罰</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tommy1233146</span><span class="f3 push-content">: 300是要浪費警察時間的嗎</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superdrift</span><span class="f3 push-content">: 先把所有未禮讓行人三公尺都罰完再來說啦</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: OPPO 你不也是賣手機的？</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 賣手機的立法禁止人用手機</span><span class="push-ipdatetime"> 05/18 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">berryc</span><span class="f3 push-content">: 白痴  吃相有夠難看</span><span class="push-ipdatetime"> 05/18 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ben840619</span><span class="f3 push-content">: 贊成 過馬路滑手機真的該死</span><span class="push-ipdatetime"> 05/18 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iPadProPlus</span><span class="f3 push-content">: 不修酒駕修這個</span><span class="push-ipdatetime"> 05/18 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Syffence</span><span class="f3 push-content">: 不戴安全帽也沒造成交通事故憑什麼罰 要嘛都罰要嘛不罰</span><span class="push-ipdatetime"> 05/18 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CavendishJr</span><span class="f3 push-content">: 好</span><span class="push-ipdatetime"> 05/18 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jim1122</span><span class="f3 push-content">: 什麼都敢提,就不敢提案自己年薪900萬對半砍以符轉型正義</span><span class="push-ipdatetime"> 05/18 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Syffence</span><span class="f3 push-content">: 自己的生命自己負責 沒造成實害罰個屁</span><span class="push-ipdatetime"> 05/18 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RevanKai</span><span class="f3 push-content">: 其實...這個可以立= =</span><span class="push-ipdatetime"> 05/18 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">will3399</span><span class="f3 push-content">: 歐珀表示，滑OPPO的不罰！</span><span class="push-ipdatetime"> 05/18 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RevanKai</span><span class="f3 push-content">: 華一滑停在路中央的滿多的</span><span class="push-ipdatetime"> 05/18 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 腦殘</span><span class="push-ipdatetime"> 05/18 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 垃圾資進黨修這很快 幹黑心食安呢</span><span class="push-ipdatetime"> 05/18 23:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 這個頂多自殺而已，酒駕殺人還是不嚴打</span><span class="push-ipdatetime"> 05/18 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 35席真的太多了，麻煩下次直接歸零好嗎</span><span class="push-ipdatetime"> 05/18 23:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diesenn</span><span class="f3 push-content">: 贊成，這樣本來就危險，最好反對的都沒有碰過這種新三寶</span><span class="push-ipdatetime"> 05/18 23:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">emega</span><span class="f3 push-content">: 先把啊扁抓回去關再說啦</span><span class="push-ipdatetime"> 05/19 00:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dendrimer</span><span class="f3 push-content">: 有影響到別人嗎</span><span class="push-ipdatetime"> 05/19 07:14
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495120007.A.CB3.html?cacheKey=2052-40121674&offset=5319&offset-sig=30517263982314f738b62fc0a2d5cd14004c4ddb" data-longpollurl="/v1/longpoll?id=73725f977f8fadf2ee9d9e561201dda798bb5a3f" data-offset="5319"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

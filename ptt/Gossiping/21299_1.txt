@@ -1,0 +1,198 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495790990.A.5C0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 防狼師條款立院通過!補習班未來對外招生 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:風傳媒
+2.完整新聞標題:
+防狼師條款立院通過!補習班未來對外招生須揭露老師真實姓名
+3.完整新聞內文:
+方炳超 2017年05月26日 12:24 風傳媒
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 防狼師條款立院通過!補習班未來對外招生">
+<meta property="og:description" content="1.媒體來源:風傳媒
+2.完整新聞標題:
+防狼師條款立院通過!補習班未來對外招生須揭露老師真實姓名
+3.完整新聞內文:
+方炳超 2017年05月26日 12:24 風傳媒
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495790990.A.5C0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495790990.A.5C0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">diego99 (誰是我的小天使？！)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 防狼師條款立院通過!補習班未來對外招生</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 17:29:47 2017</span></div>
+1.媒體來源:風傳媒
+
+
+2.完整新聞標題:
+
+防狼師條款立院通過!補習班未來對外招生須揭露老師真實姓名
+
+3.完整新聞內文:
+
+方炳超 2017年05月26日 12:24 風傳媒
+
+立法院26日進行本會期最後一次院會，立院三讀通過《補習及進修教育法》第9條修正草
+案，即所謂的「狼師條款」，<span class="b1 hl">未來補習班對外招生時，須揭露負責人及老師的真實姓名。</span>
+
+近期因林亦含案，引發社會各界對補教業管理以及補教老師實名制的關注。此案本月17日
+才由教育及文化委員會初審通過，趕在本會期最後一天院會，進行二三讀並通過。
+
+未來，補習班招生廣告或宣傳，若涉及負責人、教職員工姓名時，除立案名稱外，必須揭
+露其真實姓名，且不得有虛偽不實的情形。<span class="b1 hl">法案也明定補習班聘僱教職員工前，應檢具相
+</span><span class="b1 hl">關名冊、學經歷證件、身分證明文件影本，並附上3個月內核發的經查刑事紀錄證明書等
+</span><span class="b1 hl">基本資料</span>，陳報直轄市、縣市主管教育行政機關核准。至於聘僱的教職員工若為外國人，
+也必須檢附其原護照國開具的行為良好證明文件，但現已在台者不受規定。
+
+衛福部將建立「性騷擾、性侵害犯罪者資料庫」
+
+條文也訂出，未來由衛福部建立「性騷擾、性侵害犯罪者資料庫」，協助轄市、縣市教育
+行政機關辦理查詢。<span class="b1 hl">針對補習班教職員工涉及性侵害、性騷擾、性剝削經判刑確定，或通
+</span><span class="b1 hl">緝在案，以及有性侵害行為或情節重大的性騷擾、性霸凌、損害兒少權益行為，經查證屬
+</span><span class="b1 hl">實者，應解聘或解雇；不過，若非屬情節重大，或是還可審酌案件情節者，則規定1至4年
+</span><span class="b1 hl">不得聘用或雇用。 </span>
+
+而補習班負責人如果涉及性騷擾、性霸凌、性侵害、損害兒少權益行為，直轄市、縣市教
+育行政機關也會廢止其補習班立案。補習班執業時如發生負責人及教職員工對學生有性侵
+害等行為，除要依法通報，也須通知各直轄市、縣市教育行政機關，<span class="b1 hl">違者處負責人新台幣
+</span><span class="b1 hl">5萬元以上、25萬元以下罰鍰，並得令其限期改善，屆期未改善者，按次處罰，必要時也
+</span><span class="b1 hl">會令其停止招生或廢止立案。 </span>
+
+教育及文化委員會召委柯志恩說，這案子是當時在藍綠因前瞻條例有不同看法下，難得有
+共識的案子，大家非常認真審查，<span class="b1 hl">狼師是補習班之恥、家長心中之痛，她希望未來不要再
+</span><span class="b1 hl">有類似案例再發生。</span>
+
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.storm.mg/article/272969" target="_blank" rel="nofollow">http://www.storm.mg/article/272969</a>
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.174.120.190
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495790990.A.5C0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495790990.A.5C0.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 自己去當小三這種事最好是不會再有XDDD</span><span class="push-ipdatetime"> 05/26 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">morichi</span><span class="f3 push-content">: 講的好像才女不知道陳星本名才上去給幹一樣</span><span class="push-ipdatetime"> 05/26 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 照樣當小三 無罪</span><span class="push-ipdatetime"> 05/26 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ewing</span><span class="f3 push-content">: 有檢舉機制 嗎。又可保護被害者。  不要每次都要靠新聞報</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewing</span><span class="f3 push-content">: 紙</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 預估補習班會釋出大量教師職缺，很多學校老師或公務</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 員不敢兼課了</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alfiema</span><span class="f3 push-content">: 以後大家講到這法案都會想到有位狼師叫陳國星</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asiaking5566</span><span class="f3 push-content">: 小三們進攻嚕~~</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deii</span><span class="f3 push-content">: 不要臉天下無敵。真名會讓它龜嗎</span><span class="push-ipdatetime"> 05/26 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deii</span><span class="f3 push-content">: 請問ooutputt有什麼含義</span><span class="push-ipdatetime"> 05/26 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 家長花錢送女兒去被補習班老師誘幹，這種事最好不要再</span><span class="push-ipdatetime"> 05/26 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 有</span><span class="push-ipdatetime"> 05/26 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alfiema</span><span class="f3 push-content">: 陳國星這樣也算是歷史留名了吧，只不過是臭名XD</span><span class="push-ipdatetime"> 05/26 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fallheart</span><span class="f3 push-content">: 知道本名就不想跟老師戀愛了嗎(￣▽￣)</span><span class="push-ipdatetime"> 05/26 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 女兒自己要去跟老師睡你家長是擋的了喔? XDD</span><span class="push-ipdatetime"> 05/26 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 對啊，花錢送小孩去補習班被老師幹，老師剛好而已，</span><span class="push-ipdatetime"> 05/26 17:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: ，學生家長活該</span><span class="push-ipdatetime"> 05/26 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cwind07</span><span class="f3 push-content">: 陳星這咖拿夜間部的學歷最好有小女生會迷他  詐欺混人</span><span class="push-ipdatetime"> 05/26 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 性犯罪被判刑確定了還要可以繼續在這領域工作有點奇怪，</span><span class="push-ipdatetime"> 05/26 17:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tv5566</span><span class="f3 push-content">: 幹 工讀生真的夠扯 陳星怎麼不幹自己女兒的嫩鲍</span><span class="push-ipdatetime"> 05/26 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 雖然說是非屬重大情節之類的，但有這個前科還要聘用當講</span><span class="push-ipdatetime"> 05/26 17:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 師，難道不擔心再犯嗎?</span><span class="push-ipdatetime"> 05/26 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">phew18</span><span class="f3 push-content">: 只能防公務員兼差吧 女學生在意嗎<a href="https://goo.gl/lCY2Ig" target="_blank" rel="nofollow">https://goo.gl/lCY2Ig</a></span><span class="push-ipdatetime"> 05/26 17:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 看新聞老4上課影片，馬的，林你是瞎了嗎！</span><span class="push-ipdatetime"> 05/26 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a0000959</span><span class="f3 push-content">: 花錢送小孩去給補習班老師xx 頗呵</span><span class="push-ipdatetime"> 05/26 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwejoezxc33</span><span class="f3 push-content">: 垃圾陳</span><span class="push-ipdatetime"> 05/26 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sanchiya</span><span class="f3 push-content">: 一堆人好緊張，是有鬼還是？</span><span class="push-ipdatetime"> 05/26 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ebeta</span><span class="f3 push-content">: 有狼師補習班應該也要連座！遏阻補習班推卸責任或是成為幫</span><span class="push-ipdatetime"> 05/26 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ebeta</span><span class="f3 push-content">: 兇！！</span><span class="push-ipdatetime"> 05/26 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nabecat</span><span class="f3 push-content">: 猩爺的創舉 粉蝨應該要感到高興</span><span class="push-ipdatetime"> 05/26 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DLHZ</span><span class="f3 push-content">: ...一堆推文智商堪憂</span><span class="push-ipdatetime"> 05/26 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/26 20:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">conanhide</span><span class="f3 push-content">: 陳國星你看到了嗎，因你而起的條款</span><span class="push-ipdatetime"> 05/26 20:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495790990.A.5C0.html?cacheKey=2052-1875032&offset=5646&offset-sig=9928da658f9264686b425c433d05e417fda9941c" data-longpollurl="/v1/longpoll?id=3466ede17b241fdcd81a87aa91de4c6f869f0e0d" data-offset="5646"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

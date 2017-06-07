@@ -1,0 +1,166 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496680914.A.FF2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] WWDC倒數已有開發者排隊「守夜」！同場加 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:ETNEWS
+2.完整新聞標題:
+WWDC倒數已有開發者排隊「守夜」！同場加映蘋果飛碟總部直擊
+3.完整新聞內文:
+記者洪聖壹／美國舊金山報導
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] WWDC倒數已有開發者排隊「守夜」！同場加">
+<meta property="og:description" content="1.媒體來源:ETNEWS
+2.完整新聞標題:
+WWDC倒數已有開發者排隊「守夜」！同場加映蘋果飛碟總部直擊
+3.完整新聞內文:
+記者洪聖壹／美國舊金山報導
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496680914.A.FF2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496680914.A.FF2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">gohole (好)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] WWDC倒數已有開發者排隊「守夜」！同場加</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 00:41:51 2017</span></div>
+1.媒體來源:ETNEWS
+
+
+2.完整新聞標題:
+
+WWDC倒數已有開發者排隊「守夜」！同場加映蘋果飛碟總部直擊
+
+3.完整新聞內文:
+
+記者洪聖壹／美國舊金山報導
+
+第28屆的WWDC蘋果開發者大會將於不到 24 小時內展開，今年會場回歸到聖荷西的
+McEnery Convention Center 舉行，時間訂在美國時間 2017 年 6 月 5 日到 6 月9 日
+，記者稍早直擊到已經有來自約旦的開發者已經拿好椅子，準備搶到距離執行長 Tim
+Cook 最近的距離，直接近距離感受開發者大會的風采。
+
+今年蘋果 iPhone 十週年，WWDC 官方早已忍不住搶先在推特上預告，今年將會有「很多
+ App 更新」，這也代表的全新 iOS 11、Mac OS、TV OS、Watch OS 將更精彩可期，不過
+外媒陸續傳出，今年 WWDC 2017 期間，除了新的作業系統之外，還將帶來更多新的硬體
+，包括換上第七代 intel Core i 的 Macbook Pro、以及從今年初就傳聞到現在的 10.5
+吋 iPad Pro，還有對上 Google Home、Amazon Echo 的 Siri 智慧音箱，整場大會主軸
+將朝向 AI 人工智慧、IoT 方向發展。
+
+
+在拍攝完展場外觀之後，赫然發現，已經有開發者不睡覺，打算直接在會場外面「守夜」
+，目的是希望在隔天早上，第一個進入開發者大會當中，以最近的距離觀看今年開發者大
+會的發布過程，完完全全的鐵粉，這名來自約旦的開發者 Abdul 指出，這是他第一次參
+加 WWDC，覺得一切都很新鮮，這麼早來排隊是為了要近距離參與發表盛會。
+
+除了直擊到開發者大會會場之外，記者前往距離 WWDC 2017 會場大約 20 分鐘車程的神
+秘的 Apple 公司新總部 Apple Park，從外觀來看，比起正在建造的大巨蛋高度相當，但
+是大小大約有大巨蛋的 4~5 倍大，目前外牆都還在整修當中，包括入口處通道也還是工
+地的模樣，實在很難想像這個總部今年 4 月開始就有部分的員工在裡面上班，或許在
+ WWDC 2017 期間，可以從蘋果執行長Tim Cook 口中提到更多有關新總部與在地就業補助
+的相關消息。
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.ettoday.net/news/20170605/938433.htm?from=ettoday_app" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170605/938433.htm?from=ettoday_app</a>
+
+5.備註:
+
+WWDC17 蘋果全球開發者大會 6/6凌晨一點LIVE直播
+<a href="http://boba.ettoday.net/index/285" target="_blank" rel="nofollow">http://boba.ettoday.net/index/285</a>
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.24.209.89
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496680914.A.FF2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496680914.A.FF2.html</a>
+</span><span class="f2">※ 編輯: gohole (114.24.209.89), 06/06/2017 00:42:08
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dayaju</span><span class="f3 push-content">: 又沒iphone8</span><span class="push-ipdatetime"> 06/06 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: 彥州有出場我就推回來</span><span class="push-ipdatetime"> 06/06 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LeicaM</span><span class="f3 push-content">: Oboe phone</span><span class="push-ipdatetime"> 06/06 00:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496680914.A.FF2.html?cacheKey=2052-2727311&offset=2345&offset-sig=1ecd34d16cc2709249ccc29aed0ecd19748e1b5d" data-longpollurl="/v1/longpoll?id=407072971650996ba7d6c6b1ae664dcda4a4b5ac" data-offset="2345"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

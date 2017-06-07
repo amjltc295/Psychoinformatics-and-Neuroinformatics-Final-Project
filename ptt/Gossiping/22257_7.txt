@@ -1,0 +1,273 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496425923.A.AC2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 「民進黨欲除夏林清而後快」，世新教授痛 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="607我在現場，巫還是我從桃園騎車載她去，結束後大家在研究室休息到早上隔天也是我
+載她回家。
+那天會上當事人就說他要公開。
+http://imgur.com/a/nmBH9
+朱伯銘也說他寫這7000多字就是要那天那種場合跟夏公開對話。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 「民進黨欲除夏林清而後快」，世新教授痛">
+<meta property="og:description" content="607我在現場，巫還是我從桃園騎車載她去，結束後大家在研究室休息到早上隔天也是我
+載她回家。
+那天會上當事人就說他要公開。
+http://imgur.com/a/nmBH9
+朱伯銘也說他寫這7000多字就是要那天那種場合跟夏公開對話。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496425923.A.AC2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496425923.A.AC2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PaPa21 (PaPa21)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 「民進黨欲除夏林清而後快」，世新教授痛</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 01:52:01 2017</span></div>
+<span class="f2">※ 引述《hide0325 (hide)》之銘言：
+</span><span class="f6">: ※ 引述《PaPa21 (PaPa21)》之銘言：
+</span><span class="f6">: : 我夏林清的學生，大專教師只談程序正義，不懂鄉民在酸什麼，法治程序都不重要？
+</span><span class="f6">: : 輔大性平調查報告：
+</span><span class="f6">: : 1.沒有私組工作小組
+</span><span class="f6">: : 2.沒有河蟹吃案
+</span><span class="f6">: : 3.沒有言語二度傷害當事人，是朱生主觀建構
+</span><span class="f6">: : (根本沒有朱伯銘(受害人男友)寫的「偷吃也要嘴巴擦乾淨」、「我要聽你作為一個
+</span><span class="f6">: : 女人，在這件事裡面經驗到什麼？不要亂踩上一個受害者的位置。」
+</span><span class="f6">: : 停聘原因：洩漏性侵受害人個資
+</span><span class="f6">: : 結果台北市社會局說當事人已同意於網際網路可以分享、討論足資辨識其身分的言論。
+</span><span class="f6">: : 台北市社會局歡迎打去問02-2720-8889
+</span><span class="f6">: : 台灣鄉民被一個躲回蘇州不敢出來回應的屁孩耍得團團轉。
+</span><span class="f6">: : FB有個輔大性平事件裡面一堆獨派覺青忙著把夏林清當左統打，覺得這樣就能救台灣？
+</span><span class="f6">: : 結果一個陸生朋友聽到停聘跟我說「原來台灣也會發生這種事情，我以為只有我們這才
+</span><span class="f6">: : 會發生。」
+</span><span class="f6">: 要講程序正義喔？
+</span><span class="f6">: <a href="https://youtu.be/eh-Pswzr-T8" target="_blank" rel="nofollow">https://youtu.be/eh-Pswzr-T8</a>
+</span><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/eh-Pswzr-T8" frameborder="0" allowfullscreen></iframe></div></div></div><span class="f6">: 你告訴我這段影片在做什麼？
+</span><span class="f6">: 為什麼最後心裡係主任還說還好有這個機制，沒交給性平會？性侵耶？性侵案件是可以讓
+</span><span class="f6">: 你們自己這樣玩的喔？
+</span><span class="f6">: 講程序正義不會臉紅喔？
+</span>
+
+
+
+607我在現場，巫還是我從桃園騎車載她去，結束後大家在研究室休息到早上隔天也是我
+載她回家。
+
+那天會上當事人就說他要公開。
+
+<a href="http://imgur.com/a/nmBH9" target="_blank" rel="nofollow">http://imgur.com/a/nmBH9</a>
+
+
+朱伯銘也說他寫這7000多字就是要那天那種場合跟夏公開對話。
+
+
+
+李燕跟幾個老人在現場確實tmd很激動，沒辦法，50歲那輩根本不懂鄉民世界，看臉書轉
+7000多次罵自己的老師完全控制不了情緒。不像我們這代年輕人，知道冷靜點等時機風向就會
+轉，結果事情越罵越大。
+
+
+不過兩個年輕人也都搞社運的，無論現場情緒張力多大都面對了，朱巫現場也承認該為選
+擇公開po文指控負責，最後巫也肯定當天對話的推進是有互相的。
+
+
+會議結尾當事人自己主動要求「下次對談要像現在一樣的場合」，請問有人自認被公審還
+在要求公審一次的？
+
+<a href="http://imgur.com/a/0KiRU" target="_blank" rel="nofollow">http://imgur.com/a/0KiRU</a>
+
+
+東森報導根本不做查證，也沒採訪受害人，剪幾個張力片段就說是公審。
+
+台灣記者
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.137.152.223
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496425923.A.AC2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496425923.A.AC2.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #喔</span><span class="push-ipdatetime"> 06/03 01:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 說得好  我夏派</span><span class="push-ipdatetime"> 06/03 01:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 李燕 ㄏㄏ</span><span class="push-ipdatetime"> 06/03 01:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NoWashing</span><span class="f3 push-content">: 不好意思 我是東城派的</span><span class="push-ipdatetime"> 06/03 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arsonlolita</span><span class="f3 push-content">: 原來是林小台 哈哈哈哈哈</span><span class="push-ipdatetime"> 06/03 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 這篇的資訊有撇清性侵事實嗎？</span><span class="push-ipdatetime"> 06/03 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 還有人自承夏流呢 嘖嘖</span><span class="push-ipdatetime"> 06/03 01:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 說公審，請問你對公審的定義是什麼？東森的又是什麼？</span><span class="push-ipdatetime"> 06/03 01:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 欸 你的老師連續違反性平法 性侵害防治法一堆法令 要不要</span><span class="push-ipdatetime"> 06/03 01:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 幫忙她解釋</span><span class="push-ipdatetime"> 06/03 01:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hide0325</span><span class="f3 push-content">: 你回答我什麼叫還好有這個機制 為什麼不交給性平會</span><span class="push-ipdatetime"> 06/03 01:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arsonlolita</span><span class="f3 push-content">: 他會叫你去問何東洪 哈哈哈哈</span><span class="push-ipdatetime"> 06/03 01:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siahlin</span><span class="f3 push-content">: 你是王凱民的好友 蔡同學嗎？！</span><span class="push-ipdatetime"> 06/03 01:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 無論性侵被害人或其親密好友私生活是否開放，只要已開口</span><span class="push-ipdatetime"> 06/03 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arsonlolita</span><span class="f3 push-content">: 他是林小台啦 之前的大平台主辦方</span><span class="push-ipdatetime"> 06/03 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 拒絕性行為，他們對自己身體的主權跟神職人員有不同嗎？</span><span class="push-ipdatetime"> 06/03 01:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 只揭露個資不足以構成這麼多違反事項吧 不要裝死好嗎</span><span class="push-ipdatetime"> 06/03 01:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">FK6819</span><span class="f3 push-content">: 廢</span><span class="push-ipdatetime"> 06/03 01:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 何老師好像從為了自己侵害師大商圈的環境消防的產業，到</span><span class="push-ipdatetime"> 06/03 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 為什麼夏大師會被認定違反這麼多法令呢 都是冤枉她嗎</span><span class="push-ipdatetime"> 06/03 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wowowg</span><span class="f3 push-content">: 腦袋是用來思考的 不是用來被洗腦的</span><span class="push-ipdatetime"> 06/03 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 去年幫助夏林清，實在很擔心他今後被生涯評價成如何……</span><span class="push-ipdatetime"> 06/03 02:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arsonlolita</span><span class="f3 push-content">: 我覺得何只是認同理念 但不知道原來他們歪的這麼利害</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siahlin</span><span class="f3 push-content">: 看了所謂的平台 只覺得…你快醒醒 那不是心理學</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 台灣記者？這地圖砲嗎？王顥中算不算台灣記者？</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 王顥中？哈哈</span><span class="push-ipdatetime"> 06/03 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">siahlin</span><span class="f3 push-content">: 真正的心理學是很美好的 拜託去念正常的學校</span><span class="push-ipdatetime"> 06/03 02:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: 一個教育學系，公然進行集體社會實驗，手法與等級比yout</span><span class="push-ipdatetime"> 06/03 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: ube影片還慘烈。這個結果眾人只覺得剛好而已。</span><span class="push-ipdatetime"> 06/03 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 結果就是沒照程序嘛  說公開就可以公開啊？？？</span><span class="push-ipdatetime"> 06/03 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NaaL</span><span class="f3 push-content">: 喔~老人好可憐喔~ 都是老人因為老才害到夏林清對不對~</span><span class="push-ipdatetime"> 06/03 02:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 郭明良張正琪沒公審受害人都被解職，所以夏林清比這兩位</span><span class="push-ipdatetime"> 06/03 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 你們對夏林清被罵激動萬分 結果受害人完全被邊緣化了嘛</span><span class="push-ipdatetime"> 06/03 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 更珍貴是吧？</span><span class="push-ipdatetime"> 06/03 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NaaL</span><span class="f3 push-content">: 啊，差點忘記夏林清也在現場啦~~ 她有制止這樣亂罵嗎??</span><span class="push-ipdatetime"> 06/03 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 對 不是公審 只是夏派的取暖大會</span><span class="push-ipdatetime"> 06/03 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 順便罵罵不合群  讓他們造成困擾的受害人而已</span><span class="push-ipdatetime"> 06/03 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 這YouTube迫害夏派嗎？<a href="https://youtu.be/XFDPnAqMCmk" target="_blank" rel="nofollow">https://youtu.be/XFDPnAqMCmk</a></span><span class="push-ipdatetime"> 06/03 02:16
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/XFDPnAqMCmk" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">YCf19830416</span><span class="f3 push-content">: 廢話一堆</span><span class="push-ipdatetime"> 06/03 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 來一發蘊含情慾流動的噓~~</span><span class="push-ipdatetime"> 06/03 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">greedypeople</span><span class="f3 push-content">: 不要把夏教主放在受害者的位置OK?</span><span class="push-ipdatetime"> 06/03 02:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 何東洪本來貼的逐字稿咧？<a href="https://disp.cc/b/163-9Don" target="_blank" rel="nofollow">https://disp.cc/b/163-9Don</a></span><span class="push-ipdatetime"> 06/03 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sidvrra</span><span class="f3 push-content">: 不要自己貼上被政治迫害的標籤好嗎？</span><span class="push-ipdatetime"> 06/03 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sidvrra</span><span class="f3 push-content">: 要貼政治迫害，先把教主丟去關個20年啦～</span><span class="push-ipdatetime"> 06/03 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Beowolves</span><span class="f3 push-content">: 國有法度 就你們心理系玩那套 ? 自己玩自己的喔?</span><span class="push-ipdatetime"> 06/03 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a2396494</span><span class="f3 push-content">: 情慾流動這種話也說的出口就是要噓</span><span class="push-ipdatetime"> 06/03 02:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crazysinger</span><span class="f3 push-content">: 哈哈哈哈</span><span class="push-ipdatetime"> 06/03 02:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Orzer</span><span class="f3 push-content">: 情慾流動，給推</span><span class="push-ipdatetime"> 06/03 02:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">crazysinger</span><span class="f3 push-content">: 真的是讓輔大整個名聲臭掉</span><span class="push-ipdatetime"> 06/03 02:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">: 這整個世界除了一堆脈絡寫得咬文嚼字看不下去之外其實前一</span><span class="push-ipdatetime"> 06/03 02:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">: 波我有認真看完很多資料 結論就是讓我覺得這根本就有問題</span><span class="push-ipdatetime"> 06/03 02:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">:  到底有啥好討論 扯這麼多幹嘛 對錯很明顯 辯一堆是何必</span><span class="push-ipdatetime"> 06/03 02:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">: *事件 誤植世界</span><span class="push-ipdatetime"> 06/03 02:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">: 還一直要說自己沒錯 我覺得那堆說法頂多能讓人理解為何事</span><span class="push-ipdatetime"> 06/03 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">: 情會處理成這樣 但本來程序和作法就有問題啦 不要活在自己</span><span class="push-ipdatetime"> 06/03 02:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sooppp</span><span class="f3 push-content">: 這事讓大家知道，輔心的程度真的是蠻糟糕的</span><span class="push-ipdatetime"> 06/03 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arkin</span><span class="f3 push-content">: 的世界</span><span class="push-ipdatetime"> 06/03 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NaaL</span><span class="f3 push-content">: <a href="/bbs/Gossiping/M.1496170622.A.334.html" target="_blank" rel="nofollow">#1PBS1-Cq</a> 之前被嫌文章又臭又長，夏派終於改短啦</span><span class="push-ipdatetime"> 06/03 02:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mmmbop</span><span class="f3 push-content">:  你老師腦子壞去 你可以不用跟著壞</span><span class="push-ipdatetime"> 06/03 03:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wonderlandwu</span><span class="f3 push-content">: 你以為只看片段影片？還有逐字稿耶～</span><span class="push-ipdatetime"> 06/03 03:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonderlandwu</span><span class="f3 push-content">: 人家打算討論二度傷害的事，結果你們一直討論夏受傷</span><span class="push-ipdatetime"> 06/03 03:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 就算夏林清被解聘，所受的傷害跟任何被性侵者差得遠呢！</span><span class="push-ipdatetime"> 06/03 03:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wonderlandwu</span><span class="f3 push-content">: 如果沒有公開Po文，哪來公審的進展？</span><span class="push-ipdatetime"> 06/03 03:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonderlandwu</span><span class="f3 push-content">: 對啦，夏流們都是閱障，不懂大家憤怒點是正常的啦</span><span class="push-ipdatetime"> 06/03 03:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 所以停聘甚至解聘夏林清會危害夏林清的性命喔？那PaPa21</span><span class="push-ipdatetime"> 06/03 03:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 是不是有聽聞如果夏的教職受影響就要絕食甚至自裁？</span><span class="push-ipdatetime"> 06/03 03:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">siyaoran</span><span class="f3 push-content">: 夏和性侵受害者不同 她是二次傷害加害者 受到懲罰會受傷</span><span class="push-ipdatetime"> 06/03 03:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">siyaoran</span><span class="f3 push-content">: 不是理所當然的嗎? 難道要讓她學不乖繼續糟蹋受害者?</span><span class="push-ipdatetime"> 06/03 03:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Ashbrook</span><span class="f3 push-content">: zzzzz</span><span class="push-ipdatetime"> 06/03 03:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wonderlandwu</span><span class="f3 push-content">: 夏可以公開喊冤影響輔心，卻不許人家po文影響夏呢～</span><span class="push-ipdatetime"> 06/03 03:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jengjye</span><span class="f3 push-content">: 幫推，故意亂說混肴實情就免了，程度好低喔...</span><span class="push-ipdatetime"> 06/03 05:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shimo</span><span class="f3 push-content">: 公布個資好棒棒哦</span><span class="push-ipdatetime"> 06/03 05:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 06/03 05:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tcod</span><span class="f3 push-content">: 只會檢討別人從不檢討自己</span><span class="push-ipdatetime"> 06/03 05:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">douxid</span><span class="f3 push-content">: 我不要聽一個信徒的片面之詞，噓</span><span class="push-ipdatetime"> 06/03 05:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LaHu</span><span class="f3 push-content">: 這個會就是被認定再次傷害被害人  你們做這種事還是不知道</span><span class="push-ipdatetime"> 06/03 07:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaHu</span><span class="f3 push-content">: 犯法  夏派理論真的好棒棒</span><span class="push-ipdatetime"> 06/03 07:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jdklas</span><span class="f3 push-content">: 出3000可以去輔大暢玩3小時嗎</span><span class="push-ipdatetime"> 06/03 07:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 繼續丟人吧~~~~ PO越多 越好 最好把那學閥的人通通釣出</span><span class="push-ipdatetime"> 06/03 07:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fab4312</span><span class="f3 push-content">: 哈哈哈哈</span><span class="push-ipdatetime"> 06/03 07:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fab4312</span><span class="f3 push-content">: 推錯補噓</span><span class="push-ipdatetime"> 06/03 07:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fab4312</span><span class="f3 push-content">: 噓</span><span class="push-ipdatetime"> 06/03 07:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 按你夏教主說法，我不要聽信一個教徒說法</span><span class="push-ipdatetime"> 06/03 08:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dusted</span><span class="f3 push-content">: 你在現場連公審都看不出喔？你真可悲</span><span class="push-ipdatetime"> 06/03 08:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shimo</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/03 08:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shimo</span><span class="f3 push-content">: 有本事去打行政訴訟還是聲請釋憲啊</span><span class="push-ipdatetime"> 06/03 08:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shimo</span><span class="f3 push-content">: 只會欺負學生</span><span class="push-ipdatetime"> 06/03 08:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">piliwu</span><span class="f3 push-content">: 你們這群違反性平法公審受害人的噁心邪教，不知我們有國法</span><span class="push-ipdatetime"> 06/03 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">godbar</span><span class="f3 push-content">: 噁心</span><span class="push-ipdatetime"> 06/03 09:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sagami002L</span><span class="f3 push-content">: 說出口的秘密不是秘密，說出口的隱私不是隱私?</span><span class="push-ipdatetime"> 06/03 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soscoco</span><span class="f3 push-content">: 智障工讀生</span><span class="push-ipdatetime"> 06/03 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sechslee</span><span class="f3 push-content">: 逐字稿都看完了 你以為罵個記者就能混過去? 夏景夏系</span><span class="push-ipdatetime"> 06/03 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">superprada</span><span class="f3 push-content">: 本來就公審 還在狡辯</span><span class="push-ipdatetime"> 06/03 16:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gfneo</span><span class="f3 push-content">: 還是這句:你根本是對[你老師]落井下石呀~~~</span><span class="push-ipdatetime"> 06/03 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soscoco</span><span class="f3 push-content">: 可憐的工讀生快來回話歐</span><span class="push-ipdatetime"> 06/03 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KJoshT</span><span class="f3 push-content">: 我不想聽一個教徒的說法！</span><span class="push-ipdatetime"> 06/03 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sportsyzm</span><span class="f3 push-content">: 噁</span><span class="push-ipdatetime"> 06/03 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">azdc</span><span class="f3 push-content">: 夏系夏景</span><span class="push-ipdatetime"> 06/03 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kinoyamato</span><span class="f3 push-content">: 原來是夏流的朋友呀</span><span class="push-ipdatetime"> 06/03 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Scutum</span><span class="f3 push-content">: 當別人都沒有看那一段公審的資料？</span><span class="push-ipdatetime"> 06/03 23:08
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496425923.A.AC2.html?cacheKey=2052-1782803&offset=12192&offset-sig=0c6c3ec5de4dc0bd986340baee88d9f5210cb717" data-longpollurl="/v1/longpoll?id=af02d79f619c60bbb392113f69e32ffd48f185b6" data-offset="12192"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

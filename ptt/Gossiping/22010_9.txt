@@ -1,0 +1,195 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496285577.A.0F2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 前瞻沒下鄉宣傳 總統轟政院 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:蘋果日報
+http://www.appledaily.com.tw/appledaily/article/headline/20170601/37668838/
+2.完整新聞標題:
+前瞻沒下鄉宣傳 總統轟政院
+2017年06月01日
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 前瞻沒下鄉宣傳 總統轟政院">
+<meta property="og:description" content="1.媒體來源:蘋果日報
+http://www.appledaily.com.tw/appledaily/article/headline/20170601/37668838/
+2.完整新聞標題:
+前瞻沒下鄉宣傳 總統轟政院
+2017年06月01日
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496285577.A.0F2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496285577.A.0F2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Lxr (鍵盤李組長)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 前瞻沒下鄉宣傳 總統轟政院</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 10:52:53 2017</span></div>
+1.媒體來源:蘋果日報
+<a href="http://www.appledaily.com.tw/appledaily/article/headline/20170601/37668838/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/appledaily/article/headline/20170601/37668838/</a>
+
+2.完整新聞標題:
+前瞻沒下鄉宣傳 總統轟政院
+2017年06月01日
+
+3.完整新聞內文:
+
+【陳雅芃╱台北報導】民進黨力拼立法院臨時會通過《前瞻基礎建設特別條例》，但在野
+黨卻不斷質疑、杯葛。據轉述，<span class="f3 hl">綠委陳明文昨在民進黨中執會建議，部會首長利用立院休</span>
+<span class="f3 hl">會期間下鄉說明前瞻計劃</span>，但行政院副院長林錫耀回說，經濟部長、交通部長恐怕都很忙
+，身兼黨主席的總統蔡英文反斥：<span class="f3 hl">「前瞻不是最重要的事嗎？」</span>「至少次長要到」，林才
+允諾研擬下鄉計劃。
+
+民進黨中執會昨邀國發會副主委曾旭正報告「前瞻基礎建設計劃之城鄉建設」，民進黨發
+言人吳沛憶會後轉述蔡英文裁示說，面對在野黨的批評，作為執政者更要積極站出來「大
+聲的辯護」，「拜託行政院帶領各部會，還有地方政府，大家一起站出來，為前瞻計劃來
+辯護」，說明在台灣經濟發展的這個階段，它將扮演非常重要的角色。
+
+
+地方將全力配合
+
+與會者轉述，陳明文建議，立院已休會，部會首長可下鄉到地方針對前瞻做更詳細說明；
+新竹市長林智堅也說，若部會首長要下鄉說明願配合。林錫耀卻說，經濟、交通部長平日
+都很忙，不一定能到，「會盡量配合」，但遭蔡英文質疑前瞻不是最重要的事嗎？並裁示
+<span class="f3 hl">「部會首長如果沒有空，次長也一定要到。」 </span>
+
+---------
+
+前瞻是最重要的事
+勞工是最軟的一塊
+
+--
+我常跟行家講，1.__董是我偶像，工程搶過來不必自己做，十億先拿走五億，接下來發包
+兩轉三轉四五六七八轉，你不賺錢想辦法偷工減料，再跟2.______勾結追加三、五億預算
+。這個工程下來，我看你起碼拿走七億，3.____我們這麼一點點的錢，你有沒有良心啊!
+Q：請填入電影《黑金》的正確台詞：
+1.(A)周 (B)徐 (C)趙 2.(A)營建署 (B)縣政府 (C)高公局 3.(A)多扣 (B)分給 (C)三砲
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.64.133.22
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496285577.A.0F2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496285577.A.0F2.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkjjrtlym</span><span class="f3 push-content">: 笑死 空心菜不要演戲啦幹</span><span class="push-ipdatetime"> 06/01 10:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dslite</span><span class="f3 push-content">: 自己愛找老藍男 活該</span><span class="push-ipdatetime"> 06/01 10:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gay7788</span><span class="f3 push-content">: 母豬森77了</span><span class="push-ipdatetime"> 06/01 10:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">InfinitySA</span><span class="f3 push-content">: 再演啊</span><span class="push-ipdatetime"> 06/01 10:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyodiy</span><span class="f3 push-content">: 前瞻本來就很重要  你問問今年學測考生 二階面試去運交管</span><span class="push-ipdatetime"> 06/01 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 蔡英文下台</span><span class="push-ipdatetime"> 06/01 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 宣傳就有用喔</span><span class="push-ipdatetime"> 06/01 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yoyodiy</span><span class="f3 push-content">: 的  哪間學校沒有問前瞻建設的問題</span><span class="push-ipdatetime"> 06/01 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 又要下鄉騙老人</span><span class="push-ipdatetime"> 06/01 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce511239</span><span class="f3 push-content">: 要小心野豬喔</span><span class="push-ipdatetime"> 06/01 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 前瞻很重要,但4200億拿去做軌道炒地皮有用</span><span class="push-ipdatetime"> 06/01 10:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 不是不相信前瞻喇，是不相信那些政客…唉~</span><span class="push-ipdatetime"> 06/01 10:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwer0916</span><span class="f3 push-content">: 錢沾計畫禍害子孫，大家當然不願意損陰德的 去欺騙人民</span><span class="push-ipdatetime"> 06/01 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 笑死人 政院全部都妳的人 妳是在演給誰看</span><span class="push-ipdatetime"> 06/01 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baiya</span><span class="f3 push-content">: 行政院：前瞻很重要  但我不想說明 錢敢快給就對了</span><span class="push-ipdatetime"> 06/01 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 低能兒現在不再空心話 現在都直接演了</span><span class="push-ipdatetime"> 06/01 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TyuzuChou</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/01 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwer0916</span><span class="f3 push-content">: 大家當官就混口飯吃，犯不著 這樣寡廉鮮恥吧</span><span class="push-ipdatetime"> 06/01 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linder</span><span class="f3 push-content">: 用了大量的老藍男，然後叫他們下鄉？會下鄉溝通馬時代就會</span><span class="push-ipdatetime"> 06/01 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">clock0220</span><span class="f3 push-content">: 炒地皮好爽賺不用繳稅不用勞力 一次賺幾億只要動張嘴</span><span class="push-ipdatetime"> 06/01 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linder</span><span class="f3 push-content">: 了，怎麼可能當時不會，現在忽然變會了？人是慣性動物好嗎</span><span class="push-ipdatetime"> 06/01 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">: [新聞] 外交部證實 蔡總統將出訪南太友邦</span><span class="push-ipdatetime"> 06/01 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clock0220</span><span class="f3 push-content">: 人家前沾一次賺你100年的薪水 爽死 勞工根本蠢蛋</span><span class="push-ipdatetime"> 06/01 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piece1</span><span class="f3 push-content">: 真的期待太大了..女版馬英九</span><span class="push-ipdatetime"> 06/01 11:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">: 鳥不生蛋的鄉下你們去 我一直要去訪問友邦 很累的</span><span class="push-ipdatetime"> 06/01 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clock0220</span><span class="f3 push-content">: 爽賺完他們的後代都屌虐魯蛇子孫 勞工一輩子吃屎當奴~~</span><span class="push-ipdatetime"> 06/01 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">: 多去幾次看看發twitter會不會比較有效</span><span class="push-ipdatetime"> 06/01 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">: 國會要改革 改革要過半 吱障有夢最霉 賤命相隨</span><span class="push-ipdatetime"> 06/01 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppppppo</span><span class="f3 push-content">: 就扯爛的前瞻不知道如何蒙蔽自己做宣傳</span><span class="push-ipdatetime"> 06/01 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppppppo</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/01 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppppppo</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/01 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppppppo</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/01 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppppppo</span><span class="f3 push-content">:  X</span><span class="push-ipdatetime"> 06/01 11:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">este1a</span><span class="f3 push-content">: 宣傳你媽的臭機八</span><span class="push-ipdatetime"> 06/01 11:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beariscut</span><span class="f3 push-content">: $$$$$$$</span><span class="push-ipdatetime"> 06/01 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OGC218</span><span class="f3 push-content">: 都很忙……</span><span class="push-ipdatetime"> 06/01 13:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">The5F</span><span class="f3 push-content">: 臺車不是最重要的嗎</span><span class="push-ipdatetime"> 06/01 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lamda</span><span class="f3 push-content">: A錢計畫才是最重要的</span><span class="push-ipdatetime"> 06/01 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eric008</span><span class="f3 push-content">: 原來</span><span class="push-ipdatetime"> 06/01 16:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496285577.A.0F2.html?cacheKey=2052-11621518&offset=5758&offset-sig=50cfd83ba80fdec1e21fab0703c7faca292a51d8" data-longpollurl="/v1/longpoll?id=013a3d36814330924c3f2e5dd6e256db697eb086" data-offset="5758"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

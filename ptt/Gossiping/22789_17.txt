@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 台大醫院算是作繭自縛嗎？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="為了醫院評鑑 自編了一本超理想的急救手冊
+整個醫院沒幾個人在用 還有人沒看過這本手冊
+只是為了評鑑臨時編纂出來的超理想、超乎神技的治療方式
+結果被前庭長拿去法院當成台大醫院的醫師有醫療過失
+因為雖然醫師行為符合guideline
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 台大醫院算是作繭自縛嗎？">
+<meta property="og:description" content="為了醫院評鑑 自編了一本超理想的急救手冊
+整個醫院沒幾個人在用 還有人沒看過這本手冊
+只是為了評鑑臨時編纂出來的超理想、超乎神技的治療方式
+結果被前庭長拿去法院當成台大醫院的醫師有醫療過失
+因為雖然醫師行為符合guideline
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">xifaka (當之無愧)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 台大醫院算是作繭自縛嗎？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed Jun  7 00:54:25 2017</span></div>
+為了醫院評鑑 自編了一本超理想的急救手冊
+整個醫院沒幾個人在用 還有人沒看過這本手冊
+只是為了評鑑臨時編纂出來的超理想、超乎神技的治療方式
+結果被前庭長拿去法院當成台大醫院的醫師有醫療過失
+因為雖然醫師行為符合guideline
+但是行為沒有符合院內自編的超理想狀態的急救手冊
+這樣醫師還是有過失呀……
+
+如果時間能倒流
+台大醫院還會為了小小的醫院評鑑
+自編一本超精美超理想的急救手冊嗎？
+
+有無台大醫院被自己編的急救手冊給婊到的八卦？
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.147.42.228
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html</a>
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496768067.A.95E.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 醫審會不是鑑定說無過失嗎</span><span class="push-ipdatetime">06/07 00:55
+</span></div>醫審會鑑定醫師沒有違反「醫療常規」沒疏失
+但是法官說醫療常規僅是最低標準的醫療處置
+還要符合院內自編的超理想狀態的急救手冊
+如此醫師的治療方式才算盡到善良管理人注意義務
+才能說自己沒有過失
+院內自編的急診手冊才是符合台大醫院醫療水準的手冊
+法官認為要用這本手冊判斷醫師有無過失 而非使用guideline
+
+
+
+<span class="f2">※ 編輯: xifaka (27.147.42.228), 06/07/2017 01:00:14
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maime55</span><span class="f3 push-content">: 活該啊</span><span class="push-ipdatetime"> 06/07 01:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 醫療常規就只是常規  說是最低標準實在不合理</span><span class="push-ipdatetime"> 06/07 01:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 高標準就被健保局靠北阿  昨天剛好也有浪費健保的新聞</span><span class="push-ipdatetime"> 06/07 01:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 法官去追殺健保局好嗎  不要讓公親變事主</span><span class="push-ipdatetime"> 06/07 01:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angellll</span><span class="f3 push-content">: 作繭自縛的是阻擋公辦醫療險的醫生</span><span class="push-ipdatetime"> 06/07 01:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angellll</span><span class="f3 push-content">: 從30萬月薪裡面拿出3000事情就解決了 沒人要  :D</span><span class="push-ipdatetime"> 06/07 01:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 最低標準真的笑死人  以後說全身不舒服是上健檢全餐嗎</span><span class="push-ipdatetime"> 06/07 01:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 為了高層想通過各種國際規範或評鑑，基層都會被迫做出</span><span class="push-ipdatetime"> 06/07 01:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 這種超級理想其實是逼人當奴或作假的狗屁垃圾文件</span><span class="push-ipdatetime"> 06/07 01:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 跟政府要投資灑錢的預算書一樣都是逼基層作家欺騙老百姓</span><span class="push-ipdatetime"> 06/07 01:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 浪費健保新聞跟只是最低標準根本矛盾阿  一個是老闆一個會</span><span class="push-ipdatetime"> 06/07 01:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 被吉到底是要怎樣阿</span><span class="push-ipdatetime"> 06/07 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hosen</span><span class="f3 push-content">: 自己寫完不認帳，難怪論文也造假</span><span class="push-ipdatetime"> 06/07 01:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 的，結果訂了這種理想sop最後搞到的還是基層</span><span class="push-ipdatetime"> 06/07 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 那種垃圾文件就像培養小孩怎上台大醫科寫的洋洋灑灑其實</span><span class="push-ipdatetime"> 06/07 01:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 都是騙人騙自己用的，寫的天花亂墜做不到沒用還害基層</span><span class="push-ipdatetime"> 06/07 01:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 台灣空轉這麼多年啊！這種文化也是原因之一啊！就像號角</span><span class="push-ipdatetime"> 06/07 01:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 響起一樣騙長官騙敵人其實是在騙自己</span><span class="push-ipdatetime"> 06/07 01:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkkppp</span><span class="f3 push-content">: 更審換個法官，說不定法官就不採用這手冊。但是對手是前高</span><span class="push-ipdatetime"> 06/07 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkkppp</span><span class="f3 push-content">: 院庭長，法院裡人脈肯定有，要更審法官持同一觀點不難~~</span><span class="push-ipdatetime"> 06/07 01:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496768067.A.95E.html?cacheKey=2052-10582324&offset=3220&offset-sig=e056b0508f27dffe444e414661f256aaae2e7914" data-longpollurl="/v1/longpoll?id=649033ca17aba5d0326a1d7d662a8bff95084e54" data-offset="3220"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

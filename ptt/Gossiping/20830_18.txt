@@ -1,0 +1,230 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495500628.A.ACA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 醫療照護人力荒 58K找無人 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+醫療照護人力荒 58K找無人
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 醫療照護人力荒 58K找無人">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+醫療照護人力荒 58K找無人
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495500628.A.ACA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495500628.A.ACA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mitim (mitim)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 醫療照護人力荒 58K找無人</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 08:50:25 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+醫療照護人力荒 58K找無人
+
+3.完整新聞內文:
+〔記者吳柏緯／台北報導〕高齡化社會來臨，加上政府推動長照政策，醫療保健及社工服
+務相關工作的人力需求增加。根據勞動部統計，今年4月新增的相關職缺達3393人，創下
+近8年同期新高紀錄，創世基金會更開出護理師月薪58K的價碼，盼吸引民眾投入。
+
+邁入第二季，年後轉職潮逐漸趨緩，4月求職求才人數大多較3月下降。勞動部勞動力發展
+署統計，106年4月，各公立就業服務機構新登記求才人數為11萬4847人，較3月下降15.66
+%；新登記求職人數總計5萬9358人，較上月下降11.83%，平均每一位求職者有1.93個工作
+機會。勞發署表示，畢業季即將來臨，就業市場將會轉趨熱絡，預料第三季的數據都會有
+所成長。
+
+照護高齡需求大增
+
+隨著政府推動長照，「醫療保健及社會工作服務業」的人力需求也上升。勞發署指出，截
+至今年2月底，台灣65歲以上老年人口已經超過14歲以下的幼年人口，預估明年正式邁入
+高齡社會，65歲以上人口將達14%，加上政府推動長照2.0，第一線照顧服務人員的需求也
+大幅上升。
+
+根據統計，今年4月，醫療保健及社工服務新增的相關職缺達3393人，近5成職缺集中於護
+理及助產專業人員，其次為個人健康照顧工作人員近3成。護理及助產專業人員具有專業
+護理背景，整體求供倍數更高達4倍。
+
+勞發署表示，目前有多家醫院、社福機構釋出相關職缺，例如中醫大附醫、彰基，以及伊
+甸、創世基金會等；其中，創世護理師職缺薪資上看每月58K。
+
+4.完整新聞連結 (或短網址):
+<a href="http://m.ltn.com.tw/news/life/paper/1104525" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/life/paper/1104525</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.139.38.20
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495500628.A.ACA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495500628.A.ACA.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s820912gmail</span><span class="f3 push-content">: 太神了</span><span class="push-ipdatetime"> 05/23 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stewartqq</span><span class="f3 push-content">: 都是一例一休害的!咦!!!!!!</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">christiano</span><span class="f3 push-content">: 58k找不到人 怎麼不試試70k? 低能雇主 幹！</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XieXie9527</span><span class="f3 push-content">: 創世沒人想去吧....</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wolver</span><span class="f3 push-content">: 每月58K...可以換成時薪看看嗎?</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">icq696969</span><span class="f3 push-content">: 要有護理師執照和大學才有58k......</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: &#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;上看&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;&#34;</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 請問工時？我想這種都要長時間吧</span><span class="push-ipdatetime"> 05/23 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 有種不要講加班費多少</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shirou123</span><span class="f3 push-content">: 找外勞吧</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iioo</span><span class="f3 push-content">: 開七萬啊</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">top1683</span><span class="f3 push-content">: 創世照顧植物人你58k去照顧看看</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">icq696969</span><span class="f3 push-content">: 而且還有其他隱藏條件，58k沒那麼好賺</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevinjl</span><span class="f3 push-content">: 不值大小夜 有這薪水就擠破頭了。</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mitchku</span><span class="f3 push-content">: 等平均有58k再上來嘴，想騙人</span><span class="push-ipdatetime"> 05/23 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 不信有58</span><span class="push-ipdatetime"> 05/23 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ivymina</span><span class="f3 push-content">: 創世非常操，寧願提高點薪水，也不願多找人</span><span class="push-ipdatetime"> 05/23 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">icq696969</span><span class="f3 push-content">: 有興趣可以去nurse版找創世的文章來看</span><span class="push-ipdatetime"> 05/23 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joe19941004</span><span class="f3 push-content">: 誘因不夠就加薪啊 廢話一堆</span><span class="push-ipdatetime"> 05/23 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">icq696969</span><span class="f3 push-content">: 有學姊把創世的福利那些打的很清楚</span><span class="push-ipdatetime"> 05/23 08:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 含加班費</span><span class="push-ipdatetime"> 05/23 08:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 58找不到人用88找阿</span><span class="push-ipdatetime"> 05/23 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ePaper</span><span class="f3 push-content">: 58k找不到不會開85k？</span><span class="push-ipdatetime"> 05/23 08:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">countryair</span><span class="f3 push-content">: 58找不到有試過85嗎</span><span class="push-ipdatetime"> 05/23 08:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 呵呵 鳥政策方向讓活死人越來越多  多到看護人手不夠</span><span class="push-ipdatetime"> 05/23 08:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 創世逃漏稅炒地皮是真的假的  好久以前的新聞</span><span class="push-ipdatetime"> 05/23 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Azabulu</span><span class="f3 push-content">: 照顧植物人比一般病患累很多才58k</span><span class="push-ipdatetime"> 05/23 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">balakuo</span><span class="f3 push-content">: 58k 醫生笑了</span><span class="push-ipdatetime"> 05/23 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">top1683</span><span class="f3 push-content">: 裡面照服員薪水廢到笑</span><span class="push-ipdatetime"> 05/23 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">popo889</span><span class="f3 push-content">: 應該是一週工時破90才有這個錢</span><span class="push-ipdatetime"> 05/23 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asdf70044</span><span class="f3 push-content">: 這屎缺吧</span><span class="push-ipdatetime"> 05/23 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 護病比太高了 很多護理師都撐不住</span><span class="push-ipdatetime"> 05/23 08:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">storyo11413</span><span class="f3 push-content">: 找外勞啊 外勞是台灣未來救星捏</span><span class="push-ipdatetime"> 05/23 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 輪班制把屎把尿清爛瘡  都外籍的在做</span><span class="push-ipdatetime"> 05/23 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldman0204</span><span class="f3 push-content">: 那你有沒有用兩個58K請人看看???</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloud7515</span><span class="f3 push-content">: 都是不承認一個的錯</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 啊就只會找人不會教人啊，嘻嘻長照2.0，說真的安樂死自由</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 化還比較有用</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amaru03</span><span class="f3 push-content">: 垃圾資方</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 我問過某醫學中心的護理師 他說他大夜時 護病比是14</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YumingHuang</span><span class="f3 push-content">: 58K講的好像很多了不起一樣..</span><span class="push-ipdatetime"> 05/23 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 但也要看是在什麼部門的 急診就超賽 還有一些特定部門也是</span><span class="push-ipdatetime"> 05/23 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ccrhalp</span><span class="f3 push-content">: 別被騙了 底薪30K 大夜 績效 考核 輪班到吐才這麼高</span><span class="push-ipdatetime"> 05/23 09:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sendicmimic</span><span class="f3 push-content">: 58k就是樓上說的那樣</span><span class="push-ipdatetime"> 05/23 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yanli2</span><span class="f3 push-content">: 請不到人不會改85k喔？</span><span class="push-ipdatetime"> 05/23 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">melonlon</span><span class="f3 push-content">: 對不起我們社工拉低了這裡面平均薪資</span><span class="push-ipdatetime"> 05/23 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 有沒有試過580K啊？</span><span class="push-ipdatetime"> 05/23 09:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">top1683</span><span class="f3 push-content">: 哈哈哈 這工作起碼85k才值得，58? 洗洗睡</span><span class="push-ipdatetime"> 05/23 09:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainf</span><span class="f3 push-content">: 哈哈哈 覺青喊錢不夠，那長照要收多少才夠呢？</span><span class="push-ipdatetime"> 05/23 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a9111075</span><span class="f3 push-content">: 時薪呢？</span><span class="push-ipdatetime"> 05/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ghgn</span><span class="f3 push-content">: 每天12小以上 做六休1 鬼才做</span><span class="push-ipdatetime"> 05/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: CP值太低, 整個用工時除下來根本低薪</span><span class="push-ipdatetime"> 05/23 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mightymouse</span><span class="f3 push-content">: 58K還找不到人該檢討的是工作內容吧,創世基金會一個</span><span class="push-ipdatetime"> 05/23 09:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mightymouse</span><span class="f3 push-content">: 護理師可能要照顧60-70個病人,誰撐得住?</span><span class="push-ipdatetime"> 05/23 09:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jasonpig</span><span class="f3 push-content">: 有時候可能不是錢的問題</span><span class="push-ipdatetime"> 05/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 58K，一進去就能領到再來說，少騙人了</span><span class="push-ipdatetime"> 05/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ardream</span><span class="f3 push-content">: 大概是年薪除12算起來58k</span><span class="push-ipdatetime"> 05/23 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shiba9527</span><span class="f3 push-content">: 噓過勞</span><span class="push-ipdatetime"> 05/23 09:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tatata</span><span class="f3 push-content">: 58K請不到人 因為工作付出的勞力可能是100K</span><span class="push-ipdatetime"> 05/23 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatata</span><span class="f3 push-content">: 如果付出58K的勞力 請拿30K謝謝</span><span class="push-ipdatetime"> 05/23 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iMail</span><span class="f3 push-content">: 台灣血尿醫護</span><span class="push-ipdatetime"> 05/23 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hiojvd</span><span class="f3 push-content">: 難怪護理師一堆轉業 超時工作成這樣至少要年薪百萬</span><span class="push-ipdatetime"> 05/23 09:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">k101122</span><span class="f3 push-content">: 血汗</span><span class="push-ipdatetime"> 05/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">timppt222</span><span class="f3 push-content">: 一定沒那麼好康，台灣慣老闆想騙？</span><span class="push-ipdatetime"> 05/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 58K是底薪嗎? 是的話不可能找不到啦</span><span class="push-ipdatetime"> 05/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 還是每天工作16小時 沒休息?</span><span class="push-ipdatetime"> 05/23 09:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 開58K, 先說一個護理師要照顧幾個人吧, 月休幾天, 工時多長</span><span class="push-ipdatetime"> 05/23 09:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ilove5072</span><span class="f3 push-content">: 不敢寫工時喔，只敢寫月薪+加班費，業配新聞</span><span class="push-ipdatetime"> 05/23 09:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anutnut</span><span class="f3 push-content">: christiano 說得好</span><span class="push-ipdatetime"> 05/23 09:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 今天看有幾家媒體開始在寫業者哭一例一休找不到人的新聞,</span><span class="push-ipdatetime"> 05/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">season2011</span><span class="f3 push-content">: 底薪3萬  三班輪隨人排 作息不正常身體差  連吃飯都沒</span><span class="push-ipdatetime"> 05/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">season2011</span><span class="f3 push-content">: 休息時間  每天工時超過12小時</span><span class="push-ipdatetime"> 05/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 看來又是聯合業配在跟政府討照護外勞了</span><span class="push-ipdatetime"> 05/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XaunShang</span><span class="f3 push-content">: 這是長時間陪伴 才58k</span><span class="push-ipdatetime"> 05/23 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pray</span><span class="f3 push-content">: 不會開放安樂死逆</span><span class="push-ipdatetime"> 05/23 09:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tonyian</span><span class="f3 push-content">: 沒尊嚴啊，還有法治不健全</span><span class="push-ipdatetime"> 05/23 09:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 難怪寫這篇文 領22K</span><span class="push-ipdatetime"> 05/23 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tenkaakido</span><span class="f3 push-content">: 大夜5.8萬?還顧不會動的患者?血汗</span><span class="push-ipdatetime"> 05/23 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">melonlon</span><span class="f3 push-content">: 樓上不要嘴 你去照顧一個禮拜的夜班就知道</span><span class="push-ipdatetime"> 05/23 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 繼續酸不爽不要做啊 等你生病時有錢也沒人看你啦</span><span class="push-ipdatetime"> 05/23 12:37
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495500628.A.ACA.html?cacheKey=2052-37772231&offset=9695&offset-sig=c023cd5549b682435498c1afedea13638f65c9a3" data-longpollurl="/v1/longpoll?id=0927ee213e6abe1439067643695d7f67cb7af2e6" data-offset="9695"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

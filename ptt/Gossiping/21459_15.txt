@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495898624.A.6AE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 台灣魔術師在美國達人秀獲全場起立鼓掌 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="推文有回過，回詳細一點好了。
+第一，這張桌子有翻轉機關。
+第二，硬幣上有磁性物質
+第三，花瓣也有磁性物質
+硬幣有七枚，前面就只是翻來翻去，這個大家都講過了。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 台灣魔術師在美國達人秀獲全場起立鼓掌">
+<meta property="og:description" content="推文有回過，回詳細一點好了。
+第一，這張桌子有翻轉機關。
+第二，硬幣上有磁性物質
+第三，花瓣也有磁性物質
+硬幣有七枚，前面就只是翻來翻去，這個大家都講過了。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495898624.A.6AE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495898624.A.6AE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mystage (亭)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 台灣魔術師在美國達人秀獲全場起立鼓掌</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 23:23:41 2017</span></div>
+推文有回過，回詳細一點好了。
+
+第一，這張桌子有翻轉機關。
+第二，硬幣上有磁性物質
+第三，花瓣也有磁性物質
+
+硬幣有七枚，前面就只是翻來翻去，這個大家都講過了。
+
+花瓣其實就跟前面硬幣的方式一樣，將硬幣擺定位，用高速翻過去而已。
+過去的魔術已經證明速度快到一個程度，人眼其實跟不上。
+
+有一些跡證證明我的推論，
+
+第一、硬幣位置移來移去都不變，所以那只是翻動，
+而且硬幣的穩定程度，是吸在翻板上的。
+
+第二、翻動時，桌子會以同樣模式先向右震動一下才回來。
+這只是一般的角動量守恆而已。因為轉動產生角動量，
+所以桌子以反方向運動抵消突然產生的角動量。
+
+第三，花瓣出現時都有稍微騰空，且往左微移，
+證明是被東西甩上去的。不過移的幅度很小，
+故推論花辦也有磁性物質協助穩定，不至於飛太遠。
+
+由以上線索，甚至連翻轉方向其實都知道了，
+依照我們的視角，是由右向左翻，符合角動量守恆及花辦的動向。
+
+以上
+
+反正我不是業界的，沒犯什麼潛規則。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.162.27.124
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495898624.A.6AE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495898624.A.6AE.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uhmeiouramu</span><span class="f3 push-content">: 其實是超能力</span><span class="push-ipdatetime"> 05/27 23:24
+</span></div><span class="f2">※ 編輯: mystage (1.162.27.124), 05/27/2017 23:28:31
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">evonre</span><span class="f3 push-content">: 都有慢動作逐格影片出來了，人眼跟不上機器也跟不上？</span><span class="push-ipdatetime"> 05/27 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIDIMIN</span><span class="f3 push-content">: 為什麼每次總是有人想破解魔術？</span><span class="push-ipdatetime"> 05/27 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HOTBIRD</span><span class="f3 push-content">: 翻轉的確以前有</span><span class="push-ipdatetime"> 05/27 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 花瓣像翻轉，硬幣比較像投影或遮光</span><span class="push-ipdatetime"> 05/27 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaymuscle</span><span class="f3 push-content">:    賽柯南嗎</span><span class="push-ipdatetime"> 05/27 23:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mainjoey</span><span class="f3 push-content">: 話說他真的是台灣人嗎???????</span><span class="push-ipdatetime"> 05/27 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ice31</span><span class="f3 push-content">: 想要破解這倒是沒關係，但不是破解之後就去罵人或笑人。</span><span class="push-ipdatetime"> 05/27 23:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FB5566</span><span class="f3 push-content">: 格來分多加１０分...</span><span class="push-ipdatetime"> 05/27 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fanif</span><span class="f3 push-content">: 破解魔術不會讓自己看起來比較聰明</span><span class="push-ipdatetime"> 05/27 23:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray130340</span><span class="f3 push-content">: 剛剛看美國的魔術師臉書好像很鄙視他 留言裡找到關鍵</span><span class="push-ipdatetime"> 05/27 23:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ray130340</span><span class="f3 push-content">: 字black paper</span><span class="push-ipdatetime"> 05/27 23:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">missingkid</span><span class="f3 push-content">: 想破解有什麼問題？</span><span class="push-ipdatetime"> 05/27 23:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 硬幣明明都有反射光</span><span class="push-ipdatetime"> 05/27 23:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">i5lo</span><span class="f3 push-content">: 因為表演效果很好，才會有人想破解啊，爛魔術會有人想破嗎XD</span><span class="push-ipdatetime"> 05/27 23:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 是說那硬幣反光超強，台幣十圓沒那麼亮</span><span class="push-ipdatetime"> 05/27 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 等你複製出來再補推</span><span class="push-ipdatetime"> 05/28 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XECHS</span><span class="f3 push-content">: 翻轉的話墊一張紙在上面不會受影響嗎</span><span class="push-ipdatetime"> 05/28 00:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mystage</span><span class="f3 push-content">: 所以翻轉的時間都是紙蓋下去以前。他把紙拿起來給你檢查</span><span class="push-ipdatetime"> 05/28 01:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mystage</span><span class="f3 push-content">: 不是主要目的，目的是不妨礙翻轉</span><span class="push-ipdatetime"> 05/28 01:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495898624.A.6AE.html?cacheKey=2052-2115603&offset=3146&offset-sig=bac514e167c5127bfe125d5e83173039bcfa39cb" data-longpollurl="/v1/longpoll?id=9e873d4b9e79f9a2636545d597e34a1f947f0a9d" data-offset="3146"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

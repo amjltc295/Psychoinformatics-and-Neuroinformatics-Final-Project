@@ -1,0 +1,200 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495173479.A.640.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Fw: [情報] 針對 Windows XP 系統的勒索病毒恢復軟體 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="作者: evansliu (evansliu) 看板: AntiVirus
+標題: [情報] 針對 Windows XP 系統的勒索病毒恢復軟體
+時間: Fri May 19 13:12:49 2017
+針對 Windows XP 系統的勒索病毒恢復軟體
+2017-5-18 22:30:49
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Fw: [情報] 針對 Windows XP 系統的勒索病毒恢復軟體">
+<meta property="og:description" content="作者: evansliu (evansliu) 看板: AntiVirus
+標題: [情報] 針對 Windows XP 系統的勒索病毒恢復軟體
+時間: Fri May 19 13:12:49 2017
+針對 Windows XP 系統的勒索病毒恢復軟體
+2017-5-18 22:30:49
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495173479.A.640.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495173479.A.640.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">abramtw (世界原來是如此耀眼啊)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Fw: [情報] 針對 Windows XP 系統的勒索病毒恢復軟體</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 13:57:57 2017</span></div>
+<span class="f2">※ [本文轉錄自 <a href="/bbs/AntiVirus/M.1495170775.A.768.html" target="_blank" rel="nofollow">AntiVirus 看板 #1P7dxNTe</a> ]
+</span>
+作者: evansliu (evansliu) 看板: AntiVirus
+標題: [情報] 針對 Windows XP 系統的勒索病毒恢復軟體
+時間: Fri May 19 13:12:49 2017
+
+針對 Windows XP 系統的勒索病毒恢復軟體
+
+2017-5-18 22:30:49
+
+法國 Quarkslab 研究員 Adrien Guinet 發佈了一款軟體，表示 Windows XP 系統如果遭
+到 WCry 勒索病毒的感染，那麼用戶可以自行解密資料，而不必支付 300 至 600 美元的
+贖金。
+
+Guinet 發佈了一款軟體。他表示，該軟體幫他發現了實驗室中被感染 Windows XP 電腦
+所需的資料解密密鑰。該軟體尚未在 Windows XP 系統中得到大範圍測試，而即使軟體有
+效，也仍然存在限制。在上週 WCry 病毒爆發的過程中，Windows XP 系統並不是受影響
+的重災區，因此這一恢復技術的價值有限。
+
+他將這款軟體命名為 Wannakey。他表示：「這款軟體只在 Windows XP 下進行過測試，
+並且已知只對 Windows XP 有效。如果希望使用這款軟體，那麼電腦在被感染之後不能進
+行過重啟。此外，你還需要一定的運氣，軟體可能不是對所有情況都有效。」
+
+Comae Technologies 創始人、研究員 Matt Suiche 報告稱，Guinet 的解密工具沒有效
+果。
+
+WCry 勒索病毒也被稱作 WannaCry，在感染電腦後會對電腦上的所有資料進行加密，而黑
+客要求受害者支付 300 至 600 美元的贖金，從而獲得恢複資料的密鑰。該勒索軟體使用
+了 Windows 中集成的微軟密碼 API（應用程序接口）去處理多項功能，包括生成文件的
+加密解密密鑰。在創建並獲得密鑰後，在大部分版本的 Windows 中，API 會清除該密鑰
+。
+
+不過，Windows XP 存在的限制會導致 API 無法清除密鑰。因此，在電腦關機重啟之前，
+用於生成 WCry 密鑰的主序列可能會一直駐留在內存中。WannaKey 能掃瞄 Windows XP
+系統內存，提取其中的相關信息。
+
+Guinet 表示：「如果你足夠幸運（即相關的內存塊尚未被重新分配或清除），這些主序
+列可能仍駐留在內存裡。」
+
+他同時在 Twitter 上表示：「我完整地完成瞭解密過程。我可以確認，在這台電腦上，
+密鑰可以從 XP 中恢復。」 他在 Twitter 消息中提供了電腦屏幕截圖。
+
+Wannakey 的下載地址：
+<a href="https://github.com/aguinet/wannakey" target="_blank" rel="nofollow">https://github.com/aguinet/wannakey</a>
+<a href="https://github.com/aguinet/wannakey/blob/master/bin/search_primes.exe" target="_blank" rel="nofollow">https://github.com/aguinet/wannakey/blob/master/bin/search_primes.exe</a>
+
+資訊來源：月光博客
+<a href="http://www.williamlong.info/archives/4977.html" target="_blank" rel="nofollow">http://www.williamlong.info/archives/4977.html</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 112.105.245.21
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/AntiVirus/M.1495170775.A.768.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/AntiVirus/M.1495170775.A.768.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shinkiro</span><span class="f3 push-content">: XP企業再戰十年(*ﾟ∀ﾟ)</span><span class="push-ipdatetime"> 05/19 13:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Toy17</span><span class="f3 push-content">: Wannakey</span><span class="push-ipdatetime"> 05/19 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SCLPAL</span><span class="f3 push-content">: !?!?!</span><span class="push-ipdatetime"> 05/19 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abramtw</span><span class="f3 push-content">: XP才是最安全的</span><span class="push-ipdatetime"> 05/19 13:54
+</span></div>
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc)
+</span><span class="f2">※ 轉錄者: abramtw (140.114.138.111), 05/19/2017 13:57:57
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SonyXperiaZ3</span><span class="f3 push-content">: XP再戰十年</span><span class="push-ipdatetime"> 05/19 13:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 有用嗎?XP不是在勒索病毒鎖檔前就當掉了?</span><span class="push-ipdatetime"> 05/19 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 為什麼不是取名為WannaHappy？</span><span class="push-ipdatetime"> 05/19 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vickyshan</span><span class="f3 push-content">: XP再戰十年！！！</span><span class="push-ipdatetime"> 05/19 14:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">new2smart7</span><span class="f3 push-content">: 從ID到連結都是病毒的駭客</span><span class="push-ipdatetime"> 05/19 14:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: XP果然是本世紀最先進的造業系統</span><span class="push-ipdatetime"> 05/19 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: XP可以再戰100年</span><span class="push-ipdatetime"> 05/19 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">netio</span><span class="f3 push-content">: XP在戰10年</span><span class="push-ipdatetime"> 05/19 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yijhen0525</span><span class="f3 push-content">: 那是硬體太差才會當掉</span><span class="push-ipdatetime"> 05/19 14:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Yijhen0525</span><span class="f3 push-content">: 跟系統本身無關</span><span class="push-ipdatetime"> 05/19 14:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: XP再戰10年!!</span><span class="push-ipdatetime"> 05/19 14:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abramtw</span><span class="f3 push-content">: 第六代i7還是可以灌XP 再戰10年!</span><span class="push-ipdatetime"> 05/19 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: <a href="http://tinyurl.com/mu7c5d6" target="_blank" rel="nofollow">http://tinyurl.com/mu7c5d6</a> 推特 太神了</span><span class="push-ipdatetime"> 05/19 14:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">force5566</span><span class="f3 push-content">: xp再戰10年！！！</span><span class="push-ipdatetime"> 05/19 14:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saca572381</span><span class="f3 push-content">: XP在戰十年</span><span class="push-ipdatetime"> 05/19 14:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soarling</span><span class="f3 push-content">: XP再戰10年！！！我差威武</span><span class="push-ipdatetime"> 05/19 14:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuromu</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/19 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kevincj22</span><span class="f3 push-content">: 別再戰十年了 這是剛好拿另一個漏洞來補這個漏洞</span><span class="push-ipdatetime"> 05/19 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jamwwe</span><span class="f3 push-content">: XP系統現在開機連網還是會中標嗎？？</span><span class="push-ipdatetime"> 05/19 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abramtw</span><span class="f3 push-content">:  鎖445 port 就不會了</span><span class="push-ipdatetime"> 05/19 14:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: XP再戰十年!!!</span><span class="push-ipdatetime"> 05/19 14:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerry112</span><span class="f3 push-content">: 結果買軟體更貴</span><span class="push-ipdatetime"> 05/19 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">moonlind</span><span class="f3 push-content">:       加密不清金鑰 正常狀況下 這也是安全性漏洞之一ww</span><span class="push-ipdatetime"> 05/19 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">moonlind</span><span class="f3 push-content">: 也就是說XP存在這另一個漏洞 讓這工程師得以利用這個漏</span><span class="push-ipdatetime"> 05/19 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">moonlind</span><span class="f3 push-content">: 洞解密</span><span class="push-ipdatetime"> 05/19 15:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lecheck</span><span class="f3 push-content">: 漏洞 vs 漏洞 矛盾大對決膩</span><span class="push-ipdatetime"> 05/19 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lecheck</span><span class="f3 push-content">: XP:肉凍王</span><span class="push-ipdatetime"> 05/19 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 感謝大大無私的分享 (咦？)</span><span class="push-ipdatetime"> 05/19 22:56
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495173479.A.640.html?cacheKey=2052-35454701&offset=5554&offset-sig=1f9b3d89d7b9a30a3fd7b21454dc5749807aa5d8" data-longpollurl="/v1/longpoll?id=06f79def4839ca95d7a45c8a1277d9689d572e4c" data-offset="5554"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,186 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496392644.A.EDA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 東吳外雙溪校區淹水啦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="推 cloudinair: https://goo.gl/b0X3TX 水利處砸2357萬整治            06/02 12:34
+→ cloudinair: https://goo.gl/S1hsu6 結果完全沒效果，還是淹        06/02 12:35
+→ cloudinair: 這次水利處發包的工程是不是有弊案啊？                06/02 12:37
+跟這位大大報告一下
+本魯正好有接觸到這個工程
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 東吳外雙溪校區淹水啦">
+<meta property="og:description" content="推 cloudinair: https://goo.gl/b0X3TX 水利處砸2357萬整治            06/02 12:34
+→ cloudinair: https://goo.gl/S1hsu6 結果完全沒效果，還是淹        06/02 12:35
+→ cloudinair: 這次水利處發包的工程是不是有弊案啊？                06/02 12:37
+跟這位大大報告一下
+本魯正好有接觸到這個工程
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496392644.A.EDA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496392644.A.EDA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kyo90637 (FIN)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 東吳外雙溪校區淹水啦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 16:37:21 2017</span></div>
+推 cloudinair: <a href="https://goo.gl/b0X3TX" target="_blank" rel="nofollow">https://goo.gl/b0X3TX</a> 水利處砸2357萬整治            06/02 12:34
+→ cloudinair: <a href="https://goo.gl/S1hsu6" target="_blank" rel="nofollow">https://goo.gl/S1hsu6</a> 結果完全沒效果，還是淹        06/02 12:35
+→ cloudinair: 這次水利處發包的工程是不是有弊案啊？                06/02 12:37
+
+
+跟這位大大報告一下
+
+本魯正好有接觸到這個工程
+
+看到您這麼說
+
+想要澄清一下，因為我們處這個工程做的部分
+
+基本上是拿來降挖網球場及臨溪路道路拉平
+
+那為什麼還會淹大水呢？
+
+1.因為今天這個降雨強度太強，排水溝排水不及
+
+2.這個工程有做校門口附近的排水改善及網球場降挖，但是這個工程的重點是在避免通洪
+斷面不足，如果整個學校只有校門口附近淹水，那就真的是我們工程缺失了
+
+
+
+原則上校內排水不及的部分不應怪在這個工程頭上
+
+因為我們並沒有針對校園內部排水進行改善，而且這也不是水利處能處理的私權領域，況
+且這次暴雨真的是天災處處淹
+
+今天基隆河整條都爆了，我們也很忙，全處都在跑來跑去，當然做得可能不夠好
+
+我們也正在努力，本魯現在也還在外面會勘的車上
+
+
+
+剛好被通知有這個疑慮，趕快在這邊澄清解釋一下
+
+有疑慮歡迎站內信本魯謝謝
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.12.22
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496392644.A.EDA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496392644.A.EDA.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HKtoyz5566</span><span class="f3 push-content">: 基層公務員真辛苦 幫QQ</span><span class="push-ipdatetime"> 06/02 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Luluemiko</span><span class="f3 push-content">: 您水利系</span><span class="push-ipdatetime"> 06/02 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tml7415</span><span class="f3 push-content">: 公務員還可以上PTT 真他媽的夠爽的</span><span class="push-ipdatetime"> 06/02 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mp60707</span><span class="f3 push-content">: 先說有沒有拿到回扣</span><span class="push-ipdatetime"> 06/02 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 辛苦你了</span><span class="push-ipdatetime"> 06/02 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 認真推</span><span class="push-ipdatetime"> 06/02 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: 看圖片，不是整條溪或水溝都滿出來了嗎？</span><span class="push-ipdatetime"> 06/02 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 手機沒辦法編輯，人在外面會勘路上，坐在車上看看批踢</span><span class="push-ipdatetime"> 06/02 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 踢應該算還好吧...另外別說回扣了，經本人了解臺北市水</span><span class="push-ipdatetime"> 06/02 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 利處應該是拿不到回扣這種東西，其他中央單位比較有機會</span><span class="push-ipdatetime"> 06/02 16:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 整條溪都滿出來正是降雨強度太強的證明啊啊啊</span><span class="push-ipdatetime"> 06/02 16:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 要是有問題應該是整個校內只有校門口淹水慘兮兮都不退</span><span class="push-ipdatetime"> 06/02 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blueskymaple</span><span class="f3 push-content">: 今天是校內也淹 幸好現在排除了</span><span class="push-ipdatetime"> 06/02 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blueskymaple</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 06/02 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 辛苦了!</span><span class="push-ipdatetime"> 06/02 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 不得不說東吳之前網球場做的跟要防核彈一樣，兩公尺的</span><span class="push-ipdatetime"> 06/02 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 鋼筋混凝土，又貴又硬又強</span><span class="push-ipdatetime"> 06/02 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ROBrandenbur</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/02 16:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/02 16:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andrewyllee</span><span class="f3 push-content">: 門口那條不會再塌了吧 上次那畫面超恐怖的阿</span><span class="push-ipdatetime"> 06/02 16:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b29973383</span><span class="f3 push-content">: 兩公尺跟公車一樣寬XDDDD</span><span class="push-ipdatetime"> 06/02 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sa4035</span><span class="f3 push-content">: <a href="http://i.imgur.com/o0WKoIT.jpg" target="_blank" rel="nofollow">http://i.imgur.com/o0WKoIT.jpg</a></span><span class="push-ipdatetime"> 06/02 17:26
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="o0WKoIT"><a href="//imgur.com/o0WKoIT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sa4035</span><span class="f3 push-content">: 從外雙溪跟我們學校真的已經合併了......</span><span class="push-ipdatetime"> 06/02 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sa4035</span><span class="f3 push-content">: 多打從*</span><span class="push-ipdatetime"> 06/02 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bt222</span><span class="f3 push-content">: 溪水都倒灌了 排水溝也沒用啦</span><span class="push-ipdatetime"> 06/02 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aghgna</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/02 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whitehow</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/02 18:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sppmg</span><span class="f3 push-content">: 網球場那坍過啊！XD</span><span class="push-ipdatetime"> 06/02 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hhtj</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 06/02 19:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">klandakuei</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 06/02 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerFrancis</span><span class="f3 push-content">: 辛苦了 加油</span><span class="push-ipdatetime"> 06/03 04:12
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496392644.A.EDA.html?cacheKey=2052-55846&offset=4338&offset-sig=47867bc3fe41fab9d2533563f110463743d00ae8" data-longpollurl="/v1/longpoll?id=6aa087a5e949852c69489c472339bd3edbcec96c" data-offset="4338"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

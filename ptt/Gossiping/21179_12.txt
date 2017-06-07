@@ -1,0 +1,267 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495711468.A.ECF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 柯潔二戰再輸AlphaGo 人機圍棋戰誰是贏家 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="柯潔二戰再輸AlphaGo 人機圍棋戰誰是贏家
+圖：https://goo.gl/7GdU3D
+5月25日上午10點半，柯潔第二次坐到了AlphaGo的面前。比賽一直持續到下午2時許，最
+終柯潔出現失誤，投子認輸。（網路圖片）
+【大紀元2017年05月25日訊】（大紀元記者周慧心綜合報導）人機圍棋大戰於5月25日上
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 柯潔二戰再輸AlphaGo 人機圍棋戰誰是贏家">
+<meta property="og:description" content="柯潔二戰再輸AlphaGo 人機圍棋戰誰是贏家
+圖：https://goo.gl/7GdU3D
+5月25日上午10點半，柯潔第二次坐到了AlphaGo的面前。比賽一直持續到下午2時許，最
+終柯潔出現失誤，投子認輸。（網路圖片）
+【大紀元2017年05月25日訊】（大紀元記者周慧心綜合報導）人機圍棋大戰於5月25日上
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495711468.A.ECF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495711468.A.ECF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">pulagu (火星塞)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 柯潔二戰再輸AlphaGo 人機圍棋戰誰是贏家</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 19:24:18 2017</span></div>
+柯潔二戰再輸AlphaGo 人機圍棋戰誰是贏家
+
+圖：<a href="https://goo.gl/7GdU3D" target="_blank" rel="nofollow">https://goo.gl/7GdU3D</a>
+
+5月25日上午10點半，柯潔第二次坐到了AlphaGo的面前。比賽一直持續到下午2時許，最
+終柯潔出現失誤，投子認輸。（網路圖片）
+
+【大紀元2017年05月25日訊】（大紀元記者周慧心綜合報導）人機圍棋大戰於5月25日上
+午10時半再次開戰，柯潔第二次坐到了AlphaGo的面前。比賽一直持續到下午2時許，最終
+柯潔出現失誤，投子認輸。目前，AlphaGo以2:0領先柯潔，第三場比賽將在27日舉行。
+
+據澎湃新聞報導，第二戰中，柯潔執白。第二手中，AlphaGo就下出點三三。柯潔多數時
+候在沉思：手放到棋盤上，又縮了回去；捂臉沉思，遠遠觀望棋盤，眉頭緊鎖。
+
+圍棋九段古力點評說，柯潔當天的狀態不錯，在關鍵時候知道轉身，而AlphaGo也出現了
+罕見的長考。
+
+從整體來看，AlphaGo的布局策略是棄子取勢，而柯潔則避其鋒芒。在長考選擇脫先後，
+主戰區從右上轉移到了下方。
+
+棋局進行到70多手時，雙方明顯進入僵持階段。柯潔開始了頻繁的長考，變得十分謹慎。
+隨後棋盤左下角顯現大劫爭，柯潔的狀態也越來越好，身體不時前傾緊緊盯著棋盤。
+
+但柯潔在開劫不利後，後面的打劫也出現了失誤，由於黑棋在下角的優勢明顯，柯潔形勢
+瞬間急轉直下。最終選擇投子認輸。
+
+在5月23日進行的第一場對陣中，柯潔採用了人類傳統的下法，想用強大實力和AlphaGo進
+行正面對抗，但AlphaGo的實力似乎更勝一籌，最終柯潔以1/4子負於AlphaGo。
+
+主辦方為這次人機大賽準備了150萬美元的獎金，不過無論輸贏，柯潔都可以獲得高達30
+萬美元的出場費。此次對戰採取三番棋賽制，無論輸贏雙方必須要下滿三局，目前
+AlphaGo以2:0領先，已經贏得了三番棋的勝利。根據規則，雙方第三局比賽將於5月27日
+照常進行。
+
+AlphaGo無敗績 人工智能戰勝了人類？
+
+2016年12月29日晚7點多，一個名叫「Master」的新手登錄圍棋在線對弈網站──弈城，
+這個「Master」就是升級後的「AlphaGo」。
+
+直到2017年1月4日晚，隨著古力的認輸，「Master」已經取得了60戰全勝的成績，其對決
+的棋手包括聶衛平、柯潔、朴廷桓、井山裕太等數十位中日韓圍棋高手。
+
+AlphaGo這次對決柯潔又以2戰2勝的成績獲得了三番棋的勝利。時事評論員馬傑森對新唐
+人記者表示：「我們不得不承認，在棋盤棋藝這個方向上，人類很可能已經敗給人工智能
+了。」
+
+但是人工智能真的戰勝了人類嗎？馬傑森表示計算機的計算、統計、分析等方面確實超越
+人類，「但是人類真正高明高超之處是，人是萬物之靈，人有通靈的直覺、感覺、感應，
+機器是算不出來的。另外對於藝術的追求，對於創造性的東西，人工智能還是無法真正實
+現。」
+
+時事評論員唐靖遠則表示：「圍棋是傳統文化的重要部分，絕不僅限於競技勝負這樣一個
+棋藝範疇，它最重要的內涵是棋道。棋道與人的德行心性密切相關，同時圍棋也契合了道
+家文化中陰陽生克的道理，也就是說，棋道和傳統修煉文化是相通的，這是電腦永遠領悟
+不到的境界。從這個角度，我不認為人工智能征服了圍棋。」
+
+人機大戰 圍棋是真正的贏家
+
+人機圍棋大賽讓許多人開始反思，圍棋的本質是否只是一種競技運動。
+
+下圍棋的意義是為了贏人？還是贏電腦？香港圍棋冠軍李卓良表示，圍棋的真諦不是競技
+，「因為從圍棋中我們看到中國傳統文化的價值，每一個下圍棋的人，可以從中得到很多
+，不是單單為了贏輸。」
+
+其實，換一個角度來看，在這場人機大戰中，或許真正的贏家還是圍棋本身。日本圍棋界
+傳奇人物藤澤秀行曾經說過「棋道一百，我知其七」。
+
+一盤圍棋可能出現的局面，多達10的170次方，比人類已知的全宇宙原子總數還要多。因
+此，圍棋一直被稱為人類智慧的堡壘。
+
+有評論認為，「AlphaGo」不過是在去掉了人類的情感、提升了計算能力後，以人類目前
+對圍棋的理解方式來下棋而已。如果把棋道的終點看成是一座聖山，那麼對於人工智能和
+人類棋手而言，這座山同樣遙不可及。
+
+那麼，古人留下來的「圍棋」到底是用來幹什麼的呢？一定是為了爭勝負的嗎？它的黑白
+、陰陽平衡關係又代表了什麼呢？
+
+圍棋是「道」而非遊戲
+
+時事評論員夏小強認為，圍棋迷失它的本來面目已經很久了，從人們把勝負作為衡量棋手
+棋藝高下的標準之後就開始了，特別進入現代，圍棋成為一種商業比賽項目，更是在迷途
+中越走越遠。
+
+他在文章《從人機大戰看現代圍棋的困境》中介紹說，圍棋最早源於堯帝，堯帝的兒子丹
+朱行為不好，於是堯至汾水之濱，見仙人而受其圍棋以教丹朱。在《梨軒曼衍》中記載：
+「圍棋初非人間之事：始出於巴邛之橘，周穆王之墓；繼出於石室，又見於商山，乃仙家
+養性樂道之具。」
+
+從上面的記載可以了解到，圍棋是神傳給人類的文化。圍棋盤象徵宇宙，361個點象徵無
+數的天體，中心天元代表宇宙的中心，棋子分黑白象徵陰陽，黑白子交替落子形成的棋勢
+和蘊含的無窮變化象徵著宇宙運動的規律。對弈雙方下棋時，動靜相間，陰陽互動，行棋
+中可以體現出弈者對宇宙及天道、社會以及人生的看法和認知。
+
+夏小強認為，圍棋是神留給人眾多探知宇宙奧祕的工具之一；對人個體而言，圍棋是一種
+使人精神昇華和修煉的載體，也就是中華幾千年人們孜孜以求的「道」之一種。
+
+那麼，圍棋的最終目的是否就是為了一決勝負？這一點，近代圍棋泰斗吳清源似乎窺其一
+渺，他認為圍棋本不是勝負之爭的遊戲，而是占卜天象易理的工具。
+
+夏小強表示，當人們把圍棋糟蹋為爭勝負的遊戲之後，圍棋所包涵的宇宙之門對人完全地
+關閉了，棋手的任何痛苦努力都是徒勞，換來的是寂寞惆悵。#
+
+<a href="http://www.epochtimes.com/b5/17/5/25/n9184862.htm" target="_blank" rel="nofollow">http://www.epochtimes.com/b5/17/5/25/n9184862.htm</a>
+
+
+--
+
+                      <span class="f6 hl">《說文解字》</span><span class="hl">，</span><span class="f1 hl">黨</span><span class="hl">意即</span><span class="b7 hl">「尚黑」</span>
+
+                       <span class="hl">大紀元系列社論《九評共產黨》</span> <span class="hl">
+</span><span class="hl">                  <a href="http://www.epochtimes.com/b5/nf3541.htm" target="_blank" rel="nofollow">http://www.epochtimes.com/b5/nf3541.htm</a> </span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.6.243
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495711468.A.ECF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495711468.A.ECF.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cger</span><span class="f3 push-content">: SWEEEEEEEP</span><span class="push-ipdatetime"> 05/25 19:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnwu</span><span class="f3 push-content">: 五樓sai</span><span class="push-ipdatetime"> 05/25 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 真無聊 一點檔頭都沒有</span><span class="push-ipdatetime"> 05/25 19:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toya123</span><span class="f3 push-content">: 明明下的很精彩吧 哪裡無聊了</span><span class="push-ipdatetime"> 05/25 19:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 柯潔已經很強了</span><span class="push-ipdatetime"> 05/25 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OverInfinity</span><span class="f3 push-content">: 支持文化 但不要跟傳武一樣打不贏才在想精神內涵</span><span class="push-ipdatetime"> 05/25 19:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hydroer</span><span class="f3 push-content">: 有一段評論員說人類有通靈的直覺!!!!!</span><span class="push-ipdatetime"> 05/25 19:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guest0079</span><span class="f3 push-content">: 阿法狗:幹 人類好會嘴喔 下輸就開始說圍棋比的不是輸贏</span><span class="push-ipdatetime"> 05/25 19:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 跟太極拳比輸綜合格鬥就說OOXX有87像</span><span class="push-ipdatetime"> 05/25 19:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">caesst85149</span><span class="f3 push-content">: 人會失誤 AlphaGo也會失誤 只要抓到那個失誤就能贏</span><span class="push-ipdatetime"> 05/25 19:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guest0079</span><span class="f3 push-content">: 幹 太極拳打輸就開始嘴中國文化五千年深不可測</span><span class="push-ipdatetime"> 05/25 19:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colan8</span><span class="f3 push-content">: 精神內涵就是一種阿Q精神勝利法 這篇文後半真的有夠狗屎</span><span class="push-ipdatetime"> 05/25 19:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">archon</span><span class="f3 push-content">: 圍棋的本質，是為了連接遙遠的過去，與遙遠的未來</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jackace</span><span class="f3 push-content">: 最好圍棋是人類智慧的壁壘啦</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 又來了人類無聊的自尊，我玩井字遊戲就能悟道還要你19宮</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 格喔，少玩這種低階情緒才能了解&#34;知識&#34;本身的美</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guest0079</span><span class="f3 push-content">: 下圍棋在於體現宇宙的玄妙與陰陽之調和 這電腦不懂啦</span><span class="push-ipdatetime"> 05/25 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eric21358611</span><span class="f3 push-content">: 精神勝利法…</span><span class="push-ipdatetime"> 05/25 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 把圍棋變成占卜用具才是沒搞清楚</span><span class="push-ipdatetime"> 05/25 19:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hellodio</span><span class="f3 push-content">: 一堆輸不起的人講屁話。</span><span class="push-ipdatetime"> 05/25 19:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce79</span><span class="f3 push-content">: 棋士才不會跟你講這五四三的 輸了就是輸</span><span class="push-ipdatetime"> 05/25 19:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wangray1769</span><span class="f3 push-content">: 不過是個只會打嘴炮的中二屁孩</span><span class="push-ipdatetime"> 05/25 19:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HeavensFeel</span><span class="f3 push-content">: 北七</span><span class="push-ipdatetime"> 05/25 19:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 輸就輸還在那裏扯一堆道統屁話 支那媒體孔乙己哦</span><span class="push-ipdatetime"> 05/25 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">steven82126</span><span class="f3 push-content">: 幹輸了就開始講屁話</span><span class="push-ipdatetime"> 05/25 20:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxx60709</span><span class="f3 push-content">: 不僅限於勝負，幹真棒wwwwww</span><span class="push-ipdatetime"> 05/25 20:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilfruit</span><span class="f3 push-content">: 跟傳武一樣打不贏就扯品德 扯哲學</span><span class="push-ipdatetime"> 05/25 20:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sendicmimic</span><span class="f3 push-content">: 我只知道科學的價值不是用閃躲歌唱頌能建立的...</span><span class="push-ipdatetime"> 05/25 20:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack19931993</span><span class="f3 push-content">: 打不贏就開始講感情 講倫理 講文化</span><span class="push-ipdatetime"> 05/25 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wtaa</span><span class="f3 push-content">: 他後面的意思是圍棋有人玩才價值吧 這點ai再強也沒用</span><span class="push-ipdatetime"> 05/25 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">speedup</span><span class="f3 push-content">: 阿Q精神領先全世界</span><span class="push-ipdatetime"> 05/25 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 各位，人家輸了，很可憐，別再酸他了</span><span class="push-ipdatetime"> 05/25 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sendicmimic</span><span class="f3 push-content">: 輸給AI不代表圍棋界就失去什麼阿，扯太多更像輸不起</span><span class="push-ipdatetime"> 05/25 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 人家輸給電腦 照樣還是世界第一 話說台灣棋士呢</span><span class="push-ipdatetime"> 05/25 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 世界第一又怎樣了 世界第一賽前愛嗆又沒贏 被大家酸</span><span class="push-ipdatetime"> 05/25 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 就剛好而已 更別說他去年嗆 前天又打預防針 整個屁孩</span><span class="push-ipdatetime"> 05/25 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Reborn0817</span><span class="f3 push-content">: 那個評論員是三小啦</span><span class="push-ipdatetime"> 05/26 00:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayven</span><span class="f3 push-content">: 那個五毛評論員講的是啥鬼話</span><span class="push-ipdatetime"> 05/26 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">retsuya001</span><span class="f3 push-content">: 肥宅嘴砲世界第一</span><span class="push-ipdatetime"> 05/26 13:12
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495711468.A.ECF.html?cacheKey=2052-1376235&offset=8932&offset-sig=348be383ca9815ba4717c238ad20506b56d702ed" data-longpollurl="/v1/longpoll?id=a16586fbf52f49e7f887f3abad86d98b8a1fcfb9" data-offset="8932"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

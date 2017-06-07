@@ -1,0 +1,468 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495694404.A.210.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Fw: [心得] 鐵血--恨鐵不成鋼 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="作者: StBeer (熊出沒注意~~中.........) 看板: GUNDAM
+標題: [心得] 鐵血--恨鐵不成鋼
+時間: Fri May 19 07:14:33 2017
+鋼彈Gundam是伴我從小長大的一系列動畫作品
+從小時候懵懂之際隱約看過的Z鋼、0080、0083
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Fw: [心得] 鐵血--恨鐵不成鋼">
+<meta property="og:description" content="作者: StBeer (熊出沒注意~~中.........) 看板: GUNDAM
+標題: [心得] 鐵血--恨鐵不成鋼
+時間: Fri May 19 07:14:33 2017
+鋼彈Gundam是伴我從小長大的一系列動畫作品
+從小時候懵懂之際隱約看過的Z鋼、0080、0083
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495694404.A.210.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495694404.A.210.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">XArcherX (萬軍無兵)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Fw: [心得] 鐵血--恨鐵不成鋼</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 14:40:03 2017</span></div>
+<span class="f2">※ [本文轉錄自 <a href="/bbs/GUNDAM/M.1495149275.A.FBB.html" target="_blank" rel="nofollow">GUNDAM 看板 #1P7YhR-x</a> ]
+</span>
+作者: StBeer (熊出沒注意~~中.........) 看板: GUNDAM
+標題: [心得] 鐵血--恨鐵不成鋼
+時間: Fri May 19 07:14:33 2017
+
+鋼彈Gundam是伴我從小長大的一系列動畫作品
+
+從小時候懵懂之際隱約看過的Z鋼、0080、0083
+
+再到另類的G鋼
+
+走流行路線的W鋼
+
+我一直以為鋼彈的核心價值是對於戰爭的反思
+
+雖然大多是萬岱要賣模型
+
+但是製作鋼彈的每位製作人大多都是圍繞著戰爭去思考的
+
+--------------------------------------------
+
+記得以前看過一句話
+
+<span class="f3 hl">GUNDAM</span>的命名來自於 <span class="f3 hl">GUN</span> 跟 FREE<span class="f3 hl">DOM</span>
+
+我覺得與這系列作品緊緊相扣
+
+這幾天又再複習了鐵血的孤兒
+
+我認為這是一部在人設、機設、音樂、背景設定都相當不錯的作品
+
+在私人情感的處理上導入了細膩的描述
+
+的確是以前作品比較少見的做法
+
+這一點我很喜歡
+
+在對於戰爭、歧視、階級制度、經濟壓迫的描寫
+
+的確也有傳達出主角們的困境與一種被社會壓迫的窒息感
+
+所以我一直希望不論主角們到最後能活幾個
+
+我希望他們的掙扎與抗爭是有意義的
+
+就像初鋼的阿姆羅最後還是保護了白色基地的同伴們
+
+就像Z鋼的卡謬最後否定了西羅克
+
+就像0080最後阿爾的痛哭
+
+就像0083最後浦木好友的喜極而泣
+
+零零總總  不及備載
+
+即便是無法抵抗大環境的變化--像是北美糧倉終究被砸殖民地
+
+巴尼注定要死在克麗絲手上
+
+這些故事還是要告訴我們對於戰爭的苦楚
+
+鐵血的確描寫了一種在社會底層掙扎人們的辛苦
+
+當劇本每次描寫這些人多辛苦
+
+我就越希望這些人能改變社會
+
+當劇本每次描寫號角有多腐敗
+
+我就越希望這些價值觀被反駁
+
+我真心覺得以號角方面的價值觀：
+
+(地球人歧視火星人--艾因與斯德哥爾摩症候群不得不說的故事
+
+火星人歧視宇宙鼠輩--哈舒與哥哥的小秘密
+
+號角貴族箝制地球各大政體--法理德家與各國小男孩的深夜童話)
+
+這種腐敗又僵固的價值觀
+
+是不可能做出最後一集的最後幾分鐘裡描寫的改革
+
+要解放火星經濟壓迫
+
+要解放低等階級剝削
+
+要讓這些既得利益者吐出嘴裡的肉
+
+居然只靠號角的大人物想做就做到了
+
+不可能
+
+編劇當我是白癡
+
+根本是把號角神格化凌駕於普通人民之上
+
+再讓這些已經腐敗的神明去促進民主化與改革開放
+
+回顧現實世界
+
+所有的民主化幾乎都是流血抗爭得來的
+
+改革開放也是因為政府擋不住民意與世界的潮流
+
+鐵血最失敗的地方
+
+就是在於踐踏了民主與自由的核心價值
+
+最後讓一個操控戰爭的獨裁者
+
+因為編劇根本編不出的理由
+
+突然讓社會民主化並且改革開放了火星經濟圈
+
+這根本是違反人性與現實的說法
+
+也把觀眾當成白癡
+
+反正主角們的家人還是活得好好的
+
+反正伊歐古作為舊貴族代表被處刑
+
+反正大家都活得更好了
+
+所以我不能接受這個劇本
+
+我不能理解也不會喜歡這個結局
+
+我也不懂編劇到底想傳達甚麼給觀眾了
+
+最後
+
+我只能選擇到這裡吐吐苦水
+
+對不起
+
+浪費各位時間了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.26.168.82
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/GUNDAM/M.1495149275.A.FBB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/GUNDAM/M.1495149275.A.FBB.html</a>
+</span><span class="f2">※ 編輯: StBeer (114.26.168.82), 05/19/2017 07:15:24
+</span><span class="f2">※ </span><span class="f2 hl">StBeer</span><span class="f2">:轉錄至看板 C_Chat</span>                                        05/19 07:17
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pixis</span><span class="f3 push-content">: 結局無言+1</span><span class="push-ipdatetime"> 05/19 07:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tws80531</span><span class="f3 push-content">: s2只是為了捧茱麗葉跟鬍子哥</span><span class="push-ipdatetime"> 05/19 09:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justdoit</span><span class="f3 push-content">: 製作群還出來說各種幹話</span><span class="push-ipdatetime"> 05/19 09:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sundazlas</span><span class="f3 push-content">: 一個為了勞工階級反抗會直接把艦隊開過去的人跟我說</span><span class="push-ipdatetime"> 05/19 09:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sundazlas</span><span class="f3 push-content">: 民主，真的是笑了</span><span class="push-ipdatetime"> 05/19 09:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sundazlas</span><span class="f3 push-content">: 就算真的是轉成民主，也是被最強軍閥賞賜的東西而已</span><span class="push-ipdatetime"> 05/19 09:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neos042</span><span class="f3 push-content">: 鐵血就中途改劇本，改到轉不回來，品質大暴走呀...</span><span class="push-ipdatetime"> 05/19 10:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neos042</span><span class="f3 push-content">: 然後接受訪談時還得硬拗裝鎮定，免得被公幹的更慘，以後</span><span class="push-ipdatetime"> 05/19 10:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neos042</span><span class="f3 push-content">: 沒動畫或相關產業敢再娉請...</span><span class="push-ipdatetime"> 05/19 10:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neos042</span><span class="f3 push-content">: 福田也可套用這情況！</span><span class="push-ipdatetime"> 05/19 10:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goodman</span><span class="f3 push-content">: 福田套不進來 要套也是叫兩澤來</span><span class="push-ipdatetime"> 05/19 10:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">recky04</span><span class="f3 push-content">: 叫兩澤來用 是要觀落陰嗎？</span><span class="push-ipdatetime"> 05/19 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beaskywalker</span><span class="f3 push-content">: TVBS應該可以採訪到兩澤</span><span class="push-ipdatetime"> 05/19 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DaGarn</span><span class="f3 push-content">: 就編劇跟監督的左膠式粉紅泡泡 看在正常人眼裡很搞笑</span><span class="push-ipdatetime"> 05/19 12:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cplusplus426</span><span class="f3 push-content">: 太中肯，萊斯達爾變成民主改革要角真他噁，鐵華團</span><span class="push-ipdatetime"> 05/19 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cplusplus426</span><span class="f3 push-content">: 除了慘還是慘，不懂編劇想表達什麼 ，給人一種革命</span><span class="push-ipdatetime"> 05/19 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cplusplus426</span><span class="f3 push-content">: 是屁的感覺</span><span class="push-ipdatetime"> 05/19 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cplusplus426</span><span class="f3 push-content">: 還是把記憶留在第一季就好了</span><span class="push-ipdatetime"> 05/19 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pixis</span><span class="f3 push-content">: TVBS哈哈哈</span><span class="push-ipdatetime"> 05/19 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nimaj</span><span class="f3 push-content">: 我只聽過有一部糞作叫鐵面的魔劍</span><span class="push-ipdatetime"> 05/19 16:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nimaj</span><span class="f3 push-content">: 沒聽過鐵血的孤兒有出第二季啊</span><span class="push-ipdatetime"> 05/19 16:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tyliu</span><span class="f3 push-content">: 敗就敗在最後結局的交代，要是走向高壓獨裁統治這種BAD END</span><span class="push-ipdatetime"> 05/19 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tyliu</span><span class="f3 push-content">: ，或許還可以期待下一季</span><span class="push-ipdatetime"> 05/19 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tedann</span><span class="f3 push-content">: 比較想看因為巧克力的革命，最後地球圈進入戰國時代</span><span class="push-ipdatetime"> 05/19 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poke001</span><span class="f3 push-content">: 製作群訪談各種踩低巧克力智商 來圓編劇後期把巧克力編成</span><span class="push-ipdatetime"> 05/19 19:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poke001</span><span class="f3 push-content">: 腦殘的鍋 還期待巧克力能革甚麼命</span><span class="push-ipdatetime"> 05/19 19:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aftermathx</span><span class="f3 push-content">: 這就是所謂 作者的智商是筆下角色智商的上限</span><span class="push-ipdatetime"> 05/19 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">commandoEX</span><span class="f3 push-content">: 忽然想到清末的皇族內閣</span><span class="push-ipdatetime"> 05/19 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Galm</span><span class="f3 push-content">: 最後根本莫名其妙,明明號角壓勝卻變成他願意民主改革</span><span class="push-ipdatetime"> 05/19 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Galm</span><span class="f3 push-content">: 照理來說這種走向應該是打輸或是慘勝才會有的路線</span><span class="push-ipdatetime"> 05/19 22:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">muscleless</span><span class="f3 push-content">: 最後就是鬍子好棒棒 蝴蝶好棒棒 噁心到爆</span><span class="push-ipdatetime"> 05/19 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm79227922</span><span class="f3 push-content">: 監督編劇沒讀書才有這種神奇轉折</span><span class="push-ipdatetime"> 05/20 03:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">n0224</span><span class="f3 push-content">: 第二季只是拿來捧破滅魔劍而已………</span><span class="push-ipdatetime"> 05/20 03:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gfneo</span><span class="f3 push-content">: 作品爛也就算了,事後一堆人說幹話才真的讓人傻眼......</span><span class="push-ipdatetime"> 05/20 06:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 長井岡媽訪談就透露出他們覺得底下的人反抗體制是錯的</span><span class="push-ipdatetime"> 05/20 08:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 真是好險反逆的魯路修不是他們做的</span><span class="push-ipdatetime"> 05/20 08:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalvinS</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 08:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ff7forever</span><span class="f3 push-content">: 就編劇不知道受了什麼刺激才這樣明目張膽的惡搞觀眾</span><span class="push-ipdatetime"> 05/20 09:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m2488663</span><span class="f3 push-content">: 其實搞不好整部鐵血都只是另一本巧克力看的童話故事書</span><span class="push-ipdatetime"> 05/20 11:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">m2488663</span><span class="f3 push-content">: 一樣的作品</span><span class="push-ipdatetime"> 05/20 11:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tedann</span><span class="f3 push-content">: 我一直覺得結局很悲哀，和平感覺就像是被施捨的</span><span class="push-ipdatetime"> 05/20 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 結尾是很悲哀.但最後和平是因為萊斯達爾打贏了才有和平.他</span><span class="push-ipdatetime"> 05/20 19:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 的勝出代表了秩序、穩定與和平.但相對的就是原本的天龍人</span><span class="push-ipdatetime"> 05/20 19:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 階級在原有秩序未遭到破壞的情況下.能繼續保有它們的優勢</span><span class="push-ipdatetime"> 05/20 19:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 要是巧克力打贏.新時代會吹起強勁的風.天龍人族群為了保障</span><span class="push-ipdatetime"> 05/20 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 自己的利益必然反撲展開無止盡的鬥爭.原先低階層的人是會</span><span class="push-ipdatetime"> 05/20 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 有更多機會可以靠著戰爭發達上位.但是受戰爭之苦的一般平</span><span class="push-ipdatetime"> 05/20 19:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 民則會懷念過去相對和平的時代。總之事情是一體兩面的.由</span><span class="push-ipdatetime"> 05/20 19:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 巧克力跟鐵華團打贏的世界線.未必會是個讓人人幸福的世界</span><span class="push-ipdatetime"> 05/20 19:58
+</span></div>但是拉斯達爾打贏的世界是讓人覺得很痛苦的世界
+
+被犧牲者 依舊被犧牲
+
+被剝削者 仍然被剝削
+
+貴族照樣是貴族
+
+而造成世界如此殘酷的歧視與壓迫
+
+仍然存在
+
+痛苦的人依然沒有希望
+<span class="f2">※ 編輯: StBeer (114.26.168.82), 05/20/2017 20:04:35
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 就看自己生在那個位階了.有產階級以上的通常都不會希望和</span><span class="push-ipdatetime"> 05/20 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 平被破壞變成戰亂時代.低階人民就比較微妙一些.的確變戰亂</span><span class="push-ipdatetime"> 05/20 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 他們出頭的機會是比較多.但變成砲灰和被海賊之類的抓去當</span><span class="push-ipdatetime"> 05/20 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 人類之屑賣掉的可能性也更高.然後要說萊叔世界低階人就完</span><span class="push-ipdatetime"> 05/20 20:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 全沒機會嗎?也不盡然.還是有大小姐這種人在努力用政治和經</span><span class="push-ipdatetime"> 05/20 20:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtfour</span><span class="f3 push-content">: 濟手段來改善它們的處境.也不至於就說完全沒有希望.</span><span class="push-ipdatetime"> 05/20 20:15
+</span></div>我覺得像號角這種組織
+
+充滿歧視跟壓迫
+
+又很會運用骯髒手段
+
+還是全世界最強的軍事力量
+
+究竟能容忍大小姐多久呢？
+<span class="f2">※ 編輯: StBeer (114.26.168.82), 05/20/2017 20:31:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poke001</span><span class="f3 push-content">: 萊斯達爾的秩序是建立在林北拳頭最大的前提上 同樣的方式</span><span class="push-ipdatetime"> 05/20 20:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poke001</span><span class="f3 push-content">: 流氓也能說他們很有秩序</span><span class="push-ipdatetime"> 05/20 20:32
+</span></div>應該這麼說
+
+號角當初建立了秩序的初衷很崇高
+
+但是為了維持這樣的秩序，組織漸漸腐敗
+
+腐敗的源頭並不只是制度更來自於觀念
+
+號角維持了秩序保護了很多人
+
+但是為了維持這樣的秩序
+
+也殘害跟迫害了很多人
+
+石動之所以會跟隨巧克力
+
+不就是在號角看不到未來嗎？
+
+而如果號角的存在就是為了維持秩序
+
+那麼拉斯達爾改革後的號角
+
+跟巧克力上台改革後的號角
+
+又有甚麼區別？
+
+只是既得利益者換一批嗎？
+
+我想不是的
+
+拉斯達爾保護了既得利益者的利益也保障了他們壓迫低等階級民眾的權力
+
+巧克力本人以外的追隨者
+
+相信有想要趁機上位的人
+
+也有像石動一樣想要更光明的未來的人
+
+當然
+
+也有像鐵華團一樣走投無路迫於現實的人
+
+這些人打贏了也許未必是好事
+
+但是打輸了更不可能是好事
+
+因為拉斯達爾真的沒有必要去改革
+
+展現了力量的號角恢復了威信
+
+組織內的毒膿都被擠了乾淨
+
+稍微施個恩情給底下不滿的人
+
+我大拉斯達爾穩坐七星頂峰人物的寶座啊~~
+
+至於受苦受難的人民
+
+只要不起來反抗，我管你去死
+
+你起來反抗，我就像以前一樣把你們都打死
+
+反正只要我大號角依然存在  依然維持崇高不可被質疑挑戰的地位就好了
+
+不是這樣嗎？
+
+大小姐能當火星議長
+
+不正是老爹在背後角力的結果嗎？
+
+編劇雖然沒說(我想是編不出來)
+
+地球各國雖然不再影響火星經濟圈
+
+但是號角的力量依然牢牢掌控世界每一個角落吧
+
+這樣的世界是安定的
+
+但是當各位被老闆壓迫  被黑幫剝削
+
+在經濟與政治實力都無法與這些人抗衡的情況下
+
+如果起來反抗的話
+
+就有可能被當作亂源給處理掉喔
+
+那怕只是遊行抗議
+
+所以這樣的世界對我來說......黑暗到不行
+<span class="f2">※ 編輯: StBeer (114.26.168.82), 05/20/2017 21:13:01
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">moonxmoon</span><span class="f3 push-content">: 最近也剛追完~跟我的想法有87趴相似~</span><span class="push-ipdatetime"> 05/20 21:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charking</span><span class="f3 push-content">: 完全沒有舖陳萊斯達爾想民主改革，然後就民主了，根本</span><span class="push-ipdatetime"> 05/21 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">charking</span><span class="f3 push-content">: 亂搞</span><span class="push-ipdatetime"> 05/21 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xenojack</span><span class="f3 push-content">: 鋼彈糞化為鐵彈</span><span class="push-ipdatetime"> 05/23 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sonyc503</span><span class="f3 push-content">: 結局最後都變同志情懷 爛爆了</span><span class="push-ipdatetime"> 05/24 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alex13</span><span class="f3 push-content">: 這跟臺灣以前萬年國代的狀況有點像</span><span class="push-ipdatetime"> 05/25 12:28
+</span></div>
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc)
+</span><span class="f2">※ 轉錄者: XArcherX (114.36.113.124), 05/25/2017 14:40:03
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #滾</span><span class="push-ipdatetime"> 05/25 14:40
+</span></div>沒看還秒回 滾屁(づ・ω・)づ
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kawazakiz2</span><span class="f3 push-content">: 臭死了，看不懂啦</span><span class="push-ipdatetime"> 05/25 14:40
+</span></div>哪裡臭！(づ・ω・)づ
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">funkD</span><span class="f3 push-content">: ㄘ我的破滅魔劍啦</span><span class="push-ipdatetime"> 05/25 14:40
+</span></div>破滅滾！(づ・ω・)づ
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gankgf</span><span class="f3 push-content">: 臭</span><span class="push-ipdatetime"> 05/25 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rrr518</span><span class="f3 push-content">: 看不懂</span><span class="push-ipdatetime"> 05/25 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fg008kimo</span><span class="f3 push-content">: 操  為什麼公主沒懷上主角小孩</span><span class="push-ipdatetime"> 05/25 14:41
+</span></div>又沒嘟他(づ・ω・)づ
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fg008kimo</span><span class="f3 push-content">: 臭母豬喔滾喇</span><span class="push-ipdatetime"> 05/25 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Golbeza</span><span class="f3 push-content">: 鋼彈版轉西恰又轉八卦 =.=</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div>就4要轉(づ・ω・)づ
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ktoaoeex</span><span class="f3 push-content">: ダインスレーヴ</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div>魔劍毀了這部(づ・ω・)づ
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assassinzero</span><span class="f3 push-content">: 這部很寫實啊  有權者很難被搞垮</span><span class="push-ipdatetime"> 05/25 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assassinzero</span><span class="f3 push-content">: 身為窮人不要想翻身  乖乖當奴隸就好</span><span class="push-ipdatetime"> 05/25 14:45
+</span></div>你不覺得動畫就是要帶給觀眾希望嗎？
+每個都像洨智 一直拯救世界卻一冠未得，
+那麼現實我看電影就好了(づ・ω・)づ
+<span class="f2">※ 編輯: XArcherX (114.36.113.124), 05/25/2017 14:49:09
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chesthair</span><span class="f3 push-content">: 感動的文筆阿</span><span class="push-ipdatetime"> 05/25 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 俠以武犯禁 所以為何真正的修練之法會被消失</span><span class="push-ipdatetime"> 05/25 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 如果每個人都擁有掌握力量的可能 人怎麼管?</span><span class="push-ipdatetime"> 05/25 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lead0722</span><span class="f3 push-content">: 這文有啥八卦嗎？去ㄘ魔劍啦</span><span class="push-ipdatetime"> 05/25 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 去看看近代史軍閥又有誰得善終?</span><span class="push-ipdatetime"> 05/25 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 為國而戰? 為誰而戰?</span><span class="push-ipdatetime"> 05/25 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 這還是人類還沒掌握生命延續的奧義</span><span class="push-ipdatetime"> 05/25 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 如果為了長生更不用說了</span><span class="push-ipdatetime"> 05/25 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StBeer</span><span class="f3 push-content">: 被轉之前沒問過我~~</span><span class="push-ipdatetime"> 05/25 15:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495694404.A.210.html?cacheKey=2052-1240112&offset=13311&offset-sig=5c08a7372adbcfe2dcd122069f3e9a764012de49" data-longpollurl="/v1/longpoll?id=55c789334c811de48e0031cf3c3497bc58a16e57" data-offset="13311"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

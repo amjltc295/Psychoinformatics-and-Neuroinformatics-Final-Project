@@ -1,0 +1,243 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495098762.A.002.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 聽障生回應ptt輿論啦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="打從一開始就不要用身障者就好了
+這案例正好說明用身障者是找自己麻煩
+聽障並不是一翻兩瞪眼的 聽的到 vs 聽不到，而是有程度分別
+不是很嚴重的聽障大聲點也能聽到，或是利用輔具也能正常交流
+在此案例中，這位盧同學在應徵時的通話以及現場面試都沒什麼大問題
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 聽障生回應ptt輿論啦">
+<meta property="og:description" content="打從一開始就不要用身障者就好了
+這案例正好說明用身障者是找自己麻煩
+聽障並不是一翻兩瞪眼的 聽的到 vs 聽不到，而是有程度分別
+不是很嚴重的聽障大聲點也能聽到，或是利用輔具也能正常交流
+在此案例中，這位盧同學在應徵時的通話以及現場面試都沒什麼大問題
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495098762.A.002.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495098762.A.002.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">shamanlin (佐藤必須死)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 聽障生回應ptt輿論啦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 17:12:39 2017</span></div>
+<span class="f2">※ 引述《smallpuma (小山獅)》之銘言：
+</span><span class="f6">: 有些鄉民會說
+</span><span class="f6">: 若是覺得不能勝任工作，老闆在面試時可以不錄用他呀
+</span><span class="f6">: 但~~本魯覺得這可能會造成以下的情況出現
+</span><span class="f6">: A:老闆我是身障者，能否錄用我
+</span><span class="f6">: 老闆:不好意思~這份工作的工作內容可能不適合你
+</span><span class="f6">: A:老闆，是否是因為我是身障者的關係
+</span><span class="f6">: 老闆:對~因為你身體上的一些不便造成我無法錄用你
+</span><span class="f6">: A:老闆你歧視身障者，違反就業服務法，我要檢舉你.....
+</span><span class="f6">: 所以錄不錄取感覺都很為難
+</span>打從一開始就不要用身障者就好了
+
+這案例正好說明用身障者是找自己麻煩
+
+
+聽障並不是一翻兩瞪眼的 聽的到 vs 聽不到，而是有程度分別
+
+不是很嚴重的聽障大聲點也能聽到，或是利用輔具也能正常交流
+
+在此案例中，這位盧同學在應徵時的通話以及現場面試都沒什麼大問題
+
+這飲料店慣老闆會讓盧同學去試試也不奇怪
+
+
+問題是，飲料店的工作是很雜的
+
+很難專門請一個人供在那邊只負責做一種工作
+
+像盧同學這種站前台接單搞到客人不耐煩
+
+放後面接電話接訂單也搞到客人不耐煩
+
+然後又沒駕照也不能外送
+
+有些鄉民說可以專職煮茶..........
+
+煮茶需要請一個人供在那邊專職只煮茶？
+
+就算要供一個人專職煮茶也不會找個剛來什麼都不會的新人吧？
+
+請一個聽障來，結果這個做不好，那個也不行
+
+給同樣的薪水，卻還要花更多心力去迎合他要所有人配合他？
+
+
+如果今天這不是一個聽障，被開除根本是理所當然的事情
+
+但因為今天是一個聽障，所以就能拿出歧視的大貼紙，好好利用了
+
+更別提看完line對話的感想，這根本有87%像是設局勒索
+
+還有詭異的鄉民跳出來當&#34;轉述&#34;證人，轉述不願意曝光的第三者
+
+聲稱打電話都是盧同學再接，以及看到盧同學很可憐的再外送
+
+(後來被踢爆造假，外送的根本不是盧同學，馬上改口變成猜的搞錯了)
+
+
+所以結論是什麼？
+
+結論就是除非規模大到一定程度，被政府規定必須聘請身障的企業外
+
+其他中小企業最好都是對身障敬而遠之
+
+因為正常人如果工作能力不行，開除他沒人說話
+
+但要是開除一個身障(即便是能力不行)，也會變成是你在歧視
+
+各位身障同胞真的要好好感謝盧同學為大家進行的示範
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.51.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495098762.A.002.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495098762.A.002.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 沒錯兒</span><span class="push-ipdatetime"> 05/18 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: 我大學時打工在2外場1內場的店 結果內場聽障+口障</span><span class="push-ipdatetime"> 05/18 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: 整個客人一多就崩潰</span><span class="push-ipdatetime"> 05/18 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 真的 這身障同胞也未各老闆示範以後最好別請身障人士</span><span class="push-ipdatetime"> 05/18 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smallpuma</span><span class="f3 push-content">: <a href="http://tinyurl.com/m9j7ary" target="_blank" rel="nofollow">http://tinyurl.com/m9j7ary</a>  不錄用也會有問題喔</span><span class="push-ipdatetime"> 05/18 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 除了找自己麻煩外看不到任何好處</span><span class="push-ipdatetime"> 05/18 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 會被罰就代表老闆話術不夠高</span><span class="push-ipdatetime"> 05/18 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 是說 我又不是資方 關我屁事 身心障礙有保障名額 工作調配</span><span class="push-ipdatetime"> 05/18 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 是資方的本事 不要QQ哦</span><span class="push-ipdatetime"> 05/18 17:16
+</span></div>民營事業機構員工總人數在<span class="f3 hl">六十七人</span>以上者，進用具有就業能力之身心障礙者人數
+，不得低於員工總人數百分之一，且不得少於一人。
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lalsoft</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/18 17:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/18 17:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BoXeX</span><span class="f3 push-content">: 那老闆不要講理由就好啊   傻傻的</span><span class="push-ipdatetime"> 05/18 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 問題是精障者在全台最多..如果不請..怎麼辦</span><span class="push-ipdatetime"> 05/18 17:18
+</span></div><span class="f2">※ 編輯: shamanlin (122.116.51.173), 05/18/2017 17:19:54
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 如果敢開除..事後會被砍..  說來說去..大家怕來怕去 卻沒</span><span class="push-ipdatetime"> 05/18 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 辦法承認事實上是缺人太嚴重，連老闆得自己跳出來工作</span><span class="push-ipdatetime"> 05/18 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Daxin</span><span class="f3 push-content">: 重點在於應試時的狀況..聽障生表示有告知老闆，跟這篇說法?</span><span class="push-ipdatetime"> 05/18 17:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">end81235</span><span class="f3 push-content">: 鄉民根本不懂什麼是中小企業……看看巷口麵攤吧</span><span class="push-ipdatetime"> 05/18 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">me410</span><span class="f3 push-content">: 問題是企業寧願繳代金啊,完全不違法.</span><span class="push-ipdatetime"> 05/18 17:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">youareabitch</span><span class="f3 push-content">: 煮茶一天了不起煮兩三次而已 還專職煮茶= =</span><span class="push-ipdatetime"> 05/18 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">me410</span><span class="f3 push-content">: 連面試都不給,然後繳代金給政府一點也不違法.</span><span class="push-ipdatetime"> 05/18 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">end81235</span><span class="f3 push-content">: 因為即使是有數十名員工的企業，大部份也是寅吃卯糧啊</span><span class="push-ipdatetime"> 05/18 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">end81235</span><span class="f3 push-content">: 哪來餘力改變工作環境迎合身障者</span><span class="push-ipdatetime"> 05/18 17:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zephyr105</span><span class="f3 push-content">: 哇咧 穿裙子跟公作能力沒關係好嗎</span><span class="push-ipdatetime"> 05/18 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 答對了 遇到這種就是不要請最好</span><span class="push-ipdatetime"> 05/18 17:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 遇到好咖還好 遇到那種做比較少還想領一樣錢的 無解</span><span class="push-ipdatetime"> 05/18 17:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 連讓他試試看 這種想法最好不要有 不燃會變成現在這樣</span><span class="push-ipdatetime"> 05/18 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 這樣聽障者高興了嗎</span><span class="push-ipdatetime"> 05/18 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: CobeBryant 你敢確定某些身障領一樣的薪水..請您去搭車到</span><span class="push-ipdatetime"> 05/18 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 中南部求求某些老闆不要讓身障者領最低的..請公平和一般的</span><span class="push-ipdatetime"> 05/18 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 員工們領一樣的薪水哦</span><span class="push-ipdatetime"> 05/18 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 所以不要請比較好啊  不然做比較少又要領一樣錢</span><span class="push-ipdatetime"> 05/18 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 我前公司工程師 也是身障 就沒領比較少 為什麼呢??</span><span class="push-ipdatetime"> 05/18 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 我公司協理是聽障 還戴助聽器</span><span class="push-ipdatetime"> 05/18 17:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 遇到這種能做的事比較少 還想領一樣的 最好的方法就是</span><span class="push-ipdatetime"> 05/18 17:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 不要請囉</span><span class="push-ipdatetime"> 05/18 17:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: CobeBryant 不要請比較好..但是還是缺人很嚴重，最後請外勞</span><span class="push-ipdatetime"> 05/18 17:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yukito76113</span><span class="f3 push-content">: 鄉民買東西都要CP值的</span><span class="push-ipdatetime"> 05/18 17:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 陪你們工作..整天說不通..他們聽得嘸嘸..反正您想要請外勞</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 請外勞又怎樣?</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 所以不願僱用身障..這樣是您的真實想法吧</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 外勞很好溝通好嗎?  在前公司遇到不少外樓勞op都很好</span><span class="push-ipdatetime"> 05/18 17:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 溝通</span><span class="push-ipdatetime"> 05/18 17:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 呵呵...現在有可能越來越少..因為越南和其他東南亞決定不會</span><span class="push-ipdatetime"> 05/18 17:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 可以雇用阿 但要雇用好咖阿</span><span class="push-ipdatetime"> 05/18 17:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 提供人才給台灣..剩下你們得自己把工廠移到外國</span><span class="push-ipdatetime"> 05/18 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 明明一堆&#34;身障&#34;工程師 都領沒比較少 也沒比較差</span><span class="push-ipdatetime"> 05/18 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 自己差還在怪人給比較少  這種真的不要請比較好</span><span class="push-ipdatetime"> 05/18 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 最重要是你不是郭台銘...y</span><span class="push-ipdatetime"> 05/18 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 你到底在說三小阿 0.0??</span><span class="push-ipdatetime"> 05/18 17:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 請神容易送神難 送神怎樣都會被扣上歧視</span><span class="push-ipdatetime"> 05/18 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rs5556</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/18 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newland</span><span class="f3 push-content">: 中小企業願意僱用身心障礙者的，真的都很佛啊。</span><span class="push-ipdatetime"> 05/18 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/19 10:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495098762.A.002.html?cacheKey=2052-40097091&offset=7524&offset-sig=d83c9283e989500b8a4f55cc74634fae71b9a355" data-longpollurl="/v1/longpoll?id=d197b045df48fa93d9acf1345595471773d01e7e" data-offset="7524"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

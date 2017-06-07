@@ -1,0 +1,163 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495543863.A.753.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 彰銀舊址黑箱都更 文化局推給都發局就無 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源: 自由時報
+2.完整新聞標題:
+彰銀舊址「黑箱」都更 文化局推給都發局就無下文？
+3.完整新聞內文:
+2017-05-22  23:48
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 彰銀舊址黑箱都更 文化局推給都發局就無">
+<meta property="og:description" content="1.媒體來源: 自由時報
+2.完整新聞標題:
+彰銀舊址「黑箱」都更 文化局推給都發局就無下文？
+3.完整新聞內文:
+2017-05-22  23:48
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495543863.A.753.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495543863.A.753.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">moocow (void)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 彰銀舊址黑箱都更 文化局推給都發局就無</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 20:50:59 2017</span></div>
+1.媒體來源: 自由時報
+
+2.完整新聞標題:
+
+彰銀舊址「黑箱」都更 文化局推給都發局就無下文？
+
+3.完整新聞內文:
+2017-05-22  23:48
+
+〔記者陳紜甄／台北報導〕有文史價值的彰化銀行北門分行舊址，驚傳「黑箱」進行都更
+？彰化銀行北門分行舊址，屬於北市文化局「列冊追蹤」的歷史建物；然而文史工作者蕭
+文杰表示，文化局跳過文資大會審議核定，直接進入都更審議程序，批評文化局未依法進
+行，黑箱作業「吃案」。不過文化局卻說，都發局未按程序，事先詢問文化局；都更處則
+反擊，應是該案申請都更後，才被列冊文資。至於列冊的確切時間點，文化局並未回應。
+
+蕭文杰表示，彰銀北門分行舊址列冊後，該案卻未經文資大會審議其文資身份，案件就已
+送入都發局，且到權利變換申請階段。他說，《文資法》法律位階高於《都市計畫法》，
+但文化局卻將「程序倒著走」，讓都發局核可都市計畫變更，批評文化局「連演戲都懶得
+演」。
+
+文化局副局長田瑋回應，彰銀北門分行舊址屬公有建築物，按照規定，進入都更程序前，
+都更處應事先詢問文化局，是否該案有無列冊追蹤；然而，都更處卻無詢問過文化局，是
+這案子的最大問題。文資團體指控文化局未依程序按步驟進行，田瑋回應，依照文資法規
+定，怪手進入前，文化局還是有權利擋下來，並允諾本週會前往舊址會勘。
+
+都更處表示，該案的事業計畫已在103年核定，目前正在進行權利變換計畫。都更案如果
+有涉及到文資身分，從劃定更新單元，會先向文化主管機關確認。但依據該案100年所舉
+辦的都更幹事會記錄，當時文化局在會中表示該處沒有列冊文資。
+
+<span class="f3 hl">都更處指出，一般來說實施者並不會隱瞞更新範圍內有列冊文資，「因為一開始不面對，
+</span><span class="f3 hl">後面要處理要複雜。」但根據紀錄並沒有發現列冊文資，可能是送出事業計畫後才被列冊
+</span><span class="f3 hl">，須再與文化局確認列冊的時間點。對此，文化局相關負責人員，允諾告知並回覆；未料
+</span><span class="f3 hl">，記者與都發局皆無法聯繫上文化局確認此事。</span>
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/life/breakingnews/2075908" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/life/breakingnews/2075908</a>
+
+5.備註:
+
+對照前面台藝中心那篇新聞 文化局長真的可以下台了 -0-
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.46.54
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495543863.A.753.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495543863.A.753.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alphaz</span><span class="f3 push-content">: 什麼都舊址 不要都更算了  就是舊才要都更啊</span><span class="push-ipdatetime"> 05/23 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">moocow</span><span class="f3 push-content">: 那你以後也不要去逛老街或是有歷史的國內外景點阿?</span><span class="push-ipdatetime"> 05/23 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alphaz</span><span class="f3 push-content">: 都  通通都都</span><span class="push-ipdatetime"> 05/23 21:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sid3</span><span class="f3 push-content">: 什麼老街  不過就一堆危樓而已</span><span class="push-ipdatetime"> 05/23 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 彰銀趕快遷回彰化吧</span><span class="push-ipdatetime"> 05/23 23:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smcdlink</span><span class="f3 push-content">: 垃圾彰銀還沒倒啊，裡面的垃圾真多</span><span class="push-ipdatetime"> 05/24 19:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495543863.A.753.html?cacheKey=2052-38813073&offset=2580&offset-sig=021ac3453aa1f3086311eeac8d5b511d2787762b" data-longpollurl="/v1/longpoll?id=e6801bd329e6f497684648e4821b49c17d066071" data-offset="2580"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

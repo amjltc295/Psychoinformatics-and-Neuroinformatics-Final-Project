@@ -1,0 +1,190 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495448537.A.701.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 柯P管管你的街頭藝人考試，快淪為耍猴戲 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="統一回覆之前的幾篇回文
+首先 場地管理收費的部份和街頭藝人資格審核是兩碼子事情
+場地管理 包含是否收費和街頭藝人分配密度和每人允許演出的時間
+和街頭藝人是否能取得執照這是兩碼子事情
+首先說說為什麼街頭藝人需要考照
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 柯P管管你的街頭藝人考試，快淪為耍猴戲">
+<meta property="og:description" content="統一回覆之前的幾篇回文
+首先 場地管理收費的部份和街頭藝人資格審核是兩碼子事情
+場地管理 包含是否收費和街頭藝人分配密度和每人允許演出的時間
+和街頭藝人是否能取得執照這是兩碼子事情
+首先說說為什麼街頭藝人需要考照
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495448537.A.701.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495448537.A.701.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">jyenhuang (神經病真多)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 柯P管管你的街頭藝人考試，快淪為耍猴戲</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 18:22:14 2017</span></div>
+統一回覆之前的幾篇回文
+
+首先 場地管理收費的部份和街頭藝人資格審核是兩碼子事情
+
+場地管理 包含是否收費和街頭藝人分配密度和每人允許演出的時間
+
+和街頭藝人是否能取得執照這是兩碼子事情
+
+首先說說為什麼街頭藝人需要考照
+
+街頭藝人考試最早是來自於歐洲
+
+目的是藝術家資格的確認
+
+確認藝術家資格的目的在於社會保險與稅收
+
+也就是說 街頭藝人資格的給予其實跟場地管理沒有什麼關係
+
+而是跟錢有關系
+
+當一個人取得藝術家資格以後 他就被視為自由業
+
+依照自由業的標準繳稅(或不繳稅)與參加健保與退休保險
+
+然後 因為是自由業 所以沒有失業給付與各種中低收入補助
+
+所以藝術家資格的確認是來自於政府管理上的需求
+
+一般的藝術家資格可以靠著就讀藝術學校音樂學校等等的資歷取得
+
+但是街頭藝人則有困難 因為很多是自己練的
+
+拿不出這種學歷證明
+
+為了給這種自己練習出來的人有機會取得藝術家資格
+
+所以開了這種街頭藝人的考試 增加藝術家資格的取得管道
+
+一來確定這些人確實有能力維生
+二來確定這些人不是純粹為了逃稅而申請成為街頭藝人
+三來讓政府可以安心的不去管這群人的死活
+  不發給他們失業救濟金與社會補助
+
+但這時問題來了
+
+考試評審究竟該審核到什麼地步?
+
+照理說應該是只要該人證明他有技藝在身 可以賴以維生即可
+
+但很多評審似乎超越了這條界線 做出了過度的審查
+
+所以後來歐洲又慢慢的取消(但也尚未完全取消)這種考試
+
+反正當取得街頭藝人資格同時代表喪失領取社會補助的資格時
+
+去申請取得這個身份的人自然會斟酌自身的能力
+
+不過這是法律上最初會產生街頭藝人身份考試的原因
+
+
+至於場地管理 就是每個地方有多少人可以演出
+
+每個藝人之間要相隔多遠 每人在每個地方最多可以待多久
+
+是否要事先申請時間場地與是否要繳交場地費
+
+那都是另外的問題 和為什麼要有街頭藝人考試無關
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 92.196.105.239
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495448537.A.701.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495448537.A.701.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 好</span><span class="push-ipdatetime"> 05/22 18:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: 學學cosplay 自我管理 都成年人了還要立法規範</span><span class="push-ipdatetime"> 05/22 18:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 幫推一下</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SabinaK</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/22 21:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">juncat</span><span class="f3 push-content">: 原來如此</span><span class="push-ipdatetime"> 05/23 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MurderKiller</span><span class="f3 push-content">: 長知識</span><span class="push-ipdatetime"> 05/23 09:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495448537.A.701.html?cacheKey=2052-36704643&offset=2353&offset-sig=fd8de112e4ce45150364b7cd92bcf35b7d235bb9" data-longpollurl="/v1/longpoll?id=91b832ef610673f0fbe14fb820d22e1960750eba" data-offset="2353"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

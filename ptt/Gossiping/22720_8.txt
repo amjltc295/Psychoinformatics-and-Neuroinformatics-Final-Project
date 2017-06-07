@@ -1,0 +1,197 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496735258.A.8AA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 蔡總統： 挺半導體產業 力推前瞻 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="蔡總統：挺半導體產業 力推前瞻
+新唐人亞太台
+http://www.ntdtv.com.tw/b5/20170606/video/198226.html
+政府推出的「亞洲‧矽谷」計畫，希望讓台灣產業與國際
+有更深入的連結，主辦方今天下午率先邀請桃園市政府，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 蔡總統： 挺半導體產業 力推前瞻">
+<meta property="og:description" content="蔡總統：挺半導體產業 力推前瞻
+新唐人亞太台
+http://www.ntdtv.com.tw/b5/20170606/video/198226.html
+政府推出的「亞洲‧矽谷」計畫，希望讓台灣產業與國際
+有更深入的連結，主辦方今天下午率先邀請桃園市政府，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496735258.A.8AA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496735258.A.8AA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cliffcliff (號：)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 蔡總統： 挺半導體產業 力推前瞻</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 15:47:35 2017</span></div>
+<span class="b4">蔡總統：挺半導體產業 力推前瞻</span>
+新唐人亞太台
+<a href="http://www.ntdtv.com.tw/b5/20170606/video/198226.html" target="_blank" rel="nofollow">http://www.ntdtv.com.tw/b5/20170606/video/198226.html</a>
+
+
+政府推出的<span class="f6 hl">「亞洲‧矽谷」</span>計畫，希望讓台灣產業與國際
+有更深入的連結，主辦方今天下午率先邀請桃園市政府，
+以及國內外廠商代表蒞臨展示館參觀。而昨天，總統蔡英
+文也向業界談到，政府會<span class="f2 hl">繼續全力支持半導體產業</span>。
+
+中華民國總統 蔡英文：「那麼除了5+2的計畫之外，政府
+也不會忽略台灣的主力產業，我記得王伯元理事長之前也
+說過，<span class="f2 hl">半導體是台灣的經濟命脈</span>，那我也很認同，政府絕
+對會<span class="f2 hl">全力支持半導體業</span>。」
+
+<span class="f3 hl">蔡總統</span>指出，要持續發展半導體產業，<span class="f3 hl">需要健全的供水、</span>
+<span class="f3 hl">供電等基礎設施，以及充分人才的供應</span>，<span class="f3 hl">目前推動的</span><span class="f1 hl">前瞻</span>
+<span class="f1 hl">基礎建設</span><span class="f3 hl">，是支撐產業持續成長的基礎</span>。蔡總統期勉業界
+，與政府合作推動「亞洲‧矽谷」計畫，讓台灣產業能進
+一步連結國際，並強調：「台灣準備好了，就請大家再幫
+忙推一把。」
+
+
+備註:
+
+跳針跳的有點誇張
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.177.250.209
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496735258.A.8AA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496735258.A.8AA.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gerund</span><span class="f3 push-content">:  真的很餓</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tml7415</span><span class="f3 push-content">: 等等蛆蛆 和 9.2會來噓</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">em4</span><span class="f3 push-content">: 房價才是命脈 好唄</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ipadmini6</span><span class="f3 push-content">: 翻譯：不過前瞻，半導體就別想發展</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nowitzki0207</span><span class="f3 push-content">: 挺理工的，該虛嗎</span><span class="push-ipdatetime"> 06/06 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 所以你要蓋軌道 你要防洪 你要半導體產業 要綠能.......</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 敢問...前瞻計畫...是有五兆預算嗎</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yh662288</span><span class="f3 push-content">: 母豬：力挺代工產業</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s10910chris</span><span class="f3 push-content">: 房價壓下來就夠前瞻了</span><span class="push-ipdatetime"> 06/06 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 9.2連半導體是命脈也能噓</span><span class="push-ipdatetime"> 06/06 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">demonlogy</span><span class="f3 push-content">: 鐵路跟半導體的關聯</span><span class="push-ipdatetime"> 06/06 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yeu594271</span><span class="f3 push-content">: 所有願望，前瞻一次滿足，給我過就對了</span><span class="push-ipdatetime"> 06/06 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">funkD</span><span class="f3 push-content">: 不想說了 什麼東西都在錢沾</span><span class="push-ipdatetime"> 06/06 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">demonlogy</span><span class="f3 push-content">: ?</span><span class="push-ipdatetime"> 06/06 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OgOl</span><span class="f3 push-content">: 收割台GG?</span><span class="push-ipdatetime"> 06/06 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">petshopboys</span><span class="f3 push-content">: 蔡英九這廢物何時下台?</span><span class="push-ipdatetime"> 06/06 15:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">satosi011</span><span class="f3 push-content">: 錢沾有花錢在半導體產業嗎?</span><span class="push-ipdatetime"> 06/06 15:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mazda6</span><span class="f3 push-content">: 蓋鐵路跟半導體.......台積附近還怕震動</span><span class="push-ipdatetime"> 06/06 15:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st2913sbck</span><span class="f3 push-content">: 前瞻包山包海 想得到的都有 沒想到的你講出來馬上有</span><span class="push-ipdatetime"> 06/06 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">obdv</span><span class="f3 push-content">: 支持也買不起房拉  台灣都財團玩得 算惹吧</span><span class="push-ipdatetime"> 06/06 16:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 前幾天還有個蠢貨跟我唬爛說台積電需要捷運...</span><span class="push-ipdatetime"> 06/06 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leavefly</span><span class="f3 push-content">: 媽的純放屁...</span><span class="push-ipdatetime"> 06/06 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 欸，這傢伙現在是安裝固定發話系統的機器人嗎？什麼議題</span><span class="push-ipdatetime"> 06/06 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 都要補一句推前瞻耶</span><span class="push-ipdatetime"> 06/06 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 原來我國AI已經進步到可以執政啦！</span><span class="push-ipdatetime"> 06/06 16:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">notfound0407</span><span class="f3 push-content">: 萬用前瞻 資浸政府:力挺動漫產業 發展前瞻</span><span class="push-ipdatetime"> 06/06 16:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ikj</span><span class="f3 push-content">: 母豬 沒有下線</span><span class="push-ipdatetime"> 06/06 16:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 這世上沒有C4和前瞻不能搞定的事</span><span class="push-ipdatetime"> 06/06 16:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mikemax</span><span class="f3 push-content">: 繼續costdown</span><span class="push-ipdatetime"> 06/06 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HamalAri</span><span class="f3 push-content">: 廢話連篇</span><span class="push-ipdatetime"> 06/06 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jasontongton</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 06/06 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 前瞻連半導體都照顧</span><span class="push-ipdatetime"> 06/06 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">light20735</span><span class="f3 push-content">: 甲賽只會蓋軌道的白痴</span><span class="push-ipdatetime"> 06/06 16:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 加賽 居住正義白皮書勒  幹你娘</span><span class="push-ipdatetime"> 06/06 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ianlin45</span><span class="f3 push-content">: 要錢要錢要錢</span><span class="push-ipdatetime"> 06/06 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SoMnUs</span><span class="f3 push-content">: 有的沒的 都能扯前瞻 妳怎麼不去賣假藥</span><span class="push-ipdatetime"> 06/06 17:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">koim</span><span class="f3 push-content">: 裝做挺勞工來護資方，裝作挺半導體來騙錢綁椿</span><span class="push-ipdatetime"> 06/06 17:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">oringe96</span><span class="f3 push-content">: 說好的加薪跟居住正義呢，結果錢沾先透支</span><span class="push-ipdatetime"> 06/06 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eulogy</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/06 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PTTkingdom</span><span class="f3 push-content">: 又再講543</span><span class="push-ipdatetime"> 06/06 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PatlaborGao</span><span class="f3 push-content">: 逢人就說 你聽過前瞻嗎</span><span class="push-ipdatetime"> 06/06 20:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ewing112233</span><span class="f3 push-content">: 錢沾</span><span class="push-ipdatetime"> 06/06 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">playbigGG</span><span class="f3 push-content">: 垃圾空心菜 還我七天假</span><span class="push-ipdatetime"> 06/06 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pchunters123</span><span class="f3 push-content">: 治陽痿，前瞻是關鍵</span><span class="push-ipdatetime"> 06/06 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sandy0327</span><span class="f3 push-content">: 資進黨不倒 台灣會倒 空心髮夾不斷  只會鬥爭不會經濟</span><span class="push-ipdatetime"> 06/07 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">baconcsie</span><span class="f3 push-content">: 顆顆</span><span class="push-ipdatetime"> 06/07 00:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lsjh</span><span class="f3 push-content">: 總統不了解鄉民要的是不要花錢就能翻轉台灣的總統</span><span class="push-ipdatetime"> 06/07 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Nazion95</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/07 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 萬靈丹？</span><span class="push-ipdatetime"> 06/07 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">switching</span><span class="f3 push-content">: 前瞻甚麼都能做 好厲害</span><span class="push-ipdatetime"> 06/07 12:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kougousei</span><span class="f3 push-content">: 蓋輕軌讓半導體產業進步 耶耶耶~~~</span><span class="push-ipdatetime"> 06/07 12:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyhunter</span><span class="f3 push-content">: 哈哈哈哈 前瞻萬能耶 讚讚</span><span class="push-ipdatetime"> 06/07 13:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ptckimo</span><span class="f3 push-content">: 有笑有噓</span><span class="push-ipdatetime"> 06/07 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">happyennovy</span><span class="f3 push-content">: 沒電沒水講這什麼屁話</span><span class="push-ipdatetime"> 06/07 21:46
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496735258.A.8AA.html?cacheKey=2052-2765044&offset=6637&offset-sig=4721b15e2f8a0ca24b9b4d71099ad8ad931be3cd" data-longpollurl="/v1/longpoll?id=845e0b668d223d1e6c143fbff28716b72c59864b" data-offset="6637"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

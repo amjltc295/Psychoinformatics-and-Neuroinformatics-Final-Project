@@ -1,0 +1,178 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496679206.A.88E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 淹水騎車，水不能淹過機車哪個部件的八卦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="dear all
+小弟是在林口混飯吃的國立碩畢工程師，
+退伍後工作還不到兩年，在這裡跟各位本版的大大說聲：我是死菜鳥，請學長多多指教。
+好了，前幾天最強梅雨，導致了小弟回家必經之路：
+俗稱：&#34;二省道&#34;之稱的新北大道，三線道，淹成大家都只敢走沒淹的內線道，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 淹水騎車，水不能淹過機車哪個部件的八卦">
+<meta property="og:description" content="dear all
+小弟是在林口混飯吃的國立碩畢工程師，
+退伍後工作還不到兩年，在這裡跟各位本版的大大說聲：我是死菜鳥，請學長多多指教。
+好了，前幾天最強梅雨，導致了小弟回家必經之路：
+俗稱：&#34;二省道&#34;之稱的新北大道，三線道，淹成大家都只敢走沒淹的內線道，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496679206.A.88E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496679206.A.88E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PanzerVOR (喧嘩上等)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 淹水騎車，水不能淹過機車哪個部件的八卦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 00:13:23 2017</span></div>
+dear all
+
+小弟是在林口混飯吃的國立碩畢工程師，
+退伍後工作還不到兩年，在這裡跟各位本版的大大說聲：我是死菜鳥，請學長多多指教。
+
+
+好了，前幾天最強梅雨，導致了小弟回家必經之路：
+俗稱：&#34;二省道&#34;之稱的新北大道，三線道，淹成大家都只敢走沒淹的內線道，
+小弟是騎野狼檔車，但是還是乖乖的跟其他速克達的騎士們，一起走塞到爆的內線道，
+躲掉那淹到膝蓋的水。
+
+
+隔日小弟到了公司，和同事說了此事。
+
+
+一邊的同事說我是錯的，水別高過進排氣管，水進排氣管，引擎無法正常排除廢氣，
+對於四衝程引擎的某衝程變成是阻力，機車會熄火。
+
+
+另一邊同事：排氣管不用管，你游泳排氣與吸氣當然是吸氣別吸到水，跟機車一樣，
+只要檔車進氣歧管很高，只要進氣不要進水，引擎能正常爆炸提供動力，排氣自然把
+廢氣排出，水進去了排氣管也是被廢棄噴出去。
+
+
+這樣好亂阿，小弟也是理工出身，當然對於這內燃機有一定的研究，感覺都滿有理的。
+
+
+有沒有騎車過淹水區到底是要注意：
+
+水淹過&#34;排氣管&#34;還是&#34;進氣歧管&#34;呢！？
+
+
+有沒機械工程的版友為大家來解答呢？
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.162.120.113
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496679206.A.88E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496679206.A.88E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">melissalewis</span><span class="f3 push-content">: 騎士的嘴巴</span><span class="push-ipdatetime"> 06/06 00:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widali</span><span class="f3 push-content">: 不能淹到輪胎皮</span><span class="push-ipdatetime"> 06/06 00:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 排氣管</span><span class="push-ipdatetime"> 06/06 00:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diabolica</span><span class="f3 push-content">: 普麗珠</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Benbenyale</span><span class="f3 push-content">: 反正都先拆坐墊 所以不要淹超過坐墊</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiston1419</span><span class="f3 push-content">: 頭</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sion1993</span><span class="f3 push-content">: 最高不是可以淹到照後鏡都沒事嗎?</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stupideric</span><span class="f3 push-content">: 不能淹過雞雞</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">werlight</span><span class="f3 push-content">: 如果你沒有背水肺 那不能淹過你的氣管</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiston1419</span><span class="f3 push-content">: 應該是鑰匙孔，這樣鑰匙轉不開</span><span class="push-ipdatetime"> 06/06 00:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OGCOGCOGCOGC</span><span class="f3 push-content">: 問平偉</span><span class="push-ipdatetime"> 06/06 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nec123</span><span class="f3 push-content">: 你發動用腳把排氣管堵住 就熄火了</span><span class="push-ipdatetime"> 06/06 00:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 鼻孔</span><span class="push-ipdatetime"> 06/06 00:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">reallove</span><span class="f3 push-content">: 沒看到那神勇的公車嗎 不停就沒事</span><span class="push-ipdatetime"> 06/06 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kissmenow</span><span class="f3 push-content">: 認真回 不要淹過空濾（進氣）都沒事 但要記得如果水有</span><span class="push-ipdatetime"> 06/06 00:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kissmenow</span><span class="f3 push-content">: 過排氣管的話 右手油門千萬別放</span><span class="push-ipdatetime"> 06/06 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 座墊</span><span class="push-ipdatetime"> 06/06 00:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Niubert</span><span class="f3 push-content">: 淹到排氣管時，不停油門就沒事。淹到進氣管時就一定有事</span><span class="push-ipdatetime"> 06/06 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pusufu5566</span><span class="f3 push-content">: 還是空濾端進水才比較嚴重</span><span class="push-ipdatetime"> 06/06 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pusufu5566</span><span class="f3 push-content">: 排氣管不要放油門一直加速根本沒差</span><span class="push-ipdatetime"> 06/06 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pusufu5566</span><span class="f3 push-content">: 野狼應該還沒淹到空濾點火就進水熄火了</span><span class="push-ipdatetime"> 06/06 00:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">harryqiu</span><span class="f3 push-content">: 不好笑</span><span class="push-ipdatetime"> 06/06 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silverywings</span><span class="f3 push-content">: 照後鏡</span><span class="push-ipdatetime"> 06/06 00:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heatsink</span><span class="f3 push-content">: 進氣岐管正解，水無法壓縮，吸進引擎會爆缸</span><span class="push-ipdatetime"> 06/06 00:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RMCC</span><span class="f3 push-content">: 淹到安全帽</span><span class="push-ipdatetime"> 06/06 01:16
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496679206.A.88E.html?cacheKey=2052-2701863&offset=3692&offset-sig=662152628e6d5a8e8f88a7bd1d4b01e4eb3561e2" data-longpollurl="/v1/longpoll?id=8053c3a3c797c000b2092211b2aecfce79d23447" data-offset="3692"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

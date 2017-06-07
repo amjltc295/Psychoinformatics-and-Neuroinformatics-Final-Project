@@ -1,0 +1,200 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496399116.A.026.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 復康巴士很難叫　輪椅天使：車都去哪了？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:蘋果日報
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:復康巴士很難叫　輪椅天使：車都去哪了？
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 復康巴士很難叫　輪椅天使：車都去哪了？">
+<meta property="og:description" content="1.媒體來源:蘋果日報
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:復康巴士很難叫　輪椅天使：車都去哪了？
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496399116.A.026.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496399116.A.026.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PiliPuppet (孤鴻泣雪)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 復康巴士很難叫　輪椅天使：車都去哪了？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 18:25:03 2017</span></div>
+1.媒體來源:蘋果日報
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+
+2.完整新聞標題:復康巴士很難叫　輪椅天使：車都去哪了？
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+
+3.完整新聞內文:
+
+復康巴士有多難預約？竟然讓輪椅天使余秀芷，在臉書發文質問「車都去哪了？」原來是
+新北市府原把復康巴士經營權分別撥給伊甸基金會、育成基金會，但伊甸基金會光是去年
+就虧損7百萬元，於是今年合約到期後，將把復康巴士業務交接給育成基金會。但余秀芷
+指出，現在才5月底，但叫車卻越來越困難。
+
+余秀芷於臉書發文，「決定不再經營復康巴士業務，就馬上將服務對象棄之不顧嗎？」一
+般的復康巴士預約都是從早上七點開始，她七點一登入頁面，發現幾乎每一個時段都改成
+了「候補」，可預約的時段只剩下非常非常少，「所以車子都去哪了？」對她們這些使用
+者來說，「叫不到車」的狀況非常嚴重。
+
+記者致電余秀芷，她說她居住的區域是「伊甸基金會」所負責，伊甸預定今年7月底止結
+束這個業務，但是現在才五月底，打開了預訂頁面，全部都幾乎已是「候補」的狀態，「
+復康巴士再怎麼熱門，也不會像演唱會門票一樣秒殺」。記者追問，難道候補後就叫不到
+車了嗎？余秀芷回答「以過往經驗來說，候補就表示不一定會有車，且前一天才會知道會
+不會有車子。」
+
+至於搭不到車會有怎樣的影響？余秀芷說：「搭不搭的到這班車表示我是否可以出門」，
+在候補的狀況下，她所安排的工作也會有影響。雖然她可以搭捷運，但因為余秀芷住在新
+店安坑比較偏遠，若是以推輪椅轉搭捷運，余秀芷得花1個小時才到得了捷運站。
+
+假如搭公車的話，除了候車亭有台階輪椅上不去，余秀芷只能坐在輪椅上，在馬路旁等候
+公車，相當危險，且公車司機又不見得願意會花時間放斜坡板。余秀芷說，她曾經遇過司
+機當沒看到就呼嘯而過，所以搭公車是身障者最怕的事情，但又不得不搭。
+
+至於計程車則是費用太高，有些無障礙計程車甚至接到身障者預約，會私下跟身障者加收
+兩百元不等的額外收費，像她這樣杯水車薪，每次出門叫計程車負擔很高，且無障礙計程
+車數量少，叫車還要碰運氣。
+
+余秀芷認為，身障者能不能出門，一部份真的是要麻煩政府幫忙，重視身障者的權利，復
+康巴士已經是最後的選項，假如連復康巴士都沒了，「我們該用什麼方式出門呢？」
+
+對此伊甸基金會公關楊于慧表示，基金會確實因合約到期而要終止新北市復康巴士的業務
+，而在7月底前，原本由伊甸雇用的復康巴士司機，必須到接手的育成基金會進行面試，
+這段時間司機因面試緣故而有調動，才導致少許班次減少，但為了服務身障者，才會先填
+上「候補」，但伊甸仍盡力請司機發車，不管開不開得成，也會打電話通知身障者，所以
+身障者還是可以安心申請，除非是真的沒辦法，才會停開巴士。（楊景名／新北報導）
+
+======網友意見======
+網友認為，「真正問題是政府補助計程車改裝卻放任計程車改裝後去接自由行的生意而不
+是服務身障者」，「在離島地區，對於身障者的假仙社會福利，根本不敷生活需求。」、
+「臺灣對身障者之照顧還有很大之進步空間，看看美國是如何善待身障者就知道差別在那
+。」
+
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+
+4.完整新聞連結 (或短網址):<a href="https://goo.gl/kzdZtS" target="_blank" rel="nofollow">https://goo.gl/kzdZtS</a>
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+就算有一萬個做錯的理由，也不能改變一件做錯的事實，
+否則在這世上千千萬萬的可憐人，是不是都有踏入歧途的正當理由？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.181.118
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496399116.A.026.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496399116.A.026.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sclbtlove</span><span class="f3 push-content">: 幹計程車超靠杯 拿補助然後去接日韓自由行 一日遊</span><span class="push-ipdatetime"> 06/02 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oliverwind</span><span class="f3 push-content">: 目前高雄市是還好......但是面臨老人化現象 政府可能</span><span class="push-ipdatetime"> 06/02 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oliverwind</span><span class="f3 push-content">: 要重視這塊</span><span class="push-ipdatetime"> 06/02 18:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tom77588</span><span class="f3 push-content">: 不然call口天使來舒壓好了</span><span class="push-ipdatetime"> 06/02 18:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panex0845</span><span class="f3 push-content">: 接自由行好吃又好玩 接身障者簡直自找麻煩</span><span class="push-ipdatetime"> 06/02 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">terry1043</span><span class="f3 push-content">: 那些#補助不做正事的司機會有報應吧</span><span class="push-ipdatetime"> 06/02 18:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mingchaoliu</span><span class="f3 push-content">: 人口老化，一堆坐輪椅的老人也在搶</span><span class="push-ipdatetime"> 06/02 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YCLLZDBZM</span><span class="f3 push-content">: 推 余小姐。</span><span class="push-ipdatetime"> 06/02 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Cloudyagent</span><span class="f3 push-content">: 計程車素質 嘖嘖</span><span class="push-ipdatetime"> 06/02 18:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">edshen</span><span class="f3 push-content">: 幹計程車超靠杯 拿補助然後去接日韓自由行 一日遊</span><span class="push-ipdatetime"> 06/02 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunnyyoung</span><span class="f3 push-content">: 天使活在鬼島，這不是找麻煩嗎</span><span class="push-ipdatetime"> 06/02 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">t172</span><span class="f3 push-content">: 員x林才20台，之前都有叫成功，唯一這次沒有叫到，還花600叫</span><span class="push-ipdatetime"> 06/02 19:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neilisme</span><span class="f3 push-content">: 那麼搶手還虧錢就是價格訂太低了阿 漲價不會喔</span><span class="push-ipdatetime"> 06/02 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dannyshan</span><span class="f3 push-content">: 康復巴士好像是免費的吧 但是好像只有手冊的人才可以叫</span><span class="push-ipdatetime"> 06/02 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dannyshan</span><span class="f3 push-content">:  付錢的是私人或者是醫院自己經營的巴士 叫不到就自己</span><span class="push-ipdatetime"> 06/02 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dannyshan</span><span class="f3 push-content">: 花錢囉</span><span class="push-ipdatetime"> 06/02 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ismyway</span><span class="f3 push-content">: 噓樓上...復康巴士是計程車價錢的1/3...誰跟你免費...</span><span class="push-ipdatetime"> 06/02 21:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496399116.A.026.html?cacheKey=2052-1196564&offset=4910&offset-sig=4a4e3f8f9316238688d56d84af6df97cc79497e0" data-longpollurl="/v1/longpoll?id=175d68d597c6182951b57f8c7a207bf846be4a95" data-offset="4910"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,270 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494919430.A.48E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台灣人最愛旅遊城市　台北擠不進前十名 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:三立新聞
+2.完整新聞標題:台灣人最愛旅遊城市　台北擠不進前十名
+3.完整新聞內文:
+記者李鴻典／台北報導
+伴隨著網路與行動工具的應用普及，智慧旅遊帶動了「TravelTech（旅遊業創新）」的新
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台灣人最愛旅遊城市　台北擠不進前十名">
+<meta property="og:description" content="1.媒體來源:三立新聞
+2.完整新聞標題:台灣人最愛旅遊城市　台北擠不進前十名
+3.完整新聞內文:
+記者李鴻典／台北報導
+伴隨著網路與行動工具的應用普及，智慧旅遊帶動了「TravelTech（旅遊業創新）」的新
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494919430.A.48E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494919430.A.48E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">opica (op)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台灣人最愛旅遊城市　台北擠不進前十名</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 15:23:47 2017</span></div>
+1.媒體來源:三立新聞
+
+2.完整新聞標題:台灣人最愛旅遊城市　台北擠不進前十名
+
+3.完整新聞內文:
+
+記者李鴻典／台北報導
+
+伴隨著網路與行動工具的應用普及，智慧旅遊帶動了「TravelTech（旅遊業創新）」的新
+浪潮，有鑑於此，雄獅旅遊宣布，已研發以發展全球｢目的地旅遊」為核心理念的手機應
+用程式─《Journey on旅途中》App，首波率先從台灣出發，未來將拓及全球複製「目的
+地旅遊」模式，滿足全眾需求。
+
+雄獅指出，據觀光局統計，國人在2016年的國內旅遊高達1.8億人次，其中約有高達9成的
+民眾都會選擇自主性較高的自由行方式，多數的自由行旅客，在規劃自己的旅遊時，往往
+都是分階段進行購買，比如說上飯店官網訂房、打電話訂購體驗行程等。
+
+雄獅透過《Journey on旅途中》App進行整合，提供行前或行中的隨買、即訂、即用，除
+了自由行半日/一日遊程，連飯店餐券、咖啡、電影票、旅遊伴手禮都可以隨時訂購，滿
+足「食、住、行、娛、購、遊」的多元化需求。雄獅將於23日正式公布《Journey on旅途
+中》App上線訊息。
+
+雄獅旅遊也首度公布2016年國人最受歡迎的台灣旅遊目的地城市，意外的由「港都高雄」
+拔得頭籌，其後依序是花蓮、澎湖，台北僅排名第十一；而最受國人喜歡旅遊的商圈則是
+「墾丁大街」。
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.setn.com/News.aspx?NewsID=253122" target="_blank" rel="nofollow">http://www.setn.com/News.aspx?NewsID=253122</a>
+
+5.備註:
+
+幹最近高雄越來越擠了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 60.249.196.210
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494919430.A.48E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494919430.A.48E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 廢話台北有什麼好玩的智障才會來</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 鄉巴佬 全部滾出去</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelosk</span><span class="f3 push-content">: 地虎國的崛起</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diabolica</span><span class="f3 push-content">: 就住這都膩了</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hooz</span><span class="f3 push-content">: 台北是工作地方 有啥好玩的</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hankdai</span><span class="f3 push-content">: 台北就糞地方啊</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Desperando</span><span class="f3 push-content">: 業配</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcy91456</span><span class="f3 push-content">: 愛旅遊的住台北佔多數 這結果理所當然</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 東西難吃又貴 市長是白癡 沒景點 又一堆威權遺跡</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">huangjyuan</span><span class="f3 push-content">: 高雄景色的確不錯 天氣也會比較好</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">highyes</span><span class="f3 push-content">: 每天待在這  放假還在台北玩喔？</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">King510</span><span class="f3 push-content">: 因為調查對象大多是台北人吧，當然到外縣市旅遊啊</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JOGIBA</span><span class="f3 push-content">: 墾丁大街我笑了，整條都在賣盤子啊</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">huangjyuan</span><span class="f3 push-content">: 花蓮第二 蠻開心的</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 人又多</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 用個app來排名，自己玩爽的還OK。這樣也一篇新聞比較腦包</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">louis10452</span><span class="f3 push-content">: 哈哈，一堆智障去墾丁</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mudee</span><span class="f3 push-content">: 出國玩的人很多</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yinaser</span><span class="f3 push-content">: 就跟台南人不會選台南旅遊一樣</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heatsink</span><span class="f3 push-content">: 住台北賺台北，再去高雄旅遊，很難懂嗎？</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ThreekRoger</span><span class="f3 push-content">: 墾丁攤位價錢明明很普通沒誇張…</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 去墾丁不去沖繩的也是智障</span><span class="push-ipdatetime"> 05/16 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ezra</span><span class="f3 push-content">: 高雄第一名是有啥好意外?</span><span class="push-ipdatetime"> 05/16 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 北部人要去墾丁倒不如去沖繩</span><span class="push-ipdatetime"> 05/16 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AllenHuang</span><span class="f3 push-content">: 鍵盤9.2會說高雄沒啥好玩的</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">doubleganger</span><span class="f3 push-content">: 全台有4分之1人口住在雙北 放假離開台北當然不會是</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">duvw</span><span class="f3 push-content">: 雙北常住人口那麼多，住雙北怎麼可能在台北旅遊...根本給鄉</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suntex</span><span class="f3 push-content">: 人最多的第一大城選擇去第二大城旅遊很奇怪嗎? 意外什麼</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duvw</span><span class="f3 push-content">: 下自爽的。</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">doubleganger</span><span class="f3 push-content">: 首選 這有很難懂嗎?</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snsdakb48</span><span class="f3 push-content">: 拜託南部人快滾走 別來台北市亂 台北市是給外國人來的</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 看了一下，感覺就是業配啊=_=</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AllenHuang</span><span class="f3 push-content">: 一堆鍵盤9.2會說寧可去沖繩也不要去高雄</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ianlin45</span><span class="f3 push-content">: 廢話，平常就住台北了</span><span class="push-ipdatetime"> 05/16 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北貧民窟整天逛街吃夜市根本無聊的要死 還是高雄好玩</span><span class="push-ipdatetime"> 05/16 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duvw</span><span class="f3 push-content">: 高雄很多人看這種文自爽，科科。</span><span class="push-ipdatetime"> 05/16 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 我大膽預言在5年高雄外國人保障超越台北貧民窟</span><span class="push-ipdatetime"> 05/16 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KEYSOLIDER</span><span class="f3 push-content">: 很正常啊 難道台北人自己會喜歡待在台北玩而已</span><span class="push-ipdatetime"> 05/16 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北整天逛街吃夜市根本無聊的要死 市容又醜又噁 外國人來</span><span class="push-ipdatetime"> 05/16 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 一次就沒第二次了</span><span class="push-ipdatetime"> 05/16 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 高雄本來就沒什麼好玩的只是台北人喜歡搭捷運</span><span class="push-ipdatetime"> 05/16 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KEYSOLIDER</span><span class="f3 push-content">: 陸客不來 還是有觀光客來 才一直蓋旅館</span><span class="push-ipdatetime"> 05/16 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 搭高鐵到左營轉捷運去捷運沿線然後就回台北了</span><span class="push-ipdatetime"> 05/16 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄外國人今年整個大爆增</span><span class="push-ipdatetime"> 05/16 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 高雄贏在市容比台北有變化 台北就個鳥布拉機的爛盆地</span><span class="push-ipdatetime"> 05/16 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 不過高雄去一次10年不想再去</span><span class="push-ipdatetime"> 05/16 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: VV火力全開 一下南北都戰完了</span><span class="push-ipdatetime"> 05/16 15:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 效率</span><span class="push-ipdatetime"> 05/16 15:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">light20735</span><span class="f3 push-content">: 台北是生活用的高雄爛地方去一次就好了</span><span class="push-ipdatetime"> 05/16 15:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 台中的話就是去吃最新流行的食物然後就可以回家</span><span class="push-ipdatetime"> 05/16 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: 去台北旅遊的人本來就很少吧....</span><span class="push-ipdatetime"> 05/16 15:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gallantterry</span><span class="f3 push-content">: VV應該是個無趣的人</span><span class="push-ipdatetime"> 05/16 15:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 哪有 是超會抓重點的人 可是台灣旅遊就是 沒重點</span><span class="push-ipdatetime"> 05/16 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantasibear</span><span class="f3 push-content">: 台北人愛罵高雄，可是身體倒是挺誠實的</span><span class="push-ipdatetime"> 05/16 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 沒辦法因為高雄有捷運 這一點最像台北</span><span class="push-ipdatetime"> 05/16 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lions402</span><span class="f3 push-content">: 高雄好吃的有啥 我只記得鳳姐肉粽其他全忘了= =</span><span class="push-ipdatetime"> 05/16 15:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 廢話  住台北幹嘛還特地在台北玩 都那麼熟了</span><span class="push-ipdatetime"> 05/16 15:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">team1245</span><span class="f3 push-content">: 住台北當然選擇去南部玩啊</span><span class="push-ipdatetime"> 05/16 15:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kurtsgm</span><span class="f3 push-content">: ......廢話 台灣人多少人就住雙北桃園了 還到台北旅行?</span><span class="push-ipdatetime"> 05/16 15:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ciplu</span><span class="f3 push-content">: 看到墾丁大街就可以把這當笑話看了</span><span class="push-ipdatetime"> 05/16 15:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lime5566</span><span class="f3 push-content">: 台北挺無聊的啊加點錢就能出國了幹嘛去</span><span class="push-ipdatetime"> 05/16 15:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">howshue</span><span class="f3 push-content">: 詭異… 照經驗 評價最高都是花東吧</span><span class="push-ipdatetime"> 05/16 15:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北根本無聊 整天逛逛吃吃... 外國人都秒選高雄</span><span class="push-ipdatetime"> 05/16 15:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 高雄最棒棒了 六都人口外移第一名 不適合久居假日去個</span><span class="push-ipdatetime"> 05/16 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: ㄧ兩天還行啦 但要玩還是選台南啊 高雄？？？？</span><span class="push-ipdatetime"> 05/16 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sagarain</span><span class="f3 push-content">: 廢話 都台北人下去的啊</span><span class="push-ipdatetime"> 05/16 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 高雄才無聊吧 台北一堆點可以玩的...</span><span class="push-ipdatetime"> 05/16 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 台北半個小時就可以上陽明山了勒 高雄到墾丁還要1個半</span><span class="push-ipdatetime"> 05/16 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 小時吧</span><span class="push-ipdatetime"> 05/16 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 高雄主要就台北人去玩的阿 高雄以為有人想去喔..</span><span class="push-ipdatetime"> 05/16 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄10分內上壽山 誰跟你墾丁啊</span><span class="push-ipdatetime"> 05/16 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 頂多一些屏東人上去看電影而已因為屏東沒有好的影城</span><span class="push-ipdatetime"> 05/16 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 壽山那叫山喔? 海邊的猴子岩而已</span><span class="push-ipdatetime"> 05/16 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄有山有海有港有河有湖 屌打全台啊</span><span class="push-ipdatetime"> 05/16 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 總之opica就是只能住新北的頂加雅房 才需要靠噓台北自</span><span class="push-ipdatetime"> 05/16 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 慰啊</span><span class="push-ipdatetime"> 05/16 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北貧民窟崩潰成這樣哈哈</span><span class="push-ipdatetime"> 05/16 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 多的是高雄人買不起台北貧民窟像你ㄧ樣崩潰噢 顆顆</span><span class="push-ipdatetime"> 05/16 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北整天逛逛吃吃根本無聊的要死 外國人來一次就懂了</span><span class="push-ipdatetime"> 05/16 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 等台中捷運蓋好高雄就沒人了啦</span><span class="push-ipdatetime"> 05/16 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">je321654</span><span class="f3 push-content">: 廢話 啊太常去一下就膩了</span><span class="push-ipdatetime"> 05/16 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北貧民窟那種市容跟一堆巷弄 外國人看一次就嚇傻了不會在</span><span class="push-ipdatetime"> 05/16 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 去第二次</span><span class="push-ipdatetime"> 05/16 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 對啊 高雄花這麼多錢經營市容結果別說外國人 自己人都</span><span class="push-ipdatetime"> 05/16 15:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 不想待 都擠來台北台北才這麼亂</span><span class="push-ipdatetime"> 05/16 15:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fjtc12</span><span class="f3 push-content">: 北部肥宅聚集地 太臭</span><span class="push-ipdatetime"> 05/16 15:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 壽山只有猴子而已啦 陽明山可是有溫泉 火山 花季公園</span><span class="push-ipdatetime"> 05/16 16:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 一堆點可以逛勒 高雄人拿壽山出來給我笑嗎</span><span class="push-ipdatetime"> 05/16 16:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 哈哈溫泉哩 高雄也有溫泉阿</span><span class="push-ipdatetime"> 05/16 16:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 高雄溫泉... 你是指88風災前的多納溫泉嗎</span><span class="push-ipdatetime"> 05/16 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">monkeydpp</span><span class="f3 push-content">: 再說那個點進去開車都要1個半小時起跳</span><span class="push-ipdatetime"> 05/16 16:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: 臺北都賺外國人錢啊</span><span class="push-ipdatetime"> 05/16 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">george871127</span><span class="f3 push-content">: 啊人本來就都住在臺北 是要去臺北旅個屌喔</span><span class="push-ipdatetime"> 05/16 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zeng50</span><span class="f3 push-content">: 廢話 大台北就人口集中地啊 邏輯很好懂吧</span><span class="push-ipdatetime"> 05/16 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Freeven</span><span class="f3 push-content">: 你他媽的台北能旅遊三小XDD廢到笑</span><span class="push-ipdatetime"> 05/16 16:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 更廢的是不知台北可以旅遊的人 XD</span><span class="push-ipdatetime"> 05/16 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">conlaa</span><span class="f3 push-content">: 別讓天龍人不開心</span><span class="push-ipdatetime"> 05/16 16:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81238123</span><span class="f3 push-content">: 崩！</span><span class="push-ipdatetime"> 05/16 16:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jehow</span><span class="f3 push-content">: 住台北在台北玩會把它定義自由行旅遊 腦袋有問題喔</span><span class="push-ipdatetime"> 05/16 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北四周都山 是能玩三小啦</span><span class="push-ipdatetime"> 05/16 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenichisun</span><span class="f3 push-content">: 墾丁 哈哈  真多肥羊真好宰</span><span class="push-ipdatetime"> 05/16 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m025885200</span><span class="f3 push-content">: 說台北不能旅遊的是南部乞丐花不起吧~_~</span><span class="push-ipdatetime"> 05/16 16:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wilsonko</span><span class="f3 push-content">: 不好意思~台北是最適合居住的城市~~~</span><span class="push-ipdatetime"> 05/16 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyrics920</span><span class="f3 push-content">: 台北本來就不太適合旅遊，給外國人玩就好了</span><span class="push-ipdatetime"> 05/16 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deangod99</span><span class="f3 push-content">: 擠去台北不就是為了要賺錢嘛,本來就不是專攻旅遊</span><span class="push-ipdatetime"> 05/16 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stevenkuo</span><span class="f3 push-content">: 墾丁? 還不如去沖繩</span><span class="push-ipdatetime"> 05/16 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stock0907</span><span class="f3 push-content">: 台灣肥龜祖國後排名：東京 大阪 扶肛 名古屋  仙台 札</span><span class="push-ipdatetime"> 05/16 17:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x04nonesuchx</span><span class="f3 push-content">: 這樣也能崩潰</span><span class="push-ipdatetime"> 05/16 17:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bloodruru</span><span class="f3 push-content">: 其實喔 受歡迎的是那個&#34;港&#34;不是那個&#34;都&#34; XDD</span><span class="push-ipdatetime"> 05/16 17:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">garyasdf</span><span class="f3 push-content">: 住台北周圍常去的快4成..誰會去旅遊？</span><span class="push-ipdatetime"> 05/16 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ffaatt</span><span class="f3 push-content">: 台北 人選台北幹嘛</span><span class="push-ipdatetime"> 05/16 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RiceBear0527</span><span class="f3 push-content">: 因為在玩的都是台北人阿</span><span class="push-ipdatetime"> 05/16 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ajan007</span><span class="f3 push-content">: 墾丁大街 呵呵</span><span class="push-ipdatetime"> 05/16 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluewhale97</span><span class="f3 push-content">: 幸福城市不是叫假的</span><span class="push-ipdatetime"> 05/16 19:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">erikanofann</span><span class="f3 push-content">: 廢話 都找台北人填啊</span><span class="push-ipdatetime"> 05/16 19:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 退潮不意外</span><span class="push-ipdatetime"> 05/16 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: <a href="http://youtu.be/t0uxER5oJPg" target="_blank" rel="nofollow">http://youtu.be/t0uxER5oJPg</a></span><span class="push-ipdatetime"> 05/16 19:58
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/t0uxER5oJPg" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">princeguitar</span><span class="f3 push-content">: VVizZ 你太好笑了 哈哈哈</span><span class="push-ipdatetime"> 05/16 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wadadihaga</span><span class="f3 push-content">: 外國人除了支那人還有誰要去高雄？</span><span class="push-ipdatetime"> 05/17 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">arthur1018</span><span class="f3 push-content">: 豬油的市調也可以高潮</span><span class="push-ipdatetime"> 05/20 22:26
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494919430.A.48E.html?cacheKey=2052-37973299&offset=13620&offset-sig=ea4ee7586701914be914f9ed259f3f227b26a468" data-longpollurl="/v1/longpoll?id=8f724bd4371d164f3f9f33158b9671c1d864c4c6" data-offset="13620"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

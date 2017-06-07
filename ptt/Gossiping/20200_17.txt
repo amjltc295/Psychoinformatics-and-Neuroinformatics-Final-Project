@@ -1,0 +1,157 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495040065.A.EB3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 印度製iPhone終問世！緯創董座傳月底訪印 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="印度製iPhone終問世！緯創董座傳月底訪印
+2017年05月17日18:56      
+《華爾街日報》引述蘋果聲明報導，蘋果已在印度南部卡納塔克邦（Karnataka）的班加
+羅爾（Bangalore）啟動少量iPhone SE的初步生產，本月將開始把在印度生產的iPhone
+SE出貨給印度客戶。知情人士透露，蘋果在印度生產的第一批iPhone SE最快可能本周或
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 印度製iPhone終問世！緯創董座傳月底訪印">
+<meta property="og:description" content="印度製iPhone終問世！緯創董座傳月底訪印
+2017年05月17日18:56      
+《華爾街日報》引述蘋果聲明報導，蘋果已在印度南部卡納塔克邦（Karnataka）的班加
+羅爾（Bangalore）啟動少量iPhone SE的初步生產，本月將開始把在印度生產的iPhone
+SE出貨給印度客戶。知情人士透露，蘋果在印度生產的第一批iPhone SE最快可能本周或
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495040065.A.EB3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495040065.A.EB3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Waitaha (姆咪姆咪好可愛)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 印度製iPhone終問世！緯創董座傳月底訪印</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 00:54:21 2017</span></div>
+<span class="f3 hl">印度製iPhone終問世！緯創董座傳月底訪印</span>
+
+<span class="f0 hl">2017年05月17日18:56      </span>
+
+《華爾街日報》引述蘋果聲明報導，蘋果已在印度南部卡納塔克邦（Karnataka）的班加
+羅爾（Bangalore）啟動少量iPhone SE的初步生產，本月將開始把在印度生產的iPhone
+SE出貨給印度客戶。知情人士透露，蘋果在印度生產的第一批iPhone SE最快可能本周或
+下周就會上架。
+
+另外，《華爾街日報》也引述印度政府官員說法指出，緯創（3231）本月稍早已在印度完
+成iPhone SE組裝測試。這是蘋果首次在印度組裝iPhone，此舉對致力於進軍印度市場的
+蘋果而言是重要一大步。
+
+印度政府官員也透露，緯創董事長林憲銘和智能裝置事業群總經理沈慶堯預料本月底將與
+卡納塔克邦的資深政治家和官員會面，討論緯創更全面的計劃。（林文彬／綜合外電報導
+）
+
+<a href="http://www.appledaily.com.tw/realtimenews/article/finance/20170517/1120657" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/finance/20170517/1120657</a>
+蘋果日報
+
+<a href="http://imgur.com/vV8hLCD" target="_blank" rel="nofollow">http://imgur.com/vV8hLCD</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="vV8hLCD"><a href="//imgur.com/vV8hLCD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>《華爾街日報》報導，蘋果已開始在印度組裝iPhone。路透
+
+
+
+--
+<span class="f1 hl">→</span> <span class="f3 hl">a000000000</span><span class="f3">: 我年輕的時候有一次在某校某棟建築物裡面走     </span>       05/16 03:20
+<span class="f1 hl">→</span> <span class="f3 hl">a000000000</span><span class="f3">: 看到一葛男的迎面而來  帥  有型            </span>          05/16 03:21
+<span class="f1 hl">→</span> <span class="f3 hl">a000000000</span><span class="f3">: 可是不知道為捨摸   這人好像不肯讓路    </span>             05/16 03:21
+<span class="f1 hl">→</span> <span class="f3 hl">a000000000</span><span class="f3">: 我心理想幹0糧秋三小   你不讓我也不讓</span>                05/16 03:21
+<span class="f1 hl">→</span> <span class="f3 hl">a000000000</span><span class="f3">: 大家來互撞啊幹       </span>                               05/16 03:21
+<span class="f1 hl">→</span> <span class="f3 hl">a000000000</span><span class="f3">: 結果我就撞到鏡子惹</span>                                  05/16 03:22
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 218.164.6.162
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495040065.A.EB3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495040065.A.EB3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 哈哈中國哈哈</span><span class="push-ipdatetime"> 05/18 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wisey</span><span class="f3 push-content">: 有內建歌舞電影嗎？</span><span class="push-ipdatetime"> 05/18 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 內建強暴功能?</span><span class="push-ipdatetime"> 05/18 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: 會變成陽具強姦女用戶再把男友殺掉嗎？</span><span class="push-ipdatetime"> 05/18 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 內建按摩棒？</span><span class="push-ipdatetime"> 05/18 01:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f544544f</span><span class="f3 push-content">: 內建盜攝功能？</span><span class="push-ipdatetime"> 05/18 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RLAPH</span><span class="f3 push-content">: 這支一定要叫iphone kobe啊</span><span class="push-ipdatetime"> 05/18 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taresuki</span><span class="f3 push-content">: www新南向發威了?</span><span class="push-ipdatetime"> 05/18 01:30
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495040065.A.EB3.html?cacheKey=2052-37890415&offset=2636&offset-sig=6b12d39d47f950679051355d818392d34c4f89b6" data-longpollurl="/v1/longpoll?id=2bd0f1cd8e86f8b70fb666696011994d2a21dd63" data-offset="2636"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,229 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495699635.A.FB2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞]台灣醫療評比全球排名出爐 醫界大吃一驚 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我是沒有很懂啦~~但是開放醫師人數代表甚麼？
+你是有足夠的大體給這些醫學生學解剖嗎？
+師資有夠嗎？
+實習的場所有夠嗎？
+: 主因有三:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞]台灣醫療評比全球排名出爐 醫界大吃一驚">
+<meta property="og:description" content="我是沒有很懂啦~~但是開放醫師人數代表甚麼？
+你是有足夠的大體給這些醫學生學解剖嗎？
+師資有夠嗎？
+實習的場所有夠嗎？
+: 主因有三:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495699635.A.FB2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495699635.A.FB2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">StBeer (熊出沒注意~~中.........)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞]台灣醫療評比全球排名出爐 醫界大吃一驚</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 16:07:12 2017</span></div>
+<span class="f2">※ 引述《ban226301 (別鬧!我很認真)》之銘言：
+</span><span class="f6">: ※ 引述《leefengynh (/65G ・ 125/250K1W)》之銘言：
+</span><span class="f6">: : <a href="https://udn.com/news/story/7266/2477075" target="_blank" rel="nofollow">https://udn.com/news/story/7266/2477075</a>
+</span><span class="f6">: : 知名醫學期刊「刺胳針」（The Lancet）針對全球各國的健康保健品質指標評比，台灣比
+</span><span class="f6">: : 鄰近的日本、南韓的排名還低，在同樣經濟階級的國家中排名第45名，顛覆過去台灣醫療
+</span><span class="f6">: : 名列前矛的印象。
+</span><span class="f6">: : 醫師分析，台灣的健保給付設計重「量」不重「質」，導致台灣急性醫療照顧效果佳，
+</span><span class="f6">: : 但慢性照顧不足，刺絡針的調查凸顯台灣醫療問題。
+</span><span class="f6">: : 刺胳針在比爾蓋茲基金會贊助下，分析全球195個國家於1990年到2015年的健康數據，將
+</span><span class="f6">: : 各國依照經濟能力分為四個等級，
+</span><span class="f6">: : 再各自評比，針對32種被證實可有效控制的疾病，瞭解各國因此死亡和失能的數據。
+</span><span class="f6">: : 台灣整體排名第45，排名第1為安道爾、第2為冰島、第3為瑞士，台灣周邊國家日本排名
+</span><span class="f6">: : 最高為第11名、新加玻第21名、南韓第23名；被認為醫療極為進步的美國，排名為第35名
+</span><span class="f6">: : 。高齡醫學中心主任陳亮恭分析，刺胳針排名前十名幾乎都被西歐國家包辦，可能與西歐
+</span><span class="f6">: : 國家的社會福利政策讓民眾就醫友善有關。
+</span><span class="f6">: : 台灣在這項評比中，感染性疾病如上呼吸道感染、白喉、破傷風等皆在90分以上，遺傳性
+</span><span class="f6">: : 疾病也多在70到80分，70分以下多數為慢性疾病，
+</span><span class="f6">: : 台灣不及格的有四種疾病，分別為白血病、糖尿病、慢性腎臟病、膽囊膽汁疾病等。
+</span><span class="f6">: : 陳亮恭說，這項評比運用「全球疾病負荷率」（GBD）為依據，計算公式為疾病嚴重度乘
+</span><span class="f6">: : 以時間，台灣白血病成績較差，可能與為骨髓移植率較低有關。
+</span><span class="f6">: : 其餘都是慢性疾病，從慢性腎臟病來看，台灣雖然有全球密度最高的洗腎中心，但是洗腎
+</span><span class="f6">: : 無法讓患者擺脫死於慢性腎臟病，站在公共衛生的角度「預防性」來看，台灣應該思考如
+</span><span class="f6">: : 何減少慢性腎臟病。膽囊疾病、糖尿病也是同樣的道理。
+</span><span class="f6">: : 心得:
+</span><span class="f6">: : 前10名依序為安道爾、冰島、瑞士、瑞典、挪威、澳洲、芬蘭、西班牙、荷蘭、盧森堡；
+</span><span class="f6">: : 亞洲國家方面，日本排名11、新加坡第21、南韓第23、台灣第45、馬來西亞第66。
+</span><span class="f6">: : 補充:
+</span><span class="f6">: : 《刺胳針醫學期刊》被視為一種&#34;核心的&#34;醫學綜合期刊，同樣亦是世界醫學權威雜誌；
+</span><span class="f6">: : 其它同性質的刊物有新英格蘭醫學期刊、美國醫學協會期刊、及英國醫學期刊。
+</span><span class="f6">: 醫療本來就不該廉價~
+</span><span class="f6">: 還有人提案  開放醫師人數  簡直是笑話!!
+</span>我是沒有很懂啦~~但是開放醫師人數代表甚麼？
+
+你是有足夠的大體給這些醫學生學解剖嗎？
+
+師資有夠嗎？
+
+實習的場所有夠嗎？
+<span class="f6">: 主因有三:
+</span><span class="f6">: 1.醫師人數每年開放百人，這已經是幾十年的傳統了，不能說改就改，
+</span><span class="f6">:   如果此時開放，是把辛苦考進去的都當白癡嗎?
+</span>這個就不只是傳統一句話就可以解釋的
+
+人數管制下都有一堆亂搞的醫生
+
+還有一堆相信密醫跟偏方的病患
+
+人數大開放的話，醫學系跟醫院還不是像葡式蛋塔店一樣倒光光
+
+建立醫院口碑跟醫師團隊可能要花上數年到數十年的努力
+
+但是毀掉這些東西可能只要一個晚上
+<span class="f6">: 2.大小病都往醫院跑，導致醫院人手不足，哪還有時間重&#34;質&#34;，醫療不該廉價
+</span><span class="f6">:   國外動個手術都要幾十萬，這才是正常的體制!!
+</span>使用者付費懂嗎？
+
+付夜市牛排價格就想吃A5牛排是人性
+
+我是認為可以不用這樣
+
+反正健保倒了
+
+吃虧的不是醫生或是醫生家屬
+<span class="f6">: 3.健保該漲價，但也不能排擠窮人，目前健保勞工近800，雇主近1600，明顯太便宜
+</span><span class="f6">:   各位要知道，很多醫師根本是貼錢幫病人治病，收取那廉價的幾百塊，簡直汙辱專業
+</span><span class="f6">: 請支持健保漲價!!
+</span><span class="f6">: 醫療本不該廉價!!
+</span><span class="f6">: 該繳的稅該花的錢，不能建築在醫師的痛苦裡!
+</span>反正健保倒了
+
+醫生可以出國執業、轉業
+
+幾百塊就廉價的話歡迎到國外就醫
+
+健保虧成這樣就讓它倒啊
+
+反正吃虧的不會是醫生或是他們的家屬
+
+不想付太貴或是想吃到飽就盡量用啊
+
+反正有付錢就可以用啊
+
+市場會說話
+
+1/4醫師轉去做醫美
+
+大醫院好賺沒風險的話誰要去做醫美
+
+繳了那麼貴那麼多的健保費
+
+但是該抽菸喝酒嚼檳榔不去運動濫交不戴套的人
+
+還是會抽菸喝酒嚼檳榔不去運動濫交不戴套
+
+死掉怪醫師囉？
+
+反正告醫師有賺頭
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.26.169.195
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495699635.A.FB2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495699635.A.FB2.html</a>
+</span><span class="f2">※ 編輯: StBeer (114.26.169.195), 05/25/2017 16:07:57
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 沒錯 健保就是某族群幫忙挖坑的</span><span class="push-ipdatetime"> 05/25 16:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 不好意思，醫師這職業綁文化地區，不用講到要考usmle</span><span class="push-ipdatetime"> 05/25 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 光是你去大陸，你當地的文化口語職業疾病不一樣，你就</span><span class="push-ipdatetime"> 05/25 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 很難重新就業。不用講說去其他國家，就算你考上usmle</span><span class="push-ipdatetime"> 05/25 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 你去美國也因為文化口語的關係常也是做華人社區多的地</span><span class="push-ipdatetime"> 05/25 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 區或是偏遠或薪水低的。</span><span class="push-ipdatetime"> 05/25 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 除了美國外其他國家光是語言就把你篩掉了，還以為醫師</span><span class="push-ipdatetime"> 05/25 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 跟工程師一樣可以到處跑。</span><span class="push-ipdatetime"> 05/25 16:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Theddy</span><span class="f3 push-content">: 樓上似乎不了解近幾年的行情 對岸挖台灣醫師挖很兇</span><span class="push-ipdatetime"> 05/25 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Theddy</span><span class="f3 push-content">: 光是台商醫院就開一堆 更有能力的會跑去新加坡或歐美</span><span class="push-ipdatetime"> 05/25 16:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 我在講的是開放醫師名額後多出來的醫師名額，不要算多</span><span class="push-ipdatetime"> 05/25 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 假設一年一兩百年想要出國逃離台灣，你覺得這些華語系</span><span class="push-ipdatetime"> 05/25 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">futureking</span><span class="f3 push-content">: 國家可以吃得下嗎，他們本身也是有自己的醫師培養</span><span class="push-ipdatetime"> 05/25 16:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goal56</span><span class="f3 push-content">: 支持開放醫生名額</span><span class="push-ipdatetime"> 05/25 18:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495699635.A.FB2.html?cacheKey=2052-1314861&offset=5016&offset-sig=3a9e8d99ec5f5ade58f1f343c46df0311f7d543a" data-longpollurl="/v1/longpoll?id=c39dd61ee89e7d1f0e88db68f1308c601624e06d" data-offset="5016"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

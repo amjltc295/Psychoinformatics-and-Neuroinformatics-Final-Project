@@ -1,0 +1,277 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496155867.A.087.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 中國癌症患者逃避診費 日本不堪重負 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="恕刪部分
+: 先來看看日本治癌新藥Opdivo的價格。雖然根據病情、患部不同，用藥價格也有差異，但
+: 估算下來每天僅醫療費就要3萬9,099日元左右，按照全年來算，一名體重40公斤的患者要
+: 花掉1,144萬日元，60公斤的患者則需要1,792萬日元。
+Opdivo 就是Nivolumab
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 中國癌症患者逃避診費 日本不堪重負">
+<meta property="og:description" content="恕刪部分
+: 先來看看日本治癌新藥Opdivo的價格。雖然根據病情、患部不同，用藥價格也有差異，但
+: 估算下來每天僅醫療費就要3萬9,099日元左右，按照全年來算，一名體重40公斤的患者要
+: 花掉1,144萬日元，60公斤的患者則需要1,792萬日元。
+Opdivo 就是Nivolumab
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496155867.A.087.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496155867.A.087.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cerberi (cerberi)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 中國癌症患者逃避診費 日本不堪重負</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 22:51:04 2017</span></div>
+<span class="f2">※ 引述《Yirgacheffe (イルガチェッフェ)》之銘言：
+</span>
+恕刪部分
+
+<span class="f6">: 先來看看日本治癌新藥Opdivo的價格。雖然根據病情、患部不同，用藥價格也有差異，但
+</span><span class="f6">: 估算下來每天僅醫療費就要3萬9,099日元左右，按照全年來算，一名體重40公斤的患者要
+</span><span class="f6">: 花掉1,144萬日元，60公斤的患者則需要1,792萬日元。
+</span>
+Opdivo 就是Nivolumab
+
+是最近超流行的<span class="f3 hl">免疫治療</span>  之一
+(金光閃閃, 銳氣千條)
+
+免疫治療概念很多元
+
+恰巧這兩個藥都是透過 PD-1 來作用
+
+
+話說人體擁有神奇的自癒能力
+
+身上的多重防護, 阻擋著無時無刻侵犯的病毒細菌們
+
+(你知道你的口腔正遭受攻擊嗎?)
+<a href="http://imgur.com/YHoAQsP" target="_blank" rel="nofollow">http://imgur.com/YHoAQsP</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="YHoAQsP"><a href="//imgur.com/YHoAQsP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+癌細胞之所以可以存活在警衛遍布的環境中
+
+必定有著出神入化的間諜技巧
+
+科學家發現了 人體免疫中的檢查哨 淋巴細胞被收買了
+
+淋巴細胞上有著叫 Programmed cell death protein-1
+
+(PD-1, 簡稱 被自殺蛋白一號) 的神器,
+
+可以掌控細胞的生死
+
+一旦看不順眼, 神器出鞘
+<a href="http://imgur.com/r2j7Hm1" target="_blank" rel="nofollow">http://imgur.com/r2j7Hm1</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="r2j7Hm1"><a href="//imgur.com/r2j7Hm1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+T細胞會施展一連串連續技直到 KO
+
+
+然而為了避免濫殺無辜, PD-L1可以讓神器安靜下來
+
+有些癌細胞上, 特別多PD-L1這種保命符
+
+
+那聰明的人類下一步當然是去破壞一切
+
+藉由設計出的單株抗體(很純很純的抗體)
+
+和神器 PD-1 結合, 使他不受癌細胞影響
+
+T細胞就自然大開殺戒了~ 哈哈哈
+
+
+藥名後面的 mab 就是指
+
+monoclonal antibody 單株抗體的意思
+
+所以很貴!!(誤)
+
+
+目前適應症 (指適合治療的疾病) 為
+
+1.黑色素瘤 melanoma
+
+2.非小細胞肺癌 non-small cell lung cancer
+
+3.腎細胞癌 renal cell carcinoma
+
+4.何杰氏淋巴癌 Hodgkin lymphoma
+
+皆以不可切除或轉移的腫瘤為主
+
+而淋巴癌部分是以做過自體幹細胞移植復發的病患
+
+用法每兩週靜脈輸注一次，<span class="f6 hl">單獨</span>使用時劑量為每公斤3毫克
+
+目前需要向衛福部申請專案進口
+
+100mg 約250,000元台幣
+
+40kg 一個月需注射 240mg, 約56萬(每天2萬台幣)
+
+傳說, 健保可能會... 不過那又是一段時間後的事了
+
+
+<span class="f6">: 另一種抗癌藥「Keytruda」每年也需要花費1,427萬日元藥費。且這些抗癌藥物主要是防
+</span><span class="f6">: 止症狀惡化，不可能藥到病除，可能要用幾年甚至更久。
+</span>
+Keytruda 是 Pembrolizumab
+
+用於
+1. 治療罹患無法切除或有轉移現象之黑色素瘤
+
+且在使用 ipilimumab 及 BRAF 抑制劑
+
+，治療後出現疾病惡化現象的患者。
+
+2. 用於轉移性或 PD-L1 表現呈現陽性
+
+或已使用過含鉑製劑化學療法失敗的非小細胞肺癌
+
+建議劑量為2毫克/公斤，每3週一次
+
+50mg 約150,000元台幣
+
+40公斤患者一次療程約220000元,每日1萬台幣
+
+
+負擔對一般人來說, 很重
+
+然而可看到這類治療使用的患者多為末期
+
+確實可以延長生命, 減緩症狀
+
+但是不是每個人, 每個家庭都需要
+
+傾家蕩產去維持那數個月, 拼機率
+
+則是患者與家人必須敞開心去討論的
+
+也需要和醫師好好溝通
+
+
+生命是無價的
+
+好好活過每一天
+
+這有時甚至對癌末的患者是殘酷的事
+
+
+如果你很健康, 請繼續健康
+
+定期檢查
+
+這件事, 很重要
+
+<span class="f6">: 沒有日本國民健康保險的中國人來日本治病必須繳納全款，這個價格普通人是負擔不起
+</span>?
+<span class="f6">: 。
+</span>
+生命的價格, 從不便宜
+
+但祈求平平順順
+<a href="http://imgur.com/0GLyfEB" target="_blank" rel="nofollow">http://imgur.com/0GLyfEB</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0GLyfEB"><a href="//imgur.com/0GLyfEB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.126.38.214
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496155867.A.087.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496155867.A.087.html</a>
+</span><span class="f2">※ 編輯: cerberi (59.126.38.214), 05/30/2017 22:57:27
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lu0713</span><span class="f3 push-content">: 專業</span><span class="push-ipdatetime"> 05/30 22:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vovovolibear</span><span class="f3 push-content">: 圖很可愛&gt;&lt;</span><span class="push-ipdatetime"> 05/30 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccufcc</span><span class="f3 push-content">: 為什麼不初期就用?</span><span class="push-ipdatetime"> 05/30 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smokerog</span><span class="f3 push-content">: 專業推</span><span class="push-ipdatetime"> 05/30 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/30 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gWQWHIGH</span><span class="f3 push-content">: 專業</span><span class="push-ipdatetime"> 05/30 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kaito1209</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/30 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soyjay</span><span class="f3 push-content">: 推專業又有趣的解說文</span><span class="push-ipdatetime"> 05/30 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andyshung</span><span class="f3 push-content">: 推圖推專業</span><span class="push-ipdatetime"> 05/31 00:30
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496155867.A.087.html?cacheKey=2052-2738065&offset=3768&offset-sig=56acba8bbc47c5faf420bbabc7f4d79eb3a4fa8b" data-longpollurl="/v1/longpoll?id=88cf5ed6592178edd9598275bd7cef2dd943e1b5" data-offset="3768"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

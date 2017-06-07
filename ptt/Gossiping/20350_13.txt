@@ -1,0 +1,196 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495151935.A.1BD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 思科營收連六季負成長，準備再裁1100名員 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+iThome
+2.完整新聞標題:
+思科營收連六季負成長，準備再裁1100名員工
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 思科營收連六季負成長，準備再裁1100名員">
+<meta property="og:description" content="1.媒體來源:
+iThome
+2.完整新聞標題:
+思科營收連六季負成長，準備再裁1100名員工
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495151935.A.1BD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495151935.A.1BD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">purplvampire (阿修雷)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 思科營收連六季負成長，準備再裁1100名員</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 07:58:51 2017</span></div>
+1.媒體來源:
+
+iThome
+
+2.完整新聞標題:
+
+思科營收連六季負成長，準備再裁1100名員工
+
+3.完整新聞內文:
+
+思科公佈的最新財報顯示，該公司營收已連續六季衰退，展望下一季仍將繼續衰退，在提
+交給美國證管會的資料中，思科準備重整營運，其中包括裁撤1100名員工。
+
+文/陳文義 | 2017-05-18發表
+
+2016年才宣布裁員5500人的全球網通設備龍頭業者思科(Cisco)，在週三發表又一季令投
+資人失望的財務報告後，表示將啟動新一輪裁員計畫，<span class="f1 hl">大砍1100個職務</span>。
+
+Cisco週三發表在4月29日結束的該公司第三季財報，營收連六季負成長，年衰退1%，第四
+季<span class="f1 hl">預測營收還要再衰退4%到6%</span>。在發布完財報後，Cisco<span class="f1 hl">股票盤後交易價格一度大跌8%</span>。
+
+Cisco執行長與財務長並未在財報發布會中直接透露裁員決定，但被細心媒體在該公司提
+交給證管會(SEC)的10-K報表中，發現了裁員計畫。報表中寫道：「2017年5月我們將擴大
+公司再造計畫，包括額外裁撤1100名員工，預計相關支出達1.5億美元。」
+
+<span class="f1 hl">Cisco才在2016年8月宣布要裁員5500人</span>。
+
+Cisco營收衰退的主要原因之一為政府機關的採購延滯，以及企業對Cisco主力路由器產品
+的需求偏弱。該公司正努力進行業務轉型，加碼高成長的資安、物聯網(IoT)、雲端運算
+、軟體定義架構等領域。
+
+資訊安全為Cisco近年來成長最快的營業項目之一，營收連續五年都達到雙位數增長，最
+近一季亦有9%的營收增長。光在這一季，Cisco就增加了6000家防火牆新客戶。無限網路
+業務也是Cisco增長的重要產品線之一，最新一季營收增加了13%。
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.ithome.com.tw/news/114296" target="_blank" rel="nofollow">http://www.ithome.com.tw/news/114296</a>
+
+5.備註:
+
+參訪思科總部 蔡英文：未來將推動創新、智慧的產業發展(2015/6/8)
+<a href="http://www.dpp.org.tw/news_content.php?sn=7922" target="_blank" rel="nofollow">http://www.dpp.org.tw/news_content.php?sn=7922</a>
+
+見證兩市與思科簽MOU 蔡成立互聯網志工團(2015/11/20)
+<a href="http://news.ltn.com.tw/news/focus/paper/933907" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/focus/paper/933907</a>
+
+新☆死亡之握發揮？
+
+--
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watashiD</span><span class="f3 push-content">: 9.2還是有得罵好嗎?樓下示範</span><span class="push-ipdatetime">04/09 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">diefishfish</span><span class="f3 push-content">: 矯情的極致 欲蓋彌彰</span><span class="push-ipdatetime"> 04/09 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watashiD</span><span class="f3 push-content">: 感謝示範</span><span class="push-ipdatetime"> 04/09 18:11
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.164.80.161
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495151935.A.1BD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495151935.A.1BD.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 馬英九2.0</span><span class="push-ipdatetime"> 05/19 08:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eva19452002</span><span class="f3 push-content">: 十年河東十年河西，以前cisco可是喊水會間凍</span><span class="push-ipdatetime"> 05/19 08:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bkm1</span><span class="f3 push-content">: 其實營收跟盈虧 跟員工關係真的不大 但是最大的動作 一定是</span><span class="push-ipdatetime"> 05/19 08:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bkm1</span><span class="f3 push-content">: 裁員工 然後公司更爛 繼續裁員工 高層繼續爽領高額薪資</span><span class="push-ipdatetime"> 05/19 08:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acgotaku</span><span class="f3 push-content">: 3被華為打趴惹</span><span class="push-ipdatetime"> 05/19 08:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soulja28</span><span class="f3 push-content">: 是被juniper打趴，華爲什麼東西</span><span class="push-ipdatetime"> 05/19 08:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pony666</span><span class="f3 push-content">: 華為打思科   螞蟻pk鯨魚</span><span class="push-ipdatetime"> 05/19 08:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 只剩路由器能說嘴的公司</span><span class="push-ipdatetime"> 05/19 08:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soulja28</span><span class="f3 push-content">: 會說被華爲打趴的應該不知道juniper是什麼</span><span class="push-ipdatetime"> 05/19 08:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Non</span><span class="f3 push-content">: Juniper還能打啊？ 科科</span><span class="push-ipdatetime"> 05/19 08:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: Juniper的員工薪資是科技業前十大</span><span class="push-ipdatetime"> 05/19 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 雲端大數據的潮水退了？思科耶</span><span class="push-ipdatetime"> 05/19 08:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l42857</span><span class="f3 push-content">: 華為主要打擊到易利信吧</span><span class="push-ipdatetime"> 05/19 08:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yckang</span><span class="f3 push-content">: Juniper 超難用</span><span class="push-ipdatetime"> 05/19 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">upeo</span><span class="f3 push-content">: 應該跟MTK一樣 雜魚太多</span><span class="push-ipdatetime"> 05/19 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flyiii</span><span class="f3 push-content">: Juniper打趴Cisco?反了吧,Juniper快掛了耶...</span><span class="push-ipdatetime"> 05/19 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flyiii</span><span class="f3 push-content">: 另外,JunOS 比起 IOS-XE/IOS-XR 好用太多了..</span><span class="push-ipdatetime"> 05/19 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flyiii</span><span class="f3 push-content">: 事實上在Switch市場就是被華為華三打死,路由器本來就弱..</span><span class="push-ipdatetime"> 05/19 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robert7066</span><span class="f3 push-content">: 現在人事成本很高請越多人賠越多裁員是正確的</span><span class="push-ipdatetime"> 05/19 09:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: 這幾年砍掉的產品線不少... 不過不算壞事 ,的確需要重整</span><span class="push-ipdatetime"> 05/19 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: 另外 Cisco 在 switch 市場的市佔還是最大 但是競爭很凶</span><span class="push-ipdatetime"> 05/19 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: IDC 市場被新進業者(eg Arista) 吃掉一大口</span><span class="push-ipdatetime"> 05/19 09:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: 競爭激烈=低獲利... bare metal switch 的佔比也在提高</span><span class="push-ipdatetime"> 05/19 09:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">airmike</span><span class="f3 push-content">: 思科是吃不到成長最大的資料中心市場衰退的啦 企業市場停</span><span class="push-ipdatetime"> 05/19 13:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">airmike</span><span class="f3 push-content">: 滯很久了 一般新企業除非很有錢也不會考慮思科方案</span><span class="push-ipdatetime"> 05/19 13:27
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495151935.A.1BD.html?cacheKey=2052-35368645&offset=4691&offset-sig=6943fc2d45b910c72103ccbd625a2e1ad9dac48f" data-longpollurl="/v1/longpoll?id=ef7c46c21ccc1c2c332a93d5667e57cce9b97f1d" data-offset="4691"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

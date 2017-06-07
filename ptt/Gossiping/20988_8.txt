@@ -1,0 +1,164 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495601350.A.F47.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] Google真的開始在搞天網啦！！ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="很久以前一個完善的 圍棋AI 是很難達成的
+因為他大約有10^700種變化
+他不是西洋棋 10^120這種變化這麼多而已
+考量到兩個因素:
+1.硬體
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] Google真的開始在搞天網啦！！">
+<meta property="og:description" content="很久以前一個完善的 圍棋AI 是很難達成的
+因為他大約有10^700種變化
+他不是西洋棋 10^120這種變化這麼多而已
+考量到兩個因素:
+1.硬體
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495601350.A.F47.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495601350.A.F47.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wa007123456 (大笨羊)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] Google真的開始在搞天網啦！！</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 12:49:07 2017</span></div>
+很久以前一個完善的 圍棋AI 是很難達成的
+
+因為他大約有10^700種變化
+
+他不是西洋棋 10^120這種變化這麼多而已
+
+考量到兩個因素:
+
+1.硬體
+
+2.演算法精巧度  (時間複雜度越小越好)
+
+
+這兩個因素都很重要
+
+但是 演算法更為重要
+
+有時候只是要求同一個結果 用不同的方法
+
+時間複雜度會天差地遠
+
+可能A方法要10秒  B方法要30年
+
+但是都只是求出相同的答案
+
+另外不知道有沒有人聽過 Deep Dream?
+
+一個會自我學習畫畫的電腦
+
+雖然還不是很成熟
+
+但已經相當不錯了
+
+以下是影片:<a href="https://www.youtube.com/watch?v=dbQh1I_uvjo" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=dbQh1I_uvjo</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/dbQh1I_uvjo" frameborder="0" allowfullscreen></iframe></div></div></div>
+(注意: 電腦畫得有點噁心....)
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.163.199.186
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495601350.A.F47.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495601350.A.F47.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xymmter683</span><span class="f3 push-content">: 抽像畫？一堆眼睛是哪招</span><span class="push-ipdatetime"> 05/24 12:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Toge</span><span class="f3 push-content">: 讓我想到Tool的MV.....</span><span class="push-ipdatetime"> 05/24 12:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 那是嗑藥的幻覺吧</span><span class="push-ipdatetime"> 05/24 12:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: san值要噴光了</span><span class="push-ipdatetime"> 05/24 12:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dl123</span><span class="f3 push-content">: 怪物</span><span class="push-ipdatetime"> 05/24 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kazimir</span><span class="f3 push-content">: deepdream不算是自我學習畫畫吧 這說法有點特別</span><span class="push-ipdatetime"> 05/24 13:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kazimir</span><span class="f3 push-content">: 想要讓電腦畫畫有蠻多結果啦 畫的都不錯</span><span class="push-ipdatetime"> 05/24 13:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 一堆狗XD</span><span class="push-ipdatetime"> 05/24 13:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovejay6602</span><span class="f3 push-content">: 看完好暈</span><span class="push-ipdatetime"> 05/24 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xdctjh</span><span class="f3 push-content">: 是有多愛狗狗……</span><span class="push-ipdatetime"> 05/25 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">konuka</span><span class="f3 push-content">: 看完好像快被催眠..</span><span class="push-ipdatetime"> 05/25 13:52
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495601350.A.F47.html?cacheKey=2052-708000&offset=1882&offset-sig=dd5193e06c90f220ab94ef63fa742e11a0b5bf68" data-longpollurl="/v1/longpoll?id=37b882b7a26e6a6b8c18c6b68b0a6b086929fe52" data-offset="1882"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

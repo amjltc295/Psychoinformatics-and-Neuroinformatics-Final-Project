@@ -1,0 +1,173 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495552765.A.BED.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 為什麼台灣機械系起不來啊 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="  我們這些生科的
+  在那邊手動做這做那都覺得
+  這東西如果能有個自動化 能有個機械手臂
+  哇 豈不論文產出up up
+  後來找不到工作 人家讀生科就年薪百萬 我這種廢廢就找不到工作
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 為什麼台灣機械系起不來啊">
+<meta property="og:description" content="  我們這些生科的
+  在那邊手動做這做那都覺得
+  這東西如果能有個自動化 能有個機械手臂
+  哇 豈不論文產出up up
+  後來找不到工作 人家讀生科就年薪百萬 我這種廢廢就找不到工作
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495552765.A.BED.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495552765.A.BED.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">gino0717 (gino0717)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 為什麼台灣機械系起不來啊</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 23:19:21 2017</span></div>
+
+  我們這些生科的
+
+  在那邊手動做這做那都覺得
+
+  這東西如果能有個自動化 能有個機械手臂
+
+  哇 豈不論文產出up up
+
+
+  後來找不到工作 人家讀生科就年薪百萬 我這種廢廢就找不到工作
+
+  跑去職訓當碼農 做些沒啥用的東西 困在思想的侏儒的電腦裡
+
+  都覺得 哇 如果我這影像處理的程式 能配一台機械手臂 豈不是用途upup了
+
+  不用被困在那些關鍵報告看太多一天到晚想發明關鍵報告然後又賣不出去的老人的想法
+
+
+  所以說
+
+  機械看起來超重要的
+
+  怎麼機械系的人都說出路很糟啊
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.124.96
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495552765.A.BED.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495552765.A.BED.html</a>
+</span><span class="f2">※ 編輯: gino0717 (180.176.124.96), 05/23/2017 23:20:01
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce2248</span><span class="f3 push-content">: 因為老人說做黑手沒前途</span><span class="push-ipdatetime"> 05/23 23:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yyc2008</span><span class="f3 push-content">: 因為台灣人眼高手低 不想實作指想撿便宜 看國艦國造被嫌</span><span class="push-ipdatetime"> 05/23 23:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xdoraemon</span><span class="f3 push-content">: 要會的東西真的很多</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc2008</span><span class="f3 push-content">: 好像研發不出來就是該死 好像研發就像喝白開水一樣 只想</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 請個22K比裝隻全自動手臂便宜</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc2008</span><span class="f3 push-content">: 坐享其成 買別人現成的東西</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orzmaster</span><span class="f3 push-content">: 當老闆的很樂意自動化啊，但普遍看到費用就退了</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IHATESTUDY</span><span class="f3 push-content">: 老人一直對小孩洗腦電機多棒</span><span class="push-ipdatetime"> 05/23 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">drunk0102</span><span class="f3 push-content">: 這種東西要各個領域的人才一起努力 機構 控制 機電 等</span><span class="push-ipdatetime"> 05/23 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drunk0102</span><span class="f3 push-content">: 等</span><span class="push-ipdatetime"> 05/23 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: 妳信不信連機械系也沒多少人想碰製造，可是製造也是很</span><span class="push-ipdatetime"> 05/23 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: 有學問的!</span><span class="push-ipdatetime"> 05/23 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a60130chen</span><span class="f3 push-content">: 產業問題，不過危機也是轉機啦~</span><span class="push-ipdatetime"> 05/23 23:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xing1007</span><span class="f3 push-content">: 光是薪水低就沒人想做惹</span><span class="push-ipdatetime"> 05/23 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m1432012165</span><span class="f3 push-content">: 看看上銀精美的薪資就知道為啥了</span><span class="push-ipdatetime"> 05/23 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dostey</span><span class="f3 push-content">: 幹林馬祖 都是 CNC 害死的</span><span class="push-ipdatetime"> 05/23 23:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AISC</span><span class="f3 push-content">: 薪水低 目前台灣非主流 挖土機都買日本的了 還手臂</span><span class="push-ipdatetime"> 05/23 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 到底自動化有多貴？聽說外國工廠很多都是請外星人當苦工</span><span class="push-ipdatetime"> 05/23 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkgw</span><span class="f3 push-content">: 以前的第一志願，你這廢宅</span><span class="push-ipdatetime"> 05/23 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deltarobot</span><span class="f3 push-content">: 製造光是切削就能玩一輩子了 但是就超低薪的</span><span class="push-ipdatetime"> 05/23 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaliblues</span><span class="f3 push-content">: 不只理組歧視文組，有時連理組自己都歧視自己啊 起得來</span><span class="push-ipdatetime"> 05/23 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaliblues</span><span class="f3 push-content">: 才怪啦ㄏ</span><span class="push-ipdatetime"> 05/23 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sinpin</span><span class="f3 push-content">: 不重視啊 就只重視電類而已</span><span class="push-ipdatetime"> 05/23 23:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sober921</span><span class="f3 push-content">: 理組廢啊只會代工，連台能看的車都生不出來</span><span class="push-ipdatetime"> 05/24 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Diaw01</span><span class="f3 push-content">: 練系隊的話  可以參加大基杯</span><span class="push-ipdatetime"> 05/24 00:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BigBananaBoy</span><span class="f3 push-content">: 因為拿唉鳳的都是王八蛋</span><span class="push-ipdatetime"> 05/24 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asecw</span><span class="f3 push-content">: 要大量資金投入啊，很多原因啦</span><span class="push-ipdatetime"> 05/24 01:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nicholassys</span><span class="f3 push-content">: 沒人材</span><span class="push-ipdatetime"> 05/24 07:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JiYeonSHINY</span><span class="f3 push-content">: 機械為工業之母 在台灣很諷刺</span><span class="push-ipdatetime"> 05/24 07:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a1277034</span><span class="f3 push-content">: 同樣的東西一個台灣製只有歐洲的七折，大公司不願意買台</span><span class="push-ipdatetime"> 05/24 07:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChrisJericho</span><span class="f3 push-content">: 都年紀大的把持住 更新率低 薪資低 不會進步</span><span class="push-ipdatetime"> 05/24 08:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495552765.A.BED.html?cacheKey=2052-39087041&offset=3905&offset-sig=a7cb8dff784bd8b5d51ed649210e8a7e217e7f23" data-longpollurl="/v1/longpoll?id=fe1195a346d1efb9a5286a04cb31db8f51a7fc8f" data-offset="3905"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

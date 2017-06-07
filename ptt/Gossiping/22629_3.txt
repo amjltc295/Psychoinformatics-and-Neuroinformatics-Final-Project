@@ -1,0 +1,349 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496673236.A.960.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [ＦＢ] 余宛如狂推低薪白領是為了自己公司 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我是已留台超過3年的外籍白領，
+第一份在台的工作就超過48k，用的是早期48k制
+我畢業那年評點制剛上路，雖然我從來沒用過，
+但因為常常被問相關問題，一直以來都有關注法規變化
+先回答這位大大的問題，在台畢業的僑外生老早就沒有薪資限制啦
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [ＦＢ] 余宛如狂推低薪白領是為了自己公司">
+<meta property="og:description" content="我是已留台超過3年的外籍白領，
+第一份在台的工作就超過48k，用的是早期48k制
+我畢業那年評點制剛上路，雖然我從來沒用過，
+但因為常常被問相關問題，一直以來都有關注法規變化
+先回答這位大大的問題，在台畢業的僑外生老早就沒有薪資限制啦
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496673236.A.960.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496673236.A.960.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">yeurus (yeurus)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [ＦＢ] 余宛如狂推低薪白領是為了自己公司</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 22:33:53 2017</span></div>
+我是已留台超過3年的外籍白領，
+第一份在台的工作就超過48k，用的是早期48k制
+
+我畢業那年評點制剛上路，雖然我從來沒用過，
+但因為常常被問相關問題，一直以來都有關注法規變化
+
+先回答這位大大的問題，在台畢業的僑外生老早就沒有薪資限制啦
+
+評點制開始之前還有35k的限制，之後改成評點制後就只是變成分數的一部分
+
+如果僑外生有其他專長其實就可以補足薪水的部分
+
+所以最近因為透過評點制的白領薪水實在太低
+勞動部就有放話說要恢復薪資限制
+
+我自己是覺得如果薪資未達35k我也不會想留下來啦
+
+現在對新創公司比較麻煩的部分應該是年營業額要超過1000萬部分
+(未滿一年資本額要500萬的樣子)
+
+我第一家公司就是新創，營業額沒達標，
+那時候老闆跟勞動部喬快3個月工作證才發下來
+
+現在已經改成只要有國外投資幾百萬美金之類的或公司得過獎就免營業額限制
+
+當然這點還可以討論，但你好像就沒提？
+
+至於實習，台灣現在問題是對實習這塊法律並不完善
+
+大學有實習過的話，可能會知道一堆公司實習都沒在付薪水的
+
+有些稍微好一點就有付車馬費，所以開放實習如果不是為了壓榨，
+
+請政府訂立相關配套，嚴格監督確保業者有好好遵守
+
+例如有最低薪資，實習有年限之類的
+
+至於覓職簽證開放一年我覺得可以討論，
+因為其實那一年不止找工作，還含申請工作證部分
+
+工作證個人換過3份工經驗，順利的話兩三週就可以下來
+
+不順利的話可達3個月，有聽過更長的，
+所以一年其實沒想像中多
+
+
+最後，提一下相關政策其實都是國發會在搞
+我一路走來的觀察，就算換政府，那一批人應該還是同樣的人
+主軸都沒變，同樣讓人摸不清到底目標是要幹嘛
+
+政策看起來像是因為少子化要引進年輕勞動力
+但人進來後相關留人配套措施做得不怎樣
+
+例如信用卡部分，台灣很多銀行都很保守，
+對外籍申請超嚴格
+
+很多都要求保證人，外國人在台要找保證人老實說不容易
+
+就算找得到我自己也不太想欠這種人情
+之前年薪百萬
++幾十萬快一年都沒什麼動的活存
++請女友當保證人申請還被拒
+
+同一間銀行同樣卡，台灣朋友無業靠幾十萬存款申請可以過
+要有多靠北就有多靠北
+
+國發會大概也知道，可是他的解決方式是請金管會處理
+
+然後啊，金管會就請銀行設立一個外籍人士友善專區頁面
+
+然後這頁面是英文版的，然後就沒然後了
+申請難度還是一樣高，頁面上的條件只是列來敷衍金管會而已
+
+其他一大堆各種大大小小的各種不方便
+一一要去詢問然後只得到罐頭回應我也累了
+
+我們繳的稅跟台灣一樣一分錢沒少
+沒有要求跟台灣人一樣的例如失業補助等福利
+至少一些方便的服務要可以一樣使用難道會過分？
+
+要請真人才，台灣待遇老實說競爭力有限
+
+如果只要年輕勞力，但卻沒解決他們在台想融入時生活上遇到的問題
+找人來只待幾年就走，對少子化會有多大幫助我很懷疑啦
+
+<span class="f2">※ 引述《ZMittermeyer (ZM)》之銘言：
+</span><span class="f6">: 時間有限，議題無窮
+</span><span class="f6">: 今天沒空完善文筆，盡力救國，看得懂的，能救一個是一個
+</span><span class="f6">: 這種錯傷無辜的言論發展下去
+</span><span class="f6">: 台灣的創新轉型，和微型企業年輕人白手起家的希望，竟然不是被老人扼殺，
+</span><span class="f6">: 而是被年輕人自己扼殺
+</span><span class="f6">: 真的是無間地獄中的無間地獄，神在不久的將來絕對會天罰台灣
+</span><span class="f6">: 盡力救國，看得懂的，能救一個是一個
+</span><span class="f6">: 1.
+</span><span class="f6">: 余宛如開的公司，是創業裡面的溫拿組，都已經上了創櫃板了。
+</span><span class="f6">: 依據現行法令，創櫃板的公司聘請外籍人士，早就沒有限制，
+</span><span class="f6">: 也就算就是不修法，他也可以繼續用，哪來的圖利自己公司?
+</span><span class="f6">: 這本身邏輯就很有問題，你要勉強說，頂多只能說是「圖利別人公司」，
+</span><span class="f6">: 哪來這麼佛心？
+</span><span class="f6">: 2.
+</span><span class="f6">: 本次實習生開放的對象僑生，一年在台灣500人不到，台灣一年就有22.7萬畢業生
+</span><span class="f6">: 只佔0.2%，這超小的數字根本不會對就業市場有任何的影響
+</span><span class="f6">: 但這一點點要素，很可能對某些小型企業，以及新創事業，是開拓東南亞市場的關
+</span><span class="f6">: 鍵必要生產元素
+</span><span class="f6">: 3.
+</span><span class="f6">: 為什麼是必要的生產元素，這個邏輯是這樣:
+</span><span class="f6">: 為什麼我們需要港澳、東南亞的僑生/學生留下來
+</span><span class="f6">: 理由很簡單，只有一個：「當地市場，只有當地人懂」
+</span><span class="f6">: 台灣現在「意圖」想要新南向，如果要達成「總部在台灣、市場在東南亞」的條件，
+</span><span class="f6">: 那你的團隊一定要有原生的東南亞人。就算他們都只是 junior，根本稱不上專業，
+</span><span class="f6">: 但是他們天生就懂他們的老家風氣怎樣、民情如何、現在在流行什麼、每天在戰什
+</span><span class="f6">: 麼議題、吃的用的是什麼牌子、這個產品會不會被接受
+</span><span class="f6">: 對於當地市場的狀況，隨便一個本地人，閉著眼睛都比台灣人研究半天強。這應該
+</span><span class="f6">: 很好理解吧。
+</span><span class="f6">: 台灣這幾十年來不斷的開放一批港澳、東南亞的僑生/學生，這些人是台灣非常珍貴
+</span><span class="f6">: 的資產，他們不少人其實很喜歡台灣，因為台灣社會對他們而言，還是一個相對有吸
+</span><span class="f6">: 引力的地方(不知道還能撐多久)
+</span><span class="f6">: 他們的輪廓，其實不外乎就是：
+</span><span class="f6">: (1)港澳除了金融菁英以外很難混下去、討厭中國價值，對台灣小確幸有好感的科系的
+</span><span class="f6">: 學生
+</span><span class="f6">: (2)在東南亞因為種族歧視被排擠的華人，社會地位又不夠高，帶有一定認同台灣的僑生
+</span><span class="f6">: 他們來台灣大學讀四年後，過著很爽的日子，基本上都被洗的對台灣有一定程度的好感
+</span><span class="f6">: ，有的真的會想要試著在台灣發展。這些人人數不多，只有500不到，但真的太重要太
+</span><span class="f6">: 珍貴了，原因就是上述說的：東南亞市場，只有東南亞當地人會懂。而且這批人在台灣
+</span><span class="f6">: 過了四年，既懂台灣又懂東南亞，很好溝通
+</span><span class="f6">: 這是最重要的生產要素之一，只要這個要素沒湊齊，就不用想去東南亞市場打。
+</span><span class="f6">: 然後這些人，通常擁有的僅僅就是「素質」，都只是 junior，所有的知識都要重新訓
+</span><span class="f6">: 練，不帶任何專業屬性，一開始就要求四萬七以上，也是有點不合市場行情，四萬就
+</span><span class="f6">: 差不多了，再上去，對於新創事業和小公司根本出不起。
+</span><span class="f6">: 所以目前的港澳東南亞僑生，留在台灣的，很多都是假帳
+</span><span class="f6">: 也就是跟雇主喬好，薪水故意報高一點，實領沒這麼高，這樣都是幫企業增加支出而已
+</span><span class="f6">: 根本沒啥意義，然後比較正派的，看到這麼麻煩，來不及一畢業就找好，就會算了回國
+</span><span class="f6">: 去了，有很多更值得發展的新興市場
+</span><span class="f6">: 台灣雇用的外籍人才條件如果愈來愈麻煩，去新加坡組隊的誘因會愈來愈沒辦法抵抗
+</span><span class="f6">: 在那邊撈魚，又快又有效率又方便，本來只是想去人資一下，最後開著開著，不小心總
+</span><span class="f6">: 部就長留在新加坡了，比比皆是
+</span><span class="f6">: 4.
+</span><span class="f6">: 現實是，非常了解東南亞，又通中文，又通當地語言文化的senior和master人才，
+</span><span class="f6">: 幾乎都被中國挖走，根本沒辦法留給台灣
+</span><span class="f6">: 現在只剩下這批來台灣唸書的junior，大概是最後一些希望，看能不能盡量媒合，
+</span><span class="f6">: 多一點是一點，把事情弄得方便一點，盡量提高機率
+</span><span class="f6">: 為什麼不去當地雇就好？
+</span><span class="f6">: 比如在台灣做APP，想打進東南亞
+</span><span class="f6">: 不過就是一個小工作室，要去Local hire，就會整團搬過去了
+</span><span class="f6">: 根本沒有展開分社的能力
+</span><span class="f6">: 這種新創公司，讓他們雇東南亞僑生，是提高東南亞市場生存率的方式
+</span><span class="f6">: 要想盡辦法提高存活率，公司才不會倒，才有辦法創造就業機會
+</span><span class="f6">: 在當地聘人消費跟繳稅都不在台灣，把人請到台灣貢獻比較大
+</span><span class="f6">: 職缺不是零和市場，不是所有人搶幾個固定位置。
+</span><span class="f6">: 職缺是可以被創造的，特別是正在創造職缺的新創事業
+</span><span class="f6">: 你如果缺那個生產要素，根本整個生產線都不會存在
+</span><span class="f6">: 5.
+</span><span class="f6">: 「通往地獄的路是由善意所鋪成」這句話講得非常好
+</span><span class="f6">: 今天這個問題嚴重的點，在於竟然是對「年輕」的「新創小型公司」發起鬥爭
+</span><span class="f6">: 這是很嚴重的訊號，今天看到真的是嚇出一番冷汗
+</span><span class="f6">: 這一個條例弄掉，那也沒什麼，大家不開放實習生留台了
+</span><span class="f6">: 那就是大公司才玩得起，小公司請不起，沒道德做假帳的玩得起，正派的玩不起
+</span><span class="f6">: 請得起的就只剩下大中公司，但大中公司都是老人在掌握，他們的思維更舊
+</span><span class="f6">: 才是真正在搞奴隸低薪的那一群，在現場實務裡，鄉民想像的「聘高薪請外國人來台」
+</span><span class="f6">: 根本不會發生，南向大企業、老企業的典型操作是直接去東南亞cost down搞奴隸
+</span><span class="f6">: 在這種是非顛倒之下，不利的是小資本、微資本、賣技術、
+</span><span class="f6">: 真正有新思維的人被消滅，被逼出走
+</span><span class="f6">: 「通往地獄的路是由善意所鋪成」
+</span><span class="f6">: 這種錯傷無辜的言論發展下去
+</span><span class="f6">: 台灣的創新轉型，和微型企業年輕人白手起家的希望，竟然不是被老人扼殺，
+</span><span class="f6">: 而是被年輕人自己扼殺
+</span><span class="f6">: 真的是無間地獄中的無間地獄，神在不久的將來絕對會天罰台灣
+</span><span class="f6">: 盡力救國，看得懂的，能救一個是一個
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.136.98.167
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496673236.A.960.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496673236.A.960.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bestteam</span><span class="f3 push-content">: 對啊 我也記得在台畢業的僑生去年薪資是沒限制</span><span class="push-ipdatetime">06/05 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bestteam</span><span class="f3 push-content">: 還有新聞說要提高到31K</span><span class="push-ipdatetime">06/05 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chungkuowei</span><span class="f3 push-content">: 不管拉 鄉民說你會害台灣人失業率上升 XD</span><span class="push-ipdatetime">06/05 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bestteam</span><span class="f3 push-content">: 再說有能力來台工作的人給不到40K 幹嘛不去中國或新加坡</span><span class="push-ipdatetime">06/05 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 看完只覺得其實只說明你自己不是什麼高級人才...。</span><span class="push-ipdatetime">
+</span></div>的確不是很高級啦，畢業不到三年年薪過百
+拿過香港新加坡 offer 這樣
+去年有看到數據說台灣外籍白領前20%年薪兩百
+我在台的確是拿不到那個價錢
+[m06/05 22:38
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 這次的目的就是要用實習來偷渡啊。</span><span class="push-ipdatetime">06/05 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">megaje</span><span class="f3 push-content">: 超過48k當然是台灣要的人才 其他慣老闆想偷渡的齁</span><span class="push-ipdatetime">06/05 22:41
+</span></div><span class="f2">※ 編輯: yeurus (114.136.98.167), 06/05/2017 22:43:26
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nineflower</span><span class="f3 push-content">: 大哥 你能力這麼好趕快離開台灣到更好的國家 拜託 現</span><span class="push-ipdatetime">06/05 22:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nineflower</span><span class="f3 push-content">: 在台灣只收垃圾 菁英人士留在台灣只會害了自己</span><span class="push-ipdatetime">06/05 22:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BHrabal</span><span class="f3 push-content">: 要有多靠北就有多靠北 &lt;==有融入 讚</span><span class="push-ipdatetime">06/05 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 所以我們要盡力讓法規開放不是? 你說的這些全都該做</span><span class="push-ipdatetime">06/05 22:52
+</span></div>錯了喔，我現在是覺得薪資下限已經開放到很低的地步了
+再低下去生活品質會很糟糕，這樣你會覺得會對台灣留下好印象？
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 而這只是其中一環而已</span><span class="push-ipdatetime">06/05 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">osirisobelis</span><span class="f3 push-content">: 那應該是去鬆綁&#34;高薪&#34;人才的相關規範</span><span class="push-ipdatetime">06/05 22:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 中肯推</span><span class="push-ipdatetime">06/05 22:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 但現在政府只想要廉價勞力</span><span class="push-ipdatetime">06/05 23:00
+</span></div><span class="f2">※ 編輯: yeurus (114.136.98.167), 06/05/2017 23:05:13
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahano</span><span class="f3 push-content">: 應該是為了女友吧</span><span class="push-ipdatetime">06/05 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">theseller</span><span class="f3 push-content">: 資進黨爛就爛在..嚴格把關還沒影,鬆綁放寬馬上做 噁心</span><span class="push-ipdatetime">06/05 23:05
+</span></div>是應該有其他放寬的地方，例如金融服務部分
+目前問題是一直在薪資上打主意
+<span class="f2">※ 編輯: yeurus (114.136.98.167), 06/05/2017 23:07:52
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 金融部份我可以理解本國機構為何那麼緊</span><span class="push-ipdatetime">06/05 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 因為過去不少外國人在台灣辦了信用卡跟信貸結果留爛帳就閃</span><span class="push-ipdatetime">06/05 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 原PO中文有點強，可以請教你是哪國人嗎？</span><span class="push-ipdatetime">06/05 23:14
+</span></div>馬來西亞人
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 要去討這爛帳基本上是追不回的,只能轉呆</span><span class="push-ipdatetime">06/05 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 久了銀行基本上也會陪到怕所以卡很緊</span><span class="push-ipdatetime">06/05 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 還有的外國人心術不正,開銀行帳戶淪為洗錢工具</span><span class="push-ipdatetime">06/05 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 加上現在各家金融機構對洗錢防制非常注重,要開放比較難</span><span class="push-ipdatetime">06/05 23:17
+</span></div>連保證人都提了耶，而且如果很保守請條件列明白，
+不要表面限制很低，內部限制很高
+找保證人準備文件也是很累的，
+還有外國人一堆服務都無法線上辦，只能臨櫃
+超浪費時間。何況怕有風險額度可以給低一點慢慢提高
+一開始就打槍根本…
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OgOl</span><span class="f3 push-content">: 勞工是最軟的一塊，目前看來真的無法相信這個政府，垃圾不分</span><span class="push-ipdatetime">06/05 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OgOl</span><span class="f3 push-content">: 藍綠</span><span class="push-ipdatetime">06/05 23:17
+</span></div><span class="f2">※ 編輯: yeurus (114.136.98.167), 06/05/2017 23:25:13
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 高階事務官 問題超大</span><span class="push-ipdatetime"> 06/05 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 因為銀行真的賠到怕...發生呆帳時保人不見得錢就收得回</span><span class="push-ipdatetime"> 06/05 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 有的外國人就是一開始都正常,然後等銀行提高額度就擺爛</span><span class="push-ipdatetime"> 06/05 23:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexlin</span><span class="f3 push-content">: 銀行發現時就都來不及了...QQ</span><span class="push-ipdatetime"> 06/05 23:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shye92</span><span class="f3 push-content">: 外籍白領路過：各位台灣同胞你知道要使用玉山銀行無卡轉</span><span class="push-ipdatetime"> 06/05 23:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shye92</span><span class="f3 push-content">: 賬給台灣人我卻沒有身份證字號不能使用（不接受居留證號）</span><span class="push-ipdatetime"> 06/05 23:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shye92</span><span class="f3 push-content">: ，臨櫃去辦，櫃檯人員還叫我去用機台多難過嘛～～哭哭</span><span class="push-ipdatetime"> 06/05 23:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bestteam</span><span class="f3 push-content">: 轉帳限制這麼嚴苛也太鳥了吧</span><span class="push-ipdatetime"> 06/06 00:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 知道公家機關是這鳥樣算有了解台灣</span><span class="push-ipdatetime"> 06/06 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vn509942</span><span class="f3 push-content">: 那點鳥薪資 真以為可以跟周邊求才若渴的國家搶人才 哈</span><span class="push-ipdatetime"> 06/06 00:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: 難波萬</span><span class="push-ipdatetime"> 06/06 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gucciin5566</span><span class="f3 push-content">: 金融限制真的聽過不只一名以前的教授抱怨過，在台灣</span><span class="push-ipdatetime"> 06/06 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gucciin5566</span><span class="f3 push-content">: 待了十幾年，老婆也是台灣人，薪資存款都在同間銀行</span><span class="push-ipdatetime"> 06/06 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gucciin5566</span><span class="f3 push-content">: ，就是無法辦信用卡</span><span class="push-ipdatetime"> 06/06 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gekkojam</span><span class="f3 push-content">: 事務官沒有合理的代謝機制??</span><span class="push-ipdatetime"> 06/06 07:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sheepbear</span><span class="f3 push-content">: 謝謝你點出外籍員工在台灣遇到的問題 政府真的爛</span><span class="push-ipdatetime"> 06/06 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chandler0831</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 06/06 14:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pipiayin</span><span class="f3 push-content">: 認同 與其一直搞薪水 不如給外籍人士方便生活的環境</span><span class="push-ipdatetime"> 06/06 22:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496673236.A.960.html?cacheKey=2052-2691082&offset=11958&offset-sig=a64caafe024a0a38ee74d6980803834b275a582f" data-longpollurl="/v1/longpoll?id=146051deff63ceef643b81de4d890530ee564e73" data-offset="11958"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

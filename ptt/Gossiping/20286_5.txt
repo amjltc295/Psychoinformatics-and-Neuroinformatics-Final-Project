@@ -1,0 +1,152 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495104146.A.863.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 聽障生回應ptt輿論啦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="前幾個月我們部門有個新人來
+坐著輪椅  聽說是因為車禍
+進來當程式專員
+過幾天他才說只剩一隻手能用
+另一隻手無力打code
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 聽障生回應ptt輿論啦">
+<meta property="og:description" content="前幾個月我們部門有個新人來
+坐著輪椅  聽說是因為車禍
+進來當程式專員
+過幾天他才說只剩一隻手能用
+另一隻手無力打code
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495104146.A.863.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495104146.A.863.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hakama99 (雜醬麵)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 聽障生回應ptt輿論啦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 18:42:24 2017</span></div>
+
+前幾個月我們部門有個新人來
+
+坐著輪椅  聽說是因為車禍
+
+進來當程式專員
+
+過幾天他才說只剩一隻手能用
+
+另一隻手無力打code
+
+不到一周就離開了
+
+是他自願離職的喔  因為就算上手
+
+績效也不到人家一半
+
+平常慢慢來就算了  要趕工的時候報表一攤出來很難看阿..
+
+像這個案例  無法保證不會大家都很忙需要你去跟客戶溝通
+
+老闆錯在保證不讓她接電話這件事..
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.167.39.48
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495104146.A.863.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495104146.A.863.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 老闆錯了就乖乖認錯不要硬凹 好像賞賜別人工作一樣</span><span class="push-ipdatetime"> 05/18 18:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g016487</span><span class="f3 push-content">: 真的當時前面他可能也沒做好，店長哪知道臭甲愛抓小毛病</span><span class="push-ipdatetime"> 05/18 18:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g016487</span><span class="f3 push-content">: 那你覺得店長該怎辦，他前場可能也是做不太好，所以就要</span><span class="push-ipdatetime"> 05/18 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g016487</span><span class="f3 push-content">: 他直接發呆？</span><span class="push-ipdatetime"> 05/18 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 剩一隻手是三小XDDDD</span><span class="push-ipdatetime"> 05/18 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 另一隻手可能肌肉受創無法使力之類的吧...</span><span class="push-ipdatetime"> 05/18 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hakama99</span><span class="f3 push-content">: 他有隱瞞手不能打字</span><span class="push-ipdatetime"> 05/18 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zx0207xc0207</span><span class="f3 push-content">: 就剛好店裡有人出車禍，緊急調人力，他又不會調飲</span><span class="push-ipdatetime"> 05/18 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zx0207xc0207</span><span class="f3 push-content">: 料也不會備料</span><span class="push-ipdatetime"> 05/18 19:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BoXeX</span><span class="f3 push-content">: 寫程式沒差那麼多吧....   大部分時間都在看code</span><span class="push-ipdatetime"> 05/18 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BoXeX</span><span class="f3 push-content">: 買個好點的滑鼠   巨集設一設</span><span class="push-ipdatetime"> 05/18 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BoXeX</span><span class="f3 push-content">: 有實力的話差不了那一點打字時間</span><span class="push-ipdatetime"> 05/18 20:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KRoW</span><span class="f3 push-content">: 擺明設局仙人跳，連對話紀錄都在挖洞，欲加之罪 何患無辭</span><span class="push-ipdatetime"> 05/19 07:29
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495104146.A.863.html?cacheKey=2052-40103147&offset=1892&offset-sig=018a0a6b91e2e85ebaee67859c372051864b9764" data-longpollurl="/v1/longpoll?id=852afa07b10bfc1ca3d0e5293f8781989c051544" data-offset="1892"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

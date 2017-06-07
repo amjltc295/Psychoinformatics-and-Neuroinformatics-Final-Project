@@ -1,0 +1,233 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496202529.A.1DB.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 〈台北都會〉議員促修法 讓重機停機車格 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="〈台北都會〉議員促修法 讓重機停機車格
+自由
+2017-05-31
+〔記者張凱翔／台北報導〕台北市車位一位難求，市議員李慶元接獲民眾陳情，自從重機
+路權開放後，按法令要比照小客車需在汽車停車格內停車，但車位難尋重機還常被移出停
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 〈台北都會〉議員促修法 讓重機停機車格">
+<meta property="og:description" content="〈台北都會〉議員促修法 讓重機停機車格
+自由
+2017-05-31
+〔記者張凱翔／台北報導〕台北市車位一位難求，市議員李慶元接獲民眾陳情，自從重機
+路權開放後，按法令要比照小客車需在汽車停車格內停車，但車位難尋重機還常被移出停
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496202529.A.1DB.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496202529.A.1DB.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">zxcxxx (進擊の暖男)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 〈台北都會〉議員促修法 讓重機停機車格</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 11:48:46 2017</span></div>
+<span class="f3 hl">〈台北都會〉議員促修法 讓重機停機車格</span>
+
+自由
+
+2017-05-31
+
+〔記者張凱翔／台北報導〕台北市車位一位難求，市議員<span class="f3 hl">李慶元</span>接獲民眾陳情，自從重機
+路權開放後，按法令要比照小客車需在汽車停車格內停車，但車位難尋重機還常被移出停
+車格引發糾紛，因此建議大型重機<span class="f3 hl">應開放可停機車專用格</span>。交通局表示，中央法令要求大
+型重機比照小客車標準停車，但考量車位的確不足，預計六月中會函請中央建議修法。
+
+北市有八十萬輛小客車、大型重機一萬八千輛，但全市僅有十三萬多個小客車停車格，據
+交通部統計，二○一一年大型重機違停案全國僅五件，二○一六年已飆升三百倍至一五二
+一件。
+
+現行道路交通管理處罰條例第九十二條規定，大型重機停車需比照小客車停放。只是，大
+型重機停放一般停車位卻被批浪費空間，車主也常遭遇被移出停車格又被碰傷愛車，因此
+發生糾紛。
+
+李慶元說，市面上紅黃牌大型重機的車身大小，<span class="f3 hl">多數都沒有超過交通部規定的機車格大小</span>
+，建議交通局儘速修法讓大型重機能停在機車位，並<span class="f3 hl">比照機車費率收費</span>；另外，北市正在
+實施汽車停車格一格多停的政策，但成效不佳，交通局應給一格多停、一格共停的車主停
+車費打折，鼓勵共停風氣。
+
+交通局表示，預計六月中會彙整各界意見向中央報告、看有無修法可能。至於共停打折部
+分，目前為考慮收費公平，仍採分開收費方式進行。
+
+<a href="http://news.ltn.com.tw/news/local/paper/1106719" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/local/paper/1106719</a>
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.164.75.94
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496202529.A.1DB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496202529.A.1DB.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sonyabear</span><span class="f3 push-content">: 刮花了誰賠</span><span class="push-ipdatetime"> 05/31 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infor</span><span class="f3 push-content">: 這什麼鳥提案</span><span class="push-ipdatetime"> 05/31 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gsock</span><span class="f3 push-content">: 保障重機還行，小機車根本交通亂象</span><span class="push-ipdatetime"> 05/31 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">larailing</span><span class="f3 push-content">: 誰敢移車不會吉嗎 難道沒重機停車位就夠了?</span><span class="push-ipdatetime"> 05/31 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dorydoze</span><span class="f3 push-content">: 這麼大台是要怎麼停</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 到底要當機車還是汽車 選一個好不好 幹</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 重機這種就是沒效率自爽車種，機車可不希望它進來搶</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 這很腦殘阿 重機要汽車的權益 還要回去搶機車的?</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 資源</span><span class="push-ipdatetime"> 05/31 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 86政策</span><span class="push-ipdatetime"> 05/31 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Levelmax99</span><span class="f3 push-content">: 停兩格記得要開兩張單喔</span><span class="push-ipdatetime"> 05/31 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rofellosx</span><span class="f3 push-content">: 看來現在汽車進步到都能橫移了..</span><span class="push-ipdatetime"> 05/31 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xbearboy</span><span class="f3 push-content">: 重機停騎樓的到底要不要開罰?</span><span class="push-ipdatetime"> 05/31 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 那重機請走機車的法規，不要兩面權益都要義務都不</span><span class="push-ipdatetime"> 05/31 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 用</span><span class="push-ipdatetime"> 05/31 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 還比照機車收費 國家去鼓勵這種交通工具幹嘛</span><span class="push-ipdatetime"> 05/31 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 應該是汽車格一格畫兩格停重機的 不是停去輕型機車那</span><span class="push-ipdatetime"> 05/31 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">adort</span><span class="f3 push-content">: 擠到機車格牽的出來嗎</span><span class="push-ipdatetime"> 05/31 11:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 這不叫&#34;要汽車的權益&#34;，應該說原本就屬於摩托車的路權</span><span class="push-ipdatetime"> 05/31 12:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 重機停汽車格很明顯就是浪費空間，為什麼有人當作這是</span><span class="push-ipdatetime"> 05/31 12:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 義務？</span><span class="push-ipdatetime"> 05/31 12:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">curtis0982</span><span class="f3 push-content">: 那汽車看到一排機車格空的可以停嗎</span><span class="push-ipdatetime"> 05/31 12:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 刮花了當然是刮花的人賠啊，那些停機車格硬擠的人本來</span><span class="push-ipdatetime"> 05/31 12:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 就有問題，現在反而檢討受害者？</span><span class="push-ipdatetime"> 05/31 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 你沒看過辛亥路的機車格是汽機車共用嗎？你汽車敢停就</span><span class="push-ipdatetime"> 05/31 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 停啊，前提是你出來不要去移別人的機車</span><span class="push-ipdatetime"> 05/31 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 依現行法規，重機就該選一邊，不應該一下想當機車，一</span><span class="push-ipdatetime"> 05/31 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 下想當汽車</span><span class="push-ipdatetime"> 05/31 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 停到機車格內，人也是要下車的，應該要把人移動的空</span><span class="push-ipdatetime"> 05/31 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 間算進去，而不是只看車身大小</span><span class="push-ipdatetime"> 05/31 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 法規是可以越修越合理的，不然你為何不按照大清律令剃</span><span class="push-ipdatetime"> 05/31 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 髮留辮</span><span class="push-ipdatetime"> 05/31 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 很好奇 騎一般的機車人就不用下車嗎？</span><span class="push-ipdatetime"> 05/31 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 兩邊的權利都想一手抓，卻不學學汽車多花錢去停一般</span><span class="push-ipdatetime"> 05/31 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 停車場，有夠自私</span><span class="push-ipdatetime"> 05/31 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 現在的哪裡不合理？！</span><span class="push-ipdatetime"> 05/31 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 黃牌車就是機車的體積，為何要收汽車的費用？這樣合理</span><span class="push-ipdatetime"> 05/31 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 你是不是看不懂，一般機車通常都還是有空間讓人出來，</span><span class="push-ipdatetime"> 05/31 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 但是重機很明顯影響人出入</span><span class="push-ipdatetime"> 05/31 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 又不是用車身大小來分的</span><span class="push-ipdatetime"> 05/31 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belongings</span><span class="f3 push-content">: 用車身大小才不合理</span><span class="push-ipdatetime"> 05/31 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 一般機車，150、249cc的體積也很大，叫他們也去停汽車</span><span class="push-ipdatetime"> 05/31 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 格，好噗好？</span><span class="push-ipdatetime"> 05/31 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 我覺得你還是親自去看看黃牌車再來討論會比較理性，那</span><span class="push-ipdatetime"> 05/31 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 些騎休旅車美式巡航車的不會停在機車格跟你們擠的，你</span><span class="push-ipdatetime"> 05/31 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ultra5566</span><span class="f3 push-content">: 放心吧</span><span class="push-ipdatetime"> 05/31 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DDxMM</span><span class="f3 push-content">: 這重量使人無法移車，一般機車就牽不出來</span><span class="push-ipdatetime"> 05/31 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smashgdi</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/01 01:34
+</span></div><span class="f2">※ </span><span class="f2 hl">YOPOYOPO</span><span class="f2">:轉錄至看板 biker</span>                                       06/01 14:00
+<span class="f2">※ </span><span class="f2 hl">YOPOYOPO</span><span class="f2">:轉錄至看板 SuperBike</span>                                   06/01 14:00
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sonofgod</span><span class="f3 push-content">: 汽車不是都違停 誰在繳錢停車？</span><span class="push-ipdatetime"> 06/01 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sonofgod</span><span class="f3 push-content">: 當汽車有所有的權利嗎 講幹話最會而已</span><span class="push-ipdatetime"> 06/01 14:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">orz0928</span><span class="f3 push-content">: 破千cc的的重車 你停的了停車格？</span><span class="push-ipdatetime"> 06/01 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sonofgod</span><span class="f3 push-content">: 你知道監理站一堆不讓停汽車格的嗎</span><span class="push-ipdatetime"> 06/01 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zames0625</span><span class="f3 push-content">: 騎09 停過機車格 剛剛好 嘿嘿 停好停滿 還蠻不錯的</span><span class="push-ipdatetime"> 06/01 14:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nitealong</span><span class="f3 push-content">:  <a href="http://i.imgur.com/7sLtIgn.jpg" target="_blank" rel="nofollow">http://i.imgur.com/7sLtIgn.jpg</a> 停好停滿啊，跟汽車</span><span class="push-ipdatetime"> 06/01 14:48
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="7sLtIgn"><a href="//imgur.com/7sLtIgn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nitealong</span><span class="f3 push-content">: 一樣咩</span><span class="push-ipdatetime"> 06/01 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">av08</span><span class="f3 push-content">: 幹 機車位很少了</span><span class="push-ipdatetime"> 06/01 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">av08</span><span class="f3 push-content">: 體積那麼大</span><span class="push-ipdatetime"> 06/01 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">av08</span><span class="f3 push-content">: 其他人不用停了？滾去汽車格啦</span><span class="push-ipdatetime"> 06/01 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 去吃屎拉 買不起車位你買什麼重機 幹</span><span class="push-ipdatetime"> 06/01 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">evcafe</span><span class="f3 push-content">: 頭殼壞了嗎？是該立法劃分重機停車格才對吧</span><span class="push-ipdatetime"> 06/01 15:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sonofgod</span><span class="f3 push-content">: 有畫重機格 結果被汽車停走了 你不知道嗎</span><span class="push-ipdatetime"> 06/01 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sonofgod</span><span class="f3 push-content">: 特別是smart march那種</span><span class="push-ipdatetime"> 06/01 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">float</span><span class="f3 push-content">: 會刮花</span><span class="push-ipdatetime"> 06/01 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pal42204</span><span class="f3 push-content">: 現行智障法規就是給智障國家的智障遵守的</span><span class="push-ipdatetime"> 06/01 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">relaxcloud</span><span class="f3 push-content">: 台灣人腦子不好使...機車就機車你偏偏要當他是汽車</span><span class="push-ipdatetime"> 06/01 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">relaxcloud</span><span class="f3 push-content">: 他能上快速明明就應該是因為他動力夠，結果硬要當他是</span><span class="push-ipdatetime"> 06/01 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">relaxcloud</span><span class="f3 push-content">: 汽車...腦殘人民選出腦殘政客制定腦殘政策給腦殘遵守</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cyc4aa12</span><span class="f3 push-content">: 體積太大當然停汽車格啊？要訂一個標準，體積多少以上只</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cyc4aa12</span><span class="f3 push-content">: 能停汽車格，多少以下只能停機車格。刮花當然是刮到的人</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cyc4aa12</span><span class="f3 push-content">: 負責啊？一車一格會刮到？</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kobe7610</span><span class="f3 push-content">: 愛買重機怪我囉？什麼都要爽</span><span class="push-ipdatetime"> 06/01 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 支持啊，2012年以前可以停耶，那時怎麼沒人講?</span><span class="push-ipdatetime"> 06/01 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 只因為政府簡單行事比照成小汽車就不能停，可笑。</span><span class="push-ipdatetime"> 06/01 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 而且白牌大羊還比一堆紅黃牌還寬，它都停得進去了。</span><span class="push-ipdatetime"> 06/01 18:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 我的750cc街車比白牌大羊窄，為何不能停?</span><span class="push-ipdatetime"> 06/01 18:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 照體積才是最正確的方式</span><span class="push-ipdatetime"> 06/01 18:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: 每次停汽車格都要小心翼翼地在想怎麼停才比較不會被硬</span><span class="push-ipdatetime"> 06/01 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: 插的汽車忽略掉被撞倒，熱門區段很多地方的停車場甚</span><span class="push-ipdatetime"> 06/01 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: 至都是用汽車車梯在送車，重機因為體積重量不符都不</span><span class="push-ipdatetime"> 06/01 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: 能上。停機車格又怕被酸酸檢舉，到最後只能勉強找個沒</span><span class="push-ipdatetime"> 06/01 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: 有畫格子的白線停（又很難找）才能避免被檢舉或被拖吊</span><span class="push-ipdatetime"> 06/01 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: ，然後看著一堆直接佔著紅線的四輪整個覺得不解</span><span class="push-ipdatetime"> 06/01 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 這個支持</span><span class="push-ipdatetime"> 06/01 21:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentocean</span><span class="f3 push-content">: 意思是汽車也能停機車位？</span><span class="push-ipdatetime"> 06/02 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rucwmj273b</span><span class="f3 push-content">: 沈默的海大大，您家的汽車停的下機車位？</span><span class="push-ipdatetime"> 06/02 16:14
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496202529.A.1DB.html?cacheKey=2052-2756206&offset=10324&offset-sig=032efc505bc5e008e2edbea5e00a3339cc894cf2" data-longpollurl="/v1/longpoll?id=bb3c3a14320941365679840e4b32ef7cb248284a" data-offset="10324"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

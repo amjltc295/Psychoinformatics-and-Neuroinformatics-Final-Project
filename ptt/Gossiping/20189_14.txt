@@ -1,0 +1,203 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495035545.A.7D8.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 國民黨：戰爭賠償 於法有據 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://news.ltn.com.tw/news/focus/paper/1102926
+國民黨：戰爭賠償 於法有據
+2017-05-17
+〔記者林良昇／台北報導〕國民黨早期以「轉帳撥用」無償取得國有房產土地，行政院黨
+產會最快本月底祭出行政處分，向國民黨追徵近十億元的價金；國民黨行管會主委邱大展
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 國民黨：戰爭賠償 於法有據">
+<meta property="og:description" content="http://news.ltn.com.tw/news/focus/paper/1102926
+國民黨：戰爭賠償 於法有據
+2017-05-17
+〔記者林良昇／台北報導〕國民黨早期以「轉帳撥用」無償取得國有房產土地，行政院黨
+產會最快本月底祭出行政處分，向國民黨追徵近十億元的價金；國民黨行管會主委邱大展
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495035545.A.7D8.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495035545.A.7D8.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">l42857 (~.~)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 國民黨：戰爭賠償 於法有據</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 23:39:02 2017</span></div>
+<a href="http://news.ltn.com.tw/news/focus/paper/1102926" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/focus/paper/1102926</a>
+
+國民黨：戰爭賠償 於法有據
+
+2017-05-17
+
+〔記者林良昇／台北報導〕國民黨早期以「轉帳撥用」無償取得國有房產土地，行政院黨
+產會最快本月底祭出行政處分，向國民黨追徵近十億元的價金；國民黨行管會主委邱大展
+昨表示，國民黨從政府拿到的財產，是戰後的損失賠償，也不只賠償國民黨。
+
+對於黨產會將向國民黨追徵近十億元價金，國民黨主動召開記者會說明立場，強調拒絕支
+付任何違法違憲的行政處分。
+
+邱大展也說明，國民黨確實有拿到政府的財產，但那是當作第二次世界大戰後，對日戰爭
+損失的賠償，並非只有國民黨拿到，還有中國南開大學、青島美國學校、民社黨、上海市
+私立學校聯合會、墨西哥華僑、美洲華僑農牧社等六個案例，可證明當時拿日本財產做為
+戰爭損失是通例。
+
+當初由國防最高委員會決定
+
+對於戰損賠償說，邱大展解釋，拿日本財產補償戰爭損失決議，是由「國防最高委員會」
+所決定，當年也還未簽下舊金山和約，未決定放棄日本索賠的戰爭賠償，且拿日產做為戰
+爭賠償，也都在盟國公約的討論裡。
+
+邱大展表示，當時的「國防最高委員會」層次在立法院、行政院之上，決議等於是立法院
+決定，是於法有據的，若否認這一點，是否也否認「國防最高委員會」那幾年所做的所有
+決議？
+
+邱大展說，黨產會指稱現在的大倉久飯店土地也是國民黨賣出，但是並沒有提出相關資料
+，並無證據；而黨產會所稱的「轉帳撥用」，也是錯誤名詞，這只是推斷，黨產會事情都
+沒調查清楚，就要向國民黨追償十億元，「這太過於荒謬」。
+
+--
+
+還在凹喔.. 那黨職併公職的錢國民黨要不要還?  低價佔用國產的部份還沒算清呢.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.194.153.114
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495035545.A.7D8.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495035545.A.7D8.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GonVolcano</span><span class="f3 push-content">: 台灣人上輩子作惡多端才淪到現在都處理不了KMT</span><span class="push-ipdatetime"> 05/17 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 笑死人 還在凹 真難看</span><span class="push-ipdatetime"> 05/17 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fishing</span><span class="f3 push-content">: 原PO三點不露</span><span class="push-ipdatetime"> 05/17 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 睜眼說瞎話</span><span class="push-ipdatetime"> 05/17 23:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deep77092</span><span class="f3 push-content">: 再囉嗦就槍斃你</span><span class="push-ipdatetime"> 05/17 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fishing</span><span class="f3 push-content">: 回錯抱歉</span><span class="push-ipdatetime"> 05/17 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 就是當時[國防最高委員會]合法啊 你現在的法想管以前?</span><span class="push-ipdatetime"> 05/17 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 白痴</span><span class="push-ipdatetime"> 05/17 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germania</span><span class="f3 push-content">: 熱死怎麼樣也是賠給國家 不是賠給政黨啊</span><span class="push-ipdatetime"> 05/17 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wang197426</span><span class="f3 push-content">: 戰爭賠償？中華民國賠國民黨？</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bankauditor</span><span class="f3 push-content">: 日本和支那在支那打戰、拿台灣的產業賠？有種去日本</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">howarddddads</span><span class="f3 push-content">: 賠給黨還是賠給國家</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bankauditor</span><span class="f3 push-content">: 要、可惜蔣匪又要裝大方、講啥以德報怨、裝模作樣～</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackwheel09</span><span class="f3 push-content">: 蛤 國民黨真是良心黨 才拿那一點日產 給資進黨拿到</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackwheel09</span><span class="f3 push-content">: 相同的權力我都沒地方住嚕</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dannioabc</span><span class="f3 push-content">: 蠻無聊的，政府已經沒錢到要追二次大戰的錢了</span><span class="push-ipdatetime"> 05/17 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">y8202231</span><span class="f3 push-content">: 當初國防委員會都是國民黨人啊，圖利國民黨啊</span><span class="push-ipdatetime"> 05/17 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">victoryuy</span><span class="f3 push-content">: 台灣的產業=日本的 有意見問林昶佐</span><span class="push-ipdatetime"> 05/17 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">boyd1014</span><span class="f3 push-content">: 轉錢正義</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hct0208</span><span class="f3 push-content">: 沒有國民黨，大家現在早就是中國人了。每個時代有那個時</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chanollili</span><span class="f3 push-content">: 賠也是賠給台灣不是賠給狗黨</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">minron</span><span class="f3 push-content">: 賠償國家啊 幹 還錢</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Pegasus170</span><span class="f3 push-content">: 要賠也是賠給國家。賠給政黨是哪樁？黨國不分！</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hct0208</span><span class="f3 push-content">: 代的背景。</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Pegasus170</span><span class="f3 push-content">: 沒有K黨台灣也不會變中國人！</span><span class="push-ipdatetime"> 05/17 23:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 一個分贓的概念</span><span class="push-ipdatetime"> 05/17 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 噓</span><span class="push-ipdatetime"> 05/17 23:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pchunters123</span><span class="f3 push-content">: 沒有國民黨，現在台灣人就是美國人了</span><span class="push-ipdatetime"> 05/17 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jiunyee</span><span class="f3 push-content">: 賠個屁啊</span><span class="push-ipdatetime"> 05/18 00:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 吱吱又在幻想了</span><span class="push-ipdatetime"> 05/18 00:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 一場仗都沒打過的黨 卻指責保衛台灣的黨</span><span class="push-ipdatetime"> 05/18 00:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jjjjj18</span><span class="f3 push-content">: 戰敗不趕快滾回中國大陸</span><span class="push-ipdatetime"> 05/18 00:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jjjjj18</span><span class="f3 push-content">: 誰保衛台灣需要殺台灣人啊？</span><span class="push-ipdatetime"> 05/18 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jjjjj18</span><span class="f3 push-content">: 跟右肩差不多的意思</span><span class="push-ipdatetime"> 05/18 00:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MeShuKuMo56</span><span class="f3 push-content">: 信義區那些小開搞不好全都要吐日產出來</span><span class="push-ipdatetime"> 05/18 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">savishu</span><span class="f3 push-content">: 日本是賠ROC關KMT什麼事？</span><span class="push-ipdatetime"> 05/18 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">figgy</span><span class="f3 push-content">: 多無恥才會說出這種話？</span><span class="push-ipdatetime"> 05/18 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">savishu</span><span class="f3 push-content">: 黨庫通國庫？賠給ROC等於賠給kmt？</span><span class="push-ipdatetime"> 05/18 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lovejamwu</span><span class="f3 push-content">: 你媽的</span><span class="push-ipdatetime"> 05/18 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">whitezealman</span><span class="f3 push-content">: 國民黨不倒  台灣不會好</span><span class="push-ipdatetime"> 05/18 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">u9161031</span><span class="f3 push-content">: 反正法律也是KMT說了算的？</span><span class="push-ipdatetime"> 05/18 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nameericting</span><span class="f3 push-content">: 在對面打敗仗 來跟台灣要賠償?</span><span class="push-ipdatetime"> 05/18 00:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freexyz2007</span><span class="f3 push-content">: 戰爭賠償？中華民國=狗鳴黨？</span><span class="push-ipdatetime"> 05/18 00:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">clala</span><span class="f3 push-content">: 賠你g8啦</span><span class="push-ipdatetime"> 05/18 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yef7591</span><span class="f3 push-content">: KMT還錢啦</span><span class="push-ipdatetime"> 05/18 00:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">clala</span><span class="f3 push-content">: 全國人大民的損失 結果是讓國民黨爽領賠償</span><span class="push-ipdatetime"> 05/18 00:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clala</span><span class="f3 push-content">: 去你媽那不要臉的嘴臉</span><span class="push-ipdatetime"> 05/18 00:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bluebugi</span><span class="f3 push-content">: 無恥</span><span class="push-ipdatetime"> 05/18 01:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">FairPrice</span><span class="f3 push-content">: 支那</span><span class="push-ipdatetime"> 05/18 06:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kducky</span><span class="f3 push-content">: 真的 黨產也立法了 直接交出來吧 於法有據</span><span class="push-ipdatetime"> 05/18 07:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gwenwoo</span><span class="f3 push-content">:  加入白狼那個黨  幫忙攜帶黃金出國  讓你人生不空虛</span><span class="push-ipdatetime"> 05/18 22:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495035545.A.7D8.html?cacheKey=2052-36452936&offset=6791&offset-sig=1e3326500cca7b4333d24c59037ae31ae8051493" data-longpollurl="/v1/longpoll?id=3ec963c676b5aa7ac12b2211a23a84f06df0c417" data-offset="6791"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

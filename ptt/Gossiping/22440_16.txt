@@ -1,0 +1,198 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496555738.A.474.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 驚！大陸上海地表水 近85%不能喝 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合新聞網
+2.完整新聞標題:
+驚！大陸上海地表水 近85%不能喝
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 驚！大陸上海地表水 近85%不能喝">
+<meta property="og:description" content="1.媒體來源:
+聯合新聞網
+2.完整新聞標題:
+驚！大陸上海地表水 近85%不能喝
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496555738.A.474.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496555738.A.474.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">yuzukineko (閃亮三叔公)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 驚！大陸上海地表水 近85%不能喝</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 13:55:34 2017</span></div>
+1.媒體來源:
+聯合新聞網
+
+2.完整新聞標題:
+驚！大陸上海地表水 近85%不能喝
+
+3.完整新聞內文:
+國際環保組織「綠色和平」近日發布《「十二五」期間中國各省（自治區、直轄市）地表
+水環境品質改善情況評估》（以下簡稱「報告」），指全國近半省份未完成「十二五」地
+表水環境改善目標，其中，2015年，上海的地表水有近85%不能喝，天津附近的地表水有
+近95%不能喝，京津冀地區水質現狀和變化趨勢尤其令人擔憂。
+根據中國政府界定的水質級別，一至三級可供居民使用；四級只能是工業用水，不適合人
+體直接接觸；五級只能用於農田；超過五級的不能使用。
+
+報告稱，「十二五」期間中國地表水環境質量總體趨好，優良水體比例從2011年的61%增
+長至2015年72.1%，但局部地區出現水質惡化且改善趨緩。2015年，8個省份主要河流的水
+有一半超過4級，人類如果接觸是不安全的。
+
+報告指出，共有15個省份完成了水質改善目標。其中，西藏、新疆、福建、廣西、甘肅和
+貴州等6個省優良水體比例超過80%。上海雖然完成水質規畫目標，但2015年優良水體的比
+例僅為14.7%。
+
+有14個省份未完成其水質改善目標，包括遼寧、河南、北京、山西、黑龍江、吉林、江西
+、廣東、湖北、海南、青海、湖南、四川和內蒙古。其中，四川、內蒙古和山西甚至出現
+水質惡化的情況。
+
+另由於數據指標或信息公開不足，無法判斷天津和重慶是否完成規畫目標。但是，報告指
+出，2015年天津市的地表水優良水體的比例僅為4.9%，水質汙染程度在全部省份中最為嚴
+重。
+
+而在2011年至2015年間，京津冀地區分別出現優良水質比例減少，或是最差的「劣五類」
+水質比例上升的情況，在「十二五」最後一年的2015年，北京及河北的劣五類比例分別達
+到了39.9%及30.2%。
+
+此外，報告以江蘇及河南兩省為例稱，水質改善與有效控制高汙染工業廢水排放有關。不
+過，農業化肥汙染及城市汙水漸成主要汙染源頭，河南的汙染物排放量中，源於農業汙水
+超過三分之一，該省汙水處理能力無法滿足日益增長的排放量，2015年有1.25億立方米未
+經處理的城市汙水排入江河。
+
+港媒報導，有不願具名的環保官員透露，大都市如京津滬等，城市生活汙水確實超過工業
+汙水成為主要汙染源，但現時經濟增速整體放緩，部分企業為減少處理汙水的成本而偷排
+廢水，而當地政府為應對國家環境監測，也不定期向受汙染的河流投放石灰等鹼性物質，
+以中和酸性汙染物。
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/7332/2503218" target="_blank" rel="nofollow">https://udn.com/news/story/7332/2503218</a>
+
+5.備註:
+<a href="http://imgur.com/FFQngiN" target="_blank" rel="nofollow">http://imgur.com/FFQngiN</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="FFQngiN"><a href="//imgur.com/FFQngiN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.12.65.201
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496555738.A.474.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496555738.A.474.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kay731</span><span class="f3 push-content">: 自來水來自海上</span><span class="push-ipdatetime"> 06/04 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 聯合重工都不知道他的祖國都喝尿嗎？</span><span class="push-ipdatetime"> 06/04 13:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BEHIND</span><span class="f3 push-content">: 怕什麼 他們有最方便的行動支付</span><span class="push-ipdatetime"> 06/04 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 上海就是浦東</span><span class="push-ipdatetime"> 06/04 13:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilyj2012</span><span class="f3 push-content">: 台北地表水，多少能喝？</span><span class="push-ipdatetime"> 06/04 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">RK456RL</span><span class="f3 push-content">: 他們都在尿尿阿</span><span class="push-ipdatetime"> 06/04 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccpz</span><span class="f3 push-content">: 海地的基礎建設該加強了</span><span class="push-ipdatetime"> 06/04 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 台灣的你敢喝喔</span><span class="push-ipdatetime"> 06/04 13:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">erik777</span><span class="f3 push-content">: 上海水都有股味道</span><span class="push-ipdatetime"> 06/04 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fantasibear</span><span class="f3 push-content">: 海地？</span><span class="push-ipdatetime"> 06/04 13:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aerci</span><span class="f3 push-content">: 台灣也差不多吧</span><span class="push-ipdatetime"> 06/04 13:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">polyasia</span><span class="f3 push-content">: 還以為是南極大陸</span><span class="push-ipdatetime"> 06/04 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akito19</span><span class="f3 push-content">: 非洲大陸？</span><span class="push-ipdatetime"> 06/04 14:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 有差嗎? 中國都要殖民外星系了，台灣還在笑人水污染XDDD</span><span class="push-ipdatetime"> 06/04 14:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sm3bp078</span><span class="f3 push-content">: 上海自來水來自海上</span><span class="push-ipdatetime"> 06/04 14:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">donnalee</span><span class="f3 push-content">: 農業用水的標準比工業用水還低？</span><span class="push-ipdatetime"> 06/04 14:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vitalis</span><span class="f3 push-content">: 啥～有差嗎？咱都喝農夫山泉</span><span class="push-ipdatetime"> 06/04 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fransiceyho</span><span class="f3 push-content">: 台北淡水河河水也不能喝呀</span><span class="push-ipdatetime"> 06/04 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 有whA照顧健康 什麼水都能喝</span><span class="push-ipdatetime"> 06/04 14:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ellychen</span><span class="f3 push-content">: 離87%  還差一點點</span><span class="push-ipdatetime"> 06/04 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hclstarkid</span><span class="f3 push-content">: 台灣的污染 世界也是榜上有名  台灣汁光</span><span class="push-ipdatetime"> 06/04 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">apexclimber</span><span class="f3 push-content">: 有水庫 誰去喝地面水</span><span class="push-ipdatetime"> 06/04 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GARRETH</span><span class="f3 push-content">: 嘖 才85% 可惜</span><span class="push-ipdatetime"> 06/04 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">davi0621</span><span class="f3 push-content">: 沒事兒沒事兒</span><span class="push-ipdatetime"> 06/04 14:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">botnet</span><span class="f3 push-content">: 地溝油阿</span><span class="push-ipdatetime"> 06/04 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 我都不知道南極大陸的冰有這麼髒 企鵝居然活得下去</span><span class="push-ipdatetime"> 06/04 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 9.2: 祖國善液</span><span class="push-ipdatetime"> 06/04 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m4tl6</span><span class="f3 push-content">: 大陸上海地表是哪裡啊？</span><span class="push-ipdatetime"> 06/04 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">babyshop</span><span class="f3 push-content">: 上游四川水質惡化下游居然改善了  真神阿</span><span class="push-ipdatetime"> 06/04 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winnietslock</span><span class="f3 push-content">: 十二五都是拿來上台報告很美好的東西，做不出來</span><span class="push-ipdatetime"> 06/04 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Xarke</span><span class="f3 push-content">: 一般人不是急需喝水也不會喝地表水吧,就算是乾淨的河水</span><span class="push-ipdatetime"> 06/04 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 那就喝其他的15%啊！這還要我教？弱智？</span><span class="push-ipdatetime"> 06/04 17:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496555738.A.474.html?cacheKey=2052-1078937&offset=5538&offset-sig=bb0511bcd0eb0d7c1cef6b3b0b71203f89998ef1" data-longpollurl="/v1/longpoll?id=b110964b89ea92a09440965701d7fee4a9431691" data-offset="5538"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

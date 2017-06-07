@@ -1,0 +1,595 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494994244.A.5D5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 各縣市所得中位數 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="大家好
+又是我小隻釋迦
+今天要來統計各縣市所得中位數的排名囉
+...先打預防針
+為什麼這篇會跟我之前PO的
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 各縣市所得中位數">
+<meta property="og:description" content="大家好
+又是我小隻釋迦
+今天要來統計各縣市所得中位數的排名囉
+...先打預防針
+為什麼這篇會跟我之前PO的
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494994244.A.5D5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494994244.A.5D5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">aotfs2013 (超星的小隻釋迦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 各縣市所得中位數</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 12:10:41 2017</span></div>
+大家好
+又是我<span class="f3 hl">小隻釋迦</span>
+
+今天要來統計各縣市所得中位數的排名囉
+
+...先打預防針
+為什麼這篇會跟我之前PO的
+[爆卦] 各縣市平均薪資排名
+差那麼多呢?
+因為<span class="f2 hl">上一篇是根據勞退所統計出</span>的
+主要僅涵蓋勞工部分
+
+而這一篇的數字則包含軍公教 自雇者 雇主等
+　　　　　　　　　　      （如船長、農夫、企業主）
+
+所以<span class="f1 hl">不是薪資不是薪資不是薪資</span>
+
+
+<span class="f5 hl">各縣市平均所得中位數</span>
+縣　市　所得中位數
+<span class="f6 hl">台北市　7萬2120元</span>
+新竹市　5萬5384元
+基隆市　5萬3191元
+嘉義市　5萬1530元
+金門縣　5萬1350元
+新北市　5萬1065元
+新竹縣　4萬9688元
+澎湖縣　4萬9613元
+高雄市　4萬9125元
+桃園市　4萬8603元
+台中市　4萬7803元
+連江縣　4萬7747元
+宜蘭縣　4萬6979元
+花蓮縣　4萬5206元
+苗栗縣　4萬4636元
+台南市　4萬0099元
+南投縣　3萬7822元
+屏東縣　3萬7631元
+嘉義縣　3萬7382元
+雲林縣　3萬7070元
+彰化縣　3萬5518元
+<span class="f2 hl">台東縣　3萬3934元</span>
+
+<span class="f3 hl">資料來源</span>
+行政院主計總處
+
+<span class="f3 hl">計算方式</span>
+每戶可支配所得中位數/平均每戶就業人數/12個月
+
+
+你的所得高於中位數了嗎
+(不是薪資不是薪資不是薪資)
+
+謝謝大家\⊙▽⊙/
+
+--
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 一樓甲甲</span><span class="push-ipdatetime">01/22 01:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Expressotea</span><span class="f3 push-content">: 二樓肥宅</span><span class="push-ipdatetime">01/22 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 一樓自介</span><span class="push-ipdatetime">01/22 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">canblow</span><span class="f3 push-content">: 四樓肥宅</span><span class="push-ipdatetime"> 01/22 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watermen</span><span class="f3 push-content">: 五樓吃屎</span><span class="push-ipdatetime"> 01/22 01:17
+</span></div><a href="/bbs/Gossiping/M.1485019159.A.389.html" target="_blank" rel="nofollow">#1OWvWNE9 (Gossiping)</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.171.86.3
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494994244.A.5D5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494994244.A.5D5.html</a>
+</span><span class="f2">※ 編輯: aotfs2013 (1.171.86.3), 05/17/2017 12:11:05
+</span><span class="f2">※ 編輯: aotfs2013 (1.171.86.3), 05/17/2017 12:11:23
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loquito</span><span class="f3 push-content">: 台東有準</span><span class="push-ipdatetime"> 05/17 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中人崩潰</span><span class="push-ipdatetime"> 05/17 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkgoblin</span><span class="f3 push-content">: 時間太早 都在吃飯</span><span class="push-ipdatetime"> 05/17 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 南部老闆很賺喔</span><span class="push-ipdatetime"> 05/17 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">miaoniz</span><span class="f3 push-content">: 武修吃飯啦</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">antiall</span><span class="f3 push-content">: 還好有超過台北市中位數 勉強算普通魯</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samuelosk</span><span class="f3 push-content">: 那為什麼還是一堆人說領22K?</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qmei</span><span class="f3 push-content">: 整年除以12</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiow1026</span><span class="f3 push-content">: 高雄慣老闆肯定很多</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zephry</span><span class="f3 push-content">: 賴清德應該看一下這篇 台南市果然是慣老闆的天堂</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m21423</span><span class="f3 push-content">: 幸福城市有夠慘</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crossdunk</span><span class="f3 push-content">: 就說不是薪水了 某樓呵呵</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div>鼻要噓我傷心
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">EstelleRinz</span><span class="f3 push-content">: 幸福高雄 台南 有愛就飽 錢太俗氣了</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><span class="f2">※ 編輯: aotfs2013 (1.171.86.3), 05/17/2017 12:15:02
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中根本哈哈</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce511239</span><span class="f3 push-content">: 低於 慘</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 這樣台北才七萬多</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AZBTPATONY</span><span class="f3 push-content">: 嘉義？？</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">max853211</span><span class="f3 push-content">: 22k本來就廢物年輕人在該的啊，有能力的早40k了~~~</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mquare</span><span class="f3 push-content">: 原來這是中位數 看來我公司都是後段班了</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 你可以在列一下純勞工薪資比對一下嗎</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div>在八卦板搜尋
+各縣市平均薪資排名
+就有了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nomorepipe</span><span class="f3 push-content">: 地下經濟不和尼門計較</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MIKEmike07</span><span class="f3 push-content">: 酸高雄 台南的 看一下台中? 崩潰沒</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><span class="f2">※ 編輯: aotfs2013 (1.171.86.3), 05/17/2017 12:16:00
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 基隆嘉義金門這麼高 蠻讓人意外的</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelosk</span><span class="f3 push-content">: 懂了，所以是自雇者跟雇主在拉高平均喔</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中低成這樣 房價還能炒的跟台北一樣高 哈哈</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">truffaut</span><span class="f3 push-content">: 金門澎湖連江都好高 軍公教比例高</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 彰化果然是貧富最懸殊 怪不得妹子超拜金..</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kaet</span><span class="f3 push-content">: 這篇排名就是比較傳統的認知  原來跟勞工薪資排名差異甚大啊</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 哇靠 可支配所得一個月七萬 那薪水至少要一個月九萬了</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中根本自慰之城不意外 地震帶還一堆 勿忘921</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 我知道 我是說列出來比對啦</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knight77</span><span class="f3 push-content">: 苗栗比六都的臺南還高 可憐的臺南人</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 台北市第一名才是對  不然房租物價誰撐</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiyuan</span><span class="f3 push-content">: 彰化薪水倒數第二，新房一間破千萬，怎不去死</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abobstar</span><span class="f3 push-content">: 唉~~~還是在中位數之下</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ARTORIA</span><span class="f3 push-content">: 台中...人口...我頭好痛</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yutsngchen</span><span class="f3 push-content">: 嘉義市太神啦，勞工薪水低，加上雇主後中位數比公務員</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yutsngchen</span><span class="f3 push-content">: 薪水高</span><span class="push-ipdatetime"> 05/17 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 樓下台中人口自慰王</span><span class="push-ipdatetime"> 05/17 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahahank</span><span class="f3 push-content">: 嘉義縣跟嘉義市差好多 有卦嗎</span><span class="push-ipdatetime"> 05/17 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skewalk</span><span class="f3 push-content">: 對不起我拖累平均</span><span class="push-ipdatetime"> 05/17 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 台中因為包下縣區吧 離開市區 根本比高雄縣還慘</span><span class="push-ipdatetime"> 05/17 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 嘉義市那麼前面喔</span><span class="push-ipdatetime"> 05/17 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovesinker</span><span class="f3 push-content">: 基隆...</span><span class="push-ipdatetime"> 05/17 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lmc66</span><span class="f3 push-content">: 高雄超越台中</span><span class="push-ipdatetime"> 05/17 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 帝寶那些人就多少錢了</span><span class="push-ipdatetime"> 05/17 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bulden</span><span class="f3 push-content">: 高雄市有4W，真得假的！！有錢人多到拉高平均薪資！！</span><span class="push-ipdatetime"> 05/17 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dan5209</span><span class="f3 push-content">: 台中太誇張 大概被從外地移入的人口拖累吧XDD</span><span class="push-ipdatetime"> 05/17 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 豐原整個沒落 鳳山長庚醫院那倒是還一樣熱鬧</span><span class="push-ipdatetime"> 05/17 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d3osef</span><span class="f3 push-content">: 標題加個可支配吧</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">marineone</span><span class="f3 push-content">: 嘉義市ㄧ堆診所啊</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crossdunk</span><span class="f3 push-content">: 以台北來說 薪資42k 這篇所得70k 不是老闆拉太高就是靠</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ARTORIA</span><span class="f3 push-content">: 是說加入了老闆 這樣很正常啊</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">crossdunk</span><span class="f3 push-content">: 其他投資</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gay7788</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aisansan</span><span class="f3 push-content">: 彰化富豪很多，怎所得這低</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">crossdunk</span><span class="f3 push-content">: 差了30k 好扯...</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooxx123</span><span class="f3 push-content">: 高雄也有縣區阿</span><span class="push-ipdatetime"> 05/17 12:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中靠灑大錢補助生育 買人口的自慰之城不意外</span><span class="push-ipdatetime"> 05/17 12:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qmei</span><span class="f3 push-content">: 台南真的超慘</span><span class="push-ipdatetime"> 05/17 12:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">racage</span><span class="f3 push-content">: 富豪戶籍不在彰化吧</span><span class="push-ipdatetime"> 05/17 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">au1231</span><span class="f3 push-content">: 這個有沒有灌水呀？</span><span class="push-ipdatetime"> 05/17 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中真的很慘</span><span class="push-ipdatetime"> 05/17 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qmei</span><span class="f3 push-content">: 台南就慣老闆之都。颱風天都要搶著賺錢</span><span class="push-ipdatetime"> 05/17 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bravobrave</span><span class="f3 push-content">: 台中又崩潰了</span><span class="push-ipdatetime"> 05/17 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hotmilk</span><span class="f3 push-content">: 看人住哪裡還是看公司在哪裡？</span><span class="push-ipdatetime"> 05/17 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 台中房價物價真的扯 憑啥比高雄貴 以為整區都七期水準唷</span><span class="push-ipdatetime"> 05/17 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LoveMakeLove</span><span class="f3 push-content">: 新竹縣市一個在省轄市第一一個在省轄縣第一</span><span class="push-ipdatetime"> 05/17 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siopp</span><span class="f3 push-content">: 可支配有這麼高喔....見鬼</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CGZB</span><span class="f3 push-content">: 中位數代表 一半以上的人所得高於這個數字吧？</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 彰化倒數第二XD</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 嘉義市都公務員    澎湖都公務員+做生意的</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LoveMakeLove</span><span class="f3 push-content">: 金門縣屬於福建省。</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tello</span><span class="f3 push-content">: 你以為是艋舺歐弟喔</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkgoblin</span><span class="f3 push-content">: 這是中位數的概念 推文一堆平均是怎樣</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CGZB</span><span class="f3 push-content">: 如果一半以上有這麼高 然而平均卻沒有 那低所得是真的很低..</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 很多人不用上班就有錢啊</span><span class="push-ipdatetime"> 05/17 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w76530</span><span class="f3 push-content">: 臺南一堆逃漏稅的薪水又給超低</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckp4131025</span><span class="f3 push-content">: 這種用年薪比較清楚啦</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AZBTPATONY</span><span class="f3 push-content">: 台中市區五萬多好嗎 縣區太低</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckp4131025</span><span class="f3 push-content">: 除12很混淆欸</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckp4131025</span><span class="f3 push-content">: 另外可支配就是應稅所得嗎？</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中地震帶一堆 根本沒企業想投資 勿忘921</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GGononder</span><span class="f3 push-content">: 哈哈 花蓮還贏台南</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AZBTPATONY</span><span class="f3 push-content">: 高雄縣區明顯比台中縣區好 光鳳山就快40萬</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clintvivA</span><span class="f3 push-content">: 好在有台北中位數  但還是很窮</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 奴到沒藥醫</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 你們什麼時候有了22K現象只存在中下階層的錯覺？跟國外</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 比，中高階一堆薪水被嚴重低估跟著低薪化，慣老闆只想c</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: ost down，不用負責嗎？</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">buscar</span><span class="f3 push-content">: 六都之一的臺南扣掉零頭只有3萬 廠廠</span><span class="push-ipdatetime"> 05/17 12:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 高雄縣區發展好多了 黑心龍上海線GG 連三井都可能不玩</span><span class="push-ipdatetime"> 05/17 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keric7</span><span class="f3 push-content">: 低於中位數好多...崩潰痛哭</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 台南果然最幸福</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 老胡至少煙火還特地移到海邊 BRT炒房到2014最高點</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄才少台北2萬 房價卻少10倍 真的爽到翻哈哈</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ARTORIA</span><span class="f3 push-content">: 要不要再加入軍警公教?</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f544544f</span><span class="f3 push-content">: 台南蒸蚌</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sanshin</span><span class="f3 push-content">: 高雄他媽的也有鄉下好嗎。台中不用找理由啦</span><span class="push-ipdatetime"> 05/17 12:28
+</span></div><span class="f2">※ 編輯: aotfs2013 (1.171.86.3), 05/17/2017 12:28:32
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silvertime</span><span class="f3 push-content">: 數據打臉了 22k真的都是黨工帶的風向</span><span class="push-ipdatetime"> 05/17 12:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zerowingtw</span><span class="f3 push-content">: 每&#34;戶&#34;....這麼少??</span><span class="push-ipdatetime"> 05/17 12:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 難怪高雄雙B滿街跑</span><span class="push-ipdatetime"> 05/17 12:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 看到算式就知道這篇&#34;又&#34;算錯了...</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lucifer648</span><span class="f3 push-content">: 台南比苗栗還低是怎樣...</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 中位數真的很好笑，要不要看一下貧富差距？前20%跟最後</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lmc66</span><span class="f3 push-content">: 不是&#34;每戶&#34; 是&#34;每戶就業人數&#34;</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 20%來比比看啊</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 高雄與桃園台中分列第9~11 智障高雄id高潮</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lmc66</span><span class="f3 push-content">: 單身宅一戶就/1 雙薪家庭一戶就/2</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 台南都有南科坦了還這麼慘 那沒在園區的是多慘</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 可支配所得 =/= 所得  這麼明顯的錯誤還這麼多人推</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zerowingtw</span><span class="f3 push-content">: 謝謝lmc66大大</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 也不知道這麼明顯的錯誤是要帶什麼風向...</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miha80425</span><span class="f3 push-content">: 只要過大肚山 海線的薪水本來就很鳥了</span><span class="push-ipdatetime"> 05/17 12:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">likeshit</span><span class="f3 push-content">: 我好窮哦</span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 基隆嘉義市應該就真的是沒有縣區影響的關係</span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 怎麼會有人一直以為22K指的是錢 = = 這已經變成鬼島各</span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 階層普遍低薪的“現象”了好嗎？</span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 基隆嘉義市&gt;高雄桃園台中&gt;台南</span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kobelephants</span><span class="f3 push-content">: 哈哈台南哈哈</span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shirou123</span><span class="f3 push-content">: 臺南:</span><span class="push-ipdatetime"> 05/17 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miha80425</span><span class="f3 push-content">: 電力燃氣供應業和用水供應汙染整治業 高雄全台第二</span><span class="push-ipdatetime"> 05/17 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mynewid</span><span class="f3 push-content">: 每戶?雙薪要除2</span><span class="push-ipdatetime"> 05/17 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StopSign5566</span><span class="f3 push-content">: 台南 哈哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 05/17 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RLH</span><span class="f3 push-content">: 好慘 沒有中位數</span><span class="push-ipdatetime"> 05/17 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cocabell</span><span class="f3 push-content">: 當然 那些靠炒股炒房致富的垃圾除外</span><span class="push-ipdatetime"> 05/17 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">miha80425</span><span class="f3 push-content">: 眾所皆知這個是國營事業 平均都有7萬~8萬</span><span class="push-ipdatetime"> 05/17 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pietro</span><span class="f3 push-content">: 有耶</span><span class="push-ipdatetime"> 05/17 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 中南部果然都是啦啦隊 台中縣彰化雲林嘉義台南縣都車尾</span><span class="push-ipdatetime"> 05/17 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 台女沒七萬不嫁果然是正確的</span><span class="push-ipdatetime"> 05/17 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dageegee</span><span class="f3 push-content">: 七萬...</span><span class="push-ipdatetime"> 05/17 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中哈哈哈哈哈</span><span class="push-ipdatetime"> 05/17 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frank86317</span><span class="f3 push-content">: 基隆那會意外 多少人去臺北上班不知道嗎</span><span class="push-ipdatetime"> 05/17 12:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 苗栗國多少KMT死忠耶，怎麼會收入低呢？都是謠言啦！</span><span class="push-ipdatetime"> 05/17 12:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 苗栗花蓮很多靠觀光阿 所以X客不來損失會很大</span><span class="push-ipdatetime"> 05/17 12:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa384756</span><span class="f3 push-content">: 每戶可支配所得中位數/平均每戶就業人數/12個月</span><span class="push-ipdatetime"> 05/17 12:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HiranoMiu</span><span class="f3 push-content">: 什麼鬼 之前一堆人說台中超越高雄 是超越到哪去了</span><span class="push-ipdatetime"> 05/17 12:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa384756</span><span class="f3 push-content">: 如果只有薪資收入的家庭 這也等於薪資收入吧?</span><span class="push-ipdatetime"> 05/17 12:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 爽也是爽老闆 大家先去看看純勞工差距</span><span class="push-ipdatetime"> 05/17 12:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StopSign5566</span><span class="f3 push-content">: 中南部滾啦 拖垮台灣</span><span class="push-ipdatetime"> 05/17 12:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 苗栗贏有南科的台南市直轄市 當初笑或酸苗栗有高鐵的XD</span><span class="push-ipdatetime"> 05/17 12:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 純勞工苗栗還排第五喔</span><span class="push-ipdatetime"> 05/17 12:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: Hira..所以基隆嘉義金門澎湖都超越高雄了啊？</span><span class="push-ipdatetime"> 05/17 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qw99992</span><span class="f3 push-content">: 金門豪猛</span><span class="push-ipdatetime"> 05/17 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WWIII</span><span class="f3 push-content">: 台中真的名副其實 剛好在中間</span><span class="push-ipdatetime"> 05/17 12:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 所以基隆嘉義市超越六都了？(北市以外)</span><span class="push-ipdatetime"> 05/17 12:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AWPER</span><span class="f3 push-content">: 台中...</span><span class="push-ipdatetime"> 05/17 12:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 有些人的邏輯真好玩</span><span class="push-ipdatetime"> 05/17 12:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WashableID</span><span class="f3 push-content">: 人口王 哈哈 你看你 哈哈</span><span class="push-ipdatetime"> 05/17 12:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ambitious</span><span class="f3 push-content">: 看中位數的意義是什麼</span><span class="push-ipdatetime"> 05/17 12:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 新北市輸給嘉義市…</span><span class="push-ipdatetime"> 05/17 12:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 台中人口超越高雄是必然的趨勢</span><span class="push-ipdatetime"> 05/17 12:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 結果照某人講法看來基隆嘉義都超越六都了XD</span><span class="push-ipdatetime"> 05/17 12:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 基隆嘉義市全面超越北市以外的六都 號外</span><span class="push-ipdatetime"> 05/17 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z1212345</span><span class="f3 push-content">: 基隆那麼高？</span><span class="push-ipdatetime"> 05/17 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 又有人看不懂中位數了</span><span class="push-ipdatetime"> 05/17 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p23j8a4b9z</span><span class="f3 push-content">: 綠吱看到苗栗 心裡應該很不是滋味巴 ㄏㄏ</span><span class="push-ipdatetime"> 05/17 12:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 第一這含僱主 第二基隆和嘉義是省轄市來看 那小區塊</span><span class="push-ipdatetime"> 05/17 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPer</span><span class="f3 push-content">: 如果嘉義市加上嘉義縣 有沒有辦法... 自己判斷囉</span><span class="push-ipdatetime"> 05/17 12:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 看中位數才不會有一男一女平均一顆睪丸的笑話</span><span class="push-ipdatetime"> 05/17 12:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flora11883</span><span class="f3 push-content">: 這篇就中肯了，賴皮德，該醒醒做事囉</span><span class="push-ipdatetime"> 05/17 12:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dans</span><span class="f3 push-content">: 公式錯了啦，這樣八卦版眾還是跟郭台銘平均到了</span><span class="push-ipdatetime"> 05/17 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vcLong</span><span class="f3 push-content">: 加上獎金年終之後  公務員薪水比中位數還不如 XDDD</span><span class="push-ipdatetime"> 05/17 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chuchichan</span><span class="f3 push-content">: 台北人表示難過</span><span class="push-ipdatetime"> 05/17 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 基隆嘉義金門一直都很多有錢人，但是這有生存者偏差</span><span class="push-ipdatetime"> 05/17 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Abill</span><span class="f3 push-content">: 請問一下年所得就是乘12嗎</span><span class="push-ipdatetime"> 05/17 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z89062</span><span class="f3 push-content">: 台中？</span><span class="push-ipdatetime"> 05/17 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">protoss666</span><span class="f3 push-content">: 七萬看來很合理啊 窮人滾啦 幹</span><span class="push-ipdatetime"> 05/17 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KEYSOLIDER</span><span class="f3 push-content">: 人口大:</span><span class="push-ipdatetime"> 05/17 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seafire</span><span class="f3 push-content">: 太高了吧！</span><span class="push-ipdatetime"> 05/17 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waitingsmith</span><span class="f3 push-content">: 可支配所得代表勞健保稅後可用的錢，明明很有參考</span><span class="push-ipdatetime"> 05/17 13:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jainyoyo</span><span class="f3 push-content">: 金門澎湖排名真前面</span><span class="push-ipdatetime"> 05/17 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waitingsmith</span><span class="f3 push-content">: 價值</span><span class="push-ipdatetime"> 05/17 13:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aqlec</span><span class="f3 push-content">: 不管取啥樣數彰化不是倒數第一或第二，也太慘！</span><span class="push-ipdatetime"> 05/17 13:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waitingsmith</span><span class="f3 push-content">: 某s秀下限帶風向</span><span class="push-ipdatetime"> 05/17 13:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 愚蠢，可支配所得的定義跟所得就不同</span><span class="push-ipdatetime"> 05/17 13:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 扣掉直轄市和小小省轄市 宜蘭花蓮苗栗狂電中南部大縣阿</span><span class="push-ipdatetime"> 05/17 13:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: 身為彰化人…</span><span class="push-ipdatetime"> 05/17 13:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 某w正好示範不在乎真實與正確性看爽就好的代表</span><span class="push-ipdatetime"> 05/17 13:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: 多虧是百萬人口大縣</span><span class="push-ipdatetime"> 05/17 13:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellissa</span><span class="f3 push-content">: 看來觀光真的好賺 中南部傳產真的...</span><span class="push-ipdatetime"> 05/17 13:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">QQKM</span><span class="f3 push-content">: 彰化真的有夠慘...</span><span class="push-ipdatetime"> 05/17 13:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RevanKai</span><span class="f3 push-content">: 台中倒數第二 跟台南並列超級南蠻</span><span class="push-ipdatetime"> 05/17 13:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Arbin</span><span class="f3 push-content">: 平均低 中位數也低 身為彰化人的我還是去吃土好了幹QQ</span><span class="push-ipdatetime"> 05/17 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GGylin</span><span class="f3 push-content">: 領22k收租5w 選我正解</span><span class="push-ipdatetime"> 05/17 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coalever</span><span class="f3 push-content">: 身為六都以外的最大縣彰化，倒數第二可以檢討一下嗎</span><span class="push-ipdatetime"> 05/17 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isu0911</span><span class="f3 push-content">: 所以22k是假議題?</span><span class="push-ipdatetime"> 05/17 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billiomos</span><span class="f3 push-content">: 所以 可以說 是台東 的軍公教和老闆們泰廢囉?</span><span class="push-ipdatetime"> 05/17 13:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pneumas</span><span class="f3 push-content">: 台東縣真可悲 有金城武樹熱氣球還輸離島縣市</span><span class="push-ipdatetime"> 05/17 13:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">billiomos</span><span class="f3 push-content">: 基隆是因為船長很多的關係嗎</span><span class="push-ipdatetime"> 05/17 13:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn1572002</span><span class="f3 push-content">: 雲林真的慘啊</span><span class="push-ipdatetime"> 05/17 13:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mrlinwng</span><span class="f3 push-content">: 某台中人口王:不管啦 森77 先貼人口罵高雄 (無限輪迴)</span><span class="push-ipdatetime"> 05/17 13:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryan0714123</span><span class="f3 push-content">: 基隆有錢人真的很多，中小企業主、國營企業（台電、</span><span class="push-ipdatetime"> 05/17 13:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ryan0714123</span><span class="f3 push-content">: 台鐵）、公務員、台北工作的很多，收入都不錯</span><span class="push-ipdatetime"> 05/17 13:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dreamyello</span><span class="f3 push-content">: 就跟你說不是薪資了還在22k 看不懂中文？</span><span class="push-ipdatetime"> 05/17 13:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsxwsx0426</span><span class="f3 push-content">: 人口哥：人口才是最重要的好嗎？(蠕動)</span><span class="push-ipdatetime"> 05/17 13:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsxwsx0426</span><span class="f3 push-content">: 台中六都倒數第二 真可悲 根本印度第二</span><span class="push-ipdatetime"> 05/17 13:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deathsong</span><span class="f3 push-content">: 台南直轄市哦</span><span class="push-ipdatetime"> 05/17 13:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathsong</span><span class="f3 push-content">: 原來六都是新竹 嘉義 台北 基隆 新北 高雄啊</span><span class="push-ipdatetime"> 05/17 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waitingsmith</span><span class="f3 push-content">: 只好請聰明的s大教育愚蠢的鄉民們，所得扣稅後的可</span><span class="push-ipdatetime"> 05/17 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waitingsmith</span><span class="f3 push-content">: 支配所得不能代表台灣家庭收入狀況好了。</span><span class="push-ipdatetime"> 05/17 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pipitruck</span><span class="f3 push-content">: 22k可以自殺</span><span class="push-ipdatetime"> 05/17 13:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gghost1002</span><span class="f3 push-content">: 差好多..</span><span class="push-ipdatetime"> 05/17 13:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hayate1143</span><span class="f3 push-content">: 中位以下  唉...</span><span class="push-ipdatetime"> 05/17 13:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaeomes</span><span class="f3 push-content">: 如果再加入各地物價來比較 就會看到那個縣市更差了</span><span class="push-ipdatetime"> 05/17 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flac</span><span class="f3 push-content">: 除以12</span><span class="push-ipdatetime"> 05/17 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piliwu</span><span class="f3 push-content">: 是年所得除以月份，含年終所以不等於月薪</span><span class="push-ipdatetime"> 05/17 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">woerns</span><span class="f3 push-content">: 高雄低薪以20~35歲的年輕人為主，35以上的傳產肥貓一堆</span><span class="push-ipdatetime"> 05/17 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piliwu</span><span class="f3 push-content">: 而且中位數就排除了極為</span><span class="push-ipdatetime"> 05/17 13:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">STi2011</span><span class="f3 push-content">: 台北7萬......</span><span class="push-ipdatetime"> 05/17 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 標題是所得中位數，而數據是可支配所得</span><span class="push-ipdatetime"> 05/17 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 可支配所得能不能代表家庭收入情況是一回事，但故意拿</span><span class="push-ipdatetime"> 05/17 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamanlin</span><span class="f3 push-content">: 可支配所得說成是所得那就是錯的，某w 懂？</span><span class="push-ipdatetime"> 05/17 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aitela</span><span class="f3 push-content">: 福佬人越少的地方越富有，得證</span><span class="push-ipdatetime"> 05/17 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jokerjuju</span><span class="f3 push-content">: 笑死 一個錯誤數據讓高雄帳號高潮啦</span><span class="push-ipdatetime"> 05/17 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">web946719</span><span class="f3 push-content">: 金門有屌</span><span class="push-ipdatetime"> 05/17 14:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 樓上沒錯 笑惹</span><span class="push-ipdatetime"> 05/17 14:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waythecsir</span><span class="f3 push-content">: 又多一項政府認證 我依然魯</span><span class="push-ipdatetime"> 05/17 14:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cheng31507</span><span class="f3 push-content">: 台南夠慘QQ</span><span class="push-ipdatetime"> 05/17 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 高雄桃園台中分列第9~11 智障高雄id也能高潮</span><span class="push-ipdatetime"> 05/17 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 難怪人口被皇莖交叉XD</span><span class="push-ipdatetime"> 05/17 14:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 難怪高雄勞保投保成長人數六都墊底</span><span class="push-ipdatetime"> 05/17 14:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilove5072</span><span class="f3 push-content">: 靠，公務員高考有些縣市都沒有到達中位數</span><span class="push-ipdatetime"> 05/17 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 科</span><span class="push-ipdatetime"> 05/17 14:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">veniesbetty</span><span class="f3 push-content">: 推！用心！</span><span class="push-ipdatetime"> 05/17 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chris44099</span><span class="f3 push-content">: 就說中位數了還在平均</span><span class="push-ipdatetime"> 05/17 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: <a href="https://goo.gl/MGw3Yt" target="_blank" rel="nofollow">https://goo.gl/MGw3Yt</a></span><span class="push-ipdatetime"> 05/17 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 高雄id：這什？</span><span class="push-ipdatetime"> 05/17 14:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口哥果然崩潰了 笑死</span><span class="push-ipdatetime"> 05/17 14:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">redsox60144</span><span class="f3 push-content">: 哪時候來個金融風暴洗牌呢？</span><span class="push-ipdatetime"> 05/17 14:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 智障台中人拿縣區自慰......</span><span class="push-ipdatetime"> 05/17 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ja881213</span><span class="f3 push-content">: 人口哥又要崩潰了！</span><span class="push-ipdatetime"> 05/17 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chris731201</span><span class="f3 push-content">: 金門，嘉義屌打新北   XD</span><span class="push-ipdatetime"> 05/17 14:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CTfail</span><span class="f3 push-content">: 笑死 彰化是不是該被勞工局關注一下了</span><span class="push-ipdatetime"> 05/17 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 拿縣區自慰 阿高雄就沒縣區喔？然後拿年輕族群出來嘴？</span><span class="push-ipdatetime"> 05/17 14:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 就做出統計啊 一堆低能而只會&#34;我覺得&#34; 只會信個案報導</span><span class="push-ipdatetime"> 05/17 14:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 台灣低能兒真的很多  只會隨媒體起舞</span><span class="push-ipdatetime"> 05/17 14:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rejo</span><span class="f3 push-content">: 彰化人崩潰 QQ</span><span class="push-ipdatetime"> 05/17 14:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 高雄縣區發展普遍爛 縣市差距比台中還大</span><span class="push-ipdatetime"> 05/17 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 高雄ID: 高雄人口成長墊底 勞保投保成長人數墊底能吃</span><span class="push-ipdatetime"> 05/17 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 嗎？繼續第9名好棒棒</span><span class="push-ipdatetime"> 05/17 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 笑死</span><span class="push-ipdatetime"> 05/17 14:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kmshy</span><span class="f3 push-content">: 金門就群每月爽領外島加給的老米蟲撐高 有啥好屌的</span><span class="push-ipdatetime"> 05/17 14:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">princeguitar</span><span class="f3 push-content">: 嘉義果然很有錢 感覺得出來!!!</span><span class="push-ipdatetime"> 05/17 14:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 總比台中ID永遠拿高雄出來自慰滿足自卑心好</span><span class="push-ipdatetime"> 05/17 14:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 打從一開始就是台中ID、人口哥在那低能戰高雄</span><span class="push-ipdatetime"> 05/17 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 高雄所得比台中高兩名人口哥就罵大家智障高潮 忘了台中</span><span class="push-ipdatetime"> 05/17 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口還沒追上高雄自己就先高潮好幾年了www 人口哥不要</span><span class="push-ipdatetime"> 05/17 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 打臉自己好嗎</span><span class="push-ipdatetime"> 05/17 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 這種人就現實生活魯蛇拉 魯到要靠佔其他縣市滿足自卑感</span><span class="push-ipdatetime"> 05/17 14:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 高雄縣市發展差距大 結果一起算還是贏台中 幫台中QQ</span><span class="push-ipdatetime"> 05/17 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 笑死？快去死一死啦 台灣不需要這種內鬥內行的廢物</span><span class="push-ipdatetime"> 05/17 14:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口哥：治安 空污 薪資 所得 交通都差沒關係 反正只要</span><span class="push-ipdatetime"> 05/17 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口成長贏高雄就好ㄏㄏㄏ</span><span class="push-ipdatetime"> 05/17 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hermerod</span><span class="f3 push-content">: 可支配所得的定義是繳稅之後耶</span><span class="push-ipdatetime"> 05/17 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 到底有多麼不甘人口被皇莖交叉啊XD</span><span class="push-ipdatetime"> 05/17 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口哥的邏輯比智障還不如 真是可悲</span><span class="push-ipdatetime"> 05/17 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 高雄只能拿第9名被基隆嘉義市屌打的數據來高潮了</span><span class="push-ipdatetime"> 05/17 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 噗XD</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 從頭到尾在高潮人口的就是你還有臉說別人喔....</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mist8013</span><span class="f3 push-content">: 只能回去彰化惹……</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 台中各方面都低只有人口成長高也能高潮？</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口哥要不要改叫高潮哥啊？</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asdasd57</span><span class="f3 push-content">: 台南縣區農民之多</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdasd57</span><span class="f3 push-content">: 但比苗栗少六千！！</span><span class="push-ipdatetime"> 05/17 14:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DKnex</span><span class="f3 push-content">: —_—高薪老闆一堆 中位數不就拉高?</span><span class="push-ipdatetime"> 05/17 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 從頭到尾在高潮第9名的眾搞熊ID一堆還需要人提示嗎XD</span><span class="push-ipdatetime"> 05/17 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gotornado</span><span class="f3 push-content">: 幹嘞 台北這麼高要死喔 害我拉低水準 對不起大家</span><span class="push-ipdatetime"> 05/17 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 桃園以前只是個縣 還比台中晚升格 結果各方面數據都比</span><span class="push-ipdatetime"> 05/17 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 照智丈高雄ID邏輯：基隆嘉義市全面超越六都啦(除北市</span><span class="push-ipdatetime"> 05/17 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 台中好 只有人口比台中低 都沒人這樣高潮了 真的不懂台</span><span class="push-ipdatetime"> 05/17 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 中有什麼資格高潮www</span><span class="push-ipdatetime"> 05/17 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HoneyHunter</span><span class="f3 push-content">: 台中又要被鞭屍了 幫QQ</span><span class="push-ipdatetime"> 05/17 14:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ron51320</span><span class="f3 push-content">: 嘉義市威猛 彰化QQ</span><span class="push-ipdatetime"> 05/17 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 照智障人口哥邏輯 台中超越新北台北啦 啊不過桃園發展</span><span class="push-ipdatetime"> 05/17 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy3020</span><span class="f3 push-content">: 嘉義市真是奇蹟</span><span class="push-ipdatetime"> 05/17 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 追過台中 支持桃園當首都</span><span class="push-ipdatetime"> 05/17 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 台中以前只是個省轄市 還比高雄晚升格 N年結果各方面</span><span class="push-ipdatetime"> 05/17 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nisak</span><span class="f3 push-content">: Sorry各位我把平均拉太高</span><span class="push-ipdatetime"> 05/17 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WellyT</span><span class="f3 push-content">: 意思是雙薪家庭，理論上要x2</span><span class="push-ipdatetime"> 05/17 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 數據都比高雄好 只有中位數略低 都沒人這樣高潮了 真</span><span class="push-ipdatetime"> 05/17 14:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 晚升格所以呢？以前高雄直轄資源也都投在重工業和港口啊</span><span class="push-ipdatetime"> 05/17 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenny881031</span><span class="f3 push-content">: 彰化</span><span class="push-ipdatetime"> 05/17 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 所以無法反映現在的狀況 這不是很理所當然？</span><span class="push-ipdatetime"> 05/17 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 的不懂高雄有什麼資格高潮(還只是第9XD</span><span class="push-ipdatetime"> 05/17 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 台中就是有享受到中央設立科學園區的優惠 別再抱怨政策</span><span class="push-ipdatetime"> 05/17 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: Just照樣照句</span><span class="push-ipdatetime"> 05/17 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 不公平啦</span><span class="push-ipdatetime"> 05/17 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 是因為很多人 台中人 還真以為薪資是高雄兩倍在那嘴低薪</span><span class="push-ipdatetime"> 05/17 14:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karnoel</span><span class="f3 push-content">: 這篇確實有打臉到痛處啊XD不然你在激動啥XD</span><span class="push-ipdatetime"> 05/17 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 從頭到尾都是人口哥自己在高潮啊XDD 有人有說高雄好棒</span><span class="push-ipdatetime"> 05/17 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 棒嗎 倒是人口哥把反台中的都當成高雄id 才有問題吧= =</span><span class="push-ipdatetime"> 05/17 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RuruX5566</span><span class="f3 push-content">: 咦! 好耶! 高雄沒墊底了!   看來薪資以外的所得 UP UP</span><span class="push-ipdatetime"> 05/17 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keyman2</span><span class="f3 push-content">: 低於平均的都是魯蛇.........我是魯蛇QQ</span><span class="push-ipdatetime"> 05/17 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abula2008</span><span class="f3 push-content">: 請關心一下彰化好嗎QQ</span><span class="push-ipdatetime"> 05/17 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口哥邏輯有問題的時候就會自動把對方打成高雄id在高</span><span class="push-ipdatetime"> 05/17 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 潮 這樣不會改變你論述有漏洞的事實好嗎= =</span><span class="push-ipdatetime"> 05/17 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">likebadday</span><span class="f3 push-content">: 嘉義很多有錢人</span><span class="push-ipdatetime"> 05/17 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: Just照樣照句啊 XD</span><span class="push-ipdatetime"> 05/17 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 每次拿各領域的數據比 只要台中比高雄低 人口哥就會貼</span><span class="push-ipdatetime"> 05/17 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 人口 都市發展是全方位的 只會拿人口當唯一指標在那邊</span><span class="push-ipdatetime"> 05/17 14:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 自嗨 這不是智障是什麼</span><span class="push-ipdatetime"> 05/17 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tensinya</span><span class="f3 push-content">: 台北應該沒這麼少 不知道有沒有在依產業部跟年齡分的</span><span class="push-ipdatetime"> 05/17 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xy1904312</span><span class="f3 push-content">: 看得出來人口哥不太會照樣造句 幫國小老師QQ</span><span class="push-ipdatetime"> 05/17 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie0804</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/17 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thomaschion</span><span class="f3 push-content">: 某些人是看不懂中文還是怎樣？</span><span class="push-ipdatetime"> 05/17 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">grec</span><span class="f3 push-content">: 基隆那麼前面！！</span><span class="push-ipdatetime"> 05/17 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nksv526</span><span class="f3 push-content">: 一個統計的假象</span><span class="push-ipdatetime"> 05/17 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jordantao</span><span class="f3 push-content">: 嘉義有這麼高？我很意外，人口外流很嚴重耶，薪資還有</span><span class="push-ipdatetime"> 05/17 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jordantao</span><span class="f3 push-content">: 五萬以上？why?</span><span class="push-ipdatetime"> 05/17 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">honlan</span><span class="f3 push-content">: 爸爸媽媽平均有一顆睪丸</span><span class="push-ipdatetime"> 05/17 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WilsonLiao56</span><span class="f3 push-content">: 彰化真可悲</span><span class="push-ipdatetime"> 05/17 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lime5566</span><span class="f3 push-content">: 高雄縣區比台中慘多了吧 內門那瑪夏茂林那些</span><span class="push-ipdatetime"> 05/17 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s8t4008w</span><span class="f3 push-content">: 中位數不是平均 某樓??</span><span class="push-ipdatetime"> 05/17 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hicjgogogo</span><span class="f3 push-content">: 養家糊口剛好</span><span class="push-ipdatetime"> 05/17 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayxg</span><span class="f3 push-content">: QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ</span><span class="push-ipdatetime"> 05/17 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 標題為什麼不直接寫成「可支配所得」</span><span class="push-ipdatetime"> 05/17 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkoo25</span><span class="f3 push-content">: 抱歉紅的明顯，是指每戶中位數，不是每人中位數，所以，</span><span class="push-ipdatetime"> 05/17 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkoo25</span><span class="f3 push-content">: 表示階級差距很大</span><span class="push-ipdatetime"> 05/17 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ayue</span><span class="f3 push-content">: 說個笑話，彰化新透天厝破千萬</span><span class="push-ipdatetime"> 05/17 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkoo25</span><span class="f3 push-content">: 根本在玩文字遊戲</span><span class="push-ipdatetime"> 05/17 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 這是每人中位數沒錯，他有除以「平均每戶就業人數」</span><span class="push-ipdatetime"> 05/17 15:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 但是另外還有一個「平均每戶提得收入者人數」會比就業人數高</span><span class="push-ipdatetime"> 05/17 15:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 表示有些人雖然沒就業，但是有所得。要統計每人所得應該除後</span><span class="push-ipdatetime"> 05/17 15:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 者才對 <a href="http://imgur.com/3JjxPgG" target="_blank" rel="nofollow">http://imgur.com/3JjxPgG</a></span><span class="push-ipdatetime"> 05/17 15:43
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="3JjxPgG"><a href="//imgur.com/3JjxPgG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkoo25</span><span class="f3 push-content">: 你覺得那些，房東會繳勞保還是國民年金呢？</span><span class="push-ipdatetime"> 05/17 15:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 高雄資源拿那麼還排那麼後面根本丟臉啊XDDDDD</span><span class="push-ipdatetime"> 05/17 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">losewind</span><span class="f3 push-content">: 這真的是海放耶...</span><span class="push-ipdatetime"> 05/17 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asole</span><span class="f3 push-content">: 出社會第一份工作就超過台北中位數了</span><span class="push-ipdatetime"> 05/17 15:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8429310</span><span class="f3 push-content">: 台中一堆酒店跟流氓 地下經濟沒列入不准啦</span><span class="push-ipdatetime"> 05/17 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">link4517</span><span class="f3 push-content">: 台中快超英趕美了</span><span class="push-ipdatetime"> 05/17 16:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">molsmopuim</span><span class="f3 push-content">: 嘉義市雖然人口僅20多萬，但因腹地不大，所以人口密度</span><span class="push-ipdatetime"> 05/17 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">molsmopuim</span><span class="f3 push-content">: 僅次於首度台北市哦</span><span class="push-ipdatetime"> 05/17 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">molsmopuim</span><span class="f3 push-content">: 首都</span><span class="push-ipdatetime"> 05/17 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GaRx</span><span class="f3 push-content">: 台南沒南科的話大概倒數第2</span><span class="push-ipdatetime"> 05/17 16:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Melody000</span><span class="f3 push-content">: 對不起 拉低了</span><span class="push-ipdatetime"> 05/17 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cabama</span><span class="f3 push-content">: 嘉義5萬？要補價差嗎？</span><span class="push-ipdatetime"> 05/17 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenshin333</span><span class="f3 push-content">: 召喚台中人口T</span><span class="push-ipdatetime"> 05/17 16:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">APC</span><span class="f3 push-content">: 蓋</span><span class="push-ipdatetime"> 05/17 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kcyy</span><span class="f3 push-content">: 不管怎麼比，彰化永遠倒數第二是怎樣</span><span class="push-ipdatetime"> 05/17 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tadshift2</span><span class="f3 push-content">: 臺北市領20K有救嗎？</span><span class="push-ipdatetime"> 05/17 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lt114040</span><span class="f3 push-content">: 台南是六都之一 卻跟一堆鄉下縣市並列 賴神??</span><span class="push-ipdatetime"> 05/17 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TRUNKSX</span><span class="f3 push-content">: 台中一堆22K  這數字騙鬼阿  公務員薪資吧</span><span class="push-ipdatetime"> 05/17 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: 中位數有移除極端值的效果 所以不能酸平均一顆睪丸喔 嘻嘻</span><span class="push-ipdatetime"> 05/17 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 跟人口老化有關？</span><span class="push-ipdatetime"> 05/17 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">df900127123</span><span class="f3 push-content">: 陳菊還在四處亂拆呢真棒！</span><span class="push-ipdatetime"> 05/17 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gemc612</span><span class="f3 push-content">: 嘉義都公務員跟老闆當然高,其他人都出外工作了</span><span class="push-ipdatetime"> 05/17 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kasamewon</span><span class="f3 push-content">: 多的只剩下人</span><span class="push-ipdatetime"> 05/17 16:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kasamewon</span><span class="f3 push-content">: 人口哥認證了移進台中的都是____</span><span class="push-ipdatetime"> 05/17 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thisoermqab2</span><span class="f3 push-content">: 金門靠金酒就可以宣布經濟獨立啦</span><span class="push-ipdatetime"> 05/17 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">katanakiller</span><span class="f3 push-content">: 沒領薪水的一算進來狂拉高</span><span class="push-ipdatetime"> 05/17 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">creulfact</span><span class="f3 push-content">: 金門基隆嘉義澎湖是怎麼回事??XDDD</span><span class="push-ipdatetime"> 05/17 17:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkoo25</span><span class="f3 push-content">: v大說得對，可支配所得，這個影響很大，標題很故意讓人混</span><span class="push-ipdatetime"> 05/17 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkoo25</span><span class="f3 push-content">: 淆。</span><span class="push-ipdatetime"> 05/17 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CYL009</span><span class="f3 push-content">: 還以為新竹可以和臺北平起平坐了 看來差不小</span><span class="push-ipdatetime"> 05/17 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OOQ</span><span class="f3 push-content">: 對不起我拉低了數值</span><span class="push-ipdatetime"> 05/17 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guepard</span><span class="f3 push-content">: 崩潰</span><span class="push-ipdatetime"> 05/17 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">j1992624</span><span class="f3 push-content">: 你的分母是就業人數</span><span class="push-ipdatetime"> 05/17 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: @ @</span><span class="push-ipdatetime"> 05/17 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riker729</span><span class="f3 push-content">: 證實老闆們都住台北</span><span class="push-ipdatetime"> 05/17 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 有人每個數據都後段還能被ptter吹上天根本廠廠</span><span class="push-ipdatetime"> 05/17 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 笑死台中人AZB又在瞎掰.之前舊資料台中縣薪資還高過高縣</span><span class="push-ipdatetime"> 05/17 19:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 自己去翻資料</span><span class="push-ipdatetime"> 05/17 19:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j55888819</span><span class="f3 push-content">: 台南真的是一個垃圾城市 不事生產只會幹走一堆經費</span><span class="push-ipdatetime"> 05/17 19:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 高縣除了鳳鳥其它以前一堆區根本農漁牧為主</span><span class="push-ipdatetime"> 05/17 19:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h94</span><span class="f3 push-content">: 嘉義！？</span><span class="push-ipdatetime"> 05/17 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">benoaico</span><span class="f3 push-content">: 台南這樣還可以當直轄市</span><span class="push-ipdatetime"> 05/17 19:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">syuanling</span><span class="f3 push-content">: 桑心</span><span class="push-ipdatetime"> 05/17 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">all02608</span><span class="f3 push-content">: 是中位數,不是平均...包括股票房地產彩卷中獎發票薪水..</span><span class="push-ipdatetime"> 05/17 19:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nwww9542</span><span class="f3 push-content">: 台北誇張</span><span class="push-ipdatetime"> 05/17 19:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all02608</span><span class="f3 push-content">: 老闆都會被濾掉,部分工時12k的也會被濾掉...</span><span class="push-ipdatetime"> 05/17 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all02608</span><span class="f3 push-content">: 但台北這個中位數也太高了吧...幾乎快公務員的2倍</span><span class="push-ipdatetime"> 05/17 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">all02608</span><span class="f3 push-content">: 是說領軍公教勞保退休金的也會被除進去,但不算人數..</span><span class="push-ipdatetime"> 05/17 19:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all02608</span><span class="f3 push-content">: 所以台北這個數字和現實完全不符...應該是人口高度老化</span><span class="push-ipdatetime"> 05/17 19:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 那兩三萬到底哪來的</span><span class="push-ipdatetime"> 05/17 19:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all02608</span><span class="f3 push-content">: 且這些老人都很有錢,吃掉一堆社會福利資源後還能轉投資</span><span class="push-ipdatetime"> 05/17 19:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chean1020</span><span class="f3 push-content">: 天啊！我爸和我媽都年薪百萬了，我的臺中父母竟然只贏</span><span class="push-ipdatetime"> 05/17 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chean1020</span><span class="f3 push-content">: 臺北半數人耶，難怪大家都跑北部</span><span class="push-ipdatetime"> 05/17 20:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demon159000</span><span class="f3 push-content">: 馬的 彰化平民整個只能吃是X啊…</span><span class="push-ipdatetime"> 05/17 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 幹你娘</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 彰化 100人 所得第1名2000萬 第50名3萬5518</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 第51名~第60名 2萬2    第61名~第80名 不到2萬2</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 第81名~第100名  不到1萬    現實狀況</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 中位數能吃洨？</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 幹你娘，政府官員一堆只會看數據，不會分析</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 他媽的不要連PTT都跟官員腦袋一樣</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saithur</span><span class="f3 push-content">: 9.9.9.9.3.1.1.1.1，請問中位數是哪個？</span><span class="push-ipdatetime"> 05/18 01:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wargods8402</span><span class="f3 push-content">: 啊不就富豪跟乞丐的所得平均下來才有台北的數字</span><span class="push-ipdatetime"> 05/18 02:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loloman</span><span class="f3 push-content">: 台北人口一半以上月平均收入都七萬多</span><span class="push-ipdatetime"> 05/18 06:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lichun1228</span><span class="f3 push-content">: 台中就一堆鄉下窮人 然後還會窮人增加而自慰好幾年</span><span class="push-ipdatetime"> 05/18 08:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: <a href="http://goo.gl/nkqajD" target="_blank" rel="nofollow">http://goo.gl/nkqajD</a> 低收戶/人數高雄居全國之冠</span><span class="push-ipdatetime"> 05/18 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 表示</span><span class="push-ipdatetime"> 05/18 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 人口成長 勞保投保成長人數高雄雙雙六都墊底</span><span class="push-ipdatetime"> 05/18 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 低收戶/人數高雄又是全國之冠</span><span class="push-ipdatetime"> 05/18 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: BJ4</span><span class="push-ipdatetime"> 05/18 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mido</span><span class="f3 push-content">: 對不起 我把數字拉低了QQ</span><span class="push-ipdatetime"> 05/18 13:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 這是整年除12的數字，還原成年薪看比較不易跟月薪混淆</span><span class="push-ipdatetime"> 05/18 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 如果是上面f大說的81~100不到1萬，那中位數會不到1萬耶</span><span class="push-ipdatetime"> 05/18 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 肯定不是唯一解(?)</span><span class="push-ipdatetime"> 05/18 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 啊，抱歉，是我在文字混亂中看錯了，在此致歉</span><span class="push-ipdatetime"> 05/18 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 總之中位數只是簡易參考有一半的人高於這個數字用的</span><span class="push-ipdatetime"> 05/18 14:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 原po可以貼一下原始資料來源直接連結嗎，沒能找到</span><span class="push-ipdatetime"> 05/18 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleeplist</span><span class="f3 push-content">: 在主計處網頁裡面挖了一小輪</span><span class="push-ipdatetime"> 05/18 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demon159000</span><span class="f3 push-content">: 靠腰我彰化人啦 我爸不加班破不了3萬 家裡四個小孩 3</span><span class="push-ipdatetime"> 05/19 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">demon159000</span><span class="f3 push-content">: 81樓 懂?</span><span class="push-ipdatetime"> 05/19 14:40
+</span></div><span class="f2">※ </span><span class="f2 hl">chocoball</span><span class="f2">:轉錄至看板 PingTung</span>                                   05/19 20:51
+</div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494994244.A.5D5.html?cacheKey=2052-41826861&offset=43580&offset-sig=35bca2119d391560a6af13595d5d91b3006c5bcb" data-longpollurl="/v1/longpoll?id=43e958f09f4bd8288063adae47650eba8fdb7719" data-offset="43580"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

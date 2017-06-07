@@ -1,0 +1,167 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496288765.A.374.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 台灣為何不大力發展軟體產業？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="軟體業很廣大的
+還包含驅動程式、行車電腦的軟體、遊戲機台、洗衣機的程序化控制.....
+: 而且軟體業比較沒有國界之分
+: 台灣如果做得好  在中文區可以攻佔中國市場，用日文可以賣到日本，
+: 用英文可以賣全世界
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 台灣為何不大力發展軟體產業？">
+<meta property="og:description" content="軟體業很廣大的
+還包含驅動程式、行車電腦的軟體、遊戲機台、洗衣機的程序化控制.....
+: 而且軟體業比較沒有國界之分
+: 台灣如果做得好  在中文區可以攻佔中國市場，用日文可以賣到日本，
+: 用英文可以賣全世界
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496288765.A.374.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496288765.A.374.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">skyoun (skyoun)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 台灣為何不大力發展軟體產業？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 11:46:02 2017</span></div>
+<span class="f2">※ 引述《chungrew (work hard, play hard)》之銘言：
+</span><span class="f6">: 如題  世界上很多小國  都注意發展軟體產業
+</span><span class="f6">: 例如以色列、瑞士、荷蘭、丹麥等等
+</span><span class="f6">: 廣義的軟體業，包括遊戲、防毒軟體、作業系統及相關軟體、APP等等
+</span><span class="f6">: 甚至在廣義上，社群軟體和電子商務也是廣義的軟體業
+</span><span class="f6">: 最近被炒作的題材，VR、AI、大數據等等，其實也需要好的軟體來配合
+</span>
+軟體業很廣大的
+還包含驅動程式、行車電腦的軟體、遊戲機台、洗衣機的程序化控制.....
+
+<span class="f6">: 而且軟體業比較沒有國界之分
+</span><span class="f6">: 台灣如果做得好  在中文區可以攻佔中國市場，用日文可以賣到日本，
+</span><span class="f6">: 用英文可以賣全世界
+</span><span class="f6">: 所以對台灣而言  發展軟體業可說是非常重要
+</span>
+<span class="f6">: 而且軟體業最重視的是創意和執行力，台灣也不差
+</span><span class="f6">: 為何台灣政府不積極鼓勵軟體業呢？
+</span>
+有.....鼓勵到特定廠商手上了
+
+還有些台灣廠商只出一張嘴，打個折，轉包給左岸就好
+連程式、註解一起要過來
+為什麼要自己寫？
+
+<span class="f6">: 過去10多年來，台灣軟體業為什麼沒有做出世界級的產品？
+</span><span class="f6">: 原因在哪裡？
+</span>
+討論相對侷限於應用軟體，就針對這部分聊聊吧
+
+小魯不才，暫時只想到三個原因：
+
+  1.只想賺 Easy Money
+    三不五時業務跳出來接案，案子轉包給左岸來做就好
+    跟國家安全相關的戶政系統都這樣了，其他就 Ker Ker
+    就一般應用軟體的設計人員來說，自己都要準備轉行了，誰去想世界級的創意產品？
+    沒有基本的相關收入，投入應用軟體領域的人就越來越少 (高手就跳去別的範圍囉)
+
+  2.抄襲與跟風
+    創意，想出來了又怎樣？
+    轉給左岸，三個月仿製一個出來......
+    等半年後，就滿坑滿谷的破解版了，大家還會拍拍手、好棒棒 (忘記原創者的眼淚)
+
+  3.軟體有價
+    從中央政府到路邊小店，一堆認為軟體不值多少錢的、不應該因此付太多錢
+    要不要盤點一下各位電腦中的軟體版權？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 120.127.154.215
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496288765.A.374.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496288765.A.374.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 理盲短視，根本不把研究人員當回事，哪一行都是這樣</span><span class="push-ipdatetime"> 06/01 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 對岸的廢物政國(中共)以垃圾軟體廣告賺取盈餘，中國人口</span><span class="push-ipdatetime"> 06/01 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 多，被中國內地人騙沒問題的</span><span class="push-ipdatetime"> 06/01 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 換作是台灣這種跨世代及媒體經濟及文化交換可以進步的國</span><span class="push-ipdatetime"> 06/01 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 家，比起中國去吃屎吧，謝謝，肺腑直言</span><span class="push-ipdatetime"> 06/01 11:57
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496288765.A.374.html?cacheKey=2052-11623069&offset=2224&offset-sig=4eaf83c5367f423e4456a674d8e480f497bb4b3c" data-longpollurl="/v1/longpoll?id=40eb92a538f05372c41037b80ffb603d8816265e" data-offset="2224"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

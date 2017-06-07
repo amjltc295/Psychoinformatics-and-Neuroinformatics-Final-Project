@@ -1,0 +1,183 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495511451.A.82B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 兀型人專業多工 起薪是工具人1.4倍 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+兀型人專業多工 起薪是工具人1.4倍
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 兀型人專業多工 起薪是工具人1.4倍">
+<meta property="og:description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+兀型人專業多工 起薪是工具人1.4倍
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495511451.A.82B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495511451.A.82B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">tw689 (台灣689)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 兀型人專業多工 起薪是工具人1.4倍</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 11:50:47 2017</span></div>
+1.媒體來源:
+
+中央社
+
+2.完整新聞標題:
+
+兀型人專業多工 起薪是工具人1.4倍
+
+3.完整新聞內文:
+
+（中央社記者邱柏勝台北23日電）想為職涯加分，只有一項專長恐不夠。據yes123求職網
+調查，屬「兀型人」的上班族，平均薪資達新台幣 4萬6481元，是只有單一專長的「工具
+人」薪資的1.4倍，謀職期平均也短了15天。
+
+yes123求職網今天公布「高學歷高技能與兀型人工具人調查」，調查顯示，具備專業且多
+功能的「兀型人」，常有升遷加薪、被挖角機會。但自認屬於「兀型人」的上班族僅
+14.1%，高達73.4%的上班族認為自己專長不多，屬於加薪機會不多的職場「工具人」。
+
+進一步按月薪進行交叉分析，自認「兀型人」的薪資，平均達4萬6481元，而「工具人」
+平均月薪僅3萬3174元，相差1.4倍。此外，若以開始投遞履歷到錄取的期間估算，「兀型
+人」的謀職期平均為31.7天，「工具人」的謀職期平均為44.5天，兩者也相差半個月，顯
+見多工且專業的人才較易受企業青睞。
+
+不過，企業對「兀型人」的定義卻略有不同，主要有以下5大項：「有兩種以上的技能」
+（66%）、「有跨企業部門的工作能力、解決問題的能力」（55.7%）、「有兩種以上跨領
+域證照」（34%），以及「學歷當中，有兩種以上不同領域的主修」（25.8%）、「有過兩
+種以上跨職務長期工作經驗」（22.7%）。
+
+此外，雖然有1成4上班族認為自己是「兀型人」，但企業主認為在公司中真正屬於「兀型
+人」等級的，僅佔6.3%，勞資雙方存在落差。而當職務、職級與年資差不多時，被視為「
+兀型人」的員工，企業願意多付薪水，平均願多給5506元的月薪。
+
+yes123求職網發言人楊宗斌建議，在職涯當中應隨時保持「自我充電」的狀態，除了利用
+下班、休假時間補習，考取證照、加強外語、在職進修外，還可以「從做中學」，像是爭
+取參與跨部門專案，或者嘗試換部門歷練，最忌諱深度不夠，只學到皮毛，或者僅有三分
+鐘熱度，都有可能導致「廣而不精」。
+
+此「高學歷高技能與兀型人工具人調查」，是由yes123求職網於5月3日到5月16日，以網
+路問卷進行抽樣，調查未滿40歲、已畢業或退伍，且有正職工作的會員，有效會員問卷共
+1472份，其中研究所學歷的佔400份，學士學歷佔1072份；信心水準為95%，誤差值為正負
+2.55個百分點。至於企業部分，有效問卷共970份，信心水準為95%，誤差值為正負3.15個
+百分點。1060523
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.cna.com.tw/news/afe/201705230085-1.aspx" target="_blank" rel="nofollow">http://www.cna.com.tw/news/afe/201705230085-1.aspx</a>
+
+5.備註:
+
+兀型人是三小 我只知道止兀
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.235.109
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495511451.A.82B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495511451.A.82B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bluebluelan</span><span class="f3 push-content">: 這三小</span><span class="push-ipdatetime"> 05/23 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">axzs1111</span><span class="f3 push-content">: 一人做五人的工作   領半份薪水</span><span class="push-ipdatetime"> 05/23 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sanshin</span><span class="f3 push-content">: 兀三小</span><span class="push-ipdatetime"> 05/23 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s655131</span><span class="f3 push-content">: 拍型BJT?</span><span class="push-ipdatetime"> 05/23 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TabrisXVII</span><span class="f3 push-content">: 止兀型人才</span><span class="push-ipdatetime"> 05/23 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t00012</span><span class="f3 push-content">: 聽你在喇叭，女的只要高中畢業就保障會計跟人資工作</span><span class="push-ipdatetime"> 05/23 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yuugen2</span><span class="f3 push-content">: 三小人???自創名詞</span><span class="push-ipdatetime"> 05/23 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperModel</span><span class="f3 push-content">: 這不是施崇棠在臺大畢典的說法嗎？</span><span class="push-ipdatetime"> 05/23 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ridecule</span><span class="f3 push-content">: 記者兀 π不分 笑死人</span><span class="push-ipdatetime"> 05/23 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Beinlie</span><span class="f3 push-content">: 22k的1.4倍</span><span class="push-ipdatetime"> 05/23 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qaz2004</span><span class="f3 push-content">: 專業在台灣只是讓自己更累而已</span><span class="push-ipdatetime"> 05/23 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steve17</span><span class="f3 push-content">: 要你做2份專業的工作 給你1.4份的薪水 划算</span><span class="push-ipdatetime"> 05/23 11:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dendrimer</span><span class="f3 push-content">: 這樣才四萬</span><span class="push-ipdatetime"> 05/23 12:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joinptt</span><span class="f3 push-content">: π型人起薪才1.4倍?怎麼不是3.14倍?剩下的被A型人A了?</span><span class="push-ipdatetime"> 05/23 12:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">elyoje</span><span class="f3 push-content">: 拍三小，奴工就奴工，假鬼假怪</span><span class="push-ipdatetime"> 05/23 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">FK56</span><span class="f3 push-content">: 身兼數職薪水1.4倍？奴隸網專出這種報告，笑屎</span><span class="push-ipdatetime"> 05/23 12:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">roktzzt</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/23 13:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495511451.A.82B.html?cacheKey=2052-38104521&offset=3985&offset-sig=d184b02a77432329f7c3702da5ea1e6f33f65fee" data-longpollurl="/v1/longpoll?id=85a7e18ec96a0b236b72852b8ce0c0b12b1f432d" data-offset="3985"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

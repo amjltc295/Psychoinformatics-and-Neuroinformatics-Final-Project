@@ -1,0 +1,269 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495694484.A.F8E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 圍棋人機大戰第2回合　柯潔苦戰3小時認輸 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+蘋果日報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 圍棋人機大戰第2回合　柯潔苦戰3小時認輸">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+蘋果日報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495694484.A.F8E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495694484.A.F8E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wowqweasd (快來喵喵喵喵喵喵電感應)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 圍棋人機大戰第2回合　柯潔苦戰3小時認輸</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 14:41:21 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+蘋果日報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+圍棋人機大戰第2回合　柯潔苦戰3小時認輸
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+<a href="http://imgur.com/j2MEWVo" target="_blank" rel="nofollow">http://imgur.com/j2MEWVo</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="j2MEWVo"><a href="//imgur.com/j2MEWVo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+目前世界排名第一的中國棋王柯潔，在今日早上10時半與人工智能「阿法狗」(AlphaGo)
+進行第2回合的比賽，前天的雙方第一局以柯潔的完敗而結束，這次柯潔是否能扳回一城
+、戰勝電腦，外界拭目以待。但今日最終結果，柯潔依舊認輸落敗。
+
+今日柯潔從戰局一開始，就被「阿法狗」壓制棋勢，中間一度有挽回的態勢，但柯潔最後
+仍放手認輸。去年南韓棋王李世石在第4局中，終於發現了「阿法狗」的一個弱點並贏下這一局，外界認為人腦能逼出「阿
+法狗」失誤就是最大的成功，因此這一次也是要讓柯潔來找一找新版「阿法狗」的漏洞。
+不過柯潔日前也透過微博表示，「阿法狗」的可怕程度，就像是一位武林高手讓對方先捅
+3刀卻還能戰勝。（施旖婕、國際中心／綜合外電報導）
+
+01:41
+柯潔在136手失誤，中盤投子認輸。棋界普遍認為，柯潔執黑棋的戰力並不如執白棋強勁
+，他中盤借助爭劫已經將AlphaGo拉入泥潭。然而柯潔在136手失誤，最終中盤投子認輸。
+
+13:15
+「AlphaGo之父」、DeepMind公司創辦人哈薩比斯稍早發文表示，AlphaGo認為柯潔表現完
+美。有好幾手纏鬥，柯潔陷入長考。稍後，柯潔在右上角的劣勢借助一「衝」，將
+AlphaGo困住，考驗AlphaGo計算力。
+
+11:50
+棋局進行了1個多小時，柯潔的步數仍被「阿法狗」識破，「阿法狗」持續壓著柯潔打，
+一度讓柯潔陷入長考。
+
+10:45
+現場棋評指稱，今天的Alpha Go手法更近似人類。但柯潔如果是跟人類對手，應不會花太
+多時間，柯潔一度抱頭，露出遇到難題的模樣。
+
+10:35
+比賽開始，Alpha Go執黑子先下，第一子用了稍長時間，對擅長快棋的Alpha Go而言已算
+是「長考」。
+
+<a href="http://imgur.com/e8TrinQ" target="_blank" rel="nofollow">http://imgur.com/e8TrinQ</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="e8TrinQ"><a href="//imgur.com/e8TrinQ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>翻攝Google直播畫面。
+
+<a href="http://imgur.com/u1v0tmU" target="_blank" rel="nofollow">http://imgur.com/u1v0tmU</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="u1v0tmU"><a href="//imgur.com/u1v0tmU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>中國棋王與AI阿法狗第2戰，即將開打。翻自新華社
+
+<a href="http://imgur.com/iKPXatQ" target="_blank" rel="nofollow">http://imgur.com/iKPXatQ</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="iKPXatQ"><a href="//imgur.com/iKPXatQ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>柯潔苦思布局。
+
+<a href="http://imgur.com/FtSrUsx" target="_blank" rel="nofollow">http://imgur.com/FtSrUsx</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="FtSrUsx"><a href="//imgur.com/FtSrUsx"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>翻攝新浪新聞
+
+<a href="http://imgur.com/Yawj1fi" target="_blank" rel="nofollow">http://imgur.com/Yawj1fi</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="Yawj1fi"><a href="//imgur.com/Yawj1fi"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<a href="http://imgur.com/WJgxfdm" target="_blank" rel="nofollow">http://imgur.com/WJgxfdm</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="WJgxfdm"><a href="//imgur.com/WJgxfdm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>翻攝新浪新聞
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="https://goo.gl/Ohv0o6" target="_blank" rel="nofollow">https://goo.gl/Ohv0o6</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+柯潔下去
+
+--
+【人間悲歌】弟沉迷線上遊戲 兄癱瘓10年無人問
+<a href="https://goo.gl/kwxkYg" target="_blank" rel="nofollow">https://goo.gl/kwxkYg</a>
+【共睹奇蹟】『 你怎不幫我選角阿 想害我被ban阿!!! 』，弟喚醒癱瘓十年兄
+<a href="https://goo.gl/WgrTLT" target="_blank" rel="nofollow">https://goo.gl/WgrTLT</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 163.24.55.251
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495694484.A.F8E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495694484.A.F8E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #抓頭</span><span class="push-ipdatetime"> 05/25 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gannimade</span><span class="f3 push-content">: 阿不是很嗆</span><span class="push-ipdatetime"> 05/25 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tiffcmh</span><span class="f3 push-content">: 愛與熱情終究4輸惹</span><span class="push-ipdatetime"> 05/25 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rrr518</span><span class="f3 push-content">: 我要用那一招惹喔</span><span class="push-ipdatetime"> 05/25 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">emperor</span><span class="f3 push-content">: 結果李世石才是最強的</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SNH48</span><span class="f3 push-content">: 柯屁孩不行了</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sagarain</span><span class="f3 push-content">: 領錢囉</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 隊喔 他不是說有大絕招？</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo921080931</span><span class="f3 push-content">: 問李世石神之一手怎麼下啊</span><span class="push-ipdatetime"> 05/25 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j31404</span><span class="f3 push-content">: 李世石好像是抓他BUG吧</span><span class="push-ipdatetime"> 05/25 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TRosi</span><span class="f3 push-content">: 讓子吧，跟吳清源十番棋一樣，先從黑棋佈用貼目看能不能贏</span><span class="push-ipdatetime"> 05/25 14:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 今年版本的AlphaGO可以把去年版本的打到讓三子 程度差遠了</span><span class="push-ipdatetime"> 05/25 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ymib</span><span class="f3 push-content">: 弱點就在插頭啊</span><span class="push-ipdatetime"> 05/25 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TRosi</span><span class="f3 push-content">: 雖然第一盤只贏半目，但是有人出來說了就是只想贏你半目</span><span class="push-ipdatetime"> 05/25 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chinnez</span><span class="f3 push-content">: 左下角不錯</span><span class="push-ipdatetime"> 05/25 14:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iwinlottery</span><span class="f3 push-content">: 第一子幹嘛要花時間？</span><span class="push-ipdatetime"> 05/25 14:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 連硬體都改了，這次狗更強</span><span class="push-ipdatetime"> 05/25 14:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poppyvampire</span><span class="f3 push-content">: 計算要讓多少</span><span class="push-ipdatetime"> 05/25 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZABORGER</span><span class="f3 push-content">: 李世石：爽！！！！！！</span><span class="push-ipdatetime"> 05/25 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AngelNo13</span><span class="f3 push-content">: 還在李世石神之一手....</span><span class="push-ipdatetime"> 05/25 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AngelNo13</span><span class="f3 push-content">: 兩台阿法狗等級又不一樣...</span><span class="push-ipdatetime"> 05/25 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DORAQMON</span><span class="f3 push-content">: 酸民下第一手就已經輸了，柯還是很厲害</span><span class="push-ipdatetime"> 05/25 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 不是嗆李？結果還下到吐血XD</span><span class="push-ipdatetime"> 05/25 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 哈薩比斯剛剛說 前半盤AlphaGO認為柯潔下得很完美</span><span class="push-ipdatetime"> 05/25 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 圍棋最好有第一手就輸XD 支那玻璃人又心碎了</span><span class="push-ipdatetime"> 05/25 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cemis</span><span class="f3 push-content">: 如果李世石是日本人，本版的綠吱絕對會高潮到噴出來</span><span class="push-ipdatetime"> 05/25 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">netio</span><span class="f3 push-content">: 李世石是跟1.0版打 現AlphaGO已到2.0了</span><span class="push-ipdatetime"> 05/25 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 笑死、開始腦補了！自己先嘴嗆李、結果沒贏半場、幫</span><span class="push-ipdatetime"> 05/25 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 根據value network 下到50手都是勢均力敵</span><span class="push-ipdatetime"> 05/25 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 支那人QQ</span><span class="push-ipdatetime"> 05/25 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joeyben</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 05/25 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 現在不能護航、只能酸版本了！XD</span><span class="push-ipdatetime"> 05/25 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 被AlphaGO認為很完美~　那不代表被100%預測...柯柯</span><span class="push-ipdatetime"> 05/25 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 根本被玩弄</span><span class="push-ipdatetime"> 05/25 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linph</span><span class="f3 push-content">: 41J也懂圍棋?</span><span class="push-ipdatetime"> 05/25 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rock666</span><span class="f3 push-content">: 我認輸了</span><span class="push-ipdatetime"> 05/25 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">benchen0158</span><span class="f3 push-content">: 這場柯已經下得非常好了</span><span class="push-ipdatetime"> 05/25 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ericcws</span><span class="f3 push-content">: 就幹話說太多，有的風度還不會被酸這麼慘XD</span><span class="push-ipdatetime"> 05/25 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Defaltee</span><span class="f3 push-content">: 支那次等人種下棋下輸阿法狗不EY</span><span class="push-ipdatetime"> 05/25 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Galm</span><span class="f3 push-content">: 這次不說幹話了嗎? 不是很嘴? 李世石贏了那次也沒他嘴</span><span class="push-ipdatetime"> 05/25 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">player8</span><span class="f3 push-content">: 柯還是夠強！酸民幾人懂圍棋規則</span><span class="push-ipdatetime"> 05/25 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lichung1995</span><span class="f3 push-content">: 打錯下去好爆</span><span class="push-ipdatetime"> 05/25 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 柯潔超廢的 根本垃圾  阿台灣棋士咧?跑去當藝人了</span><span class="push-ipdatetime"> 05/25 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 韓國圍棋最強 日中台都是垃圾 我建議這三國都廢掉圍棋</span><span class="push-ipdatetime"> 05/25 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 只有韓國贏過 中國挑戰敗北 日本台灣都當孬種躲起來</span><span class="push-ipdatetime"> 05/25 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jachin</span><span class="f3 push-content">: 看來還是要他出馬了</span><span class="push-ipdatetime"> 05/25 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jachin</span><span class="f3 push-content">: <a href="http://i.imgur.com/vbZa0Ep.jpg" target="_blank" rel="nofollow">http://i.imgur.com/vbZa0Ep.jpg</a></span><span class="push-ipdatetime"> 05/25 15:17
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="vbZa0Ep"><a href="//imgur.com/vbZa0Ep"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 要像李世石那樣神之一手不太可能了</span><span class="push-ipdatetime"> 05/25 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 聽說2.0打1.0的勝率高達100%。。</span><span class="push-ipdatetime"> 05/25 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">unter</span><span class="f3 push-content">: 阿狗吸收了李世石的經驗</span><span class="push-ipdatetime"> 05/25 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 其實他已經很強了，但新版阿法狗早就超過人類太多了…</span><span class="push-ipdatetime"> 05/25 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 他要是去年就跟阿法狗對拼也不會輸的這麼慘</span><span class="push-ipdatetime"> 05/25 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keelpie</span><span class="f3 push-content">: 幹，啊不是很嗆，看他崩潰哭哭就是爽啦</span><span class="push-ipdatetime"> 05/25 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LVE</span><span class="f3 push-content">: 不懂規則不要亂酸哦，中國人會生氣</span><span class="push-ipdatetime"> 05/25 15:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">benjamin1169</span><span class="f3 push-content">: 今天明明差點快贏了…</span><span class="push-ipdatetime"> 05/25 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AGODC</span><span class="f3 push-content">: 2.0讓1.0版3子還有7成勝率，柯被完敗是正常的</span><span class="push-ipdatetime"> 05/25 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">agow</span><span class="f3 push-content">: 肯定對圍棋沒有愛</span><span class="push-ipdatetime"> 05/25 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yudofu</span><span class="f3 push-content">: 沒得認輸的地方在笑別人認輸www</span><span class="push-ipdatetime"> 05/25 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadowppt</span><span class="f3 push-content">: 超嗆的阿，還不是輸，哈哈哈</span><span class="push-ipdatetime"> 05/25 16:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">passivity</span><span class="f3 push-content">: 李世石跟柯潔誰比較強啊？</span><span class="push-ipdatetime"> 05/25 16:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HNO3</span><span class="f3 push-content">: 幫人類QQ</span><span class="push-ipdatetime"> 05/25 16:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttfatman</span><span class="f3 push-content">: 柯潔真的很猛了 但是他又不是機器人 長時間維持最佳狀</span><span class="push-ipdatetime"> 05/25 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttfatman</span><span class="f3 push-content">: 態實在太難</span><span class="push-ipdatetime"> 05/25 16:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">libraghost</span><span class="f3 push-content">: 柯J很強了，只是阿法狗更厲害，輸了不意外</span><span class="push-ipdatetime"> 05/25 16:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">matrox323</span><span class="f3 push-content">: 李世石變成唯一打敗阿法狗的人類惹</span><span class="push-ipdatetime"> 05/25 16:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hdw</span><span class="f3 push-content">: 舊的阿法狗還是能把柯潔打成狗</span><span class="push-ipdatetime"> 05/25 17:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hdw</span><span class="f3 push-content">: 是說也要感謝柯潔願意出來被電啦!!!不然阿法狗很寂寞</span><span class="push-ipdatetime"> 05/25 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwejoezxc33</span><span class="f3 push-content">: 不是很會嗆 被打到哭</span><span class="push-ipdatetime"> 05/25 17:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jesuscries</span><span class="f3 push-content">: 柯師傅 別跟他拚棋 嘗試切他電源</span><span class="push-ipdatetime"> 05/25 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ak904</span><span class="f3 push-content">: 無聊，跟電腦比輸了很正常，沒必要那麼認真。</span><span class="push-ipdatetime"> 05/25 20:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">raikataiwan</span><span class="f3 push-content">: 起碼中國有人比，台灣?跑去當日本人了</span><span class="push-ipdatetime"> 05/25 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">btmep</span><span class="f3 push-content">: 我看不懂台灣哪時候跑去當日本人 台灣就是台灣人啊</span><span class="push-ipdatetime"> 05/25 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrLi</span><span class="f3 push-content">: 設計者不是每天都在跟電腦比嗎？</span><span class="push-ipdatetime"> 05/25 22:25
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495694484.A.F8E.html?cacheKey=2052-1238542&offset=9947&offset-sig=0fd0ad5ccd5763de5bf29bae6a21f9323c60ad2f" data-longpollurl="/v1/longpoll?id=506e4ac7cd5de7d58ae5545809f44c3a599f13f5" data-offset="9947"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,163 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495246460.A.604.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 陽大醫院2期擴建計畫送教育部 地方緊盯進 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+陽大醫院2期擴建計畫送教育部 地方緊盯進度
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 陽大醫院2期擴建計畫送教育部 地方緊盯進">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+陽大醫院2期擴建計畫送教育部 地方緊盯進度
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495246460.A.604.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495246460.A.604.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mitim (mitim)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 陽大醫院2期擴建計畫送教育部 地方緊盯進</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 10:14:17 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+陽大醫院2期擴建計畫送教育部 地方緊盯進度
+
+3.完整新聞內文:
+［記者林敬倫／宜蘭報導］宜蘭縣陽明大學附設醫院2期計畫，近期已送至教育部核定，
+立委陳歐珀表示，將在立院緊盯2期計畫相關審核的進度，但議員黃素琴指出，陽大2期計
+畫已提出，衛生局卻還未收到計畫內容，應該加強跟院方的溝通；衛生局回應，努力與陽
+大做好溝通。
+
+陽醫遷至蘭陽院區，行政院原核定49億元建院經費，並朝醫學中心規劃；2009年送交立法
+院審議時，卻遭國民黨團杯葛，預算被砍至20億元，影響建院計畫進行；此案攸關宜蘭人
+醫療權益，卻淪為選戰攻防議題，不管是立委、縣長、總統選舉都打得火熱；蔡英文曾到
+陽醫視察，承諾若當選總統「優先處理」。
+
+陽醫新院區1期工程完成，並於去年9月試營運，但2期擴建計畫還需29億元經費，林全去
+年10月參訪陽醫時承諾，經費將列入國家公共建設預算，全案只待陽醫提出完善的二期計
+畫就可推動，林全參訪後歷經半年時間，陽醫於8日將二期計畫案送至教育部審核。
+
+陳歐珀指出，去年11月及今年1月共召開2次跨部會會議，邀集行政院相關單位針對2期擴
+建工程共同討論，希望能真正符合地方需求，他期待2期擴建工程能夠有效率且符實際的
+即早動工，也會在立院緊盯相關審核的進度。
+
+但議員黃素琴指出，陽醫的2期計畫早已提出，衛生局卻說未收到通知，不知道計畫內容
+，這樣如何讓縣民明白該計畫是否真的符合地方需求，有處理急重難症的能力，衛生局應
+該加強與陽醫之間的溝通。
+
+宜蘭縣衛生局長劉建廷回應，陽醫在提出2期計畫的過程中，一直有派員與院方開會做溝
+通，堅持讓計畫更符合縣民的需要，現在計畫已送教育部，卻未收到院方通知，感到很可
+惜，未來會持續加強與院方的溝通平台。
+
+陽大醫院院長羅世薰表示，計畫已在教育部審核，如沒有問題，還要經過國發會衛福部正
+式核可，才會有接下來的行政程序，教育部核定後會將計畫送到地方機關，但如果縣府和
+議會有需要，還沒修訂以前就會先提供給大家。
+
+4.完整新聞連結 (或短網址):
+<a href="http://m.ltn.com.tw/news/life/breakingnews/2072979" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/life/breakingnews/2072979</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.138.160.211
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495246460.A.604.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495246460.A.604.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jaychou515</span><span class="f3 push-content">: 大什麼大</span><span class="push-ipdatetime"> 05/20 10:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 陽明大學有醫院喔？不是都用榮總？</span><span class="push-ipdatetime"> 05/20 10:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stock0907</span><span class="f3 push-content">: 陽巨大</span><span class="push-ipdatetime"> 05/20 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PaulPoPan</span><span class="f3 push-content">: 陽明不是偏藍？</span><span class="push-ipdatetime"> 05/20 11:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rifinah</span><span class="f3 push-content">: <a href="https://m.facebook.com/taiwanfugue/posts/169541505402" target="_blank" rel="nofollow">https://m.facebook.com/taiwanfugue/posts/169541505402</a></span><span class="push-ipdatetime"> 05/20 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rifinah</span><span class="f3 push-content">: 5061</span><span class="push-ipdatetime"> 05/20 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rifinah</span><span class="f3 push-content">: 很黑暗的</span><span class="push-ipdatetime"> 05/20 15:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495246460.A.604.html?cacheKey=2052-37392326&offset=2674&offset-sig=4ea6d8e7ae0e54f3d40947dff0b86e1d239dee0e" data-longpollurl="/v1/longpoll?id=c6723b22906d196f84256f9956775c759ac25a36" data-offset="2674"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,170 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495627431.A.B72.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 《FGO》改編電視動畫有譜？官方：目前已 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="《FGO》改編電視動畫有譜？官方：目前已經開始籌備中
+科技中心／綜合報導
+日前已於台灣地區上架的熱門手機遊戲《Fate/Grand Order》（中譯，命運/冠位指定，
+下稱 FGO），日本 SONY 今（5/24）日於 IR Day 2017 正式對外宣布將推出 FGO 動畫新
+作，並且同時宣佈目前已經進入籌備階段。然而官方並沒有明確表示本次推出的新作是否
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 《FGO》改編電視動畫有譜？官方：目前已">
+<meta property="og:description" content="《FGO》改編電視動畫有譜？官方：目前已經開始籌備中
+科技中心／綜合報導
+日前已於台灣地區上架的熱門手機遊戲《Fate/Grand Order》（中譯，命運/冠位指定，
+下稱 FGO），日本 SONY 今（5/24）日於 IR Day 2017 正式對外宣布將推出 FGO 動畫新
+作，並且同時宣佈目前已經進入籌備階段。然而官方並沒有明確表示本次推出的新作是否
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495627431.A.B72.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495627431.A.B72.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Kitakami (Producer)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 《FGO》改編電視動畫有譜？官方：目前已</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 20:03:47 2017</span></div>
+<span class="f3 hl">《FGO》改編電視動畫有譜？官方：目前已經開始籌備中</span>
+
+科技中心／綜合報導
+
+日前已於台灣地區上架的熱門手機遊戲《Fate/Grand Order》（中譯，命運/冠位指定，
+下稱 FGO），日本 SONY 今（5/24）日於 IR Day 2017 正式對外宣布將推出 FGO 動畫新
+作，並且同時宣佈目前已經進入籌備階段。然而官方並沒有明確表示本次推出的新作是否
+為電視動畫，亦或者是單一集數的特別篇動畫，不少網友紛紛表示希望這次推出的新作，
+能夠以電視動畫的形式來呈現。
+
+《Fate/Grand Order》是以日本 Fate 系列為基礎所開發的 RPG 手機遊戲，本作主要是由
+日本「TYPE-MOON」武内崇以及奈須磨菇為首的製作團隊所推出的作品，玩家必須在失去未
+來的世界裡化身為御主（Master），率領「英靈」回到過去展開探索聖杯之旅。遊戲目前
+已於日本、中國、台灣等地區上架，目前在日本已經累積達到 800 萬的下載量，每一次
+的轉蛋更新往往都是營收榜的常勝軍，是一款在玩家之間堪稱黑馬的話題手機遊戲，遊
+戲未來即將在美國地區推出。
+
+ETtoday
+<a href="http://game.ettoday.net/article/931094.htm" target="_blank" rel="nofollow">http://game.ettoday.net/article/931094.htm</a>
+
+------
+
+感謝各位課長們的支持與愛護
+
+讓本遊戲能夠發展成動畫化
+
+
+--
+
+        <span class="hl">天賦總是比經驗重要。因為當你得到經驗時，天賦已經沒了。</span>
+
+                                                           <span class="hl">-Pat Corrales</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.46.147.206
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495627431.A.B72.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495627431.A.B72.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">daniel0721</span><span class="f3 push-content">: 臭</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 穴穴各位課長</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: YA 還好我只有贊助大概十單而已</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PttXiangMing</span><span class="f3 push-content">: 盾子讚</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: 應該不算課金</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kl50365</span><span class="f3 push-content">: 感謝課長讓我們有遊戲玩有動畫看</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qw530817</span><span class="f3 push-content">: \跑車/\跑車/</span><span class="push-ipdatetime"> 05/24 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thundelet</span><span class="f3 push-content">: 感謝課長</span><span class="push-ipdatetime"> 05/24 20:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwvvkai</span><span class="f3 push-content">: 臭</span><span class="push-ipdatetime"> 05/24 20:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LANJAY</span><span class="f3 push-content">: 今年一定島</span><span class="push-ipdatetime"> 05/24 20:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 肛學妹</span><span class="push-ipdatetime"> 05/24 20:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HAmakers</span><span class="f3 push-content">: 六七終快動畫化</span><span class="push-ipdatetime"> 05/24 20:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bdbpzcatqpq</span><span class="f3 push-content">: 抽到B叔+貞德 爽</span><span class="push-ipdatetime"> 05/24 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 感謝課長</span><span class="push-ipdatetime"> 05/24 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willy4409</span><span class="f3 push-content">: 既然最後是便當結局，那找虛淵來寫是一定要的。</span><span class="push-ipdatetime"> 05/24 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sougetu</span><span class="f3 push-content">: 還在虛淵，笑了</span><span class="push-ipdatetime"> 05/24 20:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">grandwar</span><span class="f3 push-content">: 老實講這部很莫名其妙就是了</span><span class="push-ipdatetime"> 05/24 20:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">grandwar</span><span class="f3 push-content">: 很明顯吃老本的一代</span><span class="push-ipdatetime"> 05/24 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 謝謝大大讓我有卡通看^^</span><span class="push-ipdatetime"> 05/24 20:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dinex</span><span class="f3 push-content">: 貞德在我床上</span><span class="push-ipdatetime"> 05/24 20:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ionchips</span><span class="f3 push-content">: 幹    我要孔明啦555555</span><span class="push-ipdatetime"> 05/24 21:17
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495627431.A.B72.html?cacheKey=2052-1013261&offset=3515&offset-sig=453f52a6bc4e0ab44ef81b1347f8c3863c7f03a5" data-longpollurl="/v1/longpoll?id=87626fb57e5d9784db49a4aca649bea047204080" data-offset="3515"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

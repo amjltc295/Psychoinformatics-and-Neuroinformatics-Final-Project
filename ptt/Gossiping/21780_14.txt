@@ -1,0 +1,143 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496127392.A.2C8.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] usb3.1隨身碟很貴 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="各位鄉民大家好 今天我手機有需求去網購找usb3.1隨身碟
+結果 價格如 https://goo.gl/YcJM6B 所示
+回到正題 一般來說 64gb隨身碟 500-600左右就有了
+但是 usb3.1的隨身碟卻如此的貴 就只有多了雙頭頭而已阿
+而且網路上是已經打折的了 原價2000的 3000的都有
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] usb3.1隨身碟很貴">
+<meta property="og:description" content="各位鄉民大家好 今天我手機有需求去網購找usb3.1隨身碟
+結果 價格如 https://goo.gl/YcJM6B 所示
+回到正題 一般來說 64gb隨身碟 500-600左右就有了
+但是 usb3.1的隨身碟卻如此的貴 就只有多了雙頭頭而已阿
+而且網路上是已經打折的了 原價2000的 3000的都有
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496127392.A.2C8.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496127392.A.2C8.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">chamge7788 (經濟王7887)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] usb3.1隨身碟很貴</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 14:56:29 2017</span></div>
+各位鄉民大家好 今天我手機有需求去網購找usb3.1隨身碟
+
+結果 價格如 <a href="https://goo.gl/YcJM6B" target="_blank" rel="nofollow">https://goo.gl/YcJM6B</a> 所示
+
+回到正題 一般來說 64gb隨身碟 500-600左右就有了
+
+但是 usb3.1的隨身碟卻如此的貴 就只有多了雙頭頭而已阿
+
+而且網路上是已經打折的了 原價2000的 3000的都有
+
+而且64gb容量又不大 這樣會不會太跨張了嗎?
+
+有沒有usb3.1隨身碟很貴的掛? 本魯沒錢 只好乖乖買迷你隨身碟
+
+比較便宜
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.198.94
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496127392.A.2C8.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496127392.A.2C8.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: xp 能支援usb3.1嗎</span><span class="push-ipdatetime"> 05/30 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">manlike</span><span class="f3 push-content">: 就那個頭很貴 以後大家都會做殺價競爭就會便宜了</span><span class="push-ipdatetime"> 05/30 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j8866yanzi</span><span class="f3 push-content">: 只是個小隨身碟而已 3.0跟3.1有差嗎</span><span class="push-ipdatetime"> 05/30 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">j8866yanzi</span><span class="f3 push-content">: 他貴只是貴在蘋果那個頭而已 而且蘋果裝隨身碟超難用</span><span class="push-ipdatetime"> 05/30 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">j8866yanzi</span><span class="f3 push-content">: 安卓的OTG隨身碟便宜多了 你用蘋果就是要多一倍價格</span><span class="push-ipdatetime"> 05/30 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hanchueh</span><span class="f3 push-content">: 美國我買256的也才$20鎂 64就要500台幣?</span><span class="push-ipdatetime"> 05/30 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack168168tw</span><span class="f3 push-content">: 雙頭是指OTG?</span><span class="push-ipdatetime"> 05/30 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">showhere</span><span class="f3 push-content">: 去查一下兩個速度就知道答案</span><span class="push-ipdatetime"> 05/30 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDDDDDDDD</span><span class="f3 push-content">: books本來就很貴</span><span class="push-ipdatetime"> 05/30 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">force5566</span><span class="f3 push-content">: 是貴在那個蘋果頭</span><span class="push-ipdatetime"> 05/30 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kennyf506</span><span class="f3 push-content">: 3.1不是也有type-B樓上低能？</span><span class="push-ipdatetime"> 05/30 15:47
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496127392.A.2C8.html?cacheKey=2052-2438883&offset=1710&offset-sig=ba33c0f78db2e854bfb7142c640c3abe0862409a" data-longpollurl="/v1/longpoll?id=b48ba5c98b824c4af7230360c0f4936e83bee94a" data-offset="1710"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,169 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495523455.A.34C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 阿法狗又贏啦! - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="剛剛看完小柯略輸阿法狗
+圍棋好奇怪的遊戲喔
+先下的黑占優勢
+後下的白吃虧
+所以白色最後可以+個幾目
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 阿法狗又贏啦!">
+<meta property="og:description" content="剛剛看完小柯略輸阿法狗
+圍棋好奇怪的遊戲喔
+先下的黑占優勢
+後下的白吃虧
+所以白色最後可以+個幾目
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495523455.A.34C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495523455.A.34C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">sincossincos (三角/_\)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 阿法狗又贏啦!</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 15:10:52 2017</span></div>
+剛剛看完小柯略輸阿法狗
+
+圍棋好奇怪的遊戲喔
+先下的黑占優勢
+後下的白吃虧
+所以白色最後可以+個幾目
+聽說是6目半，棋靈王是5目半
+那麼這6目半又是怎麼算出來
+貼6目半就是公平嗎??
+好奇怪好奇怪啊~~~
+
+
+
+
+<span class="f2">※ 引述《bxdfhbh (bxdfhbh)》之銘言：
+</span><span class="f6">: : → shi0520: 李世石還贏過 等柯傑贏了再來嘴吧                        05/23 14:59
+</span><span class="f6">: 這一次的狗遠遠強過上一次的狗。
+</span><span class="f6">: 上一次人類輸的四盤，都毫無還手之力。贏的那一盤也只是靠莫名其妙的神之一手贏的，
+</span><span class="f6">: 偶然性很大。
+</span><span class="f6">: 這一次人類和狗有來有往，殺得勢均力敵，最後人類以1/4子的微弱劣勢輸掉。
+</span><span class="f6">: 因此，這一次的人類棋力遠超過上一次的人類。
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.25.89.40
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495523455.A.34C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495523455.A.34C.html</a>
+</span><span class="f2">※ 編輯: sincossincos (114.25.89.40), 05/23/2017 15:11:30
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: ....</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kasion</span><span class="f3 push-content">: ......</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">COTOYO</span><span class="f3 push-content">: 改了好幾次囉</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">caesst85149</span><span class="f3 push-content">: 統計許多棋局黑贏幾目不就知道了</span><span class="push-ipdatetime"> 05/23 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bxdfhbh</span><span class="f3 push-content">: 是貼7目半。</span><span class="push-ipdatetime"> 05/23 15:13
+</span></div>貼目都改來改去...這樣有公平嗎??
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b87088</span><span class="f3 push-content">: 是以職業棋手勝率來算執黑跟白，貼6.5目勝率接近50趴</span><span class="push-ipdatetime"> 05/23 15:13
+</span></div><span class="f2">※ 編輯: sincossincos (114.25.89.40), 05/23/2017 15:14:27
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bxdfhbh</span><span class="f3 push-content">: 日韓規則是6目半。</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lookatme921</span><span class="f3 push-content">: 我都貼八目七</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 你貼目的條件不同 輸入進去後阿法狗的下法也就不同了</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b87088</span><span class="f3 push-content">: 但是職業棋力變強所以變成7目半會勝率接近50，可是7目半</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">togobo9411</span><span class="f3 push-content">: 台灣現在就是7目半</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b87088</span><span class="f3 push-content">: 現在是白棋勝率高</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 改貼目就是為了追求公平啊= =</span><span class="push-ipdatetime"> 05/23 15:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siangkeith</span><span class="f3 push-content">: 所以 圍棋是公平的嗎？</span><span class="push-ipdatetime"> 05/23 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b10485762000</span><span class="f3 push-content">: 中國改7目半很久了吧</span><span class="push-ipdatetime"> 05/23 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bxdfhbh</span><span class="f3 push-content">: 日本最早是5目半，2003年向韓國統一，改為6目半。</span><span class="push-ipdatetime"> 05/23 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 你不貼目就是當年本因坊秀策執黑無敗啊</span><span class="push-ipdatetime"> 05/23 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 之後才為了公平不斷調整貼目數</span><span class="push-ipdatetime"> 05/23 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 等AG強到一種程度到時候,叫它不貼目來下啊</span><span class="push-ipdatetime"> 05/23 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">COTOYO</span><span class="f3 push-content">: 設計有缺陷</span><span class="push-ipdatetime"> 05/23 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gomi</span><span class="f3 push-content">: 回合制的遊戲</span><span class="push-ipdatetime"> 05/23 15:20
+</span></div>恩...回合制的話 應該可以公平一點
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bxdfhbh</span><span class="f3 push-content">: 日本統計過，貼6目半時，在正賽中白棋勝率52%，現在是持</span><span class="push-ipdatetime"> 05/23 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bxdfhbh</span><span class="f3 push-content">: 白有優勢，大部分人想持白。</span><span class="push-ipdatetime"> 05/23 15:22
+</span></div><span class="f2">※ 編輯: sincossincos (114.25.89.40), 05/23/2017 15:23:55
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 贏得剛剛好才厲害</span><span class="push-ipdatetime"> 05/23 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jacvky</span><span class="f3 push-content">: 白棋優勢是哪來的胡說八道= = <a href="https://goo.gl/6wzYNh" target="_blank" rel="nofollow">https://goo.gl/6wzYNh</a></span><span class="push-ipdatetime"> 05/23 15:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jacvky</span><span class="f3 push-content">: 即使是貼7目半，黑還是有優勢..</span><span class="push-ipdatetime"> 05/23 15:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495523455.A.34C.html?cacheKey=2052-38377910&offset=3681&offset-sig=c24163c8b9fc3ff726ef201d4411b8a17eba39b2" data-longpollurl="/v1/longpoll?id=5fc9882f8c4f339fec27745d9774bed666f0a0a9" data-offset="3681"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

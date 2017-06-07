@@ -1,0 +1,307 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496425144.A.771.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有沒有&#34;精神病患強制住院&#34;法條的八卦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="大家好
+我想問一下大家對於&#34;精神病患強制住院&#34;的條件的看法
+我家人有精神病，但受限於&#34;嚴重病人(有自傷或傷人行為)&#34;才可以強制住院的定義
+使得我跟我家人每天過的水深火熱
+(我在精神版有PO文，有興趣的可以去看看)
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有沒有&#34;精神病患強制住院&#34;法條的八卦">
+<meta property="og:description" content="大家好
+我想問一下大家對於&#34;精神病患強制住院&#34;的條件的看法
+我家人有精神病，但受限於&#34;嚴重病人(有自傷或傷人行為)&#34;才可以強制住院的定義
+使得我跟我家人每天過的水深火熱
+(我在精神版有PO文，有興趣的可以去看看)
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496425144.A.771.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496425144.A.771.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">x82421 (史小奇)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有沒有&#34;精神病患強制住院&#34;法條的八卦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 01:39:01 2017</span></div>
+
+大家好
+
+我想問一下大家對於&#34;精神病患強制住院&#34;的條件的看法
+
+我家人有精神病，但受限於&#34;嚴重病人(有自傷或傷人行為)&#34;才可以強制住院的定義
+
+使得我跟我家人每天過的水深火熱
+
+(我在精神版有PO文，有興趣的可以去看看)
+
+若不是強制住院，則需病患&#34;親自&#34;簽下同意住院書才可住院
+
+否則醫生也不敢留病患在醫院裡面
+
+
+
+我想說的是
+
+精神病患通常病識感薄弱
+
+他們通常不認為自己有病
+
+而要讓他們覺得自己有病更是難上加難
+
+他們不覺得自己有病的情況下，更不可能簽署同意住院書了
+
+也就是這樣
+
+我看過太多家屬的文章了，但是他們無能為力。
+
+也看過一些文獻說精神病患被家人遺棄，成為流浪漢，永遠沒有控制住的可能。
+
+
+
+我在精神版發文問過了
+
+有些人認為這樣訂法是為了病患的&#34;尊嚴&#34;
+
+但是我真的覺得&#34;尊嚴&#34;跟&#34;健康安定的人生&#34;來比較，根本小巫見大巫
+
+就好比我得了痔瘡，就為了尊嚴而不去看醫生
+
+這樣合理嗎
+
+
+
+生病就要看醫生不是常理嗎
+
+今天這樣制定法律是要我們家屬自己處理精神病患嗎?
+
+還有人說:等你得了精神病被關看看就知道...
+
+那社會要精神科醫生幹嘛?要精神病房幹嘛?
+
+我知道把家人關進去不好
+
+但是不關進去，社會太多刺激她只會越來越嚴重...
+
+還是法律要我們遺棄家屬，讓她們流浪，這樣比較高大上嗎..社會會比較安定嗎..
+
+還有一些病患說病患的痛苦是我們正常人無法體會的
+
+請問誰能體會家屬的痛苦?
+
+
+
+語畢
+
+我強烈建議修法
+
+至少醫生認定他生病就該讓他就醫了，而不是等到真的殺了人了才讓他就醫
+
+希望大家能幫我高調...唉
+
+我真的活的很痛苦
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.175.244.249
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496425144.A.771.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496425144.A.771.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 想想若你只是討人厭，結果就被家人親戚串通送醫怎麼辦。</span><span class="push-ipdatetime"> 06/03 01:40
+</span></div>精神醫師要認定阿..
+我說了精神醫師認定才可以..
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #所以有沒有暴力傾向嘛</span><span class="push-ipdatetime"> 06/03 01:40
+</span></div>如果有暴力傾向我可以直接送他強制住院了
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windgaia</span><span class="f3 push-content">: 是你的家人吧 說得好像是陌生人一樣 把精神病關進去了</span><span class="push-ipdatetime"> 06/03 01:41
+</span></div>我上面有說阿 是我家人生病了
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 因為精神病又沒有儀器可以測出客觀數值</span><span class="push-ipdatetime"> 06/03 01:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windgaia</span><span class="f3 push-content">: 剩下就是台灣最美麗的風景</span><span class="push-ipdatetime"> 06/03 01:41
+</span></div><span class="f2">※ 編輯: x82421 (1.175.244.249), 06/03/2017 01:45:37
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 應該不只是尊嚴問題吧...</span><span class="push-ipdatetime"> 06/03 01:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 我和網友筆戰時，都有網友罵我是精神病了...</span><span class="push-ipdatetime"> 06/03 01:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 在共產國家就發生過把政敵關進精神病院的事...</span><span class="push-ipdatetime"> 06/03 01:47
+</span></div>今天我們不再共產國家
+何況我家人都拿到精神障礙手冊了，我們依舊拿他沒轍
+因為就是這條(自傷或傷人)才可以強制住院這回事
+搞得我們一個頭兩個大
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uack73907</span><span class="f3 push-content">: 精神病最難搞 辛苦了</span><span class="push-ipdatetime"> 06/03 01:47
+</span></div><span class="f2">※ 編輯: x82421 (1.175.244.249), 06/03/2017 01:49:44
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: 補個血，醫事人員也受這個法條限制，只要病患表示自己不</span><span class="push-ipdatetime"> 06/03 01:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: 適合強制住院，就不能強迫病患住院治療。醫事人員也表示</span><span class="push-ipdatetime"> 06/03 01:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: 這樣很難持續進行治療，無助於病情。應該讓醫事人員有條</span><span class="push-ipdatetime"> 06/03 01:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: 件擁有強制治療權力，而不是病患（或僅是疑似病例）說了</span><span class="push-ipdatetime"> 06/03 01:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siahlin</span><span class="f3 push-content">: 辛苦了 看有沒有辦法穩定服藥  藥先穩了會好一點</span><span class="push-ipdatetime"> 06/03 01:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyverns</span><span class="f3 push-content">: 算。這法條應該是為了避免陷害情事，但是太過了。</span><span class="push-ipdatetime"> 06/03 01:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windgaia</span><span class="f3 push-content">: 很多時候 得到精神病是因家人無法給予心靈上強力的支持</span><span class="push-ipdatetime"> 06/03 01:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ToToRoTW</span><span class="f3 push-content">: 在20世紀同性戀也是精神病啊，精神病理學=哲學</span><span class="push-ipdatetime"> 06/03 01:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doluir</span><span class="f3 push-content">: 唉......辛苦了，精神病真的很無奈</span><span class="push-ipdatetime"> 06/03 01:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiuyeah</span><span class="f3 push-content">: 你會被說歧視，垃圾立委會說要專重</span><span class="push-ipdatetime"> 06/03 01:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 要去限制人身自由的措施本來就需要比較嚴格</span><span class="push-ipdatetime"> 06/03 01:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meimei5555</span><span class="f3 push-content">: 要加油!你們辛苦了！</span><span class="push-ipdatetime"> 06/03 01:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louis10452</span><span class="f3 push-content">: 回你了</span><span class="push-ipdatetime"> 06/03 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 你法條41要不要看清楚!???? 你確定你有看過法條??</span><span class="push-ipdatetime"> 06/03 02:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">collet</span><span class="f3 push-content">: 傷人後強制就醫有效嗎？還不是放出來趴趴走</span><span class="push-ipdatetime"> 06/03 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 強制送醫的法條已經很健全了 根本不是本人決定就最大</span><span class="push-ipdatetime"> 06/03 02:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 有主管機關 醫師 鑑定委員會 到法官同意執行全寫在裡面</span><span class="push-ipdatetime"> 06/03 02:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 用過這條的那位縣市長就被外人批評到滿頭包 但不是法條沒有</span><span class="push-ipdatetime"> 06/03 02:08
+</span></div>
+法條41:嚴重病人有傷害他人或自己或有傷害之虞，但其拒絕接受全日住院治療時，衛生局得指定
+精神醫療機構予以緊急安置，並由二位專科醫師進行強制鑑定。鑑定結果若仍有全日住院
+治療必要，經詢問嚴重病人意見，仍拒絕接受或無法表達時，指定精神醫療機構將填具強
+制住院基本資料表及通報表，並檢附嚴重病人及其保護人之意見及相關診斷證明文件，向
+審查會申請許可強制住院。審查會則應將強制住 院可否之決定，送達嚴重病人及其保護
+人。
+
+今天我的家人就是沒有自傷或傷人 所以我們無法將他強制送醫
+他也不是所謂的嚴重病人
+您覺得我能怎麼做? 放任他繼續這樣嗎?
+
+精神病患一般沒有自己生活的能力
+難道要我家人養他一輩子嗎?
+就是因為法條，我們才無法將他送醫
+
+警察來我家好多次了
+因為他常跟其他家人吵架 他就會叫警察
+警察都知道他是精神病患了
+但是警察也說他沒辦法 除非他有自傷或傷人 不然他也不能對他怎麼樣
+
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinomon</span><span class="f3 push-content">: 遺棄</span><span class="push-ipdatetime"> 06/03 02:12
+</span></div><span class="f2">※ 編輯: x82421 (1.175.244.249), 06/03/2017 02:15:32
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tearoll</span><span class="f3 push-content">: 聽說平常可以和地區衛生所的公衛護士聯繫,留下記錄,會有</span><span class="push-ipdatetime"> 06/03 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tearoll</span><span class="f3 push-content">: 幫助;但我也是聽課程老師說的,自己沒有相關經驗。伊甸有</span><span class="push-ipdatetime"> 06/03 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tearoll</span><span class="f3 push-content">: 精神疾病照顧者專線,可以打去問問看建議。</span><span class="push-ipdatetime"> 06/03 02:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 我們不是共產國家...這事不是這麼絕對的</span><span class="push-ipdatetime"> 06/03 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 其實台灣的法律可以喬，應該說不是法條沒寫，是你不夠力</span><span class="push-ipdatetime"> 06/03 02:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 那你再看一下43寫什麼 另一個叫強制社區治療</span><span class="push-ipdatetime"> 06/03 02:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mupanda</span><span class="f3 push-content">: 醫院床位不足 沒有預算 社會習慣丟給家庭自行處理 超慘的</span><span class="push-ipdatetime"> 06/03 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 還是4幾我忘了 差不多的廢言內容 差在非嚴重病人</span><span class="push-ipdatetime"> 06/03 02:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilipilix</span><span class="f3 push-content">: 感覺得出你們負擔不小，抱歉無法給你實質的意見，</span><span class="push-ipdatetime"> 06/03 02:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cleopatre</span><span class="f3 push-content">: 我也很好奇這不合理點，前租屋處的鄰居也是精神病患，</span><span class="push-ipdatetime"> 06/03 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cleopatre</span><span class="f3 push-content">: 常常發作就來房門口堵我，或尾隨我出門，讓我不堪其擾</span><span class="push-ipdatetime"> 06/03 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cleopatre</span><span class="f3 push-content">: 。去報案，警方只說他又沒傷害你，無法可辦；鄰居的家</span><span class="push-ipdatetime"> 06/03 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pilipilix</span><span class="f3 push-content">: 但我想更動法條其實不容易，即便我們在這聲援你或許也</span><span class="push-ipdatetime"> 06/03 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cleopatre</span><span class="f3 push-content">: 人也說醫院不收。難道無關的鄰居跟路人，被精神病患騷</span><span class="push-ipdatetime"> 06/03 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cleopatre</span><span class="f3 push-content">: 擾就要吞下？</span><span class="push-ipdatetime"> 06/03 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pilipilix</span><span class="f3 push-content">: 對你的狀況改善不大。若能多取得些資訊，多獲取些資源</span><span class="push-ipdatetime"> 06/03 02:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wei115</span><span class="f3 push-content">: 精神病是定義出來的，按照那定義，你對病人沒有愛，說不定</span><span class="push-ipdatetime"> 06/03 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wei115</span><span class="f3 push-content">: 都算精神病</span><span class="push-ipdatetime"> 06/03 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pilipilix</span><span class="f3 push-content">: 讓你們的負擔可以減少一些是比較立即可以做的</span><span class="push-ipdatetime"> 06/03 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wei115</span><span class="f3 push-content">: 話說我記得裡面有一項好像是你家死人，然後你過幾天還在難</span><span class="push-ipdatetime"> 06/03 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wei115</span><span class="f3 push-content">: 過，你就有病</span><span class="push-ipdatetime"> 06/03 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rochar</span><span class="f3 push-content">: 教你一招，逼她生氣發瘋讓她情緒失控崩潰之後便可以趁機強</span><span class="push-ipdatetime"> 06/03 02:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rochar</span><span class="f3 push-content">: 制送她進去關了</span><span class="push-ipdatetime"> 06/03 02:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">musicclassPA</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 06/03 02:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t30604234</span><span class="f3 push-content">:  只能讓病患情緒穩定點，醫生開藥也會不吃...</span><span class="push-ipdatetime"> 06/03 03:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">evaji548</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 06/03 03:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YCLLZDBZM</span><span class="f3 push-content">: 覺得這塊一直沒有政治人物重視 。</span><span class="push-ipdatetime"> 06/03 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akay08</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 06/03 05:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clothk</span><span class="f3 push-content">: 推 精神病患家屬也是同樣需要精神上的小憩的</span><span class="push-ipdatetime"> 06/03 06:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rainbow5566</span><span class="f3 push-content">: 沒有暴力行為 的話  不能&#39;強制&#39;</span><span class="push-ipdatetime"> 06/03 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rainbow5566</span><span class="f3 push-content">: 只能用哄騙的</span><span class="push-ipdatetime"> 06/03 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zsquarez</span><span class="f3 push-content">: 我身邊有兩個身心疾病患者，一個重度失智症..很能理解你</span><span class="push-ipdatetime"> 06/03 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zsquarez</span><span class="f3 push-content">: 的無力感</span><span class="push-ipdatetime"> 06/03 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ioupoiu</span><span class="f3 push-content">: 甲甲會說歧視</span><span class="push-ipdatetime"> 06/03 09:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 很難定義精神病患需要強制住院的警戒線 因為很好被利用</span><span class="push-ipdatetime"> 06/03 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">b93510015</span><span class="f3 push-content">: 啊萬一被你誣陷為精神病其實是正常人怎麼辦?</span><span class="push-ipdatetime"> 06/03 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b93510015</span><span class="f3 push-content">: 醫院為了要賺錢採寬鬆認定的話，啊不是很容易就把人送</span><span class="push-ipdatetime"> 06/03 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b93510015</span><span class="f3 push-content">: 進去了。正常人在裡面關一關也會發瘋吧</span><span class="push-ipdatetime"> 06/03 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">b93510015</span><span class="f3 push-content">: 你是不是想把家人送進去然後可以賺一筆保險金?</span><span class="push-ipdatetime"> 06/03 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b93510015</span><span class="f3 push-content">: 我建議啦，你進去住個三個月，住的下去的話再來談</span><span class="push-ipdatetime"> 06/03 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b93510015</span><span class="f3 push-content">: 都不怕進去被虐待捏??</span><span class="push-ipdatetime"> 06/03 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pauljet</span><span class="f3 push-content">: 想想若你只是討人厭，結果就被家人親戚串通送醫怎麼辦+1</span><span class="push-ipdatetime"> 06/03 14:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 樓上表現得很到味耶 還不錯XDD 原po辛苦了 如果真的沒</span><span class="push-ipdatetime"> 06/03 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 辦法 與其自己也變成病人 不如趕快遠離吧</span><span class="push-ipdatetime"> 06/03 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 樓樓上</span><span class="push-ipdatetime"> 06/03 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jocelyndang</span><span class="f3 push-content">: 精神病百百種 你說哪種？不是每種都沒病識感</span><span class="push-ipdatetime"> 06/03 19:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poopllll</span><span class="f3 push-content">: 怎不是精神病範圍很廣包掛偷窺，強迫，暴露，的概尼噢</span><span class="push-ipdatetime"> 06/03 19:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poopllll</span><span class="f3 push-content">: 原po有必要說明要約束的是有錢的精神病患還是沒錢的噢</span><span class="push-ipdatetime"> 06/03 19:37
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496425144.A.771.html?cacheKey=2052-1824888&offset=10430&offset-sig=42d85d00c6b5a0a0221287d0371002808aaa60b2" data-longpollurl="/v1/longpoll?id=5f77a77a1957215b40e57e897138ea6cb2ac1403" data-offset="10430"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

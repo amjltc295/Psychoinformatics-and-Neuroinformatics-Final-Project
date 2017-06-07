@@ -1,0 +1,195 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496290062.A.25A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 青年低薪 科技部提解方 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="青年低薪 科技部提解方
+2017-06-01 11:53聯合報 記者林良齊╱即時報導
+近年來青年低薪的問題不斷被提起，科技部盼建立一個適合當代年輕人的創業環境，建構「
+有努力、就有機會」的氛圍，除了多個人才培育方案外、並規劃創投環境，並舉辦國際投資
+媒合會，讓優秀年輕團隊走上舞台，被國際創投看見。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 青年低薪 科技部提解方">
+<meta property="og:description" content="青年低薪 科技部提解方
+2017-06-01 11:53聯合報 記者林良齊╱即時報導
+近年來青年低薪的問題不斷被提起，科技部盼建立一個適合當代年輕人的創業環境，建構「
+有努力、就有機會」的氛圍，除了多個人才培育方案外、並規劃創投環境，並舉辦國際投資
+媒合會，讓優秀年輕團隊走上舞台，被國際創投看見。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496290062.A.25A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496290062.A.25A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">XXXXGGYY ((4X鮑))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 青年低薪 科技部提解方</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 12:07:38 2017</span></div>
+青年低薪 科技部提解方
+
+
+
+
+2017-06-01 11:53聯合報 記者林良齊╱即時報導
+
+
+近年來青年低薪的問題不斷被提起，科技部盼建立一個適合當代年輕人的創業環境，建構「
+有努力、就有機會」的氛圍，除了多個人才培育方案外、並規劃創投環境，並舉辦國際投資
+媒合會，讓優秀年輕團隊走上舞台，被國際創投看見。
+
+
+科技部長陳良基今天參與科技部及國發會共同舉辦的首屆「InnoVEX」國際投資媒合會，邀
+請來自各國的國際創投及台灣新創代表團隊交流，未來科技部也打算在1年舉辦至少3場的國
+際媒合會，希望把台灣打造成亞太新創投資熱區。
+
+
+科技部表示，近年來的低薪化、失望感，重重壓在年輕人身上，科技部有責任為青年建構「
+有努力、就有機會」的環境。陳良基說，為了達到目的，選送博士赴矽谷、人才回流列車、
+建置智慧自造者基地、國際媒合環境，明年起更透過<span class="f2 hl">前瞻基礎建設投入50億元</span>建置高速運算
+平台，希望讓台灣團隊被世界看見。
+
+
+
+
+<a href="https://udn.com/news/story/7269/2496709?from=udn-ch1_breaknews-1-0-news" target="_blank" rel="nofollow">https://udn.com/news/story/7269/2496709?from=udn-ch1_breaknews-1-0-news</a>
+
+
+
+
+--
+青年低薪  青年低薪  青年低薪  青年低薪  青年低薪  青年低薪  青年低薪
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.32.74
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496290062.A.25A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496290062.A.25A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 所以解方在哪?</span><span class="push-ipdatetime"> 06/01 12:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snowduke</span><span class="f3 push-content">:  解方就是&#34;沒有解方&#34;</span><span class="push-ipdatetime"> 06/01 12:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jack0204</span><span class="f3 push-content">: 所以花50億要跟AWS之類的對幹?</span><span class="push-ipdatetime"> 06/01 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">valentine122</span><span class="f3 push-content">: 蓋一堆捷運去鄉下叫解方?</span><span class="push-ipdatetime"> 06/01 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hpw841031</span><span class="f3 push-content">: 每次就一個&#34;基地&#34;然後別的就沒有了</span><span class="push-ipdatetime"> 06/01 12:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gogobar</span><span class="f3 push-content">: 文組表示：</span><span class="push-ipdatetime"> 06/01 12:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dly</span><span class="f3 push-content">: 解決方法:開更多的研討會，訂更多的便當，開更強的冷氣。</span><span class="push-ipdatetime"> 06/01 12:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 國庫沒錢了 50億元哪來？</span><span class="push-ipdatetime"> 06/01 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 算了啦</span><span class="push-ipdatetime"> 06/01 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bkyu</span><span class="f3 push-content">: 三民主義是計算供給需求的， 以前供給少=薪水高</span><span class="push-ipdatetime"> 06/01 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 文組去學寫程式 乾脆強制所有人唸理組 尤其工科不是比較快</span><span class="push-ipdatetime"> 06/01 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bkyu</span><span class="f3 push-content">: 三民主義的 供給需求控制， 才是正解</span><span class="push-ipdatetime"> 06/01 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 薪資透明化就好了吧</span><span class="push-ipdatetime"> 06/01 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ntusimmon</span><span class="f3 push-content">: 說個笑話 空心蔡執政 台灣會好</span><span class="push-ipdatetime"> 06/01 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: [新聞] 薪資面議不合理！ 藍委提案重罰雇主150萬</span><span class="push-ipdatetime"> 06/01 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">FK56</span><span class="f3 push-content">: 50億拿來當勞檢檢舉獎金，秒解</span><span class="push-ipdatetime"> 06/01 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">:  [新聞] 藍委提開放公務員兼職 綠委:薪水並無不夠</span><span class="push-ipdatetime"> 06/01 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 全部都去輪班就好啦</span><span class="push-ipdatetime"> 06/01 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">orange7</span><span class="f3 push-content">: 50億蓋一個不知所謂的建築，真棒啊</span><span class="push-ipdatetime"> 06/01 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 公務員2Xk的薪水夠用 怎麼大學畢業28k叫低薪</span><span class="push-ipdatetime"> 06/01 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 拿台灣22k在中國大陸，哇賽，中高薪資，還可以玩他們大陸</span><span class="push-ipdatetime"> 06/01 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 女人。懂?</span><span class="push-ipdatetime"> 06/01 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 文章說的很清楚啊，送去矽谷，就是送出國嘍，當然貴族專</span><span class="push-ipdatetime"> 06/01 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 屬啦</span><span class="push-ipdatetime"> 06/01 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: c大 因為他們不是一般人啊 要刻苦耐勞又耐罵</span><span class="push-ipdatetime"> 06/01 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CenaC</span><span class="f3 push-content">: 解方：投入50億？</span><span class="push-ipdatetime"> 06/01 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 不過這類新聞不都人力銀行最愛發的嗎？科科奴隸銀行</span><span class="push-ipdatetime"> 06/01 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ykee</span><span class="f3 push-content">: 22k夠了太高了 軍公教也是一直在砍符合潮流</span><span class="push-ipdatetime"> 06/01 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 與科技業比 軍公教待遇低到像羞辱 科技業也該22K 共體時艱</span><span class="push-ipdatetime"> 06/01 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">boss88893</span><span class="f3 push-content">: 台灣老闆做生意都是要穩賺不賠Der 懂？</span><span class="push-ipdatetime"> 06/01 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loby1234</span><span class="f3 push-content">: 先把薪資用面議給取消吧！</span><span class="push-ipdatetime"> 06/01 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AAQQUUAA</span><span class="f3 push-content">: 陳良基....只管KPI 不管KPI本身有沒有意義的老人</span><span class="push-ipdatetime"> 06/01 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">machiusheng</span><span class="f3 push-content">: 不能隨便加薪</span><span class="push-ipdatetime"> 06/01 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">denyy555</span><span class="f3 push-content">: 騙錢俱樂部</span><span class="push-ipdatetime"> 06/01 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ifay</span><span class="f3 push-content">: 取消分紅費用化就解決啦</span><span class="push-ipdatetime"> 06/01 12:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 科技只會更低薪</span><span class="push-ipdatetime"> 06/01 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gong0304</span><span class="f3 push-content">: 50億好多，8800億好少……</span><span class="push-ipdatetime"> 06/01 12:34
+</span></div><span class="f2">※ </span><span class="f2 hl">jason0512</span><span class="f2">:轉錄至看板 Tech_Job</span>                                   06/01 12:35
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kickflip</span><span class="f3 push-content">: 等解決了  你已經不是青年了</span><span class="push-ipdatetime"> 06/01 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 有努力、就有機會不就是翻版的沒有不景氣、只有不爭氣嘛</span><span class="push-ipdatetime"> 06/01 13:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 投入50億做個平台，顆顆錢誰拿去都不知道</span><span class="push-ipdatetime"> 06/01 13:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edward0811</span><span class="f3 push-content">: 50E其實很少買幾間豪宅就沒了</span><span class="push-ipdatetime"> 06/01 13:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edward0811</span><span class="f3 push-content">: 何時要真正照顧社會的方案?反毒100e科技部50e</span><span class="push-ipdatetime"> 06/01 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 蓋大樓買設備創造就業機會，然後.....就</span><span class="push-ipdatetime"> 06/01 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 沒有然後了</span><span class="push-ipdatetime"> 06/01 21:50
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496290062.A.25A.html?cacheKey=2052-11792589&offset=5751&offset-sig=0cbc80b04a37963bd16ced6bd17acf95d091e13c" data-longpollurl="/v1/longpoll?id=06c390565e28ca8856570b14e8f2ec3afd2fd7a1" data-offset="5751"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

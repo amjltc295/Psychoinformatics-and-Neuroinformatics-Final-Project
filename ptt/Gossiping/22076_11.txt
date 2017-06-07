@@ -1,0 +1,177 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496323149.A.5AE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 全面實名後還有隱私嗎？中國網民看「網路 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這寡人
+略知
+12
+眾大夫
+免禮
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 全面實名後還有隱私嗎？中國網民看「網路">
+<meta property="og:description" content="這寡人
+略知
+12
+眾大夫
+免禮
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496323149.A.5AE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496323149.A.5AE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">makinoyui (大商共主・仙劍哥)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 全面實名後還有隱私嗎？中國網民看「網路</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 21:19:07 2017</span></div>
+
+這寡人
+
+略知
+
+12
+
+眾大夫
+
+免禮
+
+賜坐
+
+孤
+
+覺der
+
+如果網路4實名制，realtw大夫就可以正大光明der接受表揚，促成台獨之鬥士最佳表率，
+多棒R
+
+大概4
+
+醬子
+
+o&#39;_&#39;o
+
+嘻嘻
+
+啾咪
+
+
+<span class="f2">※ 引述《realtw (realtw)》之銘言：
+</span><span class="f6">: 臺灣人還以為實名制=網上顯示網友真實信息
+</span><span class="f6">: 完全是沒搞清楚狀況
+</span><span class="f6">: 大陸在一些遊戲網站確實需要實名登記 避免未成年人登陸
+</span><span class="f6">: 或者需要實名註冊的網站 都衹是站方服務器保留 一般網友根本看不到網友的真實資料
+</span><span class="f6">: 比如淘寶 在註冊支付這塊確實要實名驗證
+</span><span class="f6">: 但無論是淘寶的賣家還是其他賣家 看到的都是昵稱 無法獲得網友的資料
+</span><span class="f6">: 不存在沒隱私的說法
+</span><span class="f6">: 有臺灣人問了
+</span><span class="f6">: 那把個人資料註冊時上交給站方 站方洩露網友資料怎麼辦
+</span><span class="f6">: 大陸已經注意到這個問題
+</span><span class="f6">: 今年立法禁止公司 網站 機構出賣 洩露個人資料
+</span><span class="f6">: 獲利超過500元就觸犯刑法
+</span><span class="f6">: 而臺灣 保護個人資料不被外賣根本連想都別想
+</span><span class="f6">: 臺灣人成天被一堆業務電話騷擾
+</span><span class="f6">: 拉保險的 幫炒作股票的 投資理財的 甚至電話詐騙的 總能準確找到目標客戶
+</span><span class="f6">: 都是因為各行各業都在出賣客戶資料賺錢
+</span><span class="f6">: 沒人在怕
+</span><span class="f6">: 事實上大陸網路在保護網友隱私方面 比臺灣強多了
+</span><span class="f6">: 臺灣這邊上網發個言 網路地址一清二楚的
+</span><span class="f6">: 然後一堆網友之間以此為談資攻擊對方開地圖炮
+</span><span class="f6">: 台灣對保護網友資料這方面遠比不上大陸
+</span><span class="f6">: 臺灣連下個emule和迅雷資源都經常會被逮
+</span><span class="f6">: 衹要警方想抓 沒有找不到的
+</span><span class="f6">: 也根本不是什麼匿名 就是徹徹底底的實名制
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.206.4.20
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496323149.A.5AE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496323149.A.5AE.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hushiang</span><span class="f3 push-content">: 你真的很無聊  連噓都不想噓你   哀</span><span class="push-ipdatetime"> 06/01 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Fugax</span><span class="f3 push-content">: 他們得到的獎賞將會是發配大沙漠。</span><span class="push-ipdatetime"> 06/01 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ihateants</span><span class="f3 push-content">: 媽的，夜夜笙歌連文筆都沒了，不忍噓</span><span class="push-ipdatetime"> 06/01 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dethklok</span><span class="f3 push-content">: ilyj2012,realtw 說共產黨也不能違背人民紀念64的意願啦</span><span class="push-ipdatetime"> 06/01 21:46
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496323149.A.5AE.html?cacheKey=2052-12459578&offset=1845&offset-sig=975a52ad1f12ac2d0fc79d08691e1db745feedd6" data-longpollurl="/v1/longpoll?id=e8a660ea7d7e7b95c3beda68da0c4ca68dc916d8" data-offset="1845"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

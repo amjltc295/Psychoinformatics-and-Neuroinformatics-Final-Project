@@ -1,0 +1,157 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495178268.A.E84.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 財部一定上訴 續徵求委託書 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="原文恕刪
+五月報稅季，大家應該對政府如何運用我們的稅金很有感
+順手幫大家算一下如果財政部在彰銀案要繼續上訴，大概要花多少錢
+如果財政部採取繼續上訴，首先要面對的就是高額的裁判費用
+由於台新金向財政部求償165億，去年一審結束後法院核定的訴訟費用約1.1億元
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 財部一定上訴 續徵求委託書">
+<meta property="og:description" content="原文恕刪
+五月報稅季，大家應該對政府如何運用我們的稅金很有感
+順手幫大家算一下如果財政部在彰銀案要繼續上訴，大概要花多少錢
+如果財政部採取繼續上訴，首先要面對的就是高額的裁判費用
+由於台新金向財政部求償165億，去年一審結束後法院核定的訴訟費用約1.1億元
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495178268.A.E84.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495178268.A.E84.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">banzai221 ()</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 財部一定上訴 續徵求委託書</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 15:17:46 2017</span></div>
+
+
+原文恕刪
+
+五月報稅季，大家應該對政府如何運用我們的稅金很有感
+
+順手幫大家算一下如果財政部在彰銀案要繼續上訴，大概要花多少錢
+
+
+如果財政部採取繼續上訴，首先要面對的就是高額的裁判費用
+
+由於台新金向財政部求償165億，去年一審結束後法院核定的訴訟費用約1.1億元
+
+法官判台新金與財政部各需負擔8分之7、8分之1的裁判費，也就是台新金要負擔9千多萬
+財政部負擔1千3百多萬
+
+但是如今二審結果出爐，法院判決對台新金有利
+
+根據高等法院的新聞稿：
+
+「第一審關於命財政部負擔訴訟費用部分，及第二審訴訟費用關於財政部上訴部分，均由
+台新金控負擔；<span class="f3 hl">第一審關於命台新金控負擔訴訟費用部分，及第二審訴訟費用關於
+</span><span class="f3 hl">台新金控上訴部分（除撤回部分外），均由財政部負擔二分之一，餘由台新金控負擔。」
+</span><span class="f3 hl">
+</span><span class="f3 hl">也就是說，原本一審台新金要負擔的部分9千多萬
+</span><span class="f3 hl">
+</span><span class="f3 hl">現在變成財政部現在要出一半就是將近5千萬</span>
+
+
+如果財政部不顧司法上的劣勢執意要繼續上訴的話，花費就不只是這樣囉wwwwww
+
+5千萬就這樣被財政部輕鬆燒掉，政府還要怪年輕人不買股票？
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.119.96.181
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495178268.A.E84.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495178268.A.E84.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 打完之後台新還有外資要告國際法庭</span><span class="push-ipdatetime"> 05/19 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 財政部這個上訴沒有什麼意義</span><span class="push-ipdatetime"> 05/19 15:19
+</span></div>新聞說許虞哲是少數不怕打官司的公務員，看來應該是會硬幹下去啊嘖嘖
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 2000萬</span><span class="push-ipdatetime"> 05/19 15:20
+</span></div><span class="f2">※ 編輯: banzai221 (140.119.96.181), 05/19/2017 15:27:05
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">play0517</span><span class="f3 push-content">: 無能政府 無力持家還敗家</span><span class="push-ipdatetime"> 05/19 15:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mitchku</span><span class="f3 push-content">: 一二審敗，三審會贏才有鬼，主張上訴那群官員通通要負責</span><span class="push-ipdatetime"> 05/19 15:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495178268.A.E84.html?cacheKey=2052-35470046&offset=1751&offset-sig=59d72e896d1b0c06b0385c504fd89d43df283a4b" data-longpollurl="/v1/longpoll?id=56cd261102c31eef3a55038e7ec83d4c34f85050" data-offset="1751"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

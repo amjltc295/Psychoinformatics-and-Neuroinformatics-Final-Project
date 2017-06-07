@@ -1,0 +1,213 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495888448.A.6A5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 這個時代要寫網頁到底有多硬? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="2017年  Web開發已經發展到一個硬到不行的地步了
+知識: HTTP協議, RESTful, 高併發, 多線程, 網路原理, 系統架構, load blance,
+      websocket, MVC (MVP, MVVM...)......
+資料庫: 關聯式資料庫, NoSql(mongo, redis...)
+開發流程概念: CI, TDD
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 這個時代要寫網頁到底有多硬?">
+<meta property="og:description" content="2017年  Web開發已經發展到一個硬到不行的地步了
+知識: HTTP協議, RESTful, 高併發, 多線程, 網路原理, 系統架構, load blance,
+      websocket, MVC (MVP, MVVM...)......
+資料庫: 關聯式資料庫, NoSql(mongo, redis...)
+開發流程概念: CI, TDD
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495888448.A.6A5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495888448.A.6A5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">needy (needy)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 這個時代要寫網頁到底有多硬?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 20:34:06 2017</span></div>
+
+
+
+2017年  Web開發已經發展到一個硬到不行的地步了
+
+
+
+
+知識: HTTP協議, RESTful, 高併發, 多線程, 網路原理, 系統架構, load blance,
+
+      websocket, MVC (MVP, MVVM...)......
+
+
+資料庫: 關聯式資料庫, NoSql(mongo, redis...)
+
+
+開發流程概念: CI, TDD
+
+
+語言: script(python), 靜態語言(java, kotlin), 萬能的javascript...
+
+
+平台或框架: nodejs, 後端框架(sprint, Django...等), 前端框架(Vue, React...)
+
+            bootstrap, sass, 測試框架(單元測試, 介面測試).....
+
+
+前端開發: web api, html/css, DOM原理, jquery, 瀏覽器兼容, SEO...
+
+
+工具鏈: 任務管理(gulp), 前端模塊加載(browserify), Package Manager(npm, yarn),
+
+        佈署工具,
+
+
+雜七雜八的東西: 代碼組織, 圖片壓縮, 伺服器配置, API設計, 網頁監測, 安全性......
+
+
+
+
+
+做了一陣子, 雖然薪水高, 但覺得心已累
+
+而且前端技術兩年翻新一次, 人生註定在追技術中度過
+
+
+
+以前都會酸同學去什麼台積電  根本用不到資工系的高級技術
+
+幹現在好羨慕在台積電的同學阿.........
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.9.164.180
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495888448.A.6A5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495888448.A.6A5.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infoman</span><span class="f3 push-content">: 薪水高就不准出來哭</span><span class="push-ipdatetime"> 05/27 20:34
+</span></div>
+在台積電的同學  大學的東西都忘光了
+
+coding技術只要大學畢業程度就行
+
+大多數時間在搞政治 喇賽開會
+
+下班就是真的下班(我們下班還要跟上腳步注意最新趨勢)
+
+薪水還比我高...  好羨慕阿........
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greentea1205</span><span class="f3 push-content">: 至少你有錢，賺夠了去追夢</span><span class="push-ipdatetime"> 05/27 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 來不及了</span><span class="push-ipdatetime"> 05/27 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QBey</span><span class="f3 push-content">: frontpage</span><span class="push-ipdatetime"> 05/27 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: &lt;h1&gt;hello world!&lt;/h1&gt;</span><span class="push-ipdatetime"> 05/27 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kawazakiz2</span><span class="f3 push-content">: 誰叫你不去巨匠，現在我賣雞排月入15萬</span><span class="push-ipdatetime"> 05/27 20:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LIONDODO</span><span class="f3 push-content">: 我逃惹，塊陶啊</span><span class="push-ipdatetime"> 05/27 20:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 所以很多像你一樣的人走來新創圈，還有機會的！</span><span class="push-ipdatetime"> 05/27 20:35
+</span></div><span class="f2">※ 編輯: needy (39.9.164.180), 05/27/2017 20:38:42
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YSJ543</span><span class="f3 push-content">: 中國這塊很夯阿 很多資工的來這撈</span><span class="push-ipdatetime"> 05/27 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ken1325</span><span class="f3 push-content">: 薪水哪裡高</span><span class="push-ipdatetime"> 05/27 20:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">postit</span><span class="f3 push-content">: 能寫那個的好厲害唷</span><span class="push-ipdatetime"> 05/27 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: 學了就會，底層的各種鄙視 web 開發。</span><span class="push-ipdatetime"> 05/27 20:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 你講的有一些是硬體層面的 寫網頁不用管</span><span class="push-ipdatetime"> 05/27 20:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 網頁寫的好可以破解論壇的權限ㄇ</span><span class="push-ipdatetime"> 05/27 20:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttworld</span><span class="f3 push-content">: 本來就是比賺錢過的爽，只看數字的挑磚塊砂石車司機兼</span><span class="push-ipdatetime"> 05/27 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttworld</span><span class="f3 push-content">: 職就好了。</span><span class="push-ipdatetime"> 05/27 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Raogo</span><span class="f3 push-content">: 薪水是真的很高啦，聽一個業界老師說過，一個案子千萬起跳</span><span class="push-ipdatetime"> 05/27 20:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cul287</span><span class="f3 push-content">: 會創fb專頁就好</span><span class="push-ipdatetime"> 05/27 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l711470</span><span class="f3 push-content">: 我只知道不要亂搜集個資外洩會被吉</span><span class="push-ipdatetime"> 05/27 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 寫前端的 入門真的越來越難...</span><span class="push-ipdatetime"> 05/27 21:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomo1026</span><span class="f3 push-content">: 技術越來越難 薪水越來越低啊</span><span class="push-ipdatetime"> 05/27 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithuang</span><span class="f3 push-content">: 曾志偉那麼高嗎？</span><span class="push-ipdatetime"> 05/27 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomo1026</span><span class="f3 push-content">: 想當年會個adp.net就跟神一樣</span><span class="push-ipdatetime"> 05/27 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomo1026</span><span class="f3 push-content">:    -&gt;asp.net</span><span class="push-ipdatetime"> 05/27 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hugog</span><span class="f3 push-content">: 慘的是薪水不一定高好嗎...</span><span class="push-ipdatetime"> 05/27 21:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">halfjustice</span><span class="f3 push-content">: 大概跟我LP一樣硬 &gt;\\\\\\\&lt;</span><span class="push-ipdatetime"> 05/27 21:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nova06091</span><span class="f3 push-content">: &lt;br&gt;&lt;be&gt;</span><span class="push-ipdatetime"> 05/27 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">geniushowie</span><span class="f3 push-content">: 現在公司還要求你要能維護php jsp perl cpp cgi</span><span class="push-ipdatetime"> 05/27 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geniushowie</span><span class="f3 push-content">: 然後同時要能用最新的技術開發新專案</span><span class="push-ipdatetime"> 05/27 21:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghmsxtwo</span><span class="f3 push-content">: <a href="http://i.imgur.com/0bWofS2.jpg" target="_blank" rel="nofollow">http://i.imgur.com/0bWofS2.jpg</a></span><span class="push-ipdatetime"> 05/27 21:43
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0bWofS2"><a href="//imgur.com/0bWofS2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a8989332</span><span class="f3 push-content">: 在台灣一堆要你一堆前後端整合 結果薪水不成比例 幹</span><span class="push-ipdatetime"> 05/27 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lavign</span><span class="f3 push-content">: 這叫Devops</span><span class="push-ipdatetime"> 05/28 08:50
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495888448.A.6A5.html?cacheKey=2052-2074788&offset=4624&offset-sig=f86aa0e436af574c60059115001fc88745d6ee9a" data-longpollurl="/v1/longpoll?id=32c293307c7e0445d860ee13b5e157dbfd0f76ec" data-offset="4624"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

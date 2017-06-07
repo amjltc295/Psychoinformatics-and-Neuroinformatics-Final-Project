@@ -1,0 +1,170 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494993886.A.10B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 「買不起股票可玩期貨」　網友：留條活 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="不曉得大家是沒玩過真不懂還是危言聳聽
+只知道期貨槓桿比股票大
+可是難道不知道還是有斷頭機制嗎
+就是有到期日不能擺長期
+不過就是個賺得快輸得快的商品罷了
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 「買不起股票可玩期貨」　網友：留條活">
+<meta property="og:description" content="不曉得大家是沒玩過真不懂還是危言聳聽
+只知道期貨槓桿比股票大
+可是難道不知道還是有斷頭機制嗎
+就是有到期日不能擺長期
+不過就是個賺得快輸得快的商品罷了
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494993886.A.10B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494993886.A.10B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">blackkeyss (Otter)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 「買不起股票可玩期貨」　網友：留條活</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 12:04:44 2017</span></div>
+不曉得大家是沒玩過真不懂還是危言聳聽
+只知道期貨槓桿比股票大
+可是難道不知道還是有斷頭機制嗎
+就是有到期日不能擺長期
+不過就是個賺得快輸得快的商品罷了
+
+
+<span class="f2">※ 引述《Joseph5566 (約瑟夫5566)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: 蘋果日報
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: 「買不起股票可玩期貨」　網友：留條活路行不行
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 金管會副主委鄭貞茂昨示警，年輕人不買股，是資本市場危機，在PTT上招來一片罵聲
+</span>，
+<span class="f6">: 群益期貨董事長孫天山出席同場論壇時幫忙緩頰，這可能是受低薪影響，但期貨市場進
+</span>入
+<span class="f6">: 門檻低，建議年輕人或許可參與期貨投資，一席話讓網友跪了，哀求前輩們留條活路行
+</span>不
+<span class="f6">: 行。
+</span><span class="f6">: 對孫天山的談話，網友在PTT發表心得：「這個論壇如果蔣幹有去，應該可以拿冠軍。
+</span>從
+<span class="f6">: 上到下，不只要把股民榨乾，還要弄成灰。」
+</span><span class="f6">: 許多網友呼應，「有必要這樣能撈則撈嗎？給年輕人一條活口吧！」、「玩期貨，真的
+</span>是
+<span class="f6">: 要把年輕人吃乾淨」、「真的是別人的囝死不完」、「可憐的台灣年輕人，22k努力存
+</span>了
+<span class="f6">: 10來萬，買到樂陞就歸零，連給年輕人存錢的機會都沒有，哀」。
+</span><span class="f6">: 還有網友狂酸：「新鮮人當然是直接簽現沖下去玩啊，直接500額度，2根漲停就一桶金
+</span>囉
+<span class="f6">: ！」其他網友幫腔，「恩恩 兩根跌停 就不見一桶金」、「年輕人空期貨會被軋爆」、
+</span>「
+<span class="f6">: 100個進去死80個，台灣出生率很低，別鬧了」、「看起來台灣根本是間大型恐怖旅舍
+</span>」
+<span class="f6">: 。（財經中心／綜合報導）
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="https://goo.gl/VCORi2" target="_blank" rel="nofollow">https://goo.gl/VCORi2</a>
+</span><span class="f6">: 5.備註:
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.217.197.196
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494993886.A.10B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494993886.A.10B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bob120400</span><span class="f3 push-content">: 那家賭場不用斷頭的</span><span class="push-ipdatetime"> 05/17 12:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 這叫賭博不叫投資</span><span class="push-ipdatetime"> 05/17 12:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 期貨本來就不是長期投資</span><span class="push-ipdatetime"> 05/17 12:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bearflu</span><span class="f3 push-content">: 轉倉阿</span><span class="push-ipdatetime"> 05/17 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NARUHOTO</span><span class="f3 push-content">: 其實想想…賭對發財 賭錯進棺材砍掉重練結束苦難的一生</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NARUHOTO</span><span class="f3 push-content">:  官員沒施鹽</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">walhalla</span><span class="f3 push-content">: 不懂也去咕狗一下好咩,契約到期有短有長還可以轉倉</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">walhalla</span><span class="f3 push-content">: 還有斷頭是財務槓桿太大,保證金不足被砍倉干到期啥事</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivla8432</span><span class="f3 push-content">: 好窩</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aalex1112</span><span class="f3 push-content">: 買 買 大家都來買 絕對不是胃炎慫痛喔^。&lt;</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tinlans</span><span class="f3 push-content">: 槓桿開多大是交易者自己決定的，隨便壓滿倉根本智障</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joan091355</span><span class="f3 push-content">: 願意承擔風險就嘗試投資高風險投資組合</span><span class="push-ipdatetime"> 05/17 12:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joan091355</span><span class="f3 push-content">: 我是不敢啦</span><span class="push-ipdatetime"> 05/17 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 要是能輕鬆安樂死 我就梭哈來玩看看</span><span class="push-ipdatetime"> 05/17 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">facts</span><span class="f3 push-content">: 就合法賭博啊</span><span class="push-ipdatetime"> 05/17 13:24
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494993886.A.10B.html?cacheKey=2052-41826841&offset=3020&offset-sig=e41b6d34fc288323fe4b64362fdfc5602fede53e" data-longpollurl="/v1/longpoll?id=4932550eb9742c74b12d19766fbb7fa0aa5ab311" data-offset="3020"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

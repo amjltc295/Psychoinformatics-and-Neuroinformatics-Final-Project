@@ -1,0 +1,211 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496381726.A.451.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 美退出巴黎氣候協定 馬斯克宣布不再任川 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="開發中國家的理由是，已開發國家之前也排了很多碳，來促進他們的發展
+這表示已開發國家目前的實力有部分是來自之前的碳排放
+而今天直接以同等標準限制開發中國家，是不公平的
+所以要以不同標準來對代不同國家才合理
+但問題是怎樣的差異才是合理？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 美退出巴黎氣候協定 馬斯克宣布不再任川">
+<meta property="og:description" content="開發中國家的理由是，已開發國家之前也排了很多碳，來促進他們的發展
+這表示已開發國家目前的實力有部分是來自之前的碳排放
+而今天直接以同等標準限制開發中國家，是不公平的
+所以要以不同標準來對代不同國家才合理
+但問題是怎樣的差異才是合理？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496381726.A.451.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496381726.A.451.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">linzero (【林】)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 美退出巴黎氣候協定 馬斯克宣布不再任川</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 13:35:23 2017</span></div>
+<span class="f2">※ 引述《ben1013 (二代龍)》之銘言：
+</span><span class="f6">: ※ 引述《angellll (長尾巴的天使)》之銘言：
+</span><span class="f6">: : 2.
+</span><span class="f6">: : <a href="http://imgur.com/a/RtdEd" target="_blank" rel="nofollow">http://imgur.com/a/RtdEd</a>
+</span><span class="f6">: : 這張圖表顯示 真正造成碳排放量上升的國家
+</span><span class="f6">: : 大家都知道是誰
+</span><span class="f6">: : 但是巴黎協議給中國13年的豁免權
+</span><span class="f6">: : 給印度可以加倍排放量
+</span><span class="f6">: : 這些協議造成對美國造成衝擊  會造成為了20年  兩百萬美國人失業
+</span><span class="f6">: : 這協議根本不會造成全球碳排放量下降
+</span><span class="f6">: : 反而是上升
+</span><span class="f6">: : 我會去協商一個對美國公平的協議
+</span><span class="f6">: 這是2013年簽的，本來就不可能馬上下降因為對於開發中的國家二氧化碳的排放量有一
+</span><span class="f6">: 個高峰期
+</span><span class="f6">: 中國二氧化碳排放將於2030年左右達到峰值並爭取儘早達峰，到2030年單位國內生產總
+</span><span class="f6">: 值二氧化碳排放比2005年下降60%到65%。巴西的目標是，溫室氣體排放量在2005年基礎
+</span><span class="f6">: 上，到2025年和2030年分別減少37%和43%。
+</span><span class="f6">: 原文網址：<a href="https://read01.com/0kNDmD.html" target="_blank" rel="nofollow">https://read01.com/0kNDmD.html</a>
+</span>開發中國家的理由是，已開發國家之前也排了很多碳，來促進他們的發展
+這表示已開發國家目前的實力有部分是來自之前的碳排放
+而今天直接以同等標準限制開發中國家，是不公平的
+所以要以不同標準來對代不同國家才合理
+
+但問題是怎樣的差異才是合理？
+
+簡單說國情不同
+甚至時勢不同
+現今某個國家，要怎樣限制才能合理的說公平？
+這個沒人能說出完全服眾的標準
+
+最終還是實力說話
+所以一開始就沒有所謂公平合理
+是有拳頭，之後才有所謂要公平合理的論述出現
+不是因為論述公平合理被採納
+而是鬥完後才找出個論述說它公平合理
+
+今天美國也只是舉著拳頭說：「今天我不玩了。」
+今天而已吧
+或許明天再說，或許明年，或許下一任總統
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.69.155
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496381726.A.451.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496381726.A.451.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 地球資源有限  先搶先贏</span><span class="push-ipdatetime"> 06/02 13:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 川普有可能成為美國史上第一位被開除的總統</span><span class="push-ipdatetime"> 06/02 13:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 傻逼才在那裏做環保</span><span class="push-ipdatetime"> 06/02 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 不必再等下一任.</span><span class="push-ipdatetime"> 06/02 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 您如果不是太空署的人..有可能沒辦法排隊去別的星</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 球...等於你的一切變成空白的</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 少騙我了 我早就加入友民黨了</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: ymuit 您這麼愛環保 知道財團掌權者就是用環保來奴役平民</span><span class="push-ipdatetime"> 06/02 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HamalAri</span><span class="f3 push-content">: &#34;不玩了&#34; 和 &#34;脫歐&#34; 一樣，不是立刻、馬上的過程</span><span class="push-ipdatetime"> 06/02 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 為其賣命嗎?? 環保只是商業噱頭  用來騙你的錢而已</span><span class="push-ipdatetime"> 06/02 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HamalAri</span><span class="f3 push-content">: 不玩就不玩。重點是走完真的不玩的這個過程真的要下一任</span><span class="push-ipdatetime"> 06/02 13:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 1%有錢人浪費超過50%資源  然後再來靠北50%平民不環保</span><span class="push-ipdatetime"> 06/02 13:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 真可憐的邏輯思維</span><span class="push-ipdatetime"> 06/02 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 這次和未來財團和平民的戰爭..不是嗎</span><span class="push-ipdatetime"> 06/02 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 如果沒了平民..財團剩下錢..卻沒有人才來幫忙賺錢 除非</span><span class="push-ipdatetime"> 06/02 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 研發機器人來取代..說來說去他們只要聽話不發意見的奴才</span><span class="push-ipdatetime"> 06/02 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 環保是自身開始做起..少用資源.拒買某些產品..這樣</span><span class="push-ipdatetime"> 06/02 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 讓財團無法賺錢不是嗎..你以為環保會出額外的產品來加價哄</span><span class="push-ipdatetime"> 06/02 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 然後你就啥都資源都沒有  廠廠</span><span class="push-ipdatetime"> 06/02 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 人去買...您應該想太多..</span><span class="push-ipdatetime"> 06/02 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 美國財團繼續爽用地球資源  要啥就是要自己搶  你不搶</span><span class="push-ipdatetime"> 06/02 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 美國人自然幫你用幫你浪費  所以我說傻逼才做環保</span><span class="push-ipdatetime"> 06/02 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 我從小決定當終生無車族，現在做到了平日坐路+搭公</span><span class="push-ipdatetime"> 06/02 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 車通勤..名下沒有車..您覺得如何</span><span class="push-ipdatetime"> 06/02 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 你在那邊自己山中修道者模式修半天 世上屠夫都殺多少人了</span><span class="push-ipdatetime"> 06/02 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 喔..原來是利用別人的行為來說服自己做一樣的事 才</span><span class="push-ipdatetime"> 06/02 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 因為你被美國洗腦  你就是只能過這樣的生活  最好跟非洲</span><span class="push-ipdatetime"> 06/02 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 能沒有罪惡感...好棒好棒!!</span><span class="push-ipdatetime"> 06/02 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 過差不多的原始生活  美國人繼續爽過他們的生活</span><span class="push-ipdatetime"> 06/02 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 原來你就是用我自己如何好清高好棒棒的方式  真有道德感</span><span class="push-ipdatetime"> 06/02 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cheng7</span><span class="f3 push-content">: 環保假議題無誤 伐林 土壤沙漠化 大量生產 剝削第三世界</span><span class="push-ipdatetime"> 06/02 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 美國 咦....川普是支持不環保..您弄錯了..罰你重讀川普的言</span><span class="push-ipdatetime"> 06/02 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cheng7</span><span class="f3 push-content">: 人權&amp;環保...別生育讓上層社會無人可奴才是正解 至於環保</span><span class="push-ipdatetime"> 06/02 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 論</span><span class="push-ipdatetime"> 06/02 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cheng7</span><span class="f3 push-content">:  別刻意浪費就好省也省不了多少</span><span class="push-ipdatetime"> 06/02 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 我意思原本就是 你自己省半天 結果美國在那爽 是有病嗎??</span><span class="push-ipdatetime"> 06/02 13:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 限制自己的經濟發展  讓自己苦哈哈  真是腦袋有洞</span><span class="push-ipdatetime"> 06/02 13:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 只能說自己做不到才眼紅或抱怨...說來說去無法解決</span><span class="push-ipdatetime"> 06/02 13:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 只能做到給下一代能繼續..除非您把懶砍斷不生</span><span class="push-ipdatetime"> 06/02 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 是是是  您說的都是</span><span class="push-ipdatetime"> 06/02 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 物種競爭到極致  就美國把資源花光  其他人活不下去</span><span class="push-ipdatetime"> 06/02 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 請問您的環保意義何在???</span><span class="push-ipdatetime"> 06/02 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 這樣更奇怪..光怪美國..中國呢...它的空污太嚴重 你怎麼不</span><span class="push-ipdatetime"> 06/02 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 批評中國人嗎...除非你的老闆是中國人吧</span><span class="push-ipdatetime"> 06/02 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 美國可以發展  中國就不能發展  他人多就是該死嗎???</span><span class="push-ipdatetime"> 06/02 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 那印度怎麼辦  他預計要排更多碳去發展耶</span><span class="push-ipdatetime"> 06/02 13:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 自己爽花資源  別人就不能花?? 有病嗎? 說好的人生平等呢</span><span class="push-ipdatetime"> 06/02 13:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 問你中國想奪台灣的理由..恐怕不是為國民黨..怎麼說留島不</span><span class="push-ipdatetime"> 06/02 14:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 什麼鬼跳針  =.=</span><span class="push-ipdatetime"> 06/02 14:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 人的豪言....因為台灣的資源和國庫才是他們想要</span><span class="push-ipdatetime"> 06/02 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: sali921 不好意思..你才是跳針之王..跳來跳去是一樣</span><span class="push-ipdatetime"> 06/02 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 您難怪恨自己為何不是川普富二代這種人可以佔有最多的資源</span><span class="push-ipdatetime"> 06/02 14:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 不是嗎</span><span class="push-ipdatetime"> 06/02 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rofellosx</span><span class="f3 push-content">: 伐林會沙漠化是可見的 不算假議題吧..</span><span class="push-ipdatetime"> 06/02 14:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DaGarn</span><span class="f3 push-content">: Ymuit真像左膠 佩服</span><span class="push-ipdatetime"> 06/03 12:14
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496381726.A.451.html?cacheKey=2052-1047043&offset=7168&offset-sig=e15c4a210835d6c84114150670ff4fa104a5dc75" data-longpollurl="/v1/longpoll?id=784e14b04ecf30de16b94251954da241a93e2a15" data-offset="7168"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

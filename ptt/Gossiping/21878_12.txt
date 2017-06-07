@@ -1,0 +1,179 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496197650.A.E54.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 趕鴨子上架…非法律人參與司改 自比像 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 聯合報
+2.完整新聞標題:
+※ 趕鴨子上架…非法律人參與司改 自比像「麻瓜」
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 趕鴨子上架…非法律人參與司改 自比像">
+<meta property="og:description" content="1.媒體來源:
+※ 聯合報
+2.完整新聞標題:
+※ 趕鴨子上架…非法律人參與司改 自比像「麻瓜」
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496197650.A.E54.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496197650.A.E54.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">asdf1256 (guest)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 趕鴨子上架…非法律人參與司改 自比像</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 10:27:27 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 聯合報</span>
+
+
+2.完整新聞標題:
+<span class="f2">※ 趕鴨子上架…非法律人參與司改 自比像「麻瓜」</span>
+
+
+3.完整新聞內文:
+
+司改國是會議半數由非法律人參與是一大特色，政府強調是帶入人民聲音，不過非法律人
+委員、Opendata計畫負責人張維志參與後形容，多數議題是法律人間彼此爭辯，「我們這
+些『麻瓜』就是在旁邊聽別人討論」，他坦言把「參與」想得太天真，「<span class="f3 hl">不是把一堆人放
+</span><span class="f3 hl">在一起，就會自然出現討論與對話</span>。」
+
+法律有高度專業性與難以跨越的門檻，第四分組委員張維志表示，為了「進入狀況」他買
+不少書研讀，也去找法律與司改的朋友和專家詢問學習，但仍對很多議題僅具非常粗淺認
+知，「我所知的就是別人要餵給我看的，根本沒有能力針對議題提出質疑和討論。」
+
+「<span class="f3 hl">我一點也不敢說非法律人有進入狀況！</span>」張維志說，過程中有看不完的資訊與文章、搞
+不清楚的程序與法令問題，例如法律人提案要修國賠法第十三條，因為有礙轉型正義，我
+一開始完全不知道原因，知道後提出新疑義，但卻好像「不用討論」，因為已有「共識」
+。
+
+「當對所有問題可能牽扯的利益關係人與其產生影響完全不清楚，也沒有相關驗證數據時
+，到底要做什麼決定？」張維志直言，「從頭到尾都是趕鴨子上架的處裡方式。」多數議
+題與問題都無法真正討論，很多看起來漂亮的提案，因提案人是專家，「我們其他人只能
+看著他的提案舉手支持。」
+
+當張維志提案欲建立「<span class="f3 hl">民眾可獲得律師市場資訊的公開管道</span>」，像「<span class="f3 hl">民眾找律師時，口袋
+</span><span class="f3 hl">可能要多少錢？</span>」應有一收費基準供參考，卻遭在場律師以尊重律師自治及收費隱私為由
+反對。最後決議<span class="f3 hl">由律師全聯會建置資訊公開系統</span>。
+
+找過半數非法律人參與，是希望帶來多元觀點與生活經驗，張維志贊同此觀點，但要讓不
+同領域的人可發揮所長，需要一個嚴謹的程序設計與輔助，可惜這這次會議中是缺乏的。
+
+第四分組委員、財團法人器官移殖捐贈登錄中心董事何錚錚表示，身為非法律人，對檢察
+官、法官原本不了解，因參加司改會議有機會接觸法律人，發現外界對他們「有誤解」，
+司法人員有自己的堅持與使命。
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/evcVhP" target="_blank" rel="nofollow">https://goo.gl/evcVhP</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.195.136.182
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496197650.A.E54.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496197650.A.E54.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 邱太三不要再躲了</span><span class="push-ipdatetime"> 05/31 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 法律本來就不是一般人可以懂吧，隔行如隔山</span><span class="push-ipdatetime"> 05/31 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 主召是學社會學的司改煙火 顆顆</span><span class="push-ipdatetime"> 05/31 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 賣菜的就懂賣魚的？</span><span class="push-ipdatetime"> 05/31 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 有蔡英文給你靠也沒用，有關說就快下台</span><span class="push-ipdatetime"> 05/31 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 司改就是穿褲子打手槍</span><span class="push-ipdatetime"> 05/31 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baiya</span><span class="f3 push-content">: 又再表達 法律人是神 別人都不能干涉的感覺</span><span class="push-ipdatetime"> 05/31 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">illreal</span><span class="f3 push-content">: 這麼講根本不對，行銷設計也會參與產品研發。</span><span class="push-ipdatetime"> 05/31 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 要改的不改，來開會的又沒決定權</span><span class="push-ipdatetime"> 05/31 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">illreal</span><span class="f3 push-content">: 溝通沒那麼簡單，不代表只能找用同一語言的人</span><span class="push-ipdatetime"> 05/31 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baiya</span><span class="f3 push-content">: 法律也是人定的拉 別講的只能給讀法律的人判</span><span class="push-ipdatetime"> 05/31 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 空心菜做事就是拖和開國事會議，結果都會冷掉</span><span class="push-ipdatetime"> 05/31 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 說個笑話 司改</span><span class="push-ipdatetime"> 05/31 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nojydia</span><span class="f3 push-content">: 一堆智障</span><span class="push-ipdatetime"> 05/31 10:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweetgold</span><span class="f3 push-content">: 律師收費最低就看地區跟公會阿，哪需要問</span><span class="push-ipdatetime"> 05/31 10:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chunkuihuang</span><span class="f3 push-content">: 法律人要真那麼神, 就不會搞到全民不相信司法</span><span class="push-ipdatetime"> 05/31 10:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elipeng</span><span class="f3 push-content">: 總之妳看看我們精美的立法委員</span><span class="push-ipdatetime"> 05/31 11:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 只是找你們來當看板而已 還真得以為自己有用喔</span><span class="push-ipdatetime"> 05/31 11:10
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496197650.A.E54.html?cacheKey=2052-2752723&offset=3880&offset-sig=e5b5ede9b8716888a64380fbdceba2e58a00ac02" data-longpollurl="/v1/longpoll?id=492641d7fcf34ceceb150212b2a4187e178722d0" data-offset="3880"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

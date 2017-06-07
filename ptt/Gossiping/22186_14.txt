@@ -1,0 +1,186 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496390706.A.4F7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有柯粉或柯黑幫拍一下海綿城市是否奏效？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="「海綿城市」的國際通用術語為「低影響開發雨水系統構建」，指的是城市像海綿一樣，
+遇到有降雨時能夠就地或者就近「吸收、存蓄、滲透、凈化」徑流雨水，補充地下水、
+調節水循環，在乾旱缺水時有條件將蓄存的水「釋放」出來並加以利用，從而讓水在
+城市中的遷移活動更加「自然」。
+荷蘭鹿特丹的「水廣場」
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有柯粉或柯黑幫拍一下海綿城市是否奏效？">
+<meta property="og:description" content="「海綿城市」的國際通用術語為「低影響開發雨水系統構建」，指的是城市像海綿一樣，
+遇到有降雨時能夠就地或者就近「吸收、存蓄、滲透、凈化」徑流雨水，補充地下水、
+調節水循環，在乾旱缺水時有條件將蓄存的水「釋放」出來並加以利用，從而讓水在
+城市中的遷移活動更加「自然」。
+荷蘭鹿特丹的「水廣場」
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496390706.A.4F7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496390706.A.4F7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">koko147 (心情電梯)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有柯粉或柯黑幫拍一下海綿城市是否奏效？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 16:04:59 2017</span></div>
+
+「海綿城市」的國際通用術語為「低影響開發雨水系統構建」，指的是城市像海綿一樣，
+遇到有降雨時能夠就地或者就近「吸收、存蓄、滲透、凈化」徑流雨水，補充地下水、
+調節水循環，在乾旱缺水時有條件將蓄存的水「釋放」出來並加以利用，從而讓水在
+城市中的遷移活動更加「自然」。
+
+荷蘭鹿特丹的「水廣場」
+德國多級雨水利用系統
+都是國際的案例
+
+
+而身為住在外地的柯粉，自然知道海綿城市是柯文哲的主要政見之一
+根據網路資料
+<a href="http://e-info.org.tw/node/114369" target="_blank" rel="nofollow">http://e-info.org.tw/node/114369</a>
+  『臺北市新建工程處這幾年，陸續在學校周邊人行道，試辦「舖設透水舖面」，
+    到104年為止，已經累計施作面積達2萬6千多平方公尺。』
+但是這個真的有用嗎？
+
+柯文哲的臉書自稱
+  『臺北市政府積極推動「雨撲滿」設施，包括廣慈公園和青年公園，發揮「小海綿」
+    的作用，大安森林公園也會在年底前完成設置雨撲滿。臺灣在颱風和梅雨季節時，
+    雨水總是來得又多又快，利用既有排水設施排水，並及時將雨水導入「雨撲滿」內
+    暫置，讓道路不會積水，也降低區域排水系統負擔。目前雨撲滿已經發揮儲存雨水
+    的功能，市府加派水車抽水，將這些水用來澆花、清洗。』
+
+還有拍介紹影片
+<a href="https://www.youtube.com/watch?v=J8Xhl428RVs" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=J8Xhl428RVs</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/J8Xhl428RVs" frameborder="0" allowfullscreen></iframe></div></div></div>
+
+有在台北的柯粉還是柯黑能趁此時幫魯肥宅還是幫版上的記者拍照來驗證看看嗎？
+真的有發揮減洪防災的效果嗎？
+影片內號稱地表水可以減少地表雨水逕流削減7.3~18.7%是否為真？
+
+--
+ <span class="b7"> </span><span class="f1 b7 hl">● </span><span class="f1 hl"> </span><span class="hl">日本的驕傲  </span><span class="f6 hl">乒乓球放在上面也不會滾   </span><span class="f6 b4 hl"> </span><span class="b4 hl">＊ </span><span class="b1 hl">    </span><span class="hl"> 中華民國  </span><span class="f5 hl">很屌嗎，我們台灣</span>
+                  <span class="f6 hl">動，馬路就是這麼平！     </span><span class="f6 b1 hl">        </span><span class="f6 hl"> </span><span class="hl">的驕傲    </span><span class="f5 hl">也可以。</span>
+                    <span class="f6 hl">＼●        ／                              </span><span class="f5 hl">●      ／</span>
+                      <span class="f6 hl">︱＞         </span><a href="/bbs/joke/M.1332085919.A.69A.html" target="_blank" rel="nofollow"><span class="hl">#1FPWIVQQ </span>(joke)</a>           <span class="f5 hl">＜︱＞</span>
+               <span class="f3 hl">●    </span><span class="f6 hl">／＼                  </span><span class="f0 hl">▄▃▂▄  ▂▄</span><span class="f3 hl">●</span><span class="f0 hl">▃  </span><span class="f5 hl">／＼</span><span class="f0 hl">▂▃</span>
+ <span class="f0 hl">███████████████</span><span class="f5 b1 hl">ψ FallRed </span><span class="f5 hl"> </span><span class="f0 hl">██████████████</span> <span class="b7">
+</span><span class="b7">
+</span><span class="b7">--
+</span><span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.132.225.49
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496390706.A.4F7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496390706.A.4F7.html</a>
+</span><span class="f1 b7 hl">→ </span><span class="f3 b7 hl">g8330330</span><span class="f3">: 地下水位高度變化怎麼拍?                              </span> 06/02 16:05
+<span class="f2">※ 編輯: koko147 (220.132.225.49), 06/02/2017 16:07:11
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 這種騙人的爛東西對暴雨根本沒用</span><span class="push-ipdatetime"> 06/02 16:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: 是誰住在深海的大鳳梨裡?</span><span class="push-ipdatetime"> 06/02 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 瞬間雨量造成地面逕流你怎麼吸</span><span class="push-ipdatetime"> 06/02 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 你拿一片超強衛生棉然後用水桶沖下去看看不就知道了</span><span class="push-ipdatetime"> 06/02 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JOHNJJ</span><span class="f3 push-content">: 這種東西是設計拿來擋暴雨的????  你有在思考?</span><span class="push-ipdatetime"> 06/02 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 東京為了解決這種地面逕流在地底挖了一個超大排水道</span><span class="push-ipdatetime"> 06/02 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 台北只能用地下捷運通道分流啦 顆顆</span><span class="push-ipdatetime"> 06/02 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tf010714</span><span class="f3 push-content">: 方方黃黃又伸縮自如~海綿寶寶</span><span class="push-ipdatetime"> 06/02 16:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 你自己看內文不就知道 這不是拿來防範暴雨的</span><span class="push-ipdatetime"> 06/02 16:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">b08297</span><span class="f3 push-content">: 黨工看版規好嗎，政問了啦</span><span class="push-ipdatetime"> 06/02 16:15
+</span></div>
+海綿城市是學術概念
+目前還沒驗正在亞洲是否適用，所以我才好奇
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sagarain</span><span class="f3 push-content">: 會不會準備要重鋪了</span><span class="push-ipdatetime"> 06/02 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 東京那個太屌 空間大到以為是要藏鋼彈的</span><span class="push-ipdatetime"> 06/02 16:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linfon00</span><span class="f3 push-content">: 這個水量...</span><span class="push-ipdatetime"> 06/02 16:18
+</span></div><span class="f2">※ 編輯: koko147 (220.132.225.49), 06/02/2017 16:25:08
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyeyskald</span><span class="f3 push-content">: 虧你上站3976次還發這種文 被盜帳號喔</span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyeyskald</span><span class="f3 push-content">: <a href="https://tinyurl.com/kvwlnjd" target="_blank" rel="nofollow">https://tinyurl.com/kvwlnjd</a></span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyeyskald</span><span class="f3 push-content">: 透水鋪面案例 自己看</span><span class="push-ipdatetime"> 06/02 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ZABORGER</span><span class="f3 push-content">: 挖地下神殿卡實在</span><span class="push-ipdatetime"> 06/02 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taisam23</span><span class="f3 push-content">: 智商</span><span class="push-ipdatetime"> 06/02 17:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">startiger</span><span class="f3 push-content">: 證明是肖話王在刷存在感</span><span class="push-ipdatetime"> 06/02 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 東京那個遇到台灣暴雨一樣沒用 容量不夠</span><span class="push-ipdatetime"> 06/02 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gmoz</span><span class="f3 push-content">: 員子山分洪:</span><span class="push-ipdatetime"> 06/02 19:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CenaC</span><span class="f3 push-content">: 台北市淹的一蹋糊塗 怎麼會沒效</span><span class="push-ipdatetime"> 06/02 19:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496390706.A.4F7.html?cacheKey=2052-58251&offset=4607&offset-sig=5bae9dceff58d022720afb697ea62f82639e7741" data-longpollurl="/v1/longpoll?id=d6c354467c999199ef0e5dfcfe7e0488c25f1f93" data-offset="4607"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

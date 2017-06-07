@@ -1,0 +1,155 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496489435.A.5CA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 吃飽3粒聽成吃130粒 藥師學台語提升用藥 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="以前看過一個最脫線的例子,是有個兒子叫老爸來看醫生,
+老爸看完回去後就悶悶不樂,問他怎麼了又說沒事.
+過了幾天兒子跑去問醫生,我爸有什麼問題嗎?
+醫生就:很好啊,沒啥事.
+兒子問醫生,那我爸是在不開心啥?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 吃飽3粒聽成吃130粒 藥師學台語提升用藥">
+<meta property="og:description" content="以前看過一個最脫線的例子,是有個兒子叫老爸來看醫生,
+老爸看完回去後就悶悶不樂,問他怎麼了又說沒事.
+過了幾天兒子跑去問醫生,我爸有什麼問題嗎?
+醫生就:很好啊,沒啥事.
+兒子問醫生,那我爸是在不開心啥?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496489435.A.5CA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496489435.A.5CA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">freeunixer (離自相空她相)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 吃飽3粒聽成吃130粒 藥師學台語提升用藥</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 19:30:32 2017</span></div>
+<span class="f2">※ 引述《KahoJyumonji (Kahojyumonji)》之銘言：
+</span><span class="f6">: 吃飽3粒聽成吃130粒 藥師學台語提升用藥安全
+</span><span class="f6">: <a href="https://udn.com/news/story/7326/2500118" target="_blank" rel="nofollow">https://udn.com/news/story/7326/2500118</a>
+</span><span class="f6">: 看病找哪個醫生很多人都很注意，但領了藥該怎麼吃卻常不在乎，奇美醫學中心發現因不少藥劑師台語不流利，加上只說台語的老人家不少，雞同鴨講影響用藥意願甚至用藥安全，推動藥師台語教學，今天公布第一批學習成果，原僅1成藥師有把握用台語解說用藥，學習後大幅提升到7成。
+</span><span class="f6">: 這個藥怎麼吃？「吃飽3粒」，藥師說明用藥量時因發音不清，只習慣台語的老病患聽成「吃130粒」，這是藥師界老笑話，不過奇美醫院發現南部慣用台語病患非常多，藥師卻多數台語不流利，解說用藥有高達6成沒把握，不僅影響用藥意願，要衛教正確用藥也很困難。
+</span>
+以前看過一個最脫線的例子,是有個兒子叫老爸來看醫生,
+老爸看完回去後就悶悶不樂,問他怎麼了又說沒事.
+過了幾天兒子跑去問醫生,我爸有什麼問題嗎?
+醫生就:很好啊,沒啥事.
+兒子問醫生,那我爸是在不開心啥?
+然後醫生想不出來,就去把護理助理叫來問,啊妳有跟病人說什麼嗎?
+助理說:我跟他說不用吃藥啊.
+醫生又問:啊妳是怎麼講的?
+助理:哩沒有醫.
+醫生跟病人的兒子...
+
+--
+讀者審校網試行版
+<a href="http://readerreviewnet.twbbs.org/" target="_blank" rel="nofollow">http://readerreviewnet.twbbs.org/</a>
+(哲、史、法、政、經、社，人文翻譯書籍錯譯提報網)
+◎洪蘭&#34;毀人不倦&#34;舉報專區
+<a href="http://tinyurl.com/z3t6qzf" target="_blank" rel="nofollow">http://tinyurl.com/z3t6qzf</a>
+讀者需自救，有錯自己改...
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 60.250.90.238
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496489435.A.5CA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496489435.A.5CA.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 還不錯笑</span><span class="push-ipdatetime"> 06/03 19:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">liujd</span><span class="f3 push-content">: 聽不懂</span><span class="push-ipdatetime"> 06/03 19:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kd124</span><span class="f3 push-content">: 看不懂+1</span><span class="push-ipdatetime"> 06/03 19:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mezz</span><span class="f3 push-content">: XDDDDDDDD</span><span class="push-ipdatetime"> 06/03 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LICENSE</span><span class="f3 push-content">: ..免吃藥講成沒得醫也差太多</span><span class="push-ipdatetime"> 06/03 19:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kudo0930</span><span class="f3 push-content">: 沒藥醫 轉的有點硬</span><span class="push-ipdatetime"> 06/03 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GF</span><span class="f3 push-content">: 甲霸(吃飽) 撒ㄌㄧㄚ(3粒)  一百三十=台語簡念 百三=霸撒(130)</span><span class="push-ipdatetime"> 06/03 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tobylee</span><span class="f3 push-content">: 我猜是漏了一個字-哩冇藥醫</span><span class="push-ipdatetime"> 06/03 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GF</span><span class="f3 push-content">: 甲霸 撒ㄌㄧㄚ = 吃飽三粒(意指飯後三粒)</span><span class="push-ipdatetime"> 06/03 19:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GF</span><span class="f3 push-content">: 甲 霸撒ㄌㄧㄚ = 吃 130粒    就是個斷句問題 不會說台語 斷句</span><span class="push-ipdatetime"> 06/03 19:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GF</span><span class="f3 push-content">: 會斷在奇怪的地方 就變成奇怪的句子</span><span class="push-ipdatetime"> 06/03 19:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willie0171</span><span class="f3 push-content">: 膩媒醫仔=你沒救了！</span><span class="push-ipdatetime"> 06/03 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 吃一百三十粒也太扯 最好醫院會一次給你超過百顆的藥</span><span class="push-ipdatetime"> 06/03 19:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mstar</span><span class="f3 push-content">: 「哩謀又啊」(你沒有藥)    「哩謀醫啊」(你無藥可救)</span><span class="push-ipdatetime"> 06/03 20:36
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496489435.A.5CA.html?cacheKey=2052-16804629&offset=2840&offset-sig=6d60a47ceabb8ec425a04b137f3f75454f5eddef" data-longpollurl="/v1/longpoll?id=1edbf9d22ff1a8a6faa77473e384f5b2b2766df0" data-offset="2840"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,184 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494919057.A.478.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 25年來首例！桃園維蓮診所共用針具　5患 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="25年來首例！桃園維蓮診所共用針具　5患者群聚染C肝
+記者嚴云岑／台北報導
+疾管署日前接獲醫院連續通報5例急性病毒性C肝個案，由於患者皆曾至桃園市楊梅區「維
+蓮診所」自費接受注射維他命、葡萄糖等針劑，桃園衛生局調查發現，該診所針具使用後
+未即時丟棄，且有重複使用情形，疾管署綜合個案疫情調查、病毒核酸序列相似度及親緣
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 25年來首例！桃園維蓮診所共用針具　5患">
+<meta property="og:description" content="25年來首例！桃園維蓮診所共用針具　5患者群聚染C肝
+記者嚴云岑／台北報導
+疾管署日前接獲醫院連續通報5例急性病毒性C肝個案，由於患者皆曾至桃園市楊梅區「維
+蓮診所」自費接受注射維他命、葡萄糖等針劑，桃園衛生局調查發現，該診所針具使用後
+未即時丟棄，且有重複使用情形，疾管署綜合個案疫情調查、病毒核酸序列相似度及親緣
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494919057.A.478.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494919057.A.478.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">theHum (選擇題哼哼)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 25年來首例！桃園維蓮診所共用針具　5患</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 15:17:34 2017</span></div>
+25年來首例！桃園維蓮診所共用針具　5患者群聚染C肝
+
+
+記者嚴云岑／台北報導
+
+疾管署日前接獲醫院連續通報5例急性病毒性C肝個案，由於患者皆曾至桃園市楊梅區「維
+蓮診所」自費接受注射維他命、葡萄糖等針劑，桃園衛生局調查發現，該診所針具使用後
+未即時丟棄，且有重複使用情形，疾管署綜合個案疫情調查、病毒核酸序列相似度及親緣
+性分析，研判為群聚事件，為25年來醫源性感染首例。
+
+疾管署副署長莊人祥表示，自1992年進行血液篩檢後，就未曾發生在醫院輸血感染C肝的
+群聚個案，目前該署已掌握就醫名冊，且根據調查，最後一例在診所接受針劑注射的個案
+為去年12月10日，基於C肝潛伏期長達6個月，他建議去年6月10日至今年5月12日曾於該診
+所進行針劑治療的高風險民眾，主動至桃園市楊梅區衛生所抽血檢查。
+
+莊人祥呼籲，醫療機構在提供病患醫療照護時應遵守標準感染防護措施，不可對多個病人
+使用同一注射針筒施打藥物，即使是已更換該針筒上的注射針或套管；應注意注射針、套
+管和注射針筒皆是無菌且限單次使用，不得重複使用於其他病人，或碰觸其他病人可能使
+用的藥劑或輸液。
+
+經由血液進入體內造成傳染的疾病包括C型肝炎、B型肝炎及HIV等，疾管署呼籲，民眾應
+避免不必要的注射行為。針對涉嫌共用針具的維蓮診所，目前已依《傳染病防治法》第32
+條，停止該診所的針劑注射項目，並成立專案小組進一步調查，最嚴重不排除要求診所停
+業接受調查。
+
+<a href="http://health.ettoday.net/news/925447?from=fb_et_news" target="_blank" rel="nofollow">http://health.ettoday.net/news/925447?from=fb_et_news</a>
+
+扯
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.82.254.145
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494919057.A.478.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494919057.A.478.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 省成這樣 醫德呢</span><span class="push-ipdatetime"> 05/16 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seou</span><span class="f3 push-content">: 超扯</span><span class="push-ipdatetime"> 05/16 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">junibookye</span><span class="f3 push-content">: 生意有多差到要省這個錢@@</span><span class="push-ipdatetime"> 05/16 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 敗類到診所了，鬼島ㄏㄏ</span><span class="push-ipdatetime"> 05/16 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">signm</span><span class="f3 push-content">: 幹你媽當醫生這不知道</span><span class="push-ipdatetime"> 05/16 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: 幹 還以為是中國新聞</span><span class="push-ipdatetime"> 05/16 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 連針具都要省錢</span><span class="push-ipdatetime"> 05/16 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 想太多，跟賺不賺沒關，就是一個貪小便宜的心態。</span><span class="push-ipdatetime"> 05/16 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wts4832</span><span class="f3 push-content">: 客家精神 節儉 讚</span><span class="push-ipdatetime"> 05/16 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 中南部超多這種貪這種小錢的敗類，弄臭自己很會。</span><span class="push-ipdatetime"> 05/16 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laba5566</span><span class="f3 push-content">: 客家人94狂</span><span class="push-ipdatetime"> 05/16 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 靠 這種錢也要賺</span><span class="push-ipdatetime"> 05/16 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">max60209</span><span class="f3 push-content">: 自費.....</span><span class="push-ipdatetime"> 05/16 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 幹這良心被狗啃了吧</span><span class="push-ipdatetime"> 05/16 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 這種垃圾真的可以去死一死了，沒有存在的價值。做人失格</span><span class="push-ipdatetime"> 05/16 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">voyhanxu</span><span class="f3 push-content">: 原來是支那啊，我還以為在台灣咧</span><span class="push-ipdatetime"> 05/16 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaPAELLA</span><span class="f3 push-content">: 不公布有問題的人員嗎?</span><span class="push-ipdatetime"> 05/16 15:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 愛滋</span><span class="push-ipdatetime"> 05/16 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">felix1017</span><span class="f3 push-content">: 誇張 針具也要省 那消毒乾脆就曬曬太陽好了</span><span class="push-ipdatetime"> 05/16 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">countryair</span><span class="f3 push-content">: 這會不會只是冰山一角</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x650618</span><span class="f3 push-content">: 無良抓去關</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pojee36o</span><span class="f3 push-content">: 肥燦在幹麻？</span><span class="push-ipdatetime"> 05/16 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">countryair</span><span class="f3 push-content">: 地址負責人姓名不用公布嗎</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arnold3</span><span class="f3 push-content">: 第三世界的醫療</span><span class="push-ipdatetime"> 05/16 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">keepwild</span><span class="f3 push-content">: 天啊 太缺德了吧</span><span class="push-ipdatetime"> 05/16 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leftwalk</span><span class="f3 push-content">: 真的很垃圾</span><span class="push-ipdatetime"> 05/16 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">countryair</span><span class="f3 push-content">: 維蓮診所 桃園市楊梅區新成路190號</span><span class="push-ipdatetime"> 05/16 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">richway</span><span class="f3 push-content">: 真的還假的@@ 這有必要省嗎</span><span class="push-ipdatetime"> 05/16 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Eowyn</span><span class="f3 push-content">: 有看健保的透過診所名幾乎都是公開資訊了吧 跟公布沒兩樣</span><span class="push-ipdatetime"> 05/16 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Eowyn</span><span class="f3 push-content">: 自費營養針還被強迫贈送真的是情何以堪</span><span class="push-ipdatetime"> 05/16 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sougetu</span><span class="f3 push-content">: ..............................</span><span class="push-ipdatetime"> 05/16 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 台灣真的沒那個臉笑支那人</span><span class="push-ipdatetime"> 05/16 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">countryair</span><span class="f3 push-content">: 沒被抓到的不知道還有多少 這已經符合沒有醫德了吧</span><span class="push-ipdatetime"> 05/16 15:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a27588679</span><span class="f3 push-content">: 新北不意外</span><span class="push-ipdatetime"> 05/16 15:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnyang</span><span class="f3 push-content">: 頗糟糕</span><span class="push-ipdatetime"> 05/16 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TllDA</span><span class="f3 push-content">: 醫院分級制 希望大家還是多去診所拿免費禮物</span><span class="push-ipdatetime"> 05/16 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 林涼咧現在還有共用針頭這種扯事</span><span class="push-ipdatetime"> 05/16 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesa5566</span><span class="f3 push-content">: 毒蟲都可以拿免費針具了 這種無良醫可以拔除嗎?</span><span class="push-ipdatetime"> 05/16 15:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">perching0120</span><span class="f3 push-content">: 門口還寫 &#34;祝您早日健康&#34;</span><span class="push-ipdatetime"> 05/16 16:03
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494919057.A.478.html?cacheKey=2052-37973290&offset=5454&offset-sig=63d91db533b1a4655e698ab53dc9b88dc0fbdeac" data-longpollurl="/v1/longpoll?id=01add9596cd965e862b13998ab0c6c6d3e692c2b" data-offset="5454"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

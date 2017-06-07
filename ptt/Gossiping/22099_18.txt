@@ -1,0 +1,215 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496332194.A.9E1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 六四臨近 中共嚴控輿論 封堵社交帳號 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+大紀元
+2.完整新聞標題:
+六四臨近 中共嚴控輿論 封堵社交帳號
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 六四臨近 中共嚴控輿論 封堵社交帳號">
+<meta property="og:description" content="1.媒體來源:
+大紀元
+2.完整新聞標題:
+六四臨近 中共嚴控輿論 封堵社交帳號
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496332194.A.9E1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496332194.A.9E1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">a78615 (XD)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 六四臨近 中共嚴控輿論 封堵社交帳號</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 23:49:50 2017</span></div>
+1.媒體來源:
+大紀元
+
+2.完整新聞標題:
+六四臨近 中共嚴控輿論 封堵社交帳號
+
+3.完整新聞內文:
+<a href="https://img.epochtimes.com.tw/upload/images/2017/06/01/265124_medium.jpeg" target="_blank" rel="nofollow">https://img.epochtimes.com.tw/upload/images/2017/06/01/265124_medium.jpeg</a>
+烏魯木齊居民社區入口鐵捲門加上鐵絲網，如同部分監獄入口。（取自自由亞洲電台）
+
+【記者許蒔、江禹嬋／綜合報導】在中國六四事件28周年紀念日來臨之際，中共當局加劇
+控制網路言論。有網民反映，他們使用微信或翻牆至臉書發言，都遭到封鎖。當局的封鎖
+理由五花八門，包括接到所謂投訴或涉嫌詐騙。此外，中國網民用於翻牆的VPN軟體近期
+也無法連接。
+
+據自由亞洲電台報導，「六四」28周年日前夕，中國有關當局進一步鉗制網路言論，包括
+封鎖網路、封鎖聊天帳號及翻牆軟體VPN，阻撓網民獲取境外資訊。
+
+「中國人權觀察」成員伍立娟5月31日接受自由亞洲電台採訪時表示，最近上網非常困難
+，境外網站打不開或出現空白，「所有網路在手機上的連結都打不開，最近很長時間都是
+這樣。馬上就要到『六四』（6月4日）了，各方面打壓言論都控制得蠻狠。很多微信群、
+微信、QQ都被封了。昨天看到很多朋友的微信群都被封了，這兩天我都不敢在微信發東西
+了。我們『玫瑰中國』網站封了快一個月了。從5月9日封到現在，一直都上不去（即翻牆
+也無法瀏覽）」。
+
+5月上旬，中國官方發布《互聯網新聞信息服務管理規定》提出通過互聯網站、應用程序
+、論壇、部落格、微博客、公眾帳號、即時通信工具、網路直播等形式，向社會公眾提供
+互聯網新聞信息服務，應當取得互聯網新聞信息服務許可；禁止未經許可或超越許可範圍
+，開展互聯網新聞信息服務活動，並將於6月1日起施行。
+
+伍立娟對此感嘆道：「中共現在的言論自由越管越厲害、越來越嚴重，比文化大革命的時
+候還厲害。所以我們強烈譴責當局這種嚴管言論的行為，這是非法剝奪公民的言論自由權
+利。」
+
+網民朱雪琴的微信群也被封號。她告訴自由亞洲電台記者：「今天發現我的微信帳號不能
+用，在微信群組裡不能發訊息，已被他們屏蔽了。現在我基本上沒有帳號用了，封了很多
+微信帳號。每一次在敏感的時候，都會大批的封帳號。我的微信群前兩天被封了，我就再
+建，這是第三次。」
+
+令朱雪琴意外的是，連臉書都因她在個人帳戶發出對中國社會現狀的感慨而將她的帳號封
+鎖。她指出，她主要是發一些即時新聞，還有中國的一些社會問題，「我的帳號被封是說
+我發了一個豬的影片，中國的一些不良商人為了暴利，拿助長劑給豬吃，本來是一年的生
+長期，幾個月或半年就把豬速成了。我就是因為這個影片，我就說，做中國豬是一件悲哀
+的事，做中國人更悲哀。因為中國很多食品裡面有摻雜了一些東西在裡面，我這樣說，
+Facebook（臉書）也會封，經常這樣。」朱雪琴說，她曾在臉書發表評論中國社會問題或
+相關圖片，也被刪除。
+
+對於當局近期嚴控網路，重慶學者張起表示：「今天，不管中共用什麼樣的方式封網、禁
+言、查書、抓人，那樣以為不爭論就可以掩蓋社會矛盾，可以掩蓋六四事件的時代，已經
+完全過去了。不討論『六四』、不紀念『六四』、不重新回到八九年的起點，來考慮我們
+未來中國大陸應該向何處去的問題時代，已經一去不復返了。」張起認為，當局如果繼續
+選擇鴕鳥政策，只能錯失良機影響中國社會進步。
+
+<span class="f6 hl">烏魯木齊草木皆兵 入社區如探監</span>
+
+另外，今年六四28周年日恰逢穆斯林齋月，新疆首府烏魯木齊已全面提升「反恐」強度。
+據自由亞洲電台報導，有關當局對機場、火車站、長途車站及商場的戒備明顯增加，以防
+範發生恐怖襲擊或暴力事件。街道上，警車時常鳴笛呼嘯而過，居民社區則要求住戶，回
+家必須出示身分證件，如同探監。
+
+新疆居民提供給自由亞洲電台的一段影片中，一位居民要經過旋轉式鐵柵欄門才能進入居
+住的小區。在街道上，一輛防爆車帶領8輛警車拉著警笛緩慢行駛，氣氛緊張。
+
+總部在德國的世界維吾爾代表大會發言人迪里夏提對自由亞洲電台披露，在齋戒月期間，
+當局對維吾爾人聚集區的戒備比平時更嚴厲。每天深夜時分，如果執勤人員發現誰家的電
+燈還亮著，都會登門盤查。
+
+<span class="f6 hl">陸委會籲中共認真省思</span>
+
+在六四將來臨的前夕，陸委會副主委兼發言人邱垂正呼籲中共，應認真省思六四事件的歷
+史意義與重要啟示，理性回應人民對於落實民主化及人權保障的訴求；他並表示，陸委會
+也將發表正式新聞稿，表達對六四事件28周年的看法。◇
+
+「現在當地的局勢非常緊張，尤其是在維吾爾人居住比較密集的地區。夜間，每一棟樓的
+樓長，夜裡必須起床看誰家的燈亮著，如果亮著必須馬上舉報。尤其是在烏魯木齊現在齋
+戒月，採取相互監督相互舉報的極端措施。」◇
+
+4.完整新聞連結 (或短網址):
+<a href="https://www.epochtimes.com.tw/n212948" target="_blank" rel="nofollow">https://www.epochtimes.com.tw/n212948</a>
+
+--
+
+                        前所未有的邪惡迫害
+
+              <a href="http://www.unprecedentedevilpersecution.com/" target="_blank" rel="nofollow">http://www.unprecedentedevilpersecution.com/</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.68.79
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496332194.A.9E1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496332194.A.9E1.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerryadsl</span><span class="f3 push-content">: 以下開放蛆蛆崩潰</span><span class="push-ipdatetime"> 06/01 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Trup</span><span class="f3 push-content">: 9.2的理想國度</span><span class="push-ipdatetime"> 06/01 23:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 會不會銀行轉帳64萬，會變成00萬啊</span><span class="push-ipdatetime"> 06/01 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lee09876772</span><span class="f3 push-content">: 扯喔，開燈就要檢舉</span><span class="push-ipdatetime"> 06/01 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CHENXOX</span><span class="f3 push-content">: 中國夢 亞洲第一大帝國 習大大皇帝</span><span class="push-ipdatetime"> 06/01 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GGrunrunder</span><span class="f3 push-content">: 9.2最愛&lt;3</span><span class="push-ipdatetime"> 06/01 23:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clarencelin</span><span class="f3 push-content">: 中共不敢提六四 台灣應該高調紀念</span><span class="push-ipdatetime"> 06/01 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd810305</span><span class="f3 push-content">: 人權大躍進</span><span class="push-ipdatetime"> 06/01 23:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 大西</span><span class="push-ipdatetime"> 06/02 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RICE0428</span><span class="f3 push-content">: 9.2高潮</span><span class="push-ipdatetime"> 06/02 01:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 06/02 01:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">echo3283</span><span class="f3 push-content">: 9.2的最愛  9.2我看只要統一就算被支那人強姦都還會說</span><span class="push-ipdatetime"> 06/02 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">echo3283</span><span class="f3 push-content">: 謝謝</span><span class="push-ipdatetime"> 06/02 21:24
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496332194.A.9E1.html?cacheKey=2052-12479655&offset=5445&offset-sig=f066d0cbdee8431a7634cba5e95e72746108f80d" data-longpollurl="/v1/longpoll?id=a1e262fa073ef9cad759d3f8f21fb267ee1eee61" data-offset="5445"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

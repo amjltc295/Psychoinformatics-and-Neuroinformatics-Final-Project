@@ -1,0 +1,160 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495475566.A.8F1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] IS把尼古丁注入活人體內！　食物摻硫酸 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+ETTODAY
+2.完整新聞標題:
+IS把尼古丁注入活人體內！　食物摻硫酸亞鉈測化武
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] IS把尼古丁注入活人體內！　食物摻硫酸">
+<meta property="og:description" content="1.媒體來源:
+ETTODAY
+2.完整新聞標題:
+IS把尼古丁注入活人體內！　食物摻硫酸亞鉈測化武
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495475566.A.8F1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495475566.A.8F1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Barzani (萬能的天神)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] IS把尼古丁注入活人體內！　食物摻硫酸</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 01:52:44 2017</span></div>
+1.媒體來源:
+ETTODAY
+
+2.完整新聞標題:
+IS把尼古丁注入活人體內！　食物摻硫酸亞鉈測化武
+
+3.完整新聞內文:
+國際中心／綜合報導
+
+伊拉克政府軍在摩蘇爾大學發現人體實驗報告，證實IS曾用硫酸亞鉈（thallium
+sulphate）與尼古丁對俘虜進行化學藥品實驗。英美情報機關實證過該批文件後，憂慮這
+些毒物可能會用於對付西方國家。
+
+伊斯蘭國的武裝分子在2014年6月攻佔摩蘇爾，約50萬人逃離該城，隨後7月要求城內的基
+督徒改信伊斯蘭教或繳交宗教稅，迫使基督徒逃離他城，直到2017年1月伊拉克部隊終於
+從伊斯蘭國（IS）手中完全光復此區。
+
+綜合外媒報導，文件中顯示伊斯蘭國曾在摩蘇爾大學，以兩種有毒化學物品製造成化學武
+器，還以活人做實驗測試效果，包括將來自農藥的硫酸亞鉈，混入水和食物，給一名重達
+100公斤的男俘虜食用，該男子2日後開始作嘔、胃部及腦部發熱和腫脹，10天後死亡。
+
+另一名俘虜則是被注射尼古丁化合物，在短短幾秒內就失去知覺，而且在2小時內死亡；
+還有一名俘虜則是皮膚被塗抹化合物，但只有失去知覺，並不會導致死亡。化武專家戈登
+認為，IS的人體實驗相當殘忍，等同於德國納粹在第二次世界大戰期間在集中營的人體實
+驗。
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.ettoday.net/news/20170523/929620.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170523/929620.htm</a>
+
+5.備註:
+甲甲把_____注入五樓體內
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.32.130.96
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495475566.A.8F1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495475566.A.8F1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 蓋蓋蓋</span><span class="push-ipdatetime"> 05/23 01:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 蓋</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Znnc</span><span class="f3 push-content">: 蓋起來</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louis10452</span><span class="f3 push-content">: 洨</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 蓋蓋蓋</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">melissalewis</span><span class="f3 push-content">: 一樓生化臭屌，超臭</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YishengSu</span><span class="f3 push-content">: 新的超級英雄？</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 幹 推這麼快欉三小</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omolando</span><span class="f3 push-content">: 肥宅除了生質燃料以外 又有了人體實驗的價值惹</span><span class="push-ipdatetime"> 05/23 02:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamcute</span><span class="f3 push-content">: 恐甲天堂 快加入ISIS</span><span class="push-ipdatetime"> 05/23 02:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ComicMan</span><span class="f3 push-content">: 符合伊斯蘭教義嗎?</span><span class="push-ipdatetime"> 05/23 03:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PttNoMoney</span><span class="f3 push-content">: 肛舔人可能因此而誕生</span><span class="push-ipdatetime"> 05/23 03:25
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495475566.A.8F1.html?cacheKey=2052-37560928&offset=2561&offset-sig=b7c67a74c786901a1bf41e41cc4e2f6169935e46" data-longpollurl="/v1/longpoll?id=5412a65ef992822a7ba67b3afce839f210a9c968" data-offset="2561"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

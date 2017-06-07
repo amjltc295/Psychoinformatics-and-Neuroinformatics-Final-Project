@@ -1,0 +1,161 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495009475.A.B22.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 電腦螢幕畫面整個變綠色怎麼辦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="如題
+小弟我剛剛在用電腦時
+突然整個畫面變成棕色
+把螢幕線重接之後重開機
+一開始正常
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 電腦螢幕畫面整個變綠色怎麼辦">
+<meta property="og:description" content="如題
+小弟我剛剛在用電腦時
+突然整個畫面變成棕色
+把螢幕線重接之後重開機
+一開始正常
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495009475.A.B22.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495009475.A.B22.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">iyowe (唉呦喂)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 電腦螢幕畫面整個變綠色怎麼辦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 16:24:32 2017</span></div>
+如題
+小弟我剛剛在用電腦時
+突然整個畫面變成棕色
+把螢幕線重接之後重開機
+一開始正常
+不過大概過了20秒換變綠色了
+<a href="http://i.imgur.com/yWg02iG.jpg" target="_blank" rel="nofollow">http://i.imgur.com/yWg02iG.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="yWg02iG"><a href="//imgur.com/yWg02iG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>後來再重新開機
+一樣過20秒畫面又變顏色
+是哪裡出了問題
+有沒有八卦
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.72.244.3
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495009475.A.B22.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495009475.A.B22.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diabolica</span><span class="f3 push-content">: 少尻</span><span class="push-ipdatetime">05/17 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 你電腦挺DPP</span><span class="push-ipdatetime">05/17 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 抓到了 螢幕是綠的！</span><span class="push-ipdatetime">05/17 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xjp004123</span><span class="f3 push-content">: 你看看你頭上是不是也是綠的</span><span class="push-ipdatetime">05/17 16:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maple0425</span><span class="f3 push-content">: 幫它尻一發讓它冷靜</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 都是吱吱的陰謀</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc8424</span><span class="f3 push-content">:  <a href="http://i.imgur.com/IMWaB4F.jpg" target="_blank" rel="nofollow">http://i.imgur.com/IMWaB4F.jpg</a></span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="IMWaB4F"><a href="//imgur.com/IMWaB4F"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 你中了wannaddp</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttfatman</span><span class="f3 push-content">: 打DPP一頓就可以惹</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: 綠光罩頂</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all0pha765</span><span class="f3 push-content">: 好像綠豆糕似的</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ridecule</span><span class="f3 push-content">: 變民進黨外圍組織惹</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 你啟動了護眼模式</span><span class="push-ipdatetime">05/17 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">archon</span><span class="f3 push-content">: 電腦被人 NTR</span><span class="push-ipdatetime">05/17 16:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 綠綠的</span><span class="push-ipdatetime">05/17 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Doub1eK</span><span class="f3 push-content">: LG正常發揮</span><span class="push-ipdatetime">05/17 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">violegrace</span><span class="f3 push-content">: 你BIOS畫面可以正常進去嗎?</span><span class="push-ipdatetime">05/17 16:26
+</span></div>可以
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m21917</span><span class="f3 push-content">: 你螢幕左手邊是不是沾到洨?</span><span class="push-ipdatetime">05/17 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donation12</span><span class="f3 push-content">: 認真回：檢查顯卡</span><span class="push-ipdatetime">05/17 16:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 顯卡或接螢幕的線 先換一條線 不行就換一個螢幕 再來就</span><span class="push-ipdatetime">05/17 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 顯卡</span><span class="push-ipdatetime">05/17 16:26
+</span></div>好
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GgGoIn</span><span class="f3 push-content">: 螢幕左邊好噁</span><span class="push-ipdatetime"> 05/17 16:27
+</span></div><span class="f2">※ 編輯: iyowe (42.72.244.3), 05/17/2017 16:28:52
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 壞了</span><span class="push-ipdatetime"> 05/17 16:28
+</span></div><span class="f2">※ 編輯: iyowe (42.72.244.3), 05/17/2017 16:29:44
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hh800315</span><span class="f3 push-content">: 人一綠 腦就殘 同理 .... 唉 不忍說</span><span class="push-ipdatetime"> 05/17 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwvvkai</span><span class="f3 push-content">: 抓到了 吱吱</span><span class="push-ipdatetime"> 05/17 16:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tigerface</span><span class="f3 push-content">: 八成是顯卡壞了，我也po板問過，後來換卡搞定</span><span class="push-ipdatetime"> 05/17 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ZABORGER</span><span class="f3 push-content">: 綠色兵團無限打手槍</span><span class="push-ipdatetime"> 05/17 16:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">revolvera</span><span class="f3 push-content">: 小心你頭上也綠綠der</span><span class="push-ipdatetime"> 05/17 16:59
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495009475.A.B22.html?cacheKey=2052-41881148&offset=3433&offset-sig=004d1e6bd2c35d70c2771287b60f2f6bc1d983d8" data-longpollurl="/v1/longpoll?id=1445ca6581186df432fb542a0d0c031cfb983ecb" data-offset="3433"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

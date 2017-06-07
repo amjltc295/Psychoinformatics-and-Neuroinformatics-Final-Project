@@ -1,0 +1,194 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495197199.A.1DD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 台灣障礙者權益促進會 聲明 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="保障身心障礙者就業免受歧視是國家責任
+台灣障礙者權益促進會的聲明
+2017年5月19日
+知名連鎖茶飲店茶湯會，要求聽障人士接聽電話，無法接聽便將對方解僱。茶湯會總公司
+對「聽障人士歧視事件」，僅止於在臉書澄清是加盟店所為，言明會協助溝通釐清事件始
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 台灣障礙者權益促進會 聲明">
+<meta property="og:description" content="保障身心障礙者就業免受歧視是國家責任
+台灣障礙者權益促進會的聲明
+2017年5月19日
+知名連鎖茶飲店茶湯會，要求聽障人士接聽電話，無法接聽便將對方解僱。茶湯會總公司
+對「聽障人士歧視事件」，僅止於在臉書澄清是加盟店所為，言明會協助溝通釐清事件始
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495197199.A.1DD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495197199.A.1DD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lX (我要挑戰1個X)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 台灣障礙者權益促進會 聲明</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 20:33:15 2017</span></div>
+
+保障身心障礙者就業免受歧視是國家責任
+台灣障礙者權益促進會的聲明
+
+2017年5月19日
+
+知名連鎖茶飲店茶湯會，<span class="f3 hl">要求聽障人士接聽電話，無法接聽便將對方解僱。</span>茶湯會總公司
+對<span class="b4 hl">「聽障人士歧視事件」</span>，僅止於在臉書澄清是加盟店所為，言明會協助溝通釐清事件始
+末。台北市勞動局則說明法律規定，雇主不得以身心障礙為由，予以歧視，違反者可處30
+萬元以上150萬元以下罰鍰。並且表白，此案沒有向勞動局申訴，事發至今大家都還在切
+割責任。
+
+台灣障礙者權益促進會(簡稱障權會)指出，保障身心障礙者就業免受歧視是國家責任，台
+北市政府勞動局應該主動調查，而不是以案主未申訴來撇清。
+
+在公布的身心障礙者國家人權報告，指出在身心障礙者權益保障法有對身心障礙者不得歧
+視的規定，就業服務法第五條禁止就業歧視，同時並引用身權法第33條需依身心障礙者就
+業需求，提供包含職務再設計等個別化及專業化職業重建服務。
+
+就業服務法第五條雖然規範不得對身心障礙者就業歧視， 但是缺乏就業歧視的內容及態
+樣說明，特別對於間接歧視及未給與合理調整的規範付之闕如，使很少申訴案件可以成立
+就業歧視。2015年全國身心障礙就業歧視案件，共計25件，處理結果歧視成立並予以裁罰
+案件共計3件、歧視不成立案件共計16件，撤銷案件共計5件，另1件為不受理。這都是徒
+法不足以自行的最好說明。
+
+另外台灣於2014年8月立法通過身心障礙者權利公約施行法，使聯合國身心障礙者權利公
+約有國內法的效力，在身心障礙者權利公約第二條就指名拒絕提供合理調整是對身心障礙
+者的歧視。第二十七條關於工作和就業，也規範締約國應確保在工作場所為障礙者提供合
+理調整。
+
+這些規定，指雇主、服務提供者等負有為障礙者提供合理調整的法律義務。立法必須規定
+，公共和私營部門雇主均有責任為障礙的員工提供合理調整。政府應制定政策，提倡並規
+定彈性和替代性工作安排，以合理符合障礙員工的需要。這些政策應包括，機器和設備的
+調整和改變、工作內容、工作時間和工作組織的改變以及工作環境的調整。項目包括工作
+重新調度、工作重新設計、調整工作時間表、彈性留職停薪方案 、替代工作時間表、替
+代工作場域，以尊重個人差異及因應個人能力的差異性。
+
+障權會指政府在身心障礙的國家人權國家報告公然承認未對於「合理調整」有明確定義，
+但是卻沒有積極作為，由於沒有規範雇主有提供合理調整的義務及合理調整的項目及範圍
+，坐視身心障礙者無論在應考或在職場，沒有平等的工作權利。
+
+徒善不足以為法，徒法不足以自行，障權會呼籲政府必須積極主動調查違反就業歧視的個
+案，規範身心障礙者的就業歧視(包含直接與間接歧視)，並對合理調整(reasonable
+accommodation) 定義並納入就業歧視規範。並且需要制定(就業)平等法，以維護身心障
+礙者的人格尊嚴及工作權利。
+
+
+
+
+
+<a href="https://www.facebook.com/ADRtw/?fref=nf" target="_blank" rel="nofollow">https://www.facebook.com/ADRtw/?fref=nf</a>
+
+
+
+
+
+似乎要咬店長讓他接聽電話 不適任而解職 這點
+這算是bug嗎?
+幫店長qq
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.249.184.84
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495197199.A.1DD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495197199.A.1DD.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahaha0204</span><span class="f3 push-content">: 帶風向</span><span class="push-ipdatetime"> 05/19 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 無法接聽電話 但接了一堆記者電話 黑人問號</span><span class="push-ipdatetime"> 05/19 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 什麼都不行=不適任  歧視你老母 要請尊佛來拜嗎</span><span class="push-ipdatetime"> 05/19 20:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lalsoft</span><span class="f3 push-content">: ....很會玩議題....</span><span class="push-ipdatetime"> 05/19 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">me410</span><span class="f3 push-content">: 我認為到時會雙輸,如公車也都是低底盤啊,司機不甩啊.</span><span class="push-ipdatetime"> 05/19 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">me410</span><span class="f3 push-content">: 吃虧的到時都是濫用權力的弱勢者.</span><span class="push-ipdatetime"> 05/19 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 官腔的聲明 看來此案疑點要等記者會才有機會釐清了?</span><span class="push-ipdatetime"> 05/19 20:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">me410</span><span class="f3 push-content">: 就如博愛座一樣,鬧到最後根本變少人要讓了.</span><span class="push-ipdatetime"> 05/19 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 好強的&#39;弱勢&#39;呦 幫老闆QQ</span><span class="push-ipdatetime"> 05/19 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 前台不行後台不行外送不行 還不淮fire 超屌der</span><span class="push-ipdatetime"> 05/19 20:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">susanna026</span><span class="f3 push-content">: 覺得 如果這個也不行 那個也不行 老闆為什麼一定要勉</span><span class="push-ipdatetime"> 05/19 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">susanna026</span><span class="f3 push-content">: 強用呢？</span><span class="push-ipdatetime"> 05/19 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 我可以借記者的電話 不代表我就該在飲料店接客人的電話</span><span class="push-ipdatetime"> 05/19 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 好嗎？</span><span class="push-ipdatetime"> 05/19 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: *接記者的的電話  一直打錯字QQ</span><span class="push-ipdatetime"> 05/19 21:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clala</span><span class="f3 push-content">: 他不是接了無數的電話？！ 他真的有聽障嗎？</span><span class="push-ipdatetime"> 05/19 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mytoychiu</span><span class="f3 push-content">: 原來是聽障啊 還以為是沒手沒腳沒行為能力只出一張嘴</span><span class="push-ipdatetime"> 05/20 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mytoychiu</span><span class="f3 push-content">: 的智障耶 不申訴卻要行政機關主動調查 跩屁</span><span class="push-ipdatetime"> 05/20 00:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495197199.A.1DD.html?cacheKey=2052-35545043&offset=4476&offset-sig=4fc3377cc6da189c156a949b70b69c36a83630ff" data-longpollurl="/v1/longpoll?id=79cf6e0a3bf9d6d7654036f27f402ab0732f1488" data-offset="4476"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

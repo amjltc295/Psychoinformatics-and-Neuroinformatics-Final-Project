@@ -1,0 +1,248 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496381271.A.840.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 台灣的排水系統強度為什麼一直無法增強 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="老魯叔我這三十年來，每年颱風梅雨之類的天氣，都是淹水新聞看到飽。
+每年都在檢討排水系統，檢討三十年了還是一樣淹水。
+三十年時間，荒地都開墾變良田了，結果排水系統還是讓人失望。
+十多年前開始，新聞用破百年紀錄之類的來安撫台灣人：
+「遇到颱風，台灣人被水淹死很正常，不是台灣人智能不足而不會蓋排水系統的問題。」
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 台灣的排水系統強度為什麼一直無法增強">
+<meta property="og:description" content="老魯叔我這三十年來，每年颱風梅雨之類的天氣，都是淹水新聞看到飽。
+每年都在檢討排水系統，檢討三十年了還是一樣淹水。
+三十年時間，荒地都開墾變良田了，結果排水系統還是讓人失望。
+十多年前開始，新聞用破百年紀錄之類的來安撫台灣人：
+「遇到颱風，台灣人被水淹死很正常，不是台灣人智能不足而不會蓋排水系統的問題。」
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496381271.A.840.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496381271.A.840.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Refauth (山丘上的長號手)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 台灣的排水系統強度為什麼一直無法增強</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 13:27:49 2017</span></div>
+老魯叔我這三十年來，每年颱風梅雨之類的天氣，都是淹水新聞看到飽。
+
+每年都在檢討排水系統，檢討三十年了還是一樣淹水。
+
+三十年時間，荒地都開墾變良田了，結果排水系統還是讓人失望。
+
+十多年前開始，新聞用破百年紀錄之類的來安撫台灣人：
+「遇到颱風，台灣人被水淹死很正常，不是台灣人智能不足而不會蓋排水系統的問題。」
+
+現在十多年過去了，台灣的排水系統還是沒有增強的感覺，
+時雨量幾十公厘就直接打爆排水系統？
+過幾年時雨量破百，人全部死光光，沒人看新聞了XDDD
+
+有這方面的八卦嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.250.25.2
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496381271.A.840.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496381271.A.840.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xjp004123</span><span class="f3 push-content">: 高雄快樂</span><span class="push-ipdatetime"> 06/02 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 錢都進到官員口袋吧</span><span class="push-ipdatetime"> 06/02 13:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a5205205207</span><span class="f3 push-content">: 捷運？</span><span class="push-ipdatetime"> 06/02 13:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AustinRivers</span><span class="f3 push-content">: 都只想撈簡單錢</span><span class="push-ipdatetime"> 06/02 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">manlike</span><span class="f3 push-content">: 這樣油水才能撈不停啊</span><span class="push-ipdatetime"> 06/02 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryrp</span><span class="f3 push-content">: 台灣的各項設施都要有死人才會改進</span><span class="push-ipdatetime"> 06/02 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdfg567</span><span class="f3 push-content">: 其實有耶 越來越少淹</span><span class="push-ipdatetime"> 06/02 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sdhpipt</span><span class="f3 push-content">: 其實已經提高不少了 我小時候很小的雨就會淹水</span><span class="push-ipdatetime"> 06/02 13:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">getbacker</span><span class="f3 push-content">: 其實台灣的排水真的是很不錯了</span><span class="push-ipdatetime"> 06/02 13:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">udm</span><span class="f3 push-content">: 你要先把A錢的黑道跟只想撈錢的政客全殺光光，其實很難的。</span><span class="push-ipdatetime"> 06/02 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">web946719</span><span class="f3 push-content">: 其實台灣的短時降雨真的很猛啦</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 如果政府每天都說要挖你家門口做排水 你看民代會不會勃起</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lepidoptera</span><span class="f3 push-content">: 有增強啊 只是雨也越來越強大</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">berserkman</span><span class="f3 push-content">: 重視基礎建設的官員沒人挺，譁眾取寵的大富大貴，鬼島</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">berserkman</span><span class="f3 push-content">: 人命賤是自己招來的</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scarbywind</span><span class="f3 push-content">: 會淹的地方硬要住,不會淹的地方抽地下水到抽淹</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dreamyello</span><span class="f3 push-content">: 今天台北三小時累積雨量都200了 平行世界？</span><span class="push-ipdatetime"> 06/02 13:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">manlike</span><span class="f3 push-content">: 每幾年都有治水計畫幾百億，錢沾2000億</span><span class="push-ipdatetime"> 06/02 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toudanlong</span><span class="f3 push-content">: 這種政績沒人鳥阿...要蓋鐵路才叫潮...懂?</span><span class="push-ipdatetime"> 06/02 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 這幾年來的這種大量急降雨的次數比以前增加很多吧</span><span class="push-ipdatetime"> 06/02 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 住台地啊 誰叫你住低窪地區</span><span class="push-ipdatetime"> 06/02 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinknvm0</span><span class="f3 push-content">: 小吃攤販先改善亂倒廚餘的習慣才有可能吧</span><span class="push-ipdatetime"> 06/02 13:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cccwahaha</span><span class="f3 push-content">: 人民自己也有問題 只想要捷運、車站、大樓 基建不在乎</span><span class="push-ipdatetime"> 06/02 13:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suntex</span><span class="f3 push-content">: 全世界沒幾個城市排水系統擋得住這種雨勢 至少台北很強了</span><span class="push-ipdatetime"> 06/02 13:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tku9527</span><span class="f3 push-content">: 鍵盤治水？</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fedona</span><span class="f3 push-content">: kmt</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lunarblue</span><span class="f3 push-content">: 這種雨勢，淹水很正常</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robinsonXD</span><span class="f3 push-content">: 沒腦的官員只想著要去哪邊吃大餐，有哪個想為了公共</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinknvm0</span><span class="f3 push-content">: 如果污水做好，大家習慣好，不要亂丟垃圾亂倒東西，自然</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robinsonXD</span><span class="f3 push-content">: 建設付出一些努力與時間</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cabin2501</span><span class="f3 push-content">: 三芝今天下超過600 哪個城市能承受？</span><span class="push-ipdatetime"> 06/02 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bbaad</span><span class="f3 push-content">: 那抽水機要賣誰</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lingling0000</span><span class="f3 push-content">: 推  只能繼續想辦法建設來適應了</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jiahao</span><span class="f3 push-content">: 二氧化碳溫室氣體，極端降雨，淹水大部分低漥及相對低處。</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dreamyello</span><span class="f3 push-content">: 台北年雨量才2000 三小時就下200你是想怎樣？</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gunng</span><span class="f3 push-content">: 台灣水溝常年被垃圾和菸蒂堵塞不知道要怪誰？</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tku9527</span><span class="f3 push-content">: 下一篇 科技這麼進步怎不鏟平聖母峰?</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nmrsabc</span><span class="f3 push-content">: 辛苦還沒有選票</span><span class="push-ipdatetime"> 06/02 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wangisiung</span><span class="f3 push-content">: 有啊，捷運那麼大的蓄水池沒看到嗎</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">t7788921</span><span class="f3 push-content">: 國外這種暴雨照淹</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Cliffx</span><span class="f3 push-content">: 你在說哪</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FFFFFFFF</span><span class="f3 push-content">: 回扣只能收一次  很不方便</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jasonchangki</span><span class="f3 push-content">: 水道蓋好地震來一下又要重新弄你覺得？</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">derrick0727</span><span class="f3 push-content">: 當然是預算都到廢物政客口袋裡啦</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iWatch2</span><span class="f3 push-content">: 花大錢防這種瞬間大量?不被批浪費錢設閒置設施才有鬼</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">reigon1126</span><span class="f3 push-content">: 看KMT收了多少</span><span class="push-ipdatetime"> 06/02 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">olalo</span><span class="f3 push-content">: 過度開發，沒地方好疏水，全部幾固定線路。再強也有極限...</span><span class="push-ipdatetime"> 06/02 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">corlos</span><span class="f3 push-content">: 增強？</span><span class="push-ipdatetime"> 06/02 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iPadProPlus</span><span class="f3 push-content">: 編五千萬，實際用到五百萬。</span><span class="push-ipdatetime"> 06/02 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yellout</span><span class="f3 push-content">: 就是有這種喜憨兒 可憐 降雨量多大都不知道</span><span class="push-ipdatetime"> 06/02 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovew811159</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 06/02 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">james123787</span><span class="f3 push-content">: 強度太強</span><span class="push-ipdatetime"> 06/02 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyue</span><span class="f3 push-content">: 短時間內強降雨.有點難...</span><span class="push-ipdatetime"> 06/02 13:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t7788921</span><span class="f3 push-content">: 活這麼久這種強度多強都不知道  真可憐</span><span class="push-ipdatetime"> 06/02 13:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">darknote</span><span class="f3 push-content">: <a href="https://goo.gl/2RV01L" target="_blank" rel="nofollow">https://goo.gl/2RV01L</a> 英國&#34;單日&#34;下150毫米的下場</span><span class="push-ipdatetime"> 06/02 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 才十年就淹惹</span><span class="push-ipdatetime"> 06/02 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">spawn3011</span><span class="f3 push-content">: 看推文就知道有多少只會鍵盤嘴炮</span><span class="push-ipdatetime"> 06/02 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ussr</span><span class="f3 push-content">: 還會有更多無知的人跟著講風涼話，偉哉</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dream2</span><span class="f3 push-content">: 北部一堆山坡鳥地都有人住 整個人塞得滿滿滿 誰來都沒救</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feemysoul</span><span class="f3 push-content">: 地哩?誰要捐地?還有你以為極端氣候有這麼好解決嗎</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wulaw5566</span><span class="f3 push-content">: 這降雨強度不淹才是世界奇蹟</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHINZI</span><span class="f3 push-content">: 高雄很用心 參考一下  靠近港口的區域還能撐一下拼不淹</span><span class="push-ipdatetime"> 06/02 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wayne723</span><span class="f3 push-content">: 一堆鍵盤專家</span><span class="push-ipdatetime"> 06/02 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lastmile</span><span class="f3 push-content">: 你繳得稅有增強嗎? 防洪能力不是只要一點錢就能提升</span><span class="push-ipdatetime"> 06/02 13:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiergh</span><span class="f3 push-content">: 短時間強降雨 台灣如果能做到絕對不淹 那真的能算世界第一</span><span class="push-ipdatetime"> 06/02 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shirou123</span><span class="f3 push-content">: 是你們台北的排水太爛</span><span class="push-ipdatetime"> 06/02 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">juan4zi</span><span class="f3 push-content">: 沒淹才該害怕..這種雨量那個國家不會淹的</span><span class="push-ipdatetime"> 06/02 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eterbless</span><span class="f3 push-content">: 上一個重視的已經被抓去關到漏尿了 誰要當下一個?</span><span class="push-ipdatetime"> 06/02 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mineco504</span><span class="f3 push-content">: 這雨量在其他國家已經重災了吧</span><span class="push-ipdatetime"> 06/02 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">abel0201</span><span class="f3 push-content">: 這雨量放在全世界哪都照淹吧</span><span class="push-ipdatetime"> 06/02 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lovew811159</span><span class="f3 push-content">: 這文有人護航 難怪台灣今天這麼慘 哈哈</span><span class="push-ipdatetime"> 06/02 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ken327639</span><span class="f3 push-content">: 因為做這種東西不能拿來當政績 民眾又看不到 倒不如拿</span><span class="push-ipdatetime"> 06/02 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ken327639</span><span class="f3 push-content">: 去蓋蚊子館</span><span class="push-ipdatetime"> 06/02 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mstar</span><span class="f3 push-content">: 安安，你有聽說「氣候變遷」嗎？</span><span class="push-ipdatetime"> 06/02 13:48
+</span></div>安安，你有聽說「二十一世紀現代人類建築工程技術」嗎？
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">octopus4406</span><span class="f3 push-content">: 這雨量再強的抽水機也沒用拉</span><span class="push-ipdatetime"> 06/02 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lattepudding</span><span class="f3 push-content">: 是雨下太大拉...下在別的國家一樣淹</span><span class="push-ipdatetime"> 06/02 13:53
+</span></div><span class="f2">※ 編輯: Refauth (111.250.25.2), 06/02/2017 13:55:54
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sspider0829</span><span class="f3 push-content">: 因為要蓋軌道阿</span><span class="push-ipdatetime"> 06/02 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Pmking</span><span class="f3 push-content">: 氣候變遷 極端氣候 強降雨強乾旱增加 繼續燃煤排碳吧 蚵蚵</span><span class="push-ipdatetime"> 06/02 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justeit</span><span class="f3 push-content">: 看看台北，再看看新北基隆，差在哪自己想</span><span class="push-ipdatetime"> 06/02 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Pmking</span><span class="f3 push-content">: 人定勝天 信心加持</span><span class="push-ipdatetime"> 06/02 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shinwind</span><span class="f3 push-content">: 你去查國外淹水的雨量 你就會發現台灣超強</span><span class="push-ipdatetime"> 06/02 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kmtlikeslave</span><span class="f3 push-content">: 台北很強了，美國公路下個雨就爆炸</span><span class="push-ipdatetime"> 06/02 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Simonfenix</span><span class="f3 push-content">: 因為錢都拿去蓋軌道了 排水工程這種事情才不前瞻呢~</span><span class="push-ipdatetime"> 06/02 13:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stanleypi</span><span class="f3 push-content">: 30了 還一點強度概念都沒有？ 淹水淹到水腦了？</span><span class="push-ipdatetime"> 06/02 14:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a6dddd</span><span class="f3 push-content">: 東南亞化 南向政策成功取經</span><span class="push-ipdatetime"> 06/02 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 問成大水利</span><span class="push-ipdatetime"> 06/02 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jehow</span><span class="f3 push-content">: 安安 東京時雨量承受度是50毫米 你下100毫米哪裡能擋住</span><span class="push-ipdatetime"> 06/02 14:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AGITOH</span><span class="f3 push-content">: 人為破壞環境啊</span><span class="push-ipdatetime"> 06/02 14:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilwe106</span><span class="f3 push-content">: 三芝今天三個小時的雨量已經是對岸北方城市一年的降雨了</span><span class="push-ipdatetime"> 06/02 14:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilwe106</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/02 14:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guogu</span><span class="f3 push-content">: 我家小時候蠻常淹的，後來就有改善了</span><span class="push-ipdatetime"> 06/02 14:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">j65p4m3</span><span class="f3 push-content">: 你沒看到英國才50毫米就在淹水到崩潰，台灣已經算強了</span><span class="push-ipdatetime"> 06/02 14:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guogu</span><span class="f3 push-content">: 而且台灣的降雨真的還算蠻大的</span><span class="push-ipdatetime"> 06/02 14:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kevin2002013</span><span class="f3 push-content">: 不會有排水設施的原始設計目標會是處理這種等級的雨</span><span class="push-ipdatetime"> 06/02 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kevin2002013</span><span class="f3 push-content">: 就像你家也不會防8級地震一樣</span><span class="push-ipdatetime"> 06/02 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kevin2002013</span><span class="f3 push-content">: 做不做的到是一回事，有沒有必要做到這種等級是另一</span><span class="push-ipdatetime"> 06/02 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kevin2002013</span><span class="f3 push-content">: 回事</span><span class="push-ipdatetime"> 06/02 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mike0327</span><span class="f3 push-content">: 全世界沒幾個國家排水系統應付的了台灣的雨</span><span class="push-ipdatetime"> 06/02 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">robin781105</span><span class="f3 push-content">: 時雨量幾十?!三芝過去單日630換算每小時就28上下了耶</span><span class="push-ipdatetime"> 06/02 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Archon58</span><span class="f3 push-content">: 看一下這種強度的一年出現幾次好不好</span><span class="push-ipdatetime"> 06/02 14:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jk01</span><span class="f3 push-content">: 不能炒地皮的建設-當然隨便</span><span class="push-ipdatetime"> 06/02 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">piliwu</span><span class="f3 push-content">: 改進超多的不要一直拿極端值來說</span><span class="push-ipdatetime"> 06/02 15:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CrackedVoice</span><span class="f3 push-content">: 已經屌打世界上大部份國家了</span><span class="push-ipdatetime"> 06/02 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">funnily</span><span class="f3 push-content">: 我住三重至少30年 讀小學時只要有下雨一定淹 現在好太多</span><span class="push-ipdatetime"> 06/02 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kice1204</span><span class="f3 push-content">: 氣候年年破紀錄，自己承認是什麼組。</span><span class="push-ipdatetime"> 06/02 16:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kice1204</span><span class="f3 push-content">: 理組？文組？學店不分組？</span><span class="push-ipdatetime"> 06/02 16:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">azytjr</span><span class="f3 push-content">: 哈哈哈哈哈，被噓到爆有夠好笑的，沒有常識也要看電視</span><span class="push-ipdatetime"> 06/02 16:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 時雨量五十公厘已經很大了</span><span class="push-ipdatetime"> 06/02 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">enlkh</span><span class="f3 push-content">: 鍵盤增強你最行</span><span class="push-ipdatetime"> 06/02 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">babyshop</span><span class="f3 push-content">: 口蓮藕</span><span class="push-ipdatetime"> 06/02 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 成本和所對應強度是等比級數</span><span class="push-ipdatetime"> 06/02 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Telele</span><span class="f3 push-content">: 合理化公式拿去算算你就知道要多大的排水溝了</span><span class="push-ipdatetime"> 06/02 16:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kice1204</span><span class="f3 push-content">: 整個台北盆地都是你的疏洪道XD</span><span class="push-ipdatetime"> 06/02 16:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">D1</span><span class="f3 push-content">: 8800億拿去用綠能了</span><span class="push-ipdatetime"> 06/02 17:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wario2014</span><span class="f3 push-content">: 講這外行屁話，水往低處流，排水作再好低處一樣積水</span><span class="push-ipdatetime"> 06/02 17:21
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496381271.A.840.html?cacheKey=2052-1083449&offset=12555&offset-sig=7c2e5052b03476cbc5ef63e2a32db13183a901eb" data-longpollurl="/v1/longpoll?id=f3c8a85a99bc9eb42d1a0e4775ade3fb403f803a" data-offset="12555"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

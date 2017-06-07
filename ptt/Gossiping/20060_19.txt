@@ -1,0 +1,239 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494949191.A.2D5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 美國企業也想從「一帶一路」計劃中分一杯 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="[新聞] 美國企業也想從「一帶一路」計劃中分一杯羹 
+紐約時報
+https://cn.nytimes.com/business/20170515/china-one-belt-one-road-us-com
+panies/zh-hant/
+中國徐州——當中國計劃在亞洲、非洲和歐洲各地修建大量公路、鐵路、港口和機場時，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 美國企業也想從「一帶一路」計劃中分一杯">
+<meta property="og:description" content="[新聞] 美國企業也想從「一帶一路」計劃中分一杯羹 
+紐約時報
+https://cn.nytimes.com/business/20170515/china-one-belt-one-road-us-com
+panies/zh-hant/
+中國徐州——當中國計劃在亞洲、非洲和歐洲各地修建大量公路、鐵路、港口和機場時，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494949191.A.2D5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494949191.A.2D5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Joey818 (時代趨向和平 也不再振奮)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 美國企業也想從「一帶一路」計劃中分一杯</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 23:39:48 2017</span></div>
+<span class="f3 b4 hl">[新聞] 美國企業也想從「一帶一路」計劃中分一杯羹 </span>
+
+紐約時報
+<a href="https://cn.nytimes.com/business/20170515/china-one-belt-one-road-us-com" target="_blank" rel="nofollow">https://cn.nytimes.com/business/20170515/china-one-belt-one-road-us-com</a>
+panies/zh-hant/
+
+
+中國徐州——當中國計劃在亞洲、非洲和歐洲各地修建大量公路、鐵路、港口和機場時，
+懷疑論者表示，中國企業將是這些雄心勃勃的計劃中唯一的、真正的贏家。
+
+通用電氣（General Electric，簡稱GE）不這麼想。
+
+2014年，中國的建築與工程企業向GE訂購了價值4億美元的設備，在海外進行安裝，其中
+絕大部分位於「一帶一路」計劃涵蓋的地區。去年，這些訂單總計達到23億美元。在接下
+來的大約18個月裡，GE計劃爭奪另外70億美元的天然氣渦輪機及其他能源設備訂單。
+
+「我們緊緊聚焦於贏取這些訂單，」GE大中華區首席執行官段小纓(Rachel Duan)說。
+
+中國在通過「一帶一路」計劃讓各企業和國家更緊密地融入它的經濟與地緣政治圈。週日
+，由習近平主持的一場圍繞該計劃的論壇在北京舉行，吸引了俄羅斯總統弗拉基米爾·V
+·普丁(Vladimir V. Putin)等國家領導人，以及包括美國在內的三十多個國家的官員出
+席。
+
+若進展順利，這個計劃將引發一輪全球性的建築熱潮；中國已經承諾在長遠的未來投資超
+過10萬億美元。
+
+西方企業積極努力從中分一杯羹。上月，花旗銀行(Citibank)贏得了中國銀行的一份合同
+，負責銷售價值30億美元的債券——後者將用以此籌集的資金在亞洲、東歐和東非各地設
+立分行。技術與製造企業霍尼韋爾國際(Honeywell International)則在向中亞銷售處理
+天然氣的設備。
+
+一些非中國企業也在調整自身的業務，以便贏得更多與北京這項計劃有關的訂單。GE已經
+對公司的全球能源設備營銷人員進行了重新的安排，以賦予他們優先權。
+
+中國的投資不見得馬上就會產生利潤。其中大部分資金還沒有被指定用途，更不用說花出
+去。而且中國在確保本國企業成為最大的受益者——該國有太多的工廠在生產過剩的鋼鐵
+和水泥。
+
+比如，卡特彼勒(Caterpillar)將不得不與一家由政府控制的快速發展的中國建築機械設
+備製造商——徐工集團展開競爭。這類企業在國內的市場已經趨於飽和，正急於尋找新市
+場——這正是一帶一路計劃的核心目標。
+
+在徐工集團位於華北的一座巨大的工廠裡，工人們在趕著將挖掘機年產量翻番，這主要靠
+讓機械人參與裝配工作來實現。在「一帶一路」計劃的影響下，這家工廠每天開工16個小
+時，每週工作六天。
+
+「『一帶一路』使我們的國際化戰略如虎添翼，」徐工集團董事長王民說。
+
+對企業而言，這項計劃既帶來了希望，也帶來了不確定性。中國正在建設的基礎設施有可
+能在未來使貿易量增加、由此帶來幾十億美元收入，也有可能成為債務纏身的黑洞。習近
+平向已經在中國開展業務的企業施壓，讓它們不管前景如何都要參與這項計劃。
+
+有關未來繁榮的希望是誘人的。在過去幾十年裡，香港企業利豐有限公司(Li and Fung)
+一直將中國製造的商品銷往美國和歐洲的百貨商場，如今它開始向發展中國家的中小型零
+售商推銷這些商品。其母公司馮氏集團(Fung Group)的董事長馮國經表示，這是一個賭注
+，賭的是中國這項計劃將拉高幾十個國家的消費支出。
+
+其他人則等著看中國富有雄心的想法能否化為真實的投資，看美國和歐洲的企業是否有一
+席之地。他們尤其擔心，這個計劃主要與中國的出口有關，而與進口沒有太大關係。
+
+「告訴我們，我們會從中得到什麼，」前中國美國商會(American Chamber of Commerce
+in China)主席、北京律師吉莫曼(James Zimmerman)說，他指的是西方企業的想法。「如
+果完全是為了將中國商品賣到歐洲，或者說只是單向的，那就沒什麼成功的希望。」
+
+川普政府的高層官員、國家安全委員會(National Security Council)亞洲事務高級主管
+馬修·波廷格(Matthew Pottinger)在週日的論壇上表示，中國應該讓與這項計劃有關的
+合同競標過程保持透明，以增加非國有企業獲勝的機率。
+
+中國的工業過剩是這項計劃誕生的一大動因。中國一年可以生產近11億噸鋼鐵，相當於世
+界其他地方產量的總和，但中國國內的鋼鐵需求只有8億噸左右。歐盟商會(European
+Union Chamber of Commerce)最近進行的一項研究顯示，「一帶一路」計劃一年或許只能
+消化約3000萬噸鋼鐵。
+
+一些美國企業在採取措施提高他們的贏面，但這有時意味著要將生產更多地放在中國，而
+非美國。段小纓表示，GE十分關注在中國生產產品的方式，以滿足中國提出的將部分生產
+在當地進行的要求。霍尼韋爾在一份聲明中表示，為了這項計劃，它也在尋找在中國生產
+更多產品的方式。
+
+「我覺得等路修好，港口建成，發電廠完工，其他機會也就跟著來了，」段小纓說。
+
+也有人在等待和觀望。投資主要集中在巴基斯坦、阿富汗、哈薩克斯坦、烏茲別克斯坦及
+附近其他國家，這些國家在地緣政治上對中國十分重要，但經濟比較薄弱。
+
+香港貿易發展局(Hong Kong Trade Development Council)主席、房地產億萬富翁羅康瑞
+(Vincent Lo)表示，他上週帶領50名上海和香港商人去了泰國和越南，目的是探索圍繞「
+一帶一路」產生的投資機會。接下來他們會去中東和東歐，中亞的排位則比較靠後。
+
+「如果中亞國家比較熱心，我們會與他們合作，不過我們當然也要看它的金融基本面，」
+羅康瑞說。「要獲得投資，這些國家當中有許多都必須進行大量的改革。」
+
+中國玩家從一開始就有望成為大贏家。
+
+習近平將徐州定為他這項政策的主要製造基地，那是大致位於北京和上海五小時高鐵路線
+中間位置的一個滿是塵土的鐵路樞紐。在一座山頂矗立著一片新建寺廟的小山的腳下，坐
+落著卡特彼勒在全球最大的一座工程機械工廠，在這裡製造著挖掘設備的巨大零件。
+
+在附近，它的對手徐工集團正在提高產能。由徐州市政府控制的徐工集團在這個城市僱傭
+了2.3萬名工人，是中國最大的工程機械製造商，生產從挖掘機、起重機到推土機的各種
+工程機械設備。
+
+該工廠有四個80英呎（約24米）高的鋼結構屋頂大廠房，在裡面製造坦克大小的挖掘機。
+廠房裡的幾乎所有東西都是新的，無論是13個體積和小房子差不多的鋼鐵切割機械人，還
+是價格昂貴、可以精確地修剪鋼骨構件的義大利和日本加工設備。
+
+該公司董事長王民對沒有生意的擔憂不以為然。
+
+「我們要經營好這片田地，」他說。「等旺季來了，就可以爆發出去。」
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.105.57.164
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494949191.A.2D5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494949191.A.2D5.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 錢發出去肯定是收不回來惹</span><span class="push-ipdatetime"> 05/16 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">david1230</span><span class="f3 push-content">: 縮網址也不縮 連結也沒貼好 五毛當多久了還這樣混 丟臉</span><span class="push-ipdatetime"> 05/16 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zebra101</span><span class="f3 push-content">: 這篇不知道該怎麼酸，來先酸縮網址好了</span><span class="push-ipdatetime"> 05/17 00:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zz2895341</span><span class="f3 push-content">: 我也期待分一杯羹啊 快給我錢</span><span class="push-ipdatetime"> 05/17 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">houting</span><span class="f3 push-content">: 非常標準的中國式新(ㄍㄨˋ)聞(ㄕˋ)手法 ( ′-`)y-～</span><span class="push-ipdatetime"> 05/17 00:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: GE要的是訂單阿，有下單給他們就賺了。至於計畫成不成功</span><span class="push-ipdatetime"> 05/17 00:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: 又是另一回事了</span><span class="push-ipdatetime"> 05/17 00:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yoyun10121</span><span class="f3 push-content">: 有凱子要撒錢下訂單, 傻了才不接哩</span><span class="push-ipdatetime"> 05/17 00:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yoyun10121</span><span class="f3 push-content">: 投資成效干他們屁事, 這也能拿來捧一帶一路XDD</span><span class="push-ipdatetime"> 05/17 00:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">philhung1968</span><span class="f3 push-content">: 趴帶一路</span><span class="push-ipdatetime"> 05/17 00:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsx26997785</span><span class="f3 push-content">: 支那都吃不飽了 還分你一杯羹  他會分就代表要你的本</span><span class="push-ipdatetime"> 05/17 01:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: 大概技術不夠的，還是得找外商買吧</span><span class="push-ipdatetime"> 05/17 10:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494949191.A.2D5.html?cacheKey=2052-38006154&offset=6498&offset-sig=3c2ab32ad930ef11e4588145c8d160d0d996f0dd" data-longpollurl="/v1/longpoll?id=ed4c7c8b19a126668111367d26dd9d3a6d35cba0" data-offset="6498"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

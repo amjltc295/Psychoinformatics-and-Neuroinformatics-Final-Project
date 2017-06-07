@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496615556.A.6F7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有沒有演算法的八卦啊？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="本魯數學菸酒生，
+過往在程式設計、離散數學、數值分析等課程中聽過這個名字，
+演算法定義這麼大，在世上做演算法優化的人也不少，
+總有個全世界學過數學的人都認識的演算法之王，
+但是在學習眾多演算法之後，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有沒有演算法的八卦啊？">
+<meta property="og:description" content="本魯數學菸酒生，
+過往在程式設計、離散數學、數值分析等課程中聽過這個名字，
+演算法定義這麼大，在世上做演算法優化的人也不少，
+總有個全世界學過數學的人都認識的演算法之王，
+但是在學習眾多演算法之後，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496615556.A.6F7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496615556.A.6F7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">a3602611 (雲山)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有沒有演算法的八卦啊？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 06:32:29 2017</span></div>
+本魯數學菸酒生，
+
+過往在程式設計、離散數學、數值分析等課程中聽過這個名字，
+
+演算法定義這麼大，在世上做演算法優化的人也不少，
+
+總有個全世界學過數學的人都認識的演算法之王，
+
+但是在學習眾多演算法之後，
+
+本魯認為是歐基里德演算法才有資格稱得上是演算法之王，
+
+有沒有演算法的八卦啊？
+
+--
+<span class="f5">男生看到女生那個樣子本來就會忍不住嘛</span><span class="f1">下半身不行還有上半身呀</span><span class="f1 hl">好癢快受不了要射了</span><span class="f2">我本</span>
+<span class="f2">來就還很年輕啊現在會犯錯也是正常的嘛</span><span class="f3">之前沒做又不代表之後不會做</span><span class="f5 hl">我是說了很多承諾但</span>
+<span class="f5 hl">做的本來就會跟說的不一樣呀</span><span class="f1 hl">又不是我的錯是妳說要分手是我被拋棄耶</span><span class="f6">你不能總一直想著你</span>
+<span class="f6">女兒你也要想想我兒子啊</span><span class="f2 hl">反正妳人還活著要求合理的話我們再來賠</span><span class="f6 hl">是她自己要去自殺的關我</span>
+<span class="f6 hl">什麼事</span><span class="f1 hl">有那麼嚴重嗎</span><span class="f4 hl">我還只是學生又負不起什麼責任</span><span class="f1">我又沒在工作為什麼交往時候我要出錢</span>
+　 　　　<span class="hl">我　一　定　會　叫　教　官　好　好　保　護　我　兒　子　的　。</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 175.181.157.228
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496615556.A.6F7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496615556.A.6F7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michellehot</span><span class="f3 push-content">: 資工專長 問樓下</span><span class="push-ipdatetime"> 06/05 06:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AppleOuO</span><span class="f3 push-content">: 你這樣要我怎麼回</span><span class="push-ipdatetime"> 06/05 06:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 一個學了以後每次用到也只是去查別人的用法的科目</span><span class="push-ipdatetime"> 06/05 06:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkIllusion</span><span class="f3 push-content">: 沒那種人 不過Cormen讀演算法的都知道</span><span class="push-ipdatetime"> 06/05 06:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newtoeic900</span><span class="f3 push-content">: 歐基里德演算法算啥，你知道歐西里斯天空龍嗎？</span><span class="push-ipdatetime"> 06/05 06:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lance8537</span><span class="f3 push-content">: 你知道亞圖姆演算法嗎</span><span class="push-ipdatetime"> 06/05 06:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uhmeiouramu</span><span class="f3 push-content">: 笑死 歐貝力斯克演算法才屌好ㄇ</span><span class="push-ipdatetime"> 06/05 06:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limoncool</span><span class="f3 push-content">: 樓上都太菜了 拉的翼神龍才是最強的</span><span class="push-ipdatetime"> 06/05 06:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jatj</span><span class="f3 push-content">: 優什麼鬼化 台灣叫最佳化 優化你個頭</span><span class="push-ipdatetime"> 06/05 06:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arer6931</span><span class="f3 push-content">: 沒有</span><span class="push-ipdatetime"> 06/05 06:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">squard</span><span class="f3 push-content">: 李開復演算法才是最強的</span><span class="push-ipdatetime"> 06/05 06:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 我都用一加一等於二</span><span class="push-ipdatetime"> 06/05 06:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">marszues</span><span class="f3 push-content">: 阿基里斯演算法</span><span class="push-ipdatetime"> 06/05 06:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newtoeic900</span><span class="f3 push-content">: 阿基師演算法</span><span class="push-ipdatetime"> 06/05 06:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tkc7</span><span class="f3 push-content">: 程式設計藝術目前出的整套讀完再上來發文</span><span class="push-ipdatetime"> 06/05 06:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Uniqueness</span><span class="f3 push-content">: 初音演算法</span><span class="push-ipdatetime"> 06/05 06:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cuminside</span><span class="f3 push-content">: 姆迷演算法</span><span class="push-ipdatetime"> 06/05 07:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 解答P=NP的那個人可以稱為“P王”</span><span class="push-ipdatetime"> 06/05 07:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stevenmouse</span><span class="f3 push-content">: 最佳化 謝謝</span><span class="push-ipdatetime"> 06/05 07:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oolong99</span><span class="f3 push-content">: 發廢文演算法</span><span class="push-ipdatetime"> 06/05 07:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 粒子群演算法最強</span><span class="push-ipdatetime"> 06/05 08:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ott</span><span class="f3 push-content">: <a href="http://disp.cc/b/18-5Ogs" target="_blank" rel="nofollow">http://disp.cc/b/18-5Ogs</a> (Beyond Computation: The P vs NP</span><span class="push-ipdatetime"> 06/05 09:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzzz8931</span><span class="f3 push-content">: O(1)</span><span class="push-ipdatetime"> 06/05 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Partition</span><span class="f3 push-content">: 最佳化的同義詞是最優化，一堆人搞不懂</span><span class="push-ipdatetime"> 06/05 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YJSai</span><span class="f3 push-content">: 現在該學類神經`捲積神經網路</span><span class="push-ipdatetime"> 06/05 09:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wableHD</span><span class="f3 push-content">: 一鍵優化</span><span class="push-ipdatetime"> 06/05 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 樓上噓的，那是指同樣在台灣的用法那兩個才同義.</span><span class="push-ipdatetime"> 06/05 12:17
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496615556.A.6F7.html?cacheKey=2052-1978743&offset=3876&offset-sig=14bec3c6a7c908e59c7a97d92c683385ae6b63b6" data-longpollurl="/v1/longpoll?id=15a1d08e04f489e175331fcc712667ccbfb73eac" data-offset="3876"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

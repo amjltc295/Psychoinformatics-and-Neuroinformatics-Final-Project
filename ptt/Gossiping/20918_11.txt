@@ -1,0 +1,184 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495548980.A.5B0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 寫程式寫到龜懶趴火要怎麼紓壓？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="根據以前的經驗，
+BUG抓不到，
+先存檔，
+然後出去走一走，
+不過這一個時間應該是跑去睡覺。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 寫程式寫到龜懶趴火要怎麼紓壓？">
+<meta property="og:description" content="根據以前的經驗，
+BUG抓不到，
+先存檔，
+然後出去走一走，
+不過這一個時間應該是跑去睡覺。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495548980.A.5B0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495548980.A.5B0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">redspeed (RED)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 寫程式寫到龜懶趴火要怎麼紓壓？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 22:16:17 2017</span></div>
+<span class="f2">※ 引述《pitbull0123 (鬥牛犬汪汪)》之銘言：
+</span><span class="f6">: 喔幹拎老師勒 你娘勒為什麼不會動作
+</span><span class="f6">: 如題
+</span><span class="f6">: 本魯現在找不到程式的bug 已經龜懶趴火
+</span><span class="f6">: 要怎麼做才能夠紓壓
+</span><span class="f6">: 有沒有這類的八卦
+</span><span class="f6">: -----
+</span><span class="f6">: Sent from JPTT on my iPhone
+</span>
+
+根據以前的經驗，
+
+BUG抓不到，
+
+先存檔，
+
+然後出去走一走，
+
+不過這一個時間應該是跑去睡覺。
+
+紓壓歐，打電動啊...
+
+看別人的遊戲程式怎麼寫，
+
+然後玩一玩，BUG差不多也找到了。
+
+最下策，
+
+冷凍起來，
+
+重新寫程式。
+
+以上大概就是這樣，
+
+對了，把程式碼丟給朋友去抓蟲也不錯。
+
+--
+╔══════════════════════════════════╗
+║╔════════════════════════════════╗║
+║║                   節電，                                       ║║
+║║                        才是最環保、最省錢的發電！              ║║
+║╚════════════════════════════════╝║
+╚══════════════════════════════════╝
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.104.161
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495548980.A.5B0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495548980.A.5B0.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XJY13</span><span class="f3 push-content">: 最後一句 真狠</span><span class="push-ipdatetime"> 05/23 22:17
+</span></div>我之前都丟程式碼給朋友後，
+就跑去睡覺，隔天早上再問他結果如何，改了甚麼...
+
+聽說我朋友整天都沒睡覺，只為了抓蟲
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alucardlai</span><span class="f3 push-content">: 冒險尻</span><span class="push-ipdatetime"> 05/23 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: clean 重build、IDE重開、重開機、睡覺</span><span class="push-ipdatetime"> 05/23 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 教授教的</span><span class="push-ipdatetime"> 05/23 22:20
+</span></div>沒被教授當?
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 你沒有朋友</span><span class="push-ipdatetime"> 05/23 22:20
+</span></div>QQ
+<span class="f2">※ 編輯: redspeed (114.42.104.161), 05/23/2017 22:22:09
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 跟損友互相交換寫好像有搞頭 一邊罵一邊抓</span><span class="push-ipdatetime"> 05/23 22:22
+</span></div>我都是單方面的，
+我才懶得去幫別人抓蟲XDD
+<span class="f2">※ 編輯: redspeed (114.42.104.161), 05/23/2017 22:22:41
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 賭輸的人要請吃點心</span><span class="push-ipdatetime"> 05/23 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tipsofwarren</span><span class="f3 push-content">: 設斷點</span><span class="push-ipdatetime"> 05/23 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 設斷點只知道是哪時出錯，但錯誤可能是很早的地雷</span><span class="push-ipdatetime"> 05/23 22:25
+</span></div>有時候要全部重新檢查過一次
+還不一定可以找到蟲
+<span class="f2">※ 編輯: redspeed (114.42.104.161), 05/23/2017 22:30:23
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 我沒被當ㄛ 一覺起來 什麼bug都看見惹</span><span class="push-ipdatetime"> 05/23 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 邏輯錯誤 有時候沒睡一覺還找不到</span><span class="push-ipdatetime"> 05/23 22:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495548980.A.5B0.html?cacheKey=2052-38976429&offset=2660&offset-sig=0dc4f623d47574d1f5037b25c150d31156b1c78f" data-longpollurl="/v1/longpoll?id=eb9bbe861243e5b457b5ce625123e79b83533933" data-offset="2660"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

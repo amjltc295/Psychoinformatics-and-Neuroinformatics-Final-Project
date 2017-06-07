@@ -1,0 +1,167 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496036596.A.160.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 打信長時會注意角色在講三小嗎？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="打信長時
+裡面的角色會一直講一堆有的沒的英文
+肥宅我是
+沒聽過有誰會去特別注意那些語音喇
+請問大家
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 打信長時會注意角色在講三小嗎？">
+<meta property="og:description" content="打信長時
+裡面的角色會一直講一堆有的沒的英文
+肥宅我是
+沒聽過有誰會去特別注意那些語音喇
+請問大家
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496036596.A.160.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496036596.A.160.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">starfishkira (死搭魚)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 打信長時會注意角色在講三小嗎？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 13:43:12 2017</span></div>
+
+打信長時
+
+裡面的角色會一直講一堆有的沒的英文
+
+肥宅我是
+
+沒聽過有誰會去特別注意那些語音喇
+
+請問大家
+
+有人會去注意信長裡的角色在工三小嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.85.96.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496036596.A.160.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496036596.A.160.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 不會</span><span class="push-ipdatetime"> 05/29 13:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 小三講三小</span><span class="push-ipdatetime"> 05/29 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lponnn</span><span class="f3 push-content">: 大部分都是魔獸爭霸的內建音檔阿</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yude0109</span><span class="f3 push-content">: doge doge</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Siferia6398</span><span class="f3 push-content">: 啊bingo</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yorkyoung</span><span class="f3 push-content">: 糞game</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aCCQ</span><span class="f3 push-content">: 塔斯丁狗~</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lponnn</span><span class="f3 push-content">: 樓上是不是一直被電QQ</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l11111111</span><span class="f3 push-content">: 都會聽啊 塔史丁狗～</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lponnn</span><span class="f3 push-content">: 我記得黑田是說塔斯汀狗XD</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">B7979</span><span class="f3 push-content">: 阿 come in her. Ready to work</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ok5566</span><span class="f3 push-content">: i&#39;m hero on the bed</span><span class="push-ipdatetime"> 05/29 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">h22212247888</span><span class="f3 push-content">: job done</span><span class="push-ipdatetime"> 05/29 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FAYeeeeeeee</span><span class="f3 push-content">: 稻葉:Do you want to 網咖</span><span class="push-ipdatetime"> 05/29 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">l11111111</span><span class="f3 push-content">: 還有一個老是說要去網咖的</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laurence9947</span><span class="f3 push-content">: Agree</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FAYeeeeeeee</span><span class="f3 push-content">: 瀧川:absolutely</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zoe8616</span><span class="f3 push-content">: 沃克～窩客</span><span class="push-ipdatetime"> 05/29 13:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azjba89xz</span><span class="f3 push-content">: Do you want to 網咖</span><span class="push-ipdatetime"> 05/29 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sharb</span><span class="f3 push-content">: No no not like that</span><span class="push-ipdatetime"> 05/29 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riseball</span><span class="f3 push-content">: 黑田：嘎逼股舊衣斯擺～</span><span class="push-ipdatetime"> 05/29 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tsubasa1008</span><span class="f3 push-content">: 于禁要去網咖</span><span class="push-ipdatetime"> 05/29 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JOGIBA</span><span class="f3 push-content">: I&#39;m 王仁甫！</span><span class="push-ipdatetime"> 05/29 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scedbo412</span><span class="f3 push-content">: Warriors of the night, assemble! 吼!</span><span class="push-ipdatetime"> 05/29 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: do you want to 網咖</span><span class="push-ipdatetime"> 05/29 14:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lupin2401</span><span class="f3 push-content">: 雅馬達給</span><span class="push-ipdatetime"> 05/29 14:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lupin2401</span><span class="f3 push-content">: 阿發有連</span><span class="push-ipdatetime"> 05/29 14:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">trylin</span><span class="f3 push-content">: 塔斯汀狗  YAAAA YES紕漏</span><span class="push-ipdatetime"> 05/29 14:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jjimonkey</span><span class="f3 push-content">: 哇你哇你汪嘎</span><span class="push-ipdatetime"> 05/29 14:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lalalafong</span><span class="f3 push-content">: 農奴：Job done. Ready to work</span><span class="push-ipdatetime"> 05/29 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzz55597</span><span class="f3 push-content">: 歐巴懂沒</span><span class="push-ipdatetime"> 05/29 14:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aOwOa</span><span class="f3 push-content">: For the king</span><span class="push-ipdatetime"> 05/29 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dk31odd</span><span class="f3 push-content">: 他媽科 烏門</span><span class="push-ipdatetime"> 05/29 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiiam1005</span><span class="f3 push-content">: unnecessary</span><span class="push-ipdatetime"> 05/29 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p2p8ppp</span><span class="f3 push-content">: INDEED!</span><span class="push-ipdatetime"> 05/29 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DDT159</span><span class="f3 push-content">: 暴斃</span><span class="push-ipdatetime"> 05/29 16:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leew633</span><span class="f3 push-content">: 都沒人玩菊姬喔QQ</span><span class="push-ipdatetime"> 05/29 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AhowXD</span><span class="f3 push-content">: 哈娜台北</span><span class="push-ipdatetime"> 05/29 21:19
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496036596.A.160.html?cacheKey=2052-1862220&offset=4261&offset-sig=e0c1926ccaeed15b785c2751940a40e4542c5d6d" data-longpollurl="/v1/longpoll?id=9b585e3dc99dabf185438a02d4f327c99ae704a0" data-offset="4261"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,181 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495462141.A.C2E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 台灣遊戲界真的有能力做出巫師三 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="敝人從事遊戲2D美術，也曾待過講出這句話的人那家公司...
+只能說遊戲業界內的人都知道，就算去除腦殘老闆、嘴砲主管跟資金問題
+製作的技術力已經被外國海放太久，不太可能看到車尾燈了
+有些製作人以為用個UE4、用ZB雕個高模、貼個Normal Map就是3A級大作，
+也太小看國外這些年發展出來的妖怪技術了吧...
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 台灣遊戲界真的有能力做出巫師三">
+<meta property="og:description" content="敝人從事遊戲2D美術，也曾待過講出這句話的人那家公司...
+只能說遊戲業界內的人都知道，就算去除腦殘老闆、嘴砲主管跟資金問題
+製作的技術力已經被外國海放太久，不太可能看到車尾燈了
+有些製作人以為用個UE4、用ZB雕個高模、貼個Normal Map就是3A級大作，
+也太小看國外這些年發展出來的妖怪技術了吧...
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495462141.A.C2E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495462141.A.C2E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Holyavenger (Lazy Days)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 台灣遊戲界真的有能力做出巫師三</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 22:08:58 2017</span></div>
+<span class="f2">※ 引述《cjol (勤樸)》之銘言：
+</span><span class="f6">: 到現在大家還讚不絕口  魅力非凡
+</span><span class="f6">: 雖然已有台灣遊戲大咖出面保證
+</span><span class="f6">: 兩百人三年可玩完成巫師三
+</span><span class="f6">: 但心理還是不踏實
+</span><span class="f6">: 即使台灣水準不會輸給波蘭
+</span><span class="f6">: 但真的做得出巫師三水準的遊戲
+</span>
+敝人從事遊戲2D美術，也曾待過講出這句話的人那家公司...
+
+只能說遊戲業界內的人都知道，就算去除腦殘老闆、嘴砲主管跟資金問題
+
+製作的技術力已經被外國海放太久，不太可能看到車尾燈了
+
+有些製作人以為用個UE4、用ZB雕個高模、貼個Normal Map就是3A級大作，
+
+也太小看國外這些年發展出來的妖怪技術了吧...
+
+
+台灣在2D插畫設定或3D某些美術單一方面可能還可以跟的上外國水準，
+
+但一個3A級遊戲不是只要設定畫的漂亮、ZB雕的細緻就可以的...
+
+但其實不講高端技術方面，一些基層工作也有嚴重殘缺
+
+因為大家都只想做最爽的工作(比方說角色)，而動作、特效、UI...都乏人問津
+
+就像拍電影人人都想當導演一樣...基層工作得不到尊重跟成就感
+
+這樣的環境怎能做出好作品？
+
+
+我個人今年在某大學多媒體科系任教，
+
+有一個遊戲美術課程，學期一開始爆滿超過60人來選
+
+結果學生發現我不是教人物設計，而是教我覺得目前手遊時代比較需要的UI製作
+<a href="http://i.imgur.com/AVN3eOh.jpg" target="_blank" rel="nofollow">http://i.imgur.com/AVN3eOh.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="AVN3eOh"><a href="//imgur.com/AVN3eOh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>(這張是課堂上用FFBE的UI配置，重新製作的範例)
+
+於是到學期末就剩不到30人來上課了...哈哈
+
+我也喜歡畫角色啊，但大家都在畫角色其他工作誰做？
+
+<a href="http://i.imgur.com/2AfX8AE.jpg" target="_blank" rel="nofollow">http://i.imgur.com/2AfX8AE.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="2AfX8AE"><a href="//imgur.com/2AfX8AE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<a href="http://i.imgur.com/XvdM2CW.jpg" target="_blank" rel="nofollow">http://i.imgur.com/XvdM2CW.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="XvdM2CW"><a href="//imgur.com/XvdM2CW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+所以台灣要做出3A大作真的還有的等囉～
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.46.50.245
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495462141.A.C2E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495462141.A.C2E.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gracefeather</span><span class="f3 push-content">: 專業推</span><span class="push-ipdatetime"> 05/22 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yannicklatte</span><span class="f3 push-content">: 卡特拿槍了</span><span class="push-ipdatetime"> 05/22 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 巫師2,3是在1賺錢之後 通通撒下去自己刻引擎的喔</span><span class="push-ipdatetime"> 05/22 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray90910</span><span class="f3 push-content">: 我覺得幹嘛一開始就設定最高等級阿，從比較平易近人的開</span><span class="push-ipdatetime"> 05/22 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ray90910</span><span class="f3 push-content">: 始切入比較合適的</span><span class="push-ipdatetime"> 05/22 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dubwat</span><span class="f3 push-content">: 專業推</span><span class="push-ipdatetime"> 05/22 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">harryqiu</span><span class="f3 push-content">: 說得很好 前面有一些推文說:台灣菁英技術好棒棒</span><span class="push-ipdatetime"> 05/22 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bloodruru</span><span class="f3 push-content">: 專業推!!</span><span class="push-ipdatetime"> 05/22 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taiwan81903</span><span class="f3 push-content">: 沒有UI/UX，哪來的舒服操作 辛苦你了@@</span><span class="push-ipdatetime"> 05/22 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">degneva</span><span class="f3 push-content">: 推專業 原文底下一堆人還真以為台灣真的有技術生出像樣3A</span><span class="push-ipdatetime"> 05/22 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mario5566</span><span class="f3 push-content">: 台灣遊戲最好玩時期是2D時代，那時真的經典一堆跟用心</span><span class="push-ipdatetime"> 05/22 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mario5566</span><span class="f3 push-content">: 現在這種環境加上手遊當道別想了</span><span class="push-ipdatetime"> 05/22 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">harryqiu</span><span class="f3 push-content">: 只要有錢 就做得出來。都沒發覺跟原話很像嗎?</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">raku</span><span class="f3 push-content">: 台灣遊戲最爛的地方就是細節,像是UI根本好酷好炫好難用</span><span class="push-ipdatetime"> 05/22 22:56
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495462141.A.C2E.html?cacheKey=2052-36971166&offset=2926&offset-sig=d92161f5b64b290666a7888a62ada2ceb99ef9e9" data-longpollurl="/v1/longpoll?id=c241b1afddc797bb38c560e18091ce61b4af3026" data-offset="2926"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

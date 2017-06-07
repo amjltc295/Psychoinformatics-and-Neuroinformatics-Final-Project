@@ -1,0 +1,229 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495597050.A.9D5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 驚呆了 擊敗柯潔的AlphaGo是單機版 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="請問
+現在學圍棋的人會不會覺得很幹
+學到最高深的技術  或是IQ180以上的天才下法
+搞不好還是打不贏這個圍棋上帝? 拔插頭不算
+還有興趣學嗎?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 驚呆了 擊敗柯潔的AlphaGo是單機版">
+<meta property="og:description" content="請問
+現在學圍棋的人會不會覺得很幹
+學到最高深的技術  或是IQ180以上的天才下法
+搞不好還是打不贏這個圍棋上帝? 拔插頭不算
+還有興趣學嗎?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495597050.A.9D5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495597050.A.9D5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">fategg (nothinG)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 驚呆了 擊敗柯潔的AlphaGo是單機版</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 11:37:27 2017</span></div>
+請問
+
+現在學圍棋的人會不會覺得很幹
+
+學到最高深的技術  或是IQ180以上的天才下法
+
+搞不好還是打不贏這個圍棋上帝? 拔插頭不算
+
+還有興趣學嗎?
+
+還是說
+
+會以打敗阿法GO為目標  苦讀苦練修行  向RPG那樣練功 向大魔王邁進
+
+有沒有人知道這一行現在的境況的八卦?
+
+
+<span class="f2">※ 引述《cc9i (正直與善良)》之銘言：
+</span><span class="f6">: 驚呆了 擊敗柯潔的AlphaGo是單機版伔
+</span><span class="f6">:  2017年05月23日 17:39 黃慧雯／綜合報導
+</span><span class="f6">: <a href="http://www.chinatimes.com/realtimenews/20170523004422-260412" target="_blank" rel="nofollow">http://www.chinatimes.com/realtimenews/20170523004422-260412</a>
+</span><span class="f6">: 今(23)日起跑的「中國烏鎮．圍棋峰會」，由世界棋王柯潔對戰AlphaGo掀開序幕。歷時
+</span><span class="f6">: 四個多小時的比賽，最終執黑棋先行的柯潔以1/4子之差落敗，由AlphaGo取得第一勝。針
+</span><span class="f6">: 對這場比賽，圍棋界討論的多是柯潔是否正常發揮，然而若從科技發展的角度來看，能探
+</span><span class="f6">: 討的內容更多。比如AlphaGo的運算能力等等。對此，開發AlphaGo的DeepMind執行長
+</span><span class="f6">: Demis Hassabis在記者會中確認，這次與柯潔對戰的AlphaGo與之前的不同，乃是單機版
+</span><span class="f6">: ！勢必令許多關注AI發展的朋友感到驚訝與驚喜。
+</span><span class="f6">: 根據今日賽後記者會，DeepMind方面表示，本次與柯潔對弈的AlphaGo乃是單機版，與過
+</span><span class="f6">: 去跟李世石對戰時不同，當初是分散式版本。這一次AlphaGo擁有更強大的演算法，運算
+</span><span class="f6">: 起來更簡單也更好。單機版的速度更快，運算結果也更好，採用了TPU(Tensor Processing
+</span><span class="f6">:  Units，機器學習專用晶片)，並架設在Google Cloud之上。而根據DeepMind執行長
+</span><span class="f6">: Demis Hassabis的補充，這一次的AlphaGo計算能力少於過去(對戰李世石的)1/10
+</span><span class="f6">: 根據2016年3月份，當初替AlphaGo落棋的黃世傑博士表示，與李世石對戰的AlphaGo是
+</span><span class="f6">: 分散式版本，與當時單機版本AlphaGo對戰的話，勝率大約是70%。
+</span><span class="f6">: 而從今日記者會中的說法來看，今天的單機版本AlphaGo明顯比2016年3月份進步許多。從
+</span><span class="f6">: 今日單機版AlphaGo擊敗柯潔，當初分散式版AlphaGo擊敗李世石，且今日Go Rating排名
+</span><span class="f6">: 上，柯潔居第一、李世石居第七的情況來看，今日打敗柯潔的單機版AlphaGo不僅計算能力
+</span><span class="f6">: 驚人，演算法的優化程度也令人不禁稱奇
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.115.78.43
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495597050.A.9D5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495597050.A.9D5.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 講真的 興奮都來不及了吧</span><span class="push-ipdatetime"> 05/24 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 沒什麼好幹的吧 西洋棋N年前就輸了 還是很多人玩啊</span><span class="push-ipdatetime"> 05/24 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hunt5566</span><span class="f3 push-content">: 邏輯是個好東西</span><span class="push-ipdatetime"> 05/24 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 如果遇到一個下不贏的對手就不學 你也就這樣的程度</span><span class="push-ipdatetime"> 05/24 11:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andrewyllee</span><span class="f3 push-content">: 反正跑不贏汽車 大家都別賽跑了</span><span class="push-ipdatetime"> 05/24 11:39
+</span></div>應該說玩是可以照玩  但是世界第一的頭銜  已經名存實亡了 大家也不用再爭  可回家了
+<span class="f2">※ 編輯: fategg (59.115.78.43), 05/24/2017 11:40:44
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 這可能跟吳清源當年帶來新定石一樣，是一種觀念革新，</span><span class="push-ipdatetime"> 05/24 11:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brighton16</span><span class="f3 push-content">: 棋逢敵手才有樂趣</span><span class="push-ipdatetime"> 05/24 11:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 光是一堆臭手被驗證其實根本沒那麼糟糕，就可以預見棋</span><span class="push-ipdatetime"> 05/24 11:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 興奮都來不及了，很多棋手說AG讓他們開拓視野。</span><span class="push-ipdatetime"> 05/24 11:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 不過，AG下點33就是會贏，一般人還是不要學了。</span><span class="push-ipdatetime"> 05/24 11:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 可以爭人類第一阿 機器又不是人類</span><span class="push-ipdatetime"> 05/24 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: title或是頭銜改成人類最強不就好了</span><span class="push-ipdatetime"> 05/24 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 路的變化能大幅度的增加了</span><span class="push-ipdatetime"> 05/24 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 人類最強圍棋手:柯潔 聽起來還是很好啊</span><span class="push-ipdatetime"> 05/24 11:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">archon</span><span class="f3 push-content">: 別說世界第一了，一堆了努力了半天，連巷口的阿伯都贏不了</span><span class="push-ipdatetime"> 05/24 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 不用強調人類吧 UFC格鬥冠軍難道還要打贏熊嗎？</span><span class="push-ipdatetime"> 05/24 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkdd</span><span class="f3 push-content">: 會</span><span class="push-ipdatetime"> 05/24 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sharkdd</span><span class="f3 push-content">: 會吧</span><span class="push-ipdatetime"> 05/24 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Zcould</span><span class="f3 push-content">: 跟心算贏不了計算機一樣</span><span class="push-ipdatetime"> 05/24 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 棋士本來就是人類了</span><span class="push-ipdatetime"> 05/24 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">archon</span><span class="f3 push-content">: 棋奕好玩的地方不是贏棋，而是跟棋力相當的對手對奕 ^^&#34;</span><span class="push-ipdatetime"> 05/24 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Solti</span><span class="f3 push-content">: 練賽跑的會去抱怨汽車跑比較快?</span><span class="push-ipdatetime"> 05/24 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 其實我是覺得他把圍棋眼界推廣 其實本質根本沒有臭手</span><span class="push-ipdatetime"> 05/24 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Oxhorn</span><span class="f3 push-content">: 為什麼人類的世界第一要跟機器來一起排名?</span><span class="push-ipdatetime"> 05/24 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenyun</span><span class="f3 push-content">: 就看西洋棋好了  現在幾乎沒啥比賽了</span><span class="push-ipdatetime"> 05/24 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiauji</span><span class="f3 push-content">: 人類跟變形金剛比打架？</span><span class="push-ipdatetime"> 05/24 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenyun</span><span class="f3 push-content">: 職業棋手比的是怎麼到廁所偷看AI  這像話嗎</span><span class="push-ipdatetime"> 05/24 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Oxhorn</span><span class="f3 push-content">: 波爾特跑步跑不贏跑車  那以後人類不要辦跑步比賽了</span><span class="push-ipdatetime"> 05/24 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: 還好阿，奧運賽跑又不能開車</span><span class="push-ipdatetime"> 05/24 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolod546</span><span class="f3 push-content">: 圍棋慢慢被破解 樂趣自然就會少了</span><span class="push-ipdatetime"> 05/24 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 到底是享受下棋樂趣還是單純只想贏啊…</span><span class="push-ipdatetime"> 05/24 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">donnalee</span><span class="f3 push-content">: 輸贏很重要，但任何比賽都有比輸贏更重要的東西在</span><span class="push-ipdatetime"> 05/24 11:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waterQAQ</span><span class="f3 push-content">: 有可以追逐的對象，興奮都來不及了吧</span><span class="push-ipdatetime"> 05/24 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmtsung</span><span class="f3 push-content">: 計算機ㄧ出現，數學家會覺得學數學沒用了嗎？</span><span class="push-ipdatetime"> 05/24 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolod546</span><span class="f3 push-content">: 頂尖棋手是想自己當上帝 不是看到上帝出現</span><span class="push-ipdatetime"> 05/24 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaHu</span><span class="f3 push-content">: 人跑再快也比不過摩托車  沒甚麼羞恥</span><span class="push-ipdatetime"> 05/24 11:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn00063172</span><span class="f3 push-content">: 圍棋的樂趣是當下破解對方吧，難道看AG下棋之後碰到能</span><span class="push-ipdatetime"> 05/24 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gn00063172</span><span class="f3 push-content">: 就直接硬套上去嗎</span><span class="push-ipdatetime"> 05/24 11:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">po3d</span><span class="f3 push-content">: 圍棋的其中一個樂趣不就是盤後討論？雖然很好奇阿發狗用狂新</span><span class="push-ipdatetime"> 05/24 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">po3d</span><span class="f3 push-content">: 聞的聲音在檢討棋路會不會很欠扁？</span><span class="push-ipdatetime"> 05/24 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolod546</span><span class="f3 push-content">: 象棋覆盤靠AI幾乎能達最佳解法 圍棋將來也只是時間問題</span><span class="push-ipdatetime"> 05/24 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 昨天好像是aja覆盤...?!</span><span class="push-ipdatetime"> 05/24 12:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j73596</span><span class="f3 push-content">: 我打不贏電腦 可是打得贏你 還是爽啊</span><span class="push-ipdatetime"> 05/24 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">henry1234562</span><span class="f3 push-content">: 毫無邏輯可言 你賽跑的世界第一有在算汽車的?</span><span class="push-ipdatetime"> 05/24 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">henry1234562</span><span class="f3 push-content">: 那為啥你圍棋的世界第一會算ai 標準統一好嗎</span><span class="push-ipdatetime"> 05/24 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">henry1234562</span><span class="f3 push-content">: 所謂世界第一 一直都是人類中的第一</span><span class="push-ipdatetime"> 05/24 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">henry1234562</span><span class="f3 push-content">: 就像你舉重不會去跟起重機比一樣</span><span class="push-ipdatetime"> 05/24 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RayHs</span><span class="f3 push-content">: 職棒有用投球機取代投手嗎？</span><span class="push-ipdatetime"> 05/24 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 人類本來就應該藉ai的手推開知識之門</span><span class="push-ipdatetime"> 05/24 12:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 你人腦再花一千年也達不到現在阿法狗程度，要是沒有</span><span class="push-ipdatetime"> 05/24 12:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 阿法狗是不是還要繼續活在粉紅泡泡裡？</span><span class="push-ipdatetime"> 05/24 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rhox</span><span class="f3 push-content">: 看西洋棋界啊</span><span class="push-ipdatetime"> 05/24 12:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tareki</span><span class="f3 push-content">: 計算機出現後，心算就被捨棄了，圍棋也是遲早的事</span><span class="push-ipdatetime"> 05/24 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OilCy</span><span class="f3 push-content">: 腦袋是個好東西</span><span class="push-ipdatetime"> 05/24 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nurvay</span><span class="f3 push-content">: 我也不懂跑步比賽幹嘛辦 弄個名目增加就業? 真慘的理由</span><span class="push-ipdatetime"> 05/24 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">srxteam0935</span><span class="f3 push-content">: 只能說阿法狗是AI的里程碑 不能說它是圍棋的里程碑</span><span class="push-ipdatetime"> 05/24 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">srxteam0935</span><span class="f3 push-content">: 否則所有格鬥技比賽早該淘汰了</span><span class="push-ipdatetime"> 05/24 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shinobunodok</span><span class="f3 push-content">: 結果你拔他插頭 他說他有內建電源</span><span class="push-ipdatetime"> 05/24 12:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">suikanta</span><span class="f3 push-content">: 跑步會因為車跑很快就不比嗎？</span><span class="push-ipdatetime"> 05/24 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dacun10045</span><span class="f3 push-content">: 當人類第一就好啦 柯潔還是強啊!</span><span class="push-ipdatetime"> 05/24 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">faker007</span><span class="f3 push-content">: 好想看吳清源下 太晚問世了</span><span class="push-ipdatetime"> 05/24 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ThreeNG</span><span class="f3 push-content">: 比不上電動按摩棒你會剁雞雞嗎?</span><span class="push-ipdatetime"> 05/24 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2654133</span><span class="f3 push-content">: 什麼數學家的例子都出來了 數學又不是兩人對弈的遊戲</span><span class="push-ipdatetime"> 05/24 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a2654133</span><span class="f3 push-content">:  圍棋才是兩人對決</span><span class="push-ipdatetime"> 05/24 13:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GimO</span><span class="f3 push-content">: 沒人看</span><span class="push-ipdatetime"> 05/24 13:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pounil</span><span class="f3 push-content">: 鄉民自己比不上什麼的 可以先投胎了是嗎</span><span class="push-ipdatetime"> 05/24 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: alphago：你們大家一起上吧，我和你們同時下，你們可</span><span class="push-ipdatetime"> 05/24 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 以看棋盤，我不用</span><span class="push-ipdatetime"> 05/24 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bbaad</span><span class="f3 push-content">: 愚蠢的人類，以己之短攻敵之長</span><span class="push-ipdatetime"> 05/24 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kaichun</span><span class="f3 push-content">: 圍棋本來就還是會回歸到人跟人的對弈 跟機器比只是噱頭好</span><span class="push-ipdatetime"> 05/25 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaichun</span><span class="f3 push-content">: 嗎</span><span class="push-ipdatetime"> 05/25 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayven</span><span class="f3 push-content">: @kenyun 那個沒證據就不要再傳了，雖然我也覺得怪怪的</span><span class="push-ipdatetime"> 05/26 11:22
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495597050.A.9D5.html?cacheKey=2052-692105&offset=9406&offset-sig=43d7db804727022d0ab33bc539dab09f4a2d885e" data-longpollurl="/v1/longpoll?id=fbe2fa8e796e8bcf7de11729ff6d755754e11ae6" data-offset="9406"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

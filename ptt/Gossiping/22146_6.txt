@@ -1,0 +1,224 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496374015.A.28C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 趕見母最後一面超速遭罰　法官：仍不能違 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:       蘋果日報
+2.完整新聞標題:   趕見母最後一面超速遭罰　法官：仍不能違規
+3.完整新聞內文:
+新北市三重區一名黃姓男子，
+去年12月，在家中接獲通知正在旅遊的母親身體不適昏倒送醫，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 趕見母最後一面超速遭罰　法官：仍不能違">
+<meta property="og:description" content="1.媒體來源:       蘋果日報
+2.完整新聞標題:   趕見母最後一面超速遭罰　法官：仍不能違規
+3.完整新聞內文:
+新北市三重區一名黃姓男子，
+去年12月，在家中接獲通知正在旅遊的母親身體不適昏倒送醫，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496374015.A.28C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496374015.A.28C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">FTP5566 (\(。▽°)/)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 趕見母最後一面超速遭罰　法官：仍不能違</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 11:26:52 2017</span></div>
+1.媒體來源:       蘋果日報
+
+2.完整新聞標題:   趕見母最後一面超速遭罰　法官：仍不能違規
+
+3.完整新聞內文:
+
+新北市三重區一名黃姓男子，
+去年12月，在家中接獲通知正在旅遊的母親身體不適昏倒送醫，
+黃男心急飛車趕往南投埔里，卻在國道6高速公路遭測速113公里，
+超速13公里後遭罰3000元。
+
+黃男事後雖拿出當天母喪證明，強調不慎違規希望撤罰，
+不過，新北地院認為黃男無法見母最後一面，雖屬憾事，令人惋惜不捨，
+但黃男仍應注意路況而不違規，判敗訴，不能撤罰；尚可上訴。
+
+黃男指出，2016年12月18日在三重家中，接獲埔里基督教醫院通知，
+前往埔里等地旅遊的母親由於身體不適，昏倒送醫並且病危，
+他心急下連忙開車趕往南投埔里，因不熟悉路況，
+下午1時6分在速限100公里的國道6號，被警員逮到行車時速達113公里，超速13公里，
+因而被新北市交通裁決處裁罰3千元，記違規點數1點。
+
+黃男強調不慎違規，不是刻意超速，也提出母親當天中午近1時過世的醫院死亡證明書，
+向新北地院提出行政訴訟，要求法院撤罰，但新北市交通裁決處則反對，
+表示會有超速裁罰規定，是出於維護公眾往來行車的安全，
+黃男不能因為心急母親病況而無視交通規則，否則每人都可用個人事情，
+來危害其他眾多用路人的交通安全。
+
+新北地院指出，黃男行車超速已有個人過失，雖黃男無法見到母親最後一面，
+令人惋惜不捨，但開車趕往時仍應謹慎注意路況，不要違反交通法規，
+認為黃男提訟理由，不能作為撤罰依據，判黃男敗訴。（孫友廉／新北報導）
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.appledaily.com.tw/realtimenews/article/local/20170601/1130635/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/local/20170601/1130635/</a>
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.171.24.226
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496374015.A.28C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496374015.A.28C.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gtrx</span><span class="f3 push-content">: 銅鋰鋅</span><span class="push-ipdatetime"> 06/02 11:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kudo0930</span><span class="f3 push-content">: 我還以為賠多少錢  結果才三千也要上訴</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 恐龍法官</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MarkWebber</span><span class="f3 push-content">: 恐龍法官</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AppleOuO</span><span class="f3 push-content">: 幫上一代未受過良好教育的人QQ</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TllDA</span><span class="f3 push-content">: 見親人最後一面 跟 3000塊  哪個重要? 對他來說很好選</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AppleOuO</span><span class="f3 push-content">: 超速沒重罰是把其他人的命當什麼 應該修法啊</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">withyou</span><span class="f3 push-content">: 整天都在恐龍法官？他裝撞死人怎麼辦？</span><span class="push-ipdatetime"> 06/02 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arctic</span><span class="f3 push-content">: 三千也要吵…如果車禍的話這種理由也可以撤銷嗎</span><span class="push-ipdatetime"> 06/02 11:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MoronJJ</span><span class="f3 push-content">: 被罰也得超速，必須的</span><span class="push-ipdatetime"> 06/02 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 嗯</span><span class="push-ipdatetime"> 06/02 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MarkWebber</span><span class="f3 push-content">: 每個人都只有一個父母，這些長官很糟糕</span><span class="push-ipdatetime"> 06/02 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mjj90138</span><span class="f3 push-content">: 說實話 我寧願有見到媽媽最後一面然後罰3000</span><span class="push-ipdatetime"> 06/02 11:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wake7078</span><span class="f3 push-content">: 法官: 依法行政  謝謝指教</span><span class="push-ipdatetime"> 06/02 11:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cayalst</span><span class="f3 push-content">: 有見到罰10萬 我都甘心</span><span class="push-ipdatetime"> 06/02 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">m810415</span><span class="f3 push-content">: 3000也要吵 那你別去見最後一面好了</span><span class="push-ipdatetime"> 06/02 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AppleOuO</span><span class="f3 push-content">: 這推文是反串嗎</span><span class="push-ipdatetime"> 06/02 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ojo32</span><span class="f3 push-content">: 不然哩？　</span><span class="push-ipdatetime"> 06/02 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 這有啥好爭議的，世界不是繞著個人轉，3000元摸摸鼻子</span><span class="push-ipdatetime"> 06/02 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bornwinner</span><span class="f3 push-content">: 為了見媽媽最後一面，三千也在計較</span><span class="push-ipdatetime"> 06/02 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 繳一繳，還找記者造風向喔</span><span class="push-ipdatetime"> 06/02 11:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 有見到最後一面跟罰3000比起來差很多....</span><span class="push-ipdatetime"> 06/02 11:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KGarnett05</span><span class="f3 push-content">: 這種就自己吞一吞吧，一點錢而已</span><span class="push-ipdatetime"> 06/02 11:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MissFaye</span><span class="f3 push-content">: 法官沒錯啊</span><span class="push-ipdatetime"> 06/02 11:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snsi</span><span class="f3 push-content">: 不能說兩方面都對,只能說雙方都沒錯這樣</span><span class="push-ipdatetime"> 06/02 11:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 再來法定罰款3000~6000，只罰3000已經是最低了還要叫</span><span class="push-ipdatetime"> 06/02 11:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pp0731</span><span class="f3 push-content">: 阿就沒遇到貴人,沒辦法的事</span><span class="push-ipdatetime"> 06/02 11:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">optimistic13</span><span class="f3 push-content">: 不對吧？這是人間世情，哪能罰這種的？恐龍法官</span><span class="push-ipdatetime"> 06/02 11:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 這時候就沒有死者為大惹 偉哉偉哉</span><span class="push-ipdatetime"> 06/02 11:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xing1007</span><span class="f3 push-content">: 3000也在靠北  見最後一面不值3000？</span><span class="push-ipdatetime"> 06/02 11:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howard0711</span><span class="f3 push-content">: 3萬都無所謂吧</span><span class="push-ipdatetime"> 06/02 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 下次我屎在滾找廁所超速也不准罰我</span><span class="push-ipdatetime"> 06/02 11:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taowoman</span><span class="f3 push-content">: 法官沒錯啊</span><span class="push-ipdatetime"> 06/02 11:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HANJIUN</span><span class="f3 push-content">: 賠3000看最後一面還好吧</span><span class="push-ipdatetime"> 06/02 11:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kw003266</span><span class="f3 push-content">: 才3000…會計較這3000妨礙見家人最後一面的我看才是把30</span><span class="push-ipdatetime"> 06/02 11:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kw003266</span><span class="f3 push-content">: 00看的比見最後一面重吧</span><span class="push-ipdatetime"> 06/02 11:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AppleOuO</span><span class="f3 push-content">: 希望上面推文的家人不要被超速撞 對方有繳罰款了</span><span class="push-ipdatetime"> 06/02 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 三重人就是耐斯.　這能撤單才有問題,別抵抗了.　集資吧</span><span class="push-ipdatetime"> 06/02 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 臉書上集資一下　別說3000, 30K都沒問題</span><span class="push-ipdatetime"> 06/02 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 太長放詛咒會把家人積的陰德提早用完喔</span><span class="push-ipdatetime"> 06/02 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m6699</span><span class="f3 push-content">: 法官說沒錯吧，違規若發生什麼憾事不是更糟糕嗎?</span><span class="push-ipdatetime"> 06/02 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 他媽看到會想掐死他吧 見最後一面  3000的罰單也要靠腰</span><span class="push-ipdatetime"> 06/02 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 原來他老媽最後一面只值3000   媽媽傷心</span><span class="push-ipdatetime"> 06/02 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gestapo</span><span class="f3 push-content">: 鬼島，冷血法官</span><span class="push-ipdatetime"> 06/02 11:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chjimmy</span><span class="f3 push-content">: 這判決沒問題吧</span><span class="push-ipdatetime"> 06/02 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">karta018</span><span class="f3 push-content">: 人治國家就可以撤罰，但這裡不是</span><span class="push-ipdatetime"> 06/02 11:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wanderchang</span><span class="f3 push-content">: 乖乖繳錢別來帶風向</span><span class="push-ipdatetime"> 06/02 12:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aofuwa</span><span class="f3 push-content">: 這法官記得自己要見家人最後一面時，也不要超速喔!!</span><span class="push-ipdatetime"> 06/02 12:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roalan</span><span class="f3 push-content">: 你可以超速阿  但你超速就是違法阿 有什麼問題嗎?</span><span class="push-ipdatetime"> 06/02 12:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lacoste1113</span><span class="f3 push-content">: 如果他因為超速撞死人勒?法就是法。樓上在反串理盲?</span><span class="push-ipdatetime"> 06/02 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roalan</span><span class="f3 push-content">: 一堆人把這2個混在一起真她媽好笑</span><span class="push-ipdatetime"> 06/02 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cccon1ine</span><span class="f3 push-content">: 情理法都沒問題 各佔一方都對</span><span class="push-ipdatetime"> 06/02 12:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daniel3658</span><span class="f3 push-content">: 覺醒青年超速撞死人：我家也死人 無罪啦!</span><span class="push-ipdatetime"> 06/02 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 被你超速撞死不就自認倒霉</span><span class="push-ipdatetime"> 06/02 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dogbydog</span><span class="f3 push-content">: 超速結果害死人 人家奔喪也超速  又撞死人 鬼島死光</span><span class="push-ipdatetime"> 06/02 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">EvilPrada</span><span class="f3 push-content">: 提個屁訴訟  為了母親被罰3千  乖乖吞下就好了</span><span class="push-ipdatetime"> 06/02 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vasia</span><span class="f3 push-content">: 說恐龍的有事嗎</span><span class="push-ipdatetime"> 06/02 12:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hs6111</span><span class="f3 push-content">: 殺人有教化 有人權 超速要人乖乖吞下去 鬼島恐龍不意外</span><span class="push-ipdatetime"> 06/02 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x168o</span><span class="f3 push-content">: 樓上有問題？殺人也是依刑度判啊，超速就是違法，管你什麼</span><span class="push-ipdatetime"> 06/02 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x168o</span><span class="f3 push-content">: 原因，一堆法盲</span><span class="push-ipdatetime"> 06/02 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leion</span><span class="f3 push-content">: 恐龍法官</span><span class="push-ipdatetime"> 06/02 12:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">doubleperson</span><span class="f3 push-content">: 這本來就兩件事。判免罰款才是恐龍法官</span><span class="push-ipdatetime"> 06/02 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">matrix4096</span><span class="f3 push-content">: 記者其心可議</span><span class="push-ipdatetime"> 06/02 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jc0570</span><span class="f3 push-content">: 這種罰單自己要有心裡準備本來就要吞下去</span><span class="push-ipdatetime"> 06/02 12:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 雙方都沒錯？難道都是照相機的錯？</span><span class="push-ipdatetime"> 06/02 12:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winger</span><span class="f3 push-content">: 緊急避難者不罰，法官覺得不符要件，大概是這樣吧</span><span class="push-ipdatetime"> 06/02 13:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ericlien0206</span><span class="f3 push-content">: 不懂恐龍點在哪 違規就吃罰單 兩邊都每錯吧</span><span class="push-ipdatetime"> 06/02 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gary82gary</span><span class="f3 push-content">: 很正確的判決，又不是車上傷者需要送醫</span><span class="push-ipdatetime"> 06/02 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">berserkman</span><span class="f3 push-content">: 超速就該罰不用扯那麼多</span><span class="push-ipdatetime"> 06/02 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gemini2010</span><span class="f3 push-content">: 哪來的危難可以避 = =</span><span class="push-ipdatetime"> 06/02 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heyjude0929</span><span class="f3 push-content">: 這本來就兩件事 違規就違規啊</span><span class="push-ipdatetime"> 06/02 15:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">senior</span><span class="f3 push-content">: 自己親人有危難 就可以讓別人親人也負上用路風險嗎</span><span class="push-ipdatetime"> 06/03 03:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496374015.A.28C.html?cacheKey=2052-448235&offset=8932&offset-sig=c8026495e15bf27bd34255933d80d2fee004c7e6" data-longpollurl="/v1/longpoll?id=1bab2b45fbc31a9445dea0b598bd63b71a0d5160" data-offset="8932"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

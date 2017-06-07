@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496336138.A.A81.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 大學通識要怎麼改，才能成為偉大大學? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="通識課程，每個大學生都會遇到的存在，
+通常都是通識中心聘一些專任跟一堆兼任教師來開課，
+但是課程的充實度又落差極大，
+有修了收穫良多的課，像是梁世佑老師的「電玩藝術分析」，
+也有分數很甜的課、涼課、以及雷課。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 大學通識要怎麼改，才能成為偉大大學?">
+<meta property="og:description" content="通識課程，每個大學生都會遇到的存在，
+通常都是通識中心聘一些專任跟一堆兼任教師來開課，
+但是課程的充實度又落差極大，
+有修了收穫良多的課，像是梁世佑老師的「電玩藝術分析」，
+也有分數很甜的課、涼課、以及雷課。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496336138.A.A81.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496336138.A.A81.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">rushi (魯宅居士)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 大學通識要怎麼改，才能成為偉大大學?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 00:55:35 2017</span></div>
+通識課程，每個大學生都會遇到的存在，
+
+通常都是通識中心聘一些專任跟一堆兼任教師來開課，
+
+但是課程的充實度又落差極大，
+
+有修了收穫良多的課，像是梁世佑老師的「電玩藝術分析」，
+
+也有分數很甜的課、涼課、以及雷課。
+
+因為台灣的大學規定，必修又硬又多，所以好像大家通識都選涼跟甜的居多。
+
+
+最近學校要修改通識制度，
+
+讓各系所的專業課程也可納為通識學分，
+
+免得現行制度不夠好又沒彈性。
+
+但改制之後，很多兼任教師的好課也不再繼續開了QQ
+
+
+為了早台大一步，
+
+邁向偉大大學，
+
+大家認為要怎麼修改制度，
+
+才能達成這個目標呢?
+
+________
+
+106學年交大通識新制傳送門，<a href="https://goo.gl/CsnOzg" target="_blank" rel="nofollow">https://goo.gl/CsnOzg</a>
+
+哈佛大學通識教育改革方向，<a href="https://goo.gl/lAvrzj" target="_blank" rel="nofollow">https://goo.gl/lAvrzj</a>
+
+謝宇程:「台灣許多大學生的懶散消極，正是因為不自由的學習環境所造成的」
+<a href="https://goo.gl/QnIMQx" target="_blank" rel="nofollow">https://goo.gl/QnIMQx</a>
+________
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.113.137.81
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496336138.A.A81.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496336138.A.A81.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 把通識砍掉 多點時間唸本科</span><span class="push-ipdatetime"> 06/02 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limoncool</span><span class="f3 push-content">: 都不要修最快 一堆廢課 幹你娘</span><span class="push-ipdatetime"> 06/02 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 人家美國一學期也才幾學分 台大有幾個系大一還有必定超</span><span class="push-ipdatetime"> 06/02 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gamlty99</span><span class="f3 push-content">: 把本科砍掉 多點時間服務教育學程</span><span class="push-ipdatetime"> 06/02 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 修</span><span class="push-ipdatetime"> 06/02 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">j147589</span><span class="f3 push-content">: 有教肥宅變潮潮還可以交到女友的保證變全台首學</span><span class="push-ipdatetime"> 06/02 00:57
+</span></div><span class="f2">※ 編輯: rushi (140.113.137.81), 06/02/2017 01:05:11
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 外系學分</span><span class="push-ipdatetime"> 06/02 01:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 直接修別人本科</span><span class="push-ipdatetime"> 06/02 01:03
+</span></div><span class="f2">※ 編輯: rushi (140.113.137.81), 06/02/2017 01:07:10
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bhujm1642</span><span class="f3 push-content">: 每堂都至少當50%的人。</span><span class="push-ipdatetime"> 06/02 01:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ericz7000</span><span class="f3 push-content">: 推樓上，如果每堂只讓一個人過超刺激的</span><span class="push-ipdatetime"> 06/02 01:33
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496336138.A.A81.html?cacheKey=2052-16777054&offset=2089&offset-sig=6cf8276719c90dda78421edd74c4b1644e3d4766" data-longpollurl="/v1/longpoll?id=70edd44cd070a9aaa138b163e3584b0e1858fd82" data-offset="2089"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

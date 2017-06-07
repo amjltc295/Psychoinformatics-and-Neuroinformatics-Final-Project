@@ -1,0 +1,212 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495927740.A.F4E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 苗博雅 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ＦＢ卦點說明：
+阿苗一針見血的批評靠北工程師上的肥宅恐同文，
+邏輯清楚、高下立判！
+ＦＢ連結：
+https://www.facebook.com/miaopoya.sdp/posts/1374198112659773
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 苗博雅">
+<meta property="og:description" content="ＦＢ卦點說明：
+阿苗一針見血的批評靠北工程師上的肥宅恐同文，
+邏輯清楚、高下立判！
+ＦＢ連結：
+https://www.facebook.com/miaopoya.sdp/posts/1374198112659773
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495927740.A.F4E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495927740.A.F4E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">oaoa0123 (ball ^ω^ ice)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 苗博雅</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 07:28:52 2017</span></div>
+ＦＢ卦點說明：
+
+阿苗一針見血的批評靠北工程師上的肥宅恐同文，
+
+邏輯清楚、高下立判！
+
+ＦＢ連結：
+
+<a href="https://www.facebook.com/miaopoya.sdp/posts/1374198112659773" target="_blank" rel="nofollow">https://www.facebook.com/miaopoya.sdp/posts/1374198112659773</a>
+
+ＦＢ內容：
+
+ok，fine。請問被同志收養的小孩是從石頭裡蹦出來的嗎？
+
+「你媽媽爸爸是誰？」
+
+「我不知道。」
+
+你覺得這樣對小孩比較好嗎？如果把小孩生出來的異性戀都不出養、如果異性戀可以給這
+些被出養的小孩一個超棒的生長環境，那還輪得到同性伴侶來收養嗎？
+
+家長不會教、老師不會教，教出會歧視和霸凌的別人的孩子，是誰該負責？照這個「受害
+者負責」的邏輯，法律是不是該禁止窮人收養？
+
+你的邏輯可能足以寫出很棒的程式。如果可以把邏輯能力應用在思考社會議題就更棒了。
+請不要因為你的歧視而影響那些無辜的小孩。
+
+--
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iica</span><span class="f3 push-content">:明志齁 媽的爛學校</span><span class="push-ipdatetime">06/27 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickwu43</span><span class="f3 push-content">:iica 請問你讀哪?</span><span class="push-ipdatetime">06/27 00:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iica</span><span class="f3 push-content">:明志...</span><span class="push-ipdatetime">06/27 00:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickwu43</span><span class="f3 push-content">:i大: 好吧 本來想叫你別批評別人學校的...</span><span class="push-ipdatetime">06/27 00:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iica</span><span class="f3 push-content">:去唸明志是我目前人生最錯誤的決定</span><span class="push-ipdatetime">06/27 01:03
+</span></div>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.104.42
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495927740.A.F4E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495927740.A.F4E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rechin0917</span><span class="f3 push-content">: 醜.jpg五樓可以</span><span class="push-ipdatetime"> 05/28 07:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lumial020</span><span class="f3 push-content">: 幹 簽名檔還以為在講我</span><span class="push-ipdatetime"> 05/28 07:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silverstris</span><span class="f3 push-content">: 同志小孩不是劈腿劈出來的嗎，雪花苗苗</span><span class="push-ipdatetime"> 05/28 07:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rely0907</span><span class="f3 push-content">: 五樓念明志</span><span class="push-ipdatetime"> 05/28 07:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rv0918</span><span class="f3 push-content">: 阿苗閉嘴恐同自然少</span><span class="push-ipdatetime"> 05/28 07:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 看破手腳</span><span class="push-ipdatetime"> 05/28 07:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 社經一號，這樣怎樣教情感觀呢？ 科科</span><span class="push-ipdatetime"> 05/28 07:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 靠北工程師已死，現在只是一堆國中屁孩在玩</span><span class="push-ipdatetime"> 05/28 07:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uytqazescf</span><span class="f3 push-content">: 異性戀的就會說因為爸爸跟媽媽做愛你從陰道出來的嗎?</span><span class="push-ipdatetime"> 05/28 07:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YishengSu</span><span class="f3 push-content">: ok，fine。</span><span class="push-ipdatetime"> 05/28 07:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadowdio</span><span class="f3 push-content">: 有請打T高手</span><span class="push-ipdatetime"> 05/28 07:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nippleman</span><span class="f3 push-content">: fine,那我們來聊聊劈腿</span><span class="push-ipdatetime"> 05/28 07:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 讚啦 都they的錯</span><span class="push-ipdatetime"> 05/28 07:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 推阿苗風向正確高下立判！</span><span class="push-ipdatetime"> 05/28 07:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">IceCococaca</span><span class="f3 push-content">: 其他人講我就推，雪花苗苗不推</span><span class="push-ipdatetime"> 05/28 07:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GGrunrunder</span><span class="f3 push-content">: 雪！花！苗！苗！</span><span class="push-ipdatetime"> 05/28 07:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">purplebfly</span><span class="f3 push-content">: 不知所云</span><span class="push-ipdatetime"> 05/28 07:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Levelmax99</span><span class="f3 push-content">: T先去當兵啦</span><span class="push-ipdatetime"> 05/28 07:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">UncleGary</span><span class="f3 push-content">: 考不上律師的跑來嗆工程師</span><span class="push-ipdatetime"> 05/28 07:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cefywo</span><span class="f3 push-content">: 窮人收個屁養 都快窮死了</span><span class="push-ipdatetime"> 05/28 07:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LovelyCS</span><span class="f3 push-content">: 重達180公斤，大概是兩台高爾夫球車這麼大？？？</span><span class="push-ipdatetime"> 05/28 07:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 08:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NSKB</span><span class="f3 push-content">: 無聊</span><span class="push-ipdatetime"> 05/28 08:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 「重達180公斤，大概是兩台高爾夫球車這麼大？？？」？</span><span class="push-ipdatetime"> 05/28 08:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aarzbrv</span><span class="f3 push-content">: 應該是推「[新聞] 藍鯨心臟超巨大！」那篇吧？</span><span class="push-ipdatetime"> 05/28 08:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pqoiwe1994</span><span class="f3 push-content">: 窮人收養的順位應該排在有錢人後面</span><span class="push-ipdatetime"> 05/28 08:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cancerboy</span><span class="f3 push-content">: 聊聊ubike也可以喔~</span><span class="push-ipdatetime"> 05/28 08:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">crabpeople</span><span class="f3 push-content">: 這些話好像在這裡的戰甲文裡常看到</span><span class="push-ipdatetime"> 05/28 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LostInTime</span><span class="f3 push-content">: 是選邊站的朋友呢</span><span class="push-ipdatetime"> 05/28 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amx</span><span class="f3 push-content">: 可悲</span><span class="push-ipdatetime"> 05/28 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Lovemail5566</span><span class="f3 push-content">: 閉嘴 臭T</span><span class="push-ipdatetime"> 05/28 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">peterpan910</span><span class="f3 push-content">: 是應該禁止窮人收養啊，父母都活不好了怎麼養小孩</span><span class="push-ipdatetime"> 05/28 09:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 同性戀水準邏輯  不意外</span><span class="push-ipdatetime"> 05/28 09:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">w1230319</span><span class="f3 push-content">: 母豬</span><span class="push-ipdatetime"> 05/28 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric112</span><span class="f3 push-content">: 哈哈理組哈哈，苗提到寫程式這一段就是在嗆爆理組</span><span class="push-ipdatetime"> 05/28 09:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 這個邏輯跟我說是唸法律的？難怪台灣如此慘</span><span class="push-ipdatetime"> 05/28 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DaGarn</span><span class="f3 push-content">: 反動引擎阿苗窗聲啦 來搶鎂光燈</span><span class="push-ipdatetime"> 05/28 09:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryan0714123</span><span class="f3 push-content">: 二類理工宅聊社經本來就笑死人</span><span class="push-ipdatetime"> 05/28 09:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zenzai</span><span class="f3 push-content">: fine , I don&#39;t think so ~</span><span class="push-ipdatetime"> 05/28 09:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 臭ㄒ滾喇看</span><span class="push-ipdatetime"> 05/28 09:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Borismine</span><span class="f3 push-content">: 沒錢本來就不應該養 臭T</span><span class="push-ipdatetime"> 05/28 09:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GPX2020</span><span class="f3 push-content">: 真可憐哈哈哈 沒人可以公審只好去擷匿名圖來打</span><span class="push-ipdatetime"> 05/28 10:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GPX2020</span><span class="f3 push-content">: 智障左膠還是洗洗回家睡覺吧 國外都過氣了還想在台灣炒</span><span class="push-ipdatetime"> 05/28 10:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 原來對文組來說 工程師=寫程式的   笑死我了ㄏㄏㄏㄏㄏ</span><span class="push-ipdatetime"> 05/28 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isera621</span><span class="f3 push-content">: T不該存在人類社會</span><span class="push-ipdatetime"> 05/28 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 我只知道通過的話民進黨的票會掉更多而以  哈哈哈</span><span class="push-ipdatetime"> 05/28 10:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rbcajyh</span><span class="f3 push-content">: ok, fine. 來聊聊ubike好了</span><span class="push-ipdatetime"> 05/28 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 呵呵～不少工程師去唸科法所還能考上律師專利師呢～苗博雅</span><span class="push-ipdatetime"> 05/28 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 台大法律系畢業考上了什麼？</span><span class="push-ipdatetime"> 05/28 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: 噓這個人</span><span class="push-ipdatetime"> 05/28 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 我認識的很多理組工程師邏輯都比文組好很多</span><span class="push-ipdatetime"> 05/28 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kingbing</span><span class="f3 push-content">: 除了不定期出來刷存在以外，我還真沒看見他做了什麼。</span><span class="push-ipdatetime"> 05/28 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 真的只有這些社運文組自我感覺良好，以為自己什麼都懂</span><span class="push-ipdatetime"> 05/28 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hddd5566</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/28 11:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">neverli</span><span class="f3 push-content">: 草人苗又來了</span><span class="push-ipdatetime"> 05/28 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alleninwar</span><span class="f3 push-content">: 崩潰666666</span><span class="push-ipdatetime"> 05/28 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sincere77</span><span class="f3 push-content">: 推邏輯清楚，打臉噁心恐同</span><span class="push-ipdatetime"> 05/28 12:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">siuosiuo</span><span class="f3 push-content">: 劈腿、youbike、T  真是集一身仇恨值呀</span><span class="push-ipdatetime"> 05/28 13:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ubcs</span><span class="f3 push-content">: 射孕覺青不意外 嘴砲救台灣 找標靶打成黑五類帶風向</span><span class="push-ipdatetime"> 05/28 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantasibear</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 14:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alleninwar</span><span class="f3 push-content">: 潑髒水的說人只會潑髒水 怎麼這麼棒XDDD</span><span class="push-ipdatetime"> 05/28 17:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495927740.A.F4E.html?cacheKey=2052-575313&offset=7604&offset-sig=ba057536e860ff4b72ab641538b46323fd6d302a" data-longpollurl="/v1/longpoll?id=7e3c71cb558370ef41c166271af0a3f240583dd9" data-offset="7604"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

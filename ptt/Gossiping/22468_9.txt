@@ -1,0 +1,336 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496571396.A.93D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 發電結構改變 電價漲定了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="  我是真的不懂
+  為何有人一再提到那個奇怪的綠電認購
+  這東西明明就刻意亂搞 弄得沒人要
+  來削弱各種綠能發電的
+  就像下面這個東西一樣
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 發電結構改變 電價漲定了">
+<meta property="og:description" content="  我是真的不懂
+  為何有人一再提到那個奇怪的綠電認購
+  這東西明明就刻意亂搞 弄得沒人要
+  來削弱各種綠能發電的
+  就像下面這個東西一樣
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496571396.A.93D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496571396.A.93D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">coober ()</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 發電結構改變 電價漲定了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 18:16:33 2017</span></div>
+<span class="f2">※ 引述《Vett (Vett)》之銘言：
+</span><span class="f6">: &#34;歐盟會要求&#34;
+</span><span class="f6">: &#34;美國蘋果&#34;
+</span><span class="f6">: &#34;要有綠電採購&#34;
+</span><span class="f6">: &#34;工業上綠電的需求其實是上升&#34;
+</span><span class="f6">: &#34;要求台電額外生出綠電&#34;
+</span><span class="f6">: ====
+</span><span class="f6">: 我聽你在放屁
+</span><span class="f6">: <a href="http://greenpower.ltc.tw/" target="_blank" rel="nofollow">http://greenpower.ltc.tw/</a>
+</span><span class="f6">: 本年度綠電附加費率：+1.06 元/度
+</span><span class="f6">: 本年度綠電認購量：  1,311,000,000 度
+</span><span class="f6">: 已認購量：             79,024,400 度
+</span><span class="f6">: 剩餘綠電認購量：    1,231,975,600 度
+</span><span class="f6">: 我實在搞不懂
+</span><span class="f6">: 講一堆冠冕堂皇但實際狗屁不通的理由
+</span><span class="f6">: 是想要騙誰啊?
+</span><span class="f6">: 承認餓了八年  一次想賺好賺滿有這麼難嗎?
+</span>
+
+  我是真的不懂
+
+  為何有人一再提到那個奇怪的綠電認購
+
+  這東西明明就刻意亂搞 弄得沒人要
+
+  來削弱各種綠能發電的
+
+
+
+  就像下面這個東西一樣
+
+  <a href="https://www.inside.com.tw/2017/04/06/apple-pay-415k-credit-card" target="_blank" rel="nofollow">https://www.inside.com.tw/2017/04/06/apple-pay-415k-credit-card</a>
+  Apple Pay 上路兩天綁卡 41.5 萬張，打趴 7 個月的台灣 Pay
+
+
+  如果用早前先上的台灣pay來衡量電子支付
+
+  那結論一定是台灣沒有電子支付市場 國人不愛用
+
+  但是!!~
+
+  很奇怪的~  apple pay一下子就數十萬張的綁定
+
+
+
+  事後果然報出真相  原來搞台灣pay的內幕是刻意要亂搞的
+
+
+ 「趙董事長現場對所有金控業者說，我沒說可以做的東西（行動支付、區塊鏈）
+
+ ，你們不要輕舉妄動，我說可以了，你們再去做。」
+
+
+
+  <a href="https://buzzorange.com/techorange/2017/05/23/big-fat-cat-block-apple-pay/" target="_blank" rel="nofollow">https://buzzorange.com/techorange/2017/05/23/big-fat-cat-block-apple-pay/</a>
+
+誰綁架了台灣的行動支付：原來 Apple Pay 擋到央行肥貓財路，才被阻擋在外 8 個月？
+
+
+
+  所以請那些公關公司的不要再拿綠電來鬼扯造謠了
+
+  民營化是最好的一條路
+
+  只是台電內部那些吃香喝辣的利益沒了而已
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.43.61.193
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496571396.A.93D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496571396.A.93D.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xulei</span><span class="f3 push-content">: 推民營化</span><span class="push-ipdatetime"> 06/04 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l19</span><span class="f3 push-content">: 原來之前黨工都是在幫忙護航 扯什麼行動支付無用</span><span class="push-ipdatetime"> 06/04 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w3160828</span><span class="f3 push-content">: 是民營化還是財團化</span><span class="push-ipdatetime"> 06/04 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 那企業和政治人物吃香喝辣可以？</span><span class="push-ipdatetime"> 06/04 18:20
+</span></div>
+反對資本主義的人
+
+我建議放下手中的貨幣 移民到北韓去享受
+
+那裏沒有財團~
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: ...台灣現在的綠電已經世界便宜了 台電賣綠電能有利益?</span><span class="push-ipdatetime"> 06/04 18:20
+</span></div>
+沒有最好 只有更好~
+
+就像金融業民營化之後  各種的奇怪的苛捐雜費都沒了
+
+服務超好 借款利息也下降了
+
+而且金融業獲利還能提升
+
+當初國營銀行反對的理由也是講財團化
+
+其實喔~ 根本是局內人怕利益被釋出而已
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkjjrtlym</span><span class="f3 push-content">: 福島也是民營的唷 &gt;.^</span><span class="push-ipdatetime"> 06/04 18:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 民營化就是財團化 這東西也只有財團玩得起</span><span class="push-ipdatetime"> 06/04 18:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 就來看看綠電民營化 價格會飛到哪 那些環團會不會認購</span><span class="push-ipdatetime"> 06/04 18:21
+</span></div>
+
+ 大大的說法 跟當初拿台灣PAY當例子
+
+ 說台灣沒有電子支付需求的說法一樣耶~
+<span class="f2">※ 編輯: coober (115.43.61.193), 06/04/2017 18:25:40
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 亂搞綠電？舉個例子</span><span class="push-ipdatetime"> 06/04 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Angelstudent</span><span class="f3 push-content">: 刻意亂搞可以舉個例子嗎？</span><span class="push-ipdatetime"> 06/04 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 電信民營化 帶頭降價的是誰</span><span class="push-ipdatetime"> 06/04 18:24
+</span></div>
+ 沒有民營化~ 會有人降??
+
+ 降價是因為競爭~
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 政府管不動財團就管的動，你看哪個國家電業民營化後電價是</span><span class="push-ipdatetime"> 06/04 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 下跌的</span><span class="push-ipdatetime"> 06/04 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 汽油民營化 是誰跟著中油屁股後面走</span><span class="push-ipdatetime"> 06/04 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 電力民營化會更便宜 你是在說哪國笑話</span><span class="push-ipdatetime"> 06/04 18:25
+</span></div><span class="f2">※ 編輯: coober (115.43.61.193), 06/04/2017 18:28:05
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 油品電信民營化有便宜到哪去？ 我寧願給台電賺 至少國會</span><span class="push-ipdatetime"> 06/04 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kevin05233</span><span class="f3 push-content">: 汽油民營化圖利了誰很清楚了吧...油 電 接下來是水了</span><span class="push-ipdatetime"> 06/04 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 民營化更便宜 超好笑</span><span class="push-ipdatetime"> 06/04 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkjjrtlym</span><span class="f3 push-content">: 原來是反串 反串給推</span><span class="push-ipdatetime"> 06/04 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kevin05233</span><span class="f3 push-content">: 鬼島被財團把持的還不夠嗎！</span><span class="push-ipdatetime"> 06/04 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 還能監督 英國電業民營化的結果就是不爽不要用</span><span class="push-ipdatetime"> 06/04 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxyxx</span><span class="f3 push-content">: 竟然有人質疑電信民營化覺得沒有便宜........</span><span class="push-ipdatetime"> 06/04 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 電信民營化 帶頭降價的 就是中華啦</span><span class="push-ipdatetime"> 06/04 18:28
+</span></div>
+ 沒有民營化的競爭 中華電信會降價??
+
+<span class="f2">※ 編輯: coober (115.43.61.193), 06/04/2017 18:28:43
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 還有業者去施壓 中華不要降啦</span><span class="push-ipdatetime"> 06/04 18:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coober</span><span class="f3 push-content">: 閣下真的不懂甚麼是市場競爭~</span><span class="push-ipdatetime"> 06/04 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 還有業者施壓中華開放最後一哩啦 自己不鋪線啦</span><span class="push-ipdatetime"> 06/04 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coober</span><span class="f3 push-content">: 市場競爭!!~</span><span class="push-ipdatetime"> 06/04 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 是當大家健忘逆</span><span class="push-ipdatetime"> 06/04 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coober</span><span class="f3 push-content">: 看來閣下真的不適合生活在台灣 應該去北韓 那裏沒有財團</span><span class="push-ipdatetime"> 06/04 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 財團打手 當然爽讓財團賺阿 不是嗎</span><span class="push-ipdatetime"> 06/04 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coober</span><span class="f3 push-content">: 沒有民營化 全部都是國營的!!</span><span class="push-ipdatetime"> 06/04 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 王永慶當初誇口說油價只要中油六成 結果還不是跟中油</span><span class="push-ipdatetime"> 06/04 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coober</span><span class="f3 push-content">: 那時代的國際原油價格 跟現在的國際原油價格一樣??</span><span class="push-ipdatetime"> 06/04 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkjjrtlym</span><span class="f3 push-content">: 現在是不是比較便宜XDD</span><span class="push-ipdatetime"> 06/04 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 你不是要競爭  那跟著中油調幹嘛</span><span class="push-ipdatetime"> 06/04 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 你不是要競爭  調比中油更便宜阿</span><span class="push-ipdatetime"> 06/04 18:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 電信不是要競爭  其他三大帶頭降阿 打趴中華咩</span><span class="push-ipdatetime"> 06/04 18:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bitcch</span><span class="f3 push-content">: 怎麼解決財團聯合壟斷的問題</span><span class="push-ipdatetime"> 06/04 18:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 而且 現在早有很多民營電廠 都高價賣電給台電了</span><span class="push-ipdatetime"> 06/04 18:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 民營化 這些原本民營電廠會降價?</span><span class="push-ipdatetime"> 06/04 18:33
+</span></div>
+
+照這個邏輯~
+
+台灣應該學委內瑞拉一樣 大型企業全部國營化
+
+你有看國際新聞 現在委內瑞拉的狀況嗎?
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">applewolf</span><span class="f3 push-content">: 拿行動支付還有電信費來比電費 喔呵呵</span><span class="push-ipdatetime"> 06/04 18:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 電信有競爭？拖累還差不多吧</span><span class="push-ipdatetime"> 06/04 18:34
+</span></div><span class="f2">※ 編輯: coober (115.43.61.193), 06/04/2017 18:35:51
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkjjrtlym</span><span class="f3 push-content">: 最後一理中華就不知道會吃多少豆腐惹 笑死人</span><span class="push-ipdatetime"> 06/04 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 電信最後一哩 只想分中華鋪線   你是想競爭什</span><span class="push-ipdatetime"> 06/04 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 自己不鋪線只想用中華的 中華要降價競爭還不准人家降</span><span class="push-ipdatetime"> 06/04 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 線中華鋪的 你不出錢 中華分你是傻了膩</span><span class="push-ipdatetime"> 06/04 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 民營化就是好 那要不要 警察 消防 政府機關全民營化</span><span class="push-ipdatetime"> 06/04 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxyxx</span><span class="f3 push-content">: 這些反對自由化的不知道有沒有加油都中油、手機都中華、</span><span class="push-ipdatetime"> 06/04 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 軍隊也民營化就請傭兵就好了</span><span class="push-ipdatetime"> 06/04 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxyxx</span><span class="f3 push-content">: 網路都HINET，連家裡都只買台鹽台糖。</span><span class="push-ipdatetime"> 06/04 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 說民營化要自由競爭 結果民營自己才是最不想競爭的</span><span class="push-ipdatetime"> 06/04 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 如果能保證 民營化後 價格不會被壟斷 飆漲 人民哪會管</span><span class="push-ipdatetime"> 06/04 18:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 我加油全部都中油唷</span><span class="push-ipdatetime"> 06/04 18:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 台塑又沒比中油便宜多少</span><span class="push-ipdatetime"> 06/04 18:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bigheadpro</span><span class="f3 push-content">: 可以幫忙解釋一下台塑汽油嗎?</span><span class="push-ipdatetime"> 06/04 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 能用台鹽台糖以外的鹽和糖大概都是天龍人吧</span><span class="push-ipdatetime"> 06/04 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 台鹽就不知道了 但我每個月都會買台鹽海洋深層水</span><span class="push-ipdatetime"> 06/04 18:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: <a href="http://i.imgur.com/82vyMjM.jpg" target="_blank" rel="nofollow">http://i.imgur.com/82vyMjM.jpg</a></span><span class="push-ipdatetime"> 06/04 18:47
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="82vyMjM"><a href="//imgur.com/82vyMjM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hy23</span><span class="f3 push-content">: 網路也開放民營了 電路費還是繳中華 民營業者怎不鋪？</span><span class="push-ipdatetime"> 06/04 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: <a href="http://i.imgur.com/eClisxj.jpg" target="_blank" rel="nofollow">http://i.imgur.com/eClisxj.jpg</a></span><span class="push-ipdatetime"> 06/04 18:47
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="eClisxj"><a href="//imgur.com/eClisxj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 當初台塑以為賣油很好賺 覺得中油油價是暴利 王董還誇口</span><span class="push-ipdatetime"> 06/04 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 他的油只要中油6折價格 結果跳下去完後發現根本不是那</span><span class="push-ipdatetime"> 06/04 18:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 麼一回事 有陣子還賣得比中油貴</span><span class="push-ipdatetime"> 06/04 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">horse2819</span><span class="f3 push-content">: 漲價尼要幫偶出嗎</span><span class="push-ipdatetime"> 06/04 18:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 台塑賣油好賺是都把油賣去國外</span><span class="push-ipdatetime"> 06/04 18:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 在那邊喊民營化會降價的，不要到時候漲價就裝死不回應XD</span><span class="push-ipdatetime"> 06/04 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 漲電價我是不怕拉 只要賺得夠多就好了</span><span class="push-ipdatetime"> 06/04 18:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 但是缺電 我會怕就是了</span><span class="push-ipdatetime"> 06/04 18:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 然後等到油價飆漲之後才慢慢轉移國內市場</span><span class="push-ipdatetime"> 06/04 18:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 賺得錢都拿去付高價電費也是會沒錢</span><span class="push-ipdatetime"> 06/04 18:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 基本上我是覺得民營化 只會讓台灣電力更沒競爭</span><span class="push-ipdatetime"> 06/04 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 標題就說電價漲定了啊 當初電業法xxyxx還說電價不會漲</span><span class="push-ipdatetime"> 06/04 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolinru</span><span class="f3 push-content">: 原po說這個綠電認購亂搞,請問是哪裡亂搞?</span><span class="push-ipdatetime"> 06/04 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 民營只想要玩賺的 虧的都留給台電搞</span><span class="push-ipdatetime"> 06/04 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 久而久之就會跟電信很像 鋪路 研發會虧的都給中華玩</span><span class="push-ipdatetime"> 06/04 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kakehiko</span><span class="f3 push-content">: 新版電業法就是這樣啊 賺錢的分出去 賠錢輸電繼續給台電</span><span class="push-ipdatetime"> 06/04 19:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 對對 哈哈</span><span class="push-ipdatetime"> 06/04 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 竟然相信鬼島的財團會競爭？你是在做夢嗎</span><span class="push-ipdatetime"> 06/04 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 財團只是想分一杯獨佔的利益而已喇</span><span class="push-ipdatetime"> 06/04 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 電信民營化之後電纜是誰舖的？</span><span class="push-ipdatetime"> 06/04 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 速度更快的線路基地臺是誰蓋的？</span><span class="push-ipdatetime"> 06/04 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 傻子才會覺得民營化=自由的市場</span><span class="push-ipdatetime"> 06/04 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 請問哪個國家電業自由化後電價沒飆漲的？</span><span class="push-ipdatetime"> 06/04 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 台灣被財團惡搞的前車之鑒那麼多，你還相信？</span><span class="push-ipdatetime"> 06/04 19:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 第四台都可以畫地盤、不準MOD降價了，你信自由市場</span><span class="push-ipdatetime"> 06/04 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 那套在台灣會有用？</span><span class="push-ipdatetime"> 06/04 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 電是民生必需品，你可以不用手機網路，可以不用電嗎</span><span class="push-ipdatetime"> 06/04 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tctv2002</span><span class="f3 push-content">: 你知道財團養活了多少立委跟議員嗎？</span><span class="push-ipdatetime"> 06/04 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 聽你在屁咧 現在是台電跟民間業者高價買綠電好嗎?</span><span class="push-ipdatetime"> 06/04 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 台電綠電認購哪裡惡搞你又講不出來</span><span class="push-ipdatetime"> 06/04 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 風機 太陽能一度收多少? 台電一度又賣你多少?</span><span class="push-ipdatetime"> 06/04 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 是反核、環團、綠電業者再惡搞台灣的綠電</span><span class="push-ipdatetime"> 06/04 19:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">trashpoking</span><span class="f3 push-content">: 那麼喜歡幫財團講話..合理懷疑是財團的公關公司</span><span class="push-ipdatetime"> 06/04 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trashpoking</span><span class="f3 push-content">: 出來帶風向吧..</span><span class="push-ipdatetime"> 06/04 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Vett</span><span class="f3 push-content">: 不滿你意就亂搞罷了  滾</span><span class="push-ipdatetime"> 06/04 19:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">domination</span><span class="f3 push-content">: 一劈頭就說臺電綠電亂搞，結果文章裡面外全看不到臺</span><span class="push-ipdatetime"> 06/04 19:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">domination</span><span class="f3 push-content">: 電亂搞綠電的證據或推論，反而是拿外全不相干的Taiwa</span><span class="push-ipdatetime"> 06/04 19:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">domination</span><span class="f3 push-content">: n pay來亂湊，請問這是那個星球的雅利安式論證法？</span><span class="push-ipdatetime"> 06/04 19:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 敲東擊西</span><span class="push-ipdatetime"> 06/04 19:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">weed222</span><span class="f3 push-content">: 台電綠電一度收多少，賣你多少?賠成這樣最好哪個民營企</span><span class="push-ipdatetime"> 06/04 19:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">weed222</span><span class="f3 push-content">: 業會照做。世界銀行認證的好公司在覺青面前都是屁</span><span class="push-ipdatetime"> 06/04 19:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DoraeCookie</span><span class="f3 push-content">: 台汽客運民營化後，的確賺錢了，但是偏遠路線通通不</span><span class="push-ipdatetime"> 06/04 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DoraeCookie</span><span class="f3 push-content">: 見了，這樣真的好嗎？以後阿里山會不會沒有電可以用</span><span class="push-ipdatetime"> 06/04 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DoraeCookie</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 06/04 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">coolorphen</span><span class="f3 push-content">: 有競爭就會降價，台塑表示...</span><span class="push-ipdatetime"> 06/04 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DaGarn</span><span class="f3 push-content">: 帶頭降價的是中華電 哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nightyao</span><span class="f3 push-content">: taiwan pay只能說政府根本不了解行動支付的需求</span><span class="push-ipdatetime"> 06/04 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DGGXAM1</span><span class="f3 push-content">: 開頭先說綠電亂搞 然後下面說行動支付 廢文再唬爛阿</span><span class="push-ipdatetime"> 06/06 14:07
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496571396.A.93D.html?cacheKey=2052-1254337&offset=13290&offset-sig=130bf146a8cdabb6ff2433901b99bed89de64e7d" data-longpollurl="/v1/longpoll?id=a14a3bc78793d8004bc6873eff59c88cfdf81d43" data-offset="13290"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

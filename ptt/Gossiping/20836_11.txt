@@ -1,0 +1,228 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495505058.A.3E6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 綠委提案增勞工加時數工商團體再加碼爭取月加班60小時 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+經濟日報 聯合報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 綠委提案增勞工加時數工商團體再加碼爭取月加班60小時">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+經濟日報 聯合報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495505058.A.3E6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495505058.A.3E6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lunashining (asdfgh)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 綠委提案增勞工加時數工商團體再加碼爭取月加班60小時</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 10:04:15 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+經濟日報 聯合報
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+工商團體 爭取關鍵60小時
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+針對民進黨立委連署擬修正勞基法，工商團體表示支持與肯定，感謝立法院願意挽救一例
+一休所造成的負面衝擊。而針對加班工時，希望再爭取彈性。
+
+製造業喊出，希望放寬到四個月200小時總量管制，單月加班工時上限拉高至60小時，而
+服務業則是想爭取半年324小時總量管制，單月加班工時上限54小時。
+
+工總祕書長蔡練生說，一例一休造成天怒人怨，勞資都不滿意，反映在蔡政府民調直落，
+勞基法確實有修正必要性，支持民進黨委員們主動修法。但是對於加班工時，仍是希望爭
+取以四個月總量管制200小時（四個月乘上50小時／月）為出發，單月加班上限不超過60
+小時，才較為適宜。
+
+蔡練生認為，目前民進黨委員修法版本單月不超過54小時，只是回歸到周休二日，然而產
+業界實際情況是，54小時早已經不夠用，因此才會爭取60小時。
+
+工商協進會祕書長范良棟同樣提出，四個月總量管制200小時，單月加班工時上限不超過
+60小時。另外，針對加班費給付以實際工作時數核定，特休假可延至下一年度的修法重點
+，工商團體均無太大意見。
+
+商總理事長賴正鎰直言，執政黨可能是看到日前國民黨內部選舉整合完畢後，體悟到後續
+威脅恐不小，因此為了挽救聲勢低迷的政府，執政黨委員願意跳出來主動連署修法，所以
+「政黨平衡」還是有其好處。
+
+而對於綠委修正勞基法內容，賴正鎰表示，服務業的旺季多半會超過三個月，若只用一季
+作為總量管制，對於服務業仍是不夠，因此商總盼望可以將總量管制拉長至半年，每月加
+班工時上限不超過54小時，累計六個月加班總量管制324小時（六個月乘上54小時／月）
+。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="https://money.udn.com/money/story/5648/2479002" target="_blank" rel="nofollow">https://money.udn.com/money/story/5648/2479002</a>
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+現在標題是工商團體 爭取關鍵60小時
+
+可是原本標題是&#34;綠委提案增勞工加時數工商團體再加碼爭取月加班60小時&#34;
+
+好奇怪耶UDN會幫忙把綠委去掉 有人知道為什麼嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.25.217
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495505058.A.3E6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495505058.A.3E6.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qqqmmm</span><span class="f3 push-content">: 改標題水桶</span><span class="push-ipdatetime"> 05/23 10:05
+</span></div>原本就那樣哪裡水桶？
+<a href="https://www.facebook.com/holidays19/?hc_ref=NEWSFEED&amp;fref=nf" target="_blank" rel="nofollow">https://www.facebook.com/holidays19/?hc_ref=NEWSFEED&amp;fref=nf</a>
+自己去看看連接原本是什麼樣子 打完變了 怪我嗎？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jennykam</span><span class="f3 push-content">: 民進黨就這樣 先給你大綁 然後在一點一點給你</span><span class="push-ipdatetime"> 05/23 10:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">olaqe</span><span class="f3 push-content">: 釣魚囉~</span><span class="push-ipdatetime"> 05/23 10:05
+</span></div><span class="f2">※ 編輯: lunashining (140.112.25.217), 05/23/2017 10:06:38
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jennykam</span><span class="f3 push-content">: 你就以為是德政 沒想到都是他再搞你</span><span class="push-ipdatetime"> 05/23 10:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">UniversalGod</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/23 10:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 彈拎老x啦</span><span class="push-ipdatetime"> 05/23 10:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">em4</span><span class="f3 push-content">: 就大家各退一步</span><span class="push-ipdatetime"> 05/23 10:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shauhon</span><span class="f3 push-content">: 我建議爭取全年365天24小時無休</span><span class="push-ipdatetime"> 05/23 10:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Halu5566</span><span class="f3 push-content">: 總的來說就是砍你七天假 在增加加班時數 但是勞檢還是糞</span><span class="push-ipdatetime"> 05/23 10:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bab7171</span><span class="f3 push-content">: 馬的 那先還7天假</span><span class="push-ipdatetime"> 05/23 10:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qqqmmm</span><span class="f3 push-content">: 工讀生生氣了  呵呵</span><span class="push-ipdatetime"> 05/23 10:07
+</span></div>~去吃香蕉好嗎
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scum5566</span><span class="f3 push-content">: 不夠，我希望單月400小時</span><span class="push-ipdatetime"> 05/23 10:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 民進黨腿有夠軟的</span><span class="push-ipdatetime"> 05/23 10:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">e7660239</span><span class="f3 push-content">: 垃圾資進黨幹  2018一定補刀補死他操</span><span class="push-ipdatetime"> 05/23 10:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 工商團體本來就沒有下限 根本不用讓不去理他</span><span class="push-ipdatetime"> 05/23 10:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 之後應該還是繼續得寸進尺帶風向而已 都去吃屎比較快</span><span class="push-ipdatetime"> 05/23 10:10
+</span></div><span class="f2">※ 編輯: lunashining (140.112.25.217), 05/23/2017 10:11:19
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fzrpower</span><span class="f3 push-content">: 個人覺得台灣還沒到谷底，再試再試。頂多再爛10年而已。</span><span class="push-ipdatetime"> 05/23 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 有本事你在對岸講一樣的話阿...吃定買台灣媒體業配容易</span><span class="push-ipdatetime"> 05/23 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">middlebear</span><span class="f3 push-content">: 母豬，不意外</span><span class="push-ipdatetime"> 05/23 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lesnaree2</span><span class="f3 push-content">: 我建議90小時拉</span><span class="push-ipdatetime"> 05/23 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">paul0917</span><span class="f3 push-content">: dpp對待勞工的態度看老闆喊加碼就知道了</span><span class="push-ipdatetime"> 05/23 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 民進黨果然還是為了選舉算計，老闆們的政治獻金比較香甜</span><span class="push-ipdatetime"> 05/23 10:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gunseed</span><span class="f3 push-content">: 被刪掉7天的假沒人提了</span><span class="push-ipdatetime"> 05/23 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 既然說是改革 難道還有越改越回去的喔? 大老闆頭殼都裝屎</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">halflord</span><span class="f3 push-content">: 兩百小時吱障們說好不好</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 民代大多數都是垃圾軟趴趴</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edvoyage</span><span class="f3 push-content">: 建議單月720小時，未滿720小時要扣薪水，這樣更好</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 大立委何欣純都說啦，去跑攤大老闆們都不給她上台講話，讓</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taco20</span><span class="f3 push-content">: 那七天假能還來嗎?</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">magamanzero</span><span class="f3 push-content">: 單周工時表示: 所以要我幹嘛?</span><span class="push-ipdatetime"> 05/23 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 她覺得事態嚴重了，只好提案修法囉</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ouyang</span><span class="f3 push-content">: 勞工是民進黨心中最軟的一塊 最軟土深掘的一塊 dpp怎麼不</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ouyang</span><span class="f3 push-content">: 去死一死比較快</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 大老闆就懂得經濟嗎? 一堆根本靠關係卡上位置....</span><span class="push-ipdatetime"> 05/23 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 聽這些人講屁話 像白癡一樣</span><span class="push-ipdatetime"> 05/23 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 2018、2020肯定給資進黨補刀，讓資進黨立委下台，之</span><span class="push-ipdatetime"> 05/23 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 後愛講多久就講多久</span><span class="push-ipdatetime"> 05/23 10:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edvoyage</span><span class="f3 push-content">: 都欺負勞工了，若勞工還支持，應該勞工去死一死。</span><span class="push-ipdatetime"> 05/23 10:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edvoyage</span><span class="f3 push-content">: 我相信勞工的智商與記憶力，2018/2020，DPP穩贏的</span><span class="push-ipdatetime"> 05/23 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edvoyage</span><span class="f3 push-content">: 不信看阿扁時代對勞工的政策XD</span><span class="push-ipdatetime"> 05/23 10:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frlair</span><span class="f3 push-content">: 完全沒有下限...吃相有夠難看...</span><span class="push-ipdatetime"> 05/23 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 七天假 資進黨快還來~</span><span class="push-ipdatetime"> 05/23 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: 一分鐘通過的進步立法 ㄏㄏ 想當初還一堆垃圾資資推好</span><span class="push-ipdatetime"> 05/23 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: 的法案就是要一分鐘通過</span><span class="push-ipdatetime"> 05/23 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scott032</span><span class="f3 push-content">: 工商團體也太善良 怎不爭取加班無上限沒加班費</span><span class="push-ipdatetime"> 05/23 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skycloudtw</span><span class="f3 push-content">: 垃圾資進黨,草他的桃園有四個連署?還真以為變綠地了zz</span><span class="push-ipdatetime"> 05/23 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaseman</span><span class="f3 push-content">: 特休至少補回七天，勞檢罰則再提高，吹哨獎勵加入</span><span class="push-ipdatetime"> 05/23 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akuser</span><span class="f3 push-content">: 德政 酸民崩潰就是改革正確</span><span class="push-ipdatetime"> 05/23 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">akuser</span><span class="f3 push-content">: 勞工轉型正義 以前kmt讓大家過太爽了</span><span class="push-ipdatetime"> 05/23 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuerude</span><span class="f3 push-content">: 各位鄉民，這種修法就是砍加班費耶</span><span class="push-ipdatetime"> 05/23 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NARUHOTO</span><span class="f3 push-content">: 誠信正直公平正義&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;金主利益 資進黨你敢嘴</span><span class="push-ipdatetime"> 05/23 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">patty5920</span><span class="f3 push-content">: 過勞死啦</span><span class="push-ipdatetime"> 05/23 10:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james13112</span><span class="f3 push-content">: 幹你媽 乾脆改奴隸制好了 只要把人養活 其餘費用不用</span><span class="push-ipdatetime"> 05/23 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james13112</span><span class="f3 push-content">: 支付</span><span class="push-ipdatetime"> 05/23 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Myfun</span><span class="f3 push-content">: 請一併提高基本薪資到26000元！</span><span class="push-ipdatetime"> 05/23 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waynecode</span><span class="f3 push-content">: <a href="http://i.imgur.com/g82xijr.jpg" target="_blank" rel="nofollow">http://i.imgur.com/g82xijr.jpg</a></span><span class="push-ipdatetime"> 05/23 12:23
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="g82xijr"><a href="//imgur.com/g82xijr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oplm</span><span class="f3 push-content">: 真奇怪 八卦版不是之前都是反一例一休的</span><span class="push-ipdatetime"> 05/23 13:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495505058.A.3E6.html?cacheKey=2052-38022440&offset=8249&offset-sig=fbcb8e57f31ce3097c70577c83bdcf029b2b304d" data-longpollurl="/v1/longpoll?id=a7b50d71b8eefa44a7531c4bfc519e8262e43557" data-offset="8249"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

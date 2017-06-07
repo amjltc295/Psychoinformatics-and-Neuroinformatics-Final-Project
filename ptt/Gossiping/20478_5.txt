@@ -1,0 +1,139 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495228278.A.ABF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有沒有八卦板變臭的八卦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="一大早起來就覺得八卦板有股臭酸味
+一下什麼 閃電狼 一下什麼skt
+真的臭不可聞
+為什麼一大早八卦板變臭了
+有沒有八卦
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有沒有八卦板變臭的八卦">
+<meta property="og:description" content="一大早起來就覺得八卦板有股臭酸味
+一下什麼 閃電狼 一下什麼skt
+真的臭不可聞
+為什麼一大早八卦板變臭了
+有沒有八卦
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495228278.A.ABF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495228278.A.ABF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ios6 (iosꌶ)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有沒有八卦板變臭的八卦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 05:11:16 2017</span></div>
+一大早起來就覺得八卦板有股臭酸味
+
+一下什麼 閃電狼 一下什麼skt
+
+真的臭不可聞
+
+為什麼一大早八卦板變臭了
+
+有沒有八卦
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.161.232.170
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495228278.A.ABF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495228278.A.ABF.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: 因為八卦本來就很臭</span><span class="push-ipdatetime"> 05/20 05:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kiminocodo</span><span class="f3 push-content">: 五樓最臭，他害的</span><span class="push-ipdatetime"> 05/20 05:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nerv072</span><span class="f3 push-content">: 你才臭  你全家都臭</span><span class="push-ipdatetime"> 05/20 05:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lien</span><span class="f3 push-content">: 八卦有香過嗎?  除了五樓香香的以外</span><span class="push-ipdatetime"> 05/20 05:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sampo10102</span><span class="f3 push-content">: 香</span><span class="push-ipdatetime"> 05/20 05:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fonghai</span><span class="f3 push-content">: 我很香</span><span class="push-ipdatetime"> 05/20 05:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fonghai</span><span class="f3 push-content">: 搶屁</span><span class="push-ipdatetime"> 05/20 05:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chunglee</span><span class="f3 push-content">: 你鼻塞把~我都聞到自己洗完澡身上還留著的香香味道，嘻</span><span class="push-ipdatetime"> 05/20 05:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chunglee</span><span class="f3 push-content">: 嘻</span><span class="push-ipdatetime"> 05/20 05:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QoGIVoQ</span><span class="f3 push-content">: 別吵 我最臭<a href="http://i.imgur.com/fnt96Ac.jpg" target="_blank" rel="nofollow">http://i.imgur.com/fnt96Ac.jpg</a></span><span class="push-ipdatetime"> 05/20 05:14
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="fnt96Ac"><a href="//imgur.com/fnt96Ac"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">spadenet</span><span class="f3 push-content">: 一堆臭宅</span><span class="push-ipdatetime"> 05/20 05:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sun614129</span><span class="f3 push-content">: 一堆母咪啊</span><span class="push-ipdatetime"> 05/20 06:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SkTSMaR1n</span><span class="f3 push-content">: 你看完氣到現在齁</span><span class="push-ipdatetime"> 05/20 06:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495228278.A.ABF.html?cacheKey=2052-37387028&offset=1670&offset-sig=61a559890e871d11b16623e9da6a6e6e4ee45635" data-longpollurl="/v1/longpoll?id=b2c2be55fddab4a9554629ea703923c9717cc99a" data-offset="1670"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

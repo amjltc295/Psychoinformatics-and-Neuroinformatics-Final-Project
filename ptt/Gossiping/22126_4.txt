@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496359672.A.BEB.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 韓國表示將慎重看待薩德反導系統 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="VOA
+韓國表示將慎重看待薩德反導系統
+2017年6月2日02:46
+美國之音
+來自韓國的報導說，韓國總統文在寅在跟到訪的美國國會參議員德賓會晤時表示，他不會在薩德反導系統在韓國部署的問題上做出輕率決定。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 韓國表示將慎重看待薩德反導系統">
+<meta property="og:description" content="VOA
+韓國表示將慎重看待薩德反導系統
+2017年6月2日02:46
+美國之音
+來自韓國的報導說，韓國總統文在寅在跟到訪的美國國會參議員德賓會晤時表示，他不會在薩德反導系統在韓國部署的問題上做出輕率決定。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496359672.A.BEB.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496359672.A.BEB.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">geordie (Geordie)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 韓國表示將慎重看待薩德反導系統</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 07:27:45 2017</span></div>
+
+VOA
+
+韓國表示將慎重看待薩德反導系統
+
+2017年6月2日02:46
+
+美國之音
+
+來自韓國的報導說，韓國總統文在寅在跟到訪的美國國會參議員德賓會晤時表示，他不會在薩德反導系統在韓國部署的問題上做出輕率決定。
+
+合眾國際社6月1日發表報導說，韓國總統府青瓦台表示，德賓參議員則贊同按照合理合法的方式對薩德部署進行環境評估。
+
+先前在環境評估還沒有完成的情況下，就將薩德系統部署在韓國中部的一個之前是高爾夫球場的地方。
+
+在另外一方面，韓國聯合通訊社報導說，韓國外交部發表聲明表示，韓國政府正在以盟國的精神跟美國就薩德問題密切合作，並通過跟中國進行真誠的溝通增強相互理解。
+
+韓國外交部發言人發表的聲明說，“薩德部署問題的焦點是缺乏公開討論，其中包括缺乏人民的知情。我們希望在國民議會有一種討論，可以增強民主和程序的合法性。”
+
+<a href="https://goo.gl/3Ycz6o" target="_blank" rel="nofollow">https://goo.gl/3Ycz6o</a>
+
+
+轉彎惹
+
+-----
+Sent from JPTT on my Asus K01Q.
+
+--
+&#34;...第二条で、日本すべての権利 権原及び請求権を放棄しなければならない地域につ
+いて述べている。
+この地域は六つに分けられている。
+<span class="f3 hl">(a)から(b)までの朝鮮、台湾及び澎湖諸島、千島列島及び南樺太は
+</span><span class="f3 hl">これまて日本の領土の一部であったところである</span>...&#34;
+by日本国との平和条約草案の解説（昭和２６/８/４<a href="https://goo.gl/Umy9yT" target="_blank" rel="nofollow">https://goo.gl/Umy9yT</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.125.143.30
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496359672.A.BEB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496359672.A.BEB.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">balahaha</span><span class="f3 push-content">: 會怕就好 快舔</span><span class="push-ipdatetime"> 06/02 07:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 這樣扭來彎去的 像什麼樣</span><span class="push-ipdatetime"> 06/02 07:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 文在寅到底想幹嘛阿?</span><span class="push-ipdatetime"> 06/02 07:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 韓國白海豚</span><span class="push-ipdatetime"> 06/02 07:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lucifiel1618</span><span class="f3 push-content">: 沒看懂，所以現在他們到底是打算拆還是不拆</span><span class="push-ipdatetime"> 06/02 07:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smonke</span><span class="f3 push-content">: 轉彎了～! 抓緊</span><span class="push-ipdatetime"> 06/02 07:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 不想防禦北韓,只想靠中國的話就拆掉阿,是在那邊裝甚麼= =</span><span class="push-ipdatetime"> 06/02 07:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 就是中美兩邊都想舔的意思</span><span class="push-ipdatetime"> 06/02 07:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 每天擦的亮晶晶的</span><span class="push-ipdatetime"> 06/02 07:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geordie</span><span class="f3 push-content">: 給五樓，韓總統稱不會改變薩德入韓決定</span><span class="push-ipdatetime"> 06/02 07:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geordie</span><span class="f3 push-content">: <a href="https://goo.gl/YNvWul" target="_blank" rel="nofollow">https://goo.gl/YNvWul</a></span><span class="push-ipdatetime"> 06/02 07:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oldTim</span><span class="f3 push-content">: 推樓上，薩德入韓已確定，在bargin部屬規模和時間而已</span><span class="push-ipdatetime"> 06/02 08:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 馬囧 中美都想討好</span><span class="push-ipdatetime"> 06/02 09:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddabc1234</span><span class="f3 push-content">: 不是說不爽裝嗎???還是我看錯了??</span><span class="push-ipdatetime"> 06/02 10:30
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496359672.A.BEB.html?cacheKey=2052-574940&offset=2773&offset-sig=0689d29f7c041a725a9fd5c83acf72988755cc70" data-longpollurl="/v1/longpoll?id=2cd45788c11d3453b795e2d3c9bdc30519519b97" data-offset="2773"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

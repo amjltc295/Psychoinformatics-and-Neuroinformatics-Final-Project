@@ -1,0 +1,180 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495678404.A.D5E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 綠委揭國稅局濫發稅務獎金 公僕連寫稿都 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 蘋果日報
+2.完整新聞標題:
+※ 綠委揭國稅局濫發稅務獎金　公僕連寫稿都有錢拿
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 綠委揭國稅局濫發稅務獎金 公僕連寫稿都">
+<meta property="og:description" content="1.媒體來源:
+※ 蘋果日報
+2.完整新聞標題:
+※ 綠委揭國稅局濫發稅務獎金　公僕連寫稿都有錢拿
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495678404.A.D5E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495678404.A.D5E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">asdf1256 (guest)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 綠委揭國稅局濫發稅務獎金 公僕連寫稿都</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 10:13:22 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 蘋果日報</span>
+
+
+2.完整新聞標題:
+<span class="f2">※ 綠委揭國稅局濫發稅務獎金　公僕連寫稿都有錢拿</span>
+
+
+3.完整新聞內文:
+
+國稅局過去依據《財務罰鍰處理暫行條例》規定，訂有「稅務及關務人員查稅獎金」，賦
+予稅務及關務人員可以分配查稅獎金權利，2004年遭時任立委的朱星羽提案廢除，然而，
+沒有法源的稅務獎金卻在2008年死灰復燃，以「作業要點」為標準繼續發放，民進黨立委
+陳瑩指出，現行稅務獎金可說人人有獎，連發新聞稿、內部裝修等與查稅無關的作為都可
+以領獎，她批根本就是巧立名目濫發，只是消化預算。
+
+陳瑩表示，稅務獎金還訂有團體獎、個人獎，更誇張的是，細看獎金發給具體事蹟，以台
+北國稅局為例，竟還有「舉辦統一發票盃台北場路跑」、「舉辦國小桌球錦標賽」、「辦
+理變賣報廢資料水銷作業」、「辦理小型送風機汰換工程」、「辦理新聞稿作業」等事項
+，根本是巧立名目濫發，只想把預算花光，不如刪除。
+
+陳瑩進一步指出，上億元的稅務獎金可說是人人有獎，以台北國稅局為例，去年法定員額
+共1981人，領獎人數卻有1991人；中區國稅局員額數1829人、領獎人數也是1829人；南區
+國稅局員額1389人，領獎人數1420人；高雄國稅局1299人，領獎人數1313人；只有北區國
+稅局員額數多於領獎人數，員額為2184人，領獎人數2120人，等於連公友、技工、駕駛及
+聘用、約僱人員都有得領，違反獎金表揚傑出績效工作人員本意。
+
+除此之外，稅務獎金亦按職等、職別發放，職等越高、領的越多。據了解，台北、北區、
+中區、南區及高雄5個國稅局去年統計，依據「稅務獎勵金作業要點」，總共編列1.03億
+稅務獎金預算，經統計，委任五職等以下平均可分得7千餘元、薦任6到9職等平均可領1.2
+萬元，簡任10-13職等平均更可分得9.8萬元。
+
+陳瑩痛批，以往在廢除《財務罰鍰處理暫行條例》前，就被批評稅務人員為此浮濫查稅，
+沒想到，如今卻不用查稅，連辦理路跑、桌球錦標賽，甚至辦公室修繕都可以領錢，成為
+國稅局獨一無二的私房錢，難怪會遭外界批評是積習已久的官場分紅文化，未來審預算時
+，將會針對獎金編列額度、發放辦法都要做嚴格控管、監督。（符芳碩／台北報導）
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/stgO3r" target="_blank" rel="nofollow">https://goo.gl/stgO3r</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.195.136.182
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495678404.A.D5E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495678404.A.D5E.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 公務員 能撈就撈 啊!</span><span class="push-ipdatetime"> 05/25 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 垃圾政府課了一堆稅給垃圾公務員爽，操</span><span class="push-ipdatetime"> 05/25 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Moselle</span><span class="f3 push-content">: …財政部辦健走摸彩活動也不行？</span><span class="push-ipdatetime"> 05/25 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piece1</span><span class="f3 push-content">: 很多人都相信公務員只有本俸跟加給的死薪水</span><span class="push-ipdatetime"> 05/25 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 一堆工讀生只會說在內鬥公務員</span><span class="push-ipdatetime"> 05/25 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 都叫做查稅獎金了，不是查稅還能領哦！</span><span class="push-ipdatetime"> 05/25 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 工讀生實習一天只給200 當然有錢發奬惹</span><span class="push-ipdatetime"> 05/25 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">becareful</span><span class="f3 push-content">: 官吃肉，吏喝湯，工讀生哭哭</span><span class="push-ipdatetime"> 05/25 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 國稅局公務員的本職就是稅務稽徵，查稅是本份，憑啥做</span><span class="push-ipdatetime"> 05/25 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 份內事還要求要獎金，那改作無底薪獎金制好了</span><span class="push-ipdatetime"> 05/25 10:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 那以後各業務都比照辦理好了，換牌照獎金，換身分證獎</span><span class="push-ipdatetime"> 05/25 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 金……</span><span class="push-ipdatetime"> 05/25 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 查稅有一點在擋人財路，給一點獎金不過份，也可鼓勵查稅</span><span class="push-ipdatetime"> 05/25 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 關鍵字2008</span><span class="push-ipdatetime"> 05/25 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 也許可以考慮用低底薪，高獎金的模式去運作？</span><span class="push-ipdatetime"> 05/25 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w76530</span><span class="f3 push-content">: 警察表示....</span><span class="push-ipdatetime"> 05/25 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">suntex01</span><span class="f3 push-content">: 幹他媽的國稅局一堆米蟲只會刁難人.</span><span class="push-ipdatetime"> 05/25 11:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sulaplapig</span><span class="f3 push-content">: 風向球？</span><span class="push-ipdatetime"> 05/25 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">v5270</span><span class="f3 push-content">: 跟眾立委們有87%像阿</span><span class="push-ipdatetime"> 05/25 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Achillies</span><span class="f3 push-content">: 立委年薪９００萬有先檢討？</span><span class="push-ipdatetime"> 05/25 12:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geniusbl</span><span class="f3 push-content">: 預算沒用完 明年會被砍 當然要花一花</span><span class="push-ipdatetime"> 05/25 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hc33227</span><span class="f3 push-content">: 立委都不會砍自己預算…內耗最厲害</span><span class="push-ipdatetime"> 05/25 18:08
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495678404.A.D5E.html?cacheKey=2052-55884&offset=4301&offset-sig=da00792116497abc30588ca17471713d42e2a849" data-longpollurl="/v1/longpoll?id=c2c25a30ded8b70f13d07a16f4e7b6b310b955e2" data-offset="4301"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,174 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496669325.A.E9C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 茶裏王用毒越茶謠言又來 統一報警追兇 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+UDN
+2.完整新聞標題:
+茶裏王用毒越茶謠言又來 統一報警追兇
+http://i.imgur.com/MwmNgwy.jpg
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 茶裏王用毒越茶謠言又來 統一報警追兇">
+<meta property="og:description" content="1.媒體來源:
+UDN
+2.完整新聞標題:
+茶裏王用毒越茶謠言又來 統一報警追兇
+http://i.imgur.com/MwmNgwy.jpg
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496669325.A.E9C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496669325.A.E9C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cul287 (希悠)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 茶裏王用毒越茶謠言又來 統一報警追兇</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 21:28:41 2017</span></div>
+1.媒體來源:
+UDN
+
+2.完整新聞標題:
+茶裏王用毒越茶謠言又來 統一報警追兇
+
+<a href="http://i.imgur.com/MwmNgwy.jpg" target="_blank" rel="nofollow">http://i.imgur.com/MwmNgwy.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="MwmNgwy"><a href="//imgur.com/MwmNgwy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>圖為茶裏王「王來了」新包裝。圖／茶裏王提供
+
+「統一茶裏王龍潭茶廠被查封近萬頓含劇毒的越南茶葉，稍晚將宣布回收下架..」，類似這
+樣的謠言從2014年開始，每年都會上演1、2次，統一表示，已經報警處理追查散布謠言兇手
+。
+
+近來不少長輩朋友在Line上收到標註「SOS緊急轉達SOS」的訊息，內容指名為陽明醫院公衛
+所教授張武修傳給大家的消息：7-11統一超商宣布重大事件，旗下飲品全都用越南茶葉，含
+劇毒代奧辛，檢調目前已在茶裏王龍潭茶廠查封近萬頓的越南茶葉，統一稍晚將宣布回收及
+下架茶裏王產品，茶裏王請大家不要再喝茶飲料。
+
+統一代理發言人凃忠正示，Line上面的不實謠言實在很難消除，的確造成很大困擾，從2014
+年以來這樣的謠言每過一段時間就再度復活，似乎甩不掉，並以不同形式出現，對品牌及公
+司商譽都有很大傷害。
+
+凃忠正指出，針對任何毀損統一品牌及商譽的行為，都會嚴肅處理；統一已報警處理，並同
+步請Line台灣分公司協助處理，找出散播不實謠言的兇手。
+
+按照統一年報數字，茶裏王貢獻統一年營收超過新台幣30億元，是統一茶飲料中的超級明星
+產品，在台灣市占率近14%。
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/7241/2505639?from=udn-ch1_breaknews-1-0-news" target="_blank" rel="nofollow">https://udn.com/news/story/7241/2505639?from=udn-ch1_breaknews-1-0-news</a>
+
+5.備註:
+
+統二來ptt吉可以賺更多
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.224.164.170
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496669325.A.E9C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496669325.A.E9C.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 好怕喔</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">postit</span><span class="f3 push-content">: 長輩傳的那些謠言真的煩死</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alucardlai</span><span class="f3 push-content">: 怎麼可能有用到茶葉</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ghostchaos</span><span class="f3 push-content">: 還好我不喝桶二</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Grothendieck</span><span class="f3 push-content">: 該不會根本就沒用茶葉</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">postit</span><span class="f3 push-content">: 小的我有個群組，長輩頻傳謠言啦、偏方啦、各種聳動言論</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RAA1144557</span><span class="f3 push-content">: Line根本智商測試軟體</span><span class="push-ipdatetime"> 06/05 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">postit</span><span class="f3 push-content">: 落落長，我看到都直接刪除，版面佔很大很不方便</span><span class="push-ipdatetime"> 06/05 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">td770715</span><span class="f3 push-content">: 我爸看了這個之後只要我喝每朝就一直唸 說包裝茶都一樣</span><span class="push-ipdatetime"> 06/05 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 桶二混越南劣質茶是新聞ㄇ？ㄏㄏ</span><span class="push-ipdatetime"> 06/05 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerry1919</span><span class="f3 push-content">: 都用梗、碎葉之類的  哪有可能用完整茶葉</span><span class="push-ipdatetime"> 06/05 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk250</span><span class="f3 push-content">: 反正不會買統一科科</span><span class="push-ipdatetime"> 06/05 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">allenthu</span><span class="f3 push-content">: 居然造謠化工廠用天然的東西 震怒</span><span class="push-ipdatetime"> 06/05 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">waa006</span><span class="f3 push-content">: 幹嘛用越南茶</span><span class="push-ipdatetime"> 06/05 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">prkfcpr</span><span class="f3 push-content">: 有原萃幹嘛喝茶裏王？</span><span class="push-ipdatetime"> 06/05 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 新包裝那樣子像在喝農藥喝</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NEX4036</span><span class="f3 push-content">: 這種都用茶梗之類的劣質品 有差？</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sodacookie</span><span class="f3 push-content">: 一個有毒 一個沒毒 謝謝指教</span><span class="push-ipdatetime"> 06/05 21:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Granatha</span><span class="f3 push-content">: 還有人ㄏ？</span><span class="push-ipdatetime"> 06/05 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Granatha</span><span class="f3 push-content">: 哭哭</span><span class="push-ipdatetime"> 06/05 22:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">svel</span><span class="f3 push-content">: 搞不好化工的東西更毒</span><span class="push-ipdatetime"> 06/05 22:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pegasus170</span><span class="f3 push-content">: 居然是用茶葉泡的哦！真意外！</span><span class="push-ipdatetime"> 06/05 22:56
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496669325.A.E9C.html?cacheKey=2052-2440196&offset=3654&offset-sig=7d1e864ddebdbec8f88af1ffbf177c2852ef977e" data-longpollurl="/v1/longpoll?id=9206bdfdf2a0821fd06cb92e528c67d5b8dec7c3" data-offset="3654"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

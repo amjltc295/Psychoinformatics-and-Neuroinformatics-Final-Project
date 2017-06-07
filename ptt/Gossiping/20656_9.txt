@@ -1,0 +1,153 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495372664.A.DBE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 英特爾科展傳捷報 首有高職生參賽獲獎 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+英特爾科展傳捷報 首有高職生參賽獲獎
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 英特爾科展傳捷報 首有高職生參賽獲獎">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+英特爾科展傳捷報 首有高職生參賽獲獎
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495372664.A.DBE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495372664.A.DBE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">OforU (待)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 英特爾科展傳捷報 首有高職生參賽獲獎</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 21:17:41 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+英特爾科展傳捷報 首有高職生參賽獲獎
+
+3.完整新聞內文:
+〔記者林曉雲／台北報導〕素有<span class="f3 hl">科學奧林匹亞</span>之稱的美國英特爾國際科技展覽會傳回捷報，我國6名學生大放異彩、為國爭光！國立台灣科學教育館選拔13名學生、9件作品代表我國參展，今年共有79個國家、超過1700位學生、1300件作品參賽，在經過激烈的競爭後，我國學生從眾多參賽者中脫穎而出，於台灣時間今日凌晨2時在美國加州洛杉磯舉辦頒獎典禮，6名學生獲得4項大會獎、1項特別獎，展現豐碩成果。
+英特爾科展傳回捷報，今年首次有<span class="f3 hl">高職生</span>參賽獲獎，高雄市<span class="f3 hl">私立中山工商</span>學生葉家宇，以「紙電路印刷機研發及其運用於教學之可行性分析」作品獲得大會內嵌式系統科三等獎。（科教館提供） 英特爾科展傳回捷報，今年首次有高職生參賽獲獎，高雄市私立中山工商學生葉家宇，以「紙電路印刷機研發及其運用於教學之可行性分析」作品獲得大會內嵌式系統科三等獎。（科教館提供）
+素有科學奧林匹亞之稱的美國英特爾國際科技展覽會傳回捷報，國立台灣科學教育館選拔13名學生、9件作品代表我國參展，結果其中6名學生獲得4項大會獎、1項特別獎，為國爭光。（科教館提供） 素有科學奧林匹亞之稱的美國英特爾國際科技展覽會傳回捷報，國立台灣科學教育館選拔13名學生、9件作品代表我國參展，結果其中6名學生獲得4項大會獎、1項特別獎，為國爭光。（科教館提供）
+高雄市私立中山工商學生葉家宇，以「紙電路印刷機研發及其運用於教學之可行性分析」作品獲得大會內嵌式系統科三等獎，他的作品於56屆全國中小學科學展覽會即受到相當大的矚目，陸續經過台灣國際科展參賽的經驗及淬鍊，此次奪下大會三等獎。 科教館館長朱楠賢表示，葉家宇是我國第一位高職學生代表台灣參賽並獲獎的學生，能在世界頂尖的高中生中脫穎而出，相當不容易。
+葉家宇的內嵌式系統科研究作品，是研究開發一種新型印製技術，將金屬箔穩固附著於一般紙張上，使一般紙張得以局部導電，進一步應用於電路佈局測試、柔性電路板開發及教具上，並以此技術開發紙電路印刷機，紙電路印刷機從生產過程到最後印製出的電路板，都較傳統製程便宜、環保且快速，操作的流程也相對簡單，無相關背景的使用者也可以透過它輕易生產出電路板。
+朱楠賢指出，參賽學生代表於出國前不斷自我精進與學習，在台大教授林榮耀院士及多位教授的協助及指導下，從研究方法及科學專業內容，到英語口語表達的挑戰、認識國際禮儀等的培訓，使得同學進入國際舞台能更自信的展現自己的作品。今日亮麗的成績，除了同學的努力，更要感謝多位教授不辭辛勞的協助。
+得獎名單如下：高雄市私立中山高級工商職業學校學生葉家宇，以「紙電路印刷機研發及其運用於教學之可行性分析」作品獲得大會內嵌式系統科三等獎；北一女中學生林芮吟以「平面圖的四元列表著色」大會數學科三等獎；北一女中學生陳怡臻和吳允晴以「透明有機發光元件」作品獲大會化學科三等獎。 台北美國學校學生黃得嘉以「葉酸缺乏及葉酸補充調控乳癌細胞轉化成癌幹細胞並促進體外腫瘤形成」作品獲大會生物醫學與健康科學科大會四等獎；台南女中學生莊沅蓉以「翻轉塗色驚嘆號」作品獲美國數學學會三等獎。
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/qxmqon" target="_blank" rel="nofollow">https://goo.gl/qxmqon</a>
+
+5.備註:
+奧林匹亞的難度無庸置疑
+那請問這個英特爾科展是什麼概念？
+
+有聽說 有些科展還發明展什麼的 是拿錢就可以去換
+請問這個是嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.141.195.231
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495372664.A.DBE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495372664.A.DBE.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: Intel的不錯</span><span class="push-ipdatetime"> 05/21 21:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hmt17</span><span class="f3 push-content">: 大學去國外念 在國外工作 拿永久居留權 遠離鬼島</span><span class="push-ipdatetime"> 05/21 21:18
+</span></div><span class="f2">※ 編輯: OforU (223.141.195.231), 05/21/2017 21:20:23
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zone0317</span><span class="f3 push-content">: 能讓代工隔天賺錢飛天嗎? 不能的話最高22K 不能在高了</span><span class="push-ipdatetime"> 05/21 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 資源多有人幫</span><span class="push-ipdatetime"> 05/21 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kerorobear</span><span class="f3 push-content">: 私立高職屌打國立科大?</span><span class="push-ipdatetime"> 05/21 21:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chopper594</span><span class="f3 push-content">: Intel科展是國際科展的最高殿堂</span><span class="push-ipdatetime"> 05/21 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chopper594</span><span class="f3 push-content">: 不過好奇有多少人知道自己在做什麼</span><span class="push-ipdatetime"> 05/21 21:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">marunouchi</span><span class="f3 push-content">: 恭喜! TAIWAN No.1 讚讚讚!!!</span><span class="push-ipdatetime"> 05/21 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn01958627</span><span class="f3 push-content">: 不要在台灣找工作！</span><span class="push-ipdatetime"> 05/21 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 不錯</span><span class="push-ipdatetime"> 05/21 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JamesForrest</span><span class="f3 push-content">: 其他學生後面有教授指導嗎？Dafuq?</span><span class="push-ipdatetime"> 05/21 22:07
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495372664.A.DBE.html?cacheKey=2052-41691692&offset=4202&offset-sig=4603306ed6b20fa0749fcf3340348f13843a5621" data-longpollurl="/v1/longpoll?id=57fc0a2e2c3fbddf3be5694a20386dec99be8a91" data-offset="4202"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

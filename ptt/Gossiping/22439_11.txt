@@ -1,0 +1,361 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496555161.A.F8D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 韓籍實況主誤播六四天安門影片 遭中方平 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+新頭殼
+2.完整新聞標題:
+韓籍實況主誤播六四天安門影片 遭中方平台封殺
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 韓籍實況主誤播六四天安門影片 遭中方平">
+<meta property="og:description" content="1.媒體來源:
+新頭殼
+2.完整新聞標題:
+韓籍實況主誤播六四天安門影片 遭中方平台封殺
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496555161.A.F8D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496555161.A.F8D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cblin0605 (nimda)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 韓籍實況主誤播六四天安門影片 遭中方平</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 13:45:58 2017</span></div>
+1.媒體來源:
+新頭殼
+
+2.完整新聞標題:
+韓籍實況主誤播六四天安門影片 遭中方平台封殺
+
+3.完整新聞內文:
+昨日（3）晚間「韓服路人王」Dopa在中國直播平台「虎牙」直播時，由於YouTube影片自
+動播放出現「法輪功」與「六四天安門」相關影片，結果剛好負責操作的翻譯的人不在，
+Dopa本人又沒注意到直播畫面，而這樣敏感的影片畫面就在幾十萬中國觀眾面前播出了一
+段時間，後來虎牙官方直接緊急關閉Dopa的直播平台，目前所有相關的社交平台也都被禁
+言，相關討論也全部被刪除，一時間網路謠言四起，網友們私下議論紛紛。
+
+「Dopa」本名金允誠，傳說中是能與「中路大魔王」Faker五五開的高端玩家，玩家們盛
+傳當年Faker在第三賽季登頂成為《英雄聯盟》韓國伺服器第一，也是Dopa刻意讓賢的，
+而且事後Dopa還雲淡風輕地表示：「Faker是世界第一中路，怎麼可以不是韓服第一？」
+而現職代練的Dopa常年盤據在《英雄聯盟》各大伺服器第一名，由於這樣高超的技術與實
+力，Dopa被中國直播平台「虎牙」相中，而被簽下成為當家主播。
+
+昨天的直播中，Dopa本人與翻譯都正巧沒有注意到YouTube影片自動播放的是敏感的「法
+輪功」與「六四天安門」，播放一段時間後虎牙直播官方才注意到，緊急關閉了直播，並
+將Dopa整個直播頻道關閉，由於中國官方屏蔽關鍵字的舉措，也使得各大論壇上的討論文
+章也都被刪除，一時風聲鶴唳，Dopa本人也在微博上道歉，表示自己做了不應該做的事情
+，但大部分的中國網友都認為Dopa很有可能是被人陷害背鍋，並不是故意這麼做的，然而
+不論中國官方與虎牙直播是否採信這樣的說法，Dopa要在中國的直播平台上再次開啟個人
+轉播的生意，恐怕困難重重。
+
+4.完整新聞連結 (或短網址):
+<a href="https://newtalk.tw/news/view/2017-06-04/88382" target="_blank" rel="nofollow">https://newtalk.tw/news/view/2017-06-04/88382</a>
+
+5.備註:
+小心喔! 老共會派人去暗殺喔!
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.73.178
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496555161.A.F8D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496555161.A.F8D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sclbtlove</span><span class="f3 push-content">: Dopa不是現在都靠虎牙賺錢了 QQ 慘了</span><span class="push-ipdatetime"> 06/04 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsx26997785</span><span class="f3 push-content">: 64 64 64 64 64 64</span><span class="push-ipdatetime"> 06/04 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JCS15</span><span class="f3 push-content">: 誤播嗎</span><span class="push-ipdatetime"> 06/04 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blackzero1</span><span class="f3 push-content">: 幫QQ</span><span class="push-ipdatetime"> 06/04 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Howard61313</span><span class="f3 push-content">: 又沒做錯事</span><span class="push-ipdatetime"> 06/04 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c24253994</span><span class="f3 push-content">: 又崩潰惹</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogogcat</span><span class="f3 push-content">: 金字塔+1</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 87</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whathefuc</span><span class="f3 push-content">: 方丈很小心眼</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">secscy</span><span class="f3 push-content">: 豪可憐喔</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 以後不能露面了</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newsnew</span><span class="f3 push-content">: 所以可以用直播方式播中共想擋的東西</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FatalLuna</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 13:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tokyo730714</span><span class="f3 push-content">: 被你水管衝康XDDDDDDDDD</span><span class="push-ipdatetime"> 06/04 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hide0325</span><span class="f3 push-content">: 這有什麼好道歉的</span><span class="push-ipdatetime"> 06/04 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frank00427</span><span class="f3 push-content">: Dopa一定超黑人問號的</span><span class="push-ipdatetime"> 06/04 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">l19</span><span class="f3 push-content">: 道歉個屁 臭俗辣還敢當主播</span><span class="push-ipdatetime"> 06/04 13:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iWatch2</span><span class="f3 push-content">: 怕</span><span class="push-ipdatetime"> 06/04 13:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pda2001</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 06/04 13:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">planethell</span><span class="f3 push-content">: 哦哦哦哦哦</span><span class="push-ipdatetime"> 06/04 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cloudyagent</span><span class="f3 push-content">: 64到底有什麼魔力</span><span class="push-ipdatetime"> 06/04 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">higameboy</span><span class="f3 push-content">: 好好笑喔XD</span><span class="push-ipdatetime"> 06/04 13:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ha0118</span><span class="f3 push-content">: 故意的嗎? XD</span><span class="push-ipdatetime"> 06/04 13:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gghost1002</span><span class="f3 push-content">: XDDDD</span><span class="push-ipdatetime"> 06/04 13:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Crazyfire</span><span class="f3 push-content">: 反正既然都被封了 還不如公開挺薩德算了XDDD</span><span class="push-ipdatetime"> 06/04 13:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snsdakb48</span><span class="f3 push-content">: 未看先猜故意的</span><span class="push-ipdatetime"> 06/04 13:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mathrew</span><span class="f3 push-content">: 故意的啦  哪可能就剛好今天誤播</span><span class="push-ipdatetime"> 06/04 13:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku11</span><span class="f3 push-content">: 不可描述的神秘事件</span><span class="push-ipdatetime"> 06/04 13:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">romeie06</span><span class="f3 push-content">: 一定故意的啊 呵呵</span><span class="push-ipdatetime"> 06/04 13:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">if2</span><span class="f3 push-content">: 誤踩玻璃  幫QQ</span><span class="push-ipdatetime"> 06/04 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 讚</span><span class="push-ipdatetime"> 06/04 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dannyx</span><span class="f3 push-content">: XDD</span><span class="push-ipdatetime"> 06/04 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/04 13:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dexdey</span><span class="f3 push-content">: 一定故意的</span><span class="push-ipdatetime"> 06/04 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 手誤啦 手誤啦</span><span class="push-ipdatetime"> 06/04 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sai0613</span><span class="f3 push-content">: 明明就故意的</span><span class="push-ipdatetime"> 06/04 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 哎呀  玻璃滿地的國度阿</span><span class="push-ipdatetime"> 06/04 13:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 胎彎 lumber 萬</span><span class="push-ipdatetime"> 06/04 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linbasohigh</span><span class="f3 push-content">: <a href="http://i.imgur.com/L3XnbzN.jpg" target="_blank" rel="nofollow">http://i.imgur.com/L3XnbzN.jpg</a></span><span class="push-ipdatetime"> 06/04 14:00
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="L3XnbzN"><a href="//imgur.com/L3XnbzN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linbasohigh</span><span class="f3 push-content">: DOPA回來看電腦銀幕時</span><span class="push-ipdatetime"> 06/04 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 水管自動播放不是平常觀注的類型嗎</span><span class="push-ipdatetime"> 06/04 14:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shepherdy</span><span class="f3 push-content">: 六四 六四 六四</span><span class="push-ipdatetime"> 06/04 14:02
+</span></div><span class="f2">※ </span><span class="f2 hl">link5566</span><span class="f2">:轉錄至看板 LoL</span>                                         06/04 14:03
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x007</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 14:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fransiceyho</span><span class="f3 push-content">: 這樣就要道歉 看來天安門事件傷害全體中國人內心</span><span class="push-ipdatetime"> 06/04 14:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PeterHenson</span><span class="f3 push-content">: 他在韓國混不下去才去中國的 怎麼可能支持薩德</span><span class="push-ipdatetime"> 06/04 14:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colinfeng</span><span class="f3 push-content">: 中國不是不能上你水管</span><span class="push-ipdatetime"> 06/04 14:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cul287</span><span class="f3 push-content">: 顛覆國家政權罪 又要被&#39;李明哲&#39;了</span><span class="push-ipdatetime"> 06/04 14:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 中國的六四就像台灣的228，中國黨最怕這個</span><span class="push-ipdatetime"> 06/04 14:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BigBananaBoy</span><span class="f3 push-content">: 超故意wwwww</span><span class="push-ipdatetime"> 06/04 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nomorepipe</span><span class="f3 push-content">: 方丈很小心眼的</span><span class="push-ipdatetime"> 06/04 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x04nonesuchx</span><span class="f3 push-content">: XDDD</span><span class="push-ipdatetime"> 06/04 14:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knight77</span><span class="f3 push-content">: 十萬中國人崩潰</span><span class="push-ipdatetime"> 06/04 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tokyo730714</span><span class="f3 push-content">: 是說到底為什麼要禁六四？不是暴徒年輕人虐殺軍方嗎</span><span class="push-ipdatetime"> 06/04 14:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tuna0214</span><span class="f3 push-content">: 故意的吧wwww</span><span class="push-ipdatetime"> 06/04 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 兒童不宜</span><span class="push-ipdatetime"> 06/04 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">more5566</span><span class="f3 push-content">: 由於中國官方&#34;屏蔽&#34;關鍵字的舉措 新頭殼支那媒體?</span><span class="push-ipdatetime"> 06/04 14:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TyuzuChou</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 06/04 14:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">polyman73</span><span class="f3 push-content">: 遠離一中 杜絕愛支</span><span class="push-ipdatetime"> 06/04 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">awwwe</span><span class="f3 push-content">: 87</span><span class="push-ipdatetime"> 06/04 14:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derekg8</span><span class="f3 push-content">: 哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 14:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acer758219</span><span class="f3 push-content">: 方丈為人很小心眼的</span><span class="push-ipdatetime"> 06/04 14:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c963852002</span><span class="f3 push-content">: 送去金字塔</span><span class="push-ipdatetime"> 06/04 14:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gankgf</span><span class="f3 push-content">: Dopa在韓國被封殺 到了中國也被封殺</span><span class="push-ipdatetime"> 06/04 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">almondchoco</span><span class="f3 push-content">: 中國玻璃心 可憐</span><span class="push-ipdatetime"> 06/04 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wulaw5566</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s4001</span><span class="f3 push-content">: 是有沒有那麼愛“端”用高階很難嗎？</span><span class="push-ipdatetime"> 06/04 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 直接過潤六五的玻璃心支那</span><span class="push-ipdatetime"> 06/04 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iMANIA</span><span class="f3 push-content">: 上歷史課也不行?! 中共這政權真的很玻璃心</span><span class="push-ipdatetime"> 06/04 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">js52666</span><span class="f3 push-content">: RIP</span><span class="push-ipdatetime"> 06/04 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pfw</span><span class="f3 push-content">: 玻璃心又碎了XDDD</span><span class="push-ipdatetime"> 06/04 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">homerunball</span><span class="f3 push-content">: 低能支那賤畜</span><span class="push-ipdatetime"> 06/04 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s595857</span><span class="f3 push-content">: 樓下realcn</span><span class="push-ipdatetime"> 06/04 14:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">svg1031</span><span class="f3 push-content">: 前進64推</span><span class="push-ipdatetime"> 06/04 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 故意啦</span><span class="push-ipdatetime"> 06/04 14:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">botnet</span><span class="f3 push-content">: 玻璃心又碎了</span><span class="push-ipdatetime"> 06/04 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hdjj</span><span class="f3 push-content">: 不能說的事實,六四天安門</span><span class="push-ipdatetime"> 06/04 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ltw89104</span><span class="f3 push-content">: 體驗一下中國式的民主自由XDDD</span><span class="push-ipdatetime"> 06/04 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lingling0000</span><span class="f3 push-content">: 屠殺過必留下痕跡</span><span class="push-ipdatetime"> 06/04 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 道歉的個屌</span><span class="push-ipdatetime"> 06/04 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 好慘  .......  -.-</span><span class="push-ipdatetime"> 06/04 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CtrlF5</span><span class="f3 push-content">: 玻璃心又碎了XDDD</span><span class="push-ipdatetime"> 06/04 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gonh</span><span class="f3 push-content">: 好好笑喔XD</span><span class="push-ipdatetime"> 06/04 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">posh</span><span class="f3 push-content">: 故意的嗎? XD</span><span class="push-ipdatetime"> 06/04 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catch21</span><span class="f3 push-content">: 64到底有什麼魔力</span><span class="push-ipdatetime"> 06/04 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alcohopad</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ENG2014</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oracleV</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CtrlF5</span><span class="f3 push-content">: 哦哦哦哦哦</span><span class="push-ipdatetime"> 06/04 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aeki</span><span class="f3 push-content">: 方丈為人很小心眼的</span><span class="push-ipdatetime"> 06/04 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lolgg</span><span class="f3 push-content">: 玻璃心又碎了XDDD</span><span class="push-ipdatetime"> 06/04 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmuno</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mosbagayalo</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alcoholpad</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">netio</span><span class="f3 push-content">: Google表示:計畫成功</span><span class="push-ipdatetime"> 06/04 15:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">signhere</span><span class="f3 push-content">: 好好笑喔XD</span><span class="push-ipdatetime"> 06/04 15:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongkong1997</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">context</span><span class="f3 push-content">: 64 64 64 64</span><span class="push-ipdatetime"> 06/04 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catch21</span><span class="f3 push-content">: 好好笑喔XD</span><span class="push-ipdatetime"> 06/04 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ENG2014</span><span class="f3 push-content">: 哦哦哦哦哦</span><span class="push-ipdatetime"> 06/04 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tainantw</span><span class="f3 push-content">: 低能支那國</span><span class="push-ipdatetime"> 06/04 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nonoyesyes</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">closing</span><span class="f3 push-content">: 玻璃心又碎了XDDD</span><span class="push-ipdatetime"> 06/04 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">regess</span><span class="f3 push-content">: 又崩潰惹</span><span class="push-ipdatetime"> 06/04 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vicion</span><span class="f3 push-content">: 玻璃心又碎了</span><span class="push-ipdatetime"> 06/04 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aceey</span><span class="f3 push-content">: 玻璃心又碎了</span><span class="push-ipdatetime"> 06/04 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rppppoe</span><span class="f3 push-content">: 玻璃心又碎了</span><span class="push-ipdatetime"> 06/04 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmuno</span><span class="f3 push-content">: 故意啦</span><span class="push-ipdatetime"> 06/04 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ENG2014</span><span class="f3 push-content">: 又沒做錯事</span><span class="push-ipdatetime"> 06/04 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leenex</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jojojo1</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 15:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gglol</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 15:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">regess</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yandming</span><span class="f3 push-content">: 玻璃心又碎了</span><span class="push-ipdatetime"> 06/04 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soliden</span><span class="f3 push-content">: 故意啦</span><span class="push-ipdatetime"> 06/04 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">recap</span><span class="f3 push-content">: 不能說的事實,六四天安門</span><span class="push-ipdatetime"> 06/04 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fifa2014</span><span class="f3 push-content">: 好好笑喔XD</span><span class="push-ipdatetime"> 06/04 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">readerspace</span><span class="f3 push-content">: 豪可憐喔</span><span class="push-ipdatetime"> 06/04 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gnardada</span><span class="f3 push-content">: DOPA XDd</span><span class="push-ipdatetime"> 06/04 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">squat666</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FX2000</span><span class="f3 push-content">: 64到底有什麼魔力</span><span class="push-ipdatetime"> 06/04 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andrew40907</span><span class="f3 push-content">: 可以交待後事了</span><span class="push-ipdatetime"> 06/04 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rdmtb</span><span class="f3 push-content">: 這傢伙好敢。</span><span class="push-ipdatetime"> 06/04 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmuno</span><span class="f3 push-content">: 好好笑喔XD</span><span class="push-ipdatetime"> 06/04 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ivstitia</span><span class="f3 push-content">: 道歉個屁 廢物</span><span class="push-ipdatetime"> 06/04 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yynnn</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/04 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongkong1997</span><span class="f3 push-content">: 玻璃心 XD</span><span class="push-ipdatetime"> 06/04 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sr100</span><span class="f3 push-content">: 故意啦</span><span class="push-ipdatetime"> 06/04 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yaieki</span><span class="f3 push-content">: 中共殺人不用道歉 播出事實給中國人看居然要道歉</span><span class="push-ipdatetime"> 06/04 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantie</span><span class="f3 push-content">: 故意的嗎? XD</span><span class="push-ipdatetime"> 06/04 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">batsukirei</span><span class="f3 push-content">: 故意的吧 哈哈哈哈哈</span><span class="push-ipdatetime"> 06/04 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tzuchun0214</span><span class="f3 push-content">: 這真的不是故意嗎</span><span class="push-ipdatetime"> 06/04 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantie</span><span class="f3 push-content">: 不能說的事實,六四天安門</span><span class="push-ipdatetime"> 06/04 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">parkblack</span><span class="f3 push-content">: 天啊 不能給中國人看到64跟法輪功的啊 他們承受不住</span><span class="push-ipdatetime"> 06/04 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hitowet</span><span class="f3 push-content">: 又崩潰惹</span><span class="push-ipdatetime"> 06/04 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adifdtd</span><span class="f3 push-content">: 其實就錢跟自尊相比  屈服於人民幣也是可以理解的</span><span class="push-ipdatetime"> 06/04 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fcker</span><span class="f3 push-content">: 哦哦哦哦哦</span><span class="push-ipdatetime"> 06/04 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">adifdtd</span><span class="f3 push-content">: 只是我不懂中國人民幹麻替這個政府遮醜  那些輪下亡魂</span><span class="push-ipdatetime"> 06/04 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">adifdtd</span><span class="f3 push-content">: 可是你們的祖先阿  不是嗎</span><span class="push-ipdatetime"> 06/04 15:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aceey</span><span class="f3 push-content">: 哦哦哦哦哦</span><span class="push-ipdatetime"> 06/04 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 玻璃心又碎了</span><span class="push-ipdatetime"> 06/04 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loho</span><span class="f3 push-content">: 不能說的事實,六四天安門</span><span class="push-ipdatetime"> 06/04 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bikee</span><span class="f3 push-content">: 故意的嗎? XD</span><span class="push-ipdatetime"> 06/04 15:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gwenwoo</span><span class="f3 push-content">:  中國用這招默默紀念六四天安門血腥鎮壓大學生民主運動</span><span class="push-ipdatetime"> 06/04 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bightv19018</span><span class="f3 push-content">: PTT首頁貼個坦克碾中國人的示意圖，本版就乾淨多了</span><span class="push-ipdatetime"> 06/04 15:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">buddar</span><span class="f3 push-content">: 玻璃心中國不是說人權嗎？怎不敢面對自己歷史，莫忘南京大</span><span class="push-ipdatetime"> 06/04 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">buddar</span><span class="f3 push-content">: 屠殺，卻不能談六四</span><span class="push-ipdatetime"> 06/04 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 啊不是說中國人有發言權????</span><span class="push-ipdatetime"> 06/04 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 中共有勇氣拿坦克壓學生。沒勇氣面對喔</span><span class="push-ipdatetime"> 06/04 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xinyuxiao</span><span class="f3 push-content">: 沒關閉前沒人注意到 現在大家都知道了</span><span class="push-ipdatetime"> 06/04 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">martin5566</span><span class="f3 push-content">: 不自殺聲明先打好</span><span class="push-ipdatetime"> 06/04 15:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrHeat</span><span class="f3 push-content">: 中國發起拒吃蕃薯運動 馬鈴薯或成最大淫家</span><span class="push-ipdatetime"> 06/04 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">loveyanzi03</span><span class="f3 push-content">: 白痴才道歉</span><span class="push-ipdatetime"> 06/04 16:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">magiccoco</span><span class="f3 push-content">: 中國官方玻璃心破碎</span><span class="push-ipdatetime"> 06/04 16:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">royfw</span><span class="f3 push-content">: 要被抓去央視道歉了</span><span class="push-ipdatetime"> 06/04 16:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hunder31</span><span class="f3 push-content">: XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 06/04 16:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bearking2</span><span class="f3 push-content">: 還活著就該萬幸了。早點離開那個國家比較好。</span><span class="push-ipdatetime"> 06/04 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Renaud</span><span class="f3 push-content">: 8964bj4</span><span class="push-ipdatetime"> 06/04 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hohohoha</span><span class="f3 push-content">: 中國人一說就會消失 呵呵</span><span class="push-ipdatetime"> 06/04 16:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leosthanatos</span><span class="f3 push-content">: 笑死XDDDDDDDD</span><span class="push-ipdatetime"> 06/04 16:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">handsometai</span><span class="f3 push-content">: 道歉三小</span><span class="push-ipdatetime"> 06/04 16:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">brian060587</span><span class="f3 push-content">: 支那賤畜</span><span class="push-ipdatetime"> 06/04 16:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tamama56</span><span class="f3 push-content">: 玻璃心</span><span class="push-ipdatetime"> 06/04 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">u0221235</span><span class="f3 push-content">: 和諧國家</span><span class="push-ipdatetime"> 06/04 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: 講事實會被消失的國家</span><span class="push-ipdatetime"> 06/04 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OGC218</span><span class="f3 push-content">: 抓得到他嗎？他中路王耶</span><span class="push-ipdatetime"> 06/04 16:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winnietslock</span><span class="f3 push-content">: 世界第一中路是什麼鬼名堂</span><span class="push-ipdatetime"> 06/04 16:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EdgeOfPeople</span><span class="f3 push-content">: 笑</span><span class="push-ipdatetime"> 06/04 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oilcaptain</span><span class="f3 push-content">: 是非不分 沒做錯什麼卻要道歉</span><span class="push-ipdatetime"> 06/04 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angus8147</span><span class="f3 push-content">: 可以找稍安</span><span class="push-ipdatetime"> 06/04 17:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rc0216</span><span class="f3 push-content">: 韓國NO1</span><span class="push-ipdatetime"> 06/04 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isalin</span><span class="f3 push-content">: 覺得是故意的 哪有那麼巧</span><span class="push-ipdatetime"> 06/04 17:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OOCCO</span><span class="f3 push-content">: 64沒用吧   不是要六四才有用嗎?</span><span class="push-ipdatetime"> 06/04 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dupd8017</span><span class="f3 push-content">: 完了</span><span class="push-ipdatetime"> 06/04 17:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">etymology</span><span class="f3 push-content">: 再舔共啊</span><span class="push-ipdatetime"> 06/04 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pavacana</span><span class="f3 push-content">: 哈 要被和諧了 可悲的文化封殺</span><span class="push-ipdatetime"> 06/04 18:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cheng31507</span><span class="f3 push-content">: 笑死 最自由的國家</span><span class="push-ipdatetime"> 06/04 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fk47826</span><span class="f3 push-content">: 笑死人！不愧是自詡世界上最自由民主的國家XDDD</span><span class="push-ipdatetime"> 06/04 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iqeqicq</span><span class="f3 push-content">: 改直播光州事件啦</span><span class="push-ipdatetime"> 06/04 19:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cbr0627</span><span class="f3 push-content">: 要被失蹤了</span><span class="push-ipdatetime"> 06/04 19:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seraph01</span><span class="f3 push-content">: 表示自己做了不應該做的事情 笑死了</span><span class="push-ipdatetime"> 06/04 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seraph01</span><span class="f3 push-content">: 不應該做的事情: 講實話</span><span class="push-ipdatetime"> 06/04 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Beetch</span><span class="f3 push-content">: 所以？ 玻璃心</span><span class="push-ipdatetime"> 06/04 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holishing</span><span class="f3 push-content">: XDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 06/04 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stta</span><span class="f3 push-content">: 呃,故意的吧XD</span><span class="push-ipdatetime"> 06/04 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boxmeal</span><span class="f3 push-content">: 他錯在哪裡?</span><span class="push-ipdatetime"> 06/04 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deeplythink</span><span class="f3 push-content">: 為何中國89年64天安門屠殺歷史,對鄰國台灣也很重要!?</span><span class="push-ipdatetime"> 06/04 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deeplythink</span><span class="f3 push-content">: 因為中共要是有機會,如同228,也會把台灣人都抹煞掉!!</span><span class="push-ipdatetime"> 06/04 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yangtsur</span><span class="f3 push-content">: 今天是六月五號. 中國並沒有六月四號好嘛</span><span class="push-ipdatetime"> 06/04 21:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: 誤撥也要道歉XDD</span><span class="push-ipdatetime"> 06/04 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alyce36</span><span class="f3 push-content">: 可憐XD</span><span class="push-ipdatetime"> 06/04 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yorunight</span><span class="f3 push-content">: 哈哈XD</span><span class="push-ipdatetime"> 06/04 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 就怕翻譯被強壓回國</span><span class="push-ipdatetime"> 06/04 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ikoe</span><span class="f3 push-content">: 保重</span><span class="push-ipdatetime"> 06/04 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">twdvdr</span><span class="f3 push-content">: 中國不是說64沒死人 影片是假的 那麼怕人討論是心虛阿</span><span class="push-ipdatetime"> 06/05 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: 記得補上不消失不自殺宣言，晚了就來不及摟</span><span class="push-ipdatetime"> 06/05 00:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blur13</span><span class="f3 push-content">: 他在韓國阿 直播連過去就好了</span><span class="push-ipdatetime"> 06/05 01:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JierWode</span><span class="f3 push-content">: 不過是比較強的某門，爬分很猛罷了被捧成這樣</span><span class="push-ipdatetime"> 06/05 04:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JierWode</span><span class="f3 push-content">: 被這種事封殺以後又只能靠代打賺了，反正也不敢打職業</span><span class="push-ipdatetime"> 06/05 04:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wx6120</span><span class="f3 push-content">: 傻逼中共~</span><span class="push-ipdatetime"> 06/05 07:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yyy8167</span><span class="f3 push-content">: 惹乾爹森七七了</span><span class="push-ipdatetime"> 06/05 07:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomanbaya</span><span class="f3 push-content">: 一個政府不要臉全世界都把你國民等同視之!</span><span class="push-ipdatetime"> 06/05 07:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vykxtoz</span><span class="f3 push-content">: 民煮XDD</span><span class="push-ipdatetime"> 06/05 07:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TRUNKSX</span><span class="f3 push-content">: 為什麼中國不承認六四</span><span class="push-ipdatetime"> 06/05 08:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hsu1025</span><span class="f3 push-content">: 要直播道歉了...金:我以身為中國人為榮.....</span><span class="push-ipdatetime"> 06/05 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diiky</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 06/05 10:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gidens</span><span class="f3 push-content">: 泱泱大國 心眼狹小</span><span class="push-ipdatetime"> 06/05 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunluna</span><span class="f3 push-content">: 要被六四了</span><span class="push-ipdatetime"> 06/05 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hagane39</span><span class="f3 push-content">: Dopa XDDDDDDD</span><span class="push-ipdatetime"> 06/05 13:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lv256</span><span class="f3 push-content">: 傷害民族情感簡直逆賊</span><span class="push-ipdatetime"> 06/06 04:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nedetdo</span><span class="f3 push-content">: 故意手滑</span><span class="push-ipdatetime"> 06/06 08:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496555161.A.F8D.html?cacheKey=2052-1075284&offset=23334&offset-sig=bf1e4b72531932f6756f79d413af4534debf1631" data-longpollurl="/v1/longpoll?id=1e8cf81797fc20c88c21245b2b6bddd390c05e95" data-offset="23334"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

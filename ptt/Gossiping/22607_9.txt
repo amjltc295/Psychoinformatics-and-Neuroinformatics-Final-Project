@@ -1,0 +1,138 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496664369.A.53A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞]台灣醫療評比全球排名出爐 醫界大吃一驚 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="→ TohnoMinagi: risk-standardisation，當中已經排除飲食習慣跟環境   05/25 14:59
+→ TohnoMinagi: 因素，只能說我們的資源也許投錯地方，慢性病診斷後   05/25 15:00
+→ TohnoMinagi: 的次級預防出了些問題，制度可能要大幅修正了         05/25 15:01
+這位大大是專家，說的很正確，台灣的制度需要大幅糾正，
+這排名已經把飲食跟環境因素排除，台灣的醫療根本走錯方向，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞]台灣醫療評比全球排名出爐 醫界大吃一驚">
+<meta property="og:description" content="→ TohnoMinagi: risk-standardisation，當中已經排除飲食習慣跟環境   05/25 14:59
+→ TohnoMinagi: 因素，只能說我們的資源也許投錯地方，慢性病診斷後   05/25 15:00
+→ TohnoMinagi: 的次級預防出了些問題，制度可能要大幅修正了         05/25 15:01
+這位大大是專家，說的很正確，台灣的制度需要大幅糾正，
+這排名已經把飲食跟環境因素排除，台灣的醫療根本走錯方向，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496664369.A.53A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496664369.A.53A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">DDHOWDA (DDHOWDA)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞]台灣醫療評比全球排名出爐 醫界大吃一驚</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 20:06:06 2017</span></div>
+
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TohnoMinagi</span><span class="f3 push-content">: risk-standardisation，當中已經排除飲食習慣跟環境</span><span class="push-ipdatetime"> 05/25 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TohnoMinagi</span><span class="f3 push-content">: 因素，只能說我們的資源也許投錯地方，慢性病診斷後</span><span class="push-ipdatetime"> 05/25 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TohnoMinagi</span><span class="f3 push-content">: 的次級預防出了些問題，制度可能要大幅修正了</span><span class="push-ipdatetime"> 05/25 15:01
+</span></div>
+
+這位大大是專家，說的很正確，台灣的制度需要大幅糾正，
+
+這排名已經把飲食跟環境因素排除，台灣的醫療根本走錯方向，
+
+慢性死亡率太高，健保資源全部錯誤投入，但是鬼島政府現在不改錯誤方向，
+
+準備繼續搞這種論量計酬的模式，我看未來慢性病會死更快，鬼島政府出來面對!
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.141.77.119
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496664369.A.53A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496664369.A.53A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ts05593818</span><span class="f3 push-content">: 有心發展的官員都死光了QQ</span><span class="push-ipdatetime"> 06/05 20:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 更多跟教育有關 多推廣運動知識 防止慢性病才是正途</span><span class="push-ipdatetime"> 06/05 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 只南打風險標準化就好打那麼長英文字</span><span class="push-ipdatetime"> 06/05 20:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nnsc</span><span class="f3 push-content">: 推，台灣只是治病便宜而已，養出一堆不注重自己健康的人</span><span class="push-ipdatetime"> 06/05 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scarbywind</span><span class="f3 push-content">: 標準話風險指標吧..</span><span class="push-ipdatetime"> 06/05 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 你不論量 醫界醫師就該啊 然後開始寫臉書 記者會帶風向</span><span class="push-ipdatetime"> 06/06 00:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">:  民眾都很容易被影響 怎麼推？</span><span class="push-ipdatetime"> 06/06 00:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496664369.A.53A.html?cacheKey=2052-2382943&offset=1532&offset-sig=600c7f6c752b5822ba0e174c1a0618f30ab5740f" data-longpollurl="/v1/longpoll?id=495de055c534b2168ec131c8039437c7b5912d15" data-offset="1532"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

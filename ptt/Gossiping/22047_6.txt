@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496307423.A.8A9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 用什麼來測聲音的分貝最準？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="哪是阿
+人耳在測量聲音是有很多誤差的
+因為人類的耳朵對各種頻率的聲音敏感度都不同
+低音敏感度差，高音敏感度高
+這種聲音震幅及頻率對人耳的綜合考量，叫做「響度」
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 用什麼來測聲音的分貝最準？">
+<meta property="og:description" content="哪是阿
+人耳在測量聲音是有很多誤差的
+因為人類的耳朵對各種頻率的聲音敏感度都不同
+低音敏感度差，高音敏感度高
+這種聲音震幅及頻率對人耳的綜合考量，叫做「響度」
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496307423.A.8A9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496307423.A.8A9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">moonblacktea (阿月紅茶冰)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 用什麼來測聲音的分貝最準？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 16:56:55 2017</span></div>
+<span class="f2">※ 引述《ru04ul4 (拒絕)》之銘言：
+</span><span class="f6">: ※ 引述《nnlllnn (★真㊣中校★)》之銘言：
+</span><span class="f6">: : 我是說在沒有儀器之下
+</span><span class="f6">: : 用什麼來測聲音的分貝數最準？
+</span><span class="f6">: : 原子筆？
+</span><span class="f6">: : 敏感的龜頭？
+</span><span class="f6">: : 還是乳頭？
+</span><span class="f6">: : 大家覺得呢？
+</span><span class="f6">: : 有卦否？
+</span><span class="f6">: 用你的耳朵阿 分貝本來就是用肉耳定義的
+</span><span class="f6">: 勉強可以聽到的聲音&gt;&gt;&gt;　0分貝
+</span><span class="f6">: 正常室內交談的聲音&gt;&gt;&gt; 40分貝
+</span><span class="f6">: 普通熱鬧街道的聲音&gt;&gt;&gt; 80分貝
+</span><span class="f6">: (噪音超過90分貝時
+</span><span class="f6">: 你會開始感覺到焦慮 想離開這個環境)
+</span><span class="f6">: 火車經過尖銳的聲音&gt;&gt;&gt;100分貝
+</span><span class="f6">: 飛機呼嘯而過的聲音&gt;&gt;&gt;120分貝
+</span>
+哪是阿
+
+人耳在測量聲音是有很多誤差的
+因為人類的耳朵對各種頻率的聲音敏感度都不同
+
+低音敏感度差，高音敏感度高
+這種聲音震幅及頻率對人耳的綜合考量，叫做「響度」
+
+在聲音頻率只有100HZ的時候，大概要22分貝，正常人類才能聽得見
+在聲音頻率只有20HZ的時候，更要到70分貝才聽得見
+
+所以說用人類耳朵測分貝根本就不準
+
+除非是絕對音感，只要一聽聲音馬上知道音高
+換算成頻率，再去響度表上面查出分貝
+不然用人耳聽分貝準確率不會多高
+
+小妹我覺得還是用敏感的龜頭去感受聲音所發出來的振動比較準確
+如果震動大翹得高，分貝數就高
+震動小奈米屌，分貝數就低
+
+--
+[新聞] 屌長度全球排名　台灣男人10.6公分
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">esunbank</span><span class="f3 push-content">: 一樓5CM</span><span class="push-ipdatetime"> 03/01 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">robertchun</span><span class="f3 push-content">: 鄉民不是都30CM??</span><span class="push-ipdatetime"> 03/01 01:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eegh</span><span class="f3 push-content">: 我的18cm是提高的</span><span class="push-ipdatetime"> 03/01 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">railman</span><span class="f3 push-content">: 幸好我拉高平均值</span><span class="push-ipdatetime"> 03/01 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">esunbank</span><span class="f3 push-content">: 打錯  是五樓  還是勃起後</span><span class="push-ipdatetime"> 03/01 01:19
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.236.91.26
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496307423.A.8A9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496307423.A.8A9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cake10414</span><span class="f3 push-content">: 你可以直接打最後一段就好</span><span class="push-ipdatetime"> 06/01 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">odd5566</span><span class="f3 push-content">: 男人的力量  決定女人的音量</span><span class="push-ipdatetime"> 06/01 16:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496307423.A.8A9.html?cacheKey=2052-12417139&offset=1998&offset-sig=e76e2836a14e2211755ed30741199b9250361246" data-longpollurl="/v1/longpoll?id=e736318fce38b12f1b8c64cdcbf0d9d5122ae7e1" data-offset="1998"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

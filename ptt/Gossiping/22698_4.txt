@@ -1,0 +1,198 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496724074.A.F3F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 漲瘋了！比特幣衝破2800美元再創新高 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://www.appledaily.com.tw/realtimenews/article/new/20170606/1134010/
+漲瘋了！比特幣衝破2800美元再創新高
+2017年06月06日12:08
+在卡達地緣政治風險發酵的推動下，比特幣價格再次刷新歷史新高。據彭博報價，比特幣
+周一暴漲9.6%收2663.50美元，今盤中一度續漲7.8%至2871.41美元（8.64萬元台幣），等
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 漲瘋了！比特幣衝破2800美元再創新高">
+<meta property="og:description" content="http://www.appledaily.com.tw/realtimenews/article/new/20170606/1134010/
+漲瘋了！比特幣衝破2800美元再創新高
+2017年06月06日12:08
+在卡達地緣政治風險發酵的推動下，比特幣價格再次刷新歷史新高。據彭博報價，比特幣
+周一暴漲9.6%收2663.50美元，今盤中一度續漲7.8%至2871.41美元（8.64萬元台幣），等
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496724074.A.F3F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496724074.A.F3F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">crashonU (crazy)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 漲瘋了！比特幣衝破2800美元再創新高</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 12:41:10 2017</span></div>
+<a href="http://www.appledaily.com.tw/realtimenews/article/new/20170606/1134010/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/new/20170606/1134010/</a>
+
+漲瘋了！比特幣衝破2800美元再創新高
+2017年06月06日12:08
+
+在卡達地緣政治風險發酵的推動下，比特幣價格再次刷新歷史新高。據彭博報價，比特幣
+周一暴漲9.6%收2663.50美元，今盤中一度續漲7.8%至2871.41美元（8.64萬元台幣），等
+於漲了207.90美元（6256美元），<span class="f3 hl">首次衝破2800美元大關</span>。
+
+新聞網站Zero Hedge與陸媒《華爾街見聞》的報導指出，日韓等亞洲投資者瘋狂湧入，是
+重要推動力，<span class="f3 hl">日本家庭主婦（被市場稱為渡邊太太）和韓國退休老人被認為是比特幣5月
+</span><span class="f3 hl">來暴漲的主力</span>。5月比特幣價格漲勢明顯加速，跨越每個100美元門檻的速度降至1~2天。
+長期以來一直是新潮人士才會投資的比特幣，如今在亞洲漸成主流，吸引日本家庭主婦投
+資人、南韓退休人士和成千上萬想要抵禦低息的人士爭相投資。<span class="f3 hl">比特幣單是5月漲幅就超
+</span><span class="f3 hl">過75%，今年來暴漲199%</span>，部分原因是日韓投資人在中國投資人興趣降溫之際加入了這場
+熱炒。
+
+有了瘋狂漲勢護體，在凍結近4個月後，中國3大比特幣交易平台已恢復提現。5月31日起
+火幣網、OKCoin幣行和比特幣中國先後發布公告，恢復比特幣提現服務。此前中國監管機
+構出於對資本外流和洗錢的擔憂而加大監管。中國央行今年2月告知比特幣交易平台，違
+反有關外匯管理、反洗錢以及支付結算等法律法規的交易平台，將被關閉。（于倩若／綜
+合外電報導）
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.69.34.205
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496724074.A.F3F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496724074.A.F3F.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smalljacky03</span><span class="f3 push-content">: 資金瘋狂外逃</span><span class="push-ipdatetime"> 06/06 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 新台幣要怎麼換成比特幣 Q_Q</span><span class="push-ipdatetime"> 06/06 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 垃圾幣總算窮途末路了，即將大爆特爆</span><span class="push-ipdatetime"> 06/06 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 狂阿!!!</span><span class="push-ipdatetime"> 06/06 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">manlike</span><span class="f3 push-content">: WannaCry 太強了！</span><span class="push-ipdatetime"> 06/06 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">majorleague1</span><span class="f3 push-content">: 挖礦又要划算了</span><span class="push-ipdatetime"> 06/06 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">walhalla</span><span class="f3 push-content">: 喊爽的~又在騙人花錢買挖礦機XDDDD</span><span class="push-ipdatetime"> 06/06 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 中國人持續逃難中</span><span class="push-ipdatetime"> 06/06 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 沒上車的快上車啊~奪命列車就要開惹</span><span class="push-ipdatetime"> 06/06 12:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 比特幣的原創者一定沒想到這可以當洗錢工具</span><span class="push-ipdatetime"> 06/06 12:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffreyshe</span><span class="f3 push-content">: 開挖</span><span class="push-ipdatetime"> 06/06 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HsihHan</span><span class="f3 push-content">: 鬱金香! 鬱金香! 鬱金香! 鬱金香!</span><span class="push-ipdatetime"> 06/06 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 樓下身家全押上啊！</span><span class="push-ipdatetime"> 06/06 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 可以壓五條菸嗎??</span><span class="push-ipdatetime"> 06/06 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LEBR0NJAMES6</span><span class="f3 push-content">: 連菜籃族都進場了 準備到高點了</span><span class="push-ipdatetime"> 06/06 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lysing12</span><span class="f3 push-content">: 樓下快上車RRRR</span><span class="push-ipdatetime"> 06/06 12:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 不,我不相信他們當年沒想到這玩意會有這種用途</span><span class="push-ipdatetime"> 06/06 12:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: btc整個炒作後的整體市值大概就是半個google，所以就是一家</span><span class="push-ipdatetime"> 06/06 12:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gay7788</span><span class="f3 push-content">: 快炒店</span><span class="push-ipdatetime"> 06/06 12:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: 大型公司股票全球交易不能放空，散戶瘋狂湧入</span><span class="push-ipdatetime"> 06/06 12:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jpg31415926</span><span class="f3 push-content">: 空他</span><span class="push-ipdatetime"> 06/06 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 明明就可以空，快來跟我到bitfinex全力壓身家空死它</span><span class="push-ipdatetime"> 06/06 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Xenogamer</span><span class="f3 push-content">: 當初買pizza那位有悲憤自殺嗎</span><span class="push-ipdatetime"> 06/06 12:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: 跟一般證券比起來放空太麻煩，借券比借幣簡單又有保障多了</span><span class="push-ipdatetime"> 06/06 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: 不過這規模感覺可以出衍伸性商品了XD</span><span class="push-ipdatetime"> 06/06 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sinreigensou</span><span class="f3 push-content">: 鄉民反指標</span><span class="push-ipdatetime"> 06/06 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pqoiwe1994</span><span class="f3 push-content">: 可以廢台幣了嗎</span><span class="push-ipdatetime"> 06/06 12:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">crashonU</span><span class="f3 push-content">: 全家Famiport就可以買了...</span><span class="push-ipdatetime"> 06/06 12:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 這種虛的東西會破滅的</span><span class="push-ipdatetime"> 06/06 12:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uska</span><span class="f3 push-content">: 那個賣pizza的現在不就暴發戶</span><span class="push-ipdatetime"> 06/06 12:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FK56</span><span class="f3 push-content">: 養的差不多了，再衝最後一波開始大殺四方</span><span class="push-ipdatetime"> 06/06 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 空三年了，空到破產十次，這次一定要連本帶利討回來</span><span class="push-ipdatetime"> 06/06 12:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x02e0444x</span><span class="f3 push-content">: 我賣了所有家產全買比特幣！</span><span class="push-ipdatetime"> 06/06 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nowitzki0207</span><span class="f3 push-content">: 怎麼每天說要蹦盤</span><span class="push-ipdatetime"> 06/06 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mitim</span><span class="f3 push-content">: 昔日買一些，出乎預料</span><span class="push-ipdatetime"> 06/06 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">usmi</span><span class="f3 push-content">: 所以炒完房準備要炒錢了嗎</span><span class="push-ipdatetime"> 06/06 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 只有等某大國宣佈發行電子貨幣且不可追蹤 比特幣才可能倒</span><span class="push-ipdatetime"> 06/06 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithuang</span><span class="f3 push-content">: 這是第一千兩一百三十一次崩盤囉~比中華民國死得還多次</span><span class="push-ipdatetime"> 06/06 13:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">str8g</span><span class="f3 push-content">: 所以如果有一個人 在今年初把所有身家投入比特幣</span><span class="push-ipdatetime"> 06/06 13:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">str8g</span><span class="f3 push-content">: 那麼現在他的財產就多了兩倍 是這個意思嗎？...</span><span class="push-ipdatetime"> 06/06 13:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">notfound0407</span><span class="f3 push-content">: 不廢話直接炒錢 跟虛寶賣幾千台幣一樣概念</span><span class="push-ipdatetime"> 06/06 13:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TimeLeft</span><span class="f3 push-content">: 目標價格一B一萬美</span><span class="push-ipdatetime"> 06/06 13:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knightliu</span><span class="f3 push-content">: 前天買一千，想說等到跌到1:75000時再換，早上看漲到八</span><span class="push-ipdatetime"> 06/06 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knightliu</span><span class="f3 push-content">: 萬結果現在也飆太高了吧</span><span class="push-ipdatetime"> 06/06 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vencil</span><span class="f3 push-content">: 泡泡會有破滅的一天</span><span class="push-ipdatetime"> 06/06 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackaLMeI</span><span class="f3 push-content">: 有地下黑錢流動這道撐住就不會爆</span><span class="push-ipdatetime"> 06/06 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wantsp4fool</span><span class="f3 push-content">: 以太： 199% ??</span><span class="push-ipdatetime"> 06/06 14:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 這走勢，勘憂</span><span class="push-ipdatetime"> 06/06 14:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aspd193</span><span class="f3 push-content">: 幹 早知道我就歐印</span><span class="push-ipdatetime"> 06/06 14:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wind1729</span><span class="f3 push-content">: 炒出來的 大陸一堆同性質的</span><span class="push-ipdatetime"> 06/06 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bomda</span><span class="f3 push-content">: 現在進場就是等著被宰</span><span class="push-ipdatetime"> 06/06 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a5648183</span><span class="f3 push-content">: 支那大媽狂買還不夠還連日韓三寶都被拐去買zzzzz</span><span class="push-ipdatetime"> 06/06 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silver5566</span><span class="f3 push-content">: 看來要掉了，連主婦都在玩的東西感覺就是要倒</span><span class="push-ipdatetime"> 06/06 16:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jocer210</span><span class="f3 push-content">: 當初好多先知預言比特幣撐不久 一下就崩</span><span class="push-ipdatetime"> 06/06 16:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WWIII</span><span class="f3 push-content">: 上一個空比特幣的 已經被抓去喂比特犬了</span><span class="push-ipdatetime"> 06/06 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newwu</span><span class="f3 push-content">: 空啦空啦</span><span class="push-ipdatetime"> 06/06 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MikeB</span><span class="f3 push-content">: 炒作</span><span class="push-ipdatetime"> 06/07 05:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 虛的東西遲早崩潰，不要再搞笑了</span><span class="push-ipdatetime"> 06/07 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 就算我空到破產十次還是要繼續空</span><span class="push-ipdatetime"> 06/07 15:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496724074.A.F3F.html?cacheKey=2052-2752733&offset=7440&offset-sig=16697e4c5fa6427d84af0e567b7ff0b98bc0bbf8" data-longpollurl="/v1/longpoll?id=d2fc9da803340f2e732771afcb03a0b20376f9df" data-offset="7440"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

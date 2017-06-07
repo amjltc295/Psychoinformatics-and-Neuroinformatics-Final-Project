@@ -1,0 +1,246 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495362577.A.750.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[公告] 猴子水桶107 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="┌───────┬────┬─────────────────────────┐
+│ID            │  項目  │                  處理                            │
+├───────┴────┴─────────────────────────┤
+│   I.ferertrh     超貼                      水桶1月                         │
+│  II.lockread     超貼                      水桶1月                         │
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[公告] 猴子水桶107">
+<meta property="og:description" content="┌───────┬────┬─────────────────────────┐
+│ID            │  項目  │                  處理                            │
+├───────┴────┴─────────────────────────┤
+│   I.ferertrh     超貼                      水桶1月                         │
+│  II.lockread     超貼                      水桶1月                         │
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495362577.A.750.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495362577.A.750.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kasion (彩色猴子)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[公告] 猴子水桶107</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 18:29:34 2017</span></div>
+<span class="hl">┌───────┬────┬─────────────────────────┐</span>
+<span class="hl">│ID            │  </span><span class="f3 b1 hl">項目</span>  │                  <span class="f3 b4 hl">處理</span>                            │
+<span class="hl">├───────┴────┴─────────────────────────┤</span>
+<span class="hl">│ </span><span class="f1 hl">  I.ferertrh </span><span class="f2 hl">    超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶1月</span>                         │
+<span class="hl">│ </span><span class="f2 hl"> II.lockread     超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶1月</span>                         │
+<span class="hl">│ </span><span class="f3 hl">III.realatlantis </span><span class="f2 hl">超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶1月</span>                         │
+<span class="hl">│ </span><span class="f4 hl"> IV.a10141013 </span><span class="f2 hl">   超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶4月</span>                         │
+<span class="hl">│  </span><span class="f5 hl"> V.popy8789    </span><span class="f2 hl"> 超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶2月</span>                         │
+<span class="hl">│</span><span class="f6 hl">  VI.kenny1300175</span><span class="f2 hl"> 超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶1月</span>                         │
+<span class="hl">│ VII.asdf1263y7   </span><span class="f2 hl">超</span><span class="f5 hl">貼</span><span class="f2 hl">      </span>                <span class="f0 b7">水桶2月</span>                         │
+<span class="hl">└──────────────────────────────────────┘</span>
+
+
+<span class="f3 b4 hl">[歷史重現]</span>
+
+<span class="f1 hl">I.</span>
+
+5/19 ferertrh     □ [問卦] 附中畢業去考會考能上哪?   (Gossiping)
+5/19 ferertrh     □ [問卦] 逼自己正面思考,會怎樣?    (Gossiping)
+5/19 ferertrh     □ [問卦] 影印店,一張A4成本?        (Gossiping)1
+
+<span class="f2 hl">II.</span>
+
+5/20 lockread     □ [新聞]中國統一聯盟520聲明 促蔡… (Gossiping)
+5/20 lockread     □ [新聞]520就職週年日！蔡政府閣員…(Gossiping)1
+
+<span class="f3 hl">III.</span>
+
+5/20 realatlantis □ [問卦] 氣死我了!!! 甲甲不要再惹事了喔!!!!
+5/20 realatlantis □ [問卦] 請問有龍甲的八卦嗎
+5/20 realatlantis □ [問卦] 聾甲被強暴???1
+
+<span class="f4 hl">IV.</span>
+
+5/15 a10141013    □ [問卦] 非洲人證明因為窮而不生小…(Gossiping)
+5/15 a10141013    □ [問卦] 海綿寶寶暗喻超多人的八卦? (Gossiping)
+5/15 a10141013    □ [問卦] 全世界都被伊斯蘭教佔領會…(Gossiping)
+5/17 a10141013    □ [問卦] 章魚哥鼓吹罷工失敗的原因？(Gossiping)
+5/17 a10141013    □ [問卦] 派大星跟皮老闆哪一個比較…(Gossiping)
+5/17 a10141013    □ [問卦] 有斑點的貓是最可愛的嗎？  (Gossiping)
+5/18 a10141013    □ [問卦] 買的起房的人普遍反對社會…(Gossiping)
+5/18 a10141013    □ [問卦] 有沒有工作被機器人取代的…(Gossiping)
+5/18 a10141013    □ [問卦] 立法禁騎機車會怎麼樣?     (Gossiping)
+5/19 a10141013    □ [問卦] 階級複製是一種什麼感覺？  (Gossiping)
+5/19 a10141013    □ [問卦] 沒當過兵的不是男人?       (Gossiping)
+5/19 a10141013    □ [問卦] 生育率越來越低是不是網路…(Gossiping)4
+
+<span class="f5 hl">V.</span>
+
+5/20 popy8789     R: [新聞] 陳星反擊了！出示林奕含手…(Gossiping)
+5/20 popy8789     □ [問卦] 陳星484母豬教一員？       (Gossiping)
+5/20 popy8789     □ [問卦] 夢幻龍族全盛時期是什麼樣…(Gossiping)
+5/20 popy8789     □ [問卦] LUNA online全盛時期是怎… (Gossiping)
+5/20 popy8789     R: [問卦] 母豬教的全盛時期          (Gossiping)
+5/20 popy8789     R: [新聞] 吳敦義得票過半 當選國民… (Gossiping)2
+
+<span class="f6 hl">VI.</span>
+
+5/18 kenny1300175 □ [新聞] 蕭永達再點名最變態補教狼…(Gossiping)
+5/18 kenny1300175 □ [新聞] 「可以生北鼻更好」...補… (Gossiping)1
+
+<span class="hl">VII.</span>
+
+5/15 asdf1263y7   □ [問卦] 私大四下準備延畢要繼續讀…(Gossiping)
+5/15 asdf1263y7   □ [問卦] 誰有勵志的人生故事對後段…(Gossiping)
+5/15 asdf1263y7   □ [問卦] 自己臭肥宅至少要花多少錢…(Gossiping)
+5/15 asdf1263y7   □ [問卦] 父親高考及格難道我一輩子…(Gossiping)2
+
+
+<span class="b2 hl">水桶專區</span>
+
+<span class="hl">05/21/2017 18:25:46 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">ferertrh </span>發言，期限為 30 天
+  理由: 超貼
+<span class="hl">05/21/2017 18:25:54 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">lockread </span>發言，期限為 30 天
+  理由: 超貼
+<span class="hl">05/21/2017 18:26:03 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">realatlantis </span>發言，期限為 30 天
+  理由: 超貼
+<span class="hl">05/21/2017 18:26:12 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">a10141013 </span>發言，期限為 120 天
+  理由: 超貼
+<span class="hl">05/21/2017 18:26:20 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">popy8789 </span>發言，期限為 60 天
+  理由: 超貼
+<span class="hl">05/21/2017 18:26:28 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">kenny1300175 </span>發言，期限為 30 天
+  理由: 超貼
+<span class="hl">05/21/2017 18:26:36 </span><span class="f3 hl">kasion </span>暫停 <span class="f1 hl">asdf1263y7 </span>發言，期限為 60 天
+  理由: 超貼
+
+<span class="f3 b4 hl">以上刪除</span>
+
+<span class="f3 b1 hl">發文要記得看板規哦</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.218.213.69
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495362577.A.750.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495362577.A.750.html</a>
+</span><span class="f1 hl">→ </span><span class="f3 hl">gankgf</span><span class="f3">: </span><span class="f3 b4 hl">錢</span>                                                      05/21 18:29
+<span class="f1 hl">噓 </span><span class="f3 hl">Rimi5566</span><span class="f3">: </span><span class="f3 b4 hl">錢</span>                                                    05/21 18:29
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Howard61313</span><span class="f3 push-content">: 你這篇會被m</span><span class="push-ipdatetime"> 05/21 18:29
+</span></div><span class="f1 hl">→ </span><span class="f3 hl">wtfman</span><span class="f3">: </span><span class="hl">給我包皮垢的顏色                                       </span> 05/21 18:29
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckkpolice</span><span class="f3 push-content">: 我要排骨酥湯的顏色</span><span class="push-ipdatetime"> 05/21 18:29
+</span></div>Mail To 排骨酥大大
+<span class="f5 hl">推 silent328kn</span><span class="f5 hl">: 我要全紫                                           05/21 18:30</span>
+<span class="hl">推 </span><span class="f3 hl">tonyfenny321</span><span class="f3">: </span><span class="f1 hl">身</span><span class="f3 hl">為</span><span class="f2 hl">一</span><span class="f6 hl">道</span><span class="f4 hl">彩</span><span class="f5 hl">虹                                     </span> 05/21 18:30
+<span class="hl">推 </span><span class="f3 hl">xbit</span><span class="f3">: </span><span class="f2 hl">我要晚餐吃雞排的顏色                                     </span> 05/21 18:30
+<span class="hl">推 </span><span class="f3 hl">gs951117</span><span class="f3">: </span><span class="f3 b3 hl">我要金光強強滾的顏色</span>                                  05/21 18:30
+<span class="hl">推 </span><span class="f3 hl">salvatore111</span><span class="f3">: </span><span class="f2 hl">我要綠色                                         </span> 05/21 18:30
+<span class="f1 hl">→ </span><span class="f3 hl">andy02</span><span class="f3">: </span><span class="f0">我要虛無飄渺的顏色                                     </span> 05/21 18:30
+<span class="hl">推 </span><span class="f3 hl">ruby00514</span><span class="f3">: </span><span class="f1 hl">我要下禮拜考單操的顏色 幹                           </span> 05/21 18:30
+幫QQ
+<span class="hl">推 </span><span class="f3 hl">LTSC1980</span><span class="f3">: </span><span class="f6 hl">我要過氣的顏色                                       </span> 05/21 18:30
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 我要五樓被4X貓肛的顏色！</span><span class="push-ipdatetime"> 05/21 18:31
+</span></div>Mail To XXXXGAY
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jinnij03879</span><span class="f3 push-content">: 我要豆導的顏色</span><span class="push-ipdatetime"> 05/21 18:31
+</span></div>豆導啥顏色 紅豆還綠豆(誤
+<span class="hl">推 </span><span class="f3 hl">aaaa714714</span><span class="f3">: </span><span class="f6 hl">我要小考會過的顏色                                 </span> 05/21 18:31
++U
+<span class="hl">推 </span><span class="f3 hl">seth5421</span><span class="f3">: </span><span class="f0 hl">我要被灰熊追的顏色                                   </span> 05/21 18:32
+裝死不會R
+<span class="hl">推 </span><span class="f3 hl">wwvvkai</span><span class="f3">: </span><span class="f1 hl">停機崩潰的顏射                                        </span> 05/21 18:33
+<span class="f1 hl">→ </span><span class="f3 hl">clark2644</span><span class="f3">: </span><span class="f1 b1 hl">我要樓下的顏色</span>                                       05/21 18:33
+<span class="hl">推 </span><span class="f3 hl">ian931149</span><span class="f3">: </span><span class="f1 b1 hl">改裝排氣管被開單的顏色</span>                               05/21 18:33
+<span class="hl">推 </span><span class="f3 hl">sunbear928</span><span class="f3">: </span><span class="f5 b5 hl">我要肥宅露奶的顏色 麻煩了</span>                           05/21 18:34
+
+
+---------------上色截止線 ㄘ飯囉
+<span class="f2">※ 編輯: kasion (180.218.213.69), 05/21/2017 18:34:37
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ms0400281</span><span class="f3 push-content">: 我要今天考多益的顏色</span><span class="push-ipdatetime"> 05/21 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ironstick</span><span class="f3 push-content">: 我要板主頭痛的顏色</span><span class="push-ipdatetime"> 05/21 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunbear928</span><span class="f3 push-content">: 請給我彩色好了~大家好~我是善良的肥宅甲~簡稱善甲郎</span><span class="push-ipdatetime"> 05/21 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunbear928</span><span class="f3 push-content">: QQ 好吧 粉紅奶頭也不錯</span><span class="push-ipdatetime"> 05/21 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ckkpolice</span><span class="f3 push-content">: 幹不給上色</span><span class="push-ipdatetime"> 05/21 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AceDuck</span><span class="f3 push-content">: 我要被8+9幹逆的破麻顏色</span><span class="push-ipdatetime"> 05/21 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 錢</span><span class="push-ipdatetime"> 05/21 18:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sleepyuan</span><span class="f3 push-content">: 不給錢我就顏色</span><span class="push-ipdatetime"> 05/21 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hodj</span><span class="f3 push-content">: 我要顏射的顏色</span><span class="push-ipdatetime"> 05/21 21:42
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495362577.A.750.html?cacheKey=2052-41976864&offset=7808&offset-sig=03add80f7ff6919d5f17f8148b9b9096562c05cd" data-longpollurl="/v1/longpoll?id=bb4fc3aec3210938a7d8d9fba5ff2c4619b98230" data-offset="7808"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

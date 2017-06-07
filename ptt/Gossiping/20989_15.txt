@@ -1,0 +1,195 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495601982.A.B81.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 朱雪璋設局比武斷腳筋案 北院依重傷害判6 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+朱雪璋設局比武斷腳筋案 北院依重傷害判6年
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 朱雪璋設局比武斷腳筋案 北院依重傷害判6">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+朱雪璋設局比武斷腳筋案 北院依重傷害判6年
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495601982.A.B81.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495601982.A.B81.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kaiamo357 (不要太悲傷)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 朱雪璋設局比武斷腳筋案 北院依重傷害判6</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 12:59:40 2017</span></div>
+1.媒體來源:
+自由時報
+
+
+2.完整新聞標題:
+朱雪璋設局比武斷腳筋案 北院依重傷害判6年
+
+3.完整新聞內文:
+
+〔記者張文川／台北報導〕自稱朱元璋第19代孫的台北市光信里長朱雪璋，去年2月邀柔
+術高手「深海閻王」王毓霖，到朱雪璋經營的正心道館閉門3對3比武，卻設下陷阱，撂來
+20多名黑衣人，設局預先埋伏在屋內助陣，圍毆進場的王毓霖3人，朱雪璋還持刀砍斷王
+男的腳筋，被依重傷害、傷害等罪起訴，台北地院今宣判，朱雪璋被依重傷害罪判刑6年
+，朱妻吳佩樺依傷害罪判刑5月。可上訴。
+全案共起訴26人，出刀砍王腳筋的朱雪璋被控重傷害罪，朱妻吳佩樺因在王下跪求饒時喊
+一聲「再補一刀算我的」，指使老公補刀，被訴教唆重傷害，其餘包括用襪子套住屋內監
+視器的武館女員工朱家瑩、23名打手，皆被控傷害罪；審理期間，除了朱家夫婦，其餘24
+人大多認罪並安排調解賠償，朱則是只承認傷人，但質疑是否達到重傷害的程度。
+去年2月16日下午，朱雪璋等人透過臉書向王毓霖下戰帖，邀約他們在當晚到正心道場比
+武，朱雪璋卻預先指示員工朱家瑩，用黑襪套住道場地下室的監視器，並派2名徒弟守門
+，過程有監視器為證。
+
+當晚10點多，王毓霖一方人馬抵達朱的道場，朱雪璋僅同意王毓霖、蔡櫂全與詹姓武術裁
+判3人進入，3人誤以為朱要閉門切磋，跟隨朱進入地下室道場，朱指示手下將道場大門鎖
+上，並呼叫朱妻從後門放黑衣人進入，分持球棒、木劍等武器，圍攻王毓霖3人，朱持刀
+砍斷被壓制住的王的腳筋和腿肌。
+朱雪璋自稱曾是前總統馬英九的隨扈，也在警察專科學校當過教練，現仍為光信里長，前
+年1月他即曾毆傷丟菸蒂的陳姓男子，被控傷害、強制罪嫌，3月他因「斷腳筋案」發生後
+，朱與陳男達成和解，傷害罪部分獲撤告，北院今年1月依強制罪判朱拘役10天。
+朱雪璋被羈押200多天，去年10月獲80萬元交保，在「光信里長朱雪璋」臉書粉絲頁與多
+名網友打筆戰，以里長名義發文「請你注意一下你的腳筋，有傷就去看醫生」；之後斷腳
+筋案開庭時，承審法官當庭斥責朱「放出來就小心一點，別再惹事」，否則就要再將他收
+押起來或加碼保釋金。
+朱雪璋為了自清文章不是他寫的，指控是張姓網友冒用他的名義發文，朱向台北地檢署控
+告張男涉偽造文書、妨害名譽；但檢察官查出，該篇文章根本是朱自己寫的，張男只是轉
+發文章，北檢本月5日依誣告罪嫌起訴朱雪璋。
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/society/breakingnews/2077260" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/society/breakingnews/2077260</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.85.90.106
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495601982.A.B81.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495601982.A.B81.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angel07</span><span class="f3 push-content">: 朱元璋表示：</span><span class="push-ipdatetime"> 05/24 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crassus7217</span><span class="f3 push-content">: 害人殘廢才判六年？</span><span class="push-ipdatetime"> 05/24 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XZXie</span><span class="f3 push-content">: 傳武唯一能打的被關惹 QQ</span><span class="push-ipdatetime"> 05/24 13:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 無恥的極致</span><span class="push-ipdatetime"> 05/24 13:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noreg0393933</span><span class="f3 push-content">: 明明就互毆，另一邊怎麼沒判刑？</span><span class="push-ipdatetime"> 05/24 13:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 果然一出手(叫人)就非死即傷</span><span class="push-ipdatetime"> 05/24 13:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 五樓說互毆的，是三個人赤手空拳打二十幾個拿刀的？</span><span class="push-ipdatetime"> 05/24 13:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">makimakimaki</span><span class="f3 push-content">: 重傷害5-12年 你重判6年 還不感謝法官</span><span class="push-ipdatetime"> 05/24 13:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ivla8432</span><span class="f3 push-content">: 才</span><span class="push-ipdatetime"> 05/24 13:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whiteseyes</span><span class="f3 push-content">: 一邊終身殘廢坐輪椅一輩子  另一邊關6年</span><span class="push-ipdatetime"> 05/24 13:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">highyes</span><span class="f3 push-content">: 自稱朱元璋後代的雜種  去屎啦！</span><span class="push-ipdatetime"> 05/24 13:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cha23Cha</span><span class="f3 push-content">: 有種跟館長挑阿 小廢廢</span><span class="push-ipdatetime"> 05/24 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/24 13:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ebird</span><span class="f3 push-content">: 推文請小心  光X里里長正在看著你</span><span class="push-ipdatetime"> 05/24 13:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dearevan</span><span class="f3 push-content">: 才六年</span><span class="push-ipdatetime"> 05/24 13:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MASOMASO</span><span class="f3 push-content">: 王可以走動啦 沒有到坐輪椅這麼嚴重</span><span class="push-ipdatetime"> 05/24 13:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ekoj</span><span class="f3 push-content">: 才6年？ 那個選手都廢了。才6年？？</span><span class="push-ipdatetime"> 05/24 13:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ekoj</span><span class="f3 push-content">: 這沒有組織犯罪嗎？</span><span class="push-ipdatetime"> 05/24 13:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 有緩刑嗎</span><span class="push-ipdatetime"> 05/24 13:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SotaFujimori</span><span class="f3 push-content">: 里長如此素質</span><span class="push-ipdatetime"> 05/24 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vincentkuo</span><span class="f3 push-content">: 9.2都是這種水準 毀掉別人的人生還毫無悔意</span><span class="push-ipdatetime"> 05/24 13:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NOKIA3210</span><span class="f3 push-content">: 關六年，三年就出來了</span><span class="push-ipdatetime"> 05/24 13:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 得易科罰金？</span><span class="push-ipdatetime"> 05/24 13:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 說不定罰個錢就沒事了</span><span class="push-ipdatetime"> 05/24 13:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttverygood</span><span class="f3 push-content">: 犯罪天堂 台灣</span><span class="push-ipdatetime"> 05/24 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nosay</span><span class="f3 push-content">: 無恥</span><span class="push-ipdatetime"> 05/24 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">craig</span><span class="f3 push-content">: 輕判6年，台灣法官好棒棒</span><span class="push-ipdatetime"> 05/24 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LandGrave</span><span class="f3 push-content">: 真便宜 六年就可以斷人手腳筋 所以餘命還60年 可以再斷</span><span class="push-ipdatetime"> 05/24 14:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LandGrave</span><span class="f3 push-content">: 10個人</span><span class="push-ipdatetime"> 05/24 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">exporn</span><span class="f3 push-content">: 幹就在我家隔壁誒</span><span class="push-ipdatetime"> 05/24 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">G8PIG</span><span class="f3 push-content">: 武德，呵呵</span><span class="push-ipdatetime"> 05/24 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VonKukuav</span><span class="f3 push-content">: 真啦嘰</span><span class="push-ipdatetime"> 05/24 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Romeo5566</span><span class="f3 push-content">: 輕判</span><span class="push-ipdatetime"> 05/24 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nsr150xx</span><span class="f3 push-content">: (已被PLAZ護肛)普天吱下皆朕土 F7菜b 糕掱1v10懂 跪骯%%</span><span class="push-ipdatetime"> 05/26 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taxitaker</span><span class="f3 push-content">: 渣</span><span class="push-ipdatetime"> 05/26 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 道館拆了沒?</span><span class="push-ipdatetime"> 05/31 03:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495601982.A.B81.html?cacheKey=2052-716313&offset=5914&offset-sig=4481ce2a5b478a5411ac373776d971dde611e909" data-longpollurl="/v1/longpoll?id=e6204ee975f8d43bbe5f7553ec67d557851f3035" data-offset="5914"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

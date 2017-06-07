@@ -1,0 +1,232 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495592895.A.8D9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[公告] 水桶 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="05/24/2017 10:08:16 IbakaBlock 暫停 a9udn9u 發言，期限為 7 天
+  理由: 板規十四，推文過多簡體字，警告第一次
+05/24/2017 10:14:37 IbakaBlock 暫停 zong2 發言，期限為 180 天
+  理由: 板規九，未滿二十繁體中文字
+05/24/2017 10:19:53 IbakaBlock 暫停 ZACK5566 發言，期限為 180 天
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[公告] 水桶">
+<meta property="og:description" content="05/24/2017 10:08:16 IbakaBlock 暫停 a9udn9u 發言，期限為 7 天
+  理由: 板規十四，推文過多簡體字，警告第一次
+05/24/2017 10:14:37 IbakaBlock 暫停 zong2 發言，期限為 180 天
+  理由: 板規九，未滿二十繁體中文字
+05/24/2017 10:19:53 IbakaBlock 暫停 ZACK5566 發言，期限為 180 天
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495592895.A.8D9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495592895.A.8D9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">IbakaBlock (肛甲集團首腦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[公告] 水桶</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 10:28:12 2017</span></div>
+<span class="hl">05/24/2017 10:08:16 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">a9udn9u </span>發言，期限為 7 天
+  理由: 板規十四，推文過多簡體字，警告第一次
+<span class="hl">05/24/2017 10:14:37 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">zong2 </span>發言，期限為 180 天
+  理由: 板規九，未滿二十繁體中文字
+<span class="hl">05/24/2017 10:19:53 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">ZACK5566 </span>發言，期限為 180 天
+  理由: 板規九，未滿二十繁體中文字鬧板
+<span class="hl">05/24/2017 10:24:38 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">cutiehoneyzu </span>發言，期限為 30 天
+  理由: 板規一，5/23超貼問卦1篇
+<span class="hl">05/24/2017 10:27:11 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">vaiking0120 </span>發言，期限為 210 天
+  理由: 板規九，未滿二十繁體中文字鬧板，累犯第一次
+
+
+a9udn9u 板規十四，推文過多簡體字，警告第一次，水桶7日
+
+
+┌─────────────────────────────────────┐
+│ 文章代碼(AID): <a href="/bbs/Gossiping/M.1495504234.A.488.html" target="_blank" rel="nofollow">#1P8vLgI8 (Gossiping)</a> [ptt.cc] [爆掛] Live-中國烏鎮 圍棋? │
+│ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495504234.A.488.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495504234.A.488.html</a>       │
+│ 這一篇文章值 48 Ptt幣                                                    │
+└─────────────────────────────────────┘
+
+
+zong2 板規九，未滿二十繁體中文字鬧板，水桶6個月、原文退回
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> zong2 (宗宗)                                          </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> Re: [新聞] 不能參與WHA 陸:「一中原則能照顧台灣」                       </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Tue May 23 21:26:02 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+照你老母
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.138.213.251</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1495545964.A.4AD.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1495545964.A.4AD.html</span></a>
+
+
+ZACK5566 板規九，未滿二十繁體中文字鬧板，水桶6個月、原文退回
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> ZACK5566 (ㄏㄠˋㄎㄞˇ)                               </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 渡邊直美算女神嗎                                                </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Wed May 24 00:40:19 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+很多朋友朋友喜歡渡邊直美
+
+他算是女神嗎
+
+嘿
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.227.231</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1495557621.A.DBB.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1495557621.A.DBB.html</span></a>
+
+
+cutiehoneyzu 板規一，5/23超貼問卦1篇，水桶1個月
+
+
+      2     5/23 cutiehoneyzu □ [問卦] 為什麼現在版上風氣正在仇…(Gossiping)
+      3     5/23 cutiehoneyzu □ [問卦] NATO為什麼現在還有存在的…(Gossiping)
+      4     5/23 cutiehoneyzu □ [問卦] 3數據看台股 果然老態龍鍾  (Gossiping)
+
+
+vaiking0120 板規九，未滿二十繁體中文字鬧板，累犯第一次，水桶7個月、原文退回
+
+
+<span class="hl">05/26/2016 00:05:22 </span><span class="f3 hl">Bignana </span>暫停 <span class="f1 hl">vaiking0120</span> 發言，期限為 180 天
+  理由: 一行文
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> vaiking0120 (耐心等待)                                </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> Re: [問卦] 菸蟲的長相是不是都低能低能的？                              </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Wed May 24 08:43:22 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+你好
+附上我抽菸的照片
+你看是不是很低能
+
+<a href="http://imgur.com/a/rpBMd" target="_blank" rel="nofollow">http://imgur.com/a/rpBMd</a>
+<a href="http://imgur.com/a/vapPQ" target="_blank" rel="nofollow">http://imgur.com/a/vapPQ</a>
+
+
+<span class="f2">※ 引述《snsdakb48 (ShiEr)》之銘言：</span>
+<span class="f6">: 看遍許多菸蟲的噁心長相</span>
+<span class="f6">: 發現大部分不是其貌不揚就是尖嘴猴腮</span>
+<span class="f6">: 很少有普通人長相的</span>
+<span class="f6">: 請問這種是天生的還是演化的？</span>
+<span class="f6">: 有八卦嗎</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.70.214.8</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1495586608.A.417.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1495586608.A.417.html</span></a>
+
+--
+<a href="http://i.imgur.com/0f0aWOv.png" target="_blank" rel="nofollow">http://i.imgur.com/0f0aWOv.png</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0f0aWOv"><a href="//imgur.com/0f0aWOv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.13.147.111
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495592895.A.8D9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495592895.A.8D9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 讚讚</span><span class="push-ipdatetime"> 05/24 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: 盒盒呢</span><span class="push-ipdatetime"> 05/24 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 發錢辣</span><span class="push-ipdatetime"> 05/24 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CHANYII</span><span class="f3 push-content">: 看到照你老母直接笑出來</span><span class="push-ipdatetime"> 05/24 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kmtlikeslave</span><span class="f3 push-content">: 你誰？</span><span class="push-ipdatetime"> 05/24 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 發錢啦</span><span class="push-ipdatetime"> 05/24 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kmtlikeslave</span><span class="f3 push-content">: 特赦zong2 ！</span><span class="push-ipdatetime"> 05/24 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jj1379746</span><span class="f3 push-content">: 照你老母XDDD</span><span class="push-ipdatetime"> 05/24 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sy1995</span><span class="f3 push-content">: 你誰 發錢啦</span><span class="push-ipdatetime"> 05/24 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seabox</span><span class="f3 push-content">: 你好認真</span><span class="push-ipdatetime"> 05/24 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 認真做事 反觀ㄏㄋ</span><span class="push-ipdatetime"> 05/24 10:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 反觀其他</span><span class="push-ipdatetime"> 05/24 10:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lien</span><span class="f3 push-content">: 我要照燒雞腿的顏色</span><span class="push-ipdatetime"> 05/24 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TRUNKSX</span><span class="f3 push-content">: 我要BLACK的顏色</span><span class="push-ipdatetime"> 05/24 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">panda04056</span><span class="f3 push-content">: 你誰</span><span class="push-ipdatetime"> 05/24 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainf</span><span class="f3 push-content">: 原來推文簡體可以檢舉</span><span class="push-ipdatetime"> 05/24 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RRADA</span><span class="f3 push-content">:  附上我抽菸的照片  你看是不是很低能</span><span class="push-ipdatetime"> 05/24 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RRADA</span><span class="f3 push-content">: 三洨啦!?</span><span class="push-ipdatetime"> 05/24 10:59
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495592895.A.8D9.html?cacheKey=2052-572798&offset=5778&offset-sig=9727f56c3662ba0e07bfdba10eb0aa78e0684d97" data-longpollurl="/v1/longpoll?id=86594e02da16142778159c621fc752c432c7c1c6" data-offset="5778"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

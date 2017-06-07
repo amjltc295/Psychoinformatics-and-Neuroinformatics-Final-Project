@@ -1,0 +1,201 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496472658.A.82D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 「對岸談大數據 我們在講滷肉飯」 洪雪珍 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我真是笑到我肚子都快破掉
+台灣沒大數據？麻煩自己上網查查好嗎
+http://2016.bigdata-conf.com/tw/index.php
+台灣去年才辦了全球大數據國際會議
+http://news.ltn.com.tw/news/business/breakingnews/1521296
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 「對岸談大數據 我們在講滷肉飯」 洪雪珍">
+<meta property="og:description" content="我真是笑到我肚子都快破掉
+台灣沒大數據？麻煩自己上網查查好嗎
+http://2016.bigdata-conf.com/tw/index.php
+台灣去年才辦了全球大數據國際會議
+http://news.ltn.com.tw/news/business/breakingnews/1521296
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496472658.A.82D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496472658.A.82D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">spring11104 (ox)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 「對岸談大數據 我們在講滷肉飯」 洪雪珍</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 14:50:54 2017</span></div>
+我真是笑到我肚子都快破掉
+
+台灣沒大數據？麻煩自己上網查查好嗎
+
+<a href="http://2016.bigdata-conf.com/tw/index.php" target="_blank" rel="nofollow">http://2016.bigdata-conf.com/tw/index.php</a>
+
+台灣去年才辦了全球大數據國際會議
+
+<a href="http://news.ltn.com.tw/news/business/breakingnews/1521296" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/business/breakingnews/1521296</a>
+
+工研院早在就已經和各工商合作，開創各種解密技術和演算方法
+
+
+好啦，我看看這次中國大數據在講什麼！！！
+<a href="https://kknews.cc/tech/68l2paq.html" target="_blank" rel="nofollow">https://kknews.cc/tech/68l2paq.html</a>
+
+結果竟然是開發app!!!!!!!好啦，可以用app看病拿藥是蠻潮的
+
+不過台灣醫院就在巷口，品質良好，排隊人也不多(至少不用找黃牛）
+
+麻煩她在自己搜尋台灣2017的科學研討會
+
+
+
+2月才有來自 23 個國家及地區的青少年學子齊聚台灣，參加為期 5 天的「2017 台灣國
+際科學展覽會
+
+5月才有2017年海洋科學年會
+
+7月還有國際天文學聯合會（IAU）是天文及天文物理學領域裏最高的科學組織，同時也是
+國際科學理事會（ICSU）的成員之一。
+
+根在APRIM 2014舉行期間，由中華民國天文學會的朱有花理事長代表前往韓國並在會議中
+與科學委員會(SOC)報告並爭取在台灣舉辦2017年APRIM。同一時間另有由Lister Stavele
+y-Smith先生代表的澳大利亞天文學會一同競標，最後在 APRIM 2014的學術議程委員投票
+表決下，正式決議同意由台灣於台北舉辦APRIM 2017。。據2014年在韓國大田舉行的APRI
+M 2014與會者人數來預估APRIM 2017來台的與會者人數。資料顯示， APRIM 2014 共有47
+6名與會者，分別有來自亞洲（台灣、中國、日本、韓國、印尼、泰國、馬來西亞、越南
+、菲律賓、印度、尼泊爾）; 中東（伊朗）; 歐亞大陸（俄羅斯、烏茲別克、亞塞拜然）
+; 北美（美國、墨西哥、加拿大）; 南美（智利）; 澳大利亞和歐洲（德國、法國、荷蘭
+）的與會者。
+
+九月還有【 2017國際認知科學研討會(ICCS 2017) 】邀請法國德國大師來台
+
+資料一大堆，麻煩她自己有空多瞭解世界
+
+
+自己肚子餓想吃滷肉飯
+
+就整天說大家和妳搶吃滷肉飯，這樣不對啊
+
+好啦 來人啊，給雪珍一碗滷肉飯！
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 73.158.46.39
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496472658.A.82D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496472658.A.82D.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">victoryman</span><span class="f3 push-content">: PUSH</span><span class="push-ipdatetime"> 06/03 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">grandwar</span><span class="f3 push-content">: 就無知者還能大聲狗吠的社會</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 中國big data發達是因為它市場規模大 本身就有優勢</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 天貓阿里巴巴等很多都設有數據長</span><span class="push-ipdatetime"> 06/03 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arsonlolita</span><span class="f3 push-content">: 現在在講AI 大數據過時了</span><span class="push-ipdatetime"> 06/03 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 臺灣big data搞不太起來本來就跟廠商規模有關</span><span class="push-ipdatetime"> 06/03 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 講是大家都在講 會議也辦 但沒啥用</span><span class="push-ipdatetime"> 06/03 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">caesst85149</span><span class="f3 push-content">: 那網頁根本濫用大數據這詞 結果沒大數據的反而是中國</span><span class="push-ipdatetime"> 06/03 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 搞半天你還是得用外商的solution  變成只是外商來賣東西</span><span class="push-ipdatetime"> 06/03 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 去問某人力銀行主管吧 舔中舔成這樣</span><span class="push-ipdatetime"> 06/03 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 你有看過台灣官方掛著大數據的報告 出來都是些什麼東西嗎?</span><span class="push-ipdatetime"> 06/03 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mattaus</span><span class="f3 push-content">: 三明治好吃</span><span class="push-ipdatetime"> 06/03 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 辦會議好棒棒  哇哈哈哈哈哈</span><span class="push-ipdatetime"> 06/03 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 推2F  笑死我</span><span class="push-ipdatetime"> 06/03 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f58rtht</span><span class="f3 push-content">: 跟三寶認真什麼</span><span class="push-ipdatetime"> 06/03 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 很多人都是誤用大數據這詞  很多人講大數據</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 最近幾年github上一堆大陸人寫的ml, ai的專案</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 其實就只是在做data mining而已 跟大數據一點關係也沒有</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 人家才剛要開始大爆發而已</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 有些做個簡單統計  民意調查 就以為叫大數據</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 很多公司的數據分析  也都不是大數據</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 反正隨便啦  這也只是白佬發明的名詞而已</span><span class="push-ipdatetime"> 06/03 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/03 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KERABOYS</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/03 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mido</span><span class="f3 push-content">: 狗報記者智商 不意外</span><span class="push-ipdatetime"> 06/03 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 我老實說 台灣搞的這些不是大數據 這些都是刷KPI的</span><span class="push-ipdatetime"> 06/03 17:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 詐騙 全部都是資料分析而已</span><span class="push-ipdatetime"> 06/03 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">creulfact</span><span class="f3 push-content">: 最好笑的地方是 中國舉辦大數據研討會 同時間我們在辦</span><span class="push-ipdatetime"> 06/03 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creulfact</span><span class="f3 push-content">: 滷肉飯節到底有哪裡衝突？就是研討會時間不同而已 兩</span><span class="push-ipdatetime"> 06/03 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creulfact</span><span class="f3 push-content">: 個也能亂串喔？</span><span class="push-ipdatetime"> 06/03 17:54
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496472658.A.82D.html?cacheKey=2052-2024864&offset=4891&offset-sig=cbeab49cb69eaf06363464175e72efd3283df1c7" data-longpollurl="/v1/longpoll?id=7d408974e8c8efa19f799c737fc1d0aee28ce465" data-offset="4891"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

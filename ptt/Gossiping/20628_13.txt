@@ -1,0 +1,418 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495357307.A.A3E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 爭取改裝車合法 千餘名車友齊聚板橋怒吼 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中時電子報
+2.完整新聞標題:
+爭取改裝車合法 千餘名車友齊聚板橋怒吼
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 爭取改裝車合法 千餘名車友齊聚板橋怒吼">
+<meta property="og:description" content="1.媒體來源:
+中時電子報
+2.完整新聞標題:
+爭取改裝車合法 千餘名車友齊聚板橋怒吼
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495357307.A.A3E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495357307.A.A3E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">pighead718 (葉豬頭)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 爭取改裝車合法 千餘名車友齊聚板橋怒吼</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 17:01:45 2017</span></div>
+1.媒體來源:
+中時電子報
+
+
+2.完整新聞標題:
+
+爭取改裝車合法 千餘名車友齊聚板橋怒吼
+
+3.完整新聞內文:
+
+新北市議員李婉鈺今（21日）下午在板橋區江翠國小舉辦「重機車改裝車不等於噪音車」
+座談會，吸引千餘名車友齊聚，向與會的交通部、環保署等單位發出怒吼，車友們痛批，
+「市面上販售的改裝零件合法，裝在車上卻不合法，道理何在？」
+
+新北市本月起加強違法改裝排氣管、噪音超標改裝車，晚間10時許到隔日上午6時許，限
+制不得行駛在新北市內道路上，不需經過噪音檢驗，即可依違反《噪音管制法》開罰3000
+元，引起車友們熱議，藝人陳為民更在臉書痛批「只要朱立倫選北市長或總統，我一定盡
+餘生之力提醒選民你的政績！」
+
+同樣也愛好重車的李婉鈺與陳為民一起號召，在板橋區江翠國小舉辦「重機車、改裝車不
+等於噪音車」座談會，吸引逾千名車友齊聚，現場邀請交通部、環保署、新北市警察局交
+通大隊、新北市政府環保局等單位代表與會，與車友們直接面對面溝通。
+
+車友們在現場反應熱烈，頻頻舉手提問，有車友痛批，「市面上販售的改裝零件合法，裝
+在車上卻不合法，道理何在？應該是從源頭管控，不合法的東西就不要販賣！」
+
+這根本就是白色恐怖！李婉鈺說，請相關單位告知車友們一個合法的遊戲規則，台灣改裝
+汽機車合法性在哪？改裝品可以合法販賣進口，裝在車上卻不合法，車友們為了安全、美
+觀、夢想改裝，可是該繳的稅一毛錢沒少過，政府卻還要送給車友們罰單，相當不合理。
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.chinatimes.com/realtimenews/20170521002421-260405" target="_blank" rel="nofollow">http://www.chinatimes.com/realtimenews/20170521002421-260405</a>
+
+5.備註:
+
+可以合法買賣，又不能用。。。搞不懂
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.137.234.185
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495357307.A.A3E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495357307.A.A3E.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">schumi7401</span><span class="f3 push-content">: 一網打盡阿 沒種？</span><span class="push-ipdatetime"> 05/21 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greentea1205</span><span class="f3 push-content">: 裝飾外觀倒是無所謂，不要發出噪音不就好了</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 跟感冒藥一樣啊 可以吃但是提鍊成毒品就會被抓啊</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony84590</span><span class="f3 push-content">: 生存遊戲的搶也是合法但裝了鋼珠就會被抓走</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 或是酒 可以賣 但是酒駕就不行啊</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 可以買不能裝真的挺好笑的</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Brightheat</span><span class="f3 push-content">: 訂個規範出來很難嗎 垃圾政府</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 遞補上的市議員沒別的事好做了？</span><span class="push-ipdatetime"> 05/21 17:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 全部撞死拉</span><span class="push-ipdatetime"> 05/21 17:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sxdcfvgb2001</span><span class="f3 push-content">: 不要上路就不犯法</span><span class="push-ipdatetime"> 05/21 17:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 收改裝稅就好了，每年繳一次。</span><span class="push-ipdatetime"> 05/21 17:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lazo</span><span class="f3 push-content">: 拜託改車的廢物們，去路上找一台改的更安靜的給我看看</span><span class="push-ipdatetime"> 05/21 17:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiki95</span><span class="f3 push-content">: 可以啊,改後超標切雞雞敢不敢</span><span class="push-ipdatetime"> 05/21 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyfish</span><span class="f3 push-content">: 可以裝啊，裝完變模型。很難懂嗎？</span><span class="push-ipdatetime"> 05/21 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">luffy820114</span><span class="f3 push-content">: 滾啦幹滾去其他地方</span><span class="push-ipdatetime"> 05/21 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DareJ</span><span class="f3 push-content">: 你們罵的人 跟那些訴求的人是不同批啦 砲管屁孩不會到這邊</span><span class="push-ipdatetime"> 05/21 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DareJ</span><span class="f3 push-content">: 理智點好嗎?</span><span class="push-ipdatetime"> 05/21 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hoberg</span><span class="f3 push-content">: 一起開單，省點人力</span><span class="push-ipdatetime"> 05/21 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rasen9</span><span class="f3 push-content">: 管制車行好嗎 車主根本取締不完</span><span class="push-ipdatetime"> 05/21 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wellsc</span><span class="f3 push-content">: 給賣不給裝 是在幹林涼喔</span><span class="push-ipdatetime"> 05/21 17:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kamisun</span><span class="f3 push-content">: 改車是為了馬力強，馬力強聲音就會大，像F1有130分貝以上</span><span class="push-ipdatetime"> 05/21 17:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aggressorX</span><span class="f3 push-content">: 賣你先賺一筆 裝上去抓你再賺一筆 好棒棒的政府</span><span class="push-ipdatetime"> 05/21 17:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">F0314</span><span class="f3 push-content">: 菸也是給賣不給抽啊 哭三小 幹</span><span class="push-ipdatetime"> 05/21 17:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 阿不就跟大型重機那群有八七成像</span><span class="push-ipdatetime"> 05/21 17:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kamisun</span><span class="f3 push-content">: 至於要在半夜測試是因為半夜車少，改裝機車可以騎到150</span><span class="push-ipdatetime"> 05/21 17:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">trouble04323</span><span class="f3 push-content">: 合法買賣 非法使用 開罰剛好</span><span class="push-ipdatetime"> 05/21 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poeoe</span><span class="f3 push-content">: 只要新北繼續抓 絕對努力支持朱立倫</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kamisun</span><span class="f3 push-content">: 半夜兩點在沒什麼車的道路上，引擎馬力全開高轉速飆車速</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kamisun</span><span class="f3 push-content">: 是每個改裝車的夢想</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sm3bp078</span><span class="f3 push-content">: 智障</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 改車幹嘛啦？</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soarling</span><span class="f3 push-content">: 這好像是兩碼子事 能摻在一起這群人也是厲害</span><span class="push-ipdatetime"> 05/21 17:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 有的老車已經沒有原廠件，你只能用改裝品，這種也要被罰</span><span class="push-ipdatetime"> 05/21 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: ，低能</span><span class="push-ipdatetime"> 05/21 17:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 這年頭阿飆上路還有議員帶頭喔??</span><span class="push-ipdatetime"> 05/21 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">F0314</span><span class="f3 push-content">: k大說的點就是我最厭惡的 還是學生時就被這樣嚇過 還被丟花</span><span class="push-ipdatetime"> 05/21 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">F0314</span><span class="f3 push-content">: 生殼什麼的 幹一堆垃圾</span><span class="push-ipdatetime"> 05/21 17:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abadjoke</span><span class="f3 push-content">: 一群陽痿低能 懶叫不會翹只好翹車管</span><span class="push-ipdatetime"> 05/21 17:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kamisun</span><span class="f3 push-content">: 政府應該要開放道路，讓改裝車能夠測試速度極限才對</span><span class="push-ipdatetime"> 05/21 17:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feliz5566</span><span class="f3 push-content">: 低能兒去死</span><span class="push-ipdatetime"> 05/21 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 用符規格的改裝品根本沒事 tamander少魚目混珠了</span><span class="push-ipdatetime"> 05/21 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Weezer</span><span class="f3 push-content">: 支持朱立倫</span><span class="push-ipdatetime"> 05/21 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 改了就驗 驗不過就罰 崩潰幫QQ</span><span class="push-ipdatetime"> 05/21 17:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hahaWenZuhah</span><span class="f3 push-content">: 一堆垃圾</span><span class="push-ipdatetime"> 05/21 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nevhir</span><span class="f3 push-content">: 你要改 就不要影響到別人</span><span class="push-ipdatetime"> 05/21 17:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 問題就是什麼叫符合規格？今天警察覺得你疑似改裝，就直</span><span class="push-ipdatetime"> 05/21 17:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 接開你勸導單回監理站檢查，你他媽嫌時間多嗎？</span><span class="push-ipdatetime"> 05/21 17:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">glaceon6666</span><span class="f3 push-content">: 垃圾社會亂源</span><span class="push-ipdatetime"> 05/21 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 少裝了啦 一定有自己加工的也去</span><span class="push-ipdatetime"> 05/21 17:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 你換支硬骨雨刷，貼張貼紙都有可能被開，甚至有些車廠出</span><span class="push-ipdatetime"> 05/21 17:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 特仕車，裝了空套，沒帶型錄還不敢出門</span><span class="push-ipdatetime"> 05/21 17:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 不要給我說排氣管有允許你改翹管 給我叫合法管</span><span class="push-ipdatetime"> 05/21 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kousyouon</span><span class="f3 push-content">: 非安全性的沒差，安全性跟噪音遇一個抓一個重罰</span><span class="push-ipdatetime"> 05/21 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">F0314</span><span class="f3 push-content">: 少騙了啦 我的老機車修到有一半都不是原廠貨 也沒遇過警察</span><span class="push-ipdatetime"> 05/21 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">F0314</span><span class="f3 push-content">: 開我單</span><span class="push-ipdatetime"> 05/21 17:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smashgdi</span><span class="f3 push-content">: 推推 一堆腦X</span><span class="push-ipdatetime"> 05/21 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 一堆鍵盤車手焦點都在排氣管，但是很多被開單的都只是換</span><span class="push-ipdatetime"> 05/21 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 了卡鉗、尾翼，對他人無影響的改裝，有些改裝品的安全性</span><span class="push-ipdatetime"> 05/21 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 甚至比原廠還要好</span><span class="push-ipdatetime"> 05/21 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x001611</span><span class="f3 push-content">: 支持朱立倫 改車就該罰</span><span class="push-ipdatetime"> 05/21 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NuClei</span><span class="f3 push-content">: 哪台改裝車不吵的zz</span><span class="push-ipdatetime"> 05/21 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lipsred1006</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/21 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 真的你合法改被開再來說啦</span><span class="push-ipdatetime"> 05/21 17:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poeoe</span><span class="f3 push-content">: 只要新北敢堅持下去 民意絕對站在朱立倫這邊</span><span class="push-ipdatetime"> 05/21 17:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 警察亂開單你記他名字編號 驗過了投訴他啊 賊頭第一次遇見?</span><span class="push-ipdatetime"> 05/21 17:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seg42727</span><span class="f3 push-content">: 垃圾管 吵三小</span><span class="push-ipdatetime"> 05/21 17:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 合法硬要護航非法怪誰啊 阿飆七月再出來啦</span><span class="push-ipdatetime"> 05/21 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">omanorboyo</span><span class="f3 push-content">: 婊子還立牌坊 改可以選安靜一點很難嗎</span><span class="push-ipdatetime"> 05/21 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 現場還真的沒看到改砲管的屁孩去耶~</span><span class="push-ipdatetime"> 05/21 17:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 又要出來吵人啦</span><span class="push-ipdatetime"> 05/21 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mikebb</span><span class="f3 push-content">: 還在那邊排氣管 剎車改好一點也 政府大官坐得車有沒有改</span><span class="push-ipdatetime"> 05/21 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mudee</span><span class="f3 push-content">: 噪音是最大問題</span><span class="push-ipdatetime"> 05/21 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 反而是現場官員被洗臉洗的不要不要的。</span><span class="push-ipdatetime"> 05/21 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">duetobe</span><span class="f3 push-content">: 現場一人一張驗車單 人人有分喔</span><span class="push-ipdatetime"> 05/21 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 吵死人了ㄧ堆自私自利 誰理你們</span><span class="push-ipdatetime"> 05/21 17:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 乾脆賣毒好了阿 賣合法 用犯法 智障政府</span><span class="push-ipdatetime"> 05/21 17:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 政府快賣R 還可以賺錢咧</span><span class="push-ipdatetime"> 05/21 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 至少還有腦子沒讓改排氣管的車子去，不然聚在一起叭聲震</span><span class="push-ipdatetime"> 05/21 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lee85313xd</span><span class="f3 push-content">: 改車就是垃圾 別講那麼多</span><span class="push-ipdatetime"> 05/21 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pslr1</span><span class="f3 push-content">: 支持朱立倫此政策</span><span class="push-ipdatetime"> 05/21 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 天，根本就來亂的</span><span class="push-ipdatetime"> 05/21 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pslr1</span><span class="f3 push-content">: 成為民直播要大家穿體面一點去參加，結果他穿的最正式</span><span class="push-ipdatetime"> 05/21 17:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 改車就是垃圾，好會講哦？ 你自己的車都原廠零件嗎？</span><span class="push-ipdatetime"> 05/21 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">omanorboyo</span><span class="f3 push-content">: 看到一堆改車的跳腳就知道是德政了</span><span class="push-ipdatetime"> 05/21 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 只要你換副廠件你也是改車，恭喜你，大家都是垃圾</span><span class="push-ipdatetime"> 05/21 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 李婉鈺這女的也只能靠遞補上 果然ㄧ遞補就出來搗亂</span><span class="push-ipdatetime"> 05/21 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alladult</span><span class="f3 push-content">: 一群垃圾在掩護噪音車</span><span class="push-ipdatetime"> 05/21 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 改車不就把車改的很大聲 像這種就要多開罰單</span><span class="push-ipdatetime"> 05/21 17:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 你可以買噪音合格的,或者改了之後在你家騎騎就好</span><span class="push-ipdatetime"> 05/21 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 警方不知道有沒有現場來拍照,這業績應該很驚人</span><span class="push-ipdatetime"> 05/21 17:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">homerunball</span><span class="f3 push-content">: 支持花丸木 垃圾管死好</span><span class="push-ipdatetime"> 05/21 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 民眾討厭改管,然後警察抓改管,然後有人躲在推文裡扯東扯</span><span class="push-ipdatetime"> 05/21 17:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 西,是看不懂別人在討論什麼無法理解是不是,程度有夠差</span><span class="push-ipdatetime"> 05/21 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 現在就是還沒有個噪音認證合格的機制，都還沒成形。</span><span class="push-ipdatetime"> 05/21 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 又自私自利的把自己的個人利益凌駕公眾利益之上 台灣真的</span><span class="push-ipdatetime"> 05/21 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 很多這種人</span><span class="push-ipdatetime"> 05/21 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 老是有人在那裡造謠原廠也會被罰,政府好壞壞,煩死了</span><span class="push-ipdatetime"> 05/21 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 也就是說市面上只要是改裝管，不論他安靜於否</span><span class="push-ipdatetime"> 05/21 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 改管吵人的垃圾</span><span class="push-ipdatetime"> 05/21 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 就算是比原廠安靜的改裝管，一樣會被通殺。</span><span class="push-ipdatetime"> 05/21 17:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 就是因為監理法規還有環保法規不完善，才會有這些事。</span><span class="push-ipdatetime"> 05/21 17:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 一般替代零件就驗得過怪誰啊 沒有機制還能標榜比原廠安靜</span><span class="push-ipdatetime"> 05/21 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omanorboyo</span><span class="f3 push-content">: 到底有那些安安靜靜的改裝管被罰了啊??????</span><span class="push-ipdatetime"> 05/21 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 沒有機制不去催促機制產生 只想要改車無責?阿不就好棒棒</span><span class="push-ipdatetime"> 05/21 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 現在就是要促使機制產生啊XD，不然他們找官員來幹嘛</span><span class="push-ipdatetime"> 05/21 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 公聽會還是座談會不就是這個意思?</span><span class="push-ipdatetime"> 05/21 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 不然選民代幹嘛? 投票投爽的?</span><span class="push-ipdatetime"> 05/21 17:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kent0398</span><span class="f3 push-content">: 建議順應民意 禁止改裝品進口販賣</span><span class="push-ipdatetime"> 05/21 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Desperando</span><span class="f3 push-content">: 遞補上的議員</span><span class="push-ipdatetime"> 05/21 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DREE</span><span class="f3 push-content">: 聲音沒變大是抓得出來改了甚麼嗎??</span><span class="push-ipdatetime"> 05/21 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 自已看內文 只想要當場合法而已 促使? 開倒車吧</span><span class="push-ipdatetime"> 05/21 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 我剛才就在現場，是還要看啥經記者轉述的內文?</span><span class="push-ipdatetime"> 05/21 17:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 搞笑嗎？</span><span class="push-ipdatetime"> 05/21 17:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 你先說改車理由是什麼 會不會影響別人 不然也只是又ㄧ個將</span><span class="push-ipdatetime"> 05/21 18:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 自己利益凌駕公眾利益之上的自私自利團體</span><span class="push-ipdatetime"> 05/21 18:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 用衣架檢查排氣管有沒有看過？抗議的是這個</span><span class="push-ipdatetime"> 05/21 18:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 改車理由? 改卡鉗懸吊等是要更安全啊。我又沒改管。</span><span class="push-ipdatetime"> 05/21 18:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 再來，改個卡鉗輪胎懸吊還是外觀是礙到誰了?</span><span class="push-ipdatetime"> 05/21 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 你說安全就安全 沒機制就先禁止啊 一直吵開放</span><span class="push-ipdatetime"> 05/21 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 噪音車該罰 但現在很多改其他地方 例如煞車 之後 也符合</span><span class="push-ipdatetime"> 05/21 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 檢驗標準的 也要被罰 這是問題所在</span><span class="push-ipdatetime"> 05/21 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 你說沒礙到就沒礙到 每個都車神</span><span class="push-ipdatetime"> 05/21 18:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 現在都沒髮禁了，沒吵到你的話你管別人把車弄的怎樣?</span><span class="push-ipdatetime"> 05/21 18:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 沒機制就先禁止 我笑了 果然是先禁國家</span><span class="push-ipdatetime"> 05/21 18:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 搞不定不清楚的東西就全部都禁止 還真是方便</span><span class="push-ipdatetime"> 05/21 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 不然當全開放國家撞死再來哭 (咦 現在好像就這樣)</span><span class="push-ipdatetime"> 05/21 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 不敢說每個都車神，起碼不會像你只在這出張嘴。</span><span class="push-ipdatetime"> 05/21 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 標準只剩噪音了 車神真的神~</span><span class="push-ipdatetime"> 05/21 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ironstomach</span><span class="f3 push-content">: 滿想知道改懸吊要怎麼礙到別人</span><span class="push-ipdatetime"> 05/21 18:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 連別人訴求都不知道，就在這裡亂幹，好厲害。</span><span class="push-ipdatetime"> 05/21 18:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 事實就是路上ㄧ堆改裝車吵死人 你說改就讓你改來吵人哦 你</span><span class="push-ipdatetime"> 05/21 18:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 誰啊</span><span class="push-ipdatetime"> 05/21 18:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkevinhess1t</span><span class="f3 push-content">: 可以裝啊，就跟抽菸一樣要繳比較早多就是了</span><span class="push-ipdatetime"> 05/21 18:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 活動的又不是要改裝全面合法 要求的是符合規範的改裝合</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 不就要飆得更爽 剎車更撇??然後臭屁這樣比較安全??</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 法 不是改裝就違法</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 訴求還能怎樣? 原廠車就騎不到目的地? 把餔啦</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vaio5566</span><span class="f3 push-content">: 那些零件又不是讓你在公路使用的 請去賽道吵好嗎</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 你遇到改砲管車你去攔他還是報警啊，關我屌事?</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amos30627</span><span class="f3 push-content">: 買刀合法啊 你拿來殺人就不合法 看你怎麼用囉</span><span class="push-ipdatetime"> 05/21 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 妳車壞了最好都是用原廠品 沒料就買新車 不然現在全部都</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 路上改裝車吵人有見你們出來自我約束過嗎？倒是只會講自己</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 是改裝</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 權利不顧別人不想被你們吵的權利</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 飆的更爽，煞的更撇，我看你比較像鍵盤車神，好會講哦</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 我車沒零件用他廠二手貨就是沒事咧 怪誰啊</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">loverita0517</span><span class="f3 push-content">: 一堆人覺得改裝車就是噪音車也是挺好笑的 要不要先</span><span class="push-ipdatetime"> 05/21 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loverita0517</span><span class="f3 push-content">: 看看現在是怎麼定義改裝車的</span><span class="push-ipdatetime"> 05/21 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 就說你遇到改砲管的你去攔他還是叫警察，關我屌事?</span><span class="push-ipdatetime"> 05/21 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 笑了 現在請你們約束自己又推給警察 台灣怎麼ㄧ堆這種人啊</span><span class="push-ipdatetime"> 05/21 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 所以你改有啥正當理由? 連嘴都嘴不贏只會吵 猴子來著?</span><span class="push-ipdatetime"> 05/21 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hcder4126</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 05/21 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 飆的更爽，煞的更撇，我看你比較像鍵盤車神，好會講哦</span><span class="push-ipdatetime"> 05/21 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pslr1</span><span class="f3 push-content">: 誰叫你們被改管的害到，結果你們還替他們出聲 哈哈</span><span class="push-ipdatetime"> 05/21 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 開始跳針了 好悲哀</span><span class="push-ipdatetime"> 05/21 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 你覺得沒事那你自己送自己檢舉 跑流程你就知道有事了</span><span class="push-ipdatetime"> 05/21 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 哦，路上改管的我都認識? 不然是要約束三小?</span><span class="push-ipdatetime"> 05/21 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 所以路上改管噪音車不是改裝車 請你們自我約束又馬上撇清</span><span class="push-ipdatetime"> 05/21 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 就沒事咧 每年驗車都會過咧 猴子乖乖騎三輪車吃香蕉啦</span><span class="push-ipdatetime"> 05/21 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 關係 台灣這種自私的人真不要太多</span><span class="push-ipdatetime"> 05/21 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 不約束就反對你們啊 怎樣 自私自利</span><span class="push-ipdatetime"> 05/21 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 去讀書好嗎 上面說改裝車不等於噪音車  你跟我說噪音車</span><span class="push-ipdatetime"> 05/21 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 不等於改裝車 邏輯？</span><span class="push-ipdatetime"> 05/21 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s3040632</span><span class="f3 push-content">: 只要你不吵誰會檢舉</span><span class="push-ipdatetime"> 05/21 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ms893030</span><span class="f3 push-content">: 哈哈，爽</span><span class="push-ipdatetime"> 05/21 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 跑個流程是會怎樣 還不就改到會被抓才覺得煩</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 現在改管的又不屬於改裝車啦 哈哈這群人</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 我改了卡鉗這些跟吵無關的，你叫我約束改裝屁孩?</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 社會人沒事也先去驗來擺啦 鑽漏洞硬要撐</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 你不用上班別人要啊 驗車要跑監理站又不是摩托車店</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 你邏輯是不是哪裡出了問題?</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omanorboyo</span><span class="f3 push-content">: 安靜改車群眾更要支持吧 你們都被豬隊友害到耶</span><span class="push-ipdatetime"> 05/21 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 卡鉗不就讓你煞車更兇? 就不讓你兇不行喔?</span><span class="push-ipdatetime"> 05/21 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 像這一種就是把問題都丟給別人只要自己爽就好</span><span class="push-ipdatetime"> 05/21 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 現在的問題是政府定義的改裝是只要非原廠就算改裝</span><span class="push-ipdatetime"> 05/21 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 只會跳針不吵不吵 標準就不是只有噪音  就算機制出來也不是</span><span class="push-ipdatetime"> 05/21 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 到底哪裡看不懂啊</span><span class="push-ipdatetime"> 05/21 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 全開放 不就又要吵我的好安全?</span><span class="push-ipdatetime"> 05/21 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 我紅牌每半年監理站都驗車合格，誰屌你啊？</span><span class="push-ipdatetime"> 05/21 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 誰說要全開放了？？</span><span class="push-ipdatetime"> 05/21 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 就是要上班才有空就去驗來擺啊 只有猴子硬要撐到被抓啦</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 鄉民一開始就先入為主改裝=改管=8+9，後面你要怎麼討論</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 還不讓我兇勒，你加油好嗎？</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 下去</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 都驗合格怕啥? 條子抓你投訴他啊</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 非原廠就叫改裝？騙肖耶路上一堆非原廠零件車沒被抓 怎麼</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 事情都以既定印象來討論 那還討論個屁</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 不怪自已改車是不是影響別人才被抓啊</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 講不贏就自判勝利要人加油? 去吃香蕉啦</span><span class="push-ipdatetime"> 05/21 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 歡迎警察在抓是去看看 不要只會坐在螢幕前 沒有濫抓問題</span><span class="push-ipdatetime"> 05/21 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 幹嘛抗議</span><span class="push-ipdatetime"> 05/21 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 說非原廠就改裝車被抓跟本胡扯</span><span class="push-ipdatetime"> 05/21 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: 現在就不是條子問題 是規定很怪 條子也不得不遵守</span><span class="push-ipdatetime"> 05/21 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 有沒有濫抓？對於沒車沒駕照的你我很難跟你解釋</span><span class="push-ipdatetime"> 05/21 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 就合法掩護非法 要他跟著走就跳針</span><span class="push-ipdatetime"> 05/21 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 我運氣不錯還沒被路上條子攔過啊，你有事嗎？</span><span class="push-ipdatetime"> 05/21 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 但每半年都要監理站驗車，每年也都檢驗合法，你能怎</span><span class="push-ipdatetime"> 05/21 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 沒攔到先抗議比較有事</span><span class="push-ipdatetime"> 05/21 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Argyris</span><span class="f3 push-content">: 有錢改車，沒錢去驗車？這是廢物啥是廢物？</span><span class="push-ipdatetime"> 05/21 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j0928875963</span><span class="f3 push-content">: 要禁就禁有噪音的改裝管就好 改外觀的不知道在禁啥洨</span><span class="push-ipdatetime"> 05/21 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 沒有每個人都用原廠零件 警察也不會那麽閒去察那些 你會因</span><span class="push-ipdatetime"> 05/21 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 改裝被抓 只有一個問題 就是改裝車影響到別人 被抓活該</span><span class="push-ipdatetime"> 05/21 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 搞不清楚別人訴求就別在這亂放炮。</span><span class="push-ipdatetime"> 05/21 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 外觀怕你勾到人 台灣騎車這麼愛鑽一定要規定size</span><span class="push-ipdatetime"> 05/21 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 拍謝，警察為了績效，反正只是開勸導單叫你驗車，不是開</span><span class="push-ipdatetime"> 05/21 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pslr1</span><span class="f3 push-content">: 你要改車自己負責，休想要沒改車的人幫你買單</span><span class="push-ipdatetime"> 05/21 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamander</span><span class="f3 push-content">: 罰單，心理壓力沒那麼大，寧可錯殺一百，也不放過一個</span><span class="push-ipdatetime"> 05/21 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 躲電腦前講幹話最會，像這種公眾場合又不敢出面。</span><span class="push-ipdatetime"> 05/21 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 禁改造車外型也是對的 改一些亂七八糟外型在街上 誰知會出</span><span class="push-ipdatetime"> 05/21 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mhlee</span><span class="f3 push-content">: 什麼事</span><span class="push-ipdatetime"> 05/21 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 笑了，別人車外觀你也要管。現在是還有髮禁嗎？</span><span class="push-ipdatetime"> 05/21 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 還是有服裝儀容禁令?</span><span class="push-ipdatetime"> 05/21 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 改外觀還是痛車彩繪是關你屌事?</span><span class="push-ipdatetime"> 05/21 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 某人完美的表現了車神自私的特性 就讓他吵吧</span><span class="push-ipdatetime"> 05/21 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 要不要說現在只有長得像金城武一樣帥的才能出門?</span><span class="push-ipdatetime"> 05/21 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 新北市獨立變成阿飆城市就怪他們完美的護航吧</span><span class="push-ipdatetime"> 05/21 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pslr1</span><span class="f3 push-content">: 有人又跳針了 秀下限ㄅ</span><span class="push-ipdatetime"> 05/21 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 笑了，你又在講幹話? 我支持警察抓砲管啊</span><span class="push-ipdatetime"> 05/21 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 我想問一下 有些原廠出來沒有防燙蓋 我一定要改裝防燙</span><span class="push-ipdatetime"> 05/21 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 蓋(法律規定) 但朱立倫又會開我改裝 請問我該？</span><span class="push-ipdatetime"> 05/21 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twen215</span><span class="f3 push-content">: 自己的經驗啦 噪音車有99.9999趴都是改裝車</span><span class="push-ipdatetime"> 05/21 18:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: <a href="http://i.imgur.com/nmdVyCq.jpg" target="_blank" rel="nofollow">http://i.imgur.com/nmdVyCq.jpg</a></span><span class="push-ipdatetime"> 05/21 18:28
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="nmdVyCq"><a href="//imgur.com/nmdVyCq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: <a href="http://i.imgur.comRzwWXwg.jpg" target="_blank" rel="nofollow">http://i.imgur.comRzwWXwg.jpg</a></span><span class="push-ipdatetime"> 05/21 18:28
+</span></div><div class="richcontent"><img src="http://i.imgur.comRzwWXwg.jpg" alt="" /></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 現場監理科長老話一句說會看資料確認，原廠管就沒事</span><span class="push-ipdatetime"> 05/21 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jamesa12</span><span class="f3 push-content">: <a href="http://i.imgur.com/2VgXqKe.jpg" target="_blank" rel="nofollow">http://i.imgur.com/2VgXqKe.jpg</a></span><span class="push-ipdatetime"> 05/21 18:29
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="2VgXqKe"><a href="//imgur.com/2VgXqKe"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 那改裝車有幾趴是噪音車?</span><span class="push-ipdatetime"> 05/21 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ueu966</span><span class="f3 push-content">: 新北做的好</span><span class="push-ipdatetime"> 05/21 18:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GORDON2037</span><span class="f3 push-content">: 躲電腦前講幹話最會，像這種公眾場合又不敢出面。</span><span class="push-ipdatetime"> 05/21 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jet113102</span><span class="f3 push-content">: 集會完可以順便舉辦進香</span><span class="push-ipdatetime"> 05/21 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q22w</span><span class="f3 push-content">: 耶 抓死那些噪音屁孩</span><span class="push-ipdatetime"> 05/21 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imsphzzz</span><span class="f3 push-content">: 哭哭</span><span class="push-ipdatetime"> 05/21 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FK56</span><span class="f3 push-content">: 把車子改的吵死人半夜擾鄰的實在沒資格出來靠邀什麼</span><span class="push-ipdatetime"> 05/21 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cum5566</span><span class="f3 push-content">: 這什麼敗類聚會？</span><span class="push-ipdatetime"> 05/21 18:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daniel815021</span><span class="f3 push-content">: 10台改裝9.9台吵死人 改裝畜牲去死一死啦</span><span class="push-ipdatetime"> 05/21 18:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q22w</span><span class="f3 push-content">: 就是有人愛改大聲吵別人 現在被拖累不會找那些屁孩靠腰喔呵</span><span class="push-ipdatetime"> 05/21 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 垃圾聚集地</span><span class="push-ipdatetime"> 05/21 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duck78803139</span><span class="f3 push-content">: 改來吵死人的垃圾，遲早撞死在電線桿</span><span class="push-ipdatetime"> 05/21 19:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 改車黨賣騙啊啦,你車子一下就過去,你沒改太吵警察還懶得</span><span class="push-ipdatetime"> 05/21 19:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 理你,人家新北就是要抓炸管,在那裡扯隔熱板煞車太遠了啦</span><span class="push-ipdatetime"> 05/21 19:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 改車有合法的配件可以選,你偏要選個不合格還怪人抓</span><span class="push-ipdatetime"> 05/21 19:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 這不是自找麻煩嗎,時間要也浪費在美好事務上,反正你們在</span><span class="push-ipdatetime"> 05/21 19:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 那裡吠太概也改變不了狀況,幹嘛浪費時間去敲你們玻璃心</span><span class="push-ipdatetime"> 05/21 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a123454698</span><span class="f3 push-content">: 10台改裝車9台吵</span><span class="push-ipdatetime"> 05/21 19:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gin10791</span><span class="f3 push-content">: 可以買不能改那就不要買啊 自己愛當盤子怪誰</span><span class="push-ipdatetime"> 05/21 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sosobook</span><span class="f3 push-content">: 改來吵人...</span><span class="push-ipdatetime"> 05/21 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loking</span><span class="f3 push-content">: 改懸吊 卡鉗會被抓喔，那真的沒必要</span><span class="push-ipdatetime"> 05/21 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e86117934</span><span class="f3 push-content">: 呵呵，不要改成噪音車就好，嘻嘻。</span><span class="push-ipdatetime"> 05/21 19:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Djent127</span><span class="f3 push-content">: 先說我有改車，排氣管燈系都沒改。我是覺得這群人嚴重被</span><span class="push-ipdatetime"> 05/21 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Djent127</span><span class="f3 push-content">: 操弄風向，真的原廠被開驗車的大概沒有一兩個</span><span class="push-ipdatetime"> 05/21 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Chang199195</span><span class="f3 push-content">: 我只改避震是礙到你們什麼</span><span class="push-ipdatetime"> 05/21 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvcc15</span><span class="f3 push-content">: 智障鄉民：改車=8+9</span><span class="push-ipdatetime"> 05/21 19:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s860134</span><span class="f3 push-content">: 噗　看到改車被抓９４爽</span><span class="push-ipdatetime"> 05/21 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asdghjk789</span><span class="f3 push-content">: 垃圾聚會</span><span class="push-ipdatetime"> 05/21 20:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bon362</span><span class="f3 push-content">: 改裝車吵死了！</span><span class="push-ipdatetime"> 05/21 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jehow</span><span class="f3 push-content">: 汽車也不能亂改阿 要玩改裝 去玩腳踏車啦 別小看對手國小生</span><span class="push-ipdatetime"> 05/21 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">satonoo</span><span class="f3 push-content">: 垃圾聚在一起有點臭</span><span class="push-ipdatetime"> 05/21 20:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b8801002</span><span class="f3 push-content">: 賣酒給你，就表示可以酒駕？</span><span class="push-ipdatetime"> 05/21 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">transcend789</span><span class="f3 push-content">: 也不自己想想看到底為什麼會讓人把改裝和噪音連在一</span><span class="push-ipdatetime"> 05/21 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">transcend789</span><span class="f3 push-content">: 起？</span><span class="push-ipdatetime"> 05/21 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">q22w</span><span class="f3 push-content">: 只討厭噪音屁孩，改避震懸吊的就是被這種人拖累  幫QQ</span><span class="push-ipdatetime"> 05/21 23:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pighead718</span><span class="f3 push-content">: wa</span><span class="push-ipdatetime"> 05/22 02:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">classic112</span><span class="f3 push-content">: 沉寂已久的問題終於浮出檯面，『合法販賣變非法改裝』</span><span class="push-ipdatetime"> 05/22 07:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">classic112</span><span class="f3 push-content">: ，到底哪時才要正視落後的法律問題</span><span class="push-ipdatetime"> 05/22 07:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">subaru5978</span><span class="f3 push-content">: 那肥宅們怎不敢去現場抗議</span><span class="push-ipdatetime"> 05/23 16:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495357307.A.A3E.html?cacheKey=2052-39269506&offset=28511&offset-sig=9c4ee983dd36ec2ce30a72a8e607dcb69a3175c7" data-longpollurl="/v1/longpoll?id=e8bf3be6a06b8ff0621fbd9cd8b938466ca24392" data-offset="28511"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

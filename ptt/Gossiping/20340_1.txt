@@ -1,0 +1,236 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495130331.A.21E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 自願加班的人到底在想什麼 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="目前24，從事平面設計，月薪35k，從不加班、公司加班有加班費，以我這歲數，
+還有平面設計普遍的低薪，這份薪水應該還算勉強合格了
+畢業其實也不過兩年，從畢業以來就奉行著不加班至上主義，
+中間也去過廣告公司上過半年，幾乎每天都快12小時起跳、假日還要on call
+公司從來不管什麼他媽的勞基法
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 自願加班的人到底在想什麼">
+<meta property="og:description" content="目前24，從事平面設計，月薪35k，從不加班、公司加班有加班費，以我這歲數，
+還有平面設計普遍的低薪，這份薪水應該還算勉強合格了
+畢業其實也不過兩年，從畢業以來就奉行著不加班至上主義，
+中間也去過廣告公司上過半年，幾乎每天都快12小時起跳、假日還要on call
+公司從來不管什麼他媽的勞基法
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495130331.A.21E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495130331.A.21E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">sonny044 (桑尼)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 自願加班的人到底在想什麼</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 01:58:48 2017</span></div>
+目前24，從事平面設計，月薪35k，從不加班、公司加班有加班費，以我這歲數，
+還有平面設計普遍的低薪，這份薪水應該還算勉強合格了
+
+畢業其實也不過兩年，從畢業以來就奉行著不加班至上主義，
+中間也去過廣告公司上過半年，幾乎每天都快12小時起跳、假日還要on call
+公司從來不管什麼他媽的勞基法
+
+好了離題了，其實不太懂草莓族這個詞怎麼創造出來的
+周遭很多同齡朋友(也都從事不同的設計產業)都是加的要死要活毫無怨言的，
+那些被老闆洗腦成社畜的朋友，很多都是擁有不錯的實力又認真的
+每看到他們加一次我幹剿他們一次，但發現沒救了，他們加班的理由完全說服不了我
+偶爾加一下也就算了，大加特加是嫌人生太長嗎？
+
+有人可以跟我解釋解釋自願加班的人到底在想什麼嗎？
+
+【Q. 為何加班】
+【A. 公司還有東西可以學，想在多學一點，沒關係拉..】
+沒錯啊我完全可以理解下班還想進修的心情，但憑什麼你要幫公司免費加班？
+憑你這股認真的氣勢，你大可以下班後接案，一樣有東西可學又有錢賺
+時間久了還會有一批接案的老客戶
+
+什麼你說你接不了案？平常太魯太宅不太會跟人類正常交流？
+那退一百步，接不了案，你同樣可以在家製作「跟公司案子同等級」的作品
+只不過無法賣錢而已，這也是學習不是？
+有一百種方法可以讓你下班後進修，你偏偏要選被糟蹋的方法？
+
+什麼給予你學習機會，就是想壓榨你而已，學習的注音標壓榨的拼音，你只是沒看出來。
+-
+【Q. 為何加班】
+【A. 阿東西就做不完啊…】
+工作內容一旦超額，人類容易疲倦、失去判斷和反抗能力，
+這時你要仔細想想「工作為何做不完？」
+
+｜a.你能力不足，動作太慢？｜
+別傻了，你覺得公司真的會請一個只能賠錢的人才嗎？他錄取你
+就是認為你可以幫他賺錢，能力不足開除你就好，何必留你下來，
+向施恩一樣給你所謂「學習機會」
+
+你待在這個位置！不管賺多賺少，就是能幫他賺錢！請有這個自信心！
+公司培養員工是要建立在法定八小時工作範圍內的。
+
+｜b.客戶東改西改，快到dateline時間也只能加班生給他啊｜
+老闆會不知道設計這東西就是很主觀的改來改去？既然從事這行業，
+就要有承擔危機成本的意識，
+
+設計師雖然要揣摩客戶的胃口，但終究不能通天，客戶改來改去導致時間不足，
+這是每個設計師都會遇到的問題，這個問題是老闆要先考量到的，
+要馬增加人力，要馬花錢去請高手，讓修改率降低
+-
+【Q. 為何加班】
+【A. 我這是負責任。】
+嗚喔被洗腦的末期社畜，一句責任就可以讓你貢獻出健康和錢，簡直比調查兵團還忠心
+你做子女有那麼負責任嗎？假日會陪爸爸媽媽嗎？定時拿錢回家嗎？
+會跟他們聊聊天吃個晚餐逗他們開心嗎？
+
+你對公司負責任，公司對你負責任嗎？加班費有嗎？
+健康他賠給你了嗎？你心理憂鬱公司在乎嗎？你變成孤獨肥宅公司會幫你脫魯？
+-
+【Q. 為何加班】
+【A. 現在累一點以後一定會成功的】
+你、確、定？
+我同意有努力有機會，但你確定你在「現在的公司」做「加班」這個動作
+是保證你通完康莊大道唯一的路徑？照著走一定成功？
+你確定現在成功的人以前就是一直加一直加然後就出人頭地了？
+-
+【Q. 為何加班】
+【A. 有加班的工作才是好工作】
+我知道有些人會有加班迷思，覺得自己在做很偉大的工作，一種為國捐軀的的榮耀感，
+覺得自己比不加班的人高人一等，
+老闆會瘋狂誇獎你：我很看重你、公司很仰賴你、你很有天份巴拉巴拉
+
+這真的不知如何吐槽起，好公司會不給你加班費？
+真的是個好人才他留你都來不及了，還這樣盡情地壓榨你，不覺得有點不對勁嗎？
+
+—
+
+其實也不是沒有理由可以說服我，只是目前從沒聽到，例如
+1.我有加班費，加無所謂/我獎金很高，足以抵銷加班費/我月薪高到我願意加班
+2.我很愛我的工作內容，有沒有加班費無所謂，超時也無所謂
+3.工作內容很有成就感，我不在乎有沒有加班費
+4.我連大公子富二代，老子就是有錢，誰稀罕加班費
+
+總之，我從不覺得自己的成功要跟加班有所掛勾，
+我有自信上班八小時間，為公司創造我這個薪水該有的產值
+我的確比很多人不足，下班也會充實自己，但我的不足不是拿來給公司壓榨的藉口
+
+到底自願加班還不領加班費也無所謂的人在想什麼，誰為我解惑一下
+台灣人又奴又好操還聽話容易洗腦，這個設定擬人化似乎可以成為不錯的工口本
+
+最後大家可以去搜尋「害怕被壓榨，那還混什麼職場」看看慣老闆的極致
+lv.99腳下發光慣老闆
+
+以下開放老闆放大絕：有本事自己開公司啊
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.192.225.138
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495130331.A.21E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495130331.A.21E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HiranoMiu</span><span class="f3 push-content">: dateline?</span><span class="push-ipdatetime">05/19 02:00
+</span></div>疑我有搞錯用法或拼錯嗎
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gigi030507</span><span class="f3 push-content">: 總而言之。就奴啊</span><span class="push-ipdatetime">05/19 02:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zxzxzzzx</span><span class="f3 push-content">: 媽的每個都臭跩樣，結果薪水那麼低喔</span><span class="push-ipdatetime">05/19 02:07
+</span></div>別生氣，我以後會提高，努力中
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a333901</span><span class="f3 push-content">: 當然是到公司撈油水啊</span><span class="push-ipdatetime">05/19 02:26
+</span></div><span class="f2">※ 編輯: sonny044 (27.247.168.79), 05/19/2017 02:37:22
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h921440</span><span class="f3 push-content">: 這麼中肯 資方會生氣的</span><span class="push-ipdatetime">05/19 02:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starts</span><span class="f3 push-content">: 你所謂的自願加班是沒錢的嗎</span><span class="push-ipdatetime">05/19 02:59
+</span></div>是的，「自願不領加班費常態性加班」
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cosco</span><span class="f3 push-content">: 純粹愛演</span><span class="push-ipdatetime"> 05/19 02:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: 想要升上去不是靠上班8小時完成你那份薪水該有的產值</span><span class="push-ipdatetime">05/19 04:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: ，而是要有比薪水產出更多高質量的生產，才有升遷的機</span><span class="push-ipdatetime">05/19 04:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: 會，結果你一句話說這就是奴性，其實有些真的是奴性，</span><span class="push-ipdatetime"> 05/19 04:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: 但有些是工作態度，你可以繼續保持這種我不加班我很屌</span><span class="push-ipdatetime">05/19 04:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: ，我都準時下班然後再用下班後充實自己，你這種態度就</span><span class="push-ipdatetime">05/19 04:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: 是給人傲慢的感覺，領3萬只做相當於3萬的事，超過不再</span><span class="push-ipdatetime">05/19 04:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bb77339911</span><span class="f3 push-content">: 做，那你做5年都是這薪水</span><span class="push-ipdatetime">05/19 04:47
+</span></div>這裡泛指的加班是大量的、常態性加班，並且毫無加班費的工作，會做這種事的大多是認
+真且負責任的員工，你怎麼知道八小時內他的工作產值如何呢？我用一句話總結這是奴性
+，真的太偏頗了點，這點我也很抱歉，但你不也用一句「這是工作態度」合理化這種行為
+，不論是催眠你自己還是你的員工。
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 這裡都是ㄧ人吃一人飽的魯宅 等你有家庭想讓家人 過得更</span><span class="push-ipdatetime">05/19 04:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 好時 知道什麼是責任 愛家人勝過自己 卻有無力感時 會不</span><span class="push-ipdatetime">05/19 04:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 會恨這國家 ？</span><span class="push-ipdatetime">05/19 04:55
+</span></div><span class="f2">※ 編輯: sonny044 (27.247.168.79), 05/19/2017 05:59:10
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495130331.A.21E.html?cacheKey=2052-40132855&offset=5969&offset-sig=6a9623cb71c7a059b3d1304c791202729b5e168c" data-longpollurl="/v1/longpoll?id=a7e681f8cf6865567d430f1fb1e93d6ad4e9f5aa" data-offset="5969"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

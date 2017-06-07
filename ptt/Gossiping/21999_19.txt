@@ -1,0 +1,211 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496278646.A.37B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 房價所得比房貸負擔率 雙創新高 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+房價所得比房貸負擔率 雙創新高
+國人平均要不吃不喝9.35年才買得起房
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 房價所得比房貸負擔率 雙創新高">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+房價所得比房貸負擔率 雙創新高
+國人平均要不吃不喝9.35年才買得起房
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496278646.A.37B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496278646.A.37B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">manysheep (愛與和平的PTT鄉民)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 房價所得比房貸負擔率 雙創新高</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 08:57:23 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+2.完整新聞標題:
+房價所得比房貸負擔率 <span class="f1 hl">雙創新高</span>
+國人平均要不吃不喝9.35年才買得起房
+
+3.完整新聞內文:
+2017年06月01日
+【王立德╱台北報導】世代悲歌，央行昨日公布今年度金融穩定報告，報告指出，雖然去
+年房價緩跌，但截至去年第3季為止，<span class="f1 hl">全國房價所得比、房貸負擔率仍雙雙</span><span class="f1 b7 hl">創下歷史新高</span>
+<span class="f1 hl">紀錄</span>，民眾購屋的負擔仍相當沉重。
+
+房價緩跌收入有限
+央行金檢處副處長蘇導民表示，雖然去年房價緩跌且房貸利率走低，但因家庭可支配所得
+成長平緩，讓去年第3季全國房價所得比還是攀上9.35倍、全國貸款負擔率衝至38.49%，
+均創史上新高紀錄。
+
+央行分析數據，指雖然房價緩步下修，但因國人收入成長相當有限，國人購屋壓力仍是有
+增無減，國人平均要<span class="f1 b7 hl">不吃不喝</span>9.35年才買得起房。
+
+央行官員指出，內政部預計今日公布去年底房價所得比數字，而去年第4季的信義房價指
+數、國泰房價指數均比2014年低，應可續觀察最新房價所得比變化。
+
+壽險公司匯險變高
+歷史資料顯示，全國房價所得比在2014年第1季時為7.51倍，隔季升破8倍，去年第3季升
+破9倍續創史上新高。不過房價高漲的台北市，已在2015年第1季時攀上歷史高點16.16倍
+，後續震盪下滑，去年第3季降至15.47倍。
+
+另央行也因新台幣兌美元匯率勁揚，特別對壽險公司示警。央行官員表示，壽險公司去年
+受到台幣兌美元升值2.44%影響產生匯損，加上新契約保單佣金跟準備金提存費用增加，
+去年稅前盈餘年減22.58%至1065億元，今年第1季外匯價格變動準備金也季減254億元至
+180億元的低水位，季減幅58.5%。
+
+央行更首度對外界表明，從第1季壽險公司國外投資總額、外匯價格變動準備金減幅，及
+台幣匯率升幅來看，壽險公司未避險的外幣部位至少超過1兆元，在近來匯市波動加劇下
+，壽險公司面臨的匯率風險相當高。
+
+利率波動也是央行擔心之處，蘇導民表示，Fed啟動升息，我國長期利率恐受美國公債利
+率影響而走升，「相關利率風險必須密切注意」，而壽險公司是持有債券部位最大的金融
+機構，利率走揚恐使壽險業需面對評價損失，淨值有下滑的風險。
+
+央行昨日也公布第2季理監事會議將於22日召開，外界預估央行將維持利率連4凍，央行也
+將從本次開始，對外公布會議紀錄。
+
+央行金融穩定報告重點摘要
+●房價
+◎截至去年第3季，全國房價所得比9.35倍、房貸負擔率38.49%雙雙創下史上新高
+◎不動產價格緩降，今年第1季略有回穩跡象
+●國內總體環境
+◎通膨展望溫和，央行預測今年CPI年增率1.25%
+◎經濟動能成長動能增強、償付外債能力佳
+●企業部門
+◎獲利能力提升，金融機構對企業的放款信用品質佳
+◎國際產業競爭壓力加劇、貿易保護主義升溫、中國產業供應鏈自主化，對我國影響需密
+切留意
+●金融市場
+◎我國長率恐受美國公債利率影響走升，需注意相關利率風險
+◎壽險業等短線上有可能蒙受評價損失，不過長率走升有助於未來獲利改善
+●匯率
+◎去年台幣兌美元匯率波動率2.96.96%，今年第1季波動率介於3.32.07%，相對於
+日圓、歐元、韓元及星幣穩定
+●壽險
+◎去年壽險公司淨利年減22.85%，主因為台幣兌美元匯率升值，及新契約保單佣金及準備
+金提存費用增加
+◎壽險公司因未避險外幣部位龐大，面臨較高匯率風險
+資料來源：中央銀行
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/Fd5m7O" target="_blank" rel="nofollow">https://goo.gl/Fd5m7O</a>
+
+5.備註:
+Ya！蔡英文超越馬英九 房價所得比創下歷史新高
+繼續前瞻計畫 建錢坑軌道 賠政府錢 債留子孫 幫建商炒房
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.47.192.236
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496278646.A.37B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496278646.A.37B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 廢物菜包政府 老藍男拉基政權</span><span class="push-ipdatetime"> 06/01 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 一堆死9.2現在還在寄望老k上台 他們的房產就可以飆了</span><span class="push-ipdatetime"> 06/01 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">STi2011</span><span class="f3 push-content">: 不吃不喝聽說能撐三天還七天</span><span class="push-ipdatetime"> 06/01 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 菜包政治就是跟馬一樣 滿嘴火車</span><span class="push-ipdatetime"> 06/01 08:59
+</span></div><span class="f2">※ 編輯: manysheep (114.47.192.236), 06/01/2017 08:59:57
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 用一票拉基執政  鬼島年輕人想出頭天省省</span><span class="push-ipdatetime"> 06/01 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 蔡英文滾下台 無能</span><span class="push-ipdatetime"> 06/01 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 問題是誰上台都一樣啊 我們要不要先殺光這些人</span><span class="push-ipdatetime"> 06/01 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ashuya</span><span class="f3 push-content">: 沒關c，426買的起房就好</span><span class="push-ipdatetime"> 06/01 09:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">manlike</span><span class="f3 push-content">: 一堆人不買房會死啊～ 呵</span><span class="push-ipdatetime"> 06/01 09:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 政府早該法起運動 全民鬥地主</span><span class="push-ipdatetime"> 06/01 09:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eric20</span><span class="f3 push-content">: 阿不就小英這一年止跌了 炒房垃圾兩黨</span><span class="push-ipdatetime"> 06/01 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wheat1130</span><span class="f3 push-content">: 還好我有帳篷</span><span class="push-ipdatetime"> 06/01 09:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 我聽的到資深9.2公務員現在好氣 退休金被砍一半6萬變3萬</span><span class="push-ipdatetime"> 06/01 09:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 有的老人出去做苦工 有的在集資炒房產 有的在做直銷</span><span class="push-ipdatetime"> 06/01 09:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 真奇怪</span><span class="push-ipdatetime"> 06/01 09:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 你說說 這幾年房產炒的有道理嗎</span><span class="push-ipdatetime"> 06/01 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">este1a</span><span class="f3 push-content">: 垃圾蔡英文還沒賺夠大家忍忍</span><span class="push-ipdatetime"> 06/01 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 買房兼修煉 政府真有心</span><span class="push-ipdatetime"> 06/01 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilove5072</span><span class="f3 push-content">: 多久之前就知道的事，根本就不是新聞了，無聊</span><span class="push-ipdatetime"> 06/01 15:26
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496278646.A.37B.html?cacheKey=2052-11609622&offset=5045&offset-sig=0f952925586c452a00aa568a5fa1aab8aa368995" data-longpollurl="/v1/longpoll?id=afc42e60d39f49a2b8fa16d44cd1f83ec63b58d2" data-offset="5045"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

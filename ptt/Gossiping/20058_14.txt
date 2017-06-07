@@ -1,0 +1,176 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494948326.A.6A7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] WannaCry只是開始　駭客集團威脅釋出更多駭客工具 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="蘋果日報　國際中心／綜合外電報導
+駭客組織「影子掮客」（Shadow Brokers）釋出的美國國家安全局（NSA）駭客工具，被
+用來製作侵襲全球的WannaCry勒索病毒。現在這個駭客集團威脅要釋出更多駭客工具，包
+括Windows 10的安全漏洞，甚至還有俄國、中國、伊朗與北韓的飛彈計畫內容。
+路透報導，密切追蹤影子掮客集團的法國資安研究人員蘇卻今日發推特寫說：「影子掮客
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] WannaCry只是開始　駭客集團威脅釋出更多駭客工具">
+<meta property="og:description" content="蘋果日報　國際中心／綜合外電報導
+駭客組織「影子掮客」（Shadow Brokers）釋出的美國國家安全局（NSA）駭客工具，被
+用來製作侵襲全球的WannaCry勒索病毒。現在這個駭客集團威脅要釋出更多駭客工具，包
+括Windows 10的安全漏洞，甚至還有俄國、中國、伊朗與北韓的飛彈計畫內容。
+路透報導，密切追蹤影子掮客集團的法國資安研究人員蘇卻今日發推特寫說：「影子掮客
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494948326.A.6A7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494948326.A.6A7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">chart (まどか　ＮＯ.１ ＼(^O^))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] WannaCry只是開始　駭客集團威脅釋出更多駭客工具</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 23:25:23 2017</span></div>
+蘋果日報　國際中心／綜合外電報導
+
+
+駭客組織「影子掮客」（Shadow Brokers）釋出的美國國家安全局（NSA）駭客工具，被
+用來製作侵襲全球的WannaCry勒索病毒。現在這個駭客集團威脅要釋出更多駭客工具，包
+括Windows 10的安全漏洞，甚至還有俄國、中國、伊朗與北韓的飛彈計畫內容。
+
+
+路透報導，密切追蹤影子掮客集團的法國資安研究人員蘇卻今日發推特寫說：「影子掮客
+回來了。」他表示最值得注意的是，駭客集團宣稱要釋出微軟最新作業系統Windows 10的
+安全漏洞。這波WannaCry勒索病毒主要攻擊對象是舊的Windows XP與Windows 7。
+
+
+一篇署名為 「TSB」（The Shadow Brokers，影子掮客）的部落格文章今日出現在網路上
+，為WannaCry肆虐的狀況自我辯護。該文說，影子掮客只想要有關當局把外洩的機密買回
+去，因為沒人買，所以才把包括這次Windows漏洞在內的大批駭客工具釋放到網路上。那
+些拿到這些工具的人要做甚麼，並不是他們的責任。況且他們在釋出前已經屢次公開警告
+手上握有這些弱點。
+
+
+現在，影子掮客表示，<span class="f1 hl">他們打算利用月費的方式，從6月開始向付費「訂戶」每月釋出更</span>
+<span class="f1 hl">多機密文件。</span><span class="f3 hl">這些機密將包括（1）網路瀏覽器、路由器與手機的漏洞以及駭客工具。（2</span>
+<span class="f3 hl">）更新的NSA駭客工具，包括Windows 10的安全漏洞。（3）SWIFT國際轉帳網路以及央行</span>
+<span class="f3 hl">的資料。（4）從俄羅斯、中國、伊朗或者北韓駭得的核彈與飛彈計畫資料。</span>
+
+
+這篇部落格說，唯有當有關單位把這些被洩漏的機密買回去，他們才會停止釋出這些機密
+，「你們都知道我們的比特幣帳戶」。
+
+
+
+
+<a href="http://www.appledaily.com.tw/realtimenews/article/international/20170516/1119994" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/international/20170516/1119994</a>
+
+--
+　 <span class="f6 hl">◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥◤◥</span>
+　 <span class="f0">◢</span><span class="f2">◢█████</span><span class="f2 b6">◤</span><span class="f6">◣</span><span class="f1 hl">  吾乃轟動武林，驚動萬教，轟動樓頂，驚動樓          </span><span class="f6 hl">◢</span>
+　 <span class="f6 hl">╔</span><span class="f2">█</span><span class="f0 b2">●</span><span class="f2">██</span><span class="f0 b2">●</span><span class="f2">█</span><span class="f2 hl">█</span><span class="f6 b6 hl">╗</span><span class="f1 hl">  腳，轟動阿公，驚動阿媽，絕無僅有，碩果僅          </span><span class="f6 hl">◥</span>
+　 ●<span class="f2">██</span><span class="f3 b2 hl">立省</span><span class="f2">██</span><span class="f2 hl">█</span><span class="b6">●</span><span class="f1 hl">  存，前無古人，後無來者，無人不知，無人不          </span><span class="f6 hl">◢</span>
+　 <span class="f0">█</span><span class="f2">█</span><span class="f3 b2 hl">中二南台</span><span class="f2">█</span><span class="f2 hl">◤</span><span class="f6">◥◣</span><span class="f1 hl">曉的....</span><span class="f2 hl">南二中絕版綠書包！！</span><span class="f1 hl">....&gt;○&lt;.... </span><span class="f6">         </span><span class="f6 hl">█</span>
+　 <span class="f6 hl">◣</span><span class="f6">◢</span><span class="f2">█</span><span class="f6">▅▅</span><span class="f2">█</span><span class="f6">▅▅▅█</span><span class="f6 hl">＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ˍ▁▂▃▄▅▆▇█</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.171.158.122
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494948326.A.6A7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494948326.A.6A7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t00012</span><span class="f3 push-content">: 我都用basic沒這個困擾</span><span class="push-ipdatetime"> 05/16 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">suginamiki</span><span class="f3 push-content">: 感覺應該要換一個非微軟的作業系統比較安全</span><span class="push-ipdatetime"> 05/16 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">makimakimaki</span><span class="f3 push-content">: 原來是NSA開發出來的 賠資料啦 美國人</span><span class="push-ipdatetime"> 05/16 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ComeThrough</span><span class="f3 push-content">: 匿名者不是很強龜起來了？</span><span class="push-ipdatetime"> 05/16 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kwinner</span><span class="f3 push-content">: 美國：我們不和恐怖份子談判</span><span class="push-ipdatetime"> 05/16 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michellehot</span><span class="f3 push-content">: 豪口怕喔 我老婆要被盜惹</span><span class="push-ipdatetime"> 05/16 23:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mpyhacct0443</span><span class="f3 push-content">: 駭客一定是美國人呵呵</span><span class="push-ipdatetime"> 05/16 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JingP</span><span class="f3 push-content">: 覺得好可怕QQ</span><span class="push-ipdatetime"> 05/16 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Moscato</span><span class="f3 push-content">: Win10漏洞有像這個這麼狂嗎???</span><span class="push-ipdatetime"> 05/16 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abram</span><span class="f3 push-content">:      美國人最會的 就是培養自己明天的敵人</span><span class="push-ipdatetime"> 05/16 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x04nonesuchx</span><span class="f3 push-content">: 俄羅斯 中國的資安單位要出動了嗎?</span><span class="push-ipdatetime"> 05/16 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">degneva</span><span class="f3 push-content">: 大概是好不容易弄出WannaCry結果3天才賺到200多萬 生氣了</span><span class="push-ipdatetime"> 05/16 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">degneva</span><span class="f3 push-content">: 不然幹嘛一定要NSA把機密買回去</span><span class="push-ipdatetime"> 05/16 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 幹 我硬碟昨天壞軌 以為是中勒索 還我嚇到受了2公斤</span><span class="push-ipdatetime"> 05/16 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 10來年的資料玩不起  現在都改用另一顆系統碟或手機惹</span><span class="push-ipdatetime"> 05/16 23:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lastsodeep</span><span class="f3 push-content">: 北韓飛彈計畫？</span><span class="push-ipdatetime"> 05/16 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">littlewanga</span><span class="f3 push-content">: 幸好林北手機筆電平板桌機都蘋果的，沒在怕。</span><span class="push-ipdatetime"> 05/17 00:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 我是覺得你去攻擊那些企業機構阿 為什要對散戶下手</span><span class="push-ipdatetime"> 05/17 00:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494948326.A.6A7.html?cacheKey=2052-38004953&offset=4257&offset-sig=aaa3c1d3218f18b15bd5aae87b068ce83e239599" data-longpollurl="/v1/longpoll?id=8972f03972df619b1eaec130551e5f65d8a1bb62" data-offset="4257"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

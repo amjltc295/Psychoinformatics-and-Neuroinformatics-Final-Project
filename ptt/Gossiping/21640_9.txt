@@ -1,0 +1,219 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496036589.A.8DD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 談BOT汙名化諷遠雄？柯：公設變百貨公司 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+SETN
+2.完整新聞標題:
+談BOT汙名化諷遠雄？柯：公設變百貨公司，掛羊頭賣狗肉
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 談BOT汙名化諷遠雄？柯：公設變百貨公司">
+<meta property="og:description" content="1.媒體來源:
+SETN
+2.完整新聞標題:
+談BOT汙名化諷遠雄？柯：公設變百貨公司，掛羊頭賣狗肉
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496036589.A.8DD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496036589.A.8DD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">chenmysi (☠)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 談BOT汙名化諷遠雄？柯：公設變百貨公司</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 13:43:05 2017</span></div>
+1.媒體來源:
+SETN
+
+2.完整新聞標題:
+談BOT汙名化諷遠雄？柯：公設變百貨公司，掛羊頭賣狗肉
+
+3.完整新聞內文:
+想到台北市的BOT案，你會想到什麼？台北市長柯文哲有感「BOT」一詞因為長年掛羊頭賣
+狗肉，已經被汙名化，現在要求重訂新的SOP。而在臉書PO文分享過程中，意有所指再開
+砲遠雄，暗指大巨蛋就是掛羊頭賣狗肉的BOT案之一。
+
+柯文哲不願役BOT一詞被汙名化，因此臉書PO文表示要求全面重訂新的SOP，他表示不再以
+政府零支出或最大收益為導向，改正過去BOT「商業極大化」與「土地開發」的邏輯思維
+，以最大社會公益為目標來設計BOT案。
+
+接著介紹他上任以後的第一件BOT，內湖2.0記畫中的「內科之心」。柯文哲提到這是是全
+台灣第一個以創新創業育成中心做為主體的BOT開發案，「將在這裡建立一個新創事業支
+援基地」，裡面有co-working space（共用工作空間）、maker space（自造實驗空間）
+，讓年輕人在這裡盡情揮灑創意，帶動產業升級。柯文哲強調，「內科之心」與過往好大
+喜功的基礎建設不同，這個BOT案經過兩年籌劃，並深度調查內湖地區的產業需求，是港
+湖整體發展戰略中的一環，期望「內科之心」能為內湖引進源源不絕的創新能量，為未來
+50年的發展打下基礎。
+
+有趣的是，文章中柯文哲點出BOT汙名化的原因，直言「商業設施極大化、公共設施極小
+化，結果BOT蓋出來的公共建設，都變成百貨公司」，讓人聯想柯市長多次對外痛批「遠
+雄大巨蛋商場從三棟變五棟，是不按圖施工」，意有所指再批遠雄掛羊頭賣狗肉。
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/UnqE12" target="_blank" rel="nofollow">https://goo.gl/UnqE12</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.168.152.54
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496036589.A.8DD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496036589.A.8DD.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 說得好</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yang421</span><span class="f3 push-content">: 不蓋百貨公司怎麼帶動當地發展？不懂就別當市長了好嗎！?</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XXXXXGAY5566</span><span class="f3 push-content">: 不然呢？無利可圖財團幹嘛蓋？當民營吃素？</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steven005</span><span class="f3 push-content">: 噗滋 當初為何蓋商場 是怕說大巨蛋不賺錢 爛透了</span><span class="push-ipdatetime"> 05/29 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kennyq</span><span class="f3 push-content">: 拆蛋還地，遠雄倒閉</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ashuya</span><span class="f3 push-content">: 施鹽了</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 台灣bot的奇蹟阿 外國bot是要廠商蓋很困難的建築 台灣</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ILoveKMT</span><span class="f3 push-content">: 幹你娘  還不敢拆喔?</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goetze</span><span class="f3 push-content">: 那就拆呀！諒你也不敢啦</span><span class="push-ipdatetime"> 05/29 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 都拿去蓋百貨公司 贊同以後可以的話 就自己蓋吧</span><span class="push-ipdatetime"> 05/29 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 把BOT被營造產業濫用的問題指出  是該面對了</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XXXXXGAY5566</span><span class="f3 push-content">: 果然還是要選dpp當市長，連蓋百貨公司可帶動當地發</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XXXXXGAY5566</span><span class="f3 push-content">: 展都不知道</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 市民願意承擔拆後的訴訟時程 可能的負擔金額 可拆喔</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serrier</span><span class="f3 push-content">: 只剩下口水?拿出行動好嗎～只省下一張嘴？</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ubcs</span><span class="f3 push-content">: 顆黑連假不休沒加班費也要繼續噓文 敬業，負責值得鼓勵</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 其他縣市可能啦 像彰化聽到好事多要來就很開心 台北</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 支持拆囉 把土地用途重新規劃 反正拆的過程也會創造就業</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 三立爛媒體 柯文哲下台</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 有差那間嗎?這是柯任內簽約的第一個bot 哪裡是嘴阿</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 拆除費用就追究大雄不按圖施工的責任 要他們負擔阿</span><span class="push-ipdatetime"> 05/29 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 柯任內 有bot標出去啦 看看內文吧</span><span class="push-ipdatetime"> 05/29 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 法院的判決 就如同車禍鑑定 要100%都不必市府承擔 很</span><span class="push-ipdatetime"> 05/29 13:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 實話</span><span class="push-ipdatetime"> 05/29 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 困難的 或許會要有幾十億要買單的心理準備</span><span class="push-ipdatetime"> 05/29 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 喊拆很正義 但要面對的 也需要先想清楚的</span><span class="push-ipdatetime"> 05/29 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 內需的數字真的被炒地皮還有拱高房價兩大黑手綁架太久</span><span class="push-ipdatetime"> 05/29 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 應該會兩邊各負擔些啦 按比例 畢竟先前市府也有放水嫌疑</span><span class="push-ipdatetime"> 05/29 13:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NEJAN9</span><span class="f3 push-content">: 讚 柯p 痠總統辣</span><span class="push-ipdatetime"> 05/29 13:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 有次搭客運 車進台北轉運站斜坡 轉彎突然有點卡 進退不得</span><span class="push-ipdatetime"> 05/29 13:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 搞了好幾分鐘才脫困 那次沒上新聞 但司機乘客應該嚇出冷汗</span><span class="push-ipdatetime"> 05/29 13:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 覺得這種BOT案只顧百貨經濟開發 罔顧建築體安全的作法</span><span class="push-ipdatetime"> 05/29 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukiko</span><span class="f3 push-content">: 是該注意了</span><span class="push-ipdatetime"> 05/29 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duvw</span><span class="f3 push-content">: 變百貨公司有不好嗎？一堆人爽爽逛，又在嫌？</span><span class="push-ipdatetime"> 05/29 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">koim</span><span class="f3 push-content">: 邊諷遠雄，邊讓他移樹最後完工，兩邊賺才是政客最高境界</span><span class="push-ipdatetime"> 05/29 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 遠雄被台建依照七項來審公安了 最近又要送件北市府</span><span class="push-ipdatetime"> 05/29 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 直接對比 不管內容會很好笑喔</span><span class="push-ipdatetime"> 05/29 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 不然要怎回本</span><span class="push-ipdatetime"> 05/29 14:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 公設是政府出錢蓋，沒商業設施當然沒關係</span><span class="push-ipdatetime"> 05/29 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 跟銀行貸款，誰要還錢</span><span class="push-ipdatetime"> 05/29 14:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 不食人間煙火的bot哪邊有？</span><span class="push-ipdatetime"> 05/29 14:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jab</span><span class="f3 push-content">: 看推文 藍綠垃圾都跳腳啦！</span><span class="push-ipdatetime"> 05/29 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 柯文哲又在找理由而已</span><span class="push-ipdatetime"> 05/29 14:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yenchihh</span><span class="f3 push-content">: 可以蓋啊！當初標案設計圖怎麼畫就怎麼蓋，標下來然後多</span><span class="push-ipdatetime"> 05/29 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yenchihh</span><span class="f3 push-content">: 一堆商場，這三小？</span><span class="push-ipdatetime"> 05/29 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wellymac</span><span class="f3 push-content">: 還在建SOP</span><span class="push-ipdatetime"> 05/29 14:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ga652206</span><span class="f3 push-content">: 沒得賺只好狂罵</span><span class="push-ipdatetime"> 05/29 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yenchihh</span><span class="f3 push-content">: 你去標台積的案子試試看啊！標到馬上翻案，要求追加預算</span><span class="push-ipdatetime"> 05/29 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yenchihh</span><span class="f3 push-content">: ，要求改圖，不然會虧錢，看他理不理你</span><span class="push-ipdatetime"> 05/29 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">liuyc888</span><span class="f3 push-content">: 快三年了只會嘴 大巨蛋搞到連任要跪dpp了 貪婪的財團 噗</span><span class="push-ipdatetime"> 05/29 14:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xoy232</span><span class="f3 push-content">: 實話 可是擋人財路 你看這些推文就知道… 鬼島就是鬼島</span><span class="push-ipdatetime"> 05/29 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 民主就是要法治，不是換一個人換一個腦</span><span class="push-ipdatetime"> 05/29 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">verydolungbe</span><span class="f3 push-content">: 台北市有需要商場帶動當地發展？？</span><span class="push-ipdatetime"> 05/29 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">verydolungbe</span><span class="f3 push-content">: 一堆人以為信義區是台東！</span><span class="push-ipdatetime"> 05/29 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">startiger</span><span class="f3 push-content">: 庸醫不懂別誤診好嗎？公共設施非營利本來就要搭配商場</span><span class="push-ipdatetime"> 05/29 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">startiger</span><span class="f3 push-content">: 才能減少政府支出</span><span class="push-ipdatetime"> 05/29 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cat86</span><span class="f3 push-content">: 有說不能蓋商場嗎?但是比例也要合理,看看交九轉運站</span><span class="push-ipdatetime"> 05/29 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thomaschion</span><span class="f3 push-content">: 支那9.2又來了。</span><span class="push-ipdatetime"> 05/29 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ace100</span><span class="f3 push-content">: 柯黑那麼怕柯 現在快去跪求dpp不支持柯</span><span class="push-ipdatetime"> 05/29 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rhapsody</span><span class="f3 push-content">: 壞掉的大富翁遊戲</span><span class="push-ipdatetime"> 05/29 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ace100</span><span class="f3 push-content">: 真不知道要跪dpp是柯黑還是柯 柯黑不是最希望分裂 快去跪d</span><span class="push-ipdatetime"> 05/29 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ace100</span><span class="f3 push-content">: pp阿</span><span class="push-ipdatetime"> 05/29 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piex</span><span class="f3 push-content">: 哈哈，看打工仔崩潰就是爽</span><span class="push-ipdatetime"> 05/29 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hosen</span><span class="f3 push-content">: 白癡柯批，污名化bot的不就是柯批你</span><span class="push-ipdatetime"> 05/29 16:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 擋人財路..等你落選你就完了。</span><span class="push-ipdatetime"> 05/29 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HTC0</span><span class="f3 push-content">: 就是在說遠雄！還不快跳出來接刀</span><span class="push-ipdatetime"> 05/29 17:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aquatics</span><span class="f3 push-content">: 柯黑瘋狂崩潰中</span><span class="push-ipdatetime"> 05/29 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 黨國裙帶資本集團 殖民台灣已70年</span><span class="push-ipdatetime"> 05/29 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 台北是要幾家百貨呀  是拜物教嗎</span><span class="push-ipdatetime"> 05/29 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 那種狂噓然後連著好幾樓的 明顯就網軍</span><span class="push-ipdatetime"> 05/29 23:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496036589.A.8DD.html?cacheKey=2052-1861517&offset=8784&offset-sig=851dc0c86f821e1dd0eb34269b0edaa9da5985ab" data-longpollurl="/v1/longpoll?id=d7d0d5953b4eb36084727df53faa1571d869a2b7" data-offset="8784"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,315 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496462122.A.F20.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[公告] 分身水桶 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="06/03/2017 11:41:02 IbakaBlock 解除 cathydong 的禁言限制 (距原期限尚有 17 天)
+  理由: 另案加桶
+06/03/2017 11:41:29 IbakaBlock 暫停 cathydong 發言，期限為 47 天
+  理由: 板規十六，分身條款，前案尚計17日
+06/03/2017 11:41:48 IbakaBlock 暫停 cathyntu 發言，期限為 7300 天
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[公告] 分身水桶">
+<meta property="og:description" content="06/03/2017 11:41:02 IbakaBlock 解除 cathydong 的禁言限制 (距原期限尚有 17 天)
+  理由: 另案加桶
+06/03/2017 11:41:29 IbakaBlock 暫停 cathydong 發言，期限為 47 天
+  理由: 板規十六，分身條款，前案尚計17日
+06/03/2017 11:41:48 IbakaBlock 暫停 cathyntu 發言，期限為 7300 天
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496462122.A.F20.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496462122.A.F20.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">IbakaBlock (肛甲集團首腦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[公告] 分身水桶</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 11:55:19 2017</span></div>
+<span class="hl">06/03/2017 11:41:02 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">cathydong </span>的禁言限制 (距原期限尚有 17 天)
+  理由: 另案加桶
+<span class="hl">06/03/2017 11:41:29 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">cathydong </span>發言，期限為 47 天
+  理由: 板規十六，分身條款，前案尚計17日
+<span class="hl">06/03/2017 11:41:48 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">cathyntu </span>發言，期限為 7300 天
+  理由: 板規十六，分身條款
+<span class="hl">06/03/2017 11:42:12 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">swiftntu </span>發言，期限為 5093 天
+  理由: 板規十六，分身條款
+<span class="hl">06/03/2017 11:53:28 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">BoBoooM </span>的禁言限制 (距原期限尚有 38 天)
+  理由: 另案加桶
+<span class="hl">06/03/2017 11:53:45 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">BoBoooM </span>發言，期限為 68 天
+  理由: 板規十六，分身條款，前案尚計38日
+<span class="hl">06/03/2017 11:53:58 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">as451412 </span>的禁言限制 (距原期限尚有 176 天)
+  理由: 另案加桶
+<span class="hl">06/03/2017 11:54:09 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">as451412 </span>發言，期限為 7300 天
+  理由: 板規十六，分身條款
+
+
+根據下列多重帳號查詢案件，經帳號部判定cathyntu、swiftntu、cathydong為同人持有
+
+
+┌─────────────────────────────────────┐
+│ 文章代碼(AID): <a href="/bbs/L_TalkandCha/M.1496457227.A.31C.html" target="_blank" rel="nofollow">#1PCY0BCS (L_TalkandCha)</a> [ptt.cc] Fw: [申請] 多重帳號查詢 │
+│ 文章網址: <a href="https://www.ptt.cc/bbs/L_TalkandCha/M.1496457227.A.31C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/L_TalkandCha/M.1496457227.A.31C.html</a>    │
+│ 這一篇文章值 0 Ptt幣                                                     │
+└─────────────────────────────────────┘
+
+
+<span class="hl">03/21/2017 13:24:43 </span><span class="f3 hl">IbakaBlock</span> 暫停 <span class="f1 hl">cathydong</span> 發言，期限為 90 天
+  理由: 板規四，政治問卦
+
+
+水桶期間分身發文
+
+
+    3.特殊狀況一，若Ａ帳號被水桶中，使用Ｂ、Ｃ或多個帳號發文，查證後，則視為
+      <span class="f3 hl">第一次觸碰分身條例，</span>則
+      Ａ帳號加罰水桶一個月
+      Ｂ帳號發文全數退回、並於組務查詢結果回報日開始算起，水桶十年
+      Ｃ帳號發文全數退回、並於組務查詢結果回報日開始算起，水桶十年
+
+
+cathydong 板規十六，加桶1個月
+
+
+cathyntu 板規十六，水桶10年(3650d)、發文全數退回(文章皆超過七日無法退回，改以換
+
+         算水桶處理，計9003日)，以上共計水桶12653日(系統水桶上限為20年)
+
+      1   2 3/21 cathyntu     R: [問卦] 保險主任很大嗎
+      2   3 3/21 cathyntu     □ [問卦] 梧棲三井outlet
+      3  10 3/21 cathyntu     □ [問卦] 31歲多少資產不魯
+      4     3/21 cathyntu     R: [問卦] 台積電是黨國遺毒為什麼臺灣人這麼愛
+      5   1 3/22 cathyntu     □ [問卦] 今年有哪些公司倒閉
+      6     3/22 cathyntu     □ [問卦] vivo何時進入臺灣？
+      7   1 3/23 cathyntu     □ [問卦] 嘉義雲登度假飯店
+      8  11 3/23 cathyntu     □ [問卦] 花蓮蝴蝶谷渡假村
+      9   1 3/23 cathyntu     R: [新聞] 13A總裁彭淮南 存款不到千萬
+     10   2 3/23 cathyntu     R: [新聞] 產業外移美、中　彭淮南開藥方：宜擴大
+     11   3 3/23 cathyntu     R: [問卦] 房仲是台灣賺錢最多的職業
+     12     3/24 cathyntu     R: [新聞] 來台陸客少百萬人 520至今500億外匯
+     13   2 3/24 cathyntu     R: [新聞] 虧太大？宏達電再爆裁員 恐還有下一波
+     14   4 3/24 cathyntu     □ [問卦] 在越南的台灣企業
+     15   8 3/24 cathyntu     □ [問卦] 韓國旅遊業有多慘
+     16     3/26 cathyntu     □ [問卦] 電視購物台霸主
+     17  22 3/28 cathyntu     □ [問卦] 台大學生的家庭有錢人居多嗎
+     18     3/28 cathyntu     □ [問卦] 外貿協會
+     19   1 3/28 cathyntu     R: [問卦] 嘉義雲登度假飯店
+     20     3/28 cathyntu     R: [新聞] 政商名流捧百萬求醫 鄉民爆卦整骨奇人「
+     21   3 3/28 cathyntu     R: [新聞] 他在學校被霸凌 20年後放火燒同學住處
+     22  32 3/29 cathyntu     □ [問卦] 台大生畢業後做保險房仲直銷
+     23   8 3/29 cathyntu     □ [問卦] 最快幾年後會遇到財富重分配
+     24     3/29 cathyntu     R: [問卦] 電視購物台霸主
+     25     3/29 cathyntu     R: [問卦]  2008年的金融風暴有多恐怖？
+     26     3/29 cathyntu     R: [新聞] 台青願闖大陸 薪水高升遷更快
+     27   2 3/30 cathyntu     R: [問卦]  大學人脈很重要嗎？
+     28   1 3/30 cathyntu     R: [新聞] 台青願闖大陸 薪水高升遷更快
+     29   1 3/30 cathyntu     R: [問卦] 為何到了大學，霸凌就很少見了
+     30   8 3/30 cathyntu     R: [問卦] 要接受百夫長卡的邀請嗎？
+     31     4/01 cathyntu     □ [問卦] 如何檢舉中醫沒健保自費
+     32     4/01 cathyntu     R: [問卦] 認真問，靠陸客的店家全倒光會怎樣?
+     33   5 4/03 cathyntu     □ [問卦] 醫生生涯年薪
+     34   2 4/03 cathyntu     R: [新聞] 命脈被掐死?陸客不來 觀光業淚吞550億損
+     35  10 4/03 cathyntu     □ [問卦] 台積電薪水生涯
+     36     4/04 cathyntu     □ [問卦] 銀行界的資優生-玉山
+     37   3 4/04 cathyntu     □ [問卦] 上市公司：年興
+     38   6 4/05 cathyntu     □ [問卦] 律師生涯年薪
+     39  20 4/05 cathyntu     □ [問卦] 律師vs台積vs醫生
+     40   1 4/05 cathyntu     R: [問卦] 律師vs台積vs醫生
+     41   2 4/06 cathyntu     □ [問卦] 律師vs銀行ma
+     42   2 4/07 cathyntu     R: [問卦] ㄧ邊說經濟不重要 ㄧ邊喊加薪？
+     43  12 4/08 cathyntu     □ [問卦] 袁紹第一軍師
+     44  12 4/10 cathyntu     □ [問卦] 醫生vs機師
+     45   3 4/11 cathyntu     □ [問卦] 昇恆昌
+     46   1 4/11 cathyntu     □ [問卦] 遠東航空
+     47   3 4/11 cathyntu     R: [新聞] 台胞證遭註銷 李明哲妻：我不能活得
+     48  49 4/14 cathyntu     □ [問卦] 康橋商旅
+     49   7 4/16 cathyntu     □ [問卦] 味丹是良心企業嗎
+     50   4 4/16 cathyntu     R: [新聞] 韓聯社：北韓今早試射飛彈　但失敗了
+     51  13 4/16 cathyntu     □ [問卦] 空氣清淨機
+
+
+swiftntu 板規十六，水桶10年(3650d)、發文全數退回(文章皆超過七日無法退回，改以換
+
+         算水桶處理，計1443日)，以上共計水桶5093日
+
+      5  10 4/19 swiftntu     □ [問卦] 澎湖近幾年發展
+      6   5 4/19 swiftntu     □ [問卦] 澎湖博弈公投怎會沒過
+      7   7 4/20 swiftntu     □ [問卦] 澎湖該怎麼發展
+      8   9 4/20 swiftntu     □ [問卦] 澎湖海鮮餐廳
+      9   4 4/26 swiftntu     R: [新聞] 徐永明批胡志強留學卻申報為「黨職」年
+     10   2 4/26 swiftntu     R: [新聞] 台幣盤中升破2字頭突破彭淮南防線 創下
+     11   2 4/27 swiftntu     □ [問卦] 信義房屋
+     12  15 4/28 swiftntu     □ [問卦] 一年刷卡100萬以上的是什麼人
+     13     5/11 swiftntu     □ [問卦] 信義房屋營收爆衝了
+
+
+根據下列多重帳號查詢案件，經帳號部判定BoBoooM、as451412為同人持有
+
+
+┌─────────────────────────────────────┐
+│ 文章代碼(AID): <a href="/bbs/L_TalkandCha/M.1496457385.A.F6D.html" target="_blank" rel="nofollow">#1PCY2fzj (L_TalkandCha)</a> [ptt.cc] Fw: [申請] 多重帳號查詢 │
+│ 文章網址: <a href="https://www.ptt.cc/bbs/L_TalkandCha/M.1496457385.A.F6D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/L_TalkandCha/M.1496457385.A.F6D.html</a>    │
+│ 這一篇文章值 0 Ptt幣                                                     │
+└─────────────────────────────────────┘
+
+
+<span class="hl">05/11/2017 22:42:51 </span><span class="f3 hl">kasion</span> 暫停 <span class="f1 hl">BoBoooM</span> 發言，期限為 60 天
+  理由: 超貼
+
+
+水桶期間分身發文
+
+
+    1.若Ａ帳號於水桶中，使用分身Ｂ發文，經查證後：
+      <span class="f1 hl">Ａ帳號加罰水桶一個月</span>
+      <span class="f2 hl">Ｂ帳號發文全數退回、並於組務查詢結果回報日開始算起，水桶十年</span>
+
+
+BoBoooM 板規十六，加桶1個月
+
+
+as451412 板規十六，水桶10年(3650d)、發文全數退回(標註*號文章超過七日無法退回，
+
+         改以換算水桶處理，計4323日)，以上共計水桶7973日(系統水桶上限為20年)
+
+
+     *1     5/14 as451412     □ [問卦] 請問當詐騙集團車手遇到提款機維修腫摸辦
+     *2   2 5/14 as451412     □ [問卦] 有沒有開馬自達不能參加這個會的八卦？
+     *3   5 5/14 as451412     R: [問卦] 大家去完夜店是帶女生回家還是旅館?
+     *4   9 5/14 as451412     R: [問卦] 當空姐真的有很多嫁入豪門的機會嗎?
+     *5   3 5/16 as451412     R: [問卦] 腸癌權威嘆豬哥亮「不良示範」 憂阿公阿
+     *6     5/16 as451412     R: [問卦] 有豬哥亮跟六合彩八卦嗎
+     *7     5/17 as451412     □ [問卦] 有沒有一堆慣員工的八卦？
+     *8     5/19 as451412     □ [問卦] 有沒有貓貓睡覺打呼的八卦？
+     *9   5 5/20 as451412     R: [問卦] 桃園哪裡好玩
+    *10     5/20 as451412     □ [問卦] 有沒有貓貓搭車很乖的八卦？
+    *11   5 5/21 as451412     R: [問卦] 有沒有開車時速320公里是什麼感覺的八卦?
+    *12   5 5/22 as451412     □ [問卦] 檢舉臭鮑魚有獎金嗎？
+    *13     5/23 as451412     □ [問卦] 有沒有野貓不怕人的八卦？
+    *14     5/24 as451412     □ [問卦] 她說我無套一條龍,戴套一條蟲!我該腫摸辦
+    *15     5/24 as451412     R: [問卦] 為什麼同學有兩個拔拔?
+    *16   1 5/24 as451412     R: [問卦] 甲甲下一步要爭取什麼？
+    *17     5/25 as451412     □ [問卦] 有沒有絕頂昇天的八卦？
+    *18     5/25 as451412     □ [問卦] 貓貓這個眼神是什麼意思?
+    *19   9 5/25 as451412     R: [問卦] 全世界的甲甲會聚集到台灣嗎?
+    *20     5/25 as451412     R: [問卦] 大家都是怎麼保養懶叫的？
+    *21   2 5/26 as451412     □ [問卦] 有沒有國際盜懶線集團的八卦？
+    *22   6 5/27 as451412     R: [問卦] 夫妻之間可以多久沒有性生活？
+     23   1 5/29 as451412     R: [問卦] 有沒有現在少年沒金錢觀念的卦
+     24     5/29 as451412     □ [問卦] 錢櫃裡面什麼東西最好吃？
+
+  *012070   5/24  as451412     [問卦] 有沒有貓貓搭車很乖的八卦？
+  *009997   5/21  as451412     [問卦] 有沒有妹妹很正的八卦？
+  *007703   5/17  as451412     Re: [問卦] 大家開車極速的紀錄是多快？
+
+
+註:因超過七日而無法退文部分，改以換算水桶處理，第一篇換算水桶3日，第二篇起每篇
+
+   換算水桶180日
+
+--
+<a href="http://i.imgur.com/0f0aWOv.png" target="_blank" rel="nofollow">http://i.imgur.com/0f0aWOv.png</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0f0aWOv"><a href="//imgur.com/0f0aWOv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.22.61
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496462122.A.F20.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496462122.A.F20.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 你為什麼要桶我!! 我還在嗎?</span><span class="push-ipdatetime"> 06/03 11:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DogBe105</span><span class="f3 push-content">: 十年之前</span><span class="push-ipdatetime"> 06/03 11:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">remarkand</span><span class="f3 push-content">: 版主發錢 ！</span><span class="push-ipdatetime"> 06/03 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Walmart</span><span class="f3 push-content">: 八卦板一堆分身 不意外</span><span class="push-ipdatetime"> 06/03 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 7300天!!!</span><span class="push-ipdatetime"> 06/03 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 澎湖最後希望：十年</span><span class="push-ipdatetime"> 06/03 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MiamiKotori</span><span class="f3 push-content">: 12,000天水桶日期耶，到底是??! 連隕石都能撞地球辣</span><span class="push-ipdatetime"> 06/03 11:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiuyeah</span><span class="f3 push-content">: 20年後都不知道怎樣了</span><span class="push-ipdatetime"> 06/03 11:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 7300XDDDDDDDDDDD</span><span class="push-ipdatetime"> 06/03 11:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 如果被桶沒有養分身的我，可能會逆轟高揮</span><span class="push-ipdatetime"> 06/03 11:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 你誰 左上角有你嗎?</span><span class="push-ipdatetime"> 06/03 12:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 發錢</span><span class="push-ipdatetime"> 06/03 12:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lee457088</span><span class="f3 push-content">: 錢!!</span><span class="push-ipdatetime"> 06/03 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a27888016</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 06/03 12:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Max7169</span><span class="f3 push-content">: 怎麼知道兩個同帳號</span><span class="push-ipdatetime"> 06/03 12:14
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496462122.A.F20.html?cacheKey=2052-1977449&offset=10543&offset-sig=817edc03151bbfca5f7520b2a0359570ec072421" data-longpollurl="/v1/longpoll?id=a194daa7f840cafbfd94b6da034fdb70f0604f05" data-offset="10543"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

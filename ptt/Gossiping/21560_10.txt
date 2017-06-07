@@ -1,0 +1,155 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495976085.A.83A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 什麼是去脈絡化？？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="覺青的FB上常常出現，聽障鬥士也用過：
+去脈絡化
+這個詞，廢宅我才疏學淺，不明白那是什麼意思
+各位鄉民知道嗎？
+--
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 什麼是去脈絡化？？">
+<meta property="og:description" content="覺青的FB上常常出現，聽障鬥士也用過：
+去脈絡化
+這個詞，廢宅我才疏學淺，不明白那是什麼意思
+各位鄉民知道嗎？
+--
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495976085.A.83A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495976085.A.83A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">fffffff4 (使用者在線上)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 什麼是去脈絡化？？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 20:54:42 2017</span></div>
+
+
+覺青的FB上常常出現，聽障鬥士也用過：
+
+去脈絡化
+
+這個詞，廢宅我才疏學淺，不明白那是什麼意思
+
+各位鄉民知道嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 119.14.42.115
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495976085.A.83A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495976085.A.83A.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joe19941004</span><span class="f3 push-content">: 還有形態框架</span><span class="push-ipdatetime"> 05/28 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oaoa0123</span><span class="f3 push-content">: 廢物文組什麼不會只會裝知識分子</span><span class="push-ipdatetime"> 05/28 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">christiano</span><span class="f3 push-content">: 沒知識就去多讀點書好嗎？別來夏夕夏景</span><span class="push-ipdatetime"> 05/28 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chinnez</span><span class="f3 push-content">: 就是丟掉邏輯胡亂開炮</span><span class="push-ipdatetime"> 05/28 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fredi</span><span class="f3 push-content">: 這篇文章就是去脈絡化的產物，不ok~</span><span class="push-ipdatetime"> 05/28 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hibria</span><span class="f3 push-content">: 文本勒</span><span class="push-ipdatetime"> 05/28 20:55
+</span></div><span class="f2">※ 編輯: fffffff4 (119.14.42.115), 05/28/2017 20:56:01
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 正義 壓迫 翻轉 遺毒 覺青專用詞彙</span><span class="push-ipdatetime"> 05/28 20:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">i5lo</span><span class="f3 push-content">: <a href="https://www.youtube.com/watch?v=r_KAih4AUyE#t=4m22s" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=r_KAih4AUyE#t=4m22s</a></span><span class="push-ipdatetime"> 05/28 20:56
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/r_KAih4AUyE" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a216832</span><span class="f3 push-content">: 你不只才疏學淺 還連google都不會</span><span class="push-ipdatetime"> 05/28 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 就是&#34;耍智障、降低智商&#34; 的意思。</span><span class="push-ipdatetime"> 05/28 21:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">weiyun031810</span><span class="f3 push-content">: 推二樓XD</span><span class="push-ipdatetime"> 05/28 21:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">captainmm</span><span class="f3 push-content">: <a href="https://m.facebook.com/POS.RueyLin/posts/6152264086" target="_blank" rel="nofollow">https://m.facebook.com/POS.RueyLin/posts/6152264086</a></span><span class="push-ipdatetime"> 05/28 21:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 就是把脈絡去掉</span><span class="push-ipdatetime"> 05/28 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 但脈絡又是啥事的脈絡</span><span class="push-ipdatetime"> 05/28 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 就看指啥事阿</span><span class="push-ipdatetime"> 05/28 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">captainmm</span><span class="f3 push-content">: goo.gl/07obsQ 哲學老師告訴你</span><span class="push-ipdatetime"> 05/28 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ptt80357</span><span class="f3 push-content">: 那鳥分數…</span><span class="push-ipdatetime"> 05/28 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 但其實，這種大多是吊書袋</span><span class="push-ipdatetime"> 05/28 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 講得人也不知啥意思</span><span class="push-ipdatetime"> 05/28 21:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 在去脈絡之文字障中翻轉覺覺不溫柔性器的左派咖啡</span><span class="push-ipdatetime"> 05/28 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 嘟幾。 。艱澀怕惹吧</span><span class="push-ipdatetime"> 05/28 21:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aaaa8444</span><span class="f3 push-content">: 學生分數難看是因為考試的關係；這就是去脈絡化，學生</span><span class="push-ipdatetime"> 05/28 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aaaa8444</span><span class="f3 push-content">: 分數難看的根本原因是上課不聽回去不複習不讀書，去脈</span><span class="push-ipdatetime"> 05/28 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aaaa8444</span><span class="f3 push-content">: 絡化是指事情不看過程，直接給他一個似是而非的結論</span><span class="push-ipdatetime"> 05/28 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">takase</span><span class="f3 push-content">: 就單純斷章取義</span><span class="push-ipdatetime"> 05/28 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neverfor</span><span class="f3 push-content">: 乾你老師的意思</span><span class="push-ipdatetime"> 05/28 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amos30627</span><span class="f3 push-content">: 就是只看原因跟結果就下結論的意思 完全不看過程</span><span class="push-ipdatetime"> 05/28 22:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CleanThunder</span><span class="f3 push-content">: 文組百萬年薪 周工時33路過</span><span class="push-ipdatetime"> 05/29 11:11
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495976085.A.83A.html?cacheKey=2052-1196586&offset=3259&offset-sig=2e025b2b48d7cf7b3dd79139f582d754d5c2c25b" data-longpollurl="/v1/longpoll?id=9d0eceee34f5fd41307c5f97480141be6dc5a15f" data-offset="3259"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

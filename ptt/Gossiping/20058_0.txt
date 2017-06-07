@@ -1,0 +1,216 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494948061.A.0D0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 桃園市圖新總館 明年初動工 生命樹 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="桃園市圖新總館 明年初動工
+http://www.chinatimes.com/newspapers/20170516000145-260204
+中時電子報
+桃園市立圖書館新建總館工程委託規劃設計暨監造技術服務案昨（15）日
+正式簽約，桃園市長鄭文燦表示，預計明年初動工、2021年前完工。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 桃園市圖新總館 明年初動工 生命樹">
+<meta property="og:description" content="桃園市圖新總館 明年初動工
+http://www.chinatimes.com/newspapers/20170516000145-260204
+中時電子報
+桃園市立圖書館新建總館工程委託規劃設計暨監造技術服務案昨（15）日
+正式簽約，桃園市長鄭文燦表示，預計明年初動工、2021年前完工。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494948061.A.0D0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494948061.A.0D0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ZhuBeiCity (Chupei)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 桃園市圖新總館 明年初動工 生命樹</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 23:20:58 2017</span></div>
+桃園市圖新總館 明年初動工
+
+<a href="http://www.chinatimes.com/newspapers/20170516000145-260204" target="_blank" rel="nofollow">http://www.chinatimes.com/newspapers/20170516000145-260204</a>
+
+中時電子報
+
+
+桃園市立圖書館新建總館工程委託規劃設計暨監造技術服務案昨（15）日
+
+正式簽約，桃園市長鄭文燦表示，預計明年初動工、2021年前完工。
+
+鄭文燦強調，桃園市立圖書總館是桃園市文化地標和文化力的象徵，經過半年選址、
+
+90天競圖準備期及2天評選，評選出以「生命樹」為設計概念的「郭自強建築師事
+
+務所與株式會社梓設計國際團隊」為最佳設計團隊，市府將成立新建工程的
+
+協調小組，讓設計、發包過程更順利。
+
+鄭文燦指出，桃園市立圖書總館選址於桃園區中正藝文特區，與桃
+
+園展演中心相互輝映，旁邊是捷運綠線展演中心（G11）站，交通非常方便。
+
+郭自強建築師事務所建築師郭自強說，會以打造國際級作品為目標，
+
+為桃園鄉親帶來光榮與驕傲，未來將會結合公園，是一棟可以呼吸、有氧、
+
+有芬多精的建築物，尤其基地周邊還有捷運綠線、展演中心等建設，
+
+桃園的發展指日可待。
+
+桃園市政府規市立圖書總館是多功能複合設計，基地面積5萬1,600平方公尺，
+
+規畫地下2層、地上8層建築物，總樓地板面積約4萬6,000平方公尺，
+
+工程總預算約23億元，主體工程發包工程費約為18.2億元。
+
+未來除設置各分館的行政辦公空間、提供巿民眾借閱書籍服務、
+
+也將委外經營電影院、文創商場及主題餐廳等更多元的服務。
+
+
+
+<a href="https://www.youtube.com/watch?v=r0lbdRKenKc" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=r0lbdRKenKc</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/r0lbdRKenKc" frameborder="0" allowfullscreen></iframe></div></div></div>
+<a href="https://www.youtube.com/watch?v=73vEBVSZ5II" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=73vEBVSZ5II</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/73vEBVSZ5II" frameborder="0" allowfullscreen></iframe></div></div></div>
+以生命樹為主題的新地標 桃園市圖書總館
+
+還滿漂亮的 富有文學電影院 文創中心
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.80.140.107
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494948061.A.0D0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494948061.A.0D0.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jason0813</span><span class="f3 push-content">: &#34;委外經營電影院、文創商場及主題餐廳&#34;</span><span class="push-ipdatetime"> 05/16 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhu66</span><span class="f3 push-content">: 幫五樓點播生命之歌 <a href="https://youtu.be/cmtf09xRkfk" target="_blank" rel="nofollow">https://youtu.be/cmtf09xRkfk</a></span><span class="push-ipdatetime"> 05/16 23:22
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/cmtf09xRkfk" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 中正地皮特區</span><span class="push-ipdatetime"> 05/16 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 連圖書館都設那</span><span class="push-ipdatetime"> 05/16 23:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: NI應該改名桃園市 怎麼會還叫竹北市呢? 還是在養當中?</span><span class="push-ipdatetime"> 05/16 23:23
+</span></div>
+來桃園生活快滿十年囉..
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: 總圖 : 桃園 &gt;&gt; 高雄 &gt;&gt; 新北 &gt;&gt;&gt;&gt;&gt;&gt;&gt;台北</span><span class="push-ipdatetime"> 05/16 23:24
+</span></div>
+你也是新竹人對吧 還在想要在哪定居 桃園房價有點貴...
+<span class="f2">※ 編輯: ZhuBeiCity (111.80.140.107), 05/16/2017 23:25:05
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: 台中呢 ??? 因為作弊沒蓋 靠國家蓋的公共圖 沒列入評比</span><span class="push-ipdatetime"> 05/16 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j4y4wu3</span><span class="f3 push-content">: 中壢表示：？？？</span><span class="push-ipdatetime"> 05/16 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 原本總圖位址比較好</span><span class="push-ipdatetime"> 05/16 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: 台南呢 ??? 因為還在蓋當中 造型實在輸太多 以後再列</span><span class="push-ipdatetime"> 05/16 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 蓋在那實在是不方便南北桃</span><span class="push-ipdatetime"> 05/16 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JOGIBA</span><span class="f3 push-content">: 胖周瑜：桃園有中壢？我以為那邊叫青埔耶，我只在乎青埔</span><span class="push-ipdatetime"> 05/16 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: 鄭文燦故意的啦 ........他知道桃園八德南崁需要這個</span><span class="push-ipdatetime"> 05/16 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: 美術館沒多少人會用到 蓋在青埔 表面上各方一個 實際上</span><span class="push-ipdatetime"> 05/16 23:28
+</span></div>
+我跟你同感噎 嘴巴上說平衡南北 藝文特區 市圖總館 青埔市立美術館
+
+但是美術館根本不可能常去啊..
+<span class="f2">※ 編輯: ZhuBeiCity (111.80.140.107), 05/16/2017 23:29:20
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeswater</span><span class="f3 push-content">: 就是比較重視桃園 這就是他厲害的地方 雕蟲小計</span><span class="push-ipdatetime"> 05/16 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Acone</span><span class="f3 push-content">: 中悅特區??</span><span class="push-ipdatetime"> 05/16 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 樓上太小看美術館，美術館經營的好，可以拉全國民眾到這</span><span class="push-ipdatetime"> 05/16 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 裡來，甚至世界的民眾。</span><span class="push-ipdatetime"> 05/16 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 另外如果你家附近就有圖書館分館，你幹嘛沒事跑去總圖去</span><span class="push-ipdatetime"> 05/16 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 看書、借書？館際借還書會用嗎？</span><span class="push-ipdatetime"> 05/16 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oftisa</span><span class="f3 push-content">: 原本的總圖位址在哪？       真的有還是你編的？</span><span class="push-ipdatetime"> 05/16 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 說穿了，總圖比較像是「一個城市&#34;圖書資源&#34;的像徵」，但</span><span class="push-ipdatetime"> 05/16 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 實際效用不如美術館來的大。</span><span class="push-ipdatetime"> 05/16 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 原本還比較好</span><span class="push-ipdatetime"> 05/16 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 圖書館都是爆滿的</span><span class="push-ipdatetime"> 05/16 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 美術館可以一直換裡面的展覽內容後，另外也做很多遊戲設</span><span class="push-ipdatetime"> 05/16 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 特別是周末</span><span class="push-ipdatetime"> 05/16 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 施，像前幾天開幕的兒童美術館。是大受好評。</span><span class="push-ipdatetime"> 05/16 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sunny821210</span><span class="f3 push-content">: 設計圖看起來真不錯</span><span class="push-ipdatetime"> 05/16 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 原本的位址至少內壢的人 八德的人還會去 也離桃園市中心</span><span class="push-ipdatetime"> 05/16 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 近</span><span class="push-ipdatetime"> 05/16 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jurists</span><span class="f3 push-content">: 改在那根本就是給那些桃園豪宅增加一個炒地皮的理由</span><span class="push-ipdatetime"> 05/16 23:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 所謂的圖書館爆滿都是K書區，其實你要K書，不如挑離家近</span><span class="push-ipdatetime"> 05/16 23:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovejamwu</span><span class="f3 push-content">: 終於有重視桃園區的了</span><span class="push-ipdatetime"> 05/16 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 的圖書分館，甚至有些里民活動中心、社區中心都有K書室</span><span class="push-ipdatetime"> 05/16 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo51</span><span class="f3 push-content">: 終於可以不用去文化中心了</span><span class="push-ipdatetime"> 05/17 09:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494948061.A.0D0.html?cacheKey=2052-38004937&offset=5500&offset-sig=06df01a97babf39250a72b666855b8358b1bf730" data-longpollurl="/v1/longpoll?id=ab8181a5ce25dc005751a9afb8a788a4c31e460d" data-offset="5500"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

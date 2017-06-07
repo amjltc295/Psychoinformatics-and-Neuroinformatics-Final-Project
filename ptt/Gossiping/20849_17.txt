@@ -1,0 +1,213 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495512616.A.2E6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 對戰AlphaGo　柯潔：絕不會後退 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="NOWnews
+對戰AlphaGo　柯潔：絕不會後退
+新聞網址
+https://goo.gl/ANQro9
+直播網址
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 對戰AlphaGo　柯潔：絕不會後退">
+<meta property="og:description" content="NOWnews
+對戰AlphaGo　柯潔：絕不會後退
+新聞網址
+https://goo.gl/ANQro9
+直播網址
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495512616.A.2E6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495512616.A.2E6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">RS21EFi (Shark)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 對戰AlphaGo　柯潔：絕不會後退</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 12:10:12 2017</span></div>
+NOWnews
+對戰AlphaGo　柯潔：絕不會後退
+
+
+新聞網址
+<a href="https://goo.gl/ANQro9" target="_blank" rel="nofollow">https://goo.gl/ANQro9</a>
+
+直播網址
+<a href="https://goo.gl/couWVz" target="_blank" rel="nofollow">https://goo.gl/couWVz</a>
+
+根據《北京青年報》報導，柯潔與Google的AlphaGo今日將在浙江烏鎮展開對戰，儘管多
+數圍棋界及專業人士並不看好柯潔贏此次比賽，他仍以輕鬆心情來面對，甚至賽前大曬與
+家人出遊照並且在微博上嗆聲，「冷冰冰機器對圍棋不像人類一樣有熱情」，另外宣佈這
+是此生與人工智慧最後3盤對局。
+
+雖然外界爭論人類與機器大戰勝負之爭討論的沸沸揚揚，在正式大賽之前，但是柯潔卻顯
+得一派輕鬆，柯潔在微博上曬出了一家同遊風景區的自拍照，與外界討論形成強烈對比。
+
+
+
+柯潔甚至在微博發表自己對人工智慧的感言，「現在的AI進步之快遠超我們的想像。像國
+產的絕藝、日產的ZEN雖然和AIphago還有著較大差距，但已經表現出超強的實力了，我相
+信未來是屬於人工智慧的。表示自己會全力以赴打贏這場戰」。
+
+
+
+本次大賽，主辦方設置的獎金是三番棋獲勝方將可以得到150萬美元（約新台幣約4,500萬
+元）。而不論勝負，出場費也高達30萬美元（約新台幣約4,500萬元）。
+
+
+
+
+
+柯潔與AlphaGo的三番棋對戰，在5月23、25、27日進行。此外，圍棋峰會還安排了人機配
+對賽和一場團隊人機賽，分別在5月24日和26日進行。人機配對賽將由連笑和古力與Alpha
+Go組隊，配合比賽。團隊人機賽由羋昱廷、時越、唐韋星、周睿羊、陳耀燁五位棋手組隊
+，一起挑戰AlphaGo。原文詳見：<a href="http://www.limitlessiq.com/" target="_blank" rel="nofollow">http://www.limitlessiq.com/</a>
+
+【本文經智慧機器人網同意授權刊出】
+
+
+
+柯潔在22日晚在微博發表文章《最後的對決》：
+
+決戰前夕，感慨萬千...
+
+在這個特殊的時間，我有些話想和熱愛圍棋、關注圍棋、關注我的朋友們說:
+
+無論輸贏，這都將是我與人工智慧最後的三盤對局
+
+很多人可能會問為什麼？
+
+其實私底下我已經與朋友家人說了很多次這樣的想法，現在的AI進步之快遠超我們的想像
+。像國產的絕藝、日產的ZEN雖然和AIphago還有著較大差距，但已經表現出超強的實力了
+...我相信未來是屬於人工智慧的。
+
+可它始終都是冷冰冰的機器，與人類相比，我感覺不到它對圍棋的熱情和熱愛。對它而言
+...它的熱情——也只不過是運轉速度過快導致CPU發熱罷了。
+
+我會我用所有的熱情去與它做最後的對決，不管面對再強大的對手——我也絕不會後退！
+至少這...最後一次...
+
+拼盡全力後，無論結果...管他口中是是非非，來一首《滄海一聲笑》..豈不美哉、快意
+？我淡然笑到...
+
+不眠夜，且看且珍惜，請大家欣賞我最後的三盤人機大戰。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.163.74.61
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495512616.A.2E6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495512616.A.2E6.html</a>
+</span><span class="f2">※ 編輯: RS21EFi (118.163.74.61), 05/23/2017 12:10:43
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Reynad1994</span><span class="f3 push-content">: 先壓Alpha go</span><span class="push-ipdatetime"> 05/23 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">haha98</span><span class="f3 push-content">: 可是他裡面是tpu吧</span><span class="push-ipdatetime"> 05/23 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nctugoodman</span><span class="f3 push-content">: 光出場費就先拿３０萬美，我也不會後退</span><span class="push-ipdatetime"> 05/23 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SE4NLN415</span><span class="f3 push-content">: 26屁話很多 反觀李世石不給自己任何藉口 中國人丟臉死</span><span class="push-ipdatetime"> 05/23 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mradult</span><span class="f3 push-content">: 還沒下就先崩潰，心理層面就輸了，當初還敢嘴李世石</span><span class="push-ipdatetime"> 05/23 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NyDea</span><span class="f3 push-content">: 出場跟勝利都4500萬</span><span class="push-ipdatetime"> 05/23 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">player8</span><span class="f3 push-content">: 停電或當機，算人類贏嗎？</span><span class="push-ipdatetime"> 05/23 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jimiyu</span><span class="f3 push-content">: 獎金新台幣部份寫錯</span><span class="push-ipdatetime"> 05/23 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 在跟李對戰之前，絕大部分的人都看衰AlphaGO吧</span><span class="push-ipdatetime"> 05/23 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tumusi</span><span class="f3 push-content">: 王賤民最愛嘴</span><span class="push-ipdatetime"> 05/23 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 現在AlphaGO不只是贏過李，前日子還虐爆那些中國棋士</span><span class="push-ipdatetime"> 05/23 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s9623452</span><span class="f3 push-content">: 下圍棋就坐著 要退啥小</span><span class="push-ipdatetime"> 05/23 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 有直播嗎？</span><span class="push-ipdatetime"> 05/23 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 有崩潰吧 感覺有點悲壯感</span><span class="push-ipdatetime"> 05/23 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 直播網址 <a href="https://youtu.be/Z-HL5nppBnM" target="_blank" rel="nofollow">https://youtu.be/Z-HL5nppBnM</a></span><span class="push-ipdatetime"> 05/23 12:15
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/Z-HL5nppBnM" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">malaman</span><span class="f3 push-content">: 蚑豽最行的就那張嘴</span><span class="push-ipdatetime"> 05/23 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">phix</span><span class="f3 push-content">: 出場費應該有滿意</span><span class="push-ipdatetime"> 05/23 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dean1990</span><span class="f3 push-content">: 美金30萬=臺幣4500萬？？？？？</span><span class="push-ipdatetime"> 05/23 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 中國人出嘴最厲害了，好大喜功</span><span class="push-ipdatetime"> 05/23 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blacktea5566</span><span class="f3 push-content">: 輸了也能拿30萬美 就算被電爆也沒差好嗎</span><span class="push-ipdatetime"> 05/23 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fishouse</span><span class="f3 push-content">: 腦記者又不校稿了  全都4500萬台幣好啦</span><span class="push-ipdatetime"> 05/23 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 人家至少是棋王啊出張嘴還好吧  比連出嘴資格都沒有的好</span><span class="push-ipdatetime"> 05/23 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: 感覺在布陣 但還是會輸</span><span class="push-ipdatetime"> 05/23 12:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blacktea5566</span><span class="f3 push-content">: 白癡記者連這麼少字的新聞都不校稿 素質真的低落</span><span class="push-ipdatetime"> 05/23 12:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">breaststroke</span><span class="f3 push-content">: 4500</span><span class="push-ipdatetime"> 05/23 12:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vul3vmp4</span><span class="f3 push-content">: 準備輸一輸吧</span><span class="push-ipdatetime"> 05/23 12:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">w9</span><span class="f3 push-content">: 4500萬元vs4500萬元 都幾</span><span class="push-ipdatetime"> 05/23 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">perpetual</span><span class="f3 push-content">: 看來是位擅長心理戰的棋王，可惜電腦不吃這套</span><span class="push-ipdatetime"> 05/23 12:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerico</span><span class="f3 push-content">: 為何nownew的直撥差了YOUTUBE 10分鐘？</span><span class="push-ipdatetime"> 05/23 13:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495512616.A.2E6.html?cacheKey=2052-38130125&offset=5264&offset-sig=1418f91d3d88c277a9538417a64c68097b03b5f4" data-longpollurl="/v1/longpoll?id=3fd76522e847c1cd5ee3f11a8a552374056093e8" data-offset="5264"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

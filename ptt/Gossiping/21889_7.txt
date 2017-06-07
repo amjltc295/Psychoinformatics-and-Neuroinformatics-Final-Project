@@ -1,0 +1,211 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496203394.A.439.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 翁闖逆向公車道 被撞死 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+翁闖逆向公車道 被撞死
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 翁闖逆向公車道 被撞死">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+翁闖逆向公車道 被撞死
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496203394.A.439.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496203394.A.439.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">k44754 (9527)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 翁闖逆向公車道 被撞死</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 12:03:12 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+
+2.完整新聞標題:
+翁闖逆向公車道 被撞死
+
+
+
+3.完整新聞內文:
+美教授殞命路口 兩月後又一起
+
+【吳珮如、陳思豪╱台北報導】逆向公車道又害命！北市七十多歲的黃姓老翁，去年九月
+穿越仁愛路和復興南路口，沒注意仁愛路有逆向行駛的公車專用道，遭疾駛而過的亞聯客
+運撞死，台北地檢署認定駕駛蔡建宏未注意車前狀況，依業務過失致死罪起訴。這是繼美
+國教授布里吉曼被公車撞死後，近期第二起行人在逆向公車專用道喪命的案例。
+
+
+未注意車前狀況
+
+時隔兩個月後，去年九月十二日黃姓老翁也在同路口闖紅燈穿越馬路，老翁不斷往右看確
+認來車，不料走到公車專用道時，竟被亞聯客運從左撞飛，送醫不治。
+肇事駕駛蔡建宏（五十二歲）辯稱，老翁突然闖紅燈過馬路，他反應不及才會撞上，但交
+通事故委員會鑑定認為，老翁過馬路到一半才被撞，認為駕駛未注意車前狀況也未減速才
+肇事。ꀊ
+客運駕駛遭起訴
+
+檢方考量，路口監視器拍到老翁行動緩慢且是走到一半才被撞，認為駕駛行經路口未減速
+、注意車前狀況才肇事，且雙方和解不成，因此依業務過失致死罪起訴駕駛。
+亞聯客運昨說，全案已進入司法程序，公司不便回應。據了解蔡姓駕駛仍在職，但因病請
+假中。昨聯繫不上死者家屬，不知回應。
+律師鄭光婷指出，依《道路交通安全規則》等規定，車輛經過行人穿越道、斑馬線或轉彎
+時應減速慢行，且行人穿越斑馬線時有絕對路權，即便行人違規闖紅燈穿越斑馬線，駕駛
+仍可能因未注意車前狀況或禮讓行人而有刑責；至於民事賠償，通常會依雙方過失比例，
+分配賠償金額。ꀊ
+已劃「望左」標字
+
+北市交通局表示，目前僅仁愛、信義兩路段有逆向公車道，考量民眾需求與便利性，暫無
+撤掉打算，三月底已在仁愛復興南路口與仁愛大安路口，劃設中英文「望左」與「望右」
+標字，提醒行人注意左右來車，會視試辦成效擴大到其他路口。另肇事路段分隔島有大王
+椰子樹，易遮蔽視線，未來擬將公車站移至靠近路口處，讓行人清楚看到公車。ꀊ
+北市最常肇事5大路口
+
+●中華路與忠孝西路口
+肇事件數：111
+受傷人數：70
+●仁愛路與敦化南路口
+肇事件數：104
+受傷人數：9
+●忠孝東路與基隆路口
+肇事件數：67
+受傷人數：33
+●中山北路與市民大道口
+肇事件數：64
+受傷人數：70
+●信義路與基隆路口
+肇事件數：60
+受傷人數：40
+註：表為去年統計數字，包括車撞車、車撞人合併統計，死亡人數皆為0。
+資料來源：北市交通局ꀊ
+
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="https://goo.gl/Ca24tI" target="_blank" rel="nofollow">https://goo.gl/Ca24tI</a>
+
+5.備註:
+司機有夠衰小
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.238.171
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496203394.A.439.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496203394.A.439.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 哈哈哈哈哈哈哈 除害</span><span class="push-ipdatetime"> 05/31 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sayt5943</span><span class="f3 push-content">: 台北不意外</span><span class="push-ipdatetime"> 05/31 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 衰小公車司機又要被吉了QQ</span><span class="push-ipdatetime"> 05/31 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MUSTANG33</span><span class="f3 push-content">: 司機真衰</span><span class="push-ipdatetime"> 05/31 12:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 公車司機衰了....</span><span class="push-ipdatetime"> 05/31 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starbucks16</span><span class="f3 push-content">: 司機真倒霉</span><span class="push-ipdatetime"> 05/31 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EggAcme</span><span class="f3 push-content">: 公車司機要賠錢了</span><span class="push-ipdatetime"> 05/31 12:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">force5566</span><span class="f3 push-content">: 公車司機：幹</span><span class="push-ipdatetime"> 05/31 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ming0q</span><span class="f3 push-content">: 應注意而未注意 廠廠</span><span class="push-ipdatetime"> 05/31 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 司機真可憐</span><span class="push-ipdatetime"> 05/31 12:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k7t7v7</span><span class="f3 push-content">: 達爾文又加班了</span><span class="push-ipdatetime"> 05/31 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 雖然鬼島公車司機都是垃圾居多，但這老人要死也別拖累別人</span><span class="push-ipdatetime"> 05/31 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orange7</span><span class="f3 push-content">: 公車司機真可憐</span><span class="push-ipdatetime"> 05/31 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s1032kj</span><span class="f3 push-content">: 公車司機真可憐</span><span class="push-ipdatetime"> 05/31 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sid300</span><span class="f3 push-content">: 中華路忠孝西路自從引導拆除一天到晚車禍</span><span class="push-ipdatetime"> 05/31 12:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazws456789</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/31 12:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charlie0112</span><span class="f3 push-content">: 頂尖對決 不錯</span><span class="push-ipdatetime"> 05/31 12:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">schumi7401</span><span class="f3 push-content">: 幫司機QQ 老人送頭司機賠錢 偉大司法</span><span class="push-ipdatetime"> 05/31 12:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">theken866</span><span class="f3 push-content">: 法官腦裡永遠沒有應守法而未守法</span><span class="push-ipdatetime"> 05/31 13:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kobe7610</span><span class="f3 push-content">: 垃圾對決 只是老人剛好死了</span><span class="push-ipdatetime"> 05/31 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asLocal</span><span class="f3 push-content">: 司機真的很衰 我當天剛好等紅燈看到事發經過 行車紀錄器</span><span class="push-ipdatetime"> 05/31 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asLocal</span><span class="f3 push-content">: 也提供給警察看了 當天就是轉黃燈前幾秒 客運加速通過</span><span class="push-ipdatetime"> 05/31 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asLocal</span><span class="f3 push-content">: 阿伯還沒變綠燈就開始走人行道過馬路 剛好走到分隔島</span><span class="push-ipdatetime"> 05/31 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asLocal</span><span class="f3 push-content">: 一棵大樹剛好擋在阿伯跟客運中間 兩造都沒看到彼此</span><span class="push-ipdatetime"> 05/31 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asLocal</span><span class="f3 push-content">: 才發生意外 碰撞聲超大 阿伯大概飛了5公尺以上的距離</span><span class="push-ipdatetime"> 05/31 15:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496203394.A.439.html?cacheKey=2052-2756901&offset=4809&offset-sig=cc515e2151999f1dde306a8d0ad2bced42afe6f4" data-longpollurl="/v1/longpoll?id=f765921d6c198bf6c15eaeee2e36b8c542553452" data-offset="4809"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

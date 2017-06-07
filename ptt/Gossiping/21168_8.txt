@@ -1,0 +1,182 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495705053.A.FDD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 用Line打電話小心！實測電磁波飆50萬倍 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+新頭殼
+2.完整新聞標題:
+用Line打電話小心！立委實測電磁波最高飆升50萬倍
+3.完整新聞連結 (或短網址):
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 用Line打電話小心！實測電磁波飆50萬倍">
+<meta property="og:description" content="1.媒體來源:
+新頭殼
+2.完整新聞標題:
+用Line打電話小心！立委實測電磁波最高飆升50萬倍
+3.完整新聞連結 (或短網址):
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495705053.A.FDD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495705053.A.FDD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ernie80823 (汪)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 用Line打電話小心！實測電磁波飆50萬倍</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 17:37:31 2017</span></div>
+1.媒體來源:
+<span class="hl">新頭殼</span>
+
+2.完整新聞標題:
+<span class="hl">用Line打電話小心！立委實測電磁波最高飆升50萬倍</span>
+
+3.完整新聞連結 (或短網址):
+<a href="http://newtalk.tw/news/view/2017-05-25/87639" target="_blank" rel="nofollow"><span class="b4 hl">http://newtalk.tw/news/view/2017-05-25/87639</span></a>
+
+4.完整新聞內文:
+用Line打電話可能增加50萬倍電磁波？民進黨立委劉建國陪同台灣電磁輻射公害防治協會今（25）天於立法院召開記者會，指責「NCC中區辦公室」日前公布一段影片，指出Line打電話不會發生之前網路謠傳「飆升6萬倍電磁波」的情況；協會理事長陳椒華公布環團實測數據，並在現場實測，指出用Line打電話，仍然會使電磁波飆升142-50萬倍。
+
+陳椒華表示，協會於6處實測平均電磁波背景值為0.143豪瓦／平方公尺，用Line打電話的電磁波檢測值則從100到500豪瓦／平方公尺不等，增加倍數從最低142倍到最高50萬倍不等。
+
+劉建國與陳椒華於現場以民團自備機器測試「HTC手機」以Line撥打電話的電磁波數值與環境背景值比較，測試到電磁波背景值約1豪瓦／平方公尺，但當用line手機撥打時，馬上增加為500豪瓦／平方公尺，為背景值的500倍，用NCC機器測試則是400豪瓦／平方公尺，為400倍。
+
+但會後，記者用民團機器以另一台「HTC手機」測試「Line撥打前後的電磁波數值」時，撥打前後僅從10豪瓦／平方公尺增加到100豪瓦／平方公尺，增加10倍；用「iphone手機」測試時，更僅從4豪瓦／平方公尺增加到8豪瓦／平方公尺，僅增加2倍。陳椒華表示，測值可能因不同電信公司、手機型號、有無開啟WiFi，而有不同。
+
+劉建國表示，之所以召開記者會，是因為NCC中部辦公室發出影片，表示使用Line打電話的電磁波風險很低，這段影片在網路上瘋傳；然而NCC網站上卻未公布相關訊息，也沒有出來澄清。因此，將儀器帶到現場操作測試，說明事實真相。
+
+環保署空品及噪音管制處胡明輝簡任視察則表示，2012年環保署針對「行動電話基地台」所定出的「限制時變電場、磁場及電磁場曝露指引」中，2100MHz的行動電話基地台的「非游離輻射環境建議值」是「1.00毫瓦／平方公分」也就是「10,000毫瓦／平方公尺」。
+
+NCC中區監理處處長黃琮祺接著說，因此環團現場測到的數值，都還比上述建議值要少500倍以上；陳椒華則質疑，環保署的建議值是「瞬間值」，是「3秒鐘」的標準，但是，用Line講電話不會只有3秒鐘，仍無法說明對人體健康無虞；胡明輝則回應，長時間暴露會危害人體安全的數值，目前全世界還沒有標準，陳椒華則指控環保署騙人，指出「瑞士」就有室內暴露值的標準。
+
+黃琮祺也坦承，他就是當初拍攝並發布影片的人，但當時只是想說既然手邊有儀器，便臨時拍攝影片，希望臉友不要恐慌，沒想到造成瘋傳。但他仍堅持Line並不會特別讓電磁波飆高，手機出廠時，也有檢驗認證，因此不必特別恐慌。台灣生態學會張豐年醫師則痛批，黃琮祺是拿NCC的公產「公器私用」，且電磁波被WHO列為「2B致癌物」，NCC應該對民間交代，環保署應該嚴格把關。
+
+劉建國總結指出，民眾常用Line打電話，電磁波會引發國人關心。然而台灣環保署卻沒有訂出標準，只訂出電磁波「瞬間值」的「指引」，但不只瞬間值，還有室內值、長期使用對人體造成傷害的指引與標準都沒有訂出來。
+
+劉建國說，在沒有訂出標準的情況下，不管NCC官員的善意與否，也不能宣稱對人體沒危害，且影片已廣為流傳，讓大眾掉以輕心，也讓國家公信力受損。他認為，環保署應該在網站上把國家對於電磁波相關規範說明清楚，也不能因為其他國家沒有訂出來，就有官員宣稱說Line安全無虞，應該訂定嚴謹標準，讓社會大眾有所依循。
+
+5.備註:
+個人不是很喜歡環團的說法，
+姑且先不懷疑他們提出的前測數據；
+因為是以「Line撥打電話」以及「<span class="hl">環境背景值</span>」相比較的倍數；
+因此在「環境背景值」極低的地方做相同的測試，倍數自然飆高；
+但若僅比較「<span class="hl">Line撥打電話前後</span>的手機電磁波測值」，
+則經由記者在現場實測，倍數大概是2倍到數百倍還比較精準一點。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.227.189.131
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495705053.A.FDD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495705053.A.FDD.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sclbtlove</span><span class="f3 push-content">: 喔是喔真的假的</span><span class="push-ipdatetime"> 05/25 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bob120400</span><span class="f3 push-content">: 喔 好險我用藍芽耳機</span><span class="push-ipdatetime"> 05/25 17:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 蛤</span><span class="push-ipdatetime"> 05/25 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dorydoze</span><span class="f3 push-content">: 講久了可以發展特異功能嗎?</span><span class="push-ipdatetime"> 05/25 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jacky841224j</span><span class="f3 push-content">: 上次才在科技網站看到實測說破除流言，現在又說有？</span><span class="push-ipdatetime"> 05/25 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">impact999</span><span class="f3 push-content">: 電磁波豪可怕 小心不能曬到太陽QQ</span><span class="push-ipdatetime"> 05/25 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shcjosh</span><span class="f3 push-content">: 這個謠言還在傳??<a href="https://goo.gl/8yITyx" target="_blank" rel="nofollow">https://goo.gl/8yITyx</a></span><span class="push-ipdatetime"> 05/25 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maysh</span><span class="f3 push-content">: 喔是喔</span><span class="push-ipdatetime"> 05/25 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fim</span><span class="f3 push-content">: 到底???</span><span class="push-ipdatetime"> 05/25 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: HTC喔 不意外 用微信就沒問題了</span><span class="push-ipdatetime"> 05/25 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s655131</span><span class="f3 push-content">: 文組</span><span class="push-ipdatetime"> 05/25 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ReallyWayne</span><span class="f3 push-content">: 好恐怖 現打個line電話壓壓驚</span><span class="push-ipdatetime"> 05/25 17:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 噁心 新頭殼真的可以拒看 爛媒體</span><span class="push-ipdatetime"> 05/25 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DarkyIsCat</span><span class="f3 push-content">: 不是證實沒有嗎，媒體?</span><span class="push-ipdatetime"> 05/25 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doom3</span><span class="f3 push-content">: 所以五十萬倍在哪?</span><span class="push-ipdatetime"> 05/25 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ernie80823</span><span class="f3 push-content">: 這個記者會就是針對NCC闢謠的回應，也有實測的數據</span><span class="push-ipdatetime"> 05/25 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">redmool</span><span class="f3 push-content">: 搬去山裡就沒有了</span><span class="push-ipdatetime"> 05/25 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 小時不讀書 長大當記者 笨就算了 連記憶力也出問題了嗎？</span><span class="push-ipdatetime"> 05/25 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ernie80823</span><span class="f3 push-content">: 50萬倍是環團測的 記者實測的倍數是2倍到數百倍</span><span class="push-ipdatetime"> 05/25 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kyo5566</span><span class="f3 push-content">: 幸好我都用心靈感應 不會被電磁波影響到</span><span class="push-ipdatetime"> 05/25 17:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sabo5566</span><span class="f3 push-content">: 白痴</span><span class="push-ipdatetime"> 05/25 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ken70218</span><span class="f3 push-content">: 這記者有國小畢業嗎</span><span class="push-ipdatetime"> 05/25 17:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ian1658</span><span class="f3 push-content">: 椒 你故意的吧</span><span class="push-ipdatetime"> 05/25 17:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">icps</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/25 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m21423</span><span class="f3 push-content">: 開飛航當基準真的可以達數十萬倍</span><span class="push-ipdatetime"> 05/25 18:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 低能團體，立委還跟著起舞</span><span class="push-ipdatetime"> 05/25 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hackfox</span><span class="f3 push-content">: 講電話電磁波也是會上升阿,這實驗沒什麼意義</span><span class="push-ipdatetime"> 05/25 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyodio</span><span class="f3 push-content">: 87團體</span><span class="push-ipdatetime"> 05/25 20:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495705053.A.FDD.html?cacheKey=2052-1336539&offset=6226&offset-sig=924a75b21beddab25d099e9d0ee3b567b20fe87f" data-longpollurl="/v1/longpoll?id=1f50511491ae598e5a3d1333b25d9bb2e3d6f548" data-offset="6226"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

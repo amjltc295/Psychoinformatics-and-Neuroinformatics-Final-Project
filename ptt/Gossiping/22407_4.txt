@@ -1,0 +1,241 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496536623.A.A94.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 少子化、人才外流 台灣陷缺才4大危機 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+少子化、人才外流 台灣陷缺才4大危機
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 少子化、人才外流 台灣陷缺才4大危機">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+少子化、人才外流 台灣陷缺才4大危機
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496536623.A.A94.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496536623.A.A94.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Workforme (′‧ω‧‵)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 少子化、人才外流 台灣陷缺才4大危機</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 08:36:58 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+少子化、人才外流 台灣陷缺才4大危機
+
+3.完整新聞內文:
+少子化、人才外流 台灣陷缺才4大危機
+2017-06-04
+
+〔編譯楊芙宜、記者陳梅英、高嘉和／綜合報導〕少子化與人口老化早成為我國國安問題
+，且近十年來人才不斷外移，<span class="f3 hl">台灣正陷入缺才四大危機，包括人才逆差擴大、高出低進惡
+</span><span class="f3 hl">化、工作人口下滑及人才赤字全球最嚴重</span>，<span class="f1 hl">不僅阻礙產業轉型升級，更無法解決低薪困境</span>
+。
+
+<span class="f3 hl">工作人口降 繳稅族群減</span>
+
+根據國發會最新人口推估數字，在生育率長期低迷下，台灣工作年齡人口早在二○一五年
+到達高峰的一七三六萬人後開始往下降，預估到二○六一年僅剩九四六萬人，下降幅度達
+四十五％。
+
+同期間老年人口將攀升到七一五萬人，占總人口比達三十八．九％，幼年人口卻從去年的
+三一四萬餘人逐年降低到一七五萬餘人，屆時扶養比將從三十六．二％攀升到九十四．二
+％；也就是隨著工作人口減少，未來台灣社會負擔經濟產出及稅金的族群正快速減少。
+
+<span class="f3 hl">人才外移 10年人數倍增</span>
+
+另主計總處發佈的「二○一五年國人赴海外工作人數統計」，赴海外工作者達七十二．四
+萬人，較二○○九年六十六．二萬人增加六萬多人；若再以二○○五年概估數的三十四萬
+人相較，十年來人數是倍增。
+
+再對比持有效聘僱許可在台工作的外國專業人士到前年才首次超過三萬人次，到去年底也
+僅三．一萬餘人次，因專業人才流出者眾、流入者稀，已出現人才逆差不斷擴大情況。
+
+<span class="f3 hl">外勞創高 人才高出低進</span>
+
+相對於外國專業人才難來台，我國卻引進大量藍領外勞。根據勞動部統計，二○○八年馬
+政府初執政，外勞人數僅三十六．五萬人，到去年中已破六十萬人。
+
+相較國人赴海外工作者中，男性、大專及以上程度與二十五至五十九歲者分別占五十六．
+一％、七十二．五二％與八十四．六九％，台灣人才「高出低進」情況持續惡化。
+
+<span class="f3 hl">人才供需慘 法規也落後</span>
+
+此外，根據英國牛津經濟研究院（Oxford Economics）的「全球人才二○二一」報告（
+Global Talent 2021）發現，在調查的四十六國中，台灣以「負一．五」的人才赤字倒數
+第一，被列為二○二一年全球技術人才會出現供需落差最嚴重國家；大輸人力資產豐沛的
+印度（正二．一）、具高專人才盈餘的卡達（正○．六）、人才供需平衡的中國（零），
+甚至比日本（負一．四）、南韓（負○．九）還慘。
+
+瑞士洛桑管理學院（ＩＭＤ）近日公布的「二○一七年世界競爭力年報」及「世界數位競
+爭力評比」也指出，台灣無論在外國人才僱用、人才外流、吸引高階外國人才等排名都不
+盡理想，移民法規更是全球後段班（第四十七）。
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/focus/paper/1107713" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/focus/paper/1107713</a>
+
+5.備註:
+(〒︵〒)
+
+--
+<span class="f1 hl">  </span>18271     7/14 -            □                            　希望你在天之靈
+  18272     7/14 -           <span class="f0"> </span>□  <span class="f0">◢</span><span class="f0 b7">;</span><span class="f0 b7 hl">回</span><span class="f0 b7">&#34;</span>◣<span class="f0">     </span>  <span class="f0 b7">－    －</span>     可以保佑就可版
+  18273   <span class="f2 hl">3 </span>7/14 -            □  <span class="f0 b7">▌.</span><span class="f0 b7 hl">一</span><span class="b7"> </span>▌       <span class="b7 hl">▼▼▼▼</span>   ╯
+  18274     7/14 -            □  <span class="f0 b7">▌</span><span class="f1 b7 hl"> </span><span class="f0 b7 hl">行</span><span class="f1 b7 hl"> </span>▌   <span class="f0 hl">ζ</span>  <span class="b7 hl">▲▲▲▲</span>
+  18275     7/14 -<span class="f0"> </span>          <span class="f0"> </span>□  <span class="f0 b7">▌</span><span class="b7"> </span><span class="f0 b7 hl">文</span><span class="f0 b7">#</span>▌  <span class="f1 hl">...</span>   /<span class="f0 b6 hl">      </span>)
+  18276     7/14 -            □ <span class="f0">─</span><span class="f0 b7">▄▄▄</span>─ <span class="f3">\|/</span>     |   |               ψArmou
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.37.128.71
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496536623.A.A94.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496536623.A.A94.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 薪水給多少還敢哭么</span><span class="push-ipdatetime"> 06/04 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winwoeld</span><span class="f3 push-content">: ..蔡英文執政 不意外</span><span class="push-ipdatetime"> 06/04 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rattenn</span><span class="f3 push-content">: 都是因為低薪啊</span><span class="push-ipdatetime"> 06/04 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LOGICOMA</span><span class="f3 push-content">: 年輕人早該逃啦</span><span class="push-ipdatetime"> 06/04 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 奇怪，怎麼我的老闆並不這麼覺得？每天都在喊勞工過剩！</span><span class="push-ipdatetime"> 06/04 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otsuka123</span><span class="f3 push-content">: 台商的產值只請的起東南亞人 現在還要開放低薪白領</span><span class="push-ipdatetime"> 06/04 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doctor75</span><span class="f3 push-content">: 高房價害的</span><span class="push-ipdatetime"> 06/04 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rkb84</span><span class="f3 push-content">: 官僚：法規都有弄啊，勞工自己不爭氣。</span><span class="push-ipdatetime"> 06/04 08:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">otsuka123</span><span class="f3 push-content">: 本地人外流速度會更快 以後只剩留在台灣的人會被壓搾</span><span class="push-ipdatetime"> 06/04 08:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diadem1122</span><span class="f3 push-content">: 高房價 低所得 政府依然看不見 不管是哪個都一樣</span><span class="push-ipdatetime"> 06/04 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 慣老闆:趕快開放低薪白領，台勞太貴了我不想請</span><span class="push-ipdatetime"> 06/04 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yauaia</span><span class="f3 push-content">: 笑死 還不是垃圾政客弄出來的</span><span class="push-ipdatetime"> 06/04 08:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amethystboy</span><span class="f3 push-content">: 豬油不可信</span><span class="push-ipdatetime"> 06/04 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lotus12350</span><span class="f3 push-content">: 把人逼得出走，又在那邊唉外流</span><span class="push-ipdatetime"> 06/04 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iosian</span><span class="f3 push-content">: 解決的方法只有一個,給兩根香蕉</span><span class="push-ipdatetime"> 06/04 08:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wen9008</span><span class="f3 push-content">: 希望2020柯P可以出來選總統 只有他敢做事</span><span class="push-ipdatetime"> 06/04 08:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onyxx</span><span class="f3 push-content">: 自己去跟老闆說啊</span><span class="push-ipdatetime"> 06/04 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">elcatel</span><span class="f3 push-content">: 外勞可以安心在台工作，台灣工人上了年紀只能做清潔工作</span><span class="push-ipdatetime"> 06/04 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">startiger</span><span class="f3 push-content">: 柯屁降建商屯房豪宅稅還有人在造神，難怪人才都想走</span><span class="push-ipdatetime"> 06/04 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pigdog0305</span><span class="f3 push-content">: 我只知道說…南部22k有些人領的很開心</span><span class="push-ipdatetime"> 06/04 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 人才外移是假的 台灣老闆都說台灣沒人才了 哪來人才外移</span><span class="push-ipdatetime"> 06/04 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 平行時空喔</span><span class="push-ipdatetime"> 06/04 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 台灣只有低薪奴才 沒有什麼人才</span><span class="push-ipdatetime"> 06/04 08:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">christopherl</span><span class="f3 push-content">: 台灣哪需要人才 只需要奴才</span><span class="push-ipdatetime"> 06/04 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ex1986512</span><span class="f3 push-content">: 島內缺人材 人材確外流  一個現實 島內三流企業養不起</span><span class="push-ipdatetime"> 06/04 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">testutw</span><span class="f3 push-content">: 整天砲慣老闆還是沒被處理 有屁用</span><span class="push-ipdatetime"> 06/04 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ex1986512</span><span class="f3 push-content">: 人材  但卻能活下來  台灣為了讓三流企業存活 耗費國力</span><span class="push-ipdatetime"> 06/04 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wyvernlee</span><span class="f3 push-content">: 鬼島慣老闆：你們要求薪水太高，沒有競爭力啊!</span><span class="push-ipdatetime"> 06/04 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rooo2012</span><span class="f3 push-content">: 立法院灑錢計畫急忙通過，過時法規卻置之不理</span><span class="push-ipdatetime"> 06/04 09:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: 所以8800億有幫忙到嗎？</span><span class="push-ipdatetime"> 06/04 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arcc</span><span class="f3 push-content">: 沒事兒~~引進外籍人才與機器人全自動化即可解決</span><span class="push-ipdatetime"> 06/04 09:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">abakama</span><span class="f3 push-content">: 外流? 怪我囉?</span><span class="push-ipdatetime"> 06/04 09:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 反正全推給勞工就對了 老闆是神你敢嘴</span><span class="push-ipdatetime"> 06/04 09:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">confri427</span><span class="f3 push-content">: And then? And then? And then? And then? And then?</span><span class="push-ipdatetime"> 06/04 09:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 8800億都要丟到軌道計畫了</span><span class="push-ipdatetime"> 06/04 09:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 吱油時報是支那9.2媒體</span><span class="push-ipdatetime"> 06/04 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">juhn</span><span class="f3 push-content">: 顏色對了！內容...........疑？</span><span class="push-ipdatetime"> 06/04 09:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james0146</span><span class="f3 push-content">: 引進外籍白領，這些問題一次解決</span><span class="push-ipdatetime"> 06/04 09:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 引進外籍白領 只會讓中低階本勞薪水拉不上來 死得更快</span><span class="push-ipdatetime"> 06/04 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 現在只有中產不生小孩 到時連基層勞工都不生 就好笑了</span><span class="push-ipdatetime"> 06/04 09:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kangta0819</span><span class="f3 push-content">: 老屁股表示不在乎</span><span class="push-ipdatetime"> 06/04 09:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 物價一直漲 薪水停滯不前的狀況下 只會讓生育率更低</span><span class="push-ipdatetime"> 06/04 09:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 繼續炒房就好啦，天龍人坐著也會轉啦</span><span class="push-ipdatetime"> 06/04 09:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 台灣就在內鬥內耗啊 只想到選舉跟利益而已</span><span class="push-ipdatetime"> 06/04 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 反正鬥垮敵對黨跟其支持者 他們就覺得贏了 輸掉台灣也無</span><span class="push-ipdatetime"> 06/04 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 所謂</span><span class="push-ipdatetime"> 06/04 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 然後 DPP 好像都不知道…</span><span class="push-ipdatetime"> 06/04 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wunhong</span><span class="f3 push-content">: 幹啊臺灣都只剩老垃圾啊~</span><span class="push-ipdatetime"> 06/04 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cores</span><span class="f3 push-content">: 太慘了，看不到未來。不動產持有稅要加重，先殺房價</span><span class="push-ipdatetime"> 06/04 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cores</span><span class="f3 push-content">: 房價收入比降，才有成家消費生子的慾望，良性循環。</span><span class="push-ipdatetime"> 06/04 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 真的ㄟ 外勞一直進來 很強的不是去中國就美國..</span><span class="push-ipdatetime"> 06/04 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 台灣確實會越來越差 一堆中小企業不斷用以前方法賺錢</span><span class="push-ipdatetime"> 06/04 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EggAcme</span><span class="f3 push-content">: 全部加起來就是垃圾老闆阿</span><span class="push-ipdatetime"> 06/04 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 引進外勞也只是盡量不要那麼早關門 維持獲利</span><span class="push-ipdatetime"> 06/04 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dly</span><span class="f3 push-content">: 最後台灣只剩一堆8+9還有跟對面差不多水準的台灣鯛，哈哈哈。</span><span class="push-ipdatetime"> 06/04 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LoveMakeLove</span><span class="f3 push-content">: 民主自由能解決一切</span><span class="push-ipdatetime"> 06/04 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">morphology</span><span class="f3 push-content">: 快修法規啊</span><span class="push-ipdatetime"> 06/05 12:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496536623.A.A94.html?cacheKey=2052-568843&offset=8990&offset-sig=84ef6a912a5bfe8e834e0648d22a8e1c1742bf26" data-longpollurl="/v1/longpoll?id=3df743959387226faabd08182a062405035b6dab" data-offset="8990"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

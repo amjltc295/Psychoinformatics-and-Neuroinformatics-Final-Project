@@ -1,0 +1,169 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496167444.A.781.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>大陸很棒的節目 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="https://youtu.be/rkVoN4GOBdI
+https://youtu.be/HVdzq4YVuNg
+還有很多可以自己搜尋
+民眾看了之後捐款熱烈
+https://youtu.be/BNibgbwZsDU
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="大陸很棒的節目">
+<meta property="og:description" content="https://youtu.be/rkVoN4GOBdI
+https://youtu.be/HVdzq4YVuNg
+還有很多可以自己搜尋
+民眾看了之後捐款熱烈
+https://youtu.be/BNibgbwZsDU
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496167444.A.781.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496167444.A.781.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kornkorn78 (阿強)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">大陸很棒的節目</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 02:04:01 2017</span></div>
+<a href="https://youtu.be/rkVoN4GOBdI" target="_blank" rel="nofollow">https://youtu.be/rkVoN4GOBdI</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/rkVoN4GOBdI" frameborder="0" allowfullscreen></iframe></div></div></div>
+<a href="https://youtu.be/HVdzq4YVuNg" target="_blank" rel="nofollow">https://youtu.be/HVdzq4YVuNg</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/HVdzq4YVuNg" frameborder="0" allowfullscreen></iframe></div></div></div>
+還有很多可以自己搜尋
+
+
+民眾看了之後捐款熱烈
+
+<a href="https://youtu.be/BNibgbwZsDU" target="_blank" rel="nofollow">https://youtu.be/BNibgbwZsDU</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/BNibgbwZsDU" frameborder="0" allowfullscreen></iframe></div></div></div>
+人民直接捐現金給需要幫助的本人
+
+不用透過政府 財團 基金會撈一手
+
+感覺是真正有幫助到需要幫助的人
+
+
+如果換成是在台灣播
+
+我猜應該是撥打捐款專線
+
+
+然後錢就不知道到哪裡去了
+
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.138.136.70
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496167444.A.781.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496167444.A.781.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nikon610</span><span class="f3 push-content">: 你的分類勒</span><span class="push-ipdatetime">05/31 02:04
+</span></div><span class="f2">※ 編輯: kornkorn78 (101.138.136.70), 05/31/2017 02:04:23
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BK201DTB</span><span class="f3 push-content">: 分類？</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clark2644</span><span class="f3 push-content">: 分類</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uke3458</span><span class="f3 push-content">: 棒你老師 分類</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 喔 支那賤畜</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">belleaya</span><span class="f3 push-content">: 以下節目未分類</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iga38149</span><span class="f3 push-content">: 分類拉幹</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tsukiyomi157</span><span class="f3 push-content">: 分類也不知到哪裡去了</span><span class="push-ipdatetime">05/31 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 分類</span><span class="push-ipdatetime">05/31 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sam770623</span><span class="f3 push-content">: 請做好垃圾分類</span><span class="push-ipdatetime">05/31 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: 支那賤畜狗雜種</span><span class="push-ipdatetime">05/31 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">manboisold</span><span class="f3 push-content">: 深夜長輩文</span><span class="push-ipdatetime">05/31 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pipiispipi</span><span class="f3 push-content">: 南極大陸?</span><span class="push-ipdatetime">05/31 02:05
+</span></div><span class="f2">※ 編輯: kornkorn78 (101.138.136.70), 05/31/2017 02:06:18
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: 南極大陸沒有分類嗎</span><span class="push-ipdatetime">05/31 02:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Sougetu</span><span class="f3 push-content">: 關我屁事</span><span class="push-ipdatetime">05/31 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michellehot</span><span class="f3 push-content">: 分類啦幹</span><span class="push-ipdatetime">05/31 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mompig</span><span class="f3 push-content">: 哪個大陸？ 澳洲大陸？</span><span class="push-ipdatetime">05/31 02:10
+</span></div><span class="f2">※ 編輯: kornkorn78 (101.138.136.70), 05/31/2017 02:14:00
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kornkorn78</span><span class="f3 push-content">: 手機不太會發文抱歉</span><span class="push-ipdatetime"> 05/31 02:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lysimach</span><span class="f3 push-content">: 國王企鵝</span><span class="push-ipdatetime"> 05/31 02:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 怎麼沒用支付寶呢???  假的，這不是偉大祖國</span><span class="push-ipdatetime"> 05/31 03:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ohrring</span><span class="f3 push-content">: 呆包又在醜化神聖祖國    神聖天朝祖國只有高級支付寶</span><span class="push-ipdatetime"> 05/31 06:41
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496167444.A.781.html?cacheKey=2052-2746451&offset=2866&offset-sig=25e1f813ea9e2bbd6ac5c29dcb6e59e44803188c" data-longpollurl="/v1/longpoll?id=0b4d10cf41e183625cc545f02ce048867f195b8d" data-offset="2866"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,198 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494952702.A.ECB.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 擔任保全下班車禍受傷 結果公司竟不認有 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+擔任保全下班車禍受傷　結果公司竟不認有這員工
+半年前在信義之星保全公司任職的陳科維，
+今年2月下班時閃避違規左轉機車卻摔成重傷，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 擔任保全下班車禍受傷 結果公司竟不認有">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+擔任保全下班車禍受傷　結果公司竟不認有這員工
+半年前在信義之星保全公司任職的陳科維，
+今年2月下班時閃避違規左轉機車卻摔成重傷，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494952702.A.ECB.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494952702.A.ECB.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">pilifonbao (臺灣獨立)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 擔任保全下班車禍受傷 結果公司竟不認有</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 00:38:19 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+擔任保全下班車禍受傷　結果公司竟不認有這員工
+
+半年前在信義之星保全公司任職的陳科維，
+今年2月下班時閃避違規左轉機車卻摔成重傷，
+陳今在市議員童仲彥陪同下指控保全公司不僅不聞不問，
+還銷毀就職證明等資料，
+甚至不願付勞動局認定的30萬元職災賠償金，
+還逼迫恫嚇他簽下3萬元的協議書，
+陳難過表示，他是家裡唯一經濟支柱，有罹癌母親，
+女兒又僅8個月大，現在全家靠每月1萬5的緊急救難金支撐，
+他要求保全公司還他公道。
+
+曾擔任演員的陳科維說，今年二月受傷躺了一個多月公司不聞不問，在他車禍第一天就把
+他的打卡紀錄消滅，
+並向勞動局表示他不是公司員工，
+之後公司派代表與他調解，把他帶到小房間沒收他的手機，
+還恫嚇他只願付3萬元和解金「公司黑白兩道很多人」，
+若不簽就不讓他走，當下被逼得只好簽下，
+但若公司未聘請他，為何要找他去簽和解書?
+陳科維又指，另公司照扣勞健保費用卻未替他保勞健保，
+光是醫藥費就花了7萬多元，公司卻想要用3萬元和解。
+
+陳太太今也出席泣訴，先生車禍初期要照顧老公與小孩，
+常要陪老公跑醫院，事情發生太突然，未來實在不知該怎麼辦?
+童仲彥說，保全公司設立及人員資格，要由市刑大、警察局偵查隊審核通過，
+業者若隱匿、非法聘用不合格保全人員，就已違反保全業法，應裁處10萬元以上罰款。
+童仲彥並指，他發現保全公司疑似登載不實，
+對外聘任人員及參加勞資爭議調解時，公司地址為信義區信義路四段，商業登記卻是在新
+北市汐止，
+是否刻意規避查緝，要求警察局深入追查。
+對此，勞動局則指，二月接獲勞資爭議調解，首次調解不成立，
+資方認為未雇用陳先生，基於雙方願再私下協調，
+為避免破壞私下調解，所以並未立即介入。
+針對未辦勞保部分，將會進行勞檢。
+另去年曾查獲保全公司未全額給付薪資給員工，已要求改善。
+台北市刑大表示，因保全公司登記在新北市，依據《保全業法》保全人員應到新北市送審
+，但保全業可跨轄區營業，
+今天此案例裁罰事證很明確，
+將會把資料彙整後送交新北市進行後續處理，
+至於個案遭強迫脅迫部分，可向警方報案透過法律途徑解決。
+信義之星保全公司僅回應，一切交給司法去處理。（林媛玲／台北報導）
+
+4.完整新聞連結 (或短網址):
+goo.gl/2Pn9nR
+
+5.備註:
+超狂的，台灣黑心老闆無極限，幹!
+
+--
+Sent from my Android
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.140.158.176
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494952702.A.ECB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494952702.A.ECB.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 拉基公司</span><span class="push-ipdatetime">05/17 00:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aliensoul</span><span class="f3 push-content">: 保全業者八成是黑道啊</span><span class="push-ipdatetime">05/17 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UnsraW</span><span class="f3 push-content">: 信義之星      哦哦</span><span class="push-ipdatetime">05/17 00:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ariel780102</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/17 00:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MikuLover</span><span class="f3 push-content">: 公司垃圾 但是當保全還敢生小孩也有問題</span><span class="push-ipdatetime">05/17 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">potential208</span><span class="f3 push-content">: 臺灣一堆這種的</span><span class="push-ipdatetime">05/17 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IronWolf</span><span class="f3 push-content">: 不知道會不會又有人說要共體時艱 害公司倒掉大家都沒工</span><span class="push-ipdatetime">05/17 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">feelfeel</span><span class="f3 push-content">: 噓，說不定人家是中年失業，講的你對他很了解</span><span class="push-ipdatetime">05/17 00:44
+</span></div>你回錯篇了吧? 內文看清楚。
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IronWolf</span><span class="f3 push-content">: 作怎麼辦 老闆開業也很辛苦</span><span class="push-ipdatetime">05/17 00:44
+</span></div>同公司裡的可能很多~~
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starts</span><span class="f3 push-content">: 幹 還有這招喔 長見識了</span><span class="push-ipdatetime">05/17 00:47
+</span></div>怕了吧，看新聞影片嚇得我在想上任何班是否都還得自己保留工作記錄
+<span class="f2">※ 編輯: pilifonbao (223.140.158.176), 05/17/2017 00:50:40
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AA908</span><span class="f3 push-content">: 保全本來就是有作有錢</span><span class="push-ipdatetime">05/17 00:51
+</span></div>這是在講公司該給的合理職災金，不只保全業，就算餐飲業下班車禍也該出。
+<span class="f2">※ 編輯: pilifonbao (223.140.158.176), 05/17/2017 00:55:30
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neilisme</span><span class="f3 push-content">: 沒勞保資料?這樣的話自己問題也很大阿</span><span class="push-ipdatetime">05/17 00:55
+</span></div>是奸商沒幫他保。
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">feelfeel</span><span class="f3 push-content">: 沒回錯呀！我說MikuLover</span><span class="push-ipdatetime">05/17 00:57
+</span></div>嗯，管人家生不生小孩也管太寬。
+<span class="f2">※ 編輯: pilifonbao (223.140.158.176), 05/17/2017 01:00:19
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greysholic</span><span class="f3 push-content">: 每天一上網就是一堆台灣落後的要死的新聞 可悲至極</span><span class="push-ipdatetime"> 05/17 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GimO</span><span class="f3 push-content">: 垃圾公司</span><span class="push-ipdatetime"> 05/17 01:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greysholic</span><span class="f3 push-content">:  永遠不會進步</span><span class="push-ipdatetime"> 05/17 01:10
+</span></div>可能是基因問題吧，原來台灣好多壞人...;不過陳星、郭罐英也不遑多讓。
+<span class="f2">※ 編輯: pilifonbao (223.140.158.176), 05/17/2017 01:32:58
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TJCombo</span><span class="f3 push-content">: 別鬧了，台灣人很有愛心。其中一定有什麼誤會。</span><span class="push-ipdatetime"> 05/17 01:45
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494952702.A.ECB.html?cacheKey=2052-38010365&offset=4424&offset-sig=87b3be5637cefc1ec83b3df34c27f8b9d88853f0" data-longpollurl="/v1/longpoll?id=ff6ce3d7b59c29828c86e12ab095a0d389d07346" data-offset="4424"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

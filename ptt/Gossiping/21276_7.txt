@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495778178.A.4B8.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦]  為何台中以下都是鄉下 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="其實在以前是都有通車的，
+你問一問老一輩的可能也知道，
+這件事至今我也是記憶猶新。
+事情式醬子的，
+在1987年的時候，一輛自O號一如往常在半夜從台北開往高雄時，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦]  為何台中以下都是鄉下">
+<meta property="og:description" content="其實在以前是都有通車的，
+你問一問老一輩的可能也知道，
+這件事至今我也是記憶猶新。
+事情式醬子的，
+在1987年的時候，一輛自O號一如往常在半夜從台北開往高雄時，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495778178.A.4B8.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495778178.A.4B8.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ogginin (嗯。)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦]  為何台中以下都是鄉下</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 13:56:16 2017</span></div>
+<span class="f2">※ 引述《oiukjyhntgb (87%能繼續高)》之銘言：
+</span><span class="f6">: 小弟之後有事要出國，今天一看回航班機是晚上10點多到桃園機場。
+</span><span class="f6">: 不查還好，一查發現到台南高雄都完全沒車了。
+</span><span class="f6">: 無聊看了看發現台中不管自強高鐵客運都能任君挑選，
+</span><span class="f6">: 看來要再機場露宿一晚了，住鄉下臭了嗎QQ
+</span><span class="f6">: -----
+</span><span class="f6">: Sent from JPTT on my iPad
+</span>
+其實在以前是都有通車的，
+你問一問老一輩的可能也知道，
+這件事至今我也是記憶猶新。
+
+事情式醬子的，
+在1987年的時候，一輛自O號一如往常在半夜從台北開往高雄時，
+遭到一群山豬追撞，
+整個事件在短短一個晚上造成了94人死亡87人受傷。
+這件慘案讓台灣政府迅速成立了專案對策小組，
+而研究團隊也發現，
+南部的山豬普遍上是夜行性，並且地盤意識極為強烈。
+雖然一般行動時會盡量不靠近太多人居住的地方，
+可是人在江湖闖，總是會被撞。
+這起慘案也是如此，
+山豬對這個不請自來的大型入侵者群起而攻，
+所以在那晚才會不幸的造成這個意外。
+
+不過這種意外是可以避免的，
+就像戴保險套依樣，
+所以政府就禁止大眾運輸在半夜往南部通車。
+
+小哥你可能涉世未深不太有感觸，
+可是這是政府為了保護你們的安全與權益，
+並不是因為南部是鄉下，你要諒解。
+
+順帶一提，
+山豬對於體型跟自己差不多的外來者就比較僅止於警戒，
+而還不至於直接群起攻擊，
+這也是為何計程車回去車資可能要個3、4K
+用命在開車，總是得多給點打賞。
+
+也為了避免相似慘案發生，
+有打算前往南部玩的男性同胞，
+要注意好車班時段，南北兩樣情，
+所以如果不得已要過夜，請選好住宿點，
+千萬不要露宿野外，躺在地上、椅子上之類，
+山豬平常的食物是香菇跟果子。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.205.90.55
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495778178.A.4B8.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495778178.A.4B8.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 不行</span><span class="push-ipdatetime"> 05/26 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Simonfenix</span><span class="f3 push-content">: …………</span><span class="push-ipdatetime"> 05/26 13:57
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495778178.A.4B8.html?cacheKey=2052-1823799&offset=1765&offset-sig=a216097a5839a78ca01e81376ec2a02b7a669c77" data-longpollurl="/v1/longpoll?id=21151d522a276d4e6e30c9c20f0e97d3ac1d0306" data-offset="1765"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

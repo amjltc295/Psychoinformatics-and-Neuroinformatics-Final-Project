@@ -1,0 +1,175 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495680146.A.818.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 陸信評降級 30年頭一遭 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="2017-05-25 01:48 經濟日報 編譯鍾詠翔／綜合外電
+陸信評降級 30年頭一遭
+法新社
+國際信評機構穆迪（Moody&#39;s）24日調降中國的主權債信評級，是近30年來首見，主要是
+擔心中國的債務風險，質疑大陸能同時促進經濟成長並抑制債務的說法。滙豐分析師認為
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 陸信評降級 30年頭一遭">
+<meta property="og:description" content="2017-05-25 01:48 經濟日報 編譯鍾詠翔／綜合外電
+陸信評降級 30年頭一遭
+法新社
+國際信評機構穆迪（Moody&#39;s）24日調降中國的主權債信評級，是近30年來首見，主要是
+擔心中國的債務風險，質疑大陸能同時促進經濟成長並抑制債務的說法。滙豐分析師認為
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495680146.A.818.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495680146.A.818.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">swwf (十字路口)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 陸信評降級 30年頭一遭</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 10:42:24 2017</span></div>
+2017-05-25 01:48 經濟日報 編譯鍾詠翔／綜合外電
+
+陸信評降級 30年頭一遭
+
+法新社
+國際信評機構穆迪（Moody&#39;s）24日調降中國的主權債信評級，是近30年來首見，主要是
+擔心中國的債務風險，質疑大陸能同時促進經濟成長並抑制債務的說法。滙豐分析師認為
+可能帶動標普等其他信評機構同步調降。
+中國評級遭穆迪調降之後，與日本、以色列、沙烏地阿拉伯和捷克等國相同，比台灣低一
+級，也與另一家信評機構惠譽（Fitch）一致。
+
+去年3月初，穆迪確認中國信評為Aa3，卻將展望調降至負向。惠譽從2007年11月以來就維
+持中國的評等為A+，此級別與穆迪的A1相當。另一家主要信評機構標準普爾（Fitch）去
+年確認中國的評等為AA-，比穆迪的最新評等高一級，但展望下調至負向。上海股市24日
+一度應聲重摔逾1%，尾盤卻硬是收在平盤之上。人民幣走軟，但仍穩守在6.89元附近。穆
+迪24日把中國的債信評級從Aa3下調至A1，其信用品質仍屬「高」水準，展望也從負向調
+整為穩定，但中國信評遭降是1989年來第一次。
+
+此時中國正面臨經濟成長降溫的挑戰，財政也因債務激增而遭遇風險，預期未來幾年中國
+的財政力量會弱化。
+
+穆迪強調，雖然中國推動的改革不斷取得進展，可望帶動經濟結構與金融體系轉型，但仍
+難以阻止整個經濟體系中的債務進一步增加，以及隨之而來的政府或有負債增加。
+
+中國財政部駁斥穆迪的說法根本不成立，表示穆迪低估中國深化供給側結構性改革與擴大
+總需求的能力。彭博資訊的資料顯示，截至去年底中國未償還信貸餘額與國內生產毛額（
+GDP）的比率擴大至260%。滙豐在一份報告中則表示，預估標普在本季結束前也會把中國
+的信評，從AA-調降一級至A+。標普對此則不予置評。
+
+中國債信評等遭降後，上海股市盤中一度重摔1.3%，尾盤卻由黑翻紅，終場小漲0.1%。
+
+京華山一分析師彭偉新認為，尾盤逆轉很可能是中國政府出手干預，北京不想看到大盤跌
+破3,000點。彭博終端機報價顯示，人民幣兌美元收在6.8899元兌1美元，跌0.3%。
+
+澳元等亞幣也走貶，大連商品交易所鐵礦砂價格更重挫5%，報每噸人民幣465元。
+
+4.完整新聞連結 (或短網址):
+<a href="https://money.udn.com/money/story/5603/2483704" target="_blank" rel="nofollow">https://money.udn.com/money/story/5603/2483704</a>
+
+5.備註:
+
+一帶一路和支付寶比較重要^^，信評調降小事，陸股要起飛翻紅，大家抓緊了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.145.192.234
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495680146.A.818.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495680146.A.818.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BEHIND</span><span class="f3 push-content">: ㄏㄏㄏ 打臉上海知青囉</span><span class="push-ipdatetime"> 05/25 10:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aeug2005</span><span class="f3 push-content">: 陸什麼陸？</span><span class="push-ipdatetime"> 05/25 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 五毛進攻囉，穆迪小公司注意啦☺</span><span class="push-ipdatetime"> 05/25 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiminocodo</span><span class="f3 push-content">: 這代表要趕快去中國投資惹！大夥們，衝啊！</span><span class="push-ipdatetime"> 05/25 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Daz2005i</span><span class="f3 push-content">: 一定是DPP外圍組織</span><span class="push-ipdatetime"> 05/25 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">danorken</span><span class="f3 push-content">: 世界都在一帶一路了 只有信評還在調降 咦?</span><span class="push-ipdatetime"> 05/25 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwert1629</span><span class="f3 push-content">: 川普真的是人前手牽手，背後下毒手</span><span class="push-ipdatetime"> 05/25 10:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tctv2002</span><span class="f3 push-content">: 中國覺青快出來崩潰</span><span class="push-ipdatetime"> 05/25 10:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sharb5566</span><span class="f3 push-content">: 不ey</span><span class="push-ipdatetime"> 05/25 10:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smalljacky03</span><span class="f3 push-content">: 豬油不可信</span><span class="push-ipdatetime"> 05/25 10:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kai6366</span><span class="f3 push-content">: 撿便宜啦啦啦啦</span><span class="push-ipdatetime"> 05/25 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">satosi011</span><span class="f3 push-content">: 所以台灣評比 比日本高一級?</span><span class="push-ipdatetime"> 05/25 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">m4tl6</span><span class="f3 push-content">: 有信用才是奇怪啊</span><span class="push-ipdatetime"> 05/25 10:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coollfd</span><span class="f3 push-content">: 正常能量釋放</span><span class="push-ipdatetime"> 05/25 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chichung</span><span class="f3 push-content">: 中國可能會自己出信評公司</span><span class="push-ipdatetime"> 05/25 11:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s81048112</span><span class="f3 push-content">: 不給外匯</span><span class="push-ipdatetime"> 05/25 11:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495680146.A.818.html?cacheKey=2052-54413&offset=3690&offset-sig=a0e768b9b6c6c9cfd85e63f8b0cb8f04aa1ab336" data-longpollurl="/v1/longpoll?id=e1d977519ff9ecb7e5abc10df4155b77734969ef" data-offset="3690"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

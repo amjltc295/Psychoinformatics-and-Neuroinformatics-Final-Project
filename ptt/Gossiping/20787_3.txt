@@ -1,0 +1,199 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495461830.A.A6C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 是不是降工時、加薪，問題就解決了一半？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="你說的是沒錯
+但現在台灣有權力的老一輩、貫老闆
+包含政府官員的思維還是你坐在椅子上的產能跟時間成正比
+當然這種論調是錯誤的
+人並不是機器不可能隨時都在100%的狀態
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 是不是降工時、加薪，問題就解決了一半？">
+<meta property="og:description" content="你說的是沒錯
+但現在台灣有權力的老一輩、貫老闆
+包含政府官員的思維還是你坐在椅子上的產能跟時間成正比
+當然這種論調是錯誤的
+人並不是機器不可能隨時都在100%的狀態
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495461830.A.A6C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495461830.A.A6C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">aoksc (重出江湖)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 是不是降工時、加薪，問題就解決了一半？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 22:03:47 2017</span></div>
+<span class="f2">※ 引述《Plot3D (3D做圖)》之銘言：
+</span><span class="f6">: 剛剛看到一篇....呃...社論?
+</span><span class="f6">: 說學生根本可以改成9點到校，反正學校有1/4時間在浪費生命，
+</span><span class="f6">: 其實工作也是一樣的道理吧，反正人待在辦公室也有部分時間在浪費時間，
+</span><span class="f6">: 不如乾脆把工時降低，效率提升還比較有意義，
+</span>
+你說的是沒錯
+
+但現在台灣有權力的老一輩、貫老闆
+
+包含政府官員的思維還是你坐在椅子上的產能跟時間成正比
+
+當然這種論調是錯誤的
+
+人並不是機器不可能隨時都在100%的狀態
+
+效率只會越來越降低
+
+但他們就是想把你當機器操
+
+尤其是某些固定就是要加班的公司效率一定更差
+
+如果你知道不管你多努力做你就是要晚上12點才能下班
+
+那你上班時間還會努力嘛?
+
+最好的例子
+
+我朋友以前在晨星
+
+他早上九點多到公司晚上十一二點才下班
+
+我問他像你上那麼久
+
+真的都一直在做事嘛
+
+他說當然沒有阿
+
+工作時間大概也只有八個小時
+
+其餘的時間都是東摸西摸到處串門子聊天
+
+反正你事情也做不完
+
+那幹麻那麼認真勒
+
+最後他工作時間只有八個小時
+
+但是其餘在公司的時間一樣在消耗公司的水電費
+
+而且這還是一群人在消耗
+
+但是老一輩的就是覺得這是效率這是努力的代表
+
+所以最後台灣企業都不講求效率
+
+只講求員工花多少時間坐在椅子上
+
+所以這種觀念不翻轉
+
+你的一切假設都沒有意義
+
+效率可以用各種方式提昇
+
+但是一天只有24小時
+
+把花的時間當作效率最終還是會遇到瓶頸
+
+因為一天的時間就只有那麼多呀
+
+<span class="f6">: 同時加薪加速金錢在社會內的流動，
+</span><span class="f6">: 就可以解決低薪和高工時的問題，也不會沒時間花錢
+</span><span class="f6">: 使得整個社會進入良性的循環，同時企業獲利也可以因為消費增多而上升
+</span><span class="f6">: 長遠來看這也可以解決少子化
+</span><span class="f6">: 鄉民們說好餔好～～～？
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.233.159.254
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495461830.A.A6C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495461830.A.A6C.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lucianbear</span><span class="f3 push-content">: 台灣真的一堆人還是有時間=績效的想法</span><span class="push-ipdatetime"> 05/22 22:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">et134226</span><span class="f3 push-content">: 製造業思維</span><span class="push-ipdatetime"> 05/22 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 其實是市場機制決定薪資待遇level,台灣國力產業結構在L</span><span class="push-ipdatetime"> 05/22 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 3級，硬要L10級的待遇，當然脫離現實，所以要產業價值</span><span class="push-ipdatetime"> 05/22 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 升級才能改變目前薪資結構</span><span class="push-ipdatetime"> 05/22 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 政府的責任在於創造產業升級的環境與相對應的人力資源</span><span class="push-ipdatetime"> 05/22 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 老一輩做的大部分都是用時間換錢的類型</span><span class="push-ipdatetime"> 05/22 22:15
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495461830.A.A6C.html?cacheKey=2052-37005061&offset=2326&offset-sig=f23250a916964eefb450037c08a14dea8db235d7" data-longpollurl="/v1/longpoll?id=d230bcfb5047ac5f55007bb6efed5082c8e5004a" data-offset="2326"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

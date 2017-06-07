@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495721608.A.D5D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] Sony傳放棄中高階手機 台灣分公司查證中 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+Sony傳放棄中高階手機 台灣分公司查證中
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] Sony傳放棄中高階手機 台灣分公司查證中">
+<meta property="og:description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+Sony傳放棄中高階手機 台灣分公司查證中
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495721608.A.D5D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495721608.A.D5D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">orionbeer (沖繩啤酒)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] Sony傳放棄中高階手機 台灣分公司查證中</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 22:13:24 2017</span></div>
+1.媒體來源:
+中央社
+
+2.完整新聞標題:
+Sony傳放棄中高階手機 台灣分公司查證中
+
+3.完整新聞內文:
+（中央社記者吳家豪台北25日電）Sony Mobile傳將退出中高階手機市場，聚焦旗艦產品
+，Sony Mobile台灣今天表示，正在查證消息來源的正確性，若有進一步消息將再對外公
+布。
+
+媒體報導引述Xperia Blog消息指出，Sony Mobile將放棄「Premium Standard」中高階產
+品，也就是規格近乎旗艦機、但價格較低的手機，並聚焦高附加價值的「Flagship」旗艦
+產品和「Mid Range」中階產品，運用Sony技術來創造Xperia手機的差異化。
+
+報導指出，Sony Mobile將放棄的中高階產品包括去年推出的Xperia X以及Xperia X
+Compact，因為這2款手機只達到全球預期銷量的43%，在日本市場雖達到預期銷量的85%，
+但是在日本以外的海外市場僅達到預期銷量的31%。
+
+針對上述報導，Sony Mobile台灣今天表示，正在查證消息來源的正確性，若有進一步消
+息將再對外公布。1060525
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.cna.com.tw/news/firstnews/201705255017-1.aspx" target="_blank" rel="nofollow">http://www.cna.com.tw/news/firstnews/201705255017-1.aspx</a>
+
+5.備註:
+
+HTC明天要漲停啦！！！
+
+
+--
+→ chobit199685: 要去賣屁股囉 五樓得知後超興奮                     08/03 10:44
+→ chobit199685: 蓋                                                08/03 10:45
+→ chobit199685: 蓋                                                08/03 10:45
+→ chobit199685: 蓋                                                08/03 10:45
+→ chobit199685: 算了...好空虛                                     08/03 10:46
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.151.103
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495721608.A.D5D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495721608.A.D5D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hy654</span><span class="f3 push-content">: SONY真的超費</span><span class="push-ipdatetime"> 05/25 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">:  Sony只有旗艦能看</span><span class="push-ipdatetime"> 05/25 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mart9266</span><span class="f3 push-content">: 沒比HTC廢吧</span><span class="push-ipdatetime"> 05/25 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mart9266</span><span class="f3 push-content">: HTC只看手機板還以為賣超好</span><span class="push-ipdatetime"> 05/25 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">koreapig5566</span><span class="f3 push-content">: htc屌打蘋果和三星  外國人不識貨</span><span class="push-ipdatetime"> 05/25 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">idolater</span><span class="f3 push-content">: HTC難道不也是只有旗艦可看?</span><span class="push-ipdatetime"> 05/25 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xiangming</span><span class="f3 push-content">: 外型沒長進機海的差異度又小最厲害防水噱頭也被它廠追</span><span class="push-ipdatetime"> 05/25 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xiangming</span><span class="f3 push-content">: 上了更不是很便宜</span><span class="push-ipdatetime"> 05/25 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Levelmax99</span><span class="f3 push-content">: HTC連旗艦機都不能看</span><span class="push-ipdatetime"> 05/25 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">M105</span><span class="f3 push-content">: HTC大概只有ptty在捧XDD</span><span class="push-ipdatetime"> 05/25 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">best159357</span><span class="f3 push-content">: 中高階市場 感覺也是滿飽和了 或許sony全力製作旗艦機</span><span class="push-ipdatetime"> 05/25 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">best159357</span><span class="f3 push-content">: 也不錯 反正旗艦機過個一年也變中高階</span><span class="push-ipdatetime"> 05/25 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Fuuuck</span><span class="f3 push-content">:                不如賣掉買PSV</span><span class="push-ipdatetime"> 05/25 22:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 三年前也講過</span><span class="push-ipdatetime"> 05/26 06:03
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495721608.A.D5D.html?cacheKey=2052-1458181&offset=2983&offset-sig=599a45128a598275b299140c0dfc8c8e3635e817" data-longpollurl="/v1/longpoll?id=822564c20b6476f9086b5ef40430945d1d993d8f" data-offset="2983"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

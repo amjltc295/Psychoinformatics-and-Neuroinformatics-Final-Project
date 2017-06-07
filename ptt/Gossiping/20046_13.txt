@@ -1,0 +1,228 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494943098.A.CD1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 經濟學人 為何川普經濟學不會成功 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="簡單來說，經濟學人認為川普經濟學不是經濟學。
+所以即使帶來短暫的榮景，最終也會因為川普自己的經濟民族主義而失敗。
+媒體來源: 經濟學人
+完整新聞標題: Courting trouble
+原文連結
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 經濟學人 為何川普經濟學不會成功">
+<meta property="og:description" content="簡單來說，經濟學人認為川普經濟學不是經濟學。
+所以即使帶來短暫的榮景，最終也會因為川普自己的經濟民族主義而失敗。
+媒體來源: 經濟學人
+完整新聞標題: Courting trouble
+原文連結
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494943098.A.CD1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494943098.A.CD1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mlkj (￾N                    )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 經濟學人 為何川普經濟學不會成功</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 21:58:14 2017</span></div>
+
+簡單來說，經濟學人認為川普經濟學不是經濟學。
+所以即使帶來短暫的榮景，最終也會因為川普自己的經濟民族主義而失敗。
+
+
+
+媒體來源: 經濟學人
+
+完整新聞標題: Courting trouble
+
+原文連結
+<a href="https://tinyurl.com/jwtmmhz" target="_blank" rel="nofollow">https://tinyurl.com/jwtmmhz</a>
+
+翻譯連結
+<a href="http://mlkj24.pixnet.net/blog/post/31928605" target="_blank" rel="nofollow">http://mlkj24.pixnet.net/blog/post/31928605</a>
+
+Economist May 13th 2017
+
+川普治理華盛頓的樣子，就好像他是國王，而白宮是他的皇宮。他看起來需要主導權、需
+要站在焦點的中心，他的不耐帶著亨利八世的味道(譯按：亨利八世因為想另娶妻子，與
+當時羅馬反目，成立英國國教；曾有六次婚姻，但其中兩位妻子遭斬首)。「他不尋常的
+掌權過程，是國會、官僚、媒體集體平庸的證明」，川普深信這點，攻擊任何擋在他面前
+的人跟想法。
+
+他可以造成多大的麻煩，從本周轟動世人的事件可看的出來。他開除了聯邦調查局局長柯
+米(James Comey)，而這也只不過是史上第二位被開除的局長。柯米犯了錯，而川普開除
+他也是在職權內。但川普只成功把外界注意力放在兩件事上，第一是他與俄國的關係上，
+第二則是他對拿來約束總統候選人準則的藐視。
+
+然而，對一般美國人來說，跟上述事件一樣危險，但沒那麼重要的則是川普的經濟計畫。
+川普的經濟計畫，把傳統、準確性、一致性等事，講的好像是在一系列極為重要的協議中
+，經過交涉後被屏除的。雖然川普經濟學可能帶來小小的繁榮，但也可能對美國、乃至於
+世界造成危險。
+
+川普經濟學101
+Trumponomics 101
+
+在與本報的訪談中，對於經濟的期望，川普給出了至目前為止最廣泛的敘述。他的目標是
+藉由提高經濟成長率，確保有更多的美國人可以得到報酬良好的工作。他的顧問談到要有
+3%的成長率 — 比多數經濟學家相信的、現今可維持的步調，還高出整整一個百分點。
+
+在川普的心中，邁向更好的工作、更快的成長的路徑中，最重要的，就是更為公平的貿易
+協定。雖然他宣稱自己是自由貿易的支持者(如果規則是公平的話)，但其實從他的觀點來
+看，他是經濟民族主義者。貿易只有在進出口平衡時，才算是公平貿易；而企業投資國內
+應該鼓勵、投資海外則要懲罰。
+
+川普經濟學的第二及第三條，則是減稅及放鬆管制，這兩者則會促進國內投資。較低的稅
+賦及減少規定，將會讓企業家蓄勢待發，使得經濟成長更快、提供更好的就業機會。這是
+標準的供給面經濟學，但把川普經濟學看成是共和黨傳統的重塑，是個錯誤 — 且不只是
+因為川普的經濟民族主義，根本遠離了共和黨所高唱的自由貿易。
+
+川普經濟學真正的不同之處在於，那根本不是一種經濟理論(比如說，跟雷根經濟學完全
+不同)。從最好的角度來看，也不過就是一群商人為迎合他們的國王，所提出的一堆建議
+。川普聽了很多執行長的話，但白宮幾乎沒有任何經濟學家。他對經濟的態度來自一種想
+法，也就是總是會有贏家跟輸家、而機警的談判者可混淆抽象的原則。可以稱之為董事會
+資本主義。
+
+那樣的川普經濟學，是份商人的願望清單，能解釋為何左派的批評者，會對糟糕的分配不
+均結果、缺乏財政紀律，以及潛在的裙帶主義大肆批評。也解釋了為何商人、投資家興致
+勃勃，視這是給願意冒險又尋求利潤的人，一個突如而來的機會。股市接近歷史新高，商
+業信心指標也飆升。
+
+短期來看，這樣的商業信心可能會自我應驗。美國可以藉由重新談判北美自由貿易協定，
+來霸凌加拿大跟墨西哥。儘管共和黨大談財政審慎，也不太可能在國會中去否定川普的減
+稅政策。刺激跟減少管制，可能會帶來更快速的成長。而在通膨仍然停滯的狀態下，聯邦
+儲備理事會不太可能突然提高利率，來抑制這股成長。
+
+鬆綁被箝制住的活力當然很好，但川普的作法可能會帶來兩種危險。川普經濟學隱含的內
+部經濟假設並不一致，且這些假設是建立在過去數十年的過時美國經濟圖像。
+
+與川普團隊所斷言的正好相反，很少有證據能顯示，全球貿易體系或個別的貿易協定，對
+美國有系統性的偏見。相反的，美國的貿易赤字(也就是川普認為貿易協定不公平的主要
+理由)，應用「美國人儲蓄了多少」以及「投資了多少」的觀點來看會較恰當。而貿易協
+定中的附屬條款，幾乎無關緊要。教科書預測，川普計畫增加國內投資，可能會導致更大
+的貿易赤字，正如80年代雷根時期的榮景。如果真是這樣，川普要不就得放棄他對公平貿
+易的看法，或是(更具破壞性地)試圖利用保護主義的關稅壁壘，來阻止貿易赤字擴大；這
+會傷害經濟成長，引發全球的不信任。
+
+更深一層的問題，是川普經濟學對美國經濟的了解很狹隘。川普跟他的顧問群，著迷於製
+造業就業機會所帶來的影響(即使製造業僅占了美國8.5%的就業人口，以及12%的GDP)。服
+務業似乎根本沒被注意到。這蒙蔽了川普經濟學對今日最大經濟體的憂慮：經濟震盪來自
+於新科技。正在蹂躪美國零售業的，是科技不是貿易，但這個產業聘用的人多於製造業。
+經濟民族主義將會加速自動化：無法把工作外包的墨西哥的公司，將靠著在國內投資機器
+維持競爭力。產能跟利潤可能會提升，但這將幫不到較不備技能的勞工，而這些勞工是川
+普宣稱要放在優先順位的。
+
+吠後之咬
+The bite behind the bark
+
+川普經濟學對長期繁榮來說，是個糟糕的處方。最後，美國的債台將會更為高築、也變得
+更分配不均。川普經濟學會忽略真正的問題，比如說如何培養技能已經變成多餘的勤奮人
+力。更糟的是，當矛盾變得明顯時，川普的經濟民族主義可能會得更尖銳，導致其他國家
+反彈 — 進一步引發美國國內的憤怒。川普經濟學即使能創造短期的成長，但對美國經濟
+沉痾並沒有提出持久的解方，還可能把路子導向更糟的那方。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.136.16.134
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494943098.A.CD1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494943098.A.CD1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">web946719</span><span class="f3 push-content">: 野雞雜誌</span><span class="push-ipdatetime"> 05/16 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sonyabear</span><span class="f3 push-content">: realtw都說這是爛雜誌</span><span class="push-ipdatetime"> 05/16 22:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imafsb</span><span class="f3 push-content">: 有翻譯給推</span><span class="push-ipdatetime"> 05/16 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hellwize</span><span class="f3 push-content">: 經濟學人談什麼經濟= =</span><span class="push-ipdatetime"> 05/16 22:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 簡稱慣老闆主義</span><span class="push-ipdatetime"> 05/16 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blackzero1</span><span class="f3 push-content">: 推翻譯</span><span class="push-ipdatetime"> 05/16 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hpw841031</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/16 22:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hpw841031</span><span class="f3 push-content">: 拜托以後多翻點經濟學人啊</span><span class="push-ipdatetime"> 05/16 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JumjumpTiger</span><span class="f3 push-content">: 好文給推</span><span class="push-ipdatetime"> 05/16 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chungrew</span><span class="f3 push-content">: 無所謂  短期能賺錢就好</span><span class="push-ipdatetime"> 05/16 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chungrew</span><span class="f3 push-content">: 長期說來  我們都死了</span><span class="push-ipdatetime"> 05/16 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windalso</span><span class="f3 push-content">: 野雞雜誌XD</span><span class="push-ipdatetime"> 05/16 22:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makki</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/16 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">talentism</span><span class="f3 push-content">: 用心推</span><span class="push-ipdatetime"> 05/16 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j54353</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">focoket12</span><span class="f3 push-content">: 經濟學人：希拉蕊勝卷在握</span><span class="push-ipdatetime"> 05/17 04:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">david1230</span><span class="f3 push-content">: 野雞雜誌</span><span class="push-ipdatetime"> 05/17 13:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494943098.A.CD1.html?cacheKey=2052-37997937&offset=6403&offset-sig=d7b47e505bf7e9d1c523194abd0b046a6df48f76" data-longpollurl="/v1/longpoll?id=4f448c001d954f278065347bf0f833e9ddc0cb8a" data-offset="6403"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

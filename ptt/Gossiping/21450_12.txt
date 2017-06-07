@@ -1,0 +1,710 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495894186.A.846.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] AlphaGo不敗神話　馬雲：一直贏沒意思 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="先講結論
+馬雲是個智障！
+http://i.imgur.com/2ML7Je9.jpg
+  首先馬雲根本搞不清楚阿法狗存在的目的，阿法狗原本就不是陪人類娛樂的，這是一場科學實驗，目的是要挑戰人工智慧在圍棋領域的極限，所以先戰李世石，後戰世界棋王柯潔。
+這就好比 96~97年，在西洋棋領域裡 Deep Blue Vs Kasparov一樣，追求的是電腦運算能力是否能超越人腦。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] AlphaGo不敗神話　馬雲：一直贏沒意思">
+<meta property="og:description" content="先講結論
+馬雲是個智障！
+http://i.imgur.com/2ML7Je9.jpg
+  首先馬雲根本搞不清楚阿法狗存在的目的，阿法狗原本就不是陪人類娛樂的，這是一場科學實驗，目的是要挑戰人工智慧在圍棋領域的極限，所以先戰李世石，後戰世界棋王柯潔。
+這就好比 96~97年，在西洋棋領域裡 Deep Blue Vs Kasparov一樣，追求的是電腦運算能力是否能超越人腦。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495894186.A.846.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495894186.A.846.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">sd131420 (KingSky1991)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] AlphaGo不敗神話　馬雲：一直贏沒意思</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 22:09:37 2017</span></div>
+
+先講結論
+
+馬雲是個智障！
+<a href="http://i.imgur.com/2ML7Je9.jpg" target="_blank" rel="nofollow">http://i.imgur.com/2ML7Je9.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="2ML7Je9"><a href="//imgur.com/2ML7Je9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+  首先馬雲根本搞不清楚阿法狗存在的目的，阿法狗原本就不是陪人類娛樂的，這是一場科學實驗，目的是要挑戰人工智慧在圍棋領域的極限，所以先戰李世石，後戰世界棋王柯潔。
+
+這就好比 96~97年，在西洋棋領域裡 Deep Blue Vs Kasparov一樣，追求的是電腦運算能力是否能超越人腦。
+
+96年， IBM第一次以 Deep Blue去挑戰世界西洋棋王  Гарри Кимович Каспаров ，結果被洗臉，以2：4輸了。當年的 Deep Blue只從棋王的手下拿到一勝二和三敗。
+
+回去 IBM的研究人員更努力改良 Deep Blue，隔年五月靠著 Deeper Blue，終於贏了世界棋王，以3½：2½刷了一波回來。那時候的 Deep Blue已經可以從棋王手上拿到了兩勝三和了。
+
+稍微有點腦的人都不會認為 IBM的研究人員是為了好玩才去開發深藍的，IBM也不會發神經投資一堆錢在這裡， 這場實驗的目的就是為了挑戰電腦的計算能力。
+
+科技的進步就是源自於人類對於現狀的挑戰，即使失敗了沒關係，解析失敗的原因，接下來以前人的Data，繼續研發更進步的技術，這也是西方文化裡，科技不斷進步的原因。
+
+
+對於開發出 Deep Blue的 IBM有何好處？
+
+證明了科技的進步，也同時確立業界的名氣之外，並帶動股價的上漲！以戰勝冠軍帶來投資人的信心，而這種方式全世界都通行，97年 IBM做過了一次，現在 Google只是重複同樣成功的方法秀給全世界看。
+
+至於馬雲洗洗睡吧，牠的成功方式只適用中共這類型的國家而已。
+
+這也難怪馬雲把阿法狗看成娛樂用 AI，因為牠畢竟是靠著中共的黨國體制與經濟制度就成功的中共型實業家而已，與其花時間搞研發，不如努力搞好娛樂高官的方式，例如：要打垮 Google最好的方式不是正面挑戰他，而是政府不准他進入中國市場，再搞一個山寨板的百度；要擊敗YouTube也是同理，搞個山寨優酷，再禁止它進入中國。
+
+聽馬雲的話真的能成功？那豬都能在黑壓壓內湖挖到石油致富了，講穿了，馬雲只是印證了中國文化裡「靠關係才能成功」
+
+
+馬雲，我呸
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.164.16.217
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495894186.A.846.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495894186.A.846.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twflash</span><span class="f3 push-content">: 內行的</span><span class="push-ipdatetime"> 05/27 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 亞馬遜屌打掏寶</span><span class="push-ipdatetime"> 05/27 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttworld</span><span class="f3 push-content">: 問題在於是否開發新算法，否則只是硬體進步。</span><span class="push-ipdatetime"> 05/27 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">braai</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YingJiou5566</span><span class="f3 push-content">: 你是個天才！</span><span class="push-ipdatetime"> 05/27 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qekezfeed</span><span class="f3 push-content">: 跳針</span><span class="push-ipdatetime"> 05/27 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j10554848</span><span class="f3 push-content">: 別逼他們做百度GO</span><span class="push-ipdatetime"> 05/27 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pz5202</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa52189</span><span class="f3 push-content">: 推一個</span><span class="push-ipdatetime"> 05/27 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Drizzle</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rainbow5566</span><span class="f3 push-content">: 人腦的運算本來就比不過電腦</span><span class="push-ipdatetime"> 05/27 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k26222260</span><span class="f3 push-content">: 百度GO 第64手當機</span><span class="push-ipdatetime"> 05/27 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalljacky03</span><span class="f3 push-content">: 能靠關係也是實力</span><span class="push-ipdatetime"> 05/27 22:15
+</span></div>
+   <a href="http://i.imgur.com/VjPRgr3.jpg" target="_blank" rel="nofollow">http://i.imgur.com/VjPRgr3.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="VjPRgr3"><a href="//imgur.com/VjPRgr3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">probsk</span><span class="f3 push-content">: 我勸你不要嘴馬雲喔 要比嘴你嘴不贏他的</span><span class="push-ipdatetime"> 05/27 22:15
+</span></div>
+當然嘴不贏牠啊！
+
+牠可是靠著一張嘴，讓劉樂飛和江志成開心到說服他們老爸投資牠欸
+
+我的實力頂多騙騙 P幣就不錯了
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goal56</span><span class="f3 push-content">: 內行</span><span class="push-ipdatetime"> 05/27 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 慣老闆都只想賺快錢 從來沒想過研發的科學意義重要性</span><span class="push-ipdatetime"> 05/27 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sxswang</span><span class="f3 push-content">: 你知道的太多啦</span><span class="push-ipdatetime"> 05/27 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ksco</span><span class="f3 push-content">: 推個</span><span class="push-ipdatetime"> 05/27 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watashiD</span><span class="f3 push-content">: 馬雲明天馬上嘴你</span><span class="push-ipdatetime"> 05/27 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kids9995</span><span class="f3 push-content">: 推百度go</span><span class="push-ipdatetime"> 05/27 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 長那副猥瑣樣 暴發戶心態 賣盜版還以為自己是神</span><span class="push-ipdatetime"> 05/27 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">usaku</span><span class="f3 push-content">: 馬雲是靠政府有計劃扶持成功</span><span class="push-ipdatetime"> 05/27 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Beatrix0912</span><span class="f3 push-content">: 思路清楚</span><span class="push-ipdatetime"> 05/27 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MASAMIFANS</span><span class="f3 push-content">: 推你一個</span><span class="push-ipdatetime"> 05/27 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">showind</span><span class="f3 push-content">: 馬雲還是靠賣假貨起家~淘寶上一堆假貨...</span><span class="push-ipdatetime"> 05/27 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 靠著市場內需跟政府阻擋對手起家的人 說的話聽聽就好</span><span class="push-ipdatetime"> 05/27 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 正確</span><span class="push-ipdatetime"> 05/27 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd810305</span><span class="f3 push-content">: 這種人工智慧未來運用到無人機應該很可怕</span><span class="push-ipdatetime"> 05/27 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FateOFP</span><span class="f3 push-content">: 誰來都一樣 過幾天馬雲 會太極拳我也不意外</span><span class="push-ipdatetime"> 05/27 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TWLAB</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 每次看台灣這裡那些崇拜馬雲 看到馬雲就高潮的 我看</span><span class="push-ipdatetime"> 05/27 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keter007</span><span class="f3 push-content">: 一個慣老闆能有啥創新思想?中國首富還妄想創新??</span><span class="push-ipdatetime"> 05/27 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolpklol0975</span><span class="f3 push-content">: 唉 還是歐美人 做事想事情正確</span><span class="push-ipdatetime"> 05/27 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kaneshiro5</span><span class="f3 push-content">: 馬雲超嘴的 常人嘴不贏牠的~</span><span class="push-ipdatetime"> 05/27 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 對面有能力的很多 但是不會是這貨XD</span><span class="push-ipdatetime"> 05/27 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 都是真正沒腦子去思考的 眼高手低的貨色</span><span class="push-ipdatetime"> 05/27 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jehow</span><span class="f3 push-content">: 他又不是不知自己中國也有在弄這東西 還贏不了人而已</span><span class="push-ipdatetime"> 05/27 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FlynnZhang</span><span class="f3 push-content">: 幹話王</span><span class="push-ipdatetime"> 05/27 22:24
+</span></div><span class="f2">※ 編輯: sd131420 (1.164.16.217), 05/27/2017 22:38:27
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FlynnZhang</span><span class="f3 push-content">: 我說馬雲</span><span class="push-ipdatetime"> 05/27 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skydark</span><span class="f3 push-content">: 算了吧  就算要讓馬雲知道原PO這個人 也是挺難的</span><span class="push-ipdatetime"> 05/27 22:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: 所以人家google是世界企業 馬雲只能當個地方老大</span><span class="push-ipdatetime"> 05/27 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skydark</span><span class="f3 push-content">: 更何況跟原PO嘴?</span><span class="push-ipdatetime"> 05/27 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtl</span><span class="f3 push-content">: 自己做不出來 吃味吧</span><span class="push-ipdatetime"> 05/27 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jehow</span><span class="f3 push-content">: 自己中國的AI贏人類時就會改口說偉大了 很政治正確的一個人</span><span class="push-ipdatetime"> 05/27 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn00063172</span><span class="f3 push-content">: 這篇正確，人家要的是更有效的決策方式，下棋只是一個</span><span class="push-ipdatetime"> 05/27 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gn00063172</span><span class="f3 push-content">: 很適合的測試方式</span><span class="push-ipdatetime"> 05/27 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UniversalGod</span><span class="f3 push-content">: 馬雲是個智障</span><span class="push-ipdatetime"> 05/27 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">horseorange</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/27 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sam36388</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vi000246</span><span class="f3 push-content">: 他就是白痴啊 google組一個團隊 花一堆錢買設備</span><span class="push-ipdatetime"> 05/27 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vi000246</span><span class="f3 push-content">: 想也知道不可能只是想下棋而已</span><span class="push-ipdatetime"> 05/27 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 中國共產賤畜黨養出來的樣板人物  呸</span><span class="push-ipdatetime"> 05/27 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 我覺得馬雲講的沒錯啊…電腦那種運算速度，一直贏人腦下去</span><span class="push-ipdatetime"> 05/27 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 有什麼意義，有種拿兩台阿發狗互比，看看會發生什麼事，才</span><span class="push-ipdatetime"> 05/27 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 有意義</span><span class="push-ipdatetime"> 05/27 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greedystar1</span><span class="f3 push-content">: 真的 中共完美的證實了 有關係就沒關係的事實</span><span class="push-ipdatetime"> 05/27 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greedystar1</span><span class="f3 push-content">: 那個 阿發狗的自我對決棋譜你可以搜尋 網路上有</span><span class="push-ipdatetime"> 05/27 22:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NLNG</span><span class="f3 push-content">: 今天這一推就給你了！</span><span class="push-ipdatetime"> 05/27 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">micotosai</span><span class="f3 push-content">: 還沒錯哩，以前電腦軟体是被打假的好嘛</span><span class="push-ipdatetime"> 05/27 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 果然9.2腦</span><span class="push-ipdatetime"> 05/27 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a24285293</span><span class="f3 push-content">: 原本就是拿兩台互練的...再說三小</span><span class="push-ipdatetime"> 05/27 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">micotosai</span><span class="f3 push-content">: 人腦是強到估狗花大錢才研發出來這種邏輯神經系統</span><span class="push-ipdatetime"> 05/27 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 所以現在電腦軟體打贏了，下一步呢？</span><span class="push-ipdatetime"> 05/27 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 對著那些幹話 點頭如搗蒜 真的是有夠蠢的</span><span class="push-ipdatetime"> 05/27 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">industrialld</span><span class="f3 push-content">: 一個靠賣假貨和党国關係的人，不意外呀</span><span class="push-ipdatetime"> 05/27 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">et134226</span><span class="f3 push-content">: 中國人講官話，世界第一</span><span class="push-ipdatetime"> 05/27 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 拿圍棋來試只是一個實例 難道這程式只是為了贏圍棋而已嗎XD</span><span class="push-ipdatetime"> 05/27 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">micotosai</span><span class="f3 push-content">: 才能打敗的東西，計算機就算再快沒有人來按等於殘廢</span><span class="push-ipdatetime"> 05/27 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 台灣賣假貨世界聞名，怎麼沒有出一個馬雲出來</span><span class="push-ipdatetime"> 05/27 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">micotosai</span><span class="f3 push-content">: 好嘛?支那人都不動腦袋的嗎?</span><span class="push-ipdatetime"> 05/27 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: 搞不好20年你的老闆、上司、老師、教練是個AI也說不定</span><span class="push-ipdatetime"> 05/27 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 現在就發佈要改其他領域繼續尋找運用實例啊</span><span class="push-ipdatetime"> 05/27 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jialin6666</span><span class="f3 push-content">: 山寨王</span><span class="push-ipdatetime"> 05/27 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 他只是中國太子黨掌控的中資公司的對外看板而己</span><span class="push-ipdatetime"> 05/27 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 台灣有像支那一樣 動用國家力量大力推行一家公司賣</span><span class="push-ipdatetime"> 05/27 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 假貨?</span><span class="push-ipdatetime"> 05/27 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 所以阿發狗發展出可以跟其他什麼棋對打了嗎，理論上人工智</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gundam0613</span><span class="f3 push-content">: 馬雲成功最重要的因素就是官商勾結==</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">micotosai</span><span class="f3 push-content">: 腦死到以為只是下圍棋程式.....</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 要嘴之後要幹嘛 也看一下人家開發者放出的訊息好嗎</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 慧應該阿發狗可以觸類旁通啊，該不會還要灌大量棋譜讓他訓</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">curtis0982</span><span class="f3 push-content">: 這種文可以這麼多推 呵呵</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 練吧…</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 有些很好騙以為他有多厲害</span><span class="push-ipdatetime"> 05/27 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 誰說一定是下什麼棋啦XD 護航只會扯下棋喔 動物棋啦好不好</span><span class="push-ipdatetime"> 05/27 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 所以請問阿發狗目前還會下哪些棋呢？跳棋會嗎，會玩大富翁</span><span class="push-ipdatetime"> 05/27 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 嗎</span><span class="push-ipdatetime"> 05/27 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">micotosai</span><span class="f3 push-content">: 還在下棋....根本無法討論</span><span class="push-ipdatetime"> 05/27 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WeGoYuSheng</span><span class="f3 push-content">: 推文9.2 乖乖地呈現他的幹話偶像的幹話術</span><span class="push-ipdatetime"> 05/27 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 以後可能會玩lol喔XD 這答案滿意嗎.^^</span><span class="push-ipdatetime"> 05/27 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 太子黨自己當公司董事長民眾會不滿，就找他這類的人來當</span><span class="push-ipdatetime"> 05/27 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 看板</span><span class="push-ipdatetime"> 05/27 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 滿意啊，但阿發狗目前充其量就是一支訓練有素的狗，只會玩</span><span class="push-ipdatetime"> 05/27 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 一種棋，沒錯吧</span><span class="push-ipdatetime"> 05/27 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 別人在搞新技術新領域，賣假貨的也插嘴刷存在感？</span><span class="push-ipdatetime"> 05/27 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: 星際爭霸戰年輕的史巴克跟AI老師練習數學</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vcyc</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: <a href="https://www.youtube.com/watch?v=zTaBZsGBtc4" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=zTaBZsGBtc4</a></span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/zTaBZsGBtc4" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 請問阿發狗已經可以有智慧到自省自己西洋棋贏太多已經沒有</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 太大意義，所以決定練別的棋嗎？</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s8800892000</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: 一堆人還很認同馬雲XDDDDDDDDDDD</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd810305</span><span class="f3 push-content">: 查了一下，AG厲害的是自我學習，一開始是在網路上測試，</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd810305</span><span class="f3 push-content">: 短短二年棋力可以打敗中韓台60位高手</span><span class="push-ipdatetime"> 05/27 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcc080206</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 22:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nineuniverse</span><span class="f3 push-content">: 馬雲就被紅媒有意無意捧很高啊 聽到人講馬雲就知道</span><span class="push-ipdatetime"> 05/27 22:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nineuniverse</span><span class="f3 push-content">: 這個人的收聽管道了 顆顆</span><span class="push-ipdatetime"> 05/27 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alau</span><span class="f3 push-content">: 沒擋亞馬遜怎麼會有馬雲</span><span class="push-ipdatetime"> 05/27 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: 跟最近公務人員司法體系相同老屁股不懂得別人在想什麼</span><span class="push-ipdatetime"> 05/27 22:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 台灣沒檔亞馬遜，也出不了一個馬雲啊</span><span class="push-ipdatetime"> 05/27 22:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shliny38</span><span class="f3 push-content">: 你好厲害</span><span class="push-ipdatetime">05/27 22:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arnold3</span><span class="f3 push-content">: 智障都賺贏你 呵呵</span><span class="push-ipdatetime">05/27 22:49
+</span></div>
+Nikola Tesla 也是賺輸 Thomas Alva Edison啊
+
+甚至到今日也有一堆人認為電燈是 Edison發明的，但論對於人類的貢獻 Tesla海放 Edison太多了。
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 怎麼有人一直以為GOOGLE的人工智慧專案就一個阿法狗啊，多</span><span class="push-ipdatetime">05/27 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 的是其他專案好嗎？他們現在已經在用AI寫程式，而且那個AI</span><span class="push-ipdatetime">05/27 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 還是別的AI教他寫的</span><span class="push-ipdatetime">05/27 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 再給他們發展下去到時候一堆基礎工作都可以給AI做了</span><span class="push-ipdatetime">05/27 22:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">love1987817</span><span class="f3 push-content">: 會推崇馬雲的人 遠離上策XD</span><span class="push-ipdatetime">05/27 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 阿法狗的存在價值就是他的決策跟訓練機制，下棋只是展示</span><span class="push-ipdatetime">05/27 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 所以言下之意，google的人工智慧專案還是停留在每個專案專</span><span class="push-ipdatetime">05/27 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 的手段不是目標，還一直問下棋能幹嘛勒</span><span class="push-ipdatetime">05/27 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 精的一樣東西，可能是下棋，可能是語音辨識，但人的大腦可</span><span class="push-ipdatetime">05/27 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 不是如此…大腦是要處理綜合的東西</span><span class="push-ipdatetime"> 05/27 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KirinP</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime">05/27 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 白癡一看就知道一堆人都不懂AI</span><span class="push-ipdatetime"> 05/27 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 大腦要處理綜合的東西，但很多工作不是這樣，AI就是要先</span><span class="push-ipdatetime">05/27 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 幫人解決單調的工作</span><span class="push-ipdatetime"> 05/27 22:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime">05/27 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: AG的重點是他所使用的方法可以學習圍棋這史上最複雜的棋類</span><span class="push-ipdatetime"> 05/27 22:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Coslate</span><span class="f3 push-content">: 馬雲是不是失街亭被斬的那個ㄚ？</span><span class="push-ipdatetime">05/27 22:54
+</span></div>
+咦？
+<a href="http://i.imgur.com/L4Ass75.jpg" target="_blank" rel="nofollow">http://i.imgur.com/L4Ass75.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="L4Ass75"><a href="//imgur.com/L4Ass75"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 他們公司之前是做AI玩一些古老的遊戲</span><span class="push-ipdatetime"> 05/27 22:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 他在中國的成功我不予置評，但他對這件事的態度我鄙</span><span class="push-ipdatetime">05/27 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 視他</span><span class="push-ipdatetime"> 05/27 22:55
+</span></div><span class="f2">※ 編輯: sd131420 (1.164.16.217), 05/27/2017 23:01:39
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: AG的成功證明這種類神經架構方法可行</span><span class="push-ipdatetime"> 05/27 22:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 圍棋是最複雜的棋類沒錯，但畢竟還是有一定規則，還算是有</span><span class="push-ipdatetime"> 05/27 22:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 規律。但世界上很多事情是沒有規律的，譬如女人的情緒…AG</span><span class="push-ipdatetime"> 05/27 22:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 算的出來嗎？有辦法算出來，再說這是人工智慧</span><span class="push-ipdatetime"> 05/27 22:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyKH</span><span class="f3 push-content">: 他真的就只是滿嘴幹話的強運人罷了</span><span class="push-ipdatetime"> 05/27 22:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 跟電腦運算速度還是硬體多強根本沒關，tr大大真棒</span><span class="push-ipdatetime"> 05/27 22:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 你也太高估AI專家的智慧了</span><span class="push-ipdatetime"> 05/27 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s711193</span><span class="f3 push-content">: 正解</span><span class="push-ipdatetime"> 05/27 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mocca000</span><span class="f3 push-content">: 推一個</span><span class="push-ipdatetime"> 05/27 22:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 你提的每一項專門任務都可以發很多篇PAPER了</span><span class="push-ipdatetime"> 05/27 22:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wayaba</span><span class="f3 push-content">: 巷子裡的</span><span class="push-ipdatetime"> 05/27 22:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amig0123</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/27 22:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 有阿，有一些paper是做人類的情緒的阿</span><span class="push-ipdatetime"> 05/27 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 跟電腦運算速度沒關…我認為只對一半，否則Intel,nvidia不</span><span class="push-ipdatetime"> 05/27 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 會特別要搞AI特殊架構 CPU,</span><span class="push-ipdatetime"> 05/27 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 廢話，我說的是這不是重點</span><span class="push-ipdatetime"> 05/27 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 類神經架構理論，很早就被提出，近十年才變顯學是因為電腦</span><span class="push-ipdatetime"> 05/27 23:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 變好</span><span class="push-ipdatetime"> 05/27 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tim9527</span><span class="f3 push-content">: 推個</span><span class="push-ipdatetime"> 05/27 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1qazbgt5</span><span class="f3 push-content">: 真的  每次看到有台灣人推崇馬雲就覺得可笑</span><span class="push-ipdatetime"> 05/27 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greedystar1</span><span class="f3 push-content">: 好像一台電腦只能處理一個事你不會多裝幾個軟體傻瓜</span><span class="push-ipdatetime"> 05/27 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fge16</span><span class="f3 push-content">: 一針見血 ，9.2不會懂的</span><span class="push-ipdatetime"> 05/27 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyt5566</span><span class="f3 push-content">: 推你</span><span class="push-ipdatetime"> 05/27 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 我認為AG只是把類神經網路再進一步延伸(當然多少拜電腦硬體</span><span class="push-ipdatetime"> 05/27 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 規格進步有關)。但我認為距離讓電腦有「自覺」的人工智慧，</span><span class="push-ipdatetime"> 05/27 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 還有一段路要走</span><span class="push-ipdatetime"> 05/27 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yayahong</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nbg23456</span><span class="f3 push-content">: 一個是把科技當工人，一個是把科技當智慧</span><span class="push-ipdatetime"> 05/27 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 還在爭啊XD 台灣市場是有大陸大喔～</span><span class="push-ipdatetime"> 05/27 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">selvester</span><span class="f3 push-content">: 意義差很多 ibm那個真的&#34;只是&#34;算棋 alphaGO是神經建檔</span><span class="push-ipdatetime"> 05/27 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">selvester</span><span class="f3 push-content">: 模擬生物思考 重要的是 &#34;適用任何試誤學習&#34; 還有date…</span><span class="push-ipdatetime"> 05/27 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 基本上還是不脫要大量餵入資料讓機器學習，學習方式不一樣</span><span class="push-ipdatetime"> 05/27 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 罷了</span><span class="push-ipdatetime"> 05/27 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Silverdawn</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wmtsung</span><span class="f3 push-content">: 中國人就是蠢</span><span class="push-ipdatetime"> 05/27 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blbd</span><span class="f3 push-content">: 叫他人工智慧比叫他機器學習好炒新聞啊</span><span class="push-ipdatetime"> 05/27 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ken70418</span><span class="f3 push-content">: 阿里巴巴能那麼多人用只是因為中國不能用亞馬遜 馬雲一</span><span class="push-ipdatetime"> 05/27 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ken70418</span><span class="f3 push-content">: 個不知道在邱什麼</span><span class="push-ipdatetime"> 05/27 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f222051618</span><span class="f3 push-content">: 說&#34;罷了&#34;的人 是把研究上百年學習心理學的人當白痴嗎?</span><span class="push-ipdatetime"> 05/27 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bala73</span><span class="f3 push-content">: 然後還是一堆人把他當成神</span><span class="push-ipdatetime"> 05/27 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greedystar1</span><span class="f3 push-content">: 說的好像人類學習新知識不用餵大量資料一樣 傻孩子</span><span class="push-ipdatetime"> 05/27 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a31670323</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">querencia</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wkheinz</span><span class="f3 push-content">: 抓到了 你偷罵我們家阿文 該死</span><span class="push-ipdatetime"> 05/27 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fge16</span><span class="f3 push-content">: 一堆9.2崩潰</span><span class="push-ipdatetime"> 05/27 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HNO3</span><span class="f3 push-content">: 釣個幾個崩潰的五毛 XD</span><span class="push-ipdatetime"> 05/27 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howl1475</span><span class="f3 push-content">: 馬雲真的是智障</span><span class="push-ipdatetime"> 05/27 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kira823523</span><span class="f3 push-content">: 好壞，怎麼可以搓破呢？</span><span class="push-ipdatetime"> 05/27 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killeryuan</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cbr0627</span><span class="f3 push-content">: 等你有本事超越馬雲再來炮這件事</span><span class="push-ipdatetime"> 05/27 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wayne75</span><span class="f3 push-content">: Push</span><span class="push-ipdatetime"> 05/27 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fishfi</span><span class="f3 push-content">: 9.2五毛崩潰</span><span class="push-ipdatetime"> 05/27 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mandingo</span><span class="f3 push-content">: 不要偷酸神豬啊XDDD</span><span class="push-ipdatetime"> 05/27 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cchua</span><span class="f3 push-content">: 會崇拜馬雲的就是以為自己政治正確能夠在對岸一樣發大財</span><span class="push-ipdatetime"> 05/27 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">harrygp</span><span class="f3 push-content">: 抓完李明哲後，下次抓你</span><span class="push-ipdatetime"> 05/27 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digodi</span><span class="f3 push-content">: 馬雲自以為自己的成功可以海放全世界。</span><span class="push-ipdatetime"> 05/27 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ben54376</span><span class="f3 push-content">: 蠻中肯的阿ㄏ</span><span class="push-ipdatetime"> 05/27 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dodoning</span><span class="f3 push-content">: 9.2眼裡的世界只有中國</span><span class="push-ipdatetime"> 05/27 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shiba9527</span><span class="f3 push-content">: 看不懂，怒噓</span><span class="push-ipdatetime"> 05/27 23:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shinki5566</span><span class="f3 push-content">: 走不出中國的實業家在嘴世界霸主的實業家</span><span class="push-ipdatetime"> 05/27 23:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkyIsCat</span><span class="f3 push-content">: 哈 推</span><span class="push-ipdatetime"> 05/27 23:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justin521</span><span class="f3 push-content">: 事實 他不過靠中共扶持起來的 有種開放pk啊</span><span class="push-ipdatetime"> 05/27 23:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuma5341258</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/27 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vinsh</span><span class="f3 push-content">: 馬雲有他的成功之道，但是出來嘴AI就超過他的領域了</span><span class="push-ipdatetime"> 05/27 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie0804</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vinsh</span><span class="f3 push-content">: 華人有一點很奇怪，好像有錢的人什麼都會什麼都懂</span><span class="push-ipdatetime"> 05/27 23:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roktzzt</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/27 23:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g89227</span><span class="f3 push-content">: 噓的都滾回去</span><span class="push-ipdatetime"> 05/27 23:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">glory5566</span><span class="f3 push-content">: 推  鎖國再山寨真的很噁</span><span class="push-ipdatetime"> 05/27 23:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gs951117</span><span class="f3 push-content">: 推個</span><span class="push-ipdatetime"> 05/27 23:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dreamwakeup</span><span class="f3 push-content">: 百度 BetaGo........然後對方下第ㄧ手 棋盤就得綁架B</span><span class="push-ipdatetime"> 05/27 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wanderwolf</span><span class="f3 push-content">: 馬雲唯一的功用就是讓我知道誰贊同他 誰就是白癡</span><span class="push-ipdatetime"> 05/27 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dreamwakeup</span><span class="f3 push-content">: lock住</span><span class="push-ipdatetime"> 05/27 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g89227</span><span class="f3 push-content">: 9.2文組崩潰</span><span class="push-ipdatetime"> 05/27 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chris44099</span><span class="f3 push-content">: 中國每一間超大型公司都是這樣啊…禁止外面的進來，然</span><span class="push-ipdatetime"> 05/27 23:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chris44099</span><span class="f3 push-content">: 後抄一個自己賺，根本沒有例外，每一間都是</span><span class="push-ipdatetime"> 05/27 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">matt4424</span><span class="f3 push-content">: 知道太多啦</span><span class="push-ipdatetime"> 05/27 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Icezone</span><span class="f3 push-content">: 推個</span><span class="push-ipdatetime"> 05/27 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">giantwinter</span><span class="f3 push-content">: 你什麼咖阿</span><span class="push-ipdatetime"> 05/27 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DALUGI</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/27 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GARRETH</span><span class="f3 push-content">: 剩蚊:爸!你看他在文章裡偷婊我啦</span><span class="push-ipdatetime"> 05/27 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: 馬雲不就是紅二代捧出來</span><span class="push-ipdatetime"> 05/27 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t20317</span><span class="f3 push-content">: 你怎麼說出來了呢</span><span class="push-ipdatetime"> 05/27 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckid</span><span class="f3 push-content">: U文不推行嗎</span><span class="push-ipdatetime"> 05/27 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">didi3789</span><span class="f3 push-content">: 你是不是偷罵連公子 這樣好嗎？</span><span class="push-ipdatetime"> 05/27 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: 支那幹話王你認真什麼 一堆人還把幹話捧成聖經 頗廠</span><span class="push-ipdatetime"> 05/27 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cons</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 馬雲自己講過，他自己旗下   阿里巴巴、淘寶網、支付寶</span><span class="push-ipdatetime"> 05/27 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 他自己根本不懂那些東西，都是員工年輕人創造的</span><span class="push-ipdatetime"> 05/27 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 開會的時候年輕人在講什麼他也都聽不懂</span><span class="push-ipdatetime"> 05/27 23:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 他專長是搞關係啦 啊 能在中國搞出這程度也有他強地方</span><span class="push-ipdatetime"> 05/27 23:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diggi</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MBubble</span><span class="f3 push-content">: 中肯 不推不行</span><span class="push-ipdatetime"> 05/27 23:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 久點二的神</span><span class="push-ipdatetime"> 05/27 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XseraphimX</span><span class="f3 push-content">: 推結論</span><span class="push-ipdatetime"> 05/27 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wall62</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">naidier</span><span class="f3 push-content">: 這篇說的太好！推</span><span class="push-ipdatetime"> 05/27 23:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mazznia</span><span class="f3 push-content">: 中肯 但中國人會來開大絕</span><span class="push-ipdatetime"> 05/27 23:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fred1854</span><span class="f3 push-content">: 水喔</span><span class="push-ipdatetime"> 05/27 23:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 4</span><span class="push-ipdatetime"> 05/27 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa708</span><span class="f3 push-content">: 巷子內的</span><span class="push-ipdatetime"> 05/27 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kendiv</span><span class="f3 push-content">: 其實對岸光市場吃自己資源集中就是一頭巨獸</span><span class="push-ipdatetime"> 05/27 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 打臉打好兇XD</span><span class="push-ipdatetime"> 05/27 23:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">de606430</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oblrtippo</span><span class="f3 push-content">: 有理</span><span class="push-ipdatetime"> 05/27 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pythonista</span><span class="f3 push-content">: 你不知道大陸也有郭台銘？</span><span class="push-ipdatetime"> 05/28 00:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">puro</span><span class="f3 push-content">: 本來就覺得這人很自以為是講了一堆屁話 然後一堆社畜還當成</span><span class="push-ipdatetime"> 05/28 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">puro</span><span class="f3 push-content">: 聖旨轉貼</span><span class="push-ipdatetime"> 05/28 00:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bigliang</span><span class="f3 push-content">: 馬雲真的幹話連篇王</span><span class="push-ipdatetime"> 05/28 00:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: fb還一堆智障信徒    笑死</span><span class="push-ipdatetime"> 05/28 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hellstar</span><span class="f3 push-content">: 台肯</span><span class="push-ipdatetime"> 05/28 00:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sinkage</span><span class="f3 push-content">: 看到北七文組9.2崩潰說阿法狗只會圍棋 好舒壓</span><span class="push-ipdatetime"> 05/28 00:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantacliff</span><span class="f3 push-content">: 其實你也不必說破這一切 不會懂得人永遠不會懂</span><span class="push-ipdatetime"> 05/28 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lulttm</span><span class="f3 push-content">: 馬雲智障無誤，當然會信的人也就亦然了</span><span class="push-ipdatetime"> 05/28 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stw0975</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tregfd654321</span><span class="f3 push-content">: 人家是智障 那你是什麼 哈哈</span><span class="push-ipdatetime"> 05/28 00:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PeterLu98</span><span class="f3 push-content">: 人家靠關係起碼做出些成績  看那精美的嚴董...</span><span class="push-ipdatetime"> 05/28 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mc2834</span><span class="f3 push-content">: 居然真有人認為阿法狗是用來下圍棋的，而且還是中國的頂尖</span><span class="push-ipdatetime"> 05/28 00:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mc2834</span><span class="f3 push-content">: 人物</span><span class="push-ipdatetime"> 05/28 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aster741</span><span class="f3 push-content">: 哈哈</span><span class="push-ipdatetime"> 05/28 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chaohsiung</span><span class="f3 push-content">: 如果對岸的人都腦殘，也沒什麼好擔憂了</span><span class="push-ipdatetime"> 05/28 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsien918</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/28 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gg889g8</span><span class="f3 push-content">: 爽推</span><span class="push-ipdatetime"> 05/28 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eugenehi22</span><span class="f3 push-content">: 跪讀  大推</span><span class="push-ipdatetime"> 05/28 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">o8bito</span><span class="f3 push-content">: Edison 晚年真的很番顛</span><span class="push-ipdatetime"> 05/28 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rock2345</span><span class="f3 push-content">: 御器曾七段</span><span class="push-ipdatetime"> 05/28 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcboy</span><span class="f3 push-content">: 支那人會翻牆來崩潰</span><span class="push-ipdatetime"> 05/28 00:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bardah2c</span><span class="f3 push-content">: 是接下以前人的data吧？</span><span class="push-ipdatetime"> 05/28 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jerry886</span><span class="f3 push-content">: 台灣沒google.ie,還是洗洗睡吧</span><span class="push-ipdatetime"> 05/28 00:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chasegirl</span><span class="f3 push-content">: 蠻有道理的</span><span class="push-ipdatetime"> 05/28 00:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlackBass</span><span class="f3 push-content">: 內行</span><span class="push-ipdatetime"> 05/28 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soyjay</span><span class="f3 push-content">: 推中肯 可惜中國人看到會崩潰</span><span class="push-ipdatetime"> 05/28 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RyanShiao</span><span class="f3 push-content">: 推思路清晰</span><span class="push-ipdatetime"> 05/28 00:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chrisyang24</span><span class="f3 push-content">: 大推</span><span class="push-ipdatetime"> 05/28 00:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rinsoukan</span><span class="f3 push-content">: 同意</span><span class="push-ipdatetime"> 05/28 00:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PttWaHaha</span><span class="f3 push-content">: 罵的好像你很行似的…</span><span class="push-ipdatetime"> 05/28 00:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sck3612575</span><span class="f3 push-content">: 真的</span><span class="push-ipdatetime"> 05/28 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sendicmimic</span><span class="f3 push-content">: 正確答案。</span><span class="push-ipdatetime"> 05/28 00:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bugattiss</span><span class="f3 push-content">: 專業中肯推</span><span class="push-ipdatetime"> 05/28 00:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">betty55066</span><span class="f3 push-content">: 太同意必須推</span><span class="push-ipdatetime"> 05/28 00:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">just206</span><span class="f3 push-content">: 把馬雲跟郭某當神的大概就是那類人啦</span><span class="push-ipdatetime"> 05/28 00:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s3926293</span><span class="f3 push-content">: 你幹嘛打破人家的神話</span><span class="push-ipdatetime"> 05/28 00:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eec2132469y</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 00:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 看來台灣人還是比較喜歡像施振榮這群倚老賣老的科技人，馬</span><span class="push-ipdatetime"> 05/28 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 雲這種敢嘴敢講的，盡量還是扣幾頂帽子給他先</span><span class="push-ipdatetime"> 05/28 00:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">modulation</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 00:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Diehardx</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/28 00:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Stunts</span><span class="f3 push-content">: 中國研發出一彈双星，這些都被西方制裁下還做出來，皇民，</span><span class="push-ipdatetime"> 05/28 00:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Stunts</span><span class="f3 push-content">: 化的台灣怎麼沒有呢？</span><span class="push-ipdatetime"> 05/28 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rowi</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 最好笑的是 保險/直銷類的很愛拿他的話做激勵</span><span class="push-ipdatetime"> 05/28 00:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Stunts</span><span class="f3 push-content">: 說到底你在諷刺科技不如中國的台灣連狗都不如嗎？給我道歉</span><span class="push-ipdatetime"> 05/28 00:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dcdrkim</span><span class="f3 push-content">: 馬雲的狗屁都應證在他妻兒女身上</span><span class="push-ipdatetime"> 05/28 00:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 最好笑的是，台灣竟然沒有一個人說出來的話，像馬雲如此有</span><span class="push-ipdatetime"> 05/28 00:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 共鳴，有共鳴到可以讓直銷/保險業拿來引用</span><span class="push-ipdatetime"> 05/28 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 最後兩段最實在</span><span class="push-ipdatetime"> 05/28 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">octangus07</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GGdong</span><span class="f3 push-content">: 你這樣叫那些把馬雲掛在嘴邊的直銷怎麼辦</span><span class="push-ipdatetime"> 05/28 00:43
+</span></div>
+  傳銷最愛的用名人話語與特殊頭銜來鼓舞自己，但實際上還不是空的
+
+這種阿Q式的精神勝利法還是洗洗睡吧！
+
+對於人類又沒貢獻，只是靠著話術來吸引別人買東西，比早餐店老闆娘喊你帥哥還要假
+
+只是為了消除自己四處碰壁後的挫折感而已。
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 台灣人說出來的話稍微可引用並引發共鳴的，應該檯面上就剩</span><span class="push-ipdatetime"> 05/28 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 嚴長壽了，但是他的話跟馬雲比，高下立判</span><span class="push-ipdatetime"> 05/28 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack22661</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 00:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eskawater</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 00:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kendan88</span><span class="f3 push-content">: 馬個智障</span><span class="push-ipdatetime"> 05/28 00:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cities516</span><span class="f3 push-content">: 震驚了十億人</span><span class="push-ipdatetime"> 05/28 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fspd4322</span><span class="f3 push-content">: 精闢推</span><span class="push-ipdatetime"> 05/28 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 推馬雲是智障</span><span class="push-ipdatetime"> 05/28 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 不過深藍跟阿法狗其實不是你講的那樣</span><span class="push-ipdatetime"> 05/28 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 阿法狗是更單純的數據分析</span><span class="push-ipdatetime"> 05/28 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TitanEric</span><span class="f3 push-content">: 講的不錯</span><span class="push-ipdatetime"> 05/28 00:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chh7526</span><span class="f3 push-content">: 人家可是中國最會嘴的男人呢？</span><span class="push-ipdatetime"> 05/28 00:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">facefear</span><span class="f3 push-content">: 是中國研發 還是中國盜竊.............................</span><span class="push-ipdatetime"> 05/28 00:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">slayptter</span><span class="f3 push-content">: 23:04哈哈</span><span class="push-ipdatetime"> 05/28 01:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">person1204</span><span class="f3 push-content">: 會讓那麼多垃圾共鳴的 也只有馬雲了 幹話王無誤</span><span class="push-ipdatetime"> 05/28 01:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 歐巴馬：什麼，我幹話王的寶座，竟然被奪走了</span><span class="push-ipdatetime"> 05/28 01:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alphabear</span><span class="f3 push-content">: 搞不過亞馬遜搞個阿里巴巴</span><span class="push-ipdatetime"> 05/28 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wand</span><span class="f3 push-content">: 這篇有到位喔</span><span class="push-ipdatetime"> 05/28 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cca1109</span><span class="f3 push-content">: 百度會出beta in 然後綁架你的棋手綁架大賽綁架你的電視</span><span class="push-ipdatetime"> 05/28 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ELAHaWK</span><span class="f3 push-content">: 水喔 XD</span><span class="push-ipdatetime"> 05/28 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 一個搞抄襲跟盜版就能發財的地方當然不會去搞創新</span><span class="push-ipdatetime"> 05/28 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lsslz</span><span class="f3 push-content">: 中肯。看到別人推馬雲根本智障</span><span class="push-ipdatetime"> 05/28 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ivyfisher</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dummydoll</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 01:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iam0718</span><span class="f3 push-content">: 這世道有錢說的話就很多人推 正常啊</span><span class="push-ipdatetime"> 05/28 01:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bmmbmmbmm</span><span class="f3 push-content">: 某ID 回的很勤阿XD</span><span class="push-ipdatetime"> 05/28 01:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gladstone</span><span class="f3 push-content">: 阿法狗 本來就在互相練習。不懂裝懂</span><span class="push-ipdatetime"> 05/28 01:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h08094493333</span><span class="f3 push-content">: 雖然很中肯而且一針見血XD</span><span class="push-ipdatetime"> 05/28 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">h08094493333</span><span class="f3 push-content">: 但不能否認淘寶的確是電子商務很成功的案例</span><span class="push-ipdatetime"> 05/28 01:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckyBF</span><span class="f3 push-content">: 我同意</span><span class="push-ipdatetime"> 05/28 01:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loveyanzi03</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aids893001</span><span class="f3 push-content">: 馬雲 不知所云</span><span class="push-ipdatetime"> 05/28 01:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orz7887245</span><span class="f3 push-content">: 推！ 但你罵馬雲就好，為啥要婊內湖呢？ 黑壓壓錯了嗎</span><span class="push-ipdatetime"> 05/28 01:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orz7887245</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 05/28 01:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gladstone</span><span class="f3 push-content">: 棋士一種變化多端的項目，照片分類，語音辨識，現在連</span><span class="push-ipdatetime"> 05/28 01:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Gladstone</span><span class="f3 push-content">: 創作都有AI,還在那邊講只會一種棋，不懂不要來丟人現</span><span class="push-ipdatetime"> 05/28 01:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bbsrong34</span><span class="f3 push-content">: 事實</span><span class="push-ipdatetime"> 05/28 01:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gladstone</span><span class="f3 push-content">: 扯你擋雅馬遜 就講台灣出得了馬雲嗎？ 頗呵</span><span class="push-ipdatetime"> 05/28 01:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">steven89185</span><span class="f3 push-content">: 推前兩句跟最後一句</span><span class="push-ipdatetime"> 05/28 01:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MoronJJ</span><span class="f3 push-content">: 哈哈</span><span class="push-ipdatetime"> 05/28 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andyssfresh</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s3f4e9g6aa7</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHORTRED</span><span class="f3 push-content">: 優文</span><span class="push-ipdatetime"> 05/28 01:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pewsggl</span><span class="f3 push-content">: 長輩很吃馬雲這套......我都不知道該說什麼了</span><span class="push-ipdatetime"> 05/28 01:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aimify</span><span class="f3 push-content">: 推我呸（拇指</span><span class="push-ipdatetime"> 05/28 01:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiwa</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/28 01:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z36963zat</span><span class="f3 push-content">: 狂</span><span class="push-ipdatetime"> 05/28 01:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sturmpionier</span><span class="f3 push-content">: 關你屁事</span><span class="push-ipdatetime"> 05/28 01:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sturmpionier</span><span class="f3 push-content">: 我指馬雲</span><span class="push-ipdatetime"> 05/28 01:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zardmih</span><span class="f3 push-content">: 靠北 不嬴難道要一直輸喔</span><span class="push-ipdatetime"> 05/28 01:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackerxx</span><span class="f3 push-content">: 真的是幹話王 話裡面還有錯誤資訊 呵呵</span><span class="push-ipdatetime"> 05/28 01:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smdf</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">drump</span><span class="f3 push-content">: 你知道的太多了</span><span class="push-ipdatetime"> 05/28 01:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hodj</span><span class="f3 push-content">: 支那狗就是廢而已，創新這兩字牠們做不到</span><span class="push-ipdatetime"> 05/28 01:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">marcauyau</span><span class="f3 push-content">: 放google進來 商機 數據資料被外國人分食幹嘛</span><span class="push-ipdatetime"> 05/28 01:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric2057</span><span class="f3 push-content">: 他本來就是智障啊 他的話有人信？</span><span class="push-ipdatetime"> 05/28 01:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ly1752</span><span class="f3 push-content">: 這裡很多崇拜他的喔 他們要森77了</span><span class="push-ipdatetime"> 05/28 01:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">STARKWANG</span><span class="f3 push-content">: 推，但一旦馬雲看到阿法狗的定位，我相信他還是有辦法</span><span class="push-ipdatetime"> 05/28 01:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">STARKWANG</span><span class="f3 push-content">: 創造更大的商機</span><span class="push-ipdatetime"> 05/28 01:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h11103</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Agamemnonk</span><span class="f3 push-content">:    馬雲只會嘴 會聽他說什麼的人腦帶根本..</span><span class="push-ipdatetime"> 05/28 01:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DLHZ</span><span class="f3 push-content">: 賣假貨的是要公殺小 下夕夏景</span><span class="push-ipdatetime"> 05/28 01:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jpg31415926</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 會聽馬雲的人腦袋根本… 咦…想起之前馬雲的某篇文章在ptt</span><span class="push-ipdatetime"> 05/28 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 被推到爆，鄉民自己打自己臉嗎XDD</span><span class="push-ipdatetime"> 05/28 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: <a href="https://disp.cc/b/163-88og" target="_blank" rel="nofollow">https://disp.cc/b/163-88og</a></span><span class="push-ipdatetime"> 05/28 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eeveelugia2</span><span class="f3 push-content">: 我的話要是能讓台灣這群廢物慣老闆共鳴 我會想自殺</span><span class="push-ipdatetime"> 05/28 01:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eeveelugia2</span><span class="f3 push-content">: 因為這表示我跟這群慣老闆同水準</span><span class="push-ipdatetime"> 05/28 01:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pegasus170</span><span class="f3 push-content">: 你真的有看到實驗內涵，馬雲就只是靠關係的暴發戶。</span><span class="push-ipdatetime"> 05/28 01:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 所以ptt鄉民是廢物慣老闆，所以對馬雲的話產生共鳴，這是什</span><span class="push-ipdatetime"> 05/28 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 麼邏輯…</span><span class="push-ipdatetime"> 05/28 01:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ltsart0515</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 01:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cervelo1995</span><span class="f3 push-content">: 同意，馬雲只是中國式功利主義崇拜對象....</span><span class="push-ipdatetime"> 05/28 02:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gn02118620</span><span class="f3 push-content">: 嘻嘻 奇文共賞</span><span class="push-ipdatetime"> 05/28 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goldflower</span><span class="f3 push-content">: 恩  沒中國的保護傘馬雲不知道還在哪睡</span><span class="push-ipdatetime"> 05/28 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack2324</span><span class="f3 push-content">: 馬雲以為AI只是用來下圍棋..鋼鐵人都演給你看了還這麼蠢</span><span class="push-ipdatetime"> 05/28 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldflower</span><span class="f3 push-content">: 其實就是內需市場比較大的裕隆的概念</span><span class="push-ipdatetime"> 05/28 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skymay0323</span><span class="f3 push-content">: 驚呆了</span><span class="push-ipdatetime"> 05/28 02:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">queenie98</span><span class="f3 push-content">: 同意結論</span><span class="push-ipdatetime"> 05/28 02:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">usaku</span><span class="f3 push-content">: 支那黨國豢養出來的</span><span class="push-ipdatetime"> 05/28 02:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jhangyu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 02:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windfox6705</span><span class="f3 push-content">: 說的好</span><span class="push-ipdatetime"> 05/28 02:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lponnn</span><span class="f3 push-content">: 說的真好 馬雲的成功有超過8成都是因為主場優勢</span><span class="push-ipdatetime"> 05/28 02:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 就因為馬雲知道AI不是只能拿來下棋，才會說出此番話，AI人</span><span class="push-ipdatetime"> 05/28 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 工智慧那麼行，怎麼不快點先去解決譬如造出永動機或是弄出</span><span class="push-ipdatetime"> 05/28 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: 愛滋病疫苗來…簡單說，大家已經知道阿發狗你很會下圍棋啦</span><span class="push-ipdatetime"> 05/28 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tr920</span><span class="f3 push-content">: ，可以去做點別的更有意義的事情啦</span><span class="push-ipdatetime"> 05/28 02:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tyr2004</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 02:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 馬雲不是幫支共黨國紅二紅三太子黨們看家護院的掌櫃嗎</span><span class="push-ipdatetime"> 05/28 02:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jhshen15</span><span class="f3 push-content">: 優質文章</span><span class="push-ipdatetime"> 05/28 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 鄉野謠傳今年支共美刀已經開始吃緊 騰訊跟阿里巴巴還去</span><span class="push-ipdatetime"> 05/28 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 美國借美刀給支共應急</span><span class="push-ipdatetime"> 05/28 02:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kikujiro</span><span class="f3 push-content">: 這篇被翻牆回內陸玻璃股又要漲停了</span><span class="push-ipdatetime"> 05/28 02:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 對照起支共支人行最近要求各大行庫把扣掉維持流動性所</span><span class="push-ipdatetime"> 05/28 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 需之後多出來的美刀通通上繳的消息 支共的美刀還能撐多</span><span class="push-ipdatetime"> 05/28 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 久是個愈來愈有趣的大哉問</span><span class="push-ipdatetime"> 05/28 02:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: 所以像中國這種（自詡）大國的科技才發展的2266啊！</span><span class="push-ipdatetime"> 05/28 02:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dupd8017</span><span class="f3 push-content">: 我有點擔心你的安危</span><span class="push-ipdatetime"> 05/28 02:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: 智慧、思考能力人民素養都不是那麼好；但偏偏很多人</span><span class="push-ipdatetime"> 05/28 02:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: 對這種成功人士的話深信不疑！</span><span class="push-ipdatetime"> 05/28 02:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Demenz</span><span class="f3 push-content">: 推ww</span><span class="push-ipdatetime"> 05/28 02:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GanKer</span><span class="f3 push-content">: 的確啊，光看淘寶就知道，一整個落後的象徵，利用人類的貪</span><span class="push-ipdatetime"> 05/28 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GanKer</span><span class="f3 push-content">: 婪，踩著人們的屍體往前，盜版仿冒一堆，創意持續被扼殺..</span><span class="push-ipdatetime"> 05/28 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GanKer</span><span class="f3 push-content">: .中國人的劣根性，千古不變!</span><span class="push-ipdatetime"> 05/28 02:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jitaomef</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/28 02:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">markweng</span><span class="f3 push-content">: 正解</span><span class="push-ipdatetime"> 05/28 02:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a72737363</span><span class="f3 push-content">: 猛</span><span class="push-ipdatetime"> 05/28 03:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">konane</span><span class="f3 push-content">: 中肯又犀利的批評</span><span class="push-ipdatetime"> 05/28 03:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thaleschou</span><span class="f3 push-content">: 幫呸～</span><span class="push-ipdatetime"> 05/28 03:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyng1126</span><span class="f3 push-content">: 只會出一張馬嘴又贏不了的ㄎㄎ</span><span class="push-ipdatetime"> 05/28 03:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctes940008</span><span class="f3 push-content">: 是的</span><span class="push-ipdatetime"> 05/28 03:32
+</span></div><span class="f2">※ 編輯: sd131420 (27.246.1.200), 05/28/2017 03:46:28
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SeTeVen</span><span class="f3 push-content">: 樓下馬雲支持者要噓你惹</span><span class="push-ipdatetime"> 05/28 03:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leon1309</span><span class="f3 push-content">: 你知道的太多了</span><span class="push-ipdatetime"> 05/28 03:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bbalabababa</span><span class="f3 push-content">: 馬雲大概自己也知道自己是風口上的豬吧</span><span class="push-ipdatetime"> 05/28 03:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xetherz3</span><span class="f3 push-content">: 你是在公三小</span><span class="push-ipdatetime"> 05/28 03:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cuzted</span><span class="f3 push-content">: 分析超中肯</span><span class="push-ipdatetime"> 05/28 03:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hardware</span><span class="f3 push-content">: 內行</span><span class="push-ipdatetime"> 05/28 03:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 看第一句我就要推你了</span><span class="push-ipdatetime"> 05/28 03:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asusm307</span><span class="f3 push-content">: 推文也很可愛你覺得他們投入這麼多得到的結果只為了應</span><span class="push-ipdatetime"> 05/28 03:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asusm307</span><span class="f3 push-content">: 用在下圍棋嗎，還需要馬雲提醒?</span><span class="push-ipdatetime"> 05/28 03:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 人家確實發出訊息要轉移領域應用了啊 還需要你在這呼籲喔</span><span class="push-ipdatetime"> 05/28 04:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 下圍棋只是先行應用與炒熱廣告效益 真當人家用這個是要當</span><span class="push-ipdatetime"> 05/28 04:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurtc</span><span class="f3 push-content">: 棋聖喔XD</span><span class="push-ipdatetime"> 05/28 04:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bushwick</span><span class="f3 push-content">: 面對如此驚人的真相，馬雲竟然說了這個!</span><span class="push-ipdatetime"> 05/28 04:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 人治國家出來的企業家靠的覺得不是他做的比人家好</span><span class="push-ipdatetime"> 05/28 04:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shawnxxx</span><span class="f3 push-content">: 你也只能在這取暖了</span><span class="push-ipdatetime"> 05/28 04:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">krazy1101</span><span class="f3 push-content">: 幹話雲</span><span class="push-ipdatetime"> 05/28 04:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yu0117</span><span class="f3 push-content">: 都被你說完了，這個不能讓中國人知道啦</span><span class="push-ipdatetime"> 05/28 04:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ULSHAN</span><span class="f3 push-content">: 賣假貨幹話王，食屎去</span><span class="push-ipdatetime"> 05/28 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">itoh</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 04:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a64681432</span><span class="f3 push-content">: 優質文</span><span class="push-ipdatetime"> 05/28 04:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">foone</span><span class="f3 push-content">: 在這發廢文呸馬雲?是中綠毒太深?嘴嘴剩利法?</span><span class="push-ipdatetime"> 05/28 04:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icrticrt1682</span><span class="f3 push-content">: 一堆人是已經賣帳號了膩，看各種竄出來蠕動</span><span class="push-ipdatetime"> 05/28 04:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skbshawn</span><span class="f3 push-content">: 終於有人肯說實話</span><span class="push-ipdatetime"> 05/28 04:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clfish</span><span class="f3 push-content">: 推崇馬雲的人應該是以為馬雲是靠自己成功的，沒想過其實他</span><span class="push-ipdatetime"> 05/28 05:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clfish</span><span class="f3 push-content">: 只是政府的魁儡</span><span class="push-ipdatetime"> 05/28 05:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">StockVirtual</span><span class="f3 push-content">: Google 是要推銷他家的 CPU 啦…</span><span class="push-ipdatetime"> 05/28 05:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HukataNami</span><span class="f3 push-content">: 馬雲一句幹話讓65億人都驚呆了</span><span class="push-ipdatetime"> 05/28 05:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuzukineko</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 05:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">movieyao</span><span class="f3 push-content">: 講話實在</span><span class="push-ipdatetime"> 05/28 06:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">POID</span><span class="f3 push-content">: 你知道太多秘密了</span><span class="push-ipdatetime"> 05/28 06:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MARTINA3016</span><span class="f3 push-content">: 馬雲就是有錢大老粗一個</span><span class="push-ipdatetime"> 05/28 06:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">csb0913</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 06:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tamama56</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 06:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">timtxes</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 06:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tiuseensii</span><span class="f3 push-content">: 嗯嗯原來是這樣啊</span><span class="push-ipdatetime"> 05/28 06:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kapercd</span><span class="f3 push-content">: 真的 認同</span><span class="push-ipdatetime"> 05/28 06:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayu</span><span class="f3 push-content">: 傀儡至少要有成為傀儡的籌碼。以馬雲自己發言說「國家有需要</span><span class="push-ipdatetime"> 05/28 06:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayu</span><span class="f3 push-content">: 時，我會把支付寶雙手奉上」我不懷疑他是傀儡。但從一個西</span><span class="push-ipdatetime"> 05/28 06:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayu</span><span class="f3 push-content">: 湖旁幫外國人擦鞋的屁孩到有被中國政府利用的價值，這個過程</span><span class="push-ipdatetime"> 05/28 06:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayu</span><span class="f3 push-content">: 都不算成功的話，世界上成功的人還真不多。有一群人搖著尾</span><span class="push-ipdatetime"> 05/28 06:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayu</span><span class="f3 push-content">: 巴爭做中國政府傀儡還輪不到他們呢。</span><span class="push-ipdatetime"> 05/28 06:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxwu2012</span><span class="f3 push-content">: t某回這麼勤 可以領多少啊？</span><span class="push-ipdatetime"> 05/28 07:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">royfw</span><span class="f3 push-content">: 衝著你前兩句話給推</span><span class="push-ipdatetime"> 05/28 07:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeans520</span><span class="f3 push-content">: 確實就如特斯拉與愛迪生。發明家與投機客的差別</span><span class="push-ipdatetime"> 05/28 07:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IloveBlack2</span><span class="f3 push-content">: 痾可是你提到的例子都不是馬雲的</span><span class="push-ipdatetime"> 05/28 07:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">helloeric</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/28 07:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeromeshih</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 07:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rock0747</span><span class="f3 push-content">: 馬雲就是個靠關係的白癡啊，還真以為自己有料哦</span><span class="push-ipdatetime"> 05/28 07:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">swchicken</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 07:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Noel7788</span><span class="f3 push-content">: 你得到他了</span><span class="push-ipdatetime"> 05/28 07:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rumraisin</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/28 07:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Angola512</span><span class="f3 push-content">: 推個</span><span class="push-ipdatetime"> 05/28 07:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saisai60</span><span class="f3 push-content">: 準確中肯</span><span class="push-ipdatetime"> 05/28 07:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chean1020</span><span class="f3 push-content">: 推 中肯</span><span class="push-ipdatetime"> 05/28 08:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jet113102</span><span class="f3 push-content">: 馬雲雖然是智障，可是他是講幹話的天才</span><span class="push-ipdatetime"> 05/28 08:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jfriendtw</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 08:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smonkey</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/28 08:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">menontw</span><span class="f3 push-content">: 你知道太多了，這樣去中國會被捕。</span><span class="push-ipdatetime"> 05/28 08:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">firecrest</span><span class="f3 push-content">: 9.2長輩超愛馬雲語錄 哈哈</span><span class="push-ipdatetime"> 05/28 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">davild54849</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 08:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cbim822</span><span class="f3 push-content">: 因為贏沒錢，如果有，你就會想去分一杯，然後會說前景無</span><span class="push-ipdatetime"> 05/28 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cbim822</span><span class="f3 push-content">: 限，人類未來。。。也會覺得有意思</span><span class="push-ipdatetime"> 05/28 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">supermay49</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demonhom</span><span class="f3 push-content">: 同意</span><span class="push-ipdatetime"> 05/28 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hirosimamika</span><span class="f3 push-content">: 崩潰</span><span class="push-ipdatetime"> 05/28 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Instru01</span><span class="f3 push-content">: 你不要那麼專業好不好</span><span class="push-ipdatetime"> 05/28 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Fallot</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 08:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smho</span><span class="f3 push-content">: 認同</span><span class="push-ipdatetime"> 05/28 09:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h73o1012</span><span class="f3 push-content">: 你太注重表面了 他是外星人</span><span class="push-ipdatetime"> 05/28 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">apple7685</span><span class="f3 push-content">: 你是天才</span><span class="push-ipdatetime"> 05/28 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sion1993</span><span class="f3 push-content">: 運氣好的幹話王</span><span class="push-ipdatetime"> 05/28 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tuscany</span><span class="f3 push-content">: 推 這傢伙幹話一堆</span><span class="push-ipdatetime"> 05/28 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">realbout</span><span class="f3 push-content">: 功在黨國</span><span class="push-ipdatetime"> 05/28 09:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stes5410</span><span class="f3 push-content">: 馬雲只是支那養的樣板狗罷了，一堆人還真以為那些故事都</span><span class="push-ipdatetime"> 05/28 09:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stes5410</span><span class="f3 push-content">: 是真的，笑死</span><span class="push-ipdatetime"> 05/28 09:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">minivg</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 09:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cauliluac</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 09:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mikeway</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 09:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lolicon100</span><span class="f3 push-content">: 棒棒</span><span class="push-ipdatetime"> 05/28 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seashare</span><span class="f3 push-content">: 內行</span><span class="push-ipdatetime"> 05/28 09:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NoCanDo</span><span class="f3 push-content">: 靠嘴靠爸靠關係確實也是一種商業上的實力，但到底贏了</span><span class="push-ipdatetime"> 05/28 09:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kengoptt</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 09:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NoCanDo</span><span class="f3 push-content">: 什麼東西 這點 就值得好好探究一番</span><span class="push-ipdatetime"> 05/28 09:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jjimonkey</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 10:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shanpinlo</span><span class="f3 push-content">: 鎖國再山寨 算什麼好漢</span><span class="push-ipdatetime"> 05/28 10:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">evilfirefox</span><span class="f3 push-content">: 馬雲：啊！ 一直贏錢沒意思！偶爾賠點好了</span><span class="push-ipdatetime"> 05/28 10:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s5212273ike</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/28 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oberatri</span><span class="f3 push-content">: 看結論就夠了</span><span class="push-ipdatetime"> 05/28 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickey1270</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 05/28 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lunaX19</span><span class="f3 push-content">: 我覺得某ID真需要它口中的&#34;智慧&#34;....</span><span class="push-ipdatetime"> 05/28 11:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siensien</span><span class="f3 push-content">: 正解</span><span class="push-ipdatetime"> 05/28 11:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Moratti</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">terrykoc</span><span class="f3 push-content">: 你把創業致富想的太簡單了 呵呵 沒歷練嘴砲聽聽就好誰不</span><span class="push-ipdatetime"> 05/28 11:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">terrykoc</span><span class="f3 push-content">: 會</span><span class="push-ipdatetime"> 05/28 11:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Letranger</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 11:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Asucks</span><span class="f3 push-content">: 相當不屑馬雲+1</span><span class="push-ipdatetime"> 05/28 11:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">minbyminby</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/28 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">richard42</span><span class="f3 push-content">: 揮淚斬馬雲</span><span class="push-ipdatetime"> 05/28 11:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AbbeyJien</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 11:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nosweat</span><span class="f3 push-content">: 又震驚13個億啦!!</span><span class="push-ipdatetime"> 05/28 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mynewid</span><span class="f3 push-content">: 能算棋,就能做更多事</span><span class="push-ipdatetime"> 05/28 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">how3550</span><span class="f3 push-content">: 之前老人家還狂捧</span><span class="push-ipdatetime"> 05/28 12:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ssd123698745</span><span class="f3 push-content">: 推文有87以為google搞人工智慧只是來下圍棋的喔XDD</span><span class="push-ipdatetime"> 05/28 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeahco</span><span class="f3 push-content">: 您真是個天才</span><span class="push-ipdatetime"> 05/28 13:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fenooxx</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 13:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jessel</span><span class="f3 push-content">: 就標準覺青的起手式 誰都瞧不起自己最有格調見解最不平凡</span><span class="push-ipdatetime"> 05/28 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jessel</span><span class="f3 push-content">: 最後再個回馬槍 人家成功都是靠關係靠保護不用付出</span><span class="push-ipdatetime"> 05/28 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jessel</span><span class="f3 push-content">: 怎麼不自己先照照鏡子  趁趁自己的斤兩?</span><span class="push-ipdatetime"> 05/28 13:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shonting</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 13:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: 講得真好 推個</span><span class="push-ipdatetime"> 05/28 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seebrave</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 14:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 以為估狗搞阿發狗只是為了下棋也太扯了吧......</span><span class="push-ipdatetime"> 05/28 14:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ringtweety</span><span class="f3 push-content">: 在其他國家 這種成功是實力 在中國 嗯......</span><span class="push-ipdatetime"> 05/28 14:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lion3306</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">person1204</span><span class="f3 push-content">: 的確值得研究 就像科學家研究癌症與愛滋病</span><span class="push-ipdatetime"> 05/28 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snoopy920</span><span class="f3 push-content">: 牠就是隻狗</span><span class="push-ipdatetime"> 05/28 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">josefan</span><span class="f3 push-content">: 推個</span><span class="push-ipdatetime"> 05/28 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xzp436</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nikolas</span><span class="f3 push-content">: 好可憐的八卦版  顆顆</span><span class="push-ipdatetime"> 05/28 18:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LaoDa5815566</span><span class="f3 push-content">: 馬雲就只是張慣老闆喇叭嘴</span><span class="push-ipdatetime"> 05/28 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dodo577</span><span class="f3 push-content">: 你太懂中國人了</span><span class="push-ipdatetime"> 05/28 19:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JQK2</span><span class="f3 push-content">: 馬雲就標準不懂科技的文組然後自以為是硬要評論</span><span class="push-ipdatetime"> 05/28 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zx2767842</span><span class="f3 push-content">: 我突然覺得很中肯</span><span class="push-ipdatetime"> 05/29 00:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Murloc</span><span class="f3 push-content">: 內行</span><span class="push-ipdatetime"> 05/29 09:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkmaze</span><span class="f3 push-content">: 爽了吼 不過你身價還是還是差馬雲幾十億倍啊....</span><span class="push-ipdatetime"> 05/29 19:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wac08</span><span class="f3 push-content">: 身價高,說的就對的,馬雲叫你吃屎,你就吃屎囉?</span><span class="push-ipdatetime"> 06/01 07:09
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495894186.A.846.html?cacheKey=2052-579917&offset=56644&offset-sig=18060c15c906aebcbdc838b4b19e9588c5e6fb14" data-longpollurl="/v1/longpoll?id=c764e0289d16b4831913f9b1dab7001db66c4ac5" data-offset="56644"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

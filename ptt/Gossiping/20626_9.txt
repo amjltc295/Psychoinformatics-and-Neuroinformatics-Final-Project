@@ -1,0 +1,181 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495355860.A.FC6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 愛滑手機手指易長「汗皰疹」 竟是「陽離 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+ETToday 記者嚴云岑／台北報導
+2.完整新聞標題:
+愛滑手機手指易長「汗皰疹」　竟是「陽離子」在作怪
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 愛滑手機手指易長「汗皰疹」 竟是「陽離">
+<meta property="og:description" content="1.媒體來源:
+ETToday 記者嚴云岑／台北報導
+2.完整新聞標題:
+愛滑手機手指易長「汗皰疹」　竟是「陽離子」在作怪
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495355860.A.FC6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495355860.A.FC6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">skn60694 (入聲)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 愛滑手機手指易長「汗皰疹」 竟是「陽離</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 16:37:37 2017</span></div>
+1.媒體來源:
+ETToday 記者嚴云岑／台北報導
+
+2.完整新聞標題:
+愛滑手機手指易長「汗皰疹」　竟是「陽離子」在作怪
+
+3.完整新聞內文:
+悶熱夏天來臨，許多人手指、腳趾側面都長出一整排搔癢難耐的小顆粒。台北長庚中醫內
+兒科醫師楊政道表示，這些小顆粒就是的「汗皰疹」，好發於體質較「濕」的族群，而現
+代人愛<span class="f3 hl">打電腦、滑手機，也讓電磁波的「陽離子」卡在手指處，誘發病毒產生</span>，建議3C族
+可<span class="f3 hl">多運動排汗，將積累在指尖的陽離子排除體外。</span>
+
+楊政道提到，汗皰疹是夏天常見的疾病，比冬天多出1倍左右，因為夏天比較悶熱，<span class="f3 hl">體質
+</span><span class="f3 hl">較濕的族群較易發作，此時醫師會視患者體質，給予化濕、祛濕的藥物改善</span>，也會警告患
+者不能熬夜，以免症狀加重。
+
+面對不可抗力的悶熱環境，楊政道給出幾個小撇步，包括多穿棉質、麻質的衣物，才能讓
+汗順利排出；此外運動衣物常用的<span class="f3 hl">聚酯纖維，因不具散熱功能</span>，可能會把熱能悶在體內，
+不建議經常穿著。
+
+<span class="f3 hl">炸物、生蒜頭、零食餅乾等因下肚後容易造成口乾舌燥</span>，會讓身體更熱，也要盡量少吃。
+本身有<span class="f3 hl">燥熱體質的人，B群也不建議吃太多。</span>
+
+楊政道說，春夏之交適逢梅雨季節，門診中最常見的3種疾病分別為汗皰疹、過敏性鼻炎
+及乾癬，<span class="f3 hl">建議平時在家中可多</span><span class="f2 hl">穿</span><span class="f3 hl">電風扇，降低過敏原濃度</span>。若直接對腳吹會造成關節疼痛
+，可改採「側風」方式，讓電風扇對著牆壁吹再反彈回來。
+
+4.完整新聞連結 (或短網址):
+<a href="http://health.ettoday.net/news/928549" target="_blank" rel="nofollow">http://health.ettoday.net/news/928549</a>
+
+5.備註:
+
+......
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.115.205.92
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495355860.A.FC6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495355860.A.FC6.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suerinin</span><span class="f3 push-content">: 五樓想穿冷氣</span><span class="push-ipdatetime"> 05/21 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gankgf</span><span class="f3 push-content">: 菜花就菜花</span><span class="push-ipdatetime"> 05/21 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 中醫不意外</span><span class="push-ipdatetime"> 05/21 16:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tf010714</span><span class="f3 push-content">: 穿電風扇這我想只有洛克人裡的空氣人作得到</span><span class="push-ipdatetime"> 05/21 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 電磁波出現陽離子？ 哪來這麼強的磁場？</span><span class="push-ipdatetime"> 05/21 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaduoray</span><span class="f3 push-content">: 電磁波的陽離子是啥</span><span class="push-ipdatetime"> 05/21 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/21 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 哪家中醫出來的</span><span class="push-ipdatetime"> 05/21 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ben40</span><span class="f3 push-content">: 原來電磁波有陽離子啊 長知識了</span><span class="push-ipdatetime"> 05/21 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">osak</span><span class="f3 push-content">: 原來是精通電磁學的中醫師</span><span class="push-ipdatetime"> 05/21 16:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">A07</span><span class="f3 push-content">: 唉... 這記者是哪裡畢業的?</span><span class="push-ipdatetime"> 05/21 16:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tom082626</span><span class="f3 push-content">: 電磁步兵楊教授</span><span class="push-ipdatetime"> 05/21 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wassabi</span><span class="f3 push-content">: 陽離子誘發病毒??</span><span class="push-ipdatetime"> 05/21 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FertilizerN</span><span class="f3 push-content">: 究竟4中醫還是記者呢 還是兩個都</span><span class="push-ipdatetime"> 05/21 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 我左手握手機結果富貴手 貼電磁波貼片好點但還是有症狀</span><span class="push-ipdatetime"> 05/21 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Fallot</span><span class="f3 push-content">: 最好病毒會無中生有</span><span class="push-ipdatetime"> 05/21 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 智障</span><span class="push-ipdatetime"> 05/21 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuer6734</span><span class="f3 push-content">: 哈哈記者哈哈</span><span class="push-ipdatetime"> 05/21 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 中醫+記者</span><span class="push-ipdatetime"> 05/21 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">satan04</span><span class="f3 push-content">: 記者</span><span class="push-ipdatetime"> 05/21 16:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Huevon</span><span class="f3 push-content">: 這跟體質比較有關，最近我手上也長，原本一直找不到原因，</span><span class="push-ipdatetime"> 05/21 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KZsmith</span><span class="f3 push-content">: 暗陰陽離子</span><span class="push-ipdatetime"> 05/21 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Huevon</span><span class="f3 push-content">: 改善體質比防電磁波效果要更明顯。</span><span class="push-ipdatetime"> 05/21 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: 陽離子=cation=CATion 你以為有貓就騙得到我的推!?</span><span class="push-ipdatetime"> 05/21 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 電磁波陽離子...... 要不要查一下這醫生學歷</span><span class="push-ipdatetime"> 05/21 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 我都打手槍，射出 反陽質子炮 就可以解決這個問題</span><span class="push-ipdatetime"> 05/21 17:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 要不要快查查，什麼是 反陽質子炮 :P</span><span class="push-ipdatetime"> 05/21 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LaHu</span><span class="f3 push-content">: HTC趕快研發陽離子砲  免得被蘋果搶先了</span><span class="push-ipdatetime"> 05/21 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">flushwing</span><span class="f3 push-content">: ???????????????</span><span class="push-ipdatetime"> 05/21 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TobyH4cker</span><span class="f3 push-content">: 高中沒畢業?</span><span class="push-ipdatetime"> 05/21 19:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blizer99</span><span class="f3 push-content">: 廢物智障記者 白痴才會信</span><span class="push-ipdatetime"> 05/21 21:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495355860.A.FC6.html?cacheKey=2052-39043814&offset=4682&offset-sig=6e5a868bfa0fc63b5bdc951aab61de34ce8289bf" data-longpollurl="/v1/longpoll?id=4fc971934338a85d22f02856f1d38d806ca8eb59" data-offset="4682"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

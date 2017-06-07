@@ -1,0 +1,170 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495601654.A.098.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 電競成亞運正式項目 未來定位台灣徘徊中 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="電競成亞運正式項目 未來定位台灣徘徊中
+聯合報 記者曾思儒／台北報導
+電競運動再度納入亞洲室內暨武藝運動會，2018年雅加達亞運、2022年杭州亞運也不缺席
+，體育署確定會組隊出賽，對國際綜合賽會納入電競「樂觀其成」，但礙於電競並非正式
+運動，體育署角色仍屬被動。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 電競成亞運正式項目 未來定位台灣徘徊中">
+<meta property="og:description" content="電競成亞運正式項目 未來定位台灣徘徊中
+聯合報 記者曾思儒／台北報導
+電競運動再度納入亞洲室內暨武藝運動會，2018年雅加達亞運、2022年杭州亞運也不缺席
+，體育署確定會組隊出賽，對國際綜合賽會納入電競「樂觀其成」，但礙於電競並非正式
+運動，體育署角色仍屬被動。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495601654.A.098.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495601654.A.098.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">WuSam (藤原豆海)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 電競成亞運正式項目 未來定位台灣徘徊中</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 12:54:11 2017</span></div>
+電競成亞運正式項目 未來定位台灣徘徊中
+
+聯合報 記者曾思儒／台北報導
+
+電競運動再度納入亞洲室內暨武藝運動會，2018年雅加達亞運、2022年杭州亞運也不缺席
+，體育署確定會組隊出賽，對國際綜合賽會納入電競「樂觀其成」，但礙於電競並非正式
+運動，體育署角色仍屬被動。
+
+體育署主任秘書王漢忠指出，電競產值大，台灣隊伍在幾場世界賽表現也十分亮眼，但電
+競運動始終沒獲得國際運動總會認可，國際奧林匹克委員會（IOC）承認的國際運動總會
+，也未包含電競運動總會，就體育署來說，現階段仍是比照圍棋模式進行輔導。
+
+圍棋曾在2010年廣州亞運被納入，卻是「曇花一現」，王漢忠坦言，體育署培養選手是以
+「奪牌」為目標，電競若無法繼續躋身國際綜合賽會，體育署角色仍屬被動。
+
+推廣無法比照田徑、游泳等競技運動，但電競只要確定納入綜合賽會，體育署仍會組團專
+案派隊參賽。
+
+2013仁川亞洲室內暨武藝運動會是電競最近一次列入綜合運動會，中華代表團派出8名選
+手、2名教練，在6個項目中帶回1銀2銅；今年土庫曼亞洲室內暨武藝運動會將依循同樣組
+團方式，待亞洲奧林匹克理事會正式行文公告競賽種類和項目，體育署就會召開組團專案
+小組會議，由各單項協會舉行國手選拔後進行培訓。
+
+<span class="f3 hl">亞洲奧林匹克理事會上月宣布，電競列為土庫曼亞洲室內暨武藝運動會和雅加達亞運示範
+</span><span class="f3 hl">項目，杭州亞運成正式項目</span>；王漢忠表示，不排除擬定較長期的培訓計畫，但2022年之後
+的下一步，目前仍是未知數。
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/10222/2479579" target="_blank" rel="nofollow">https://udn.com/news/story/10222/2479579</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.237.251.244
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495601654.A.098.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495601654.A.098.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JhoYng420</span><span class="f3 push-content">: 電競元年</span><span class="push-ipdatetime"> 05/24 12:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kmtlikeslave</span><span class="f3 push-content">: 肥宅拿奧運！</span><span class="push-ipdatetime"> 05/24 12:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">icelaw</span><span class="f3 push-content">: 肥宅元年</span><span class="push-ipdatetime"> 05/24 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CorumChen</span><span class="f3 push-content">: 雖敗猶榮</span><span class="push-ipdatetime"> 05/24 12:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 又要元年了</span><span class="push-ipdatetime"> 05/24 12:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happy27727</span><span class="f3 push-content">: 先把掌權者跟家長 對於電玩這塊的觀念重新定義 再來談</span><span class="push-ipdatetime"> 05/24 12:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">homerunball</span><span class="f3 push-content">: 會場滿滿的中韓台肥宅</span><span class="push-ipdatetime"> 05/24 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happy27727</span><span class="f3 push-content">: 電競能不能當培訓項目</span><span class="push-ipdatetime"> 05/24 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yuugen2</span><span class="f3 push-content">: 重新定義</span><span class="push-ipdatetime"> 05/24 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adple123</span><span class="f3 push-content">: 去網咖補習嚕</span><span class="push-ipdatetime"> 05/24 12:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happy27727</span><span class="f3 push-content">: 一堆長輩家長死腦筋的</span><span class="push-ipdatetime"> 05/24 12:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">makimakimaki</span><span class="f3 push-content">: 體育署可以廢了</span><span class="push-ipdatetime"> 05/24 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">orangel</span><span class="f3 push-content">: 電競 運動????????</span><span class="push-ipdatetime"> 05/24 13:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TCChen4989</span><span class="f3 push-content">: 棒球曾經出局，電競現在加入，原來這就是體育</span><span class="push-ipdatetime"> 05/24 13:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bathilda</span><span class="f3 push-content">: ???!!!!韓國人鼓吹的吧</span><span class="push-ipdatetime"> 05/24 13:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cha23Cha</span><span class="f3 push-content">: 白癡</span><span class="push-ipdatetime"> 05/24 13:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sdd5426</span><span class="f3 push-content">: 笑死人了 亞洲各國集體腦殘送韓國人一面金牌</span><span class="push-ipdatetime"> 05/24 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hsu1025</span><span class="f3 push-content">: 可以搶銀牌阿</span><span class="push-ipdatetime"> 05/24 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 會說韓國人拿牌的是不知道這次項目是DOTA2嗎？</span><span class="push-ipdatetime"> 05/24 13:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sdd5426</span><span class="f3 push-content">: 樓上在講三小 有星海爭霸你還說沒送</span><span class="push-ipdatetime"> 05/24 16:29
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495601654.A.098.html?cacheKey=2052-716097&offset=3685&offset-sig=53fbcbe1e2c524a2b8889070c94c301043e416b7" data-longpollurl="/v1/longpoll?id=e53654e195fd07daef2093ca0b27f51f88bc5785" data-offset="3685"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

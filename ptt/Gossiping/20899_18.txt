@@ -1,0 +1,285 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495539986.A.331.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 中國函告各國 不准&#34;台灣省&#34;參加WHA - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:台視新聞
+2.完整新聞標題:
+中國函告各國 不准&#34;台灣省&#34;參加WHA
+&#34;中華民國存在事實&#34; 陸委會盼陸面對
+馬政府以&#34;台灣省&#34;自居8年? 藍委回擊
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 中國函告各國 不准&#34;台灣省&#34;參加WHA">
+<meta property="og:description" content="1.媒體來源:台視新聞
+2.完整新聞標題:
+中國函告各國 不准&#34;台灣省&#34;參加WHA
+&#34;中華民國存在事實&#34; 陸委會盼陸面對
+馬政府以&#34;台灣省&#34;自居8年? 藍委回擊
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495539986.A.331.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495539986.A.331.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mikazeray (カミカゼ)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 中國函告各國 不准&#34;台灣省&#34;參加WHA</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 19:46:19 2017</span></div>
+1.媒體來源:台視新聞
+2.完整新聞標題:
+<span class="b4 hl">中國函告各國 不准&#34;台灣省&#34;參加WHA
+</span><span class="b4 hl">&#34;中華民國存在事實&#34; 陸委會盼陸面對
+</span><span class="b4 hl">馬政府以&#34;台灣省&#34;自居8年? 藍委回擊</span>
+
+3.完整新聞內文:
+這一屆世界衛生大會WHA今天(22號)登場，台灣今年沒有收到邀請函，現在還傳出，中國
+大陸致函給各國代表團，表明中國不允許「台灣省」出席，更傳出過去八年，台灣之所以
+能夠與會，是因為馬政府「用主權交換」。陸委會主委張小月表示，台灣從不接受一中原
+則，希望陸方務實面對中國民國存在的事實。
+
+簡體字文件，斗大寫著中華人民共和國常駐聯合國日內瓦辦事處，內容寫明，中國「決定
+台灣省今年不能參與WHA」，這是中國發函給各國代表團的文件，如今曝光，陸方打壓浮
+上檯面再度強調，中華民國是主權獨立國家，但是信函中還載明，<span class="f1 hl">從2009年以來，中國政
+</span><span class="f1 hl">府同意，台灣省以『中華台北』名稱和觀察員身分參與WHA，是中國經由兩岸協商所建立
+</span><span class="f1 hl">的特殊安排」</span>，言下之意，過去八年的馬政府，豈不是等同承認，以台灣省自居
+
+藍營回擊，不要把北京角色無限放大，不過綠營人士也另有一番見解，認為這次台灣無
+法再以「台灣省」身分出席WHA，就是兩岸關係重新定義的契機，就看蔡政府如何見招
+拆招。
+4.完整新聞連結 (或短網址):
+<a href="http://m.ttv.com.tw/news/view/default.asp?i=10605220015600N&amp;from=568" target="_blank" rel="nofollow">http://m.ttv.com.tw/news/view/default.asp?i=10605220015600N&amp;from=568</a>
+
+5.備註:
+
+補圖
+<a href="http://imgur.com/yRW8PYy.png" target="_blank" rel="nofollow">http://imgur.com/yRW8PYy.png</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="yRW8PYy"><a href="//imgur.com/yRW8PYy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>上面寫Taiwan Province of China(中國的一省)
+
+
+上個禮拜看公視的有話好說
+
+上節目的前衛福部官員就表示，如果是正常觀察員的資格，
+應該是提出申請以後正常照流程走（也就是大會組織審核、再會員表決決定）
+<span class="f3 hl">但是2009年臺灣的觀察員資格（叫做Chinese Taipei,中國台北） 取得是非常不正常的，
+</span><span class="f3 hl">並沒有經過正常流程便取得，而是透過中國特權直接取得</span>，為什麼呢？
+
+<span class="f1 hl">因為那是用條件交換來的，當時馬政府向中國協商，
+</span><span class="f1 hl">換取中國以特權直接在大會上給一個觀察員身份</span>（所以那個觀察員身份的有效期一年內
+也就只有在大會舉辦的那幾天有效而已，並非長久的）；<span class="f1 hl">那協商什麼呢？
+</span><span class="f1 hl">我想大家都知道，當然就是向中華人民共和國承認臺灣是中國的一部份</span>，
+也就是92共識的基本條件。<span class="f6 hl">還有人敢說馬沒有賣台嗎？</span>
+
+而誇張的是馬英九還把這當成他的政績沾沾自喜，還一堆人以為他在改善對中關係上
+有做事，實質上是出賣臺灣去對中國友好罷了。
+
+
+雖說也不意外啦，對PRC和ROC來說大家都是中華(人)民國，
+只是共產黨和國民黨領導而已，大家都是同一國。
+
+現在換蔡政府執政，如果對外還繼續自稱Province of China或Chinese Taipei
+就無怪乎被別人當成中國的一省，而中國也理所當然地把你當他的一部份。
+
+臺灣如果不獨立這種狗屁倒灶的事在國際上只會一再發生而已
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.121.8.227
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495539986.A.331.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495539986.A.331.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttenjk</span><span class="f3 push-content">: 中華台北</span><span class="push-ipdatetime"> 05/23 19:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">melissalewis</span><span class="f3 push-content">: 這ID直接噓</span><span class="push-ipdatetime"> 05/23 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sumika</span><span class="f3 push-content">: ROChina表示無誤</span><span class="push-ipdatetime"> 05/23 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nitvx</span><span class="f3 push-content">: 台灣國可以</span><span class="push-ipdatetime"> 05/23 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">as451412</span><span class="f3 push-content">: 有我祖國中南海代表，台灣省幹嘛還要多派人員參加呢</span><span class="push-ipdatetime"> 05/23 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s81048112</span><span class="f3 push-content">: 垃圾kmt自證 賣台</span><span class="push-ipdatetime"> 05/23 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jinx5566</span><span class="f3 push-content">: 這就是泱泱大國的氣度</span><span class="push-ipdatetime"> 05/23 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaykill</span><span class="f3 push-content">: 沒事兒 沒事兒 台灣人的健康 祖國已給予妥善的照顧</span><span class="push-ipdatetime"> 05/23 19:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dufflin</span><span class="f3 push-content">: 顧面統不倒 台灣不會好</span><span class="push-ipdatetime"> 05/23 19:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hazelburn</span><span class="f3 push-content">: 還是參加了，你要打快打</span><span class="push-ipdatetime"> 05/23 19:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 我只看到被支那強迫正名了，以後歡迎獨派用台灣“省”名</span><span class="push-ipdatetime"> 05/23 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 義走向世界，因為現在全世界都知道台灣原來是中國的一省</span><span class="push-ipdatetime"> 05/23 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 了。</span><span class="push-ipdatetime"> 05/23 19:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pz5202</span><span class="f3 push-content">: 要用台灣國</span><span class="push-ipdatetime"> 05/23 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takase</span><span class="f3 push-content">: 這個沒爆出來，kmt恐怕還是得了便宜又賣乖</span><span class="push-ipdatetime"> 05/23 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sony2470GM</span><span class="f3 push-content">: 回集個屁</span><span class="push-ipdatetime"> 05/23 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secom</span><span class="f3 push-content">: DPP認證的台灣省 XD</span><span class="push-ipdatetime"> 05/23 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikepopkimo</span><span class="f3 push-content">: 民進黨政府沒法參加就拼命黑馬政府</span><span class="push-ipdatetime"> 05/23 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">takase</span><span class="f3 push-content">: 看看闌尾當初怎麼罵的，讓人不齒</span><span class="push-ipdatetime"> 05/23 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secom</span><span class="f3 push-content">: 也就是說 除非台灣獨立 不然以後都是台灣省了嗎？</span><span class="push-ipdatetime"> 05/23 19:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiergh</span><span class="f3 push-content">: KMT：一中各表~~~~</span><span class="push-ipdatetime"> 05/23 19:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">max52001</span><span class="f3 push-content">: 用中華台北申請的 9.2又在騙了</span><span class="push-ipdatetime"> 05/23 19:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikepopkimo</span><span class="f3 push-content">: 2016 那次不是爽爽去？</span><span class="push-ipdatetime"> 05/23 19:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all0pha765</span><span class="f3 push-content">: 這是在告訴全世界: 中國管不了自己擁有(號稱如此)的一</span><span class="push-ipdatetime"> 05/23 19:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">huijun</span><span class="f3 push-content">: xd</span><span class="push-ipdatetime"> 05/23 19:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all0pha765</span><span class="f3 push-content">: 個省吧 被世界看笑話囉</span><span class="push-ipdatetime"> 05/23 19:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secom</span><span class="f3 push-content">: DPP認證的台灣省 吱吱又再次確認是台灣省 XD</span><span class="push-ipdatetime"> 05/23 19:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secom</span><span class="f3 push-content">: 原來台灣省已經被中國擁有了 XD</span><span class="push-ipdatetime"> 05/23 19:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lamain1668</span><span class="f3 push-content">: 只能用台灣國了</span><span class="push-ipdatetime"> 05/23 19:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: 嘴巴長在人臉上，意思可以說成馬習協議後，中華民國可以</span><span class="push-ipdatetime"> 05/23 19:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">UniversalGod</span><span class="f3 push-content">: 支那吃屎</span><span class="push-ipdatetime"> 05/23 19:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secom</span><span class="f3 push-content">: 不敢用台灣國的話 就是默認自己是台灣省！</span><span class="push-ipdatetime"> 05/23 19:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: 派它治下的台灣省去參加WHA，而且中華民國政府為表慎重</span><span class="push-ipdatetime"> 05/23 20:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heci1941</span><span class="f3 push-content">: 國際社會:賣臺(X) 統獨之爭(O)</span><span class="push-ipdatetime"> 05/23 20:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: 特地指派中央單位替代台灣省單位參加~ XDDD</span><span class="push-ipdatetime"> 05/23 20:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 以前支那根本懶得管你用台灣在那叫囂，現在好了直接給你</span><span class="push-ipdatetime"> 05/23 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 正名以後用台灣走出去他就說那是我們的一省。最好的辦法</span><span class="push-ipdatetime"> 05/23 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 就是公投改國號，改formosa也不錯啦。</span><span class="push-ipdatetime"> 05/23 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: 大陸說什麼要緊嗎？</span><span class="push-ipdatetime"> 05/23 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lssmig</span><span class="f3 push-content">: 中國</span><span class="push-ipdatetime"> 05/23 20:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gregbird</span><span class="f3 push-content">: 謝謝中國收留我們台灣省</span><span class="push-ipdatetime"> 05/23 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric6789</span><span class="f3 push-content">: 歪果人本來不知道中國台灣省，現在全世界都知道了，這是</span><span class="push-ipdatetime"> 05/23 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eric6789</span><span class="f3 push-content">: 很成功的外交，大大的露臉了！</span><span class="push-ipdatetime"> 05/23 20:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric6789</span><span class="f3 push-content">: 又一次讓中國向世界宣告台灣是中國的一省</span><span class="push-ipdatetime"> 05/23 20:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LipaCat5566</span><span class="f3 push-content">: 歡迎 中華台北</span><span class="push-ipdatetime"> 05/23 20:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GOGOMTK</span><span class="f3 push-content">: 去不去沒差啦，每年還不是很多流行病出來，去了又如何？</span><span class="push-ipdatetime"> 05/23 20:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 當然要緊啊，他是聯合國常任理事國，目前他才代表中國，</span><span class="push-ipdatetime"> 05/23 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 就算他沒統治過我們但是很多事還是他說了算，這就是現實</span><span class="push-ipdatetime"> 05/23 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 。就算一堆友邦支持我們進去wha但現實就是他不同意你無法</span><span class="push-ipdatetime"> 05/23 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">belleaya</span><span class="f3 push-content">: 中共就是強姦犯啊</span><span class="push-ipdatetime"> 05/23 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 去，當然自己用其他組織進去自慰的不算啦。惟一正解獨立</span><span class="push-ipdatetime"> 05/23 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 改國號！！！</span><span class="push-ipdatetime"> 05/23 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mydeargod</span><span class="f3 push-content">: 就用台灣啊</span><span class="push-ipdatetime"> 05/23 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TWLAB</span><span class="f3 push-content">: 台灣不廢省養樁腳 看吧被支那吃豆腐了</span><span class="push-ipdatetime"> 05/23 20:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edison59420</span><span class="f3 push-content">: 不是不能賣，是不能給KMT賣！兩黨真他媽垃圾</span><span class="push-ipdatetime"> 05/23 20:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 獨立改國號是種程序，沒有做沒有宣佈就沒意義。被正名台</span><span class="push-ipdatetime"> 05/23 20:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 灣“省”後你光用台灣走出去就是當做一省而已。</span><span class="push-ipdatetime"> 05/23 20:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iMANIA</span><span class="f3 push-content">: 趕快廢掉ROC流亡政府這稱號吧</span><span class="push-ipdatetime"> 05/23 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">davidyang1</span><span class="f3 push-content">: 白痴誰跟你是台灣省，是台灣國啦</span><span class="push-ipdatetime"> 05/23 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geordie</span><span class="f3 push-content">: 把解放軍調過來接收大佛我就相信中國講的是真的</span><span class="push-ipdatetime"> 05/23 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hancao0816</span><span class="f3 push-content">: 這麼怕喔</span><span class="push-ipdatetime"> 05/23 20:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">argest</span><span class="f3 push-content">: 推 國家正常化啦！不然只會持續悲歌</span><span class="push-ipdatetime"> 05/23 20:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vingfing</span><span class="f3 push-content">: 只送不賣，請更正</span><span class="push-ipdatetime"> 05/23 20:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 你才白痴，沒宣佈獨立改國號這個程序，你在國際上現在就</span><span class="push-ipdatetime"> 05/23 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 是台灣省，就算你很自慰的喊台灣國還是被當台灣省啦。</span><span class="push-ipdatetime"> 05/23 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chejrk</span><span class="f3 push-content">: 老共的作法：合理．合法．合情　國際承認北京政府行使一中</span><span class="push-ipdatetime"> 05/23 20:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: 每次發生這種事時就會有一堆鬼打牆說要獨立、正名制憲的</span><span class="push-ipdatetime"> 05/23 20:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: ，麻煩你們串連約好後直接灌爆小英和DPP的臉書之類的，</span><span class="push-ipdatetime"> 05/23 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwu4</span><span class="f3 push-content">: 好嗎？</span><span class="push-ipdatetime"> 05/23 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chejrk</span><span class="f3 push-content">: 既然北京政府代表一中出席WHA,台灣省是去給人洗臉嗎?</span><span class="push-ipdatetime"> 05/23 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeap193</span><span class="f3 push-content">: 讓毒瘤進場 醫生被拒門外</span><span class="push-ipdatetime"> 05/23 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goenitzx</span><span class="f3 push-content">: 因為台灣不是一中</span><span class="push-ipdatetime"> 05/23 20:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Doracacazin</span><span class="f3 push-content">: 那就用台灣國出席ㄅ</span><span class="push-ipdatetime"> 05/23 20:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h123ank</span><span class="f3 push-content">: 那就只能天龍國出席了</span><span class="push-ipdatetime"> 05/23 20:57
+</span></div><span class="f2">※ 編輯: mikazeray (223.141.180.151), 05/23/2017 21:02:39
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 中國暗示要用台灣國</span><span class="push-ipdatetime"> 05/23 21:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PikaONCE</span><span class="f3 push-content">: 只好用臺灣國了</span><span class="push-ipdatetime"> 05/23 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">huamin</span><span class="f3 push-content">: 世界上只有一個中國，叫做中華人民共和國。跟台灣沒有關係</span><span class="push-ipdatetime"> 05/23 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">huamin</span><span class="f3 push-content">: 不是台灣國，是福爾摩沙台灣。英文：Formosa Taiwan</span><span class="push-ipdatetime"> 05/23 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gg889g8</span><span class="f3 push-content">: 好呀 一中就是一個中華人民共和國 爽了吧</span><span class="push-ipdatetime"> 05/23 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gg889g8</span><span class="f3 push-content">: 跟台灣無關</span><span class="push-ipdatetime"> 05/23 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 現在是在做球給台灣要建國嗎</span><span class="push-ipdatetime"> 05/23 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: 那你可以解釋憲法領土疆域是怎麼回事嗎？</span><span class="push-ipdatetime"> 05/23 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: ROC 的china是怎麼回事嗎？</span><span class="push-ipdatetime"> 05/23 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: 如果不要一中，請民進黨修改憲法，台灣人很歡迎</span><span class="push-ipdatetime"> 05/23 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: 如果民進黨不敢，那就屁話少講一點</span><span class="push-ipdatetime"> 05/23 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: 如果依憲法定義兩岸關係是賣台，那請民進黨快修憲，別</span><span class="push-ipdatetime"> 05/23 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: 讓台灣繼續被賣</span><span class="push-ipdatetime"> 05/23 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 台灣人建吧 五毛下地獄</span><span class="push-ipdatetime"> 05/23 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: <a href="https://www.ptt.cc/bbs/Gossiping/M.1481769311.A.F2A" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1481769311.A.F2A</a></span><span class="push-ipdatetime"> 05/23 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: .html</span><span class="push-ipdatetime"> 05/23 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stupidHNG</span><span class="f3 push-content">: 別跟我說是國民黨在擋修憲</span><span class="push-ipdatetime"> 05/23 21:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 真的只剩獨立改國號這招啊，要不支那幹嘛三不五時要出來</span><span class="push-ipdatetime"> 05/23 22:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 威脅你不準這樣，不過凡事都有後果這樣後就是被打後統一</span><span class="push-ipdatetime"> 05/23 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 跟被打後其他國家幫忙成功獨立這兩個結果而已啊，歐可能</span><span class="push-ipdatetime"> 05/23 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aGooDie</span><span class="f3 push-content">: 還有一個就內亂自打自己。</span><span class="push-ipdatetime"> 05/23 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">after1</span><span class="f3 push-content">: 中國支持台灣建國囉</span><span class="push-ipdatetime"> 05/23 22:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chuangs</span><span class="f3 push-content">: KMT都不敢出聲</span><span class="push-ipdatetime"> 05/23 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rucca</span><span class="f3 push-content">: 中共都這麼說了，快拿ROC參加吧</span><span class="push-ipdatetime"> 05/23 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">biobirst</span><span class="f3 push-content">: 大不了毀滅 用台灣國吧</span><span class="push-ipdatetime"> 05/23 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 這位Stupid大，所以我最後也有說蔡政府呀，而且民進黨</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 早就把臺獨黨綱給改了，就知道他們為了執政和拉攏所謂</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 的中間選民，已經背棄臺灣獨立的立場往維持華國現狀靠</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 攏了，這點很可恥也很孬。</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rockuo945</span><span class="f3 push-content">: 老共逼人建國不遺餘力可謂真台獨</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: @Stupid 還有不要以為罵國民黨的人就一定是綠的，眼光</span><span class="push-ipdatetime"> 05/23 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 真是狹隘，政治光譜不是只有藍綠。</span><span class="push-ipdatetime"> 05/23 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 如果還認為非藍即綠就只會落入過去藍營的那招二分法而</span><span class="push-ipdatetime"> 05/23 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 已</span><span class="push-ipdatetime"> 05/23 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darit</span><span class="f3 push-content">: PRC取代ROC阿 台灣當然是PRC的 有疑問ㄇ 科科</span><span class="push-ipdatetime"> 05/23 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 所以就國民黨的問題</span><span class="push-ipdatetime"> 05/23 23:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rexyeah</span><span class="f3 push-content">: 看來中國也同意台灣不能只是一省，而是更正式的國家</span><span class="push-ipdatetime"> 05/24 10:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiwi0530</span><span class="f3 push-content">: 9.2：……(全部閉嘴)</span><span class="push-ipdatetime"> 05/24 11:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495539986.A.331.html?cacheKey=2052-38820997&offset=13960&offset-sig=6e227e86a791e1eaac9f57da0264fe5c67d57ebe" data-longpollurl="/v1/longpoll?id=7822a2fd59fbe501483d5f3125e084146df635ee" data-offset="13960"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

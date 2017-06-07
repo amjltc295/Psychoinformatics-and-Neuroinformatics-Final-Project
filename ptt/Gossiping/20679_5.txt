@@ -1,0 +1,226 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495382802.A.1F3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 普林斯頓招生官：亞裔學生個個都像醫學院 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合晚報
+2.完整新聞標題:
+普林斯頓招生官：亞裔學生個個都像醫學院預科生
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 普林斯頓招生官：亞裔學生個個都像醫學院">
+<meta property="og:description" content="1.媒體來源:
+聯合晚報
+2.完整新聞標題:
+普林斯頓招生官：亞裔學生個個都像醫學院預科生
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495382802.A.1F3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495382802.A.1F3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mitim (mitim)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 普林斯頓招生官：亞裔學生個個都像醫學院</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 00:06:39 2017</span></div>
+1.媒體來源:
+聯合晚報
+
+2.完整新聞標題:
+普林斯頓招生官：亞裔學生個個都像醫學院預科生
+
+3.完整新聞內文:
+最新公布的訴訟文件顯示，美國普林斯頓大學招生官員認為，他們很難區分亞裔申請人，
+因為那些學生的「背景材料極其相似」，通常是「標準的醫學院預科生」。
+
+每日郵報報導，兩名亞裔學生2008年申請常春藤名校時遭拒，於是控告學校招生系統涉嫌
+種族歧視，聯邦調查人員對包括普林斯頓大學在內的多所學校展開了長達七年的調查，最
+終於近日研判，該校並未歧視少數族裔申請人。
+
+普林斯頓大學今年3月向聯邦法院提訴，要求禁止教育部繼續公開與該調查有關的任何文
+件，並且阻止「公平招生學生組織」透過資訊自由法取得招生文件，該組織聲稱，那些文
+件就是種族歧視的證據，該校試圖保密539份申請人資料，以及招生官在接受調查時的審
+訊文件。
+
+一份被公開文件顯示，普林斯頓大學招生官員稱，亞裔學生「有著非常相近的個人簡介」
+，「很難篩選」合格的申請人。相比之下，夏威夷原住民或太平洋島民則「更具文化特色
+」，因此更加受招生官員青睞。
+
+另一名招生官員表示，非洲裔學生的申請材料中，如果顯示語言能力測驗獲得高分，那麼
+就能令該申請人與眾不同。
+
+普林斯頓大學招生官員向調查人員表示，他們認為亞裔學生背景相似與種族無關，而只是
+依據申請材料的內容做出評斷。調查人員經研判，確定該校招生官員不存在歧視亞裔學生
+的問題。
+
+4.完整新聞連結 (或短網址):
+<a href="https://money.udn.com/money/story/5599/2475839" target="_blank" rel="nofollow">https://money.udn.com/money/story/5599/2475839</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.139.16.80
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495382802.A.1F3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495382802.A.1F3.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuechen</span><span class="f3 push-content">: 都補習班幫忙弄的？！</span><span class="push-ipdatetime"> 05/22 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PegasusSeiya</span><span class="f3 push-content">: 就都標準SOP做出來的</span><span class="push-ipdatetime"> 05/22 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 有錢的複製人什麼都比較會</span><span class="push-ipdatetime"> 05/22 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sumarai</span><span class="f3 push-content">: 這還不叫歧視喔XD</span><span class="push-ipdatetime"> 05/22 00:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xcvfrd</span><span class="f3 push-content">: 太平洋島名</span><span class="push-ipdatetime"> 05/22 00:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 就可能華人教育都差不多吧</span><span class="push-ipdatetime"> 05/22 00:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dbdudsorj</span><span class="f3 push-content">: 啊就量產的啊當然很像XDDD</span><span class="push-ipdatetime"> 05/22 00:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 問問國內那些看推甄申請資料的教授就知道了</span><span class="push-ipdatetime"> 05/22 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 大規模生產</span><span class="push-ipdatetime"> 05/22 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 個個都是整形出來的人生</span><span class="push-ipdatetime"> 05/22 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iiooiioou</span><span class="f3 push-content">: 都有代辦~~~</span><span class="push-ipdatetime"> 05/22 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laieshen</span><span class="f3 push-content">: 公版</span><span class="push-ipdatetime"> 05/22 00:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heavensun</span><span class="f3 push-content">: 亞裔的毛病缺個性   每個人相似</span><span class="push-ipdatetime"> 05/22 00:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 兩邊的教育文化就不同走向啊</span><span class="push-ipdatetime"> 05/22 00:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 「背景材料極其相似」 &lt;--- XDDDDDDDDDD</span><span class="push-ipdatetime"> 05/22 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovejamwu</span><span class="f3 push-content">: 應該不會是中國人 中國人不會去美國念醫吧</span><span class="push-ipdatetime"> 05/22 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilfruit</span><span class="f3 push-content">: 優秀的學業成績  公式化的自傳履歷</span><span class="push-ipdatetime"> 05/22 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bake047</span><span class="f3 push-content">: 74喔</span><span class="push-ipdatetime"> 05/22 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantw</span><span class="f3 push-content">: 有錢人就是比較厲害</span><span class="push-ipdatetime"> 05/22 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StarTouching</span><span class="f3 push-content">: 黃種人就是喜歡單一價值觀啊</span><span class="push-ipdatetime"> 05/22 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">StarTouching</span><span class="f3 push-content">: 不敢嘗試新的特色 寧願塑造成別人成功過的路</span><span class="push-ipdatetime"> 05/22 00:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 沒想到除了韓國喜歡整得像一個模型刻出來的，亞裔連</span><span class="push-ipdatetime"> 05/22 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 學歷也是</span><span class="push-ipdatetime"> 05/22 00:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 就造假</span><span class="push-ipdatetime"> 05/22 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 醫學院預科生舊試成績特別好的阿...這還不是歧視喔</span><span class="push-ipdatetime"> 05/22 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 在亞洲要把成績弄好，普通人從小學到大學過的生活一</span><span class="push-ipdatetime"> 05/22 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 定都很相似的。只有特別有錢、或超級天才才有可能有</span><span class="push-ipdatetime"> 05/22 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 額外的資源、時間去過不一樣的生活。是美國人沒國際</span><span class="push-ipdatetime"> 05/22 00:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">herro760920</span><span class="f3 push-content">: 觀才會認為背景材料相似</span><span class="push-ipdatetime"> 05/22 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kcbill</span><span class="f3 push-content">: 亞裔不只成績好啦 課外才藝也是一堆家長送去補習 光一個</span><span class="push-ipdatetime"> 05/22 00:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kcbill</span><span class="f3 push-content">: 鋼琴 10個亞裔應該9個有學過</span><span class="push-ipdatetime"> 05/22 00:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 大規模生產 就是不一樣</span><span class="push-ipdatetime"> 05/22 00:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wheelblack</span><span class="f3 push-content">: 亞裔：成績好，會小提琴跟鋼琴，會說2-3種語言，但是</span><span class="push-ipdatetime"> 05/22 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wheelblack</span><span class="f3 push-content">: 沒有體育成績跟冒險紀錄</span><span class="push-ipdatetime"> 05/22 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WWIII</span><span class="f3 push-content">: 逼哀 沒個人特色難怪只能當白人奴隸</span><span class="push-ipdatetime"> 05/22 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happyennovy</span><span class="f3 push-content">: 灣區就一堆小孩剛上國小送去學鋼琴小提琴的啊...</span><span class="push-ipdatetime"> 05/22 00:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happyennovy</span><span class="f3 push-content">: 基本上亞洲人到美國還是奉行亞洲的那套教育方式</span><span class="push-ipdatetime"> 05/22 00:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king22649</span><span class="f3 push-content">: 大概是成績太好吧</span><span class="push-ipdatetime"> 05/22 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Born700805</span><span class="f3 push-content">: 有收到那個3歲的香港達芬奇的申請嗎？</span><span class="push-ipdatetime"> 05/22 00:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ADEMAIN</span><span class="f3 push-content">: 代辦都同一套吧</span><span class="push-ipdatetime"> 05/22 00:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 本來就會希望收有特色的學生阿....純手工的藝品跟工廠</span><span class="push-ipdatetime"> 05/22 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 量產、同一模具的，前者更有價值阿</span><span class="push-ipdatetime"> 05/22 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: = =</span><span class="push-ipdatetime"> 05/22 01:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 這能怪人歧視嗎?</span><span class="push-ipdatetime"> 05/22 01:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 代辦一起弄的資料+1</span><span class="push-ipdatetime"> 05/22 01:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 假資料讓每個中國人看起來都是哈佛的料 ㄎㄎ</span><span class="push-ipdatetime"> 05/22 01:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Finarfin</span><span class="f3 push-content">: 標準SOP 利用人脈去實習等等 結果看起來大家都差不多</span><span class="push-ipdatetime"> 05/22 01:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MeShuKuMo56</span><span class="f3 push-content">: 台北人表示：</span><span class="push-ipdatetime"> 05/22 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frey</span><span class="f3 push-content">: 台灣就是太平洋島民</span><span class="push-ipdatetime"> 05/22 01:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeangigi</span><span class="f3 push-content">: 特別把原住民拿來類比，這不也算是歧視原住民嗎？</span><span class="push-ipdatetime"> 05/22 02:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeangigi</span><span class="f3 push-content">: 為什麼不拿德州農場小孩來比？根本就是歧視到骨子裡了</span><span class="push-ipdatetime"> 05/22 02:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 戴眼鏡 瘦瘦的看起來很弱</span><span class="push-ipdatetime"> 05/22 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xxxrecoil</span><span class="f3 push-content">: 結果這邊的鄉民也是量產ㄉ</span><span class="push-ipdatetime"> 05/22 02:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooxxman</span><span class="f3 push-content">: 鄉民還比較多元 各種嘴砲</span><span class="push-ipdatetime"> 05/22 03:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Alimoe</span><span class="f3 push-content">: 次等亞洲人的文化就是這樣，白人才不吃這套</span><span class="push-ipdatetime"> 05/22 03:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">genheit</span><span class="f3 push-content">: 幹他娘垃圾長春藤學校，還他媽的嘲笑亞洲學生沒特色</span><span class="push-ipdatetime"> 05/22 03:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">genheit</span><span class="f3 push-content">: 他們寧願選一些不會念書的尼哥，再去稱讚尼哥有特色</span><span class="push-ipdatetime"> 05/22 04:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">genheit</span><span class="f3 push-content">: 幹你娘垃圾左派，真的吃人夠夠</span><span class="push-ipdatetime"> 05/22 04:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 複製猴很難選，只好選尼哥了！</span><span class="push-ipdatetime"> 05/22 05:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dazzzlee</span><span class="f3 push-content">: 亞裔的SOP履歷都製造出來的 假貨居多 當普林斯頓招生官</span><span class="push-ipdatetime"> 05/22 05:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dazzzlee</span><span class="f3 push-content">: 是低能兒喔錄取假貨幹嘛</span><span class="push-ipdatetime"> 05/22 05:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">strawberrie</span><span class="f3 push-content">: 亞裔的履歷不叫假造 而是父母都覺得應該學音樂體操</span><span class="push-ipdatetime"> 05/22 05:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">strawberrie</span><span class="f3 push-content">: 所以都從小就送去上一樣的課程 但這種解釋難道不是</span><span class="push-ipdatetime"> 05/22 05:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">strawberrie</span><span class="f3 push-content">: 不是歧視嗎 如果說其他族裔的學生一樣成績優異擅長</span><span class="push-ipdatetime"> 05/22 05:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">strawberrie</span><span class="f3 push-content">: 樂器 也會因為一樣原因被刷下嗎</span><span class="push-ipdatetime"> 05/22 05:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 哪裡歧視？以為美國搞台灣只看分數那套？一模一樣的</span><span class="push-ipdatetime"> 05/22 06:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 申請者，換言之根本沒人脫穎而出，你要怎麽決定錄取</span><span class="push-ipdatetime"> 05/22 06:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 哪些人？何況亞裔學生照父母的期待唸醫學院也不是新</span><span class="push-ipdatetime"> 05/22 06:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 聞，哪個文化像亞洲那麼畸形的？</span><span class="push-ipdatetime"> 05/22 06:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 另外這邊指的是美國的亞裔學生，美國是後醫制，鄉民</span><span class="push-ipdatetime"> 05/22 06:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 不是最愛講入境隨俗嗎？到美國依然用亞洲那套教育，</span><span class="push-ipdatetime"> 05/22 06:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noangel0286</span><span class="f3 push-content">: 美國人：怪我囉？</span><span class="push-ipdatetime"> 05/22 06:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">terminator3</span><span class="f3 push-content">: 這邊真好笑</span><span class="push-ipdatetime"> 05/22 07:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s801107</span><span class="f3 push-content">: 事實阿 哪來的歧視?</span><span class="push-ipdatetime"> 05/22 08:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m4tl6</span><span class="f3 push-content">: 模型人啊…</span><span class="push-ipdatetime"> 05/22 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: wwwwwwwwwwwwwwwwww</span><span class="push-ipdatetime"> 05/22 11:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 台灣人 算太平洋島民 吧!</span><span class="push-ipdatetime"> 05/22 16:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495382802.A.1F3.html?cacheKey=2052-51569159&offset=9330&offset-sig=e9725779deba28e15fc2a6e7df23e430a1087d0d" data-longpollurl="/v1/longpoll?id=598685980c4cdbff1c18d989efc007a46597b712" data-offset="9330"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

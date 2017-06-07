@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496213131.A.83C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] PR值多少算高？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這裡的PR不是只指基測PR
+而是泛指各階段的成就
+以前讀書時覺得PR95以下就他媽很難溝通了
+仔細一想 人類的中位數是PR50
+也就是說 PR50其實象徵著 正常人 的水準
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] PR值多少算高？">
+<meta property="og:description" content="這裡的PR不是只指基測PR
+而是泛指各階段的成就
+以前讀書時覺得PR95以下就他媽很難溝通了
+仔細一想 人類的中位數是PR50
+也就是說 PR50其實象徵著 正常人 的水準
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496213131.A.83C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496213131.A.83C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kcnny (被R20爽死的偽娘)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] PR值多少算高？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 14:45:29 2017</span></div>
+這裡的PR不是只指基測PR
+
+而是泛指各階段的成就
+
+以前讀書時覺得PR95以下就他媽很難溝通了
+
+仔細一想 人類的中位數是PR50
+
+也就是說 PR50其實象徵著 正常人 的水準
+
+但PR50應該連高中課程都沒法理解了吧
+
+後來念了112 發現PR99只是敲門磚
+
+裏面鬼神級別的人一堆（僅限理組）
+
+以前的PR區分可以說是毫無意義了
+
+有沒有PR多少才算高的八卦
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.139.118.106
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496213131.A.83C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496213131.A.83C.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diabolica</span><span class="f3 push-content">: 99</span><span class="push-ipdatetime">05/31 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 87</span><span class="push-ipdatetime">05/31 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">canblow</span><span class="f3 push-content">: PR95以下人生都沒救ㄌㄅ</span><span class="push-ipdatetime">05/31 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widali</span><span class="f3 push-content">: 99以下都算低</span><span class="push-ipdatetime">05/31 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AhSs</span><span class="f3 push-content">: IP?</span><span class="push-ipdatetime">05/31 14:46
+</span></div>A我ID就有 現在人在外面
+但不要A我IDS 不然會得AIDS
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nazion95</span><span class="f3 push-content">: 95一下都是學店人才</span><span class="push-ipdatetime">05/31 14:46
+</span></div>台清交熱門系 醫科 對應到PR值大概是多少啊？
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">saiulbb</span><span class="f3 push-content">: 沒有一百來這邊會被嗆</span><span class="push-ipdatetime">05/31 14:46
+</span></div><span class="f2">※ 編輯: kcnny (223.139.118.106), 05/31/2017 14:47:30
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AhSs</span><span class="f3 push-content">: 幹你娘我當年考高中PR才93</span><span class="push-ipdatetime">05/31 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yuugen2</span><span class="f3 push-content">: 87吧</span><span class="push-ipdatetime">05/31 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">azxcv81</span><span class="f3 push-content">: 100以下都沒救</span><span class="push-ipdatetime">05/31 14:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiston1419</span><span class="f3 push-content">: 國中pr不準啊，隨便讀都很高</span><span class="push-ipdatetime">05/31 14:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fghj142</span><span class="f3 push-content">: 意指pr99以下都可以去跳海了？</span><span class="push-ipdatetime">05/31 14:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kktt254</span><span class="f3 push-content">: 我當年PR100 輕輕鬆鬆</span><span class="push-ipdatetime">05/31 14:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 沒富爸爸一律不值得一提</span><span class="push-ipdatetime">05/31 14:49
+</span></div>爸爸的財產也可以算PR值啊
+PR的概念可以廣泛運用到各個可量化的指標
+PR50的爸爸就是接近主計處公布的薪資中位數
+<span class="f2">※ 編輯: kcnny (223.139.118.106), 05/31/2017 14:51:09
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">marty1012</span><span class="f3 push-content">: 講PR100的是鬼嗎?</span><span class="push-ipdatetime"> 05/31 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rex1009</span><span class="f3 push-content">: 99</span><span class="push-ipdatetime"> 05/31 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">evan1004</span><span class="f3 push-content">: 100</span><span class="push-ipdatetime"> 05/31 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fluency</span><span class="f3 push-content">: PR值最高99 一百是？</span><span class="push-ipdatetime"> 05/31 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dkl7814</span><span class="f3 push-content">: 101</span><span class="push-ipdatetime"> 05/31 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MoronJJ</span><span class="f3 push-content">: 99，其他都是垃圾</span><span class="push-ipdatetime"> 05/31 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sellgd</span><span class="f3 push-content">: 醫科是99</span><span class="push-ipdatetime"> 05/31 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiston1419</span><span class="f3 push-content">: 兩隻新警察</span><span class="push-ipdatetime"> 05/31 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sole772pk37</span><span class="f3 push-content">: 99</span><span class="push-ipdatetime"> 05/31 15:40
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496213131.A.83C.html?cacheKey=2052-2766568&offset=3220&offset-sig=6927081a2a9986166ca2cbce81151cf74d0f9272" data-longpollurl="/v1/longpoll?id=76867487435daf34597d1cc8b71a125a5f6543b0" data-offset="3220"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

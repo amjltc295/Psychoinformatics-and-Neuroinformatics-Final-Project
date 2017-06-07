@@ -1,0 +1,158 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495528949.A.636.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 當類神經網路碰到GTA會發生什麼事情? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="Alphago，大概是近期一個非常熱門的單字
+其背後的原理－深度學習，也稱為低普勒寧
+在實際的操作與運作上可以透過Python的套件TensorFlow來實現
+而過去幾年，GTA也算是遊戲中相當具有標竿性的一個遊戲
+如果機器人AI能透過低普勒寧學習如何像人類一樣的玩遊戲一定是個很有趣的專案
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 當類神經網路碰到GTA會發生什麼事情?">
+<meta property="og:description" content="Alphago，大概是近期一個非常熱門的單字
+其背後的原理－深度學習，也稱為低普勒寧
+在實際的操作與運作上可以透過Python的套件TensorFlow來實現
+而過去幾年，GTA也算是遊戲中相當具有標竿性的一個遊戲
+如果機器人AI能透過低普勒寧學習如何像人類一樣的玩遊戲一定是個很有趣的專案
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495528949.A.636.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495528949.A.636.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">joe19941004 (乂姆咪乂)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 當類神經網路碰到GTA會發生什麼事情?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 16:42:22 2017</span></div>
+Alphago，大概是近期一個非常熱門的單字
+其背後的原理－深度學習，也稱為低普勒寧
+在實際的操作與運作上可以透過Python的套件TensorFlow來實現
+
+而過去幾年，GTA也算是遊戲中相當具有標竿性的一個遊戲
+如果機器人AI能透過低普勒寧學習如何像人類一樣的玩遊戲一定是個很有趣的專案
+
+於是乎，國外有人用Python寫出了一個自我監督式的Python程式來操作GTA5的駕車部分
+從一開始的三星罪犯，漸漸的經過深度學習的過程變成四星罪犯
+作為Alphago的哥哥，表現實在不俗
+作者還將持續的在實況機器自我學習的過程，如附上的網址
+<a href="https://www.twitch.tv/sentdex" target="_blank" rel="nofollow">https://www.twitch.tv/sentdex</a>
+
+未來，AI確實將接管整個世界
+但是人類依然擁有撰寫AI自殺過程的方法
+其中恐怕最重要的其中一個方式就是讓AI去玩GTA...從此深陷其中而無法自拔
+人類也得以苟延殘喘
+成為擊潰天網的最後一道防線
+
+各位八卦版版眾，不知道怎麼看?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.114.135.231
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495528949.A.636.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495528949.A.636.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 讓AI看動物朋友</span><span class="push-ipdatetime"> 05/23 16:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 搞不好是請工讀生二十四小時輪班，說是AI來騙劉亮</span><span class="push-ipdatetime"> 05/23 16:44
+</span></div>看直播好ㄇ，左上角有Python 程式碼在跑R
+<span class="f2">※ 編輯: joe19941004 (140.114.135.231), 05/23/2017 16:45:17
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 我記得自動開車有跑GTA5模擬耶</span><span class="push-ipdatetime"> 05/23 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 讓AI看刺陵</span><span class="push-ipdatetime"> 05/23 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 寫個假裝有在跑的程式碼也行啊～</span><span class="push-ipdatetime"> 05/23 16:45
+</span></div>他程式碼有寫他按什麼鍵，向前向左等等，確實也是跟實際的動作一致
+<span class="f2">※ 編輯: joe19941004 (140.114.135.231), 05/23/2017 16:47:04
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gain</span><span class="f3 push-content">: 這AI超不會開車的阿</span><span class="push-ipdatetime"> 05/23 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aks172582</span><span class="f3 push-content">: 讓ai上批批踢 不到一個月馬上變悲憤宅</span><span class="push-ipdatetime"> 05/23 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mm58307533</span><span class="f3 push-content">: 我覺得你想太多，ai沒有那麼猛，可以毀滅世界</span><span class="push-ipdatetime"> 05/23 17:02
+</span></div>不會毀滅但是有可能接管世界的重要產業，雖然到時候重要產業的定義就變了
+<span class="f2">※ 編輯: joe19941004 (140.114.135.231), 05/23/2017 17:04:02
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wbreeze</span><span class="f3 push-content">: 寫個ai讓他發廢文 用噓數量來強化選擇方向</span><span class="push-ipdatetime"> 05/23 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kazimir</span><span class="f3 push-content">: 他這個還沒有再學怎麼開車 看下面的敘述 目前只單純的</span><span class="push-ipdatetime"> 05/23 17:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kazimir</span><span class="f3 push-content">: 按照每一幀的畫面來決定下一個行動</span><span class="push-ipdatetime"> 05/23 17:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 他有進步了，前幾天真的很爛，想想也是蠻可怕的</span><span class="push-ipdatetime"> 05/23 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a77942002</span><span class="f3 push-content">: 讓AI內鬥不就好了  咬尾蛇</span><span class="push-ipdatetime"> 05/23 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jhshen15</span><span class="f3 push-content">: 有沒有可能是工讀生怎麼操作 程式就有對應的程式碼出來</span><span class="push-ipdatetime"> 06/03 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jhshen15</span><span class="f3 push-content">: 讓你誤以為是程式在跑</span><span class="push-ipdatetime"> 06/03 18:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495528949.A.636.html?cacheKey=2052-38540107&offset=2856&offset-sig=057e6d9adfb99aec3a62006a52f9caaa95fb8e18" data-longpollurl="/v1/longpoll?id=2597241dbc4c4c5457cdbefec16eedaaec205ce4" data-offset="2856"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

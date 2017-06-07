@@ -1,0 +1,142 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495250996.A.442.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 言論免責權的存廢 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="言論免責好像是只在議會內、開議期
+也就是議員走出議場，在非會議時間
+講的話跟一般百姓一樣，沒有免責
+但是臺灣言論自由泛濫的情況
+讓每個敢放砲的名嘴，其實都鮮少被檢討
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 言論免責權的存廢">
+<meta property="og:description" content="言論免責好像是只在議會內、開議期
+也就是議員走出議場，在非會議時間
+講的話跟一般百姓一樣，沒有免責
+但是臺灣言論自由泛濫的情況
+讓每個敢放砲的名嘴，其實都鮮少被檢討
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495250996.A.442.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495250996.A.442.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">acz0221 (來自幽冥界的中二)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 言論免責權的存廢</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 11:29:53 2017</span></div>
+<span class="f2">※ 引述《rrblue (tonilee)》之銘言：
+</span><span class="f6">: 台灣的民意代表皆在議會上受言論免責權保障
+</span><span class="f6">: 目的是要讓民意代表能確實發揮功能不受他方力量侵害
+</span><span class="f6">: 但看看台灣的媒體風氣（黨報、黨媒），民意代表說什麼
+</span><span class="f6">: 媒體就照抄，完全不思考議題的真偽（非說蕭議員）
+</span><span class="f6">: 根本形同帶風向的行為，對社會一點也沒幫助
+</span><span class="f6">: 站在議題是有一定程度證據的情況下，民意代表根本不用怕被告
+</span><span class="f6">: 那言論免責權存在到底是保護有心做事的民意代表，
+</span><span class="f6">: 還是包庇無的放矢、造假議題的黨意立委作秀而存在
+</span><span class="f6">: 真心認為此制相當不適合現今台灣社會
+</span>
+言論免責好像是只在議會內、開議期
+也就是議員走出議場，在非會議時間
+講的話跟一般百姓一樣，沒有免責
+
+但是臺灣言論自由泛濫的情況
+讓每個敢放砲的名嘴，其實都鮮少被檢討
+不要說民代，名嘴有誰因為亂放砲被告嗎？
+有！周玉寇那叫惹到不該惹的
+但如果對象在社會上沒什麼地位實力
+就可以各種影射、中傷
+像之前媽媽嘴……都到現場模擬了
+有誰因此負責嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.8.233.169
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495250996.A.442.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495250996.A.442.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ljmk1246</span><span class="f3 push-content">: 民進黨就是靠這樣取得政權的 你想怎樣XDDD</span><span class="push-ipdatetime"> 05/20 11:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ljmk1246</span><span class="f3 push-content">: 所以不難懂為什麼鄉民要冷處理這種話題了吧</span><span class="push-ipdatetime"> 05/20 12:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495250996.A.442.html?cacheKey=2052-37394190&offset=1245&offset-sig=be443f44292a75a78eaaf6107bbbb2085329bc7c" data-longpollurl="/v1/longpoll?id=81774cf9b6dcefed36d26f22d141308af5b8cc35" data-offset="1245"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

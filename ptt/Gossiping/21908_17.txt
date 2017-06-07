@@ -1,0 +1,166 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496212797.A.072.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台數科併東森破局　NCC今裁決不予同意 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:蘋果日報
+2.完整新聞標題:
+台數科併東森破局　NCC今裁決不予同意
+3.完整新聞內文:
+國家通訊傳播委員會（NCC）今續審台數科併東森電視案，受到屏東縣議員宋麗華在公開
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台數科併東森破局　NCC今裁決不予同意">
+<meta property="og:description" content="1.媒體來源:蘋果日報
+2.完整新聞標題:
+台數科併東森破局　NCC今裁決不予同意
+3.完整新聞內文:
+國家通訊傳播委員會（NCC）今續審台數科併東森電視案，受到屏東縣議員宋麗華在公開
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496212797.A.072.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496212797.A.072.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Langenbahn (宮本三毛)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台數科併東森破局　NCC今裁決不予同意</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 14:39:54 2017</span></div>
+1.媒體來源:蘋果日報
+
+
+2.完整新聞標題:
+台數科併東森破局　NCC今裁決不予同意
+
+
+3.完整新聞內文:
+
+國家通訊傳播委員會（NCC）今續審台數科併東森電視案，受到屏東縣議員宋麗華在公開
+市場購得股票，違反黨政軍條款等因素影響，今委員會裁決不予同意，但NCC發言人翁柏
+宗強調，不僅單以上述2張股票就否准，而是綜合考量有線電視事業發展、產業秩序綜合
+等做出決定。
+
+NCC表示，除了因違反黨政軍條款影響，且台數科為開放性投資架構，也未提出務實可行
+的防堵違反黨政軍條款機制，另外台數科有高額短期貸款，委員會也對其資金和承諾履行
+能力存疑，認為高額投資負擔，難再進行大規模投資。
+
+翁柏宗也提到，另也考量目前台數科有線電視市佔率達10％，在中台灣有顯著地位，而台
+數科現本身有5個頻道，如併購東森電視家族有8個頻道，將成為第二大頻道供應事業，另
+外合併後兩個新聞財經頻道，佔全體20％，市佔率是全國第三大，在整體市場秩序考量下
+，綜合上述原因，才做出否決決議。
+
+對於此案審查期間，包含東森創辦人王令麟不斷刊登廣告放話阻擋動作，翁對此也直言：
+「不可取」，並指匯流就是要融合，格局要放大一點，不要互卡，要把產業格局放大。
+另因為屏東縣議員宋麗華自股票公開市場購入台數科股票，導致台數科違反黨政軍條款，
+今NCC也針對台數科旗下包含中投在內5有線電視業者，各處20萬元罰鍰。（朱正庭／台北
+報導）
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.appledaily.com.tw/realtimenews/article/new/20170531/1129711/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/new/20170531/1129711/</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 183.88.50.175
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496212797.A.072.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496212797.A.072.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 是的保潔</span><span class="push-ipdatetime"> 05/31 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widali</span><span class="f3 push-content">: 西平你怎麼看</span><span class="push-ipdatetime"> 05/31 14:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Isveia</span><span class="f3 push-content">: 這件事只有三個人知道，一個是我，一個是鄉民，另一個我不</span><span class="push-ipdatetime"> 05/31 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Isveia</span><span class="f3 push-content">: 能說</span><span class="push-ipdatetime"> 05/31 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttfft</span><span class="f3 push-content">: 所以台數科是偏藍還偏綠</span><span class="push-ipdatetime"> 05/31 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jennykam</span><span class="f3 push-content">: 偏綠 綠資</span><span class="push-ipdatetime"> 05/31 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">science556</span><span class="f3 push-content">: 偏肥宅</span><span class="push-ipdatetime"> 05/31 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 東森贏了這一回合</span><span class="push-ipdatetime"> 05/31 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: 生雞蛋沒放雞屎有</span><span class="push-ipdatetime"> 05/31 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gsmzxcvbnm</span><span class="f3 push-content">: 這年頭中資不可買媒體，綠資要買啥都可以</span><span class="push-ipdatetime"> 05/31 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttfft</span><span class="f3 push-content">: 那旺中吃掉大多數媒體頻道就可以 其他人併個東森就力擋</span><span class="push-ipdatetime"> 05/31 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nitk376</span><span class="f3 push-content">: 帶風向的馬上來了</span><span class="push-ipdatetime"> 05/31 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttfft</span><span class="f3 push-content">:  不愧是NCC</span><span class="push-ipdatetime"> 05/31 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a77942002</span><span class="f3 push-content">: 崩崩崩崩</span><span class="push-ipdatetime"> 05/31 14:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a00150isme</span><span class="f3 push-content">: NCC全台灣最中立 讓中資買媒體 台資就是失格 好棒棒</span><span class="push-ipdatetime"> 05/31 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe45241</span><span class="f3 push-content">: 中資最有資格 棒</span><span class="push-ipdatetime"> 05/31 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jimmy77726</span><span class="f3 push-content">: 說真的 王陰森能把東森案處理好再說</span><span class="push-ipdatetime"> 05/31 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">young60705</span><span class="f3 push-content">: NCC做了最正確決定</span><span class="push-ipdatetime"> 06/02 09:33
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496212797.A.072.html?cacheKey=2052-2766015&offset=3331&offset-sig=7d5ce0647c6471df21f513d4a9beebece5e381a4" data-longpollurl="/v1/longpoll?id=284d8ddabe7af4cfdff945ce6ad02e0c7e7c860d" data-offset="3331"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,219 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495410634.A.74F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 人工智慧再挑戰棋王 AlphaGo對上柯潔 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="    人工智慧再挑戰棋王 AlphaGo對上柯潔
+    https://udn.com/news/story/7086/2477078
+    谷歌（Google）人工智慧軟體AlphaGo將在本週與世界排名第1的中國大陸圍
+    棋職業棋士柯潔對弈，展開人機大戰，外界預測最後還是會由飛速發展的人
+    工智慧拿下勝利。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 人工智慧再挑戰棋王 AlphaGo對上柯潔">
+<meta property="og:description" content="    人工智慧再挑戰棋王 AlphaGo對上柯潔
+    https://udn.com/news/story/7086/2477078
+    谷歌（Google）人工智慧軟體AlphaGo將在本週與世界排名第1的中國大陸圍
+    棋職業棋士柯潔對弈，展開人機大戰，外界預測最後還是會由飛速發展的人
+    工智慧拿下勝利。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495410634.A.74F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495410634.A.74F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">if2 (祈福兔)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 人工智慧再挑戰棋王 AlphaGo對上柯潔</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 07:50:31 2017</span></div>
+    人工智慧再挑戰棋王 AlphaGo對上柯潔
+
+    <a href="https://udn.com/news/story/7086/2477078" target="_blank" rel="nofollow">https://udn.com/news/story/7086/2477078</a>
+
+    谷歌（Google）人工智慧軟體AlphaGo將在本週與世界排名第1的中國大陸圍
+    棋職業棋士柯潔對弈，展開人機大戰，外界預測最後還是會由飛速發展的人
+    工智慧拿下勝利。
+
+    「南華早報」（South China Morning Post）與法新社報導，AlphaGo去年
+    以4勝1敗成績擊敗南韓棋王李世石，今年的比賽23日將在大陸東部城市烏鎮
+    展開，19歲的柯潔將與AlphaGo對陣3場，但獲勝機率估計很低。
+
+    李世石去年在首爾落敗，是圍棋3000年歷史上電腦程式首次在正式比賽中擊
+    敗頂尖棋手，也被列為人工智慧發展上的里程碑事件。
+
+    從IBM超級電腦深藍（Deep Blue）在1997年擊敗西洋棋高手卡斯帕洛夫
+    （Garry Kasparov）後，人工智慧也曾數次在智力競賽中擊敗人類，但
+    AlphaGo去年的勝利，被認為是人工智慧至今最重大的勝利。
+
+    圍棋被視為可能是人類發明出的遊戲中最複雜的，包括無數可能的棋步走
+    法，因此「直覺」很重要。
+
+    擁護者原本認為，至少在可預見的未來，圍棋是人類思維能夠保持優勢的堡
+    壘。
+
+    AlphaGo的勝利激起對美好新世界的期盼，未來人工智慧不僅能用在自駕車
+    或「智慧住宅」，也能協助人類搞清楚某些最複雜的科學、技術及醫學問
+    題。
+
+    開發出AlphaGo的DeepMind公司執行長哈薩比斯（Demis Hassabis）在本週
+    賽前表示：「AlphaGo的勝利暗示有這種可能性：人工智慧能全面應用到各
+    種工作及領域，也許還能為連人類專家都尚未想過的問題找出解決方式。」
+
+    人工智慧的終極目標是創造「全面性」或多用途的智慧，類似人類的推理能
+    力與學習能力，而非只著眼「狹隘的」、特定任務的智慧。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.43.65.106
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495410634.A.74F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495410634.A.74F.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">n873192000</span><span class="f3 push-content">: sai</span><span class="push-ipdatetime"> 05/22 07:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: 韓國拿下一盤的根本大贏家</span><span class="push-ipdatetime"> 05/22 07:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zu00405479</span><span class="f3 push-content">: 是棋王再挑戰阿發狗吧......</span><span class="push-ipdatetime"> 05/22 07:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 是人類棋王挑戰人工智慧</span><span class="push-ipdatetime"> 05/22 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lanlanlu5566</span><span class="f3 push-content">: 是棋王再挑戰AI，懂</span><span class="push-ipdatetime"> 05/22 07:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awdxabc295</span><span class="f3 push-content">: 手下敗將</span><span class="push-ipdatetime"> 05/22 07:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piece1</span><span class="f3 push-content">: 又要崩潰了</span><span class="push-ipdatetime"> 05/22 07:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 柯潔加油</span><span class="push-ipdatetime"> 05/22 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: toyakoyo又要住院了嗎</span><span class="push-ipdatetime"> 05/22 08:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TWLAB</span><span class="f3 push-content">: AlphaGO 加油</span><span class="push-ipdatetime"> 05/22 08:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">youthyeh</span><span class="f3 push-content">: 現場先準備救護車以免潔潔又輸到住院了</span><span class="push-ipdatetime"> 05/22 08:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jodojeda</span><span class="f3 push-content">: AlphaGO 有種就跟女人比</span><span class="push-ipdatetime"> 05/22 08:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gustavvv</span><span class="f3 push-content">: 雖然討厭支那 但還是希望人類能贏</span><span class="push-ipdatetime"> 05/22 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: AlphaGO獲勝也是人類的勝利啊  只是不是棋士而已</span><span class="push-ipdatetime"> 05/22 08:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 柯潔會贏 我切</span><span class="push-ipdatetime"> 05/22 08:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smonke</span><span class="f3 push-content">: 柯潔上次被電到烙賽住院...這次... @@a</span><span class="push-ipdatetime"> 05/22 08:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mazznia</span><span class="f3 push-content">: 柯潔輸就笑死人了 當時李輸的時候 柯潔嘴巴真的很秋 超嘴</span><span class="push-ipdatetime"> 05/22 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Reborn0817</span><span class="f3 push-content">: 柯有1場就不錯了</span><span class="push-ipdatetime"> 05/22 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rinehot</span><span class="f3 push-content">: 後面根本腦補 圍棋跟很多日常事務最大不同處是 圍棋所有</span><span class="push-ipdatetime"> 05/22 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rinehot</span><span class="f3 push-content">: 條件都是已知的 但是日常生活並不是</span><span class="push-ipdatetime"> 05/22 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wow924</span><span class="f3 push-content">: 第一手先打電話訂床</span><span class="push-ipdatetime"> 05/22 09:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cwind07</span><span class="f3 push-content">: 這次比之前難太多 版本不知又更新多少 更強得多了</span><span class="push-ipdatetime"> 05/22 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heci1941</span><span class="f3 push-content">: 柯潔又要住院了嗎</span><span class="push-ipdatetime"> 05/22 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">phantomboy</span><span class="f3 push-content">: 柯潔，柯柯柯潔~</span><span class="push-ipdatetime"> 05/22 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 直接在醫院比賽，這樣醫生可以就近照顧</span><span class="push-ipdatetime"> 05/22 09:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 柯潔當初是針對V18版本吧 後來進化的太強</span><span class="push-ipdatetime"> 05/22 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 年輕小夥子才19歲 就四個世界冠軍 永遠支持人類啦</span><span class="push-ipdatetime"> 05/22 10:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">indium111</span><span class="f3 push-content">: 柯潔完敗後，李世石那一勝真得可以嘴一輩子了</span><span class="push-ipdatetime"> 05/22 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 其實懂棋的就知道 小李那次和柯潔這次對戰的AI層級完</span><span class="push-ipdatetime"> 05/22 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 全不同 一直拿那一勝說嘴沒什麼意思</span><span class="push-ipdatetime"> 05/22 11:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: AI完全超越人類是遲早的事 重點是AI能不能幫助人類</span><span class="push-ipdatetime"> 05/22 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 漲棋 估狗如果之後肯把阿法狗放到野狐上天天跟柯潔</span><span class="push-ipdatetime"> 05/22 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 他們頂尖高手持續練習才好</span><span class="push-ipdatetime"> 05/22 11:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TheRock0987</span><span class="f3 push-content">: faker（master） :我不演了（60勝）</span><span class="push-ipdatetime"> 05/22 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TheRock0987</span><span class="f3 push-content">: 生死狀簽好在上</span><span class="push-ipdatetime"> 05/22 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mazznia</span><span class="f3 push-content">: 柯潔粉馬上拉ai版本難度不同救援  笑死 柯可是&#34;全敗&#34;</span><span class="push-ipdatetime"> 05/22 12:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mazznia</span><span class="f3 push-content">: 重要的是 柯潔那種自大 誰都看不下去 結果一輸就裝死</span><span class="push-ipdatetime"> 05/22 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mazznia</span><span class="f3 push-content">: 他當初嘴李現在也沒看他承認自比李弱吧</span><span class="push-ipdatetime"> 05/22 12:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 事實本來就是強度不同 棋盲不懂棋就別說嘴吧</span><span class="push-ipdatetime"> 05/22 12:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 至於柯潔和小李誰強誰弱 不同時代的去比沒意思</span><span class="push-ipdatetime"> 05/22 12:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 柯潔和小李之間比數是10:3 雖說小李全盛時期過了 但</span><span class="push-ipdatetime"> 05/22 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 他有本事番棋全部都拿下來 也有嘴的本事</span><span class="push-ipdatetime"> 05/22 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 至於你說柯潔自不自大 19歲四冠誰不驕傲 誰不服</span><span class="push-ipdatetime"> 05/22 12:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ncueBenson</span><span class="f3 push-content">: 這飯店?alphago</span><span class="push-ipdatetime"> 05/22 12:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 柯潔出發點當初也是為了讓更多人認識圍棋 圍棋界在</span><span class="push-ipdatetime"> 05/22 12:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cppleger</span><span class="f3 push-content">: ai會變強，柯就不會喔？為什麼不能比</span><span class="push-ipdatetime"> 05/22 12:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: AI出世之前關注度跟之後差別甚大</span><span class="push-ipdatetime"> 05/22 12:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rayven</span><span class="f3 push-content">: 圍棋基本上就是圈地佔領戰，複雜的理由在哪？</span><span class="push-ipdatetime"> 05/22 13:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feywen</span><span class="f3 push-content">: 反正和李對奕的那代阿發狗柯潔永遠沒機會對上，所以柯潔</span><span class="push-ipdatetime"> 05/22 13:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">feywen</span><span class="f3 push-content">: 粉也永遠能拿不存在的戰役結局自慰</span><span class="push-ipdatetime"> 05/22 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: V18版本跟中國絕藝目前的程度差不多 以每盤棋的內容</span><span class="push-ipdatetime"> 05/22 13:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 來看 甚至絕藝在強一些 V18和之前的絕藝版本都有一個</span><span class="push-ipdatetime"> 05/22 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sky0302</span><span class="f3 push-content">: 自己隨便去看一盤職業對局解說 再來說複不複雜</span><span class="push-ipdatetime"> 05/22 13:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 在大型死活出現BUG的程度 柯潔與絕藝之前的戰績算差</span><span class="push-ipdatetime"> 05/22 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 不多 之後絕藝又更強 柯潔輸多勝少</span><span class="push-ipdatetime"> 05/22 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sky0302</span><span class="f3 push-content">: 柯潔和李世石根本沒啥好比的 10:3的數字擺在那裡</span><span class="push-ipdatetime"> 05/22 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 柯潔說V18版本不如他也是有根據的 雖說應該沒差很多</span><span class="push-ipdatetime"> 05/22 13:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sky0302</span><span class="f3 push-content">: 當初鄉民狂吹李世石和AlphaGo下過以後變多強 結果 呵呵</span><span class="push-ipdatetime"> 05/22 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: V18版本如果拿來跟現在一些受過AI影響下進步的頂尖</span><span class="push-ipdatetime"> 05/22 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 職業下 連笑等等 一定能下的更好</span><span class="push-ipdatetime"> 05/22 13:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sky0302</span><span class="f3 push-content">: 其實我覺得不需要去計較版本的差異 就算柯潔全敗 也不會</span><span class="push-ipdatetime"> 05/22 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sky0302</span><span class="f3 push-content">: 影響他的棋界地位 做為一位職業棋士 沒有選擇戰場的權利</span><span class="push-ipdatetime"> 05/22 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sky0302</span><span class="f3 push-content">: 就像他說的 不管對手多強大 下就對了 怕就輸一輩子了</span><span class="push-ipdatetime"> 05/22 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KOBEDIRK</span><span class="f3 push-content">: 人類真的不要太看重自己</span><span class="push-ipdatetime"> 05/22 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mazznia</span><span class="f3 push-content">: 19歲四連霸 輸ai到住院也是夠草莓 還真虧他能嘴</span><span class="push-ipdatetime"> 05/22 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 也不是輸給AI一局就住院的 你也不看他12月賽程</span><span class="push-ipdatetime"> 05/22 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 看重自己本來就是棋士該做的</span><span class="push-ipdatetime"> 05/22 16:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495410634.A.74F.html?cacheKey=2052-49642513&offset=8515&offset-sig=05fc064926ba8c1a2a21f34b61d075f550a68522" data-longpollurl="/v1/longpoll?id=055853258eaf9b96f46578ab5cd26fb0e0f7c2ee" data-offset="8515"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

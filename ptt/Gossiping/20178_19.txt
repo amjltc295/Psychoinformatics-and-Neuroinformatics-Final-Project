@@ -1,0 +1,162 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495031114.A.1D7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] NCC再修廣電三法  鬆綁黨政軍條款 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="NCC再修廣電三法 鬆綁黨政軍條款
+中時
+廣電三法重啟修法，黨政軍解禁有望！NCC副主委兼發言人翁柏宗昨（15）日表示，NCC匯
+流小組已在上周正式重啟廣電三法修法作業，朝黨政軍投資媒體、以及中華電信MOD解除
+黨政軍持股管制方向修法。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] NCC再修廣電三法  鬆綁黨政軍條款">
+<meta property="og:description" content="NCC再修廣電三法 鬆綁黨政軍條款
+中時
+廣電三法重啟修法，黨政軍解禁有望！NCC副主委兼發言人翁柏宗昨（15）日表示，NCC匯
+流小組已在上周正式重啟廣電三法修法作業，朝黨政軍投資媒體、以及中華電信MOD解除
+黨政軍持股管制方向修法。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495031114.A.1D7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495031114.A.1D7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">callduty (qq)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] NCC再修廣電三法  鬆綁黨政軍條款</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 22:25:11 2017</span></div>
+NCC再修廣電三法 鬆綁黨政軍條款
+
+
+中時
+
+<span class="f3 hl">廣電三法重啟修法，黨政軍解禁有望！</span>NCC副主委兼發言人翁柏宗昨（15）日表示，NCC匯
+流小組已在上周正式重啟廣電三法修法作業，朝黨政軍投資媒體、以及中華電信MOD解除
+黨政軍持股管制方向修法。
+
+<span class="f3 hl">據了解，這15年來黨政軍投資媒體「1股都不行」的限制，NCC將參考各界意見、朝解除管
+</span><span class="f3 hl">制放寬，至於黨政軍放寬幅度是由目前0股至間接持股5％、或10％？NCC將儘速彙整各界
+</span><span class="f3 hl">意見後定調，並將「新版廣電三法」送交立院審議。</span>
+
+另外，由於MOD目前仍以電信法管制，交通部在中華電信持有32.5％的政府持股比重，並
+無法因為廣電三法修法放寬黨政軍限制、而使MOD直接受惠，基於各界要求MOD與有線電視
+應拉齊管制的聲浪愈來愈大，NCC認為立委葉宜津在2015年年底於立法院提案建議，黨政
+軍放寬持股同時，MOD只要符合有線廣播電視法第73條有關公平上下架規定，交通部在中
+華電信的持股，也可以不計入「黨政軍持股」，讓MOD同時解除黨政軍條款的限制。
+
+OTT發展已對MOD以及有線電視產業造成重大的衝擊，但目前相關法令並未納管OTT產業，
+NCC強調，未來廣電三法修法方向也會一併討論OTT是否納管議題，但目前還沒有做出最後
+決定。
+
+廣電三法包括「有線廣播電視法」、「無線廣播電視法」、以及「衛星廣播電視法」，廣
+電三法重啟修法，對於國內電信、有線電視、有線及無線廣播電視、甚至OTT產業未來發
+展影響重大。
+
+2015年年底，廣電三法在立法院修法通過，但是最受矚目的黨政軍條款、必載、有線電視
+基本頻道收視費100元（有線100）等3大議題遭到擱置，未能順利闖關。
+
+有鑑於中嘉有線電視出售案，乃至於最近台數科收購東森電視等眾多媒體併購案，都因黨
+政軍條款「卡關」，加上無線電視台必載及有線100等議題仍未解決，這屆NCC委員決定重
+啟廣電三法修法。
+
+各界對於黨政軍條款不合時宜已有共識，NCC強調，NCC重啟廣電三法修法，會參考各界所
+提出「拉齊管制」、學者專家及業者的建議，但NCC對於送出NCC、行政院、還沒有時間表
+，但市場揣測「新版廣電三法」最快年底之前有機會送至立院審議。
+<a href="http://www.chinatimes.com/newspapers/20170516000037-260202" target="_blank" rel="nofollow">http://www.chinatimes.com/newspapers/20170516000037-260202</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.82.17.94
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495031114.A.1D7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495031114.A.1D7.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aotfs2013</span><span class="f3 push-content">: 派人買一股股票就能阻止收購本來就很不合理</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 馬的遺毒 現在還想搞</span><span class="push-ipdatetime"> 05/17 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 呵呵 當初反旺中反爽的</span><span class="push-ipdatetime"> 05/17 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a00150isme</span><span class="f3 push-content">: 重點是你kmt民代故意去買人家上市公司一張股票 然後再</span><span class="push-ipdatetime"> 05/18 03:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a00150isme</span><span class="f3 push-content">: 跟ncc說有黨政軍?!</span><span class="push-ipdatetime"> 05/18 03:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a00150isme</span><span class="f3 push-content">: 誰比你更無恥?</span><span class="push-ipdatetime"> 05/18 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Vassili242</span><span class="f3 push-content">: 民進黨肯定不會亂來 放心</span><span class="push-ipdatetime"> 05/18 16:30
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495031114.A.1D7.html?cacheKey=2052-48218648&offset=2722&offset-sig=1d4ac77e2f5388bc4b23aab87b615178cb9223f3" data-longpollurl="/v1/longpoll?id=83cd0c3661825e5638b24ec3a0c770a12f3321bf" data-offset="2722"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

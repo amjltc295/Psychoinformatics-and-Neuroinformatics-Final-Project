@@ -1,0 +1,190 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495908107.A.5F5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 藝術和體育 人類多久後被AI超越?? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這當然不困難 問題是
+就算AI能做到這樣 終究也只是目前所謂的&#34;仿畫&#34;
+也就是說 就算阿法狗真的靠參考一堆世界名畫
+歸納出這些名畫在像素分布上來看 色調筆觸配色等等上的共通點
+依據這些特點去畫......問題是阿法狗要怎麼知道自己想畫什麼??
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 藝術和體育 人類多久後被AI超越??">
+<meta property="og:description" content="這當然不困難 問題是
+就算AI能做到這樣 終究也只是目前所謂的&#34;仿畫&#34;
+也就是說 就算阿法狗真的靠參考一堆世界名畫
+歸納出這些名畫在像素分布上來看 色調筆觸配色等等上的共通點
+依據這些特點去畫......問題是阿法狗要怎麼知道自己想畫什麼??
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495908107.A.5F5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495908107.A.5F5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">SilverFlare (銀白閃焰)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 藝術和體育 人類多久後被AI超越??</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 02:01:45 2017</span></div>
+<span class="f2">※ 引述《hrma (資深象迷)》之銘言：
+</span><span class="f6">: ※ 引述《ComeThrough (☁)》之銘言：
+</span><span class="f6">: : 唯獨人文藝術由於需要對於人性的了解和文化底蘊 以及最重要的感情
+</span><span class="f6">:   其實很難講,
+</span><span class="f6">:   感覺繪畫要突破, 好像也有機會
+</span><span class="f6">:   (1) 把人類歷史上所有的畫作拿出來分析
+</span><span class="f6">:   (2) &#34;儘量&#34;歸納出這些畫的特點
+</span><span class="f6">:   (3) 讓阿發狗依據這些特點去畫
+</span><span class="f6">:   (4) 拿去路上給人看,... 這幅畫值多少錢
+</span><span class="f6">:   (5) 修正(2)的規則
+</span><span class="f6">:   (6) loop (2)~(5)
+</span><span class="f6">:   時間拉長,測試的次數變多,...
+</span><span class="f6">:   感覺有可能騙過人類,... 拍出幾百萬的&#34;名畫&#34;, 其實是阿發狗畫的
+</span><span class="f6">: : 因此成為目前AI最大罩門
+</span>
+這當然不困難 問題是
+
+就算AI能做到這樣 終究也只是目前所謂的&#34;仿畫&#34;
+
+
+也就是說 就算阿法狗真的靠參考一堆世界名畫
+
+歸納出這些名畫在像素分布上來看 色調筆觸配色等等上的共通點
+
+依據這些特點去畫......問題是阿法狗要怎麼知道自己想畫什麼??
+
+
+這樣了解我想點出的問題點嘛??  <span class="f3 hl"> AI無法自發性的產生創作動機與目標</span>
+
+
+人類畫家會譬如說因為某次旅行
+
+看了某某風景 但是看到的時間點不對
+
+一個湖光山色他想看到的是配夕陽時的景色
+
+但他那天去的時間剛好是正中午....這類的理由等等
+
+
+而去激發他&#34;哦好想自己畫畫看黃昏時的這個湖哦&#34;的創作動機
+
+沒有創作的動機、換句話說就是[我為什麼要畫這個、畫這個是想畫出什麼感覺]
+
+終究就不可能有自己的構圖和畫法，頂多就是一直臨摹看過的圖片而已
+
+
+
+情況是這樣的話，也許AI要在藝術創作中與人類有相同水準
+
+或許還有很長一段距離??
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.170.47.72
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495908107.A.5F5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495908107.A.5F5.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">takashi01</span><span class="f3 push-content">: 一堆數據說他是AI 呵呵</span><span class="push-ipdatetime"> 05/28 02:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Costco5566</span><span class="f3 push-content">: 偶4顧偶在</span><span class="push-ipdatetime"> 05/28 02:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greentea1205</span><span class="f3 push-content">: 科技始終不能完全取代人類，人類擁有情感與精神感知</span><span class="push-ipdatetime"> 05/28 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greentea1205</span><span class="f3 push-content">: 方面的優勢，我們會哭會笑，但這些機器無法做到</span><span class="push-ipdatetime"> 05/28 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greentea1205</span><span class="f3 push-content">: 一旦被取代，放心不用過多久大家就會開始後悔了</span><span class="push-ipdatetime"> 05/28 02:04
+</span></div>
+也很難講 畢竟癥結點是在
+
+目前的電腦尚無法有自我意識
+
+一旦有自我意識後
+
+相信離自發性的產生創作靈感
+
+就不會很遠
+<span class="f2">※ 編輯: SilverFlare (118.170.47.72), 05/28/2017 02:05:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hotsuma</span><span class="f3 push-content">: 先使AI甲數羊入睡 再讓AI甲作夢 然後讓AI乙解AI甲作的夢</span><span class="push-ipdatetime"> 05/28 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">duane</span><span class="f3 push-content">: 這篇正解 AI只要不要自己賦予自己意義 永遠都不是人</span><span class="push-ipdatetime"> 05/28 02:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">duane</span><span class="f3 push-content">: 只知道贏棋的阿法狗 永遠是下棋軟體  要他做別的事也一樣</span><span class="push-ipdatetime"> 05/28 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 簡單說就是創作非常仰賴自我激勵self-motivation但是</span><span class="push-ipdatetime"> 05/28 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 目前來說AI只會人類命令它做什麼才做,那就很難自行產</span><span class="push-ipdatetime"> 05/28 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 生創作的目標和動機, 那就永遠都是在模仿,而非創作</span><span class="push-ipdatetime"> 05/28 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 是嗎</span><span class="push-ipdatetime"> 05/28 02:26
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495908107.A.5F5.html?cacheKey=2052-2185583&offset=2881&offset-sig=b514384bff3a4a3802cad7930a429baf40589d7d" data-longpollurl="/v1/longpoll?id=ef2a41ddeb6741be5de2c883e8be161e84d57bc6" data-offset="2881"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

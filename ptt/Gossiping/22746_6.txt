@@ -1,0 +1,180 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496749384.A.F83.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 天熱影響 今天用電量破今年新高 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+鉅亨網
+2.完整新聞標題:
+天熱影響 今天用電量破今年新高
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 天熱影響 今天用電量破今年新高">
+<meta property="og:description" content="1.媒體來源:
+鉅亨網
+2.完整新聞標題:
+天熱影響 今天用電量破今年新高
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496749384.A.F83.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496749384.A.F83.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">z770808 (z爸)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 天熱影響 今天用電量破今年新高</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 19:42:52 2017</span></div>
+1.媒體來源:
+
+鉅亨網
+
+2.完整新聞標題:
+
+天熱影響 今天用電量破今年新高
+
+3.完整新聞內文:
+
+受到鋒面減弱影響，今天 (6/6) 全台各地高溫都在 30 度以上，嘉義、台北高溫甚至達
+到 34 度，整體用電量持續攀升。台電表示，今天尖峰用電出現在下午兩點，用電量達三
+千三百零九萬千瓦，刷新今年用電紀錄，實際備轉容量率為百分之四點二三，供電燈號亮
+出「供電警戒」的橘燈，實際剩餘備轉容量為一百四十點一萬千瓦。
+
+值得注意的是，大部分機組都在五月底前完成歲修，但核一廠 2 號機在上週豪雨造成鐵
+塔倒塌急停後，現在還未修復，<span class="f3 b1 hl">台電為了填補供電缺口，核電廠緊急柴油氣渦輪機組六部
+</span><span class="f3 b1 hl">全數啟動，其中更有四部超載運轉，顯示整體供電情況相當吃緊。</span>
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://news.cnyes.com/news/id/3828130" target="_blank" rel="nofollow">http://news.cnyes.com/news/id/3828130</a>
+
+5.備註:
+
+文青不是最愛躲在冷氣房反核
+
+說好的用愛發電呢？
+
+--
+一位企業家分享了他如何從22K到身價上億的富豪，
+剛進社會時，他定了一個夢想5年內買車10年內買房，
+當其他人選擇騎車、搭車上班時，他選擇了走路到公司；
+當同事們吃著85元的雞腿便當時，他選擇吃55元的排骨便當；
+當其他人選擇花費時，他選擇了儲蓄，慢慢跟其他人之間的差距逐漸浮現了出來，
+最後，他繼承了他爸爸的遺產，成為了身價上億的富豪。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.231.138.53
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496749384.A.F83.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496749384.A.F83.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uke3458</span><span class="f3 push-content">: 肥宅油一直D  嗚嗚</span><span class="push-ipdatetime"> 06/06 19:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greg7575</span><span class="f3 push-content">: 用愛發電</span><span class="push-ipdatetime"> 06/06 19:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: <a href="https://i.imgur.com/PPVufAm.png" target="_blank" rel="nofollow">https://i.imgur.com/PPVufAm.png</a> 非核家園即將達成</span><span class="push-ipdatetime"> 06/06 19:43
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="PPVufAm"><a href="//imgur.com/PPVufAm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sinreigensou</span><span class="f3 push-content">: 跳電再叫我</span><span class="push-ipdatetime"> 06/06 19:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 樓下擁核</span><span class="push-ipdatetime"> 06/06 19:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 核電廠緊急柴油氣渦輪機組都拿來用 還超載運轉</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qw530817</span><span class="f3 push-content">: 用愛發電</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: 也沒跳電啊，我都開始覺得這種新聞無感了</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 反核的不怕嗎??</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nctugoodman</span><span class="f3 push-content">:   老天也反核 你有什麼辦法?</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Zcould</span><span class="f3 push-content">: 限電時再發文吧</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 沒跳電是因為台電用命在跟你賭呀</span><span class="push-ipdatetime"> 06/06 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 還要貼錢請大戶不要用電</span><span class="push-ipdatetime"> 06/06 19:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fbiciamib123</span><span class="f3 push-content">: 又在恐嚇人民</span><span class="push-ipdatetime"> 06/06 19:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brian12589</span><span class="f3 push-content">: 還沒到最熱呢，這數據看看就好</span><span class="push-ipdatetime"> 06/06 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suxen</span><span class="f3 push-content">: 引擎超載啦~～</span><span class="push-ipdatetime"> 06/06 19:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poopllll</span><span class="f3 push-content">: 是不是若有同時期用電創新低也該報導的概念噢</span><span class="push-ipdatetime"> 06/06 19:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">waynehow</span><span class="f3 push-content">: 破今年是廢話嗎 夏天都還沒到</span><span class="push-ipdatetime"> 06/06 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 天天靠夭叫了一年 你家有停電嗎?</span><span class="push-ipdatetime"> 06/06 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dan5120</span><span class="f3 push-content">: 飯盒冬天才會出來吧</span><span class="push-ipdatetime"> 06/06 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 大眾運輸和部分公眾場所都空調只開26度了還能電量破新高?</span><span class="push-ipdatetime"> 06/06 19:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 連北捷內我都開始覺得悶熱了,</span><span class="push-ipdatetime"> 06/06 19:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eayterrr</span><span class="f3 push-content">: 愛不夠</span><span class="push-ipdatetime"> 06/06 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LeaveTaiwan</span><span class="f3 push-content">: 破「今年」新高又怎樣....夏天才準備要開始 講廢話</span><span class="push-ipdatetime"> 06/06 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 六部緊急柴油總發電 我記得220~230這之間</span><span class="push-ipdatetime"> 06/06 20:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 少了兩台 就直接紅燈了拉</span><span class="push-ipdatetime"> 06/06 20:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">handsome582</span><span class="f3 push-content">: 都超載四台了 還要它斷電才有感？？</span><span class="push-ipdatetime"> 06/06 20:36
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496749384.A.F83.html?cacheKey=2052-6884898&offset=4060&offset-sig=1d929704a06a7b96dbec9b772a306f1ff5173394" data-longpollurl="/v1/longpoll?id=249d9719bb3b7719c74118f51c9416f1bd06cff7" data-offset="4060"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

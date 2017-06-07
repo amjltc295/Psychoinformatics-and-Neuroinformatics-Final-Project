@@ -1,0 +1,192 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495684051.A.B01.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 專法被廢提行政訴訟 紅十字會敗訴 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 自由電子報
+2.完整新聞標題:
+※ 專法被廢提行政訴訟 紅十字會敗訴
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 專法被廢提行政訴訟 紅十字會敗訴">
+<meta property="og:description" content="1.媒體來源:
+※ 自由電子報
+2.完整新聞標題:
+※ 專法被廢提行政訴訟 紅十字會敗訴
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495684051.A.B01.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495684051.A.B01.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">go190214 (天空之島拉普達)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 專法被廢提行政訴訟 紅十字會敗訴</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 11:47:28 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 自由電子報</span>
+
+
+2.完整新聞標題:
+<span class="f2">※ 專法被廢提行政訴訟 紅十字會敗訴</span>
+
+
+3.完整新聞內文:
+
+立法院去年通過廢除已施行超過一甲子的《中華民國紅十字會法》，讓紅十字會回歸《人
+民團體法》規範，引發國民黨與紅十字會不滿，紅十字會並向台北高等行政法院提起「預
+防性不作為訴訟」，力求保住法人資格與紅十字會名稱，北高行今駁回紅十字總會之訴，
+可上訴。
+
+據悉，紅十字會此次提出的「預防性不作為訴訟」，共包含3個訴求，其一是廢法之後不
+能撤銷「中華民國紅十字會」在內政部所做的登記；其二是確保內政部在判決確定前，不
+能撤銷其法人資格，更不得宣布解散；其三則是要求內政部不得允許中華民國紅十字會以
+外的任何單位或民眾，申請「中華民國紅十字會」或「台灣紅十字會」等名稱。
+
+中華民國紅十字會起源於1904年創立的上海萬國紅十字會，1933年改名為「中華民國紅十
+字會」，並於1949年遷至台灣，其下包含5個分會與21個支會。1954年3月《中華民國紅十
+字會法》制定後，紅會獲准得免申請發起募款，且可不受主管機關監督，其人員、物資及
+運輸工具更具有優先通行等特殊禮遇，並享有豁免賦稅之權利，因而頻遭外界質疑是特權
+專法。
+
+除了本案的預防性不作為訴訟，紅十字會去年也曾向北高行聲請假處分，遭北高行駁回，
+紅十字會不服提抗告，但最高行政法院認為，內政部已說不會廢紅十字會，立法院也無廢
+除紅十字會的意思，本案無立即性危險或急迫性，將抗告案駁回確定。
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/jxT2ye" target="_blank" rel="nofollow">https://goo.gl/jxT2ye</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.195.136.182
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495684051.A.B01.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495684051.A.B01.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 讚讚</span><span class="push-ipdatetime"> 05/25 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gamesame7711</span><span class="f3 push-content">: ya</span><span class="push-ipdatetime"> 05/25 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiminocodo</span><span class="f3 push-content">: 藍十字會</span><span class="push-ipdatetime"> 05/25 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gossiking</span><span class="f3 push-content">: 分紅十字會</span><span class="push-ipdatetime"> 05/25 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kshsedch</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">john0628</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rl1024</span><span class="f3 push-content">: KMT又要崩潰了</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 去紅十字會總站查不到耶 哪來的分會</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexkinkikids</span><span class="f3 push-content">: 紅(共產黨)十字會</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 看內文明明是沒事找事做==</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">magamanzero</span><span class="f3 push-content">: 就只是要監督而已 還是現在不給督?</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sjlee1127</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 11:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Windk610i</span><span class="f3 push-content">: ㄏ</span><span class="push-ipdatetime"> 05/25 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kapasky</span><span class="f3 push-content">: 駁回 幹 連再上訴都不行了</span><span class="push-ipdatetime"> 05/25 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jho52106</span><span class="f3 push-content">: 還我國小時強制要我買的垃圾郵票錢</span><span class="push-ipdatetime"> 05/25 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m21423</span><span class="f3 push-content">: 資進黨 以前捐的錢還來啊</span><span class="push-ipdatetime"> 05/25 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keither1009</span><span class="f3 push-content">: 樓上在崩潰三小？</span><span class="push-ipdatetime"> 05/25 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 還在垂死掙扎</span><span class="push-ipdatetime"> 05/25 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keither1009</span><span class="f3 push-content">: 接下來請目標婦聯會</span><span class="push-ipdatetime"> 05/25 11:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linfon00</span><span class="f3 push-content">: 帳目已經移轉完成？</span><span class="push-ipdatetime"> 05/25 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jhnny</span><span class="f3 push-content">: 藍十字會，噁心</span><span class="push-ipdatetime"> 05/25 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">papaganono</span><span class="f3 push-content">: 爽啦 去死</span><span class="push-ipdatetime"> 05/25 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainxo6p</span><span class="f3 push-content">: KMT崩潰</span><span class="push-ipdatetime"> 05/25 12:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">agostina</span><span class="f3 push-content">: 分紅十字會</span><span class="push-ipdatetime"> 05/25 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">happ</span><span class="f3 push-content">: 爽！</span><span class="push-ipdatetime"> 05/25 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 解散！所有動產不動產全部還給政府！</span><span class="push-ipdatetime"> 05/25 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vul3vmp4</span><span class="f3 push-content">: 送啦</span><span class="push-ipdatetime"> 05/25 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">japanzara</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/25 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kmshy</span><span class="f3 push-content">: 垃圾藍十字</span><span class="push-ipdatetime"> 05/25 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gh34163</span><span class="f3 push-content">: 爽啦</span><span class="push-ipdatetime"> 05/25 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luke7212</span><span class="f3 push-content">: 啊～好舒服～好療癒～</span><span class="push-ipdatetime"> 05/25 12:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ironkyoater</span><span class="f3 push-content">: 賣假郵票給我閉嘴</span><span class="push-ipdatetime"> 05/25 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bakaka</span><span class="f3 push-content">: “引發國民黨與紅十字會不滿“</span><span class="push-ipdatetime"> 05/25 12:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bakaka</span><span class="f3 push-content">: 爽！</span><span class="push-ipdatetime"> 05/25 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Banrin</span><span class="f3 push-content">: 藍十字</span><span class="push-ipdatetime"> 05/25 12:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcboy</span><span class="f3 push-content">: 9.2詐騙專用</span><span class="push-ipdatetime"> 05/25 12:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mstar</span><span class="f3 push-content">: 本來就沒要廢紅十字會，只是廢掉專法讓你們沒有特權而已，</span><span class="push-ipdatetime"> 05/25 12:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mstar</span><span class="f3 push-content">: 提出的訴訟點明顯無理由，會輸也不意外。</span><span class="push-ipdatetime"> 05/25 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killerken</span><span class="f3 push-content">: UCCU</span><span class="push-ipdatetime"> 05/25 13:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bardah2c</span><span class="f3 push-content">: 下賤滯台支那畜牲崩潰</span><span class="push-ipdatetime"> 05/25 14:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fromwilda</span><span class="f3 push-content">: GJ</span><span class="push-ipdatetime"> 05/25 15:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495684051.A.B01.html?cacheKey=2052-48193&offset=5712&offset-sig=d5df6208e002d5dca563c8b724bd3b6acf9c1127" data-longpollurl="/v1/longpoll?id=558a0d594d419d7857099377a12505aef4ffc7c4" data-offset="5712"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

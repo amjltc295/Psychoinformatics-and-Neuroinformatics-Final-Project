@@ -1,0 +1,298 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496408611.A.BDF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 中國共享經濟離泡沫還有多遠？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+紐時
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 中國共享經濟離泡沫還有多遠？">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+紐時
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496408611.A.BDF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496408611.A.BDF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ilwe106 (苦盡肝來)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 中國共享經濟離泡沫還有多遠？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 21:03:28 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+紐時
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+中國共享經濟離泡沫還有多遠？
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+北京——中國的分享可能已經太多了。
+
+先是一場代價高昂，但卻頗受乘客歡迎的殘酷戰爭，其結果是優步(Uber)離開了這個國家
+。然後是共享單車大潮令城市街頭堆滿了不在使用中的單車。
+
+如今，中國初創公司還想分享雨傘、混凝土攪拌機和手機充電寶。有一家公司還想分享籃
+球。
+
+隨著中國企業家和投資者不斷擠進這個行業，一些心存疑慮的業內人士在思考：中國是否
+已經到達「分享最大值」？
+
+「過了這麼多年，中國終於回歸它的共產主義根系。」北京的亞洲創新集團聯合創始人、
+企業家田行智(Andy Tian)說：「共產主義的實質就是集體分享。」
+
+「但毫無疑問，這是一個泡沫，」他補充說。「它可能植根於一些有價值的東西，但是你
+真能什麼都分享嗎？」
+
+一些中國企業家認為，很可能是可以的，比如說連續創業者徐敏。他來自東部省份浙江省
+的嘉興市，今年30歲，三月，他聽一些朋友抱怨帶著球到處走很不方便，於是就有了提供
+籃球分享服務的想法。
+
+僅僅四天後，徐敏就成立了「豬了個球」，在中文裡大致是「租了個球」的諧音。這個服
+務能讓用戶從全國各地籃球場的定製自動化儲物櫃租用籃球。用戶只需用智能手機攝像頭
+掃描儲物柜上的二維碼，解鎖一個裝著籃球的儲物箱，就可以租到球了。
+
+「豬了個球」向用戶收取每小時一元人民幣（約合15美分）作為租金。此外還要收取約10
+美元作為押金，除非用戶的芝麻信用（由中國電子商務巨頭阿里巴巴集糰子公司螞蟻金服
+開發的社會信用評分系統）評級很高。
+
+「從長遠來看，買球比租球更划算，」徐敏說。「但是我們認為中國用戶願意為了方便而
+多付一點錢。」
+
+本月早些時候，「豬了個球」獲得了總部位於上海的風險投資公司馬笛爾的1000萬人民幣
+風投。
+
+在中國共享經濟繁榮的背後是資金過剩，以及一些批評人士所說的好創意的匱乏。畢馬威
+(KPMG)最近的一份報告顯示，2016年中國的風險投資公司投資了310億美元，同比增加近
+五分之一。大量投資流向了共享公司，一些賺得盆滿缽滿的大贏家和一片繁榮的創業景象
+吸引了國內外的投資者。
+
+「我們看到大量資金流向各處，」上海的創業加速器和聯合辦公空間創極無限(XNode)的
+首席執行官周煒說，「有人做出愚蠢的投資。」
+
+在最近一輪迭代中，中國的共享經濟演變成了類似於接入互聯網的租賃公司的形態。不同
+於提供平台，以便連接用戶和現有資源的愛彼迎(Airbnb)和優步，中國最新一批共享公司
+將自己擁有的產品租給用戶。
+
+這並不是說在中國，共享必然不是個好主意。收購優步並迫使其退出中國市場的叫車公司
+滴滴出行是一家非上市公司，沒有公布自己的財務業績，但隨著投資者湧入，其估值不斷
+攀升。此外，中國具備發展共享經濟的成熟條件，包括龐大的人口、人口稠密的城市和規
+模頗大的無力購買的群體。
+
+「在中國，平均收入依然非常低，在很多方面市場對價格依然非常敏感，」科技調研公司
+邁博瑞諮詢有限公司(Marbridge Consulting)的執行董事馬克·納特金(Mark Natkin)說
+。「因此，如果具備了支持它的技術和可行的商業模式，就會出現各種各樣的共享經濟或
+偽共享經濟企業，它們具有做得非常好的可能性。」
+
+此外，中國基於智能手機的移動支付系統處於尖端水平，讓共享變得易如反掌。在中國互
+聯網巨頭，如騰訊控股和阿里巴巴集團旗下一家公司的運營下，移動支付系統將用戶的銀
+行帳戶無縫連接，甚至只用簡單的點擊和用攝像頭拍照便可完成小額交易。
+
+中國政府看到了共享經濟的前景。政府估計共享經濟去年貢獻了5000億美元的交易，並預
+測到2020年，共享經濟在中國經濟產出中的比例將達到10%。
+
+這一切催生了在其他人看來也許令人費解的想法，包括沈巍巍的雨傘共享企業。
+
+沈巍巍的創業公司叫魔力傘，是一家提供共享雨傘服務的公司。身為創業者的他承認，公
+司可能很難實現盈利。魔力傘利潤空間很小，從其定製的租借設備中借出一把雨傘12小時
+僅收一元，並且用戶還可能會盜竊雨傘。
+
+但沈巍巍說，他相信其他人會看到一家共享雨傘公司帶來的公共和環境效益。迄今為止，
+魔力傘已同廣州和福州的地鐵公司達成協議，在這兩座城市的地鐵站安裝安雨傘租借設備
+。他說，目標是無論什麼時候，100米範圍內都能有一台雨傘存租借設備。
+
+「在家裡，所有人都有傘，但一到真正需要用的時候，總是沒帶，」沈巍巍說。「如果我
+們成功了，用戶就不用再買傘了。」
+
+一些公司，比如將混凝土攪拌機、攪拌機操作員和建築工地聯接在一起的上海的Duola更
+小眾，和其他地方的類似租賃企業相仿。其他一些公司則擁有更廣泛的用戶基礎。最近幾
+個月，頂級風險投資者把目光投向了手機充電業務，計劃在商場和其他地方投放便攜式電
+池設備。據追蹤中國科技公司投資情況的網站IT桔子稱，僅過去兩個月，中國三大便攜共
+享電池公司來電、街電和小電就籌集了逾1.27億美元的融資。
+
+很多人依然持懷疑態度。「共享籃球，共享雨傘，這些都不是好點子，」常駐上海的金沙
+江創業投資基金(GSR Ventures)董事總經理朱嘯虎(Allen Zhu)說。「它們都和某個特定
+的地方綁定得非常緊，這讓公司很難擴張。」朱嘯虎是滴滴出行、受歡迎的共享單車公司
+Ofo和小電的早期投資人。
+
+像「豬了個球」的徐敏這樣的創業者卻不這麼認為，但他們也承認存在挑戰。
+
+比如，「豬了個球」似乎還沒找到一個可持續的辦法，來追回失竊的籃球。徐敏說，在最
+初的測試中，一個競爭對手為了更仔細地進行分析而偷走了一個籃球。「豬了個球」有這
+名竊賊的聯繫方式，並通過一個老式辦法追回了籃球。這個辦法就是不停地給對方打電話
+。
+
+「我們考慮過在籃球上安裝GPS追蹤裝置，」投資「豬了個球」的風投公司馬笛爾投資的
+首席執行官許捷說，他和該公司的創始人徐敏之間沒有親戚關係。「但我們算了一下，發
+現雇幾個人，用人力來找更划算。」
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="https://cn.nytimes.com/business/20170601/china-communal-sharing/zh-hant/" target="_blank" rel="nofollow">https://cn.nytimes.com/business/20170601/china-communal-sharing/zh-hant/</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+毅夫：這麼好，現在連籃球都不用自己帶了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.161.234.97
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496408611.A.BDF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496408611.A.BDF.html</a>
+</span><span class="f2">※ 編輯: ilwe106 (1.161.234.97), 06/02/2017 21:04:51
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dannyao</span><span class="f3 push-content">: 中國泡沫月經文!!</span><span class="push-ipdatetime"> 06/02 21:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Su22</span><span class="f3 push-content">: 何時推 共享老婆?</span><span class="push-ipdatetime"> 06/02 21:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazwsx0128</span><span class="f3 push-content">: 快了快了  別不耐煩  再兩個山頭就到了</span><span class="push-ipdatetime"> 06/02 21:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 有夠低能，啥小都共享</span><span class="push-ipdatetime"> 06/02 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">adort</span><span class="f3 push-content">: 共享人民幣</span><span class="push-ipdatetime"> 06/02 21:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay3u7218</span><span class="f3 push-content">: 中國的共享系列 根本是笑話來著</span><span class="push-ipdatetime"> 06/02 21:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kripp</span><span class="f3 push-content">: 中國國內的有錢人早都知道自己的資產只是泡沬 拼命想把錢搬</span><span class="push-ipdatetime"> 06/02 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kripp</span><span class="f3 push-content">: 出去你沒看到 可是外國人不買帳啊</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cliff411</span><span class="f3 push-content">: 所以哪時候 泡沫說了好久了</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 最後一句話我笑了XDD</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fanrei</span><span class="f3 push-content">: 沒看一直管制外匯</span><span class="push-ipdatetime"> 06/02 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eddieyu</span><span class="f3 push-content">: 十年前這句話就被說到爛了  到底要崩潰多久</span><span class="push-ipdatetime"> 06/02 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 暴力破解泡沫</span><span class="push-ipdatetime"> 06/02 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windyyw</span><span class="f3 push-content">: 310億美金都投這種項目真是盤子</span><span class="push-ipdatetime"> 06/02 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Cliffx</span><span class="f3 push-content">: 泡沫說好幾年了欸</span><span class="push-ipdatetime"> 06/02 21:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: GPS標籤又不便宜，找人蒐真的比較實在</span><span class="push-ipdatetime"> 06/02 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 混擬土不就是工具機出租？這種商業模式還實在一點</span><span class="push-ipdatetime"> 06/02 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nineflower</span><span class="f3 push-content">: 白痴文章 至少共享經濟可能是未來的社會型態之一 成功</span><span class="push-ipdatetime"> 06/02 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nineflower</span><span class="f3 push-content">: 了很棒 失敗了也可以知道這條路不行</span><span class="push-ipdatetime"> 06/02 21:12
+</span></div>同意
+但在所謂共享經濟喊了快十年之際
+現在發現最早的共享經濟中的概念&#34;透過平台，將閒置資源再分配&#34;
+早就已經不再被實踐或實際上已經被放棄了
+你不覺得現在打著共享經濟口號的&#34;共享事業&#34;
+實際上不就是傳統的租賃或公共資源的投入嗎?
+這種以共享為名的創投，的確已經成為泡沫投資的窗簾布
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 白癡才把錢投進去中國，進的去出不來</span><span class="push-ipdatetime"> 06/02 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 賺再多都是假的</span><span class="push-ipdatetime"> 06/02 21:15
+</span></div><span class="f2">※ 編輯: ilwe106 (1.161.234.97), 06/02/2017 21:20:55
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 共享單車肯定沒問題 甚至共享籃球也有希望成功 但共享雨傘</span><span class="push-ipdatetime"> 06/02 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 也太扯蛋了</span><span class="push-ipdatetime"> 06/02 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 共享單車市場足夠大  肯定會有一兩家最後成功并做大</span><span class="push-ipdatetime"> 06/02 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrakis</span><span class="f3 push-content">: 對中國離婚率有點認知就會知道共享老婆早就實現了</span><span class="push-ipdatetime"> 06/02 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 共享籃球主要是市場太小   要把技術做好 最好是要有保障籃球</span><span class="push-ipdatetime"> 06/02 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 能回收成功  這才是是否能成功的關鍵</span><span class="push-ipdatetime"> 06/02 21:19
+</span></div>大大不覺得所謂共享籃球本身不就是籃球租賃?
+現在中國在經濟轉型 這種經濟剛需本身也許有很大的成長空間
+但老實說  這已經跟共享經濟無關了
+打著共享名號本身可能更多來自於希望獲得創投的天使資金
+不是經濟模式不能成功 而是現階段形成的資產泡沫太驚人
+<span class="f2">※ 編輯: ilwe106 (1.161.234.97), 06/02/2017 21:24:28
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Homedoni</span><span class="f3 push-content">: 中國有中國的玩法</span><span class="push-ipdatetime"> 06/02 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anono</span><span class="f3 push-content">: 商業模式要看2點﹐第一是否有足夠的需求。</span><span class="push-ipdatetime"> 06/02 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anono</span><span class="f3 push-content">: 第二是否提升了社會運轉效率。</span><span class="push-ipdatetime"> 06/02 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anono</span><span class="f3 push-content">: 所以從這個角度講﹐共享籃球意義不大。雨傘也是。很扯。。</span><span class="push-ipdatetime"> 06/02 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anono</span><span class="f3 push-content">: 但共享單車顯然是很好的模式。而且競爭者出局後利潤空間很</span><span class="push-ipdatetime"> 06/02 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xiaohan85298</span><span class="f3 push-content">: 拋開意識形態和先入為主，未來永遠是更方便更快捷更</span><span class="push-ipdatetime"> 06/02 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xiaohan85298</span><span class="f3 push-content">: 人性化，實踐是檢驗真理的唯一標準，中國會繼續前進</span><span class="push-ipdatetime"> 06/02 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anono</span><span class="f3 push-content">: 大。因為盈利模式清晰﹐簡單。周期短。</span><span class="push-ipdatetime"> 06/02 21:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">koll</span><span class="f3 push-content">: 業主賺的是創投的錢 不是本業的錢!</span><span class="push-ipdatetime"> 06/02 22:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">curtis0982</span><span class="f3 push-content">: 中國敢做 台灣只會在原地看</span><span class="push-ipdatetime"> 06/02 22:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ccl007</span><span class="f3 push-content">: 共享__ 請自行帶入</span><span class="push-ipdatetime"> 06/02 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arcanite</span><span class="f3 push-content">:   R20</span><span class="push-ipdatetime"> 06/02 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tcboy</span><span class="f3 push-content">: 資金過剩？是不是有什麼誤會？</span><span class="push-ipdatetime"> 06/02 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BrownRhined</span><span class="f3 push-content">: 共享雨傘 唯一的缺點就是 靠天吃飯 就算遺失或沒歸還</span><span class="push-ipdatetime"> 06/02 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BrownRhined</span><span class="f3 push-content">:  扣押金相當於賣傘而已 所以租金穩賺 傘面還能放廣告</span><span class="push-ipdatetime"> 06/02 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BrownRhined</span><span class="f3 push-content">:  收廣告費</span><span class="push-ipdatetime"> 06/02 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asyousaid</span><span class="f3 push-content">: 本來共享的初衷是物盡其用，但中國的共享經濟為了共享</span><span class="push-ipdatetime"> 06/03 03:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asyousaid</span><span class="f3 push-content">: 而共享，額外製造出一大批的新產品，跟共享初衷正相反</span><span class="push-ipdatetime"> 06/03 03:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496408611.A.BDF.html?cacheKey=2052-1387750&offset=10634&offset-sig=d2981640b788d682a263362ef9a9faa471a1f7e6" data-longpollurl="/v1/longpoll?id=c38a30858e90dbe143c4f7dbaf62f43592f46fc2" data-offset="10634"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

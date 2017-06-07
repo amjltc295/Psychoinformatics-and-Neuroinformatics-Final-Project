@@ -1,0 +1,237 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496284480.A.7B9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞]風評：兆豐案簽結「查無事證 」，那些興 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+風傳媒、yhhoo新聞
+2.完整新聞標題:
+風評：兆豐案簽結「查無事證 」，那些興高采烈獵巫的政客、名嘴呢？
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞]風評：兆豐案簽結「查無事證 」，那些興">
+<meta property="og:description" content="1.媒體來源:
+風傳媒、yhhoo新聞
+2.完整新聞標題:
+風評：兆豐案簽結「查無事證 」，那些興高采烈獵巫的政客、名嘴呢？
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496284480.A.7B9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496284480.A.7B9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">idwang (..)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞]風評：兆豐案簽結「查無事證 」，那些興</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 10:34:38 2017</span></div>
+1.媒體來源:
+風傳媒、yhhoo新聞
+2.完整新聞標題:
+風評：兆豐案簽結「查無事證 」，那些興高采烈獵巫的政客、名嘴呢？
+3.完整新聞內文:
+北檢周一（22日）簽結兆豐案，結論是查無洗錢不法事證。這個結果對金融界而言，應該
+是毫不意外，倒是對那些事發時興高采烈，跳下來大舉獵巫的政客、名嘴們，竟還能「泰
+然處之」，是讓人稱奇。
+
+去年8月中，被歸類為公營行庫的兆豐銀行紐約分行，因為違反美國金融監理的洗錢申報
+規定，遭紐約州金融服務署（NYDFS）裁罰1.8億美元。這個消息震撼國內金融界與政壇，
+而甫掌權的綠營政客更是見獵心喜，認為其中必然有國民黨洗錢的證據，名嘴們見血當然
+也是群起撲上，大家合組一個「獵巫集團」。
+
+於是，原本單純一個違反洗錢申報規定的案件，就立刻「升級」為「兆豐洗錢案」；稍有
+金融知識者都了解違反金融監理單位的規定，與金融機構本身犯罪是完全不同檔次的事，
+但在兆豐案中，兩者被劃上等號。接著就是要找罪犯。
+
+兆豐前董事長蔡友才當然是第一戰犯，而因為剛下台的總統馬英九的夫人周美青曾任職兆
+豐的法務處長，加上「曾去過美國」的金小刀，因此獵巫集團根據阿扁卸任前後的洗錢經
+驗，連結出這是協助馬英九卸任的洗錢行為；而有向兆豐貸款的國民黨營中投公司也成為
+洗錢主體，藍營前財金首長曾銘宗、張盛和一起成為「共犯」。
+
+而因為兆豐新董事長徐光曦是央行總裁彭淮南的連襟，彭淮南又曾受命替兆豐出面向美方
+爭取權益，所以這些人全部都與洗錢有關，就此串聯唱出一個龐大的洗錢集團的戲碼。名
+嘴們還為大家預告兆豐其它海外分行有更嚴重的洗錢案件。
+
+蔡政府對兆豐案的反應，堪稱是政治掛帥的大外行。事件發生初，行政院看起來有意專業
+處理，但最後擋不住綠營的獵巫壓力，只能找來「綠色金融家們」一起組成專案小組。
+
+在事件不明之際，小英總統卻把調子越拉越高，她說公股銀行被指涉洗錢讓國家的名譽受
+傷，用「荒腔走板、匪夷所思」重話來形容此事。她說要「追究過往監管疏失的責任」，
+讓全案督導小組把有關係、沒關係財金6首長，一股腦的移送到監察院「追究責任」，同
+時對蔡友才等「求償56億」，這些作法看在金融界眼中卻是粗暴又乏專業。
+
+不過，這些被視為可爆炸重創藍營的兆豐案原子彈，確實一個一個的爆了，但卻是炸傷綠
+營。先是兆豐在巴拿馬的兩個分行與紐約分行間往來高達3800億（115億美元），被視為
+「洗錢證據」的數字原來擺了大烏龍，因為實際金額只有75億美元，且其中只有3億美元
+是民間匯款，其餘72億美元都是分行間因資金調度彼此的拆借。原來被渲染為數百億元、
+未申報的 174 筆退匯交易（即所謂的洗錢金額），其實也只有區區的1389 萬美元。獵巫
+者相信那174筆退匯交易中一定有藍營高空洗錢的匯款證據，結果是沒有一筆是從台灣匯
+出去，唯一兩筆受款人是台籍人士者亦為同業間匯款。
+
+這次北檢簽結中，講得其實非常清楚：查無兆豐銀相關人員及本國人涉及洗錢或幫助洗錢
+等不法事證，美方的裁罰並非涉及洗錢，而是未瞭解美國洗錢防制法規，導致紐約分行的
+洗錢防制機制不足及內控不佳，法令遵循產生嚴重缺失才被罰。北檢調查約6年半期間，
+並未發現有國內資金匯入兆豐銀OBU客戶設在兆豐銀美國及巴拿馬地區分行帳戶等情事。
+
+因此，那些政客與名嘴泡製出來的龐大的兆豐洗錢案，原來都是幻想、甚至栽贓而產生。
+不過，這場兆豐獵巫秀產生的傷害相當大：金管會主委丁克華因為「編不出」綠營想要的
+洗錢證據，終而辭職下台；央行總裁彭淮南被綠營流彈攻擊，心冷而提前宣布任期滿後不
+再續任；更嚴重的是專業受傷，社會信任崩潰。即使綠營全面執政，把從金管會、兆豐都
+換上自己人，法院也不再是「國民黨開的」，但查出這種「無洗錢事證」的結果，大概又
+是信者恆信、不信者恆不信。
+
+雖然政客、名嘴們這次獵巫失敗，但大概難寄望他們能反省檢討甚至道歉，他們只會轉頭
+繼續尋找下個對象。但對政府與金融界而言，兆豐案最大的教訓，應該是台灣遠落後於國
+際的金融法規，政府該修法與國際接軌，金融業者該多投資法遵，別浪費兆豐為大家繳交
+的這57億學費吧！
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/zJblvv" target="_blank" rel="nofollow">https://goo.gl/zJblvv</a>
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.189.143.193
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496284480.A.7B9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496284480.A.7B9.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BEHIND</span><span class="f3 push-content">: 國民黨執政的時候說洗錢 換人上台無罪簽結 ??????</span><span class="push-ipdatetime"> 06/01 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 風傳媒是哪家? 又多一家紅媒?</span><span class="push-ipdatetime"> 06/01 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">versailles94</span><span class="f3 push-content">: 覺青的褲子呢</span><span class="push-ipdatetime"> 06/01 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 這內控漏洞 能抹掉洗錢的證據.所以美國才會開罰</span><span class="push-ipdatetime"> 06/01 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YJM1106</span><span class="f3 push-content">: 蔡英文真可悲，全部都你的人還栽贓不了國民黨</span><span class="push-ipdatetime"> 06/01 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">InfinitySA</span><span class="f3 push-content">: 8.7成是裡面也牽扯到一堆民進黨的人啦 才會無罪</span><span class="push-ipdatetime"> 06/01 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 這些人不懂經濟啊</span><span class="push-ipdatetime"> 06/01 10:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">junynyi</span><span class="f3 push-content">: 57億...</span><span class="push-ipdatetime"> 06/01 10:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">schumi7401</span><span class="f3 push-content">: 57億找誰要啦</span><span class="push-ipdatetime"> 06/01 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alwaysalone</span><span class="f3 push-content">: 原來是兆豐為大家繳交...辛苦了..</span><span class="push-ipdatetime"> 06/01 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t00012</span><span class="f3 push-content">: 那就是美國司法不公囉，川普立刻出面下跪道歉並且辭職</span><span class="push-ipdatetime"> 06/01 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hunterh01</span><span class="f3 push-content">: 這個不能辦拉,辦下去國會少一堆人會開不了會很不方便</span><span class="push-ipdatetime"> 06/01 10:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alwaysalone</span><span class="f3 push-content">: 等等，那不是納稅人的錢嗎!!</span><span class="push-ipdatetime"> 06/01 10:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ironkyoater</span><span class="f3 push-content">: 說美青洗錢的，褲子和內褲都不見了</span><span class="push-ipdatetime"> 06/01 10:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iam0718</span><span class="f3 push-content">: 57億 溫馨</span><span class="push-ipdatetime"> 06/01 10:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jac19860114</span><span class="f3 push-content">: 無不法阿，被罰是罰開心的喔XDDDD</span><span class="push-ipdatetime"> 06/01 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">becareful</span><span class="f3 push-content">: 幹你媽的，57億誰要付錢！</span><span class="push-ipdatetime"> 06/01 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chenyeart</span><span class="f3 push-content">: 兆豐銀內控不佳當然兆豐自己吞阿</span><span class="push-ipdatetime"> 06/01 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ak904</span><span class="f3 push-content">: 台灣檢調能信？如果沒有不法，美國罰1.8E鎂是罰三小...</span><span class="push-ipdatetime"> 06/01 10:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ozs</span><span class="f3 push-content">: 57e是誰出的學費? 這風向也帶得太差了</span><span class="push-ipdatetime"> 06/01 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 美國耍流氓啊！比所謂亂抓改機車排氣管還惡劣百倍</span><span class="push-ipdatetime"> 06/01 10:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 而且很矛盾的是...真的有洗錢，流氓美帝不會加碼罰更重？</span><span class="push-ipdatetime"> 06/01 10:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 57億也是兆豐自己營收支出真不知道突然冒出一堆大股東</span><span class="push-ipdatetime"> 06/01 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pda2001</span><span class="f3 push-content">: <a href="https://youtu.be/tR710qbQ7Bs?t=2974" target="_blank" rel="nofollow">https://youtu.be/tR710qbQ7Bs?t=2974</a> 就真的查&#34;無不法&#34;</span><span class="push-ipdatetime"> 06/01 10:52
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/tR710qbQ7Bs" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 一堆弱智寧願相信名嘴也不信檢調</span><span class="push-ipdatetime"> 06/01 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 美帝裁罰案件多的是，德意志銀行被罰更多</span><span class="push-ipdatetime"> 06/01 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pda2001</span><span class="f3 push-content">: 不要冤枉檢調了</span><span class="push-ipdatetime"> 06/01 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 怎麼不去靠北德意志銀行跟兆豐勾結洗錢</span><span class="push-ipdatetime"> 06/01 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DIDIMIN</span><span class="f3 push-content">: 查無不法，那是被罰爽的喔</span><span class="push-ipdatetime"> 06/01 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 就不符合美帝監理規範啊，你車亂停被開單就是運毒嗎？</span><span class="push-ipdatetime"> 06/01 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 用用大腦如果有長</span><span class="push-ipdatetime"> 06/01 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">liangyou</span><span class="f3 push-content">: 如果都無不法,美國會罰兆豐金嗎？</span><span class="push-ipdatetime"> 06/01 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chenda</span><span class="f3 push-content">: 被罰57億會無不法? 用用大腦如果有長</span><span class="push-ipdatetime"> 06/01 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pda2001</span><span class="f3 push-content">: 麻煩看影片 就真得查&#34;無不法&#34;</span><span class="push-ipdatetime"> 06/01 11:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x0003</span><span class="f3 push-content">: 一群人吃飽了，然後人民幫忙結帳</span><span class="push-ipdatetime"> 06/01 11:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mopigou</span><span class="f3 push-content">: 查無不法怎麼不跟川普說哩</span><span class="push-ipdatetime"> 06/01 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 一堆弱智學生在賣弄低能，什麼事都用想像的</span><span class="push-ipdatetime"> 06/01 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 高度監理的行業本來就很容易被裁罰</span><span class="push-ipdatetime"> 06/01 11:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 沒出社會就不要憑想像發言</span><span class="push-ipdatetime"> 06/01 11:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 去查一下國內銀行被政府罰過多少，是不是台灣不該有銀行</span><span class="push-ipdatetime"> 06/01 11:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 每間銀行幾乎都被罰過，所以都在洗錢囉？最好全關掉</span><span class="push-ipdatetime"> 06/01 11:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 這年頭真的無知就是力量，不懂的裝大聲就贏了</span><span class="push-ipdatetime"> 06/01 11:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asgardgogo</span><span class="f3 push-content">: 都你的人查無不法怪我囉</span><span class="push-ipdatetime"> 06/01 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hellogym</span><span class="f3 push-content">: 智障綠吱的智商不意外阿 什麼智商才會選出空心蔡這種總</span><span class="push-ipdatetime"> 06/01 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hellogym</span><span class="f3 push-content">: 統</span><span class="push-ipdatetime"> 06/01 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bbqsandwich</span><span class="f3 push-content">: 我們政府也是罰的很勤拉，果然寧願信名嘴，也不相信</span><span class="push-ipdatetime"> 06/01 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bbqsandwich</span><span class="f3 push-content">: 司法，司法還全部都菜的人耶</span><span class="push-ipdatetime"> 06/01 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edwardf</span><span class="f3 push-content">: 只查台灣籍然後說無不法，外籍人頭一個都沒查，檢調還真</span><span class="push-ipdatetime"> 06/01 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edwardf</span><span class="f3 push-content">: 用心</span><span class="push-ipdatetime"> 06/01 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">QQdragon</span><span class="f3 push-content">: 廢物空心菜還把洗錢案機密列管</span><span class="push-ipdatetime"> 06/01 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Freeven</span><span class="f3 push-content">: 查無不法，謝謝指教</span><span class="push-ipdatetime"> 06/01 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ko910493</span><span class="f3 push-content">: 查無不法......笑死人</span><span class="push-ipdatetime"> 06/01 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 紐約當局查過了啊！「疑似」洗錢交易「未申報」重罰57億,</span><span class="push-ipdatetime"> 06/01 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 如果是真的洗錢就是罰570億了...餐廳老闆「未舉報」食客</span><span class="push-ipdatetime"> 06/01 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 酒後上車被罰款，最後食客酒測也沒超標但是罰餐廳老闆</span><span class="push-ipdatetime"> 06/01 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 邪惡美帝鴨霸的紐約當局欺負台資企業不懂為何槍口對內</span><span class="push-ipdatetime"> 06/01 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">farseer7</span><span class="f3 push-content">: 所以到底誰為了57億負責任了？</span><span class="push-ipdatetime"> 06/01 15:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">farseer7</span><span class="f3 push-content">: 列機密的的又是三小？</span><span class="push-ipdatetime"> 06/01 15:42
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496284480.A.7B9.html?cacheKey=2052-11621025&offset=9496&offset-sig=b9d36cdb2c1f8ffe4fb9fc3e1beb715d435f4e5f" data-longpollurl="/v1/longpoll?id=a371e4b26bb4025f627224ccaee4d294a609e477" data-offset="9496"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,206 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495800199.A.48D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 上YouTube竟能「找到A片」?網友破解... - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+Ettoday
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 上YouTube竟能「找到A片」?網友破解...">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+Ettoday
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495800199.A.48D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495800199.A.48D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">v99999 (95至尊)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 上YouTube竟能「找到A片」?網友破解...</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 20:03:17 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+Ettoday
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+上YouTube竟能「找到A片」?網友破解...輸入特殊關鍵字！
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+
+上YouTube竟能「找到A片」？　網友破解...輸入特殊關鍵字！
+
+    2017年05月26日 19:04 小 中 大
+
+
+▲看似正常的愛爾蘭單字，居然被有心人利用成為色情溫床。（圖／翻攝YouTube）
+
+網搜小組／綜合報導
+
+全球最大的影音分享網站Youtube竟然暗藏春色？雖然該站有強大的過濾機制，並聘用不
+少專員負責刪除色情、血腥影片，但道高一尺、魔高一丈，有網友發現只要輸入特定「關
+鍵字」，就能成功打開潘朵拉的盒子，找到露點和性愛等18禁內容！
+
+外媒指出，愛爾蘭記者某次意外之下發現，許多A片的標題會用愛爾蘭語命名，這或許是
+為了規避Youtube審查機制，之後就能成功上傳。舉例來說，<span class="f1 hl">只要在搜尋列中輸入scannai</span>
+<span class="f1 hl">n</span>，就會出現大量有趣的搜尋結果，其中不乏A片連結，且主角東、西方都有。
+
+Youtube使用條款明文禁止色情、血腥影片，正常情況下機器會自動偵測各種情色關鍵字
+，確認違規便會馬上強制刪除，但命名為「scannan」就很容易逃過一劫，因為它的意思
+很正常，代表「電影或影片」。不過該關鍵字媒體曝光後聲名大噪，Youtube官方也大力
+掃蕩，「正邪對決」誰技高一籌呢？
+
+不只如此，Youtube上似乎還隱藏著許多未知的「關鍵密碼」，外媒曾經輸入「Vagina Sh
+aving Tutorial」（陰部剃毛教學），結果跑出大量教學影片，雖然確實是示範如何除去
+陰毛，但美艷的模特兒三點全露，顯然不適合未成年人觀賞，是否具有「藝術性」則相當
+模糊。
+
+消息一出，吸引大批網友熱烈討論，有人說長知識了，也有人指還有其他關鍵字，「光是
+輸入『三級』就有一堆韓國的」、「用youtube看高清a片是會上癮的」、「感謝分享」、
+「直接去專門網站看就好啦，幹嘛沒事找事做」、「馬上試試看」、「xvideo最強不解釋
+」。
+
+▼YouTube上還有不少關鍵字是「漏網之魚」，如何保障未成年使用者是一大課題。（圖
+／翻攝YouTube）
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="http://www.ettoday.net/news/20170526/932894.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170526/932894.htm</a>
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.2.194
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495800199.A.48D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495800199.A.48D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">withsirius</span><span class="f3 push-content">: 已知用火</span><span class="push-ipdatetime"> 05/26 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shevchen</span><span class="f3 push-content">: 五樓上youtube找甲片</span><span class="push-ipdatetime"> 05/26 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">web946719</span><span class="f3 push-content">: 我們的史前好朋友發現了火</span><span class="push-ipdatetime">05/26 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">liang691206</span><span class="f3 push-content">: 馬英九.avi</span><span class="push-ipdatetime">05/26 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yorkyoung</span><span class="f3 push-content">: 五樓都不用看A片因為他有女友幫忙</span><span class="push-ipdatetime"> 05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #無聊</span><span class="push-ipdatetime"> 05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: youtube還有解剖屍體影片，也沒怎樣啊</span><span class="push-ipdatetime"> 05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MikuLover</span><span class="f3 push-content">: 保障未成年 那就不要禁止啊 幹</span><span class="push-ipdatetime">05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 上次看完河邊生小孩 大概一個月沒辦法尻槍</span><span class="push-ipdatetime">05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chinnez</span><span class="f3 push-content">: 幹幹幹記者高調屁喔</span><span class="push-ipdatetime"> 05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZunYin</span><span class="f3 push-content">: scann嫕是三小</span><span class="push-ipdatetime">05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aaaa714714</span><span class="f3 push-content">: scann壾n</span><span class="push-ipdatetime">05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: Vagina Sh aving Tutorial 真的很有教學意義</span><span class="push-ipdatetime">05/26 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goonholyup</span><span class="f3 push-content">: 幹 搜尋scann嫕沒有啊</span><span class="push-ipdatetime">05/26 20:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bruce1119</span><span class="f3 push-content">: 一堆亂碼</span><span class="push-ipdatetime">05/26 20:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ambitious</span><span class="f3 push-content">: 樓下都看xtube</span><span class="push-ipdatetime">05/26 20:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siuosiuo</span><span class="f3 push-content">: 抱歉我看tt1069</span><span class="push-ipdatetime">05/26 20:10
+</span></div><span class="f2">※ 編輯: v99999 (114.137.2.194), 05/26/2017 20:11:49
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chinnez</span><span class="f3 push-content">: 哪有，我都去老木很少</span><span class="push-ipdatetime"> 05/26 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dearjohn</span><span class="f3 push-content">: 甲片 www</span><span class="push-ipdatetime"> 05/26 20:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">feelfeel</span><span class="f3 push-content">: 不管有沒有先低調</span><span class="push-ipdatetime"> 05/26 20:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IvanLord</span><span class="f3 push-content">: 還好我專找蘿莉的…俄文居多</span><span class="push-ipdatetime"> 05/26 20:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">secret1414</span><span class="f3 push-content">: XVIDEOS爛死了</span><span class="push-ipdatetime"> 05/26 20:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windyyw</span><span class="f3 push-content">: 樓上蘿莉 俄羅斯關鍵詞是啥？</span><span class="push-ipdatetime"> 05/26 20:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">m810415</span><span class="f3 push-content">: 那邊還來得及塊移民</span><span class="push-ipdatetime"> 05/26 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ananan1414</span><span class="f3 push-content">: 太神啦</span><span class="push-ipdatetime"> 05/26 20:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsiehhsing</span><span class="f3 push-content">: 還真的有陰部教學==</span><span class="push-ipdatetime"> 05/26 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mis1114</span><span class="f3 push-content">: 沒事上這找幹嘛</span><span class="push-ipdatetime"> 05/26 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Observation</span><span class="f3 push-content">: Virgin massage  bj4</span><span class="push-ipdatetime"> 05/26 22:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 按這篇新聞隨便找都有 scannáin:</span><span class="push-ipdatetime"> 05/27 05:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: <a href="http://www.youtube.com/playlist?list=PLXaYRZxGBw" target="_blank" rel="nofollow">http://www.youtube.com/playlist?list=PLXaYRZxGBw</a></span><span class="push-ipdatetime"> 05/27 05:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: J7lqmhDa3XJPKwbsrQnJ20K</span><span class="push-ipdatetime"> 05/27 05:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 懶得縮網址了</span><span class="push-ipdatetime"> 05/27 05:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaky</span><span class="f3 push-content">: 2015年02月13日  <a href="https://goo.gl/eVMcJy" target="_blank" rel="nofollow">https://goo.gl/eVMcJy</a></span><span class="push-ipdatetime"> 05/27 06:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eec2132469y</span><span class="f3 push-content">: 所以有蘿莉的關鍵字嗎????有好心人願意提示嗎？？？</span><span class="push-ipdatetime"> 05/27 08:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 蘿莉你只會被FBI帶走而己</span><span class="push-ipdatetime"> 05/27 10:54
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495800199.A.48D.html?cacheKey=2052-1959335&offset=5912&offset-sig=7685f2d3e4551a462fe2da89d06ebe3e2e312a79" data-longpollurl="/v1/longpoll?id=b7f37ef2e999fa5e0d9de13b8b23af86fc0be25a" data-offset="5912"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

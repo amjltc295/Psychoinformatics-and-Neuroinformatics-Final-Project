@@ -1,0 +1,267 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496506505.A.7AF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 冷凍肉竄改效期 流入法蘭克肉舖子 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+冷凍肉竄改效期 流入法蘭克肉舖子
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 冷凍肉竄改效期 流入法蘭克肉舖子">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+冷凍肉竄改效期 流入法蘭克肉舖子
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496506505.A.7AF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496506505.A.7AF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mixegg (purr)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 冷凍肉竄改效期 流入法蘭克肉舖子</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 00:15:02 2017</span></div>
+1.媒體來源:
+
+自由時報
+
+2.完整新聞標題:
+
+冷凍肉竄改效期 流入法蘭克肉舖子
+
+
+3.完整新聞內文:
+
+〔記者何玉華／新北報導〕專營冷凍肉品的統賀公司，涉嫌竄改進口肉品有效期限，將牛
+肉、牛小排、羊排等產品效期延長一年，新北市衛生局會同新北市調查處人員，兵分三路
+搜索統賀公司及其兩處租用的倉庫，共封存問題產品約一萬零兩百六十公斤，初判約有一
+千五百公斤流入市面，主要流向直營的「法蘭克肉舖子」、雙北地區火鍋店及燒肉店，全
+案將移送新北地檢署偵辦。
+
+效期2年變3年 逾萬公斤肉品被封存
+
+此外，由於近來查獲多起冷凍寄倉庫貯存逾期食品，新北市衛生局規劃七月一日起實施「
+食品冷凍倉庫清查專案」，針對轄內設有冷凍庫及提供寄倉庫服務的冷凍物流業者，全面
+稽查是否有貯放逾期產品。
+
+新北市衛生局食品藥物管理科長劉君豪表示，五月初例行查核時，發現統賀囤有過期的牛
+、豬肉產品約廿公斤，當場要求銷毀，進一步追查發現疑有其他竄改行為，連兩日會同調
+查處人員，兵分三路搜查統賀及租用的外倉：華漢冷凍及順億興冷凍公司。
+
+搜查發現「去骨牛肉（草飼和牛前腿心）」、「去骨牛肉（草飼和牛背肩）」、「草飼和
+牛帶骨牛小排」及「一級羔羊排」四項產品的有效日期疑遭竄改。劉君豪解釋，業者提供
+的進口報關單資料是二○一五年進口，有效期兩年，推估肉品應該在今年四月到期，但「
+去骨牛肉」及「草飼和牛帶骨牛小排」標示的效期卻都是二○一八年四月十八日；「一級
+羔羊排」製造日期標示一○五年十一月十九日，保存期限一年，都明顯不相符。
+
+另貯放在華漢的「124CH背肩（草飼和牛）」已在去年三月廿三日到期，逾期超過一年。
+現場總計封存問題產品約一萬零兩百六十公斤。
+
+劉君豪說，已要求通知下游廠商辦理下架回收違規產品，並公布合理的退費機制。
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://news.ltn.com.tw/news/life/paper/1107401" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/life/paper/1107401</a>
+
+5.備註:
+
+下面是不知道在講三小的道歉文
+本來有放在他們FB跟官網
+但已經刪掉
+請參考快取網頁<a href="http://tinyurl.com/yaqgko3s" target="_blank" rel="nofollow">http://tinyurl.com/yaqgko3s</a>
+
+
+我是法蘭克肉舖子的apple，真的很對不起大家，過了一天才出來對外說明，因為我必須
+保護我的所有員工不受到任何的傷害與因為我必須親自說明親自發稿不透過任何公關的方
+式講出我內心真正的感受與道歉並想好後續的賠償方式。
+真的很抱歉造成大家的失望、不安、恐慌與憤怒
+
+我不能說：「效期過了的肉吃了不會傷害健康、吃了沒有人怎麼樣而抱持著僥倖呼嚨過去
+的心態」
+
+因為還有很多支持我們的客戶且這是我們本該要好好把關絕不容許任何的失誤。
+我不能說：「統賀和我只是供應商與下游廠商的關係也不是母公司的關係所以就全部推的
+一乾二凈」
+
+因為統賀就是我爸爸的公司，而我是他的女兒。無論如何我們有著斷不了的血緣關係，他
+做的就是我做的，我做的也是他做的。我們一切概括承受。
+
+我不能說：「今天只有七個品項有疑慮而已，其他兩百多樣都沒有問題，請你們安心食用
+，但我能保證在我們調整好腳步，跟上台灣食安法時，能讓你們吃的更安心更放心，我們
+的公司宗旨是永遠不會變的，我們希望大家能快樂吃放心吃，當我們重新出發時，如果您
+們願意再給我們一次機會我們會加倍努力給你們更好的」
+
+因為大家會以最嚴格的角度來監督與檢視我們本該好好把關。
+
+我不能說：「因為法規改變的太快，但我能保證我們公司不是有心騙人，未改法規前我們
+都有在遵守，也是以消費者至上做到保護消費者的每項需求，顯然這次風波是我們跟不上
+快速的改變，我們已經在做調整了但最終還是跟不上腳步讓大家失望」
+因為這是我管理不周、管理不當、不該找任何理由。
+
+我不能說：「肉品還很新鮮在低溫的凍庫下保存的很好其實沒有壞掉所以怕浪費我捨不得
+丟，因爲在台灣的某個角落或是世界上還有很多三餐沒有著落的人」
+
+我不能說：「我們早在衛生局ㄧ查到產品有疑慮的當下且媒體尚未發佈新聞稿時就已經開
+始在自主下架擔心更多人買到這些產品、並且回收準備報廢並擬定賠償方式」
+因為現在說也太晚了於事無補。
+
+我不能說：「乾脆放棄收起來不要做算了吧，不做沒事還不會虧錢，做了反而事情一堆也
+虧很多錢」
+
+因為我答應過我所有一起打拼的同仁們我要好好的照顧他們和他們的家人也要幫他們加薪
+。
+我不能說「各位來過法蘭克肉舖子的朋友，對不起請求你們一定要原諒我再給我一次機會
+」，因為我傷害了所有支持我們的人。
+
+現在的食品法規規定該怎麼樣就怎麼樣，隨著時代越來越進步，對於食的要求也越來越高
+，我們本該與時俱進、跟上時代的腳步一直一直做到最好，並好好完全的實踐「我們販售
+的是健康快樂」這句話，或許經過這次的事件大家聽來覺得可笑與諷刺，但我們真的從頭
+到尾都沒有忘記過且謹記在心，但是我們方向錯了，犯了錯了。
+
+謝謝衛生局與全民的督導，給了我們很大的機會教育與知道自己的不足。
+我真的真的不敢奢求大家一定要原諒我們、繼續支持我們，事情也發生了，媒體也報導了
+，大家也轉載也留言了，犯過的錯不會抹滅。
+
+但該做的事還是得做，該負起的責任還是得一肩扛起，我們會一一打電話聯絡每位曾經購
+買過草飼和牛系列與小羔羊排丁的客戶後續的退款事宜
+
+如果可以我希望我能親自拜訪每一位受過我們傷害的客戶，我們做了最不好的示範，真的
+很抱歉造成大家的失望、不安、恐慌與憤怒，真的很抱歉。
+
+法蘭克肉舖子執行長apple 敬上 2017.06.03
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.85.176.209
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496506505.A.7AF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496506505.A.7AF.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ive60013</span><span class="f3 push-content">: 自由，塊陶r</span><span class="push-ipdatetime"> 06/04 00:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QBey</span><span class="f3 push-content">: 有批牛肉好便宜的</span><span class="push-ipdatetime"> 06/04 00:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abakama</span><span class="f3 push-content">: 拔草</span><span class="push-ipdatetime"> 06/04 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hanabi025</span><span class="f3 push-content">: 車底有炸彈的那個法蘭克?</span><span class="push-ipdatetime"> 06/04 00:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deep5566</span><span class="f3 push-content">: 難怪吃起來特別爽口</span><span class="push-ipdatetime"> 06/04 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Xinz</span><span class="f3 push-content">: 保安～保安!</span><span class="push-ipdatetime"> 06/04 00:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">holsety</span><span class="f3 push-content">: 什麼都不能說~</span><span class="push-ipdatetime"> 06/04 00:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forhorde5566</span><span class="f3 push-content">: 難怪法蘭克擲斧兵這麼難用</span><span class="push-ipdatetime"> 06/04 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Fuuuck</span><span class="f3 push-content">:            臉書一直要登入真的很煩...</span><span class="push-ipdatetime"> 06/04 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goonholyup</span><span class="f3 push-content">: 不能說三小 媽的不是推託的全說了嗎</span><span class="push-ipdatetime"> 06/04 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 說的都是不能說的 請問吃的能吃嗎</span><span class="push-ipdatetime"> 06/04 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ab31cd32</span><span class="f3 push-content">: 道歉完為什麼要刪文</span><span class="push-ipdatetime"> 06/04 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ab31cd32</span><span class="f3 push-content">: 陳義在哪裡？？</span><span class="push-ipdatetime"> 06/04 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nevhir</span><span class="f3 push-content">: 用一大堆不能說 把想說的話說出來 可歸根究柢 不就是黑心</span><span class="push-ipdatetime"> 06/04 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 就是家族企業還能切成這樣</span><span class="push-ipdatetime"> 06/04 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">este1a</span><span class="f3 push-content">: 母豬起手式的道歉文</span><span class="push-ipdatetime"> 06/04 00:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kerodo</span><span class="f3 push-content">: 這被檢舉的吧。話說新北要開罰多少錢啊</span><span class="push-ipdatetime"> 06/04 00:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PKming</span><span class="f3 push-content">: 要倒了 要倒了 黑心</span><span class="push-ipdatetime"> 06/04 00:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DWR</span><span class="f3 push-content">: 只看到說明文裡面一直出現「我不能說」</span><span class="push-ipdatetime"> 06/04 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">libkite</span><span class="f3 push-content">: 比較貴也黑心</span><span class="push-ipdatetime"> 06/04 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dan5120</span><span class="f3 push-content">: 原來是給女兒開的阿 那間東西不便宜ㄟ</span><span class="push-ipdatetime"> 06/04 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DWR</span><span class="f3 push-content">: 東西偏少 價格偏高 品質也是各家肉鋪最普通的</span><span class="push-ipdatetime"> 06/04 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">johnny010111</span><span class="f3 push-content">: 不能說其實都說了 裝什麼可憐</span><span class="push-ipdatetime"> 06/04 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cutegirl68</span><span class="f3 push-content">: 捨不得丟就可以賣人嗎？那幹嘛不送給三餐沒著落的人</span><span class="push-ipdatetime"> 06/04 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cutegirl68</span><span class="f3 push-content">: 啊？講幹話欸</span><span class="push-ipdatetime"> 06/04 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GrayAngel</span><span class="f3 push-content">: 重罰2萬,改個名字繼續賣~</span><span class="push-ipdatetime"> 06/04 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LeonardoChen</span><span class="f3 push-content">: 不能說小小小？</span><span class="push-ipdatetime"> 06/04 01:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">muzik</span><span class="f3 push-content">: 這家不便宜 想走貴婦風結果吃過期肉XDDDD</span><span class="push-ipdatetime"> 06/04 02:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devin0329</span><span class="f3 push-content">: 這道歉文真的夠經典，爸爸讓女兒玩品牌又讓她自己砸毀</span><span class="push-ipdatetime"> 06/04 04:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">brian791118</span><span class="f3 push-content">: 道歉文也太逗了XD</span><span class="push-ipdatetime"> 06/04 06:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 哈哈ㄧ堆部落客又要撇清責任啦</span><span class="push-ipdatetime"> 06/04 06:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a5120358</span><span class="f3 push-content">: 過期改時間欺騙顧客可以扯世上窮人很多 ，笑死</span><span class="push-ipdatetime"> 06/04 07:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a5120358</span><span class="f3 push-content">: 賣這麼貴說虧錢 ，良心事業 ？進價多少說一下</span><span class="push-ipdatetime"> 06/04 07:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 南部人:北部人哭哭喔 這肉真便宜 好ㄘ</span><span class="push-ipdatetime"> 06/04 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">YCL13</span><span class="f3 push-content">: 一直在講我不能說又一直說個不停是什麼鬼？</span><span class="push-ipdatetime"> 06/04 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">needsun</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/04 08:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cospergod</span><span class="f3 push-content">: 物價又要漲一波了 鬼島</span><span class="push-ipdatetime"> 06/04 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alumeya</span><span class="f3 push-content">: 北七</span><span class="push-ipdatetime"> 06/04 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">muscleless</span><span class="f3 push-content">: 全都說了還我不能說 有夠噁心</span><span class="push-ipdatetime"> 06/04 09:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">teyang</span><span class="f3 push-content">: 這篇道歉文到底在鬼扯什麼</span><span class="push-ipdatetime"> 06/04 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">facefear</span><span class="f3 push-content">: 法蘭克肉舖子 法蘭克肉舖子 法蘭克肉舖子 法蘭克肉舖子</span><span class="push-ipdatetime"> 06/05 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">facefear</span><span class="f3 push-content">: 法蘭克肉舖子 法蘭克肉舖子 法蘭克肉舖子 法蘭克肉舖子</span><span class="push-ipdatetime"> 06/05 00:52
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496506505.A.7AF.html?cacheKey=2052-20606950&offset=8820&offset-sig=5b77362e610b7643f8fc576cfcfa37770c4f7990" data-longpollurl="/v1/longpoll?id=e48791c0fc72c14cbbcdfb4031faaa3390c5511b" data-offset="8820"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

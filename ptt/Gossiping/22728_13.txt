@@ -1,0 +1,146 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496739506.A.7E6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 劉宏恩：刷臉購物，維穩抓人用？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ＦＢ卦點說明：警察可以透過對大數據的運用去預判可疑人士，例如一個同時購買火藥、
+高壓鍋、鋼珠的人，就有可能在計劃製造炸藥，從電子支付記錄顯示1天多次搭乘公車的
+人可能就是小偷。
+幹，還是用紙鈔好了
+ＦＢ連結：https://goo.gl/qGNj1p
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 劉宏恩：刷臉購物，維穩抓人用？">
+<meta property="og:description" content="ＦＢ卦點說明：警察可以透過對大數據的運用去預判可疑人士，例如一個同時購買火藥、
+高壓鍋、鋼珠的人，就有可能在計劃製造炸藥，從電子支付記錄顯示1天多次搭乘公車的
+人可能就是小偷。
+幹，還是用紙鈔好了
+ＦＢ連結：https://goo.gl/qGNj1p
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496739506.A.7E6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496739506.A.7E6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Anddyliu (安滴滴)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 劉宏恩：刷臉購物，維穩抓人用？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 16:58:23 2017</span></div>
+ＦＢ卦點說明：警察可以透過對大數據的運用去預判可疑人士，例如一個同時購買火藥、
+高壓鍋、鋼珠的人，就有可能在計劃製造炸藥，從電子支付記錄顯示1天多次搭乘公車的
+人可能就是小偷。
+幹，還是用紙鈔好了
+
+ＦＢ連結：<a href="https://goo.gl/qGNj1p" target="_blank" rel="nofollow">https://goo.gl/qGNj1p</a>
+
+ＦＢ內容：
+
+
+馬雲支付寶最新推出「刷臉購物」有一堆人按讚？你們不知道這可能提供中國公安蒐集人
+民面部辨識特徵，拿來大數據維穩抓人嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.34.23.26
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496739506.A.7E6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496739506.A.7E6.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yuwuen</span><span class="f3 push-content">: 讚喔 大束據</span><span class="push-ipdatetime">06/06 16:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptgeorge2</span><span class="f3 push-content">: 有誰會在凌晨四點去atm領錢幹正經事的意思</span><span class="push-ipdatetime">06/06 16:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 人家這是最先進的大數據 網路支付 你懂個毛 支付寶萬歲</span><span class="push-ipdatetime">06/06 17:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kenqr</span><span class="f3 push-content">: 輕鬆獲得全國死老百姓的臉部3D建模資料&amp;購物記錄</span><span class="push-ipdatetime">06/06 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 把我們的林逸欣摔成這樣還好意思發文</span><span class="push-ipdatetime">06/06 17:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m6699</span><span class="f3 push-content">: 就凌晨四點正好可以領錢去買麥當當早餐呀</span><span class="push-ipdatetime">06/06 17:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ganganx</span><span class="f3 push-content">: 特徵符合美女的會被高官召去寵幸嗎</span><span class="push-ipdatetime">06/06 17:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cww7911</span><span class="f3 push-content">: 以後買木炭支付寶會判斷是要自殺 會通知支那政府搶屍</span><span class="push-ipdatetime"> 06/06 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 買早餐　加油都只能用人臉辨識電子支付　那控制民眾又更容</span><span class="push-ipdatetime"> 06/06 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 易</span><span class="push-ipdatetime">06/06 17:15
+</span></div><span class="f2">※ 編輯: Anddyliu (1.34.23.26), 06/06/2017 17:17:01
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivan1408</span><span class="f3 push-content">: 這些資料好好運用，可以養出高科技</span><span class="push-ipdatetime"> 06/06 18:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HDAPPLETV</span><span class="f3 push-content">: 跟周董很好的那位嗎？</span><span class="push-ipdatetime"> 06/06 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joefaq</span><span class="f3 push-content">: 周杰倫的跟班有啥資格說這個</span><span class="push-ipdatetime"> 06/06 18:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gLid3</span><span class="f3 push-content">: 以人類的天性資訊絕對會被掌握的人濫用</span><span class="push-ipdatetime"> 06/06 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterw</span><span class="f3 push-content">: 想走我大炎神模式？</span><span class="push-ipdatetime"> 06/06 19:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tzback</span><span class="f3 push-content">: 他是演飛龍在天那個還是原住民歌手?</span><span class="push-ipdatetime"> 06/06 20:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496739506.A.7E6.html?cacheKey=2052-2770575&offset=2298&offset-sig=ab06d2e292dfe2c995c5aeb9ca51f6d54054605a" data-longpollurl="/v1/longpoll?id=bb7058f3523e26b89bc331d88f180dc6748d98c1" data-offset="2298"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

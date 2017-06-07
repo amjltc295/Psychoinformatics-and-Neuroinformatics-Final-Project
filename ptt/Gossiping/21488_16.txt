@@ -1,0 +1,319 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495930299.A.446.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 幹！為什麼1是true,0是false? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="如果說 &#34;為什麼不這樣，為什麼不那樣; 只因為一開始時是這樣&#34;
+好好好，那如果我給你第二個機會，創造平行宇宙呢？
+有人扯電子學了耶！
+好，那我們就來談談，電子方向和電子流方向，這個我當初也很幹的公案好了
+學電子學的都該知道，電流速度和電子流速度是不同的
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 幹！為什麼1是true,0是false?">
+<meta property="og:description" content="如果說 &#34;為什麼不這樣，為什麼不那樣; 只因為一開始時是這樣&#34;
+好好好，那如果我給你第二個機會，創造平行宇宙呢？
+有人扯電子學了耶！
+好，那我們就來談談，電子方向和電子流方向，這個我當初也很幹的公案好了
+學電子學的都該知道，電流速度和電子流速度是不同的
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495930299.A.446.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495930299.A.446.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">HuangJC (吹笛牧童)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 幹！為什麼1是true,0是false?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 08:11:35 2017</span></div>
+
+如果說 &#34;為什麼不這樣，為什麼不那樣; 只因為一開始時是這樣&#34;
+好好好，那如果我給你第二個機會，創造平行宇宙呢？
+
+有人扯電子學了耶！
+好，那我們就來談談，電子方向和電子流方向，這個我當初也很幹的公案好了
+
+學電子學的都該知道，電流速度和電子流速度是不同的
+簡單說，如果我在一根管子裡推進一截牙膏
+一公尺外的另一頭，就流出另一截牙膏 ; 嗯，擠牙膏
+
+好，我擠進去的這段牙膏何時流到一公尺外是一個速度
+而我在這邊擠進去，另一邊有多快會流出來，那又是另一個速度
+
+假設牙膏是剛體，那我一擠，另一邊馬上就會流出來
+而事實上牙膏軟趴趴的，我擠進去，另一邊要一陣子才會流出來
+電流速就是指這個速度，而即使在電路中沒有電容，使電路承現如同剛體的速度
+電流的流速都還不是無限大，而是略低於光速
+或者我該說，就算是剛體，傳遞也是最多光速的速度吧...
+因為不管什麼訊號傳遞，都快不過光速啊...
+
+而我擠進去的牙膏，一直走到另一端，這速度就是電子流的速度
+電子流的速度遠低於電流速度
+電子大概是用爬的吧.. 日常生活中常見的數值我已經忘了
+嗯，哥畢業很久了（而且還當一屁股）
+
+以上不難理解，理科要大膽假設小心求證
+就算你沒掌握什麼事實，一開始提出假設時也很容易假設成這種狀況
+但是當初發現電流，發現電子的人，卻猜錯了方向
+於是電子就帶負電了
+
+去計較這，有人就會罵我，腦袋裡只接受正邏輯
+但我實在覺得，你名字就叫電子，你帶的電就是正電，不是很好嘛
+有多餘電子，於是整體成正電
+缺少電子，於是整體成負電
+這樣不是很好記嗎？
+
+再看到實例，如果一段電阻和電池接在一起成為迴路
+
+  +-----------+
+  |           |
+  | +         \
+-----         /
+ ---          \
+  | -         /
+  |           |
+  +-----------+
+
+左邊電池，右邊電阻
+上面是電池的正端，下面是負端
+好，就這樣，所以電是從左上方電池正端出發，繞經右上方到電阻，到右下方
+再回到左下方電池負端, 這個迴路以順時針來畫電流方向
+可是電子流方向卻是以逆時針來畫
+電子流方向是和電流方向相反的
+電子是從電池負端（屁眼），鑽出來，反向鑽過電阻，再鑽往電池的頭的
+
+
+你說我錯不錯亂？
+
+
+而這一切，只因為電流的論文發行之後
+卻發現有電子這個最小元素，但它的行進方向和我們假設的電性相反
+
+在電子之後，後來又發現電洞，於是電洞帶正電，電子帶負電
+什麼是電洞？就是缺少電子所留下的空洞
+我不是說質子喔！如果把質子當載體要它流動，不知又是什麼流速了
+我說的就是在均勻電子中，略少一些電子所承現的空洞
+它在量子的數學中被證明擁有粒子特質，因此以電洞表現
+記為帶正電的載子，並且有電洞的速度
+這有點像一堆疊在一起的骨牌，最下面抽走一張
+於是上面一起跌下來;但創造一點阻力給它們（比如塞在管子裡）
+於是我們看到下面數來第二張先掉下來，然後是數來第三張掉下來，再看到上面的依序掉
+於是，雖然每一張骨牌都是掉下來，但它們之間空洞，卻是往上爬的&#39;感覺&#39;
+電洞不是真的粒子，但在數學上具有粒子特質 Orz
+（喔？那質量多少？我忘了它到底有多真實了）
+
+---------------------------------------
+
+以上描述結束，然後，哈利路亞，嗆司～
+今天地球爆炸，你乘坐最後一艘太空船飛到遠處另一個宜居星球
+那個星球的重力遠小於地球
+
+天啊，那你就是未來的超人了！你只要小心地球上的石頭
+因為只要有地球石的幅射，你就會變回普通人
+
+不過，當地土著只有山頂洞人的科技
+大概會把石頭敲扁變成石片割獸皮
+你什麼都沒有，但擁有一顆還算不錯的腦袋
+你要在那顆星球，重建人類的文明
+
+那這次你總有機會，把電子定義為正電了吧！
+
+當年我就是這樣做著美夢
+不過我發現，電磁學的故事好像就是這樣
+為什麼在不同領域裡，用不同的符號，卻有著非常對稱的公式
+（聽說醫學院裡的平行宇宙更多，一堆論文用不同的文字系統發表，結果是講同一件事）
+
+--------------------------------------
+
+不講正經的了，我其實想問一個問題
+但前面不講怕被趕到其他板去
+
+我其實是想問:如果在那樣的星球，你會怎麼發展科技
+
+我的想法啦，首先可能要有度量衡？
+別忘了我的設定:你只帶一顆腦袋去，假設你是很有料的博士好了
+
+但你連標準的一公分，標準的一公克，都沒帶去了
+你手邊也沒有儀器
+於是你連更抽象的一伏特，一安培，也別想量出來了
+
+然後沒有工作母機，所以機械工程裡的精密機械，螺牙，通通都沒有了
+沒有標準，首先得制定標準
+除非有什麼東西，它漂亮得可以自我平衡
+就好像自然對數 e, 它就是這麼漂亮
+（有啦，光速，幾乎是永恒不變的）
+
+
+我想，首先還是挑一隻最正的母猴子，看能不能...吧 :P
+
+----------------------------------------------
+
+最後，誰說一定要用二進位的
+如果真有平行宇宙，也許你可以從三進位開始啊
+三進位數學也是存在的，有何不可
+
+如果你在那個星球上找得到的儲存元件，其基本態就是三態
+那也許最適合的就是三進位啊...
+
+別忘了，因為什麼都沒帶去，只帶去腦袋
+所以連基本元素週期表都變成一張表了
+首先你還得提鍊元素
+
+一切從零開始，你擁有定義權
+夠爽了吧..
+
+對了，如果哪天能到那星球看你
+我知道你的名字
+
+不就是金城武嘛，因為你可以自己定義嘛
+你說什麼就是什麼，從一開始
+（不是從零開始喔，一就是地球上的零，反過來用了）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 175.180.78.57
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495930299.A.446.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495930299.A.446.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DarkMooon</span><span class="f3 push-content">: 樓下你看得懂嗎</span><span class="push-ipdatetime"> 05/28 08:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 森77打那麼一大串</span><span class="push-ipdatetime"> 05/28 08:13
+</span></div>
+我打到斷線重打，因為 ptt 五點重開機..
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/28/2017 08:14:09
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boring5566</span><span class="f3 push-content">: 有趣</span><span class="push-ipdatetime"> 05/28 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 簡單來講就定義問題嘛 安培當初猜錯電流方向 所以電子流</span><span class="push-ipdatetime"> 05/28 08:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">okc5566</span><span class="f3 push-content">: 樓下翻譯</span><span class="push-ipdatetime"> 05/28 08:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 跟電流是反向</span><span class="push-ipdatetime"> 05/28 08:14
+</span></div>
+原來是安培，我久沒讀書，以為是富蘭克林...
+對厚，應該是安培，所以單位就取名叫安培
+
+富蘭克林可能是發明基金，所以基金取他的名字？
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/28/2017 08:15:52
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 哈咧露呀 <a href="https://youtu.be/gAh9NRGNhUU" target="_blank" rel="nofollow">https://youtu.be/gAh9NRGNhUU</a></span><span class="push-ipdatetime"> 05/28 08:15
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/gAh9NRGNhUU" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ben1357956</span><span class="f3 push-content">: 認真推</span><span class="push-ipdatetime"> 05/28 08:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 你害我對母猴子沒有幻想了...</span><span class="push-ipdatetime"> 05/28 08:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 我要母豬，聽說母豬裡正妹多～</span><span class="push-ipdatetime"> 05/28 08:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">emptie</span><span class="f3 push-content">: 寫得很淺顯 推</span><span class="push-ipdatetime"> 05/28 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yngchn</span><span class="f3 push-content">: 淺顯易懂 推</span><span class="push-ipdatetime"> 05/28 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccyaztfe</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 08:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leew633</span><span class="f3 push-content">: 推 你想得很多呢</span><span class="push-ipdatetime"> 05/28 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Simonfenix</span><span class="f3 push-content">: 基本上我覺得很有料的博士反而做不了“基礎建設”</span><span class="push-ipdatetime"> 05/28 08:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 麻煩你多回點，這才是我的正文..</span><span class="push-ipdatetime"> 05/28 08:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jasonshieh</span><span class="f3 push-content">: 同意這你的想法，醫學的問題也很多</span><span class="push-ipdatetime"> 05/28 08:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 光是中醫西醫要共用 腎 這個字，就引起很多錯亂了</span><span class="push-ipdatetime"> 05/28 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zealeliot</span><span class="f3 push-content">: 那個叫漂移速率 每秒幾mm而已  正負電幾百年的問題了</span><span class="push-ipdatetime"> 05/28 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zealeliot</span><span class="f3 push-content">: 很難說改就改 我學的時候也很幹</span><span class="push-ipdatetime"> 05/28 09:04
+</span></div>
+原來這麼慢，那我說和蟲爬差不多，也沒冤枉它了
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lecheck</span><span class="f3 push-content">: 很有趣的思想實驗喔</span><span class="push-ipdatetime"> 05/28 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">barsax8</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/28 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Simonfenix</span><span class="f3 push-content">: 我只是路過而已，不要太在意QQ</span><span class="push-ipdatetime"> 05/28 09:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 看得很累</span><span class="push-ipdatetime"> 05/28 09:55
+</span></div>
+為什麼（正 妹）都被（負 心漢）吸引？
+因為同性相斥，異性相吸啊～
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">louis10452</span><span class="f3 push-content">: 文組不會看這篇</span><span class="push-ipdatetime"> 05/28 10:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: W</span><span class="push-ipdatetime"> 05/28 10:30
+</span></div>
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/28/2017 13:06:53
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">attis</span><span class="f3 push-content">: 我想要找母貓 愛貓就是要%貓</span><span class="push-ipdatetime"> 05/28 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 山頂洞人時代的貓並不溫柔，應該是箭齒虎</span><span class="push-ipdatetime"> 05/28 15:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 替你樹懶叫時，一不小心就咬斷了...</span><span class="push-ipdatetime"> 05/28 15:45
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495930299.A.446.html?cacheKey=2052-989222&offset=7877&offset-sig=b08af9cf4d12328d5056d743eec9627d3f6ce3f2" data-longpollurl="/v1/longpoll?id=86bfcb72b6a801e930c2057fa63f36bcdfe66f82" data-offset="7877"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

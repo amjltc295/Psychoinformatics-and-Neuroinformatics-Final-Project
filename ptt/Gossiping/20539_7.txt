@@ -1,0 +1,159 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495275973.A.1AA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 為什麼年輕人都喊窮經濟不好呢？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="幾個重點
+1 貧富差距越來越大
+2 實質薪資停滯快20年
+3 生育率世界倒數
+就解決這麼簡單的幾個問題就好
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 為什麼年輕人都喊窮經濟不好呢？">
+<meta property="og:description" content="幾個重點
+1 貧富差距越來越大
+2 實質薪資停滯快20年
+3 生育率世界倒數
+就解決這麼簡單的幾個問題就好
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495275973.A.1AA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495275973.A.1AA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">y2k500077 (野雲)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 為什麼年輕人都喊窮經濟不好呢？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 18:26:11 2017</span></div>
+<span class="f2">※ 引述《YanQ (YanQ)》之銘言：
+</span><span class="f6">: 昨天晚上五六點下班經過新莊體育館
+</span><span class="f6">: 看到外面人潮非常非常的多
+</span><span class="f6">: 冒雨淋濕在排隊
+</span><span class="f6">: 一問才知道是在排太妍演唱會
+</span><span class="f6">: 現場幾乎全部都是年輕人
+</span><span class="f6">: 忽然好奇年輕人不是整天喊窮
+</span><span class="f6">: 整天喊23k經濟不景氣
+</span><span class="f6">: 可是卻有錢花動輒三四千的太妍演唱會
+</span><span class="f6">: 甚至網路售票七分鐘內秒殺上萬張票
+</span><span class="f6">: 到底真的是什麼情形呢?
+</span>
+幾個重點
+
+1 貧富差距越來越大
+
+2 實質薪資停滯快20年
+
+3 生育率世界倒數
+
+就解決這麼簡單的幾個問題就好
+
+解決不了 然後來質疑年輕人 年輕人又沒有執政權
+
+這跟 年輕人到處消費 說他們亂花錢
+
+年輕人不買股 又嫌他們不從事經濟活動
+
+所以到底要多做經濟活動還是不要
+
+邏輯先前後一致 再說出希望年輕人做什麼
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 58.115.15.101
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495275973.A.1AA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495275973.A.1AA.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akaba8626</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greg7575</span><span class="f3 push-content">: 射精</span><span class="push-ipdatetime"> 05/20 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meowchen</span><span class="f3 push-content">: 好像有道理</span><span class="push-ipdatetime"> 05/20 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mart9266</span><span class="f3 push-content">: 當奴隸阿 只是不能說</span><span class="push-ipdatetime"> 05/20 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robert7066</span><span class="f3 push-content">: 還有錢可以花就算不錯了</span><span class="push-ipdatetime"> 05/20 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie1115</span><span class="f3 push-content">: 臺灣就是一堆智障老人啊</span><span class="push-ipdatetime"> 05/20 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 光看這三點，我就滿臉黑人問號！怎麼我家這邊平行世界？</span><span class="push-ipdatetime"> 05/20 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">y2k500077</span><span class="f3 push-content">: 這三個問題 是全國性的 不是區域性的 如果自己的區域</span><span class="push-ipdatetime"> 05/20 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">y2k500077</span><span class="f3 push-content">: 美滿就好 那何必當同一國人 何不各區宣布獨立</span><span class="push-ipdatetime"> 05/20 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plumbers007</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 現在只剩科技業比較有錢而已</span><span class="push-ipdatetime"> 05/20 18:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495275973.A.1AA.html?cacheKey=2052-37407663&offset=1967&offset-sig=ef03eebf7be1e03424ea757dba49e586eb76bdf6" data-longpollurl="/v1/longpoll?id=b3913e4a3ca03b4757c76d69ed20f54bc45689db" data-offset="1967"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

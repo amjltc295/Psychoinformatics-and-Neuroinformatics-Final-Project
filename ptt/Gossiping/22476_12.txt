@@ -1,0 +1,285 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496575885.A.C01.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 總統蔡英文提滯洪池綠能發電治水新方向 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="看原文推文，
+很多人不知道水面式浮板太陽能，
+這是近年各國都在推的太陽能殺手級應用，
+可以同時提高太陽能板效率，
+減少蓄水蒸發損失，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 總統蔡英文提滯洪池綠能發電治水新方向">
+<meta property="og:description" content="看原文推文，
+很多人不知道水面式浮板太陽能，
+這是近年各國都在推的太陽能殺手級應用，
+可以同時提高太陽能板效率，
+減少蓄水蒸發損失，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496575885.A.C01.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496575885.A.C01.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">bluebugi (布魯布吉(￣﹀￣))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 總統蔡英文提滯洪池綠能發電治水新方向</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 19:31:19 2017</span></div>
+<span class="f2">※ 引述《sigmaaldrich (專賣化學藥品)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: 自由
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: 總統蔡英文提滯洪池綠能發電治水新方向
+</span>
+看原文推文，
+
+很多人不知道水面式浮板太陽能，
+
+這是近年各國都在推的太陽能殺手級應用，
+
+可以同時提高太陽能板效率，
+
+減少蓄水蒸發損失，
+
+在台灣還可以多一個蓄洪的功能，
+
+來介紹一下。
+
+目前世界最大的水面太陽能電廠在新加坡的水庫上，
+幾個月前剛建好，
+<a href="https://goo.gl/E17bDy" target="_blank" rel="nofollow">https://goo.gl/E17bDy</a>
+<a href="https://goo.gl/OU2qyB" target="_blank" rel="nofollow">https://goo.gl/OU2qyB</a>
+
+台灣其實也有了，屏東桃園都有，
+屏東：
+<a href="https://goo.gl/YOQzP5" target="_blank" rel="nofollow">https://goo.gl/YOQzP5</a>
+
+桃園：
+<a href="https://goo.gl/SBt5G3" target="_blank" rel="nofollow">https://goo.gl/SBt5G3</a>
+
+最早積極推動的，日本京瓷：
+<a href="https://goo.gl/kSR3xM" target="_blank" rel="nofollow">https://goo.gl/kSR3xM</a>
+
+台灣其實是最有潛力發展水面式太陽能的國家，
+
+一來，日照條件好，
+
+二來，太陽能板自產，可以創造就業，
+
+第三，空閒水面、農地也多，
+
+
+現在先以蓄洪池為主，
+
+同時進行蓄洪、養水、發電的策略，
+
+以後可以往水庫或甚至閒置漁港的海面設置，
+
+台灣土地不多，
+
+但是海上空間的話就要多少有多少了。
+
+
+<span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 蔡英文總統今天下午到嘉義縣視察陳井寮排水系統，縣長張花冠反應徵收滯洪池土地出現
+</span><span class="f6">: 瓶頸時，蔡總統提出地主保留土地開闢滯洪池做為綠能發電的治水新方向，共創雙贏。
+</span><span class="f6">: 陳井寮因地勢低漥，這次61水患淹水成災，縣府治水方向是要開闢滯洪池，但面臨部分地
+</span><span class="f6">: 主不同意徵收、同時縣府籌措自備款也有困難等窘況。
+</span><span class="f6">: 對此蔡總統指出，鄉親不願意出售土地情有可原，但可以退而求其次，懇請鄉親提供土地
+</span><span class="f6">: 給政府闢建滯洪池，再合作進行綠能發電，如此一來，土地問題解決了，而且政府只需負
+</span><span class="f6">: 擔工程經費，同時地主也能從綠能發電獲得比種田更好的收益，最重要的是水患問題解決
+</span><span class="f6">: 了，可說一舉數得。
+</span><span class="f6">: 另蔡總統這次勘災，也送給財政艱困縣一份大禮，就是用地徵收費用，地方從負擔三成調
+</span><span class="f6">: 降為一成，大大減輕地方政府財政壓力。
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="http://news.ltn.com.tw/news/politics/breakingnews/2089064" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/politics/breakingnews/2089064</a>
+</span><span class="f6">: 5.備註:
+</span>
+--
+<span class="f3 b1 hl">9.2和支那土共聯合網軍，
+</span><span class="f3 b1 hl">想靠反串仇女、仇外省、客家、原民，
+</span><span class="f3 b1 hl">來搞臭ptt，分化台灣人，
+</span><span class="f3 b1 hl">最後一定得不償失。</span>
+
+保證。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.175.241
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496575885.A.C01.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496575885.A.C01.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yuwuen</span><span class="f3 push-content">: 扯到鹹水又是一個級距啦</span><span class="push-ipdatetime"> 06/04 19:32
+</span></div>
+研發中，
+
+應該沒問題啦，
+
+真空玻璃都能做了。
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EvoLancer</span><span class="f3 push-content">: 侵蝕農地 是最可怕的</span><span class="push-ipdatetime"> 06/04 19:32
+</span></div>
+當然是以閒置農地優先，
+
+蓄水後也可以養地下水。
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ota978</span><span class="f3 push-content">:             你忘了  最強的&#34;用愛發電&#34;</span><span class="push-ipdatetime"> 06/04 19:33
+</span></div>
+好好好，用愛用愛
+
+現在都馬擁核最愛用愛發電
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 海上空間...你不要只出張嘴說海上空間很大，然後困難的建設</span><span class="push-ipdatetime"> 06/04 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 問題丟給政府機關啊。</span><span class="push-ipdatetime"> 06/04 19:34
+</span></div>
+人家早就在研發了，
+
+目標還是外銷。
+
+<span class="f2">※ 編輯: bluebugi (36.226.175.241), 06/04/2017 19:39:39
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 發電一整年的錢不夠你風災一次賠的啦 低能覺青還真以為</span><span class="push-ipdatetime"> 06/04 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 太陽能不用維護成本喔</span><span class="push-ipdatetime"> 06/04 19:36
+</span></div>
+那日本新加坡都低能覺青嗎?
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: 要人家幫 前瞻計畫最好事都蓋輕軌啦 凹建保特權支那人</span><span class="push-ipdatetime"> 06/04 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 要不要去查查看新加坡太陽能發電佔幾%啊？新加坡日曬時</span><span class="push-ipdatetime"> 06/04 19:38
+</span></div>
+所以人家就算土地比台灣更不夠，
+
+也是盡力用水面發展太陽能阿。
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: 很會啦 還凹腦瘤勒幹</span><span class="push-ipdatetime"> 06/04 19:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 間比台灣更長欸！</span><span class="push-ipdatetime"> 06/04 19:38
+</span></div>
+比台灣日照條件差的太陽能大國比比皆是。
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lugiam</span><span class="f3 push-content">: 養浮萍會不會比較有效率？快誇我有想像力</span><span class="push-ipdatetime"> 06/04 19:39
+</span></div>
+不會
+<span class="f2">※ 編輯: bluebugi (36.226.175.241), 06/04/2017 19:42:35
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EvoLancer</span><span class="f3 push-content">: 如果大家嫌宜蘭的情形 就不會認為種電視好主意</span><span class="push-ipdatetime"> 06/04 19:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 所以你到底知不知道新加坡太陽能發電佔幾%?低能覺青就是</span><span class="push-ipdatetime"> 06/04 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 低能啊！只知道用愛發電 給你們做愛到死也發不了22k啦</span><span class="push-ipdatetime"> 06/04 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EvoLancer</span><span class="f3 push-content">: 這跟增加糧食自給率 完全背道而馳</span><span class="push-ipdatetime"> 06/04 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 新加坡80%是馬來西亞的天然氣 剩下18%是火力 最後2%是</span><span class="push-ipdatetime"> 06/04 19:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 其他啦 而且那2%還不是愛跟想像力喔XDD</span><span class="push-ipdatetime"> 06/04 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 你跟八卦認真了</span><span class="push-ipdatetime"> 06/04 19:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 台灣難怪低薪，電都不知道在哪裡？誰敢投資？其他沒有疑</span><span class="push-ipdatetime"> 06/04 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 慮的國家多的是</span><span class="push-ipdatetime"> 06/04 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankochris</span><span class="f3 push-content">: 飯盒總是說的比唱的還好聽，拿針丟大海要多少才填滿</span><span class="push-ipdatetime"> 06/04 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rotusea</span><span class="f3 push-content">: 你po這篇文，是在嘲諷台灣理組只會做實驗記數據，卻沒有</span><span class="push-ipdatetime"> 06/04 20:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rotusea</span><span class="f3 push-content">: 解決現實問題的勇氣與實力嗎？幫理組噓你</span><span class="push-ipdatetime"> 06/04 20:13
+</span></div>
+其實水面太陽能這個應用，
+
+幾年前一開始ｐｏ在ptt的時候已經被擁核噓過了，
+
+當時他們也是各種質疑，
+
+結果哪知幾年後世界各國都在大力推動，
+
+他們這些以理組自居的也就是再換個論角度噓而已，
+
+我根本不在意啦，
+
+本來就是以科普目標在推動綠能與廢核的，
+
+綠能的進化是不會因為幾個擁核的唱衰而停止演進的。
+
+
+下一步就是海上太陽能電廠了，
+
+大家拭目以待吧。
+
+<span class="f2">※ 編輯: bluebugi (36.226.175.241), 06/04/2017 20:29:06
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">isu0911</span><span class="f3 push-content">: 海上太陽能電廠???</span><span class="push-ipdatetime"> 06/04 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">isu0911</span><span class="f3 push-content">: 貼這種文前各國的發電比重也要貼好嗎</span><span class="push-ipdatetime"> 06/04 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waloloo</span><span class="f3 push-content">: 看gogoro市占，有補貼就沒問題呀</span><span class="push-ipdatetime"> 06/04 21:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">faxy</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/04 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">switching</span><span class="f3 push-content">: 台灣可以用阿 等到颱風來再看看存活率</span><span class="push-ipdatetime"> 06/05 11:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcpic</span><span class="f3 push-content">: 其實我很困惑 似乎台灣有人 包含tvbs 很痛恨太陽能發電</span><span class="push-ipdatetime"> 06/05 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tcpic</span><span class="f3 push-content">: <a href="https://goo.gl/7aJdaL" target="_blank" rel="nofollow">https://goo.gl/7aJdaL</a></span><span class="push-ipdatetime"> 06/05 18:46
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496575885.A.C01.html?cacheKey=2052-1389427&offset=6007&offset-sig=6f211b9ae59dccb628f643987de5ce8a457cdf59" data-longpollurl="/v1/longpoll?id=1d81fcafb320e427ef39b9b8e8380a1267bf99ba" data-offset="6007"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

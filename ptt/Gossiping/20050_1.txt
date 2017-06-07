@@ -1,0 +1,194 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494944623.A.356.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台中平均薪資六都最低？議員：市府拚經 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+台中平均薪資六都最低？議員：市府拚經濟拚到哪裡
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台中平均薪資六都最低？議員：市府拚經">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+台中平均薪資六都最低？議員：市府拚經濟拚到哪裡
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494944623.A.356.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494944623.A.356.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">seuil (               )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台中平均薪資六都最低？議員：市府拚經</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 22:23:39 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+
+台中平均薪資六都最低？議員：市府拚經濟拚到哪裡
+
+3.完整新聞內文:
+
+〔記者張菁雅／台中報導〕國民黨議員張廖乃綸、李中今天提出多項數字表示，台中港國
+際郵輪停靠量創新低、海空雙港入出境旅客人次下降，均反映出台中經濟不好，因為經濟
+差，<span class="f3">台中市去年平均薪資是六都最低，甚至還比不上連江縣、金門縣。</span>
+
+張廖乃綸表示，市長林佳龍頻頻出國招商，目前卻只有日本三井集團在台中港投資25億元
+興建Outlet，而台中港申請停靠的國際郵輪2015年有68艘，旅客9.4萬人次，去年降為10
+艘、1.6萬人次，今年只剩下2艘，可能連1萬人次都不到，創歷年來新低，市府說要拚經
+濟究竟拚到哪裡？
+
+李中也說，台中機場105年入境人次較104年減少4.29％，出境減少3.75％，今年1至3月，
+入境、出境分別較去年同期減少14.23％、15.66％；台中港數字更是觸目驚心，105年入
+境、出境分別大幅衰退52.12％、45.74％，今年前3月則分別衰退11.14％、45.16％。這
+些數字<span class="f3 hl">除反映台中經濟發展不好外，更令人憂心會影響三井投資案。</span>
+
+張廖乃綸進一步指出，經濟不好，勞工薪資也受影響，根據勞動部公布105年勞退新制提
+繳概況顯示，<span class="f3 hl">台中市平均薪資是3萬771元，全國排名1</span>3，不但低於全國平均數3萬6825元
+，還是<span class="f3 hl">六都最低</span>，<span class="b1">甚至輸給苗栗縣、雲林縣</span>，連離島的<span class="b4">連江縣</span>、金門縣都比台中市高。
+對於平均薪資，勞工局解釋，勞動部統計資料僅採用勞退新制數字，而台中市約有130萬
+工作人口，並非所有人均採勞退新制，加上許多自營作業者未提繳勞退，若單以新制計算
+平均薪資，無法窺見全貌；而「家庭收支調查」包含家庭成員的各類型所得，且不限行業
+別，更能呈現實際收入情形。
+
+勞工局指出，根據主計總處104年家庭收支調查報告，台中市家戶平均每人可支配年所得
+為31萬1948元，六都排名第3，且較103年進步，顯示收入水準持續成長。
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/life/breakingnews/2069560" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/life/breakingnews/2069560</a>
+
+5.備註:
+
+台中無感
+
+對啦 房仲很愛嘴中科不是嗎 怎麼有一間台積電平均薪資還最低啊?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.118.45.41
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494944623.A.356.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494944623.A.356.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gogobar</span><span class="f3 push-content">: 台中窮鬼崩潰</span><span class="push-ipdatetime"> 05/16 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中不意外 地震帶還一堆 勿忘921 每十年就大地震一次</span><span class="push-ipdatetime"> 05/16 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bba75149</span><span class="f3 push-content">: 幹不是台南高雄最低嗎 一堆鬼島公司</span><span class="push-ipdatetime"> 05/16 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dorydoze</span><span class="f3 push-content">: 拚到老闆跟議員的口袋裡</span><span class="push-ipdatetime"> 05/16 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: PTT反指標無誤</span><span class="push-ipdatetime"> 05/16 22:25
+</span></div><span class="f2">※ 編輯: seuil (122.118.45.41), 05/16/2017 22:26:54
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrXD</span><span class="f3 push-content">: 議長喝花酒 報公帳  多有競爭力啊</span><span class="push-ipdatetime"> 05/16 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">woodsy</span><span class="f3 push-content">: 把彰化放到哪去</span><span class="push-ipdatetime"> 05/16 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">werqq</span><span class="f3 push-content">: 拼到老闆口袋</span><span class="push-ipdatetime"> 05/16 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sellgd</span><span class="f3 push-content">: 10年一次大地震 那誰敢住啊? 921之前的一次是之前60年</span><span class="push-ipdatetime"> 05/16 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 但台中人口卻要超越高雄了</span><span class="push-ipdatetime"> 05/16 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sellgd</span><span class="f3 push-content">: 台灣哪地區是10年一次大的? 整個台灣也要20-30年才一次大</span><span class="push-ipdatetime"> 05/16 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 結果台中人口成長 勞保投保成長人數居冠</span><span class="push-ipdatetime"> 05/16 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: Xd</span><span class="push-ipdatetime"> 05/16 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: <a href="https://goo.gl/MGw3Yt" target="_blank" rel="nofollow">https://goo.gl/MGw3Yt</a></span><span class="push-ipdatetime"> 05/16 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 人民嘖嘖</span><span class="push-ipdatetime"> 05/16 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 人民反指標無誤</span><span class="push-ipdatetime"> 05/16 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 台中六都薪資墊底各家媒體都認證不意外</span><span class="push-ipdatetime"> 05/16 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: <a href="http://youtu.be/n5zulXoQtjk" target="_blank" rel="nofollow">http://youtu.be/n5zulXoQtjk</a></span><span class="push-ipdatetime"> 05/16 22:52
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/n5zulXoQtjk" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 六都所得</span><span class="push-ipdatetime"> 05/16 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: <a href="http://i.imgur.com/lRsN5A1.jpg" target="_blank" rel="nofollow">http://i.imgur.com/lRsN5A1.jpg</a></span><span class="push-ipdatetime"> 05/16 22:52
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="lRsN5A1"><a href="//imgur.com/lRsN5A1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: <a href="http://i.imgur.com/LKWyIHo.jpg" target="_blank" rel="nofollow">http://i.imgur.com/LKWyIHo.jpg</a></span><span class="push-ipdatetime"> 05/16 22:52
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="LKWyIHo"><a href="//imgur.com/LKWyIHo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: <a href="http://i.imgur.com/wCJapQZ.jpg" target="_blank" rel="nofollow">http://i.imgur.com/wCJapQZ.jpg</a></span><span class="push-ipdatetime"> 05/16 22:52
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="wCJapQZ"><a href="//imgur.com/wCJapQZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Andrew90</span><span class="f3 push-content">: 就說了 台中人口大增 就是周圍縣市太廢 只能去台中</span><span class="push-ipdatetime"> 05/16 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Andrew90</span><span class="f3 push-content">: 整體而言 整個中部人口仍是下滑的</span><span class="push-ipdatetime"> 05/16 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 高雄才是最低薪 不然人口外移假的嗎</span><span class="push-ipdatetime"> 05/16 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 南部嘉嘉屏東持續外洩(太廢) 台南也成長的有夠慢 結果</span><span class="push-ipdatetime"> 05/16 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 高雄連太廢的周圍都無法吸 嘖</span><span class="push-ipdatetime"> 05/16 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中靠灑大錢補助生育 買人口的也能自慰哈哈</span><span class="push-ipdatetime"> 05/16 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: <a href="http://tinyurl.com/mqrbcfe" target="_blank" rel="nofollow">http://tinyurl.com/mqrbcfe</a></span><span class="push-ipdatetime"> 05/16 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 連周圍都無法吸 嘖</span><span class="push-ipdatetime"> 05/16 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 某個</span><span class="push-ipdatetime"> 05/16 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omoi1988</span><span class="f3 push-content">: 台中就喜歡吸窮人阿(攤手)</span><span class="push-ipdatetime"> 05/16 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81238123</span><span class="f3 push-content">: 台中人在找褲子沒空啦</span><span class="push-ipdatetime"> 05/17 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AZBTPATONY</span><span class="f3 push-content">: 高雄白痴高潮</span><span class="push-ipdatetime"> 05/17 01:36
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494944623.A.356.html?cacheKey=2052-37999898&offset=5511&offset-sig=7e41a4691882984f3cc24aa13ea75c167b1448df" data-longpollurl="/v1/longpoll?id=a0442c483940238d822d1f4357abf70900142d0f" data-offset="5511"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

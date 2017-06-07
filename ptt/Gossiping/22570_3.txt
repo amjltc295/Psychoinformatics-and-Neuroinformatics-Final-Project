@@ -1,0 +1,174 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496643100.A.307.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台灣榮民失智照護研究 登國際期刊 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合報 記者鄧桂芬╱即時報導
+2.完整新聞標題:
+台灣榮民失智照護研究 登國際期刊
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台灣榮民失智照護研究 登國際期刊">
+<meta property="og:description" content="1.媒體來源:
+聯合報 記者鄧桂芬╱即時報導
+2.完整新聞標題:
+台灣榮民失智照護研究 登國際期刊
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496643100.A.307.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496643100.A.307.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">btryit557 (回憶在多嘴)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台灣榮民失智照護研究 登國際期刊</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 14:11:36 2017</span></div>
+1.媒體來源:
+聯合報 記者鄧桂芬╱即時報導
+
+2.完整新聞標題:
+台灣榮民失智照護研究 登國際期刊
+
+3.完整新聞內文:
+台北榮總、高雄榮總研究發現，提供中度失智榮民每周適度職能治療活動，可降低精神疾
+病用藥，若在機構提供全面照護，失能狀況也能減輕。兩院多年照護失智榮民研究，獲登
+今年4月的國際高齡醫學及老年學期刊（Geriatrics &amp; Gerontology International），
+非藥物介入成效讓國際失智專家驚豔。
+
+北榮高齡醫學中心主任陳亮恭表示，失智症病程發展就像光譜，從輕度、中度到重度，輕
+度患者尚能由居家社區照顧，但中度失智病人，易併有精神混亂狀況，包括暴躁、幻想、
+妄想、不安、焦躁或憂鬱等，因行動能力尚可，也會出現遊走行為，對一般家庭而言照顧
+負荷大，部分家庭會選機構幫忙照顧。
+
+為研究「以人為本」的中度以上失智照護，北榮、高榮分頭研究「在家照顧」及「機構照
+顧」的效果，獲日本國家長壽醫療研究中心的經費支持，將研究成果以專刊型式一次性發
+表於國際高齡醫學及老年學期刊。
+
+北榮團隊於台北榮家及桃園榮家收案141名中度失智榮民，介入前個案簡易心智量表（
+MMSE）分數平均23分， 約四成病人有用精神用藥，約兩成使用抗憂鬱劑，三成使用安眠
+藥。
+
+經職能治療師提供病人一周一到兩次的活動帶領，包括運動、懷舊、認知、音樂及園藝治
+療等，為期半年後，多數患者的MMSE 沒退步，精神症狀明顯下降，經醫師評估可減藥量
+。照顧服務員也說，因榮民狀況穩定、好照顧，可讓他們照顧負荷減少。
+
+另高榮收案61名佳里榮家中度失智榮民，提供職能治療及整合就醫的「綠色通道」，讓個
+案受全面照護，另同時門診追蹤86名一般居家照顧的中度失智病人。一年後發現，居家照
+顧的中度失智個案臨床失智評估量表（CDR）分數退步35%，巴氏量表分數退步60%，而榮
+家失智專區照顧者CDR僅退步2%，巴氏量表分數退步40%，明顯較少。
+
+陳亮恭說，榮總率先驗證，導入標準化非藥物全面照護，能讓失智長輩因好的照顧場域，
+順利減緩退化。事實上，研究也顯現較難照顧的中度以上失智病人，不能只靠居家社區式
+照顧，完整的機構式照護也必須受到重視，盼政府提供適當協助、擴建資源。
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/7266/2503546" target="_blank" rel="nofollow">https://udn.com/news/story/7266/2503546</a>
+<a href="https://goo.gl/1ohG2j" target="_blank" rel="nofollow">https://goo.gl/1ohG2j</a>
+<a href="https://goo.gl/pPif6h" target="_blank" rel="nofollow">https://goo.gl/pPif6h</a>
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.233.114.74
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496643100.A.307.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496643100.A.307.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ninggo</span><span class="f3 push-content">: 五樓失智</span><span class="push-ipdatetime"> 06/05 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 五樓最好例子</span><span class="push-ipdatetime"> 06/05 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 五樓被失智老人誤認為0號肛肛好</span><span class="push-ipdatetime"> 06/05 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 有什麼好嚴重 直接開放失智安樂死就好 反正又不會好</span><span class="push-ipdatetime"> 06/05 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilove88th</span><span class="f3 push-content">: 5F就是你了</span><span class="push-ipdatetime"> 06/05 14:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilove88th</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 06/05 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 樓上失智了 幫QQ</span><span class="push-ipdatetime"> 06/05 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 看來五樓忘記自己就是五樓呢！</span><span class="push-ipdatetime"> 06/05 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 登上cell或sience再來說啦</span><span class="push-ipdatetime"> 06/05 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">captainmm</span><span class="f3 push-content">: 關鍵字 日本出錢支持研究</span><span class="push-ipdatetime"> 06/05 14:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">captainmm</span><span class="f3 push-content">: 台灣錢都給什麼教授拿去爽了</span><span class="push-ipdatetime"> 06/05 14:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yjyj8000</span><span class="f3 push-content">: 這個中心補助拿很多</span><span class="push-ipdatetime"> 06/05 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Suboy</span><span class="f3 push-content">: 榮總真的很棒</span><span class="push-ipdatetime"> 06/05 15:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496643100.A.307.html?cacheKey=2052-2039625&offset=3556&offset-sig=0f5073e16d3791d70bd9aa86683ea0c59d26b86f" data-longpollurl="/v1/longpoll?id=7d9de09b80c3e1e8546bad5c34c56e69ff1fedee" data-offset="3556"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

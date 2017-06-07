@@ -1,0 +1,175 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495778948.A.D93.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] ptt被別人註冊同ID就會被註銷掉? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="現在確認出林奕含的ptt的ID就是ooutputt嘛
+為什麼這個ID在今年5/1被人註冊，他的ID就被註銷掉
+這概念不就像乞丐趕廟公嗎? 後到的竟然可以把先來的趕走
+哪一天如果我的ID也被人註冊了，那我這ID也會被註銷掉嗎
+因為我查詢了這個ID，現在被某幼稚的人註冊走了，林奕含的ptt被註銷掉了
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] ptt被別人註冊同ID就會被註銷掉?">
+<meta property="og:description" content="現在確認出林奕含的ptt的ID就是ooutputt嘛
+為什麼這個ID在今年5/1被人註冊，他的ID就被註銷掉
+這概念不就像乞丐趕廟公嗎? 後到的竟然可以把先來的趕走
+哪一天如果我的ID也被人註冊了，那我這ID也會被註銷掉嗎
+因為我查詢了這個ID，現在被某幼稚的人註冊走了，林奕含的ptt被註銷掉了
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495778948.A.D93.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495778948.A.D93.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">teddy98 (小迪)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] ptt被別人註冊同ID就會被註銷掉?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 14:09:05 2017</span></div>
+現在確認出林奕含的ptt的ID就是ooutputt嘛
+
+為什麼這個ID在今年5/1被人註冊，他的ID就被註銷掉
+
+這概念不就像乞丐趕廟公嗎? 後到的竟然可以把先來的趕走
+
+哪一天如果我的ID也被人註冊了，那我這ID也會被註銷掉嗎
+
+因為我查詢了這個ID，現在被某幼稚的人註冊走了，林奕含的ptt被註銷掉了
+:
+
+<span class="b6 hl">【 查詢網友 】</span>
+《ＩＤ暱稱》ooutputt (非小杯喔!)        《經濟狀況》赤貧
+《登入次數》12 次 (同天內只計一次)      《有效文章》3 篇 (退:0)
+<span class="f3 hl">《目前動態》不在站上                    </span>《私人信箱》有新進信件還沒看
+《上次上站》05/24/2017 00:10:53 Wed     《上次故鄉》140.112.217.30
+《 五子棋 》    0 勝     0 敗     0 和  《象棋戰績》    0 勝     0 敗     0 和
+
+                                &lt;&lt;道歉啟事&gt;&gt;
+  本人在2017/5/1晚上兩點10分左右，因為好奇註冊了這個帳號，登入時此帳號已被重置
+對於想要利用此帳號搜尋線索的版眾道歉，因為本人的幼稚行為而使紀錄消失 本人萬
+分後悔。
+  本人與前一位帳號擁有者ooutputt(小杯)@ptt.cc，(此在ptt註冊的ooutputt在註冊有
+效期間未曾發表過文章)，2014年註冊此ID的人，與本人沒有任何關係，也未曾有過任
+何接觸 本人也完全不知道他是誰 在2017/5/1號時 利用查詢網友功能搜尋時已沒有紀錄
+5/1號當時此帳號也已釋出。
+  而備受討論的ooutputt(小杯)@disp.cc於2014年05月23日 Fri. AM 12:27:07
+所張貼於Disp八卦板的文章:<a href="https://disp.cc/b/163-7HN5" target="_blank" rel="nofollow">https://disp.cc/b/163-7HN5</a>
+與本人更是毫無瓜葛，如果造成誤會 十分抱歉。
+  本帳號自從完成註冊後，只有在diary test ID_Problem有張貼文章
+沒有在其他PTT版面推噓箭號任何誹謗他人的文字，懇請對ptt本帳號提出告訴前
+閱讀本道歉啟事 從輕發落 也希望未來不要有人再重覆我這幼稚可笑的行為!
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.26.113.171
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495778948.A.D93.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495778948.A.D93.html</a>
+</span><span class="f2">※ 編輯: teddy98 (114.26.113.171), 05/26/2017 14:09:36
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bee12</span><span class="f3 push-content">: 一段時間沒登入就會被取消ID 之後就可以搶註冊</span><span class="push-ipdatetime"> 05/26 14:09
+</span></div>有這種事! 我yahoo帳號10年沒用了不知道還在不在
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fallheart</span><span class="f3 push-content">: 規則就這樣(￣▽￣)</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SRNOB</span><span class="f3 push-content">: 我要吉 可惡</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 可能還有電磁紀錄</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><span class="f2">※ 編輯: teddy98 (114.26.113.171), 05/26/2017 14:10:54
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 小於720次的  120天沒登入 就可以被註冊吧</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Justin890820</span><span class="f3 push-content">: …</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 大於720次的 好像就往上面慢慢累加</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 可以請警察復原看看</span><span class="push-ipdatetime"> 05/26 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sober716</span><span class="f3 push-content">: 覺得這種機制應該取消 一般網站也沒有在自動砍帳號的</span><span class="push-ipdatetime"> 05/26 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 規則就是這樣 把他拖出來鞭幹嘛</span><span class="push-ipdatetime"> 05/26 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 你雅虎帳號關PTT什事 = =</span><span class="push-ipdatetime"> 05/26 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sober716</span><span class="f3 push-content">: PTT帳號又不會占多大空間 就永久保存到關站也沒差吧</span><span class="push-ipdatetime"> 05/26 14:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lhsieh</span><span class="f3 push-content">: 最好只是好奇</span><span class="push-ipdatetime"> 05/26 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Sinreigensou</span><span class="f3 push-content">: 讓我想到傑夫大也是因為這樣被強帳號</span><span class="push-ipdatetime"> 05/26 14:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aquaunder</span><span class="f3 push-content">: 樓下你信嗎 XDDD</span><span class="push-ipdatetime"> 05/26 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdfgh0920</span><span class="f3 push-content">: 你順序搞錯了 是ID先被註銷才有新的申請</span><span class="push-ipdatetime"> 05/26 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joanna32288</span><span class="f3 push-content">: 你搞錯順序啦</span><span class="push-ipdatetime"> 05/26 14:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CobeBryant</span><span class="f3 push-content">: 早就被砍帳號了 重註冊是有差？= =</span><span class="push-ipdatetime"> 05/26 14:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 好好笑喔怎麼有人以為去註冊就可以直接接收那個帳號啊</span><span class="push-ipdatetime"> 05/26 14:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 這可不是一句幼稚就裝沒事好嗎XD</span><span class="push-ipdatetime"> 05/26 14:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkage</span><span class="f3 push-content">: 檢座會請去喝咖啡釐清「幼稚」行為嗎？</span><span class="push-ipdatetime"> 05/26 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c98406023</span><span class="f3 push-content">: 無名小站以前沒幾天登入帳號自動刪除</span><span class="push-ipdatetime"> 05/26 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vipeyu</span><span class="f3 push-content">: 無名rip</span><span class="push-ipdatetime"> 05/26 15:49
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495778948.A.D93.html?cacheKey=2052-1834105&offset=4221&offset-sig=af932936396a09c44c59e8e51621dfddbf29eef7" data-longpollurl="/v1/longpoll?id=ef25ce0460e4cfa74ce127638b2e94a950edea42" data-offset="4221"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

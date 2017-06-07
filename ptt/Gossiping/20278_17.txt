@@ -1,0 +1,193 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495099612.A.9B4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 你是哪一種人生勝利組 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="先說一個跟宿命有關的經驗
+故事是這樣的
+我從小一起的鄰居玩伴都是鄉下的同姓遠親
+據悉他們現在都過得很好
+念大學外宿 跟家裡開口
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 你是哪一種人生勝利組">
+<meta property="og:description" content="先說一個跟宿命有關的經驗
+故事是這樣的
+我從小一起的鄰居玩伴都是鄉下的同姓遠親
+據悉他們現在都過得很好
+念大學外宿 跟家裡開口
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495099612.A.9B4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495099612.A.9B4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">G0512 (M的悲劇)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 你是哪一種人生勝利組</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 17:26:49 2017</span></div>
+
+先說一個跟宿命有關的經驗
+故事是這樣的
+我從小一起的鄰居玩伴都是鄉下的同姓遠親
+據悉他們現在都過得很好
+
+念大學外宿 跟家裡開口
+東區直接買房子 還一人一間
+
+追妹買車 跟家裡開口
+超跑以外挑到你滿意
+撞爛被偷隔天再買一台
+(真的隔天業務開到他家我沒在豪洨)
+
+結婚買房子 跟家裡開口
+店面透天自己選
+
+生小孩出國玩 跟家裡開口
+地球儀轉到哪全家就玩到哪
+
+他媽的就是個人生勝利組
+原來我們家在鄉下是個大地主
+我們的祖父大約沈葆楨時代來到台灣開墾
+他們坐擁無數田地跟山地
+他們的父母從祖父輩繼承了大批鄉下地產
+現在有租地收租金
+有政府徵收的河川預定地
+有高鐵徵收的高架鐵路地
+有公路局徵收建橋梁的河地
+還有山上的風水寶地
+把墓地分成幾百份用賣的
+一片山賣了3、5億
+這些地過去都是鄉下偏遠的廢渣地
+一夜間泥土變黃金
+你沒看錯就是好幾億等你繼承
+他們的孫輩 也就是我堂兄弟們以前小時的玩伴
+現在都結婚有了小孩家庭
+追到空姐專櫃正妹幫你生孩子(綠地球)
+放假開旅行車拖著水上摩托車跟700萬小艇
+連假絕對是全家出國度假
+
+然後我爺爺年輕酒家玩很大
+每天在泡妞督馬子 E奶玩不完可以射後不理
+所以我有三個奶奶
+小媽三奶奶的我們家有9個叔伯
+專出酒鬼 爛賭鬼 無賴漢品質保證
+每天上演斷手腳追債戲碼騙錢幫清債
+精彩到民視應該來考究
+無奈我的祖父把田產跳樓大拍賣
+宅心仁厚當紅包發賤賣掉
+賣到他走了我爸什麼都沒留到
+現在的我還是一條魯蛇
+雖然羨慕我的堂兄弟人生無限美好
+卻想到精彩的故事主角總是那個最魯的稍微能安慰自己
+想問問板上的人生勝利組員們
+
+你們是屬於哪一種人生勝利組
+
+-----
+Sent from JPTT on my Samsung GT-I9200.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.143.162.255
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495099612.A.9B4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495099612.A.9B4.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hankdai</span><span class="f3 push-content">: 你講的我都有</span><span class="push-ipdatetime"> 05/18 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 鍵盤</span><span class="push-ipdatetime"> 05/18 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 遠親離開家鄉都很有錢 林爸 就兩手空空</span><span class="push-ipdatetime"> 05/18 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">anc68003</span><span class="f3 push-content">: 樓下尻尻 勝利組</span><span class="push-ipdatetime"> 05/18 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 還在開我阿公留下來的裕隆勝利那組</span><span class="push-ipdatetime"> 05/18 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 我爸很愛吹遠親 台北台東 高雄的什麼公 什麼婆的 有</span><span class="push-ipdatetime"> 05/18 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 錢到靠ㄟ北房子土地好幾筆 講給我聽~~</span><span class="push-ipdatetime"> 05/18 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 天才才叫人生勝利</span><span class="push-ipdatetime"> 05/18 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 聽完覺得咦？ 那我們家呢</span><span class="push-ipdatetime"> 05/18 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diadem1122</span><span class="f3 push-content">: 我叔叔他們家買房結婚唸書買車都父母出的</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 活到現在 還是覺得靠自己比較實在</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cores</span><span class="f3 push-content">: 故事精彩，你會怪你祖父分產不公吧，讓你不能一出生就脫魯</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div>我祖父沒分產啊，因為他手上玩完了沒的分
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 希望我下一代不要這麼悲哀了</span><span class="push-ipdatetime"> 05/18 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nautasechs</span><span class="f3 push-content">: 我祖先亞當夏娃</span><span class="push-ipdatetime"> 05/18 17:36
+</span></div><span class="f2">※ 編輯: G0512 (223.143.162.255), 05/18/2017 21:10:29
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495099612.A.9B4.html?cacheKey=2052-40097121&offset=3093&offset-sig=3f6e28d5b40ef9953b6153bc77e38573624b1350" data-longpollurl="/v1/longpoll?id=7dfced95c7da0fe9a7acb552037a403ddef921c4" data-offset="3093"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

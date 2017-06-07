@@ -1,0 +1,167 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496277605.A.2B4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 反制北韓 攔截洲際飛彈 美測試成功 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+反制北韓 攔截洲際飛彈 美測試成功
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 反制北韓 攔截洲際飛彈 美測試成功">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+反制北韓 攔截洲際飛彈 美測試成功
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496277605.A.2B4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496277605.A.2B4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ss910126 (Yukino my wife)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 反制北韓 攔截洲際飛彈 美測試成功</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 08:40:01 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+反制北韓 攔截洲際飛彈 美測試成功
+
+3.完整新聞內文:
+〔編譯管淑平／綜合報導〕美國五月卅日首次測試陸基中段飛彈防禦系統（ＧＭＤ）的升
+級版長程攔截飛彈，成功截擊一枚模擬洲際飛彈攻擊美國本土的靶彈。在北韓問題升高之
+際，這項測試旨在了解美國是否有能力擊落北韓發射攜帶核彈頭的飛彈。
+
+耗資約74億台幣
+攔截飛彈從加州范登堡空軍基地發射後，釋出「截殺載具」在太平洋上空撞擊從馬紹爾群
+島瓜加林環礁美軍試驗場發射的靶彈，摧毀目標。不論在這次測試或未來的實戰中，截殺
+載具都不會安裝炸藥，完全是靠撞擊力摧毀靶彈。這次耗費二．四四億美元（約七十四億
+台幣）的測試備受外界關注，不僅因為若失敗會是該系統的一大挫敗，也因為這次攔截的
+目標速度接近真實狀況下洲際飛彈來襲速度；測試成功令五角大廈能宣稱這套斥資四百億
+美元的系統在防範北韓核武攻擊上正在取得進步。
+負責測試作業的五角大廈飛彈防禦局長希林說，這次測試「展現我們具備一套可行、可靠
+的嚇阻力對付非常真實威脅」，「這是這項計畫的關鍵里程碑」。五角大廈未提供測試細
+節，聲明僅說初步跡象顯示測試達成主要目的，但是該局將根據測試中取得的數據，持續
+評估此系統整體表現。
+
+北韓嗆隨時準備試射
+不過，包括這次在內，該系統最近十次測試僅五次成功，且卅日的測試未能證實能在實戰
+下攔截北韓洲際飛彈，因為這套防禦系統要發揮最佳效果，須仰賴衛星偵察發出早期預警
+，且截殺載具單純靠撞擊動能摧毀目標。而平壤即將具備在洲際飛彈上搭載核彈頭的技術
+，並且可能開發精密度足以騙過攔截系統的誘餌彈，近期測試顯示其新型飛彈採用固態燃
+料，大幅縮短準備發射時間，也減少美軍攔截因應時間。
+智庫「軍備控制與禁止擴散中心」高級研究員、前任五角大廈武器測試及評估負責人科伊
+爾說，二○一○年以來五次測試僅兩次成功，成功率只有四十％，「在學校，四十分是不
+及格的分數」，「根據其測試紀錄，我們無法依賴這套飛彈防禦系統保護美國不受北韓的
+長程飛彈攻擊」。
+反對這套系統的「關懷科學家聯盟」（UCS）物理學家葛瑞格（Laura Grego）等科學家認
+為，只有經過如夜間或者敵方採取反攔截措施等一系列狀況下測試，國防部才能說此系統
+有用。
+卅日的測試已知來襲飛彈發射地點、大約發射時間，攔截飛彈也準備就緒，真實情況下或
+許並非如此。
+五角大廈發言人戴維斯卅日說，並非刻意選在當前緊張局勢下測試，不過，北韓正強化其
+彈道飛彈系統的規模與精密度，令人擔心。北韓共產黨機關報「勞動新聞」卅一日警告，
+隨時準備試射洲際飛彈，「美國必須知道，我們說能用核武將這惡魔窟化為灰燼，並非嚇
+唬人。」
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://news.ltn.com.tw/news/world/paper/1106903" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/world/paper/1106903</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.126.31.32
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496277605.A.2B4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496277605.A.2B4.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: ICBM</span><span class="push-ipdatetime"> 06/01 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 自己為了測試攔截系統就能射飛彈，顆顆</span><span class="push-ipdatetime"> 06/01 09:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496277605.A.2B4.html?cacheKey=2052-11608891&offset=2714&offset-sig=3d7c08c032951826569962874a261ac2639282dc" data-longpollurl="/v1/longpoll?id=1d5f1caccd848c1498ef5af449728a8935b5f7b3" data-offset="2714"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,158 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496377388.A.034.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 鴻海遭外媒點名雇血汗實習生　鴻海駁斥 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ETnews
+記者周康玉／台北報導
+鴻海富士康遭外媒爆料雇用便宜實習生，甚至規避勞動法規剝削年輕人勞動權益，對此鴻
+海發出聲明表示，鴻海提供與全職新進員工相同水準，在中國大陸實施短期實習計畫過程
+中，全面遵守相關法律與規範。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 鴻海遭外媒點名雇血汗實習生　鴻海駁斥">
+<meta property="og:description" content="ETnews
+記者周康玉／台北報導
+鴻海富士康遭外媒爆料雇用便宜實習生，甚至規避勞動法規剝削年輕人勞動權益，對此鴻
+海發出聲明表示，鴻海提供與全職新進員工相同水準，在中國大陸實施短期實習計畫過程
+中，全面遵守相關法律與規範。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496377388.A.034.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496377388.A.034.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">MasJ (GhoStone)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 鴻海遭外媒點名雇血汗實習生　鴻海駁斥</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 12:23:05 2017</span></div>
+
+ETnews
+
+記者周康玉／台北報導
+
+鴻海富士康遭外媒爆料雇用便宜實習生，甚至規避勞動法規剝削年輕人勞動權益，對此鴻
+海發出聲明表示，鴻海提供與全職新進員工相同水準，在中國大陸實施短期實習計畫過程
+中，全面遵守相關法律與規範。
+
+美國媒體《The Nation》以「你的手機可能是由實習生製造」為題，引述香港理工大學分
+析報告指出，中國大陸約有1800萬名年輕人新血不斷注入職業學校，並以實習生身分成為
+組裝產線便宜的勞動力來源，以滿足生產旺季需求。
+
+報導指出，儘管全球製造業投資帶動經濟條件和工資上揚，針對大型企業所需的基礎建設
+不斷湧現，但本田（Honda）和鴻海集團卻採用便宜的實習生勞工，規避法規並且剝奪年
+輕工人的勞動權益。
+
+針對外媒上述報導，鴻海集團發聲明表示，集團持續與中國各地政府和職業學校合作實施
+短期實習計劃，平均實習人數於任何期間，都未超過總員工數1%。鴻海強調，提供與全職
+新進員工相同水準、符合市場競爭力的薪資給實習生。
+
+此外，鴻海為所有員工（包括實習生在內）投保集團團體保險，實習生在職期間，若發生
+任何身體不適或意外狀況，都能申請醫療費用的理賠，包括事故、住院、門診或其他緊急
+情況。在執行計畫的過程中，鴻海全面遵守相關法律與規範。
+
+<a href="http://www.ettoday.net/news/20170602/936489.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170602/936489.htm</a>
+
+別亂黑人家，實習生給你機會學習，還不快謝主龍恩
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.140.100.164
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496377388.A.034.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496377388.A.034.html</a>
+</span><span class="f2">※ 編輯: MasJ (223.140.100.164), 06/02/2017 12:24:12
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 很簡單  中國人又想要鴻海交保護費了</span><span class="push-ipdatetime"> 06/02 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 富士康而已 來本島看看 甚麼叫血汗</span><span class="push-ipdatetime"> 06/02 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohiu</span><span class="f3 push-content">: 敦哥:我從來沒說過,何來之有</span><span class="push-ipdatetime"> 06/02 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Notte</span><span class="f3 push-content">: 三爽還會致癌呢</span><span class="push-ipdatetime"> 06/02 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XieXie9527</span><span class="f3 push-content">: 紅海真倒楣，就算真有用，1800萬他才用多少</span><span class="push-ipdatetime"> 06/02 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghostl40809</span><span class="f3 push-content">: 如果是台灣記者寫的 或許就不只駁斥了..?</span><span class="push-ipdatetime"> 06/02 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XieXie9527</span><span class="f3 push-content">: 樹大招風，其他家用的都沒事</span><span class="push-ipdatetime"> 06/02 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamrw</span><span class="f3 push-content">: 慣老闆揚名國際</span><span class="push-ipdatetime"> 06/02 12:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bigcho</span><span class="f3 push-content">: 駁斥不只有實習生血汗</span><span class="push-ipdatetime"> 06/02 12:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kingbing</span><span class="f3 push-content">: 不是血汗，是吸血啃骨。</span><span class="push-ipdatetime"> 06/02 12:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 紅海:在台灣有些實習生還要付錢上班呢 來學有錢拿不錯了</span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 駁斥，根本沒僱用！是實習？</span><span class="push-ipdatetime"> 06/02 12:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496377388.A.034.html?cacheKey=2052-219566&offset=2646&offset-sig=778afd114e5fa028db5248a62389636e1d630bc6" data-longpollurl="/v1/longpoll?id=82c842e429ea7983c620e42445c19626344ecff2" data-offset="2646"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

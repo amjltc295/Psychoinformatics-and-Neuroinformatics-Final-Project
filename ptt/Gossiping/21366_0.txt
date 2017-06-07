@@ -1,0 +1,345 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495833230.A.A10.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[公告] 分身水桶 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="05/27/2017 04:52:10 IbakaBlock 解除 martin110287 的禁言限制 (距原期限尚有 64 天)
+  理由: 另案加桶
+05/27/2017 04:52:41 IbakaBlock 暫停 martin110287 發言，期限為 94 天
+  理由: 板規十六，分身條例，前案尚計64日
+05/27/2017 04:53:01 IbakaBlock 暫停 m760112 發言，期限為 4013 天
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[公告] 分身水桶">
+<meta property="og:description" content="05/27/2017 04:52:10 IbakaBlock 解除 martin110287 的禁言限制 (距原期限尚有 64 天)
+  理由: 另案加桶
+05/27/2017 04:52:41 IbakaBlock 暫停 martin110287 發言，期限為 94 天
+  理由: 板規十六，分身條例，前案尚計64日
+05/27/2017 04:53:01 IbakaBlock 暫停 m760112 發言，期限為 4013 天
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495833230.A.A10.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495833230.A.A10.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">IbakaBlock (肛甲集團首腦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[公告] 分身水桶</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 05:13:47 2017</span></div>
+<span class="hl">05/27/2017 04:52:10 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">martin110287 </span>的禁言限制 (距原期限尚有 64 天)
+  理由: 另案加桶
+<span class="hl">05/27/2017 04:52:41 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">martin110287 </span>發言，期限為 94 天
+  理由: 板規十六，分身條例，前案尚計64日
+<span class="hl">05/27/2017 04:53:01 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">m760112 </span>發言，期限為 4013 天
+  理由: 板規十六，分身條例
+<span class="hl">05/27/2017 04:53:25 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">much5566 </span>發言，期限為 4013 天
+  理由: 板規十六，分身條例
+<span class="hl">05/27/2017 05:11:49 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">gn7766690 </span>的禁言限制 (距原期限尚有 122 天)
+  理由: 另案加桶
+<span class="hl">05/27/2017 05:12:00 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">gn7766690 </span>發言，期限為 3650 天
+  理由: 板規十六，分身條例
+<span class="hl">05/27/2017 05:12:16 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">nurais1127 </span>的禁言限制 (距原期限尚有 49 天)
+  理由: 另案加桶
+<span class="hl">05/27/2017 05:12:26 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">nurais1127 </span>發言，期限為 7300 天
+  理由: 板規十六，分身條例
+<span class="hl">05/27/2017 05:13:17 </span><span class="f3 hl">IbakaBlock </span>解除 <span class="f2 hl">jeffrey9120</span> 的禁言限制 (距原期限尚有 23 天)
+  理由: 另案加桶
+<span class="hl">05/27/2017 05:13:27 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">jeffrey9120</span> 發言，期限為 7300 天
+  理由: 板規十六，分身條例
+
+
+依據下列多重帳號查詢案件，經帳號部判定martin110287、m760112、much5566為同一使用
+
+者
+
+
+┌─────────────────────────────────────┐
+│ 文章代碼(AID): <a href="/bbs/L_TalkandCha/M.1495612243.A.3CE.html" target="_blank" rel="nofollow">#1P9JjJFE (L_TalkandCha)</a> [ptt.cc] Fw: [申請] 多重帳號查詢 │
+│ 文章網址: <a href="https://www.ptt.cc/bbs/L_TalkandCha/M.1495612243.A.3CE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/L_TalkandCha/M.1495612243.A.3CE.html</a>    │
+│ 這一篇文章值 0 Ptt幣                                                     │
+└─────────────────────────────────────┘
+
+
+<span class="hl">04/30/2017 17:14:50 </span><span class="f3 hl">staff23 </span>暫停 <span class="f1 hl">martin110287</span> 發言，期限為 90 天
+  理由: 政問
+
+
+m760112
+
+     24  10 5/01 m760112      □ [問卦] 林奕含為什麼還需要補國文??
+     25     5/17 m760112      □ [問卦] 搶救國文大作戰
+     26   8 5/17 m760112      □ [問卦] 高雄藍寶石歌廳
+
+
+much5566
+
+     10   2 5/02 much5566     □ [問卦] Gossiping 看板暫停發言通知(水桶)
+     11   2 5/02 much5566     □ [問卦] 有沒有國文誤我一生的八卦??
+     12   7 5/02 much5566     □ [新聞] 事故增都怪台鐵不求償？立法院預算中心：
+
+
+    3.特殊狀況一，若Ａ帳號被水桶中，使用Ｂ、Ｃ或多個帳號發文，查證後，則視為
+      <span class="f3 hl">第一次觸碰分身條例，</span>則
+      Ａ帳號加罰水桶一個月
+      Ｂ帳號發文全數退回、並於組務查詢結果回報日開始算起，水桶十年
+      Ｃ帳號發文全數退回、並於組務查詢結果回報日開始算起，水桶十年
+
+
+martin110287 板規十六，加罰水桶一個月
+
+m760112 板規十六，水桶10年(3650d)、發文全數退回(文章皆超過七日無法退文，改以換
+
+        算水桶處理，計363日)，以上共計水桶4013日
+
+much5566 板規十六，水桶10年(3650d)、發文全數退回(文章皆超過七日無法退文，改以換
+
+         算水桶處理，計363日)，以上共計水桶4013日
+
+註:因超過七日而無法退文部分，改以換算水桶處理，第一篇換算水桶3日，第二篇起每篇
+
+   換算水桶180日
+
+
+依據下列多重帳號查詢案件，經帳號部判定nurais1127、gn7766690、jeffrey9120為同一
+
+使用者
+
+
+┌─────────────────────────────────────┐
+│ 文章代碼(AID): <a href="/bbs/L_TalkandCha/M.1495618157.A.824.html" target="_blank" rel="nofollow">#1P9L9jWa (L_TalkandCha)</a> [ptt.cc] Fw: [申請] 多重帳號查詢 │
+│ 文章網址: <a href="https://www.ptt.cc/bbs/L_TalkandCha/M.1495618157.A.824.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/L_TalkandCha/M.1495618157.A.824.html</a>    │
+│ 這一篇文章值 0 Ptt幣                                                     │
+└─────────────────────────────────────┘
+
+
+<span class="hl">03/29/2017 09:44:22 </span><span class="f3 hl">IbakaBlock</span> 暫停 <span class="f1 hl">gn7766690</span> 發言，期限為 180 天
+  理由: 板規一、九，造謠、未滿二十字
+
+<span class="hl">04/16/2017 00:45:19 </span><span class="f3 hl">IbakaBlock</span> 暫停 <span class="f1 hl">nurais1127</span> 發言，期限為 90 天
+  理由: 板規一，4/14超貼文章一篇，累犯第二次
+
+
+nurais1127
+
+    234  23 3/29 nurais1127   □ [問卦] 那些號稱有音樂品味的 都在聽甚麼?
+    235   2 3/30 nurais1127   □ [問卦] 現在客訴都不用查證的八卦?
+    236   1 3/30 nurais1127   R: [新聞] 五月天演唱會結束「3萬人撿垃圾！」
+    237   8 3/30 nurais1127   □ [問卦] 中國人以為他們飛安很好?
+    238   2 3/30 nurais1127   R: [問卦] 考試時漏寫單位要扣幾分
+    239     3/31 nurais1127   □ [問卦] 我媽作夢 然後打電話罵我我的八卦?
+    240   5 3/31 nurais1127   R: [問卦] 為啥台灣旅遊住宿那麼貴?
+    241   2 3/31 nurais1127   □ [問卦] 選固力組出來可以幹嘛?
+    242   9 4/01 nurais1127   □ [問卦] 台北人這種挑逗種族的書 能被譽為經典?
+    243  20 4/02 nurais1127   □ [問卦] 為什麼神力女超人不能代替超人？
+    244  17 4/02 nurais1127   □ [問卦] 流體力學一題寫一小時的八卦
+    245   1 4/02 nurais1127   R: [問卦] 動力學算是最難學的力學嗎?
+    246   2 4/03 nurais1127   □ [問卦] 哈維丹特在台灣會怎樣
+    247   9 4/03 nurais1127   □ [問卦] 這家日本企業發生甚麼事了嗎?
+    248   6 4/03 nurais1127   R: [新聞] 禾聯電視爆炸燒屋　判大潤發連帶賠52萬
+    249   4 4/03 nurais1127   R: [新聞] 2高中生夾帶安非他命出境　市值6千萬
+    250     4/03 nurais1127   R: [問卦] 一輩子能賺一億 五億 十億的工作各是
+    251  10 4/04 nurais1127   □ [問卦] 中國是沒電話嗎 川習一定要見面才能聊？
+    252   5 4/04 nurais1127   R: [問卦] 台灣的法律是不是很保護加害者？
+    253   7 4/04 nurais1127   □ [爆卦] 有疑似邪教在車站傳教
+    254   3 4/04 nurais1127   □ [問卦] 天津爆炸負責人死緩 那八仙爆炸負責人呢?
+    255   5 4/04 nurais1127   R: [問卦] 請問木柵動物園人多嗎?
+    256   3 4/05 nurais1127   R: [問卦] 美國沒人在用支付寶是不是超落後的?
+    257   2 4/05 nurais1127   □ [問卦] action52的八卦?
+    258     4/05 nurais1127   □ [問卦] 超人笑一下會死？
+    259   3 4/05 nurais1127   R: [新聞] 敘利亞毒氣空襲58死！不捨兒口吐白沫
+    260  31 4/06 nurais1127   □ [爆卦] 西門町有小姐在站街
+    261  21 4/06 nurais1127   □ [問卦] 為什麼四川事件會造成中國轟動？
+    262   1 4/06 nurais1127   □ [問卦] 幹嘛大家不拒開苗栗那邊的縣道？
+    263     4/06 nurais1127   R: [問卦] PPP企鵝團體可以換掉誰
+    264   2 4/06 nurais1127   R: [問卦] 河馬張開口吞掉了水草 有動物園的八卦嗎?
+    265  25 4/07 nurais1127   □ [問卦] 長頸鹿當年怎麼運過來的
+    266   5 4/07 nurais1127   R: [新聞] 川普下令 美軍對敘利亞發射逾50枚戰斧飛
+    267     4/07 nurais1127   R: [新聞] 川普大讚彭麗媛　牽習近平的手要發展關係
+    268   7 4/07 nurais1127   R: [問卦] 動物園什麼動物最有代表性?
+    269   4 4/07 nurais1127   □ [問卦] 長頸鹿整天一直在吃的八卦
+    270   6 4/08 nurais1127   □ [問卦] 三戰趁機在西亞打一打是不是比較好
+    271  20 4/08 nurais1127   □ [問卦] 長頸鹿的力矩
+    272   2 4/08 nurais1127   R: [爆卦] 川習會結束了
+    273   3 4/08 nurais1127   R: [爆卦] 美軍炸到俄羅斯軍隊了
+    274   1 4/09 nurais1127   □ [問卦] 為什麼通靈王的角色那麼喜歡脫衣服?
+    275  48 4/09 nurais1127   R: [問卦] 霍金的派對實驗搞不好是成功的是嗎？
+    276   6 4/09 nurais1127   □ [問卦] 很多老闆都不用自己公司的產品？
+    277     4/09 nurais1127   R: [新聞] 選秀會把台灣納入中國 17歲嫩弟練習
+    278     4/10 nurais1127   R: [問卦] 台灣富豪都是台大畢業的嗎
+    279   5 4/10 nurais1127   □ [問卦] 在關鍵時刻常常會出問題？
+    280   3 4/10 nurais1127   R: [新聞] 美媒：國安會建議駐南韓美軍部署核武器
+    281   7 4/10 nurais1127   □ [問卦] 跑到中國讀書的是不是白痴？
+    282   2 4/10 nurais1127   R: [問卦] 三個月精通電子電路學?
+    283     4/11 nurais1127   □ [問卦] 覺青是不是對歐美都有很怪幻想？
+    284   1 4/11 nurais1127   □ [問卦] 動物農莊諷刺的那麼沒技術 是在紅什麼
+    285   1 4/11 nurais1127   R: [爆卦] 川普說要自己動手啦
+    286   2 4/11 nurais1127   R: [問卦] 米國再打一次韓戰有多少勝算
+    287   1 4/12 nurais1127   □ [問卦] 為什麼打北韓會影響國際經濟？
+    288   2 4/12 nurais1127   R: [問卦] 有沒有腳環的八卦?
+    289     4/12 nurais1127   R: [問卦] 這次是美國主動找架打嗎？
+    290     4/12 nurais1127   □ [問卦] 南韓有人不支持這次行動的八卦？
+    291     4/12 nurais1127   R: [新聞] 蔡英文：重大計畫絕對不是隨便做做
+    292   1 4/13 nurais1127   □ [問卦] M5,CP之類的明明也很普的 為什麼會被推崇
+    293   4 4/13 nurais1127   R: [問卦] 徐重仁很會花錢
+    294   9 4/13 nurais1127   □ [問卦] 長頸鹿那麼黃要幹嘛
+    295   7 4/13 nurais1127   R: [問卦] 月薪50K在北部夠不夠用
+    296   4 4/13 nurais1127   R: [新聞] 被唸「只顧著看電視」趁母準備晚餐
+    297   2 4/14 nurais1127   □ [問卦] 若是美軍這次沒處理乾淨怎摸辦
+    298   7 4/14 nurais1127   □ [問卦] 韓國人現在想什麼？
+    299   2 4/14 nurais1127   R: [問卦] 美國全面開戰時候 中國會趁機解放臺灣嗎?
+    300   9 4/14 nurais1127   R: [新聞] 全球第二 加拿大解禁娛樂用大麻
+    301   1 4/14 nurais1127   R: [新聞] 解放軍15萬大軍集結北韓邊境雲陝魯三省
+    302   3 4/14 nurais1127   R: [問卦] 有沒有強制執行如何執行的八卦？
+    303   5 4/15 nurais1127   □ [問卦] 美國人晚上睡覺要怎麼打仗
+    304   6 4/15 nurais1127   R: [問卦] 為什麼有人不承認自己有努力過？
+    305   2 4/15 nurais1127   □ [問卦] 長頸鹿是不是動物園唯一清流？
+    306   2 4/15 nurais1127   R: [問卦]是不是不打了?  等好久喔
+    307   4 4/15 nurais1127   R: [問卦] 有沒有以前的光華商場的八卦？
+
+jeffrey9120
+
+      1   5 5/06 jeffrey9120  □ [問卦] 我們以後素質會不會輸給中國R
+      2   1 5/06 jeffrey9120  □ [問卦] 有沒有要去調查南部特教學校?
+      3   4 5/07 jeffrey9120  □ [問卦] 八卦版是不是默默統治台灣?
+      4   6 5/07 jeffrey9120  □ [問卦] 小魯等等去買RX580能助長AMD股價ㄇ
+      5     5/07 jeffrey9120  R: [新聞] 年輕人應追求興趣非名利 柯：先吃飽比較
+      6     5/08 jeffrey9120  □ [問卦] 限制財產繼承有沒有搞頭?
+      7   6 5/08 jeffrey9120  □ [問卦]哪個國家的選舉 能跟美國一樣受到關注?
+      8     5/08 jeffrey9120  □ [爆卦] 歐美人民支持用台灣名義進入WHA
+      9   5 5/09 jeffrey9120  □ [問卦] 為什麼大學期中考佔成績比例往往不高?
+     10   5 5/09 jeffrey9120  □ [問卦] 亞洲有類似加拿大紐西蘭這種高人緣國家嗎
+     11   7 5/10 jeffrey9120  □ [問卦] 有沒有n年前中國學生開窗跳樓的八卦
+     12   1 5/10 jeffrey9120  R: [問卦] 台灣的新聞真的算自由了嗎?
+     13  13 5/10 jeffrey9120  □ [問卦] 台灣是不是永遠不可能和平建國
+     14   4 5/10 jeffrey9120  R: [問卦] 韓國新總統又在演?
+     15     5/10 jeffrey9120  R: [新聞] 百度6月將全面實行實名制不認證用不了
+     16   9 5/11 jeffrey9120  □ [問卦] 中國政府架構很複雜的八卦?
+     17     5/11 jeffrey9120  R: [新聞] 再出新招！藍委撒麵粉杯葛 前瞻草案宣讀1
+     18   8 5/11 jeffrey9120  □ [問卦] 中國會偷偷把脫北者輾轉送回南韓的八卦
+     19  58 5/11 jeffrey9120  □ [新聞] 驚！全台1.7億筆個資外洩　總統等高官也
+     20   3 5/11 jeffrey9120  R: [新聞] 蔡下令前瞻速過 清理戰場
+     21   2 5/12 jeffrey9120  □ [問卦] 館長根本連班恩都打不贏 強在哪?
+     22   2 5/12 jeffrey9120  R: [新聞] 操控少女心理 網路死亡遊戲《藍鯨》創辦
+     23   4 5/12 jeffrey9120  □ [問卦] 企鵝 熊貓 那個比較難養
+     24  12 5/13 jeffrey9120  □ [問卦] 苗栗是不是真正的鄉下?
+     25     5/13 jeffrey9120  □ [爆卦] 蔡英文剛剛跟我說 總統府明天開放參觀
+
+
+    4.特殊狀況二，若Ａ帳號被水桶，未被查證期間使用Ｂ帳號發文又被水桶
+      此時又用Ｃ帳號發文，<span class="f3 hl">則視同二次累犯身分條例，</span>則適用上述提到第2點，給予全
+      部帳號皆水桶十年。
+
+
+gn7766690 板規十六，水桶10年(3650d)
+
+nurais1127 板規十六，水桶10年(3650d)、發文全數退回(文章皆超過七日無法退文，改以
+
+           換算水桶處理，計13143日)，以上共計水桶16793日(系統水桶上限為20年)
+
+jeffrey9120 板規十六，水桶10年(3650d)、發文全數退回(文章皆超過七日無法退文，改
+
+            以換算水桶處理，計4323日)，以上共計水桶7973日(系統水桶上限為20年)
+
+註:因超過七日而無法退文部分，改以換算水桶處理，第一篇換算水桶3日，第二篇起每篇
+
+   換算水桶180日
+
+--
+<a href="http://i.imgur.com/0f0aWOv.png" target="_blank" rel="nofollow">http://i.imgur.com/0f0aWOv.png</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0f0aWOv"><a href="//imgur.com/0f0aWOv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.35.47.4
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495833230.A.A10.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495833230.A.A10.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Moselle</span><span class="f3 push-content">: 你的盒盒呢 還我盒盒= =</span><span class="push-ipdatetime"> 05/27 05:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JingP</span><span class="f3 push-content">: 好久沒發錢惹 嗚嗚嗚發錢啦</span><span class="push-ipdatetime"> 05/27 05:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: Baka baka</span><span class="push-ipdatetime"> 05/27 05:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: \我還活著/</span><span class="push-ipdatetime"> 05/27 05:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: 好</span><span class="push-ipdatetime"> 05/27 05:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fonghai</span><span class="f3 push-content">: 發錢</span><span class="push-ipdatetime"> 05/27 05:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/27 05:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jingthreept</span><span class="f3 push-content">: 可悲</span><span class="push-ipdatetime"> 05/27 07:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495833230.A.A10.html?cacheKey=2052-2009705&offset=12204&offset-sig=fdd412ffa17523a379b9636a6e28e21d84d89294" data-longpollurl="/v1/longpoll?id=315839a93ae0b95cedf271ce8e9f8908b2b49c9d" data-offset="12204"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

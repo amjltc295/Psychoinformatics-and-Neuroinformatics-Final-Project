@@ -1,0 +1,151 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495940972.A.CA9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 澳洲沒外勞的話，澳洲會不會垮掉？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="打工渡假只是澳洲解決缺乏基層勞工的方法之一
+澳洲早就發現有人口老化現象
+他們先藉由打工來補足基本勞力
+吸引有心留在澳洲的年輕人
+通過語言 專業的認證後(技術移民)
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 澳洲沒外勞的話，澳洲會不會垮掉？">
+<meta property="og:description" content="打工渡假只是澳洲解決缺乏基層勞工的方法之一
+澳洲早就發現有人口老化現象
+他們先藉由打工來補足基本勞力
+吸引有心留在澳洲的年輕人
+通過語言 專業的認證後(技術移民)
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495940972.A.CA9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495940972.A.CA9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cuf1208 (無名)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 澳洲沒外勞的話，澳洲會不會垮掉？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 11:09:29 2017</span></div>
+<span class="f2">※ 引述《samgreco (花壇阿炮)》之銘言：
+</span><span class="f6">: 台灣老闆常說 &#34;台灣沒外勞的話，台灣會垮掉&#34;
+</span><span class="f6">: 那澳洲呢？
+</span><span class="f6">: 雖然澳洲年輕人認為外勞搶走了他們的工作，拉低了他們的薪資水平
+</span><span class="f6">: 導致一些澳洲年輕人看到外國人就說 &#34;回你們的國家去&#34;
+</span><span class="f6">: 但是
+</span><span class="f6">: 澳洲沒外勞的話，澳洲不會垮掉嗎？
+</span>
+打工渡假只是澳洲解決缺乏基層勞工的方法之一
+澳洲早就發現有人口老化現象
+他們先藉由打工來補足基本勞力
+吸引有心留在澳洲的年輕人
+通過語言 專業的認證後(技術移民)
+可取得澳洲公民或是居留權
+
+反觀台灣再過十年 有四分之一人口在60歲以上了
+還沒有真正可以應對的政策
+慘
+
+-----
+Sent from JPTT on my Samsung SM-G610Y.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.218.112.250
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495940972.A.CA9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495940972.A.CA9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anti87</span><span class="f3 push-content">: 你知道澳洲國土是台灣幾倍，人口是台灣的幾分之幾嗎？</span><span class="push-ipdatetime"> 05/28 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anti87</span><span class="f3 push-content">: 人家人口密度超低，台灣是超高</span><span class="push-ipdatetime"> 05/28 11:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nazion95</span><span class="f3 push-content">: 所以一堆老人擠一起就不用擔心了</span><span class="push-ipdatetime"> 05/28 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cesuya</span><span class="f3 push-content">: 有應對阿,砍7天假,年輕人多加班養老人</span><span class="push-ipdatetime"> 05/28 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gca00631</span><span class="f3 push-content">: 因為台灣想引進外來人力就會被罵啊</span><span class="push-ipdatetime"> 05/28 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lst77</span><span class="f3 push-content">: 台灣喔 想解決年金問題就一堆老人反對抗議了</span><span class="push-ipdatetime"> 05/28 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lst77</span><span class="f3 push-content">: 政府裝做不知道反而不會惹事 反正輪到下個政權就別人的事了</span><span class="push-ipdatetime"> 05/28 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 台灣就是打算開放給工作滿九年的外勞申請身分呀</span><span class="push-ipdatetime"> 05/28 11:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 不用幾年外勞就達百萬了，百萬外勞台灣人不難</span><span class="push-ipdatetime"> 05/28 11:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 再透過依親一個拉一個</span><span class="push-ipdatetime"> 05/28 11:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxxg00w0</span><span class="f3 push-content">: 怎麼會沒有應對政策？以拖待變啊 屎缺留給續任 先搶位子</span><span class="push-ipdatetime"> 05/28 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxxg00w0</span><span class="f3 push-content">: 上臺撈飽了塊陶就好 到時候爛掉早移民換護照 換個地方</span><span class="push-ipdatetime"> 05/28 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxxg00w0</span><span class="f3 push-content">: 講幹話</span><span class="push-ipdatetime"> 05/28 11:29
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495940972.A.CA9.html?cacheKey=2052-461370&offset=2127&offset-sig=de87ce2a1fe523cdc4b2cd6fb4ee562fe3d0a786" data-longpollurl="/v1/longpoll?id=4e64a2374e3a4f78f9bbdf5cec7e880450bafeab" data-offset="2127"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

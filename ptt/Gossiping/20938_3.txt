@@ -1,0 +1,179 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495556444.A.0DF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 想拿街頭藝人執照？2分鐘定生死 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:東森今天
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:想拿街頭藝人執照？2分鐘定生死　表演者：表演器材最重要
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 想拿街頭藝人執照？2分鐘定生死">
+<meta property="og:description" content="1.媒體來源:東森今天
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:想拿街頭藝人執照？2分鐘定生死　表演者：表演器材最重要
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495556444.A.0DF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495556444.A.0DF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">CartoonBird (卡通鳥)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 想拿街頭藝人執照？2分鐘定生死</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 00:20:41 2017</span></div>
+1.媒體來源:東森今天
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+
+2.完整新聞標題:想拿街頭藝人執照？2分鐘定生死　表演者：表演器材最重要
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+
+3.完整新聞內文:
+記者陳家祥／台北報導
+
+近來台北市政府文化局被踢爆，街頭藝人執照考試的評審態度狂妄，
+對表演者態度不佳、沒有耐心，引發各界討論。
+文化局的街頭藝人執照考試一年舉辦一次，至少吸引3、400人報名參加；
+由於此評選需繳報名費，因此參加者多想一次成功。
+
+通過考試的蕭先生表示，要取得執照有幾個重點，
+但他認為最重要的並不是演出水準，而是器材的完整度一定要通過一個門檻。
+針對考試流程，通過考試的蕭先生表示，考試過程評審像走馬看花也不無道理，
+街頭藝人表演的地方如信義商圈徒步區、西門等，觀眾目光停留時間短，
+都想要快速得到刺激，「評審們為自己設定的價值觀，就是要服務這樣的路人，
+快速吸引人為主。」
+
+對於近來吵得相當熱絡的街頭藝人考照評審不尊重考生事件，蕭先生認為，
+應該要回到街頭表演的本質，街頭藝人的存在對於路人是不是應該有「教育」的功能？
+ 「如果考試只是為了確保藝人具有『服務』的能力，
+目前這樣的評選方式沒有太大問題。」蕭先生直言，這個街頭藝人的評選，
+「不太適合用藝術的眼光來看。」
+
+至於考試的重點是那些？蕭先生認為，最重要的是「器材的完整度」
+一定要通過一個門檻，接著才是「演出水準」、「特色」、「親和力」、
+「互動方式正向健康」和表演不要太差，「過去的表演經驗有幫助，但不是關鍵。」
+他舉例，他考試當天隔壁是一群老外嬉皮，拿了很多特別的樂器，
+「一般來說一堆異國臉孔和少見的樂器應該是蠻引人注目的吧！
+但他們的器材不夠齊全，在考試會場很容易被『蓋台』，後來也就沒通過。」
+蕭先生強調，雖然評選的主要方針是要能快速吸睛，
+但評審在會場還是有一些硬體的客觀要求。
+
+
+4.完整新聞連結 (或短網址):<a href="http://www.ettoday.net/news/20170523/930433.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170523/930433.htm</a>
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+
+5.備註:只有我覺得考完之後能因此賺多少錢才重要嗎？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.44.200
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495556444.A.0DF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495556444.A.0DF.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 街頭元年</span><span class="push-ipdatetime"> 05/24 00:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Atwo</span><span class="f3 push-content">: 考上之後 收入多少?</span><span class="push-ipdatetime"> 05/24 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">linchw</span><span class="f3 push-content">: 街頭藝人也要補習班了嗎</span><span class="push-ipdatetime"> 05/24 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 上次聽到某個街頭藝人說：現在藝人執照比律師還難考!!</span><span class="push-ipdatetime"> 05/24 00:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 五樓街頭賣肛門</span><span class="push-ipdatetime"> 05/24 00:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 器材是關鍵的話一定有人會花錢去租XD</span><span class="push-ipdatetime"> 05/24 00:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 那怎不去考律師?</span><span class="push-ipdatetime"> 05/24 00:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kid725</span><span class="f3 push-content">: 這篇新聞擺明了要護航爛評審</span><span class="push-ipdatetime"> 05/24 00:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kid725</span><span class="f3 push-content">: 評審來頭到底多大?</span><span class="push-ipdatetime"> 05/24 00:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qrtzz</span><span class="f3 push-content">: 你錯了,這篇應該是廣告不是新聞。</span><span class="push-ipdatetime"> 05/24 00:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CartoonBird</span><span class="f3 push-content">: 樓上，怎麼說？招考廣告XDDD?</span><span class="push-ipdatetime"> 05/24 00:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 台北市算不錯賺，如果運氣好的話，所以很多外縣市會跑台北</span><span class="push-ipdatetime"> 05/24 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 市考，新北市會順便，因為淡水是新北市轄區</span><span class="push-ipdatetime"> 05/24 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Orcakaka</span><span class="f3 push-content">: 這個職稱真的很...</span><span class="push-ipdatetime"> 05/24 00:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">poppyvampire</span><span class="f3 push-content">: 都街頭了，要求硬體有病嗎?搬一台管風琴穩過的概念?</span><span class="push-ipdatetime"> 05/24 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qrtzz</span><span class="f3 push-content">: 現在的新聞版面都可以用買的，所以看到新聞第一件事是要判</span><span class="push-ipdatetime"> 05/24 01:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qrtzz</span><span class="f3 push-content">: 斷這是廣告還是新聞。</span><span class="push-ipdatetime"> 05/24 01:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zenk0113</span><span class="f3 push-content">: 虧我們還有民主自由 卻連給人機會的尊重都做不到</span><span class="push-ipdatetime"> 05/24 08:51
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495556444.A.0DF.html?cacheKey=2052-39199028&offset=3800&offset-sig=f53604c2cd3e2b518b942146f971f072d7994964" data-longpollurl="/v1/longpoll?id=921378751cb254e7f36748058e3962dd11aae58b" data-offset="3800"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

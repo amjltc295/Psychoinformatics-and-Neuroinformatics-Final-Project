@@ -1,0 +1,198 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495263215.A.712.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 【苦勞網】蔡執政週年 兩岸關係急凍 陸 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+【苦勞網】蔡執政週年 兩岸關係急凍 陸客不來 陸生權益也遭殃
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 【苦勞網】蔡執政週年 兩岸關係急凍 陸">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+【苦勞網】蔡執政週年 兩岸關係急凍 陸客不來 陸生權益也遭殃
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495263215.A.712.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495263215.A.712.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cabama (skyblue)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 【苦勞網】蔡執政週年 兩岸關係急凍 陸</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 14:53:31 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+
+2.完整新聞標題:
+【苦勞網】蔡執政週年 兩岸關係急凍 陸客不來 陸生權益也遭殃
+
+3.完整新聞內文:
+苦勞網記者張智琦、張宗坤／綜合報導】蔡英文執政滿週年，各民間團體紛紛針對蔡政府
+的施政進行「總體檢」，在勞動政策、青年政策、長照政策、年金改革等方面皆被評低分
+，而在兩岸關係方面，蔡政府則因不承認「九二共識」及持續推動「去中國化」，使兩岸
+關係陷入急凍，不僅陸客人數銳減，衝擊觀光產業，民進黨也因調漲陸生在內的境外生的
+健保費、研擬「保防法」和「反滲透法」等政策引發反彈。
+蔡英文選前提出的兩岸政策，聲稱要「維持兩岸現狀」，回歸1992年兩岸會談基本事實「
+求同存異」，但一年來兩岸關係的發展卻不斷惡化，觀光產業、陸生權益首當其衝。
+陸客遽降 導遊、遊覽車生意皆受衝擊
+據內政部移民署統計資料，今年（2017）1至4月，陸客來台旅遊總人數為61萬524人，較
+去年同期下降50.2%；觀光局最新統計資料也顯示，今年1至3月來台觀光旅客負成長近14%
+，減少28萬多人，其中以陸客衰退近42%最多。
+中華民國遊覽車客運商業同業公會全聯會理事長魯孝亞表示，蔡英文上任後，專做陸團的
+遊覽車受到的衝擊「非常嚴重」，因為生意慘淡，剩不到兩成在跑，約4千多輛專做陸團
+的遊覽車轉去做國民旅遊和國外觀光客的生意，但原本國民旅遊市場就有9千多台遊覽車
+在跑，因車輛過剩只能削價競爭，市場擠壓下導致很多業者倒閉、欠債。
+魯孝亞直言，觀光產業陷入困境，蔡政府的兩岸政策「不及格」要負很大責任，雖然蔡政
+府說要發展新南向政策，但新南向市場無法消化大量陸團遊覽車沒生意的問題。魯孝亞認
+為，兩岸已是共同經濟體，為了台灣經濟，兩岸勢必要有正常的交流，而不是把大陸市場
+排除在外，但現在政府和對岸協商機制停擺，「當然看不到希望」。
+中華民國觀光導遊協會理事長伍永益也表示，陸客人數負成長，對導遊業來說衝擊最大的
+是約2萬9千名華語導遊，佔台灣導遊總人數77%。他表示，政府因應新南向政策，雖提供
+外語訓練協助轉型，但轉型並非這麼容易，原本有300多家旅行社專營大陸旅客，政府想
+讓它們改做國民旅遊，聘用華語導遊，但原本就存在專營國民旅遊的旅行社，因此客源也
+成問題，「這些旅行社沒接到團，華語導遊也沒得工作，兩者都受影響。」
+伍永益指出，東南亞旅客和外國旅客人數近期有微幅成長，但是否有益於觀光產業和總體
+經濟不能只看表面人數，觀光外匯收入靠的是旅客購物能力，而外國觀光客的購買力一向
+不如陸客。他強調，兩岸人民觀光交流的榮景，是花了長時間經營才達到的結果，期盼政
+府用各種管道去溝通，「把心結打開，這對台灣是有利的。」
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://is.gd/Yp09E0" target="_blank" rel="nofollow">https://is.gd/Yp09E0</a>
+
+5.備註:
+
+   幹麻只經營對陸客？沒人告訴你雞裡放同一個籃子會怎樣嘛？這不是千年不變的道理..
+
+   觀光業: 一切都是 不承認 九二共識 的錯啦！
+
+   馬小九: 我有見你們習大大啊！怎麼沒有承認？
+
+   蔡英文: 我只是沒提 九二共識啊！ 這樣也怪我哦！
+
+   鄉民 5 樓表示:
+
+--
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 112.104.67.226
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495263215.A.712.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495263215.A.712.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 台灣又沒禁止陸客來台 去找習包子算帳</span><span class="push-ipdatetime"> 05/20 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Gallardo</span><span class="f3 push-content">: 蔡英文執政股市立馬破萬點 今年賺好幾棟房子 還管陸客?</span><span class="push-ipdatetime"> 05/20 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scion456scio</span><span class="f3 push-content">: 最好別來   爽</span><span class="push-ipdatetime"> 05/20 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 紅左網才是真的</span><span class="push-ipdatetime"> 05/20 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 台灣又沒中國生限制令   去跟習大便抗議</span><span class="push-ipdatetime"> 05/20 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jpswd</span><span class="f3 push-content">: 苦勞網打這個議題...是白癡嗎?</span><span class="push-ipdatetime"> 05/20 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 我只想到 這關苦勞網甚麼事啊? 有些短線生意本來就別做比較</span><span class="push-ipdatetime"> 05/20 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 好 難道我們要為了敲竹槓陸客那種店去跪求中國?</span><span class="push-ipdatetime"> 05/20 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 幹你媽的 扯支那賤種幹麻</span><span class="push-ipdatetime"> 05/20 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 一般正當生意 就算沒有陸客 也不愁沒人消費</span><span class="push-ipdatetime"> 05/20 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JT0624</span><span class="f3 push-content">: 苦勞網好像偏左統</span><span class="push-ipdatetime"> 05/20 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sjlee1127</span><span class="f3 push-content">: ………………</span><span class="push-ipdatetime"> 05/20 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 苦勞本來就是左統, 裡面有記者就是民陣</span><span class="push-ipdatetime"> 05/20 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Tigerman001</span><span class="f3 push-content">: 就是天生反對黨 不反哪來的舞台</span><span class="push-ipdatetime"> 05/20 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zoonead</span><span class="f3 push-content">: 看得苦勞網就笑了</span><span class="push-ipdatetime"> 05/20 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 余澤霖你怎麼看？</span><span class="push-ipdatetime"> 05/20 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">takase</span><span class="f3 push-content">: 中宣部還是國台辦的業配？</span><span class="push-ipdatetime"> 05/20 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 不爽不要來</span><span class="push-ipdatetime"> 05/20 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 9.2</span><span class="push-ipdatetime"> 05/20 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 這個一下字就變9.2統媒了哈哈哈 哪馬執政呢</span><span class="push-ipdatetime"> 05/20 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lwrwang</span><span class="f3 push-content">: 苦勞網科科</span><span class="push-ipdatetime"> 05/20 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 苦勞網在去年不是被當成綠媒嗎？</span><span class="push-ipdatetime"> 05/20 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 開心 苦勞網呵呵</span><span class="push-ipdatetime"> 05/20 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">songyy2003</span><span class="f3 push-content">: 誰啊？</span><span class="push-ipdatetime"> 05/20 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 苦勞網打錯議題了吧？</span><span class="push-ipdatetime"> 05/20 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 這不就是綠的期盼的嗎？ 跟中國斷絕往來</span><span class="push-ipdatetime"> 05/20 18:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Silverdawn</span><span class="f3 push-content">: 左統網</span><span class="push-ipdatetime"> 05/20 19:08
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495263215.A.712.html?cacheKey=2052-37402212&offset=5454&offset-sig=5a05136e8ead5d584663345ce4dead3d68b92efa" data-longpollurl="/v1/longpoll?id=73844ee591d63f23a59ac273f8044ab818da62ad" data-offset="5454"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

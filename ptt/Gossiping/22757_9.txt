@@ -1,0 +1,262 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496755144.A.F17.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 中國虛擬軌道列車影片曝光 外國網友：不 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="中國虛擬軌道列車影片曝光 外國網友：不就公車？
+〔即時新聞／綜合報導〕中國開發的虛擬軌道列車（智軌）近日曝光，號稱透過全球首創
+的虛擬軌道跟隨技術，不必建造軌道也能如軌道列車一般運行。不過有英文粉絲專頁今天
+貼出相關影片，卻讓許多外國網友摸不著頭緒，紛紛詢問「這不就是公車嗎？」
+臉書粉絲專頁「Tech Insider」今天PO出中國智軌列車的影片，片中綠色的智軌電車看似
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 中國虛擬軌道列車影片曝光 外國網友：不">
+<meta property="og:description" content="中國虛擬軌道列車影片曝光 外國網友：不就公車？
+〔即時新聞／綜合報導〕中國開發的虛擬軌道列車（智軌）近日曝光，號稱透過全球首創
+的虛擬軌道跟隨技術，不必建造軌道也能如軌道列車一般運行。不過有英文粉絲專頁今天
+貼出相關影片，卻讓許多外國網友摸不著頭緒，紛紛詢問「這不就是公車嗎？」
+臉書粉絲專頁「Tech Insider」今天PO出中國智軌列車的影片，片中綠色的智軌電車看似
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496755144.A.F17.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496755144.A.F17.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">jwph (胖達)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 中國虛擬軌道列車影片曝光 外國網友：不</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 21:19:01 2017</span></div>
+中國虛擬軌道列車影片曝光 外國網友：不就公車？
+
+〔即時新聞／綜合報導〕中國開發的虛擬軌道列車（智軌）近日曝光，號稱透過全球首創
+的虛擬軌道跟隨技術，不必建造軌道也能如軌道列車一般運行。不過有英文粉絲專頁今天
+貼出相關影片，卻讓許多外國網友摸不著頭緒，紛紛詢問「這不就是公車嗎？」
+
+臉書粉絲專頁「Tech Insider」今天PO出中國智軌列車的影片，片中綠色的智軌電車看似
+與一般輕軌沒有不同，細看卻發現沒有軌道，列車沿著測試道路上的白線行走，另有一名
+駕駛持方向盤坐在列車前端。影片PO出引起網友熱烈迴響，短時間內分享就破萬。
+
+但也有不少外國網友質疑，「所以是跟著白線走的公車嗎？」、「一台列車在虛擬軌道上
+跑，然後需要一名駕駛...等等，不是現在就有這個東西了嗎，叫作『公車』！」不過也
+有其他網友提醒，列車運量比公車大，智軌列車還能省下建設軌道的費用。
+
+根據中國中車株洲所介紹，智軌列車上裝載傳感器，可識別路面虛擬軌道線路，將訊息傳
+送至列車的中央控制單元，因此列車可行駛在既定的虛擬軌跡上。相較於一般的有軌電車
+，智軌最高時速同樣為70公里，但因為不必鋪設軌道，一條路線的建設期僅約一年。另外
+，智軌列車最高可載客500人，解決普通公車載客量小的缺陷，提高運能。
+
+自由 <a href="http://news.ltn.com.tw/news/world/breakingnews/2091403" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/world/breakingnews/2091403</a>
+
+--
+
+<span class="f0 b7"> 我在零號出口，等你 </span>│<a href="https://www.facebook.com/ExitNo0" target="_blank" rel="nofollow">https://www.facebook.com/ExitNo0</a>
+                    │<a href="https://www.instagram.com/ExitNo0" target="_blank" rel="nofollow">https://www.instagram.com/ExitNo0</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.192.63.151
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496755144.A.F17.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496755144.A.F17.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sheng76314</span><span class="f3 push-content">: 這是中國式的智能列車</span><span class="push-ipdatetime"> 06/06 21:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 會不會又是吸金詐騙阿</span><span class="push-ipdatetime"> 06/06 21:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 莫忘上次那個兩層樓公車</span><span class="push-ipdatetime"> 06/06 21:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrakis</span><span class="f3 push-content">: 靠杯不就BRT......</span><span class="push-ipdatetime"> 06/06 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toya123</span><span class="f3 push-content">: 87 就公車阿</span><span class="push-ipdatetime"> 06/06 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrakis</span><span class="f3 push-content">: 不過以中國城市地區駕駛人觀念之糟糕與車流量之大，搞這</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tbaby</span><span class="f3 push-content">: 上次那個&#34;創新&#34;公車還有後續嗎</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrakis</span><span class="f3 push-content">: 個非常不切實際...</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 台灣的BRT吧，只是不用司機。</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 我想你不懂虛擬的價值</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EAFV</span><span class="f3 push-content">: 試問:加大的公車是否不算公車</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TllDA</span><span class="f3 push-content">: 給低能的人看  載很多人的車就叫公車!</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nildog</span><span class="f3 push-content">: 上次那個吸了金，人就跑了...</span><span class="push-ipdatetime"> 06/06 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tony121010</span><span class="f3 push-content">: 我的疑問是怎麼不用GPS無人車技術？視覺辨識無人車</span><span class="push-ipdatetime"> 06/06 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony121010</span><span class="f3 push-content">: 技術也都有啊</span><span class="push-ipdatetime"> 06/06 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">:  搞不懂是要虛擬軌道啥  阿人家開車插你車道  還虛擬個屁</span><span class="push-ipdatetime"> 06/06 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rofellosx</span><span class="f3 push-content">: 影片中明明就有司機在開.</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 沒有專用道 比BRT還要廢</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">patmac01</span><span class="f3 push-content">: 如果不要講的那麼屌其實看起來還可以</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 我一看就知道這不是普通的公車 是走在白線上的公車</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony121010</span><span class="f3 push-content">: 台灣不是都引進無人小巴士了</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 增加安全性啊，軌道內是駕駛的錯，軌道外撞到是公車的錯</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momocom</span><span class="f3 push-content">: 就brt啊</span><span class="push-ipdatetime"> 06/06 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony121010</span><span class="f3 push-content">: 如果是在專用道路行駛，GPS定位就好了</span><span class="push-ipdatetime"> 06/06 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony121010</span><span class="f3 push-content">: 如果是在一般道路行駛，無人巴士比較好吧</span><span class="push-ipdatetime"> 06/06 21:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tentaikanso</span><span class="f3 push-content">: 巴鐵懷示：</span><span class="push-ipdatetime"> 06/06 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tentaikanso</span><span class="f3 push-content">: 巴鐵表示：</span><span class="push-ipdatetime"> 06/06 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony121010</span><span class="f3 push-content">: 所以這列車的定位到底是要幹嘛？</span><span class="push-ipdatetime"> 06/06 21:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 虛擬軌道XDDDDDDDDD</span><span class="push-ipdatetime"> 06/06 21:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toya123</span><span class="f3 push-content">: 脫褲子放屁的設計</span><span class="push-ipdatetime"> 06/06 21:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggttoo</span><span class="f3 push-content">: BRT????????????</span><span class="push-ipdatetime"> 06/06 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kenqr</span><span class="f3 push-content">: 重新定義公車</span><span class="push-ipdatetime"> 06/06 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rofellosx</span><span class="f3 push-content">: 這公車唯一有價值的就是可以掛車廂變長或變短..</span><span class="push-ipdatetime"> 06/06 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kenqr</span><span class="f3 push-content">: 之前的兩層樓公車 9.2跟五毛捧得跟什麼一樣 現在都不敢提了</span><span class="push-ipdatetime"> 06/06 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 以中國人開車的水準 大概再20年才可能上路吧</span><span class="push-ipdatetime"> 06/06 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 就地上貼定位線 再加幾個感應器 很多工廠都有這種運貨機了</span><span class="push-ipdatetime"> 06/06 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 這超像kmt會做的事</span><span class="push-ipdatetime"> 06/06 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tom77588</span><span class="f3 push-content">: 你不懂啦，中國領先世界30年</span><span class="push-ipdatetime"> 06/06 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiuyeah</span><span class="f3 push-content">: 笑死</span><span class="push-ipdatetime"> 06/06 21:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howard1110</span><span class="f3 push-content">: BRT...當初也是用中國柴油公車 該不會同一間吧</span><span class="push-ipdatetime"> 06/06 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keane9112</span><span class="f3 push-content">: 台中Brt 也是支那車啊</span><span class="push-ipdatetime"> 06/06 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 不用GPS是因為比較貴又是高空定位，沒有比較精准</span><span class="push-ipdatetime"> 06/06 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 先等自動駕駛能安全上路再弄比較好</span><span class="push-ipdatetime"> 06/06 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keane9112</span><span class="f3 push-content">: 連結車就連結車 阿不是 是連結公車才對</span><span class="push-ipdatetime"> 06/06 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hung9465</span><span class="f3 push-content">: 多一條白線就貴十倍，你們不懂這個價值</span><span class="push-ipdatetime"> 06/06 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: BRT</span><span class="push-ipdatetime"> 06/06 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 地面定位不用怕建築物訊號阻隔之類，而且基本平貼就沒有歪</span><span class="push-ipdatetime"> 06/06 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 掉的可能</span><span class="push-ipdatetime"> 06/06 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 初期應該還是有人操作，只是走的路線是地面導引</span><span class="push-ipdatetime"> 06/06 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay3u7218</span><span class="f3 push-content">: 9.2會暴怒喔</span><span class="push-ipdatetime"> 06/06 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 算是無人車發展的一種方式</span><span class="push-ipdatetime"> 06/06 21:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">inshadow</span><span class="f3 push-content">: 台中BRT表示:</span><span class="push-ipdatetime"> 06/06 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 也就一個胡志強趕鴨子上架搞臭而已，舊式公車本來就要升級</span><span class="push-ipdatetime"> 06/06 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzzg</span><span class="f3 push-content">: 開到一半會散掉嗎?</span><span class="push-ipdatetime"> 06/06 21:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 媽呀 我要笑破肚皮了 永遠不會出軌</span><span class="push-ipdatetime"> 06/06 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frankc</span><span class="f3 push-content">: 公車車身沒有連在一起還比較靈活</span><span class="push-ipdatetime"> 06/06 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">okornok</span><span class="f3 push-content">: 支那不意外</span><span class="push-ipdatetime"> 06/06 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 取這名稱真的蠻蠢的 類似的事情國際大廠早有在做</span><span class="push-ipdatetime"> 06/06 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 但不會取這麼蠢的名稱</span><span class="push-ipdatetime"> 06/06 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 貪食蛇上路啦</span><span class="push-ipdatetime"> 06/06 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 看車頭長的也像蝗蟲 不愧是</span><span class="push-ipdatetime"> 06/06 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ghost008</span><span class="f3 push-content">: 幹 BRT呀 台灣早就驗證過了 何況中國刁民這麼多哪有用</span><span class="push-ipdatetime"> 06/06 21:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killerken</span><span class="f3 push-content">: 虛擬軌道算啥 中國還有虛擬民主和虛擬自由</span><span class="push-ipdatetime"> 06/06 21:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goenitzx</span><span class="f3 push-content">: 話說上次那巴鐵呢</span><span class="push-ipdatetime"> 06/06 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 這個就跟上次那個用太陽能可載1000人的巴鐵一樣 唬爛</span><span class="push-ipdatetime"> 06/06 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CCWck</span><span class="f3 push-content">: 沒有A型或B型路權的軌道也沒意義啊</span><span class="push-ipdatetime"> 06/06 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nowitzki0207</span><span class="f3 push-content">: 臺灣發展也是一堆阻礙，用路人問題素質太差也不想</span><span class="push-ipdatetime"> 06/06 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mimikillua</span><span class="f3 push-content">: 公車遇到三寶會閃 這台只能直接輾過去喔 ^ &lt;</span><span class="push-ipdatetime"> 06/06 22:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robotcl</span><span class="f3 push-content">: 87</span><span class="push-ipdatetime"> 06/06 22:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 就是擁有絕對路權的公車吧？</span><span class="push-ipdatetime"> 06/06 22:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nomimono</span><span class="f3 push-content">: 排骨酥湯公車版</span><span class="push-ipdatetime"> 06/06 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 要配合自動駕駛 號誌即時運算 才夠潮</span><span class="push-ipdatetime"> 06/06 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 跟巴鐵一樣用來唬爛的啊</span><span class="push-ipdatetime"> 06/06 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 長鏈可以專走國道(下國道轉運換自駕小巴)或環型線</span><span class="push-ipdatetime"> 06/06 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">arsian</span><span class="f3 push-content">: 這次要騙多少錢</span><span class="push-ipdatetime"> 06/06 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 定位路面技術有它的優點就是路線平穩像軌道一樣</span><span class="push-ipdatetime"> 06/06 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 人開的不可能每次轉彎角度 路間距每次都一樣</span><span class="push-ipdatetime"> 06/06 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: 不是公車，是公交車</span><span class="push-ipdatetime"> 06/06 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 不過鬼島道路品質</span><span class="push-ipdatetime"> 06/06 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmaa</span><span class="f3 push-content">: 我台中人，看了就想到有人用這個害我們還沒有捷運</span><span class="push-ipdatetime"> 06/06 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackerxx</span><span class="f3 push-content">: 文章通篇看到__能</span><span class="push-ipdatetime"> 06/06 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">horseorange</span><span class="f3 push-content">: XDDD</span><span class="push-ipdatetime"> 06/06 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gigo0419</span><span class="f3 push-content">: 我虛擬軌道都不用軌道 改用一個司機在車上開</span><span class="push-ipdatetime"> 06/06 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Gigo0419</span><span class="f3 push-content">: 開起來又順又快</span><span class="push-ipdatetime"> 06/06 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Spurious</span><span class="f3 push-content">: 有創意</span><span class="push-ipdatetime"> 06/06 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guogu</span><span class="f3 push-content">: 原來是火車阿，我還以為是BRT呢</span><span class="push-ipdatetime"> 06/06 22:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 這是株洲機車廠出品的  中國設計和制造列車最強的單位</span><span class="push-ipdatetime"> 06/06 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 這個車和普通的公交車的最大差異是有多節  不想公車最多也就</span><span class="push-ipdatetime"> 06/06 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 2節  如果超過3節的話車就很難控制了   這個難點就在跟蹤</span><span class="push-ipdatetime"> 06/06 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 就是后面的車廂要嚴格跟蹤這前面的車廂</span><span class="push-ipdatetime"> 06/06 22:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 學台中 沒創意 BRT敢嘴??</span><span class="push-ipdatetime"> 06/06 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wulaw5566</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 06/06 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aesti</span><span class="f3 push-content">: 啊不就加長的公車？</span><span class="push-ipdatetime"> 06/06 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">o030291469</span><span class="f3 push-content">: 鄉民只會為酸而酸,我看完這新聞只覺得中國現在是個能</span><span class="push-ipdatetime"> 06/06 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">o030291469</span><span class="f3 push-content">: 實現夢想的地方,願意用開放的心態嘗試各種新技術</span><span class="push-ipdatetime"> 06/06 23:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">youjan</span><span class="f3 push-content">: 用半成品騙錢實現致富的夢想吧XD</span><span class="push-ipdatetime"> 06/06 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nolimits</span><span class="f3 push-content">: BRT表示</span><span class="push-ipdatetime"> 06/06 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blackpine</span><span class="f3 push-content">: BRT表示:</span><span class="push-ipdatetime"> 06/07 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g76857</span><span class="f3 push-content">: 國外原本就有多節的公車了....並不是什麼新創舉阿</span><span class="push-ipdatetime"> 06/07 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sazdj</span><span class="f3 push-content">: 味增湯不加味增</span><span class="push-ipdatetime"> 06/07 00:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 滯台中國人別吹了</span><span class="push-ipdatetime"> 06/07 00:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jialin6666</span><span class="f3 push-content">: 明明就是公車</span><span class="push-ipdatetime"> 06/07 00:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ce270651</span><span class="f3 push-content">: 這可是具中國社會主義特色的虛擬軌道列車</span><span class="push-ipdatetime"> 06/07 00:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yannicklatte</span><span class="f3 push-content">: 啊不就BRT...</span><span class="push-ipdatetime"> 06/07 00:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">huamin</span><span class="f3 push-content">: 這不是BRT也不是公車啦。一堆人沒看懂「虛擬」的意思喔</span><span class="push-ipdatetime"> 06/07 00:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 阿就多節公車 丟人現眼</span><span class="push-ipdatetime"> 06/07 00:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h73o1012</span><span class="f3 push-content">: 北七 公車路線要蓋一年</span><span class="push-ipdatetime"> 06/07 00:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Becuzlove</span><span class="f3 push-content">: 看不見的軌道=虛擬軌道? 懂了 好先進呀XD</span><span class="push-ipdatetime"> 06/07 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rial</span><span class="f3 push-content">: 笑死，有司機，還有方向盤咧，那還需要「噓你」軌道？？？</span><span class="push-ipdatetime"> 06/07 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silent328kn</span><span class="f3 push-content">: 就 公車啊</span><span class="push-ipdatetime"> 06/07 01:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beefsoup</span><span class="f3 push-content">: 原來還配備一個司機啊！幹 這我知道，跟公車有87%相像</span><span class="push-ipdatetime"> 06/07 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beefsoup</span><span class="f3 push-content">: 喔 推文釣出不少舔共的支那走狗在護航啊！</span><span class="push-ipdatetime"> 06/07 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beefsoup</span><span class="f3 push-content">: 嗯 除了支那走狗以外，還有支那賤畜在護航咧！</span><span class="push-ipdatetime"> 06/07 02:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flyady</span><span class="f3 push-content">: 跟BRT有87%像</span><span class="push-ipdatetime"> 06/07 03:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 嗯…看過影片我也不得不認同公車的回應…</span><span class="push-ipdatetime"> 06/07 06:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cococooo</span><span class="f3 push-content">: 只要保證不會爆炸就好中國人就能接受</span><span class="push-ipdatetime"> 06/07 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TarikBlack</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 06/07 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">end81235</span><span class="f3 push-content">: 那個又不是連起來的，鄉民真的是為酸而酸</span><span class="push-ipdatetime"> 06/07 09:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wndy36</span><span class="f3 push-content">: 為什麼車直直的開結果方向盤是歪的???</span><span class="push-ipdatetime"> 06/07 09:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chigi</span><span class="f3 push-content">: 廢到笑</span><span class="push-ipdatetime"> 06/07 10:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496755144.A.F17.html?cacheKey=2052-7893044&offset=13712&offset-sig=181ff90d88138ddf3412aa6f3bb7562037eff7e9" data-longpollurl="/v1/longpoll?id=1fb1e0556061ce037c0e3e2fdc84209c2ddc6a70" data-offset="13712"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

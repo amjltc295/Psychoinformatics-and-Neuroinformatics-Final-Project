@@ -1,0 +1,166 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496319053.A.65E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 警察偽裝酒客要求脫衣拔毛 法官認為教唆 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+udn聯合新聞網
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 警察偽裝酒客要求脫衣拔毛 法官認為教唆">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+udn聯合新聞網
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496319053.A.65E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496319053.A.65E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">YouKnowMe (YouKnowMe)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 警察偽裝酒客要求脫衣拔毛 法官認為教唆</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 20:10:49 2017</span></div>
+
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+udn聯合新聞網
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+警察偽裝酒客要求脫衣拔毛 法官認為教唆犯罪判無罪
+
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+彰化縣數名警察佯裝成顧客到一家養生館喝酒，以每個小姐100分鐘1200元、包廂費1200元、小費酒錢另計的消費方式，要求5名越南籍女子脫衣陪酒、熱舞、讓客人撫摸胸部、拔陰毛等猥褻行為，再以側錄畫面將這些陪酒小姐與養生館負責人以妨害風化罪起訴，彰化地方法院法官從蒐證影帶中認定，員警當時是以小費或賭博改運等理由引誘，有「陷害教唆」犯罪之嫌，因此判定不具證據能力，判處包括養生館負責人等6人無罪。
+
+判決指出，被告6人都堅決否認犯罪，他們不是主動脫衣陪酒，都是客人以金錢及改運等理由誘惑要求，她們才會脫衣拔毛，且包廂有2個可以上鎖的門，並不構成「公然」要件。
+
+法官也認為，這些小姐進入包廂時都衣著完整，開始唱歌、喝酒，並沒有任何猥褻行為，也沒有主動表達以脫衣、拔陰毛為條件要求給予小費等話語，是客人要求「我們包廂內，不能穿胸罩」，喝令小姐們脫衣，並表示「脫光給500」、「拔毛300」，才會有後續猥褻行為。
+
+法官認定，以引誘或教唆犯罪之不正當手段，使原本無犯罪故意之人，因而萌生犯意並實施犯罪行為，再進而蒐集其犯罪之證據加以逮捕偵辦，其手段難謂正當，且已逾越偵查犯罪的必要程度，顯然違反憲法對於基本人權之保障，對於公共利益之維護並無意義，因此認為警方取得的證據資料不具證據能力。
+
+彰化地方法院庭長王義閔表示，警方蒐證光碟是整起案件起訴關鍵，但警方以金錢等手段誘發被告犯罪，蒐證手段不正當，證據自然不被法官採信。彰化地檢署襄閱主任檢察官林漢強則表示，檢察官會等收到判決書後再決定是否上訴。
+
+但法界人士則認為，該類型店家都是以小費多寡決定「服務內容」，且從判決書中看來，在員警尚未要求之前，小姐進入包廂之後就已主動磨蹭男客，可見平常就有「特殊服務」，且影片中也有小姐與客人討價還價，要求較高的小費才能脫衣拔毛，如此法官要認定小姐以前沒有在脫衣陪酒，單純是員警以金錢誘惑才引起犯意，未免牽強。
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="https://udn.com/news/story/7321/2497503" target="_blank" rel="nofollow">https://udn.com/news/story/7321/2497503</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+這是一種有業績還有福利的概念？
+
+
+-----
+Sent from JPTT on my Sony E6853.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.137.162.240
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496319053.A.65E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496319053.A.65E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 垃圾鴿子</span><span class="push-ipdatetime"> 06/01 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SidMax</span><span class="f3 push-content">: 垃圾鴿子</span><span class="push-ipdatetime"> 06/01 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joshua5201</span><span class="f3 push-content">: 考警校摟</span><span class="push-ipdatetime"> 06/01 20:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wtfman</span><span class="f3 push-content">: 垃圾鴿子</span><span class="push-ipdatetime"> 06/01 20:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PeterSu1983</span><span class="f3 push-content">: 垃圾鴿子無能只會辦這種</span><span class="push-ipdatetime"> 06/01 20:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w76530</span><span class="f3 push-content">: 喝乾摸盡再把你帶回警局</span><span class="push-ipdatetime"> 06/01 20:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mattaus</span><span class="f3 push-content">: 向警檢舉的祕密證人找來問就會逆轉了</span><span class="push-ipdatetime"> 06/01 20:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">inderal</span><span class="f3 push-content">: 常說鬧警察荒，原來警力都用在這種地方</span><span class="push-ipdatetime"> 06/01 20:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 警渣</span><span class="push-ipdatetime"> 06/01 20:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 為什麼教唆犯罪不用被法律處罰啊?</span><span class="push-ipdatetime"> 06/01 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiyoe</span><span class="f3 push-content">: 垃圾鴿子</span><span class="push-ipdatetime"> 06/01 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goddamned</span><span class="f3 push-content">: 鄉下娼狗也只能考那個再被丙除 自相殘殺 何必</span><span class="push-ipdatetime"> 06/07 12:05
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496319053.A.65E.html?cacheKey=2052-12443821&offset=3606&offset-sig=10e63373181d9a2507614b758224111d8063bf3a" data-longpollurl="/v1/longpoll?id=7b2b6ee09010061d3c2fd223d01e418a151ec61b" data-offset="3606"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,202 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496141854.A.5D7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 環保土木拔河的結果 讓蘇花改變成四不像 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合新聞網
+2.完整新聞標題:
+環保、土木拔河的結果 讓蘇花改變成四不像
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 環保土木拔河的結果 讓蘇花改變成四不像">
+<meta property="og:description" content="1.媒體來源:
+聯合新聞網
+2.完整新聞標題:
+環保、土木拔河的結果 讓蘇花改變成四不像
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496141854.A.5D7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496141854.A.5D7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">harry901 (harry901)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 環保土木拔河的結果 讓蘇花改變成四不像</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 18:57:31 2017</span></div>
+1.媒體來源:
+聯合新聞網
+
+
+2.完整新聞標題:
+環保、土木拔河的結果 讓蘇花改變成四不像
+
+
+3.完整新聞內文:
+
+蘇花公路坍方讓許多民眾回不了家，外界抨擊交通部替代運輸反應慢、東部交
+通政策「交白卷」。事實上，蘇花改工程歷經前政府核定、新政府接手施工，
+第一期工程「蘇澳—東澳」將在今年底完工，也就是這次崩塌地，後年底將完成
+南澳—和平、和中—大清水路段。
+
+不過，3階段完工後，落石坍方恐怕仍然無法解決，學者直言，這是當年蘇花改
+爭論中，「環保、土木拔河後最終妥協的結果，讓蘇花改變成四不像」。
+
+淡江大學運管系副教授羅孝賢直言，東部交通條件受到天氣影響大，這也是為何
+當初要蓋蘇花高的原因，最終妥協於蘇花改，是長期以來土木、環保拔河，環保
+認為不要動、土木則認為人定勝天有錢就能克服，但兩者都該有所折衷，可當時
+的妥協讓蘇花高胎死腹中、改為蘇花改，卻造就成一個「四不像」，也給了花蓮
+民眾不切實際的期待。
+
+羅孝賢說，當初選擇對環境影響最少的妥協，讓蘇花改雙向兩車道配置，且不是
+全線新線處理，而是逐段改善，將來會最先看到的就是通車後塞車，在新舊線轉
+換中將造成瓶頸，此外，舊線雖有改善工程，但仍然會有落石，這也顯示台灣公
+路系統對防災能力仍然很弱，短期內也難有突破。
+
+不過，羅孝賢也說，蘇花改開發後，環保方不滿意、對於土木也沒有達到疏運效果
+，反而製造更多瓶頸，但蘇花高就能完全解決問題嗎？蘇花高當時的論證不斷，其
+中一項「雪隧開了對宜蘭真的好嗎？」至今仍是問號。
+
+交通方便了，對地方發展真的好嗎？羅孝賢舉例，以大陸九寨溝來說，每年都會限
+制人數，但花蓮、台東願意被管制嗎？我們真的希望花蓮變成台北嗎？要如何發展
+花蓮的在地產業、減少環境破壞又滿足地方需求，這已經是國土政策的問題，恐怕
+不是只怪交通部就能解決事情，新政府仍需積極面對。
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/6656/2493051" target="_blank" rel="nofollow">https://udn.com/news/story/6656/2493051</a>
+
+
+5.備註:
+
+某團真是臺灣交通建設最大的阻力
+也是政府搪塞藉口最好用的團體
+偉哉～
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.103.120
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496141854.A.5D7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496141854.A.5D7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taimu</span><span class="f3 push-content">: 土木則認為人定勝天???誰教的 哪位老師 會教這個</span><span class="push-ipdatetime"> 05/30 18:58
+</span></div>你可能誤解句子了  他後面還有補上  有錢就能這個條件
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Aotearoa</span><span class="f3 push-content">: 人定勝天XDDDD</span><span class="push-ipdatetime"> 05/30 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 控管天龍人去花蓮就好了 環境是要維護的</span><span class="push-ipdatetime"> 05/30 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 等被落石打死就不會說塘塞了 以為喊喊就沒事喔 天真到...</span><span class="push-ipdatetime"> 05/30 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ayo810528</span><span class="f3 push-content">: 哪個土木不顧環保的</span><span class="push-ipdatetime"> 05/30 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andante6851</span><span class="f3 push-content">: 把整句話看完好嗎 是錢定勝天</span><span class="push-ipdatetime"> 05/30 19:00
+</span></div><span class="f2">※ 編輯: harry901 (114.42.103.120), 05/30/2017 19:01:03
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 東澳到南澳段 依舊沒改善</span><span class="push-ipdatetime"> 05/30 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 大清水到崇德也沒改善</span><span class="push-ipdatetime"> 05/30 19:02
+</span></div>是阿  超級奇怪的  四不像  到時候就來看一堆車流塞在這兩段吧
+然後再來罵  怎麼只做一半
+<span class="f2">※ 編輯: harry901 (114.42.103.120), 05/30/2017 19:03:06
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 花東快最容易蓋 也沒蓋 中橫高就算了 難度太強</span><span class="push-ipdatetime"> 05/30 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blakespring</span><span class="f3 push-content">: 呵呵 現在花蓮跟二十年前十年前繁榮那麼多有因為那</span><span class="push-ipdatetime"> 05/30 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 南迴 草埔到楓港也還沒拓寬...國三也不南延</span><span class="push-ipdatetime"> 05/30 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blakespring</span><span class="f3 push-content">: 個交通建設影響？</span><span class="push-ipdatetime"> 05/30 19:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">matsui07</span><span class="f3 push-content">: 當時反對的環團現在都躲起來了 等風頭過再出來吵</span><span class="push-ipdatetime"> 05/30 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">harry901</span><span class="f3 push-content">: 北迴鐵路表示：</span><span class="push-ipdatetime"> 05/30 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oldchang1205</span><span class="f3 push-content">: 智障覺青到現在還在反勒 還以為用花蓮港走海路遠好</span><span class="push-ipdatetime"> 05/30 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oldchang1205</span><span class="f3 push-content">: 於蘇花高</span><span class="push-ipdatetime"> 05/30 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">els190325</span><span class="f3 push-content">: 蘇花改應該使用者付費，費用用於附近環境維護</span><span class="push-ipdatetime"> 05/30 19:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 蘇花高就不會有落石？</span><span class="push-ipdatetime"> 05/30 19:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">harry901</span><span class="f3 push-content">: 蘇花高沿線都是隧道  跟鐵路差不多  落石當然少很多</span><span class="push-ipdatetime"> 05/30 19:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MASAMIFANS</span><span class="f3 push-content">: 不蓋蘇花高  蓋這個  環團流氓誤國</span><span class="push-ipdatetime"> 05/30 19:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 當時反對的環團現在都躲起來了+1 反正目的達到了</span><span class="push-ipdatetime"> 05/30 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 而統媒+國民黨也樂的阿扁及民進黨政績少一條</span><span class="push-ipdatetime"> 05/30 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 當初真的是環團+統媒+國民黨黨團惡搞下的結果</span><span class="push-ipdatetime"> 05/30 19:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 國民黨當初就是怕阿扁蘇花高蓋下去，鐵票縣會少一個</span><span class="push-ipdatetime"> 05/30 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: 看看當初國民黨2008年怎麼反蘇花高</span><span class="push-ipdatetime"> 05/30 19:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycutom</span><span class="f3 push-content">: <a href="https://goo.gl/zUFDH" target="_blank" rel="nofollow">https://goo.gl/zUFDH</a></span><span class="push-ipdatetime"> 05/30 19:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">u2721</span><span class="f3 push-content">: 土木系真的很會拔河啊 每葛都粗工一樣壯</span><span class="push-ipdatetime"> 05/30 19:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kilva</span><span class="f3 push-content">: 蘇花改最初目標不就是在不增加車流量下提升安全性嗎？</span><span class="push-ipdatetime"> 05/30 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsxwsx0426</span><span class="f3 push-content">: 其實高職拔河土木反而都是倒數的喔</span><span class="push-ipdatetime"> 05/30 20:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsxwsx0426</span><span class="f3 push-content">: 媽的就那些智障環團啊</span><span class="push-ipdatetime"> 05/30 20:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oberon48</span><span class="f3 push-content">: 智缺環團秀下限的機會又來了</span><span class="push-ipdatetime"> 05/30 20:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 塞車比較環保? 環團都騎腳踏車返鄉?</span><span class="push-ipdatetime"> 05/30 22:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496141854.A.5D7.html?cacheKey=2052-2702359&offset=5420&offset-sig=4eea056ecc85837a68273f1d96c6e46f4a07ef1c" data-longpollurl="/v1/longpoll?id=3eea7ff12a72f79602fe49bdca9c401cdac8f3b4" data-offset="5420"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

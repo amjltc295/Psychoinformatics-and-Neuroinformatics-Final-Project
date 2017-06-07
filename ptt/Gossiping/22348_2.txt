@@ -1,0 +1,754 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496492856.A.D53.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 國際電競比賽請中國賽評來台，事後崩潰 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="5/30-6/3
+ZOTAC CUP今年DOTA 2比賽與台北國際電腦展都在南港展覽館
+DOTA 2在台灣是冷門遊戲
+連續五天請中國的賽評來台北現場轉播解說
+6/3是BO5的決賽天(台灣賽評只有決賽天有)
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 國際電競比賽請中國賽評來台，事後崩潰">
+<meta property="og:description" content="5/30-6/3
+ZOTAC CUP今年DOTA 2比賽與台北國際電腦展都在南港展覽館
+DOTA 2在台灣是冷門遊戲
+連續五天請中國的賽評來台北現場轉播解說
+6/3是BO5的決賽天(台灣賽評只有決賽天有)
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496492856.A.D53.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496492856.A.D53.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hi9060604 (3345678)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 國際電競比賽請中國賽評來台，事後崩潰</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 20:27:33 2017</span></div>
+5/30-6/3
+
+ZOTAC CUP今年DOTA 2比賽與台北國際電腦展都在南港展覽館
+
+DOTA 2在台灣是冷門遊戲
+
+連續五天請中國的賽評來台北現場轉播解說
+
+6/3是BO5的決賽天(台灣賽評只有決賽天有)
+
+據了解
+
+5/30-6/2 現場沒甚麼觀眾
+
+上次有DOTA 2比賽辦在台灣已經是2014年的事了
+
+台灣DOTA 2圈子小
+
+難得有比賽辦在台灣
+
+大家都是揪一揪6/3到場支持
+
+雖然場地與座位不多
+
+但現場台灣人、中國人、東南亞人、西方人都有
+
+也有些人在外圍觀看的
+
+今天決賽兩隊分別是
+
+Newbee(中國隊)
+
+Team Np(有2位加拿大、德國、美國、瑞典國籍組成)
+
+最後是Newbee贏了
+
+其中一位中國賽評事後在自己微博PO出自己的感想
+
+<a href="http://imgur.com/a/HHug1" target="_blank" rel="nofollow">http://imgur.com/a/HHug1</a>
+
+然後就是各種崩潰了
+
+<a href="http://imgur.com/a/134yz" target="_blank" rel="nofollow">http://imgur.com/a/134yz</a>
+
+也有比較理性以及有到場的中國玩家
+
+<a href="http://imgur.com/a/jG04H" target="_blank" rel="nofollow">http://imgur.com/a/jG04H</a>
+
+現場玩家該鼓掌拍手的地方不管哪隊都有
+
+但事實就是Newbee打得比較穩健
+
+Team NP打得比較秀，亮點比較多
+
+當然看起來就是NP比較好看
+
+鼓掌聲比較多是當然的
+
+不過最後贏的還是Newbee
+
+
+
+微博<a href="https://goo.gl/iofqbK" target="_blank" rel="nofollow">https://goo.gl/iofqbK</a>
+
+
+-----------------------------
+最後還是要謝謝主辦
+
+敢把DOTA 2比賽辦在台灣
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.166.187.17
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496492856.A.D53.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496492856.A.D53.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Xhocer</span><span class="f3 push-content">: 乾我屁事</span><span class="push-ipdatetime"> 06/03 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 宅</span><span class="push-ipdatetime"> 06/03 20:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 台灣一堆人連steam都不知道</span><span class="push-ipdatetime"> 06/03 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eddie032999</span><span class="f3 push-content">: 好臭</span><span class="push-ipdatetime"> 06/03 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nineflower</span><span class="f3 push-content">: 贏的崩潰 世上也只有中國而已吧</span><span class="push-ipdatetime"> 06/03 20:29
+</span></div>◢▆▅▄▃ 崩╰(〒皿〒)╯潰 ▃▄▅▆◣
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">i689tw</span><span class="f3 push-content">: 第一天知道支那賤畜玻璃心？</span><span class="push-ipdatetime"> 06/03 20:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bronco5229</span><span class="f3 push-content">: 中國人就是這樣 意外嗎</span><span class="push-ipdatetime"> 06/03 20:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GodV</span><span class="f3 push-content">: Dota在台灣比暴雪英霸還沒知名度 不yee外</span><span class="push-ipdatetime"> 06/03 20:29
+</span></div>確實是這樣
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fhsh115</span><span class="f3 push-content">: 賤畜</span><span class="push-ipdatetime"> 06/03 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 什麼比賽 肥宅解釋解釋</span><span class="push-ipdatetime"> 06/03 20:30
+</span></div>可以GOOGLE
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Rattlesnake</span><span class="f3 push-content">: 不重要 WHO CAREs</span><span class="push-ipdatetime"> 06/03 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 英霸還比較有名</span><span class="push-ipdatetime"> 06/03 20:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iWatch2</span><span class="f3 push-content">: 又在茶葉蛋都吃不起了 中国人不說我不知道有這樣報過...</span><span class="push-ipdatetime"> 06/03 20:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">drraujn</span><span class="f3 push-content">: 一個歡呼就讓支那賤畜崩潰 爽XD</span><span class="push-ipdatetime"> 06/03 20:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a1467171</span><span class="f3 push-content">: 不就根本不同國阿  台灣國情就是喜歡吃鍋貼哄</span><span class="push-ipdatetime"> 06/03 20:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted01234567</span><span class="f3 push-content">: 只會吠</span><span class="push-ipdatetime"> 06/03 20:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 有臺灣轉播喔？</span><span class="push-ipdatetime"> 06/03 20:32
+</span></div><a href="https://www.twitch.tv/amuro76" target="_blank" rel="nofollow">https://www.twitch.tv/amuro76</a>台灣是這台，中國也有在TWITCH開一台
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 我一直都有在打電動 我還真的不知道DOTA有比賽耶</span><span class="push-ipdatetime"> 06/03 20:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pupss89177</span><span class="f3 push-content">: 幹 沒屌虐中國狗 失敗隊伍</span><span class="push-ipdatetime"> 06/03 20:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaykill</span><span class="f3 push-content">: 地是中國的咧 笑死 趕快打過來拿呀 等什麼</span><span class="push-ipdatetime"> 06/03 20:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KGarnett05</span><span class="f3 push-content">: 垃圾支那崩潰好爽</span><span class="push-ipdatetime"> 06/03 20:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 茶葉蛋台灣人根本沒再討論 XDD</span><span class="push-ipdatetime"> 06/03 20:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tllpp</span><span class="f3 push-content">: 國外來的玻璃心崩潰 XDDDD</span><span class="push-ipdatetime"> 06/03 20:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 主辦方也太有信心了勇氣可佳 刀塔傳奇都比較多人知道</span><span class="push-ipdatetime"> 06/03 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KGarnett05</span><span class="f3 push-content">: 在講地是中國後，還是得按時滾蛋啊</span><span class="push-ipdatetime"> 06/03 20:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsgd</span><span class="f3 push-content">: 茶葉蛋就一個連台灣人都不知道他哪位的路人甲在節目上這麼一</span><span class="push-ipdatetime"> 06/03 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tsgd</span><span class="f3 push-content">: 說 然後就被26拿回去對內宣傳 每次講</span><span class="push-ipdatetime"> 06/03 20:35
+</span></div>原來是這樣阿XDD
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 中國人說核平台灣 就會辯解一個人不能代表中國人</span><span class="push-ipdatetime"> 06/03 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 地是中國的個頭 土匪國家 看不起</span><span class="push-ipdatetime"> 06/03 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rattlesnake</span><span class="f3 push-content">: 志玲是我的  言承旭滾吧</span><span class="push-ipdatetime"> 06/03 20:37
+</span></div>??
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #無聊</span><span class="push-ipdatetime"> 06/03 20:37
+</span></div>恩
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 如果今天是LOL 然後打贏韓國 可能有台灣人會拍拍手</span><span class="push-ipdatetime"> 06/03 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soria</span><span class="f3 push-content">: 簽證到期時他也只能滾回他的國家好嗎</span><span class="push-ipdatetime"> 06/03 20:38
+</span></div>回去過六四了
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 他心裡不就更酸? DOTA 真的是沒人知道的 你是中國人</span><span class="push-ipdatetime"> 06/03 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 你打怎樣 都沒人認識的 更不會有玩家支持你的</span><span class="push-ipdatetime"> 06/03 20:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 這問題在星海2國家杯就出現過了，小色後來也是得表明立場</span><span class="push-ipdatetime"> 06/03 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 還要自己作國旗把國旗貼住</span><span class="push-ipdatetime"> 06/03 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rattlesnake</span><span class="f3 push-content">: 難怪世大運中國不敢參加團體賽</span><span class="push-ipdatetime"> 06/03 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thr3ee</span><span class="f3 push-content">: 幫推 中國人就是愛惹事</span><span class="push-ipdatetime"> 06/03 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 拿出證據證明台灣是中共的阿，87喔</span><span class="push-ipdatetime"> 06/03 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shinki5566</span><span class="f3 push-content">: 玩什麼刀塔大賽 辦個戰女大賽不好嗎 姆咪姆咪心動動</span><span class="push-ipdatetime"> 06/03 20:42
+</span></div>姆咪姆咪心動動
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 我剛才看了一下 整個圖奇中文區DOTA2 只有5個開實況</span><span class="push-ipdatetime"> 06/03 20:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 一共12個觀眾 我還是要再講一次 主辦方勇氣可佳</span><span class="push-ipdatetime"> 06/03 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sobiNOva</span><span class="f3 push-content">: DOTA2就是WC3 ALLSTAR 早玩膩了 糞GAME</span><span class="push-ipdatetime"> 06/03 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack010101</span><span class="f3 push-content">: Dota2的比賽獎金應該是電競裡最多的</span><span class="push-ipdatetime"> 06/03 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 支那日常 臭死惹</span><span class="push-ipdatetime"> 06/03 20:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 自卑又自大的玻璃心</span><span class="push-ipdatetime"> 06/03 20:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: 拜託，NP有Jacky Mao EE到處都主場好嗎</span><span class="push-ipdatetime"> 06/03 20:46
+</span></div>EE爸媽好像是廣東人吧，他TI6有秀一段粵語
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sobiNOva</span><span class="f3 push-content">: 獎金高沒用啦 糞GAM扶不上壁 被LOL海放五條街</span><span class="push-ipdatetime"> 06/03 20:48
+</span></div>LOL還沒開台服就玩膩了，永遠那幾招，平衡又差，不過還是比DOTA 2多人玩
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wendelltsai</span><span class="f3 push-content">: 我認為這次比賽可以延伸閱讀上次在上海辦的那次...出</span><span class="push-ipdatetime"> 06/03 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 台灣no.1</span><span class="push-ipdatetime"> 06/03 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 沒經過他們嘴我還真不知道有茶葉蛋這種事，很自卑心耶</span><span class="push-ipdatetime"> 06/03 20:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 臺灣，每次都想吊打中國隊 結果每次都沒法如願</span><span class="push-ipdatetime"> 06/03 20:49
+</span></div>台灣只有業餘隊伍
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a28689604</span><span class="f3 push-content">: dota2都是糞game了 你要那些人氣比他爛的遊戲怎麼辦</span><span class="push-ipdatetime"> 06/03 20:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 臺灣人自己做出茶葉蛋的低級笑話 還不給大陸人提及 笑</span><span class="push-ipdatetime"> 06/03 20:50
+</span></div><span class="f2">※ 編輯: hi9060604 (118.166.187.17), 06/03/2017 20:58:09
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 就沒有多少台灣人認為吃不起阿，這不是中共人自卑是啥?</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 而且說是茶葉蛋的那個人可不是臺灣的一般路人 是臺灣教授</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 支那豬來台灣比賽還想要台灣人應援 真是腦子有問題</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a28689604</span><span class="f3 push-content">: 而且這次比賽根本沒有台灣隊伍參賽 realtw別秀下限r</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 我記得那教授是在幫助偏鄉地區啦</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 臺灣人說大陸人吃不起茶葉蛋 大陸回去宣傳 然後這邊崩潰</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 到底是誰玻璃心不敢面對這件事</span><span class="push-ipdatetime"> 06/03 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 其實我不意外 因為那個年代的人 對於中國就是這印象</span><span class="push-ipdatetime"> 06/03 20:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 心虛的誰很明顯 有膽造謠就要有膽面對啊</span><span class="push-ipdatetime"> 06/03 20:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awen860836</span><span class="f3 push-content">: 沒人關心的糞game,這路人是誰在那邊刷存在感笑死</span><span class="push-ipdatetime"> 06/03 20:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mildred19</span><span class="f3 push-content">: 這樣也能崩潰 中國人是不是有躁鬱症ㄚ</span><span class="push-ipdatetime"> 06/03 20:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 宣傳出去不就是玻璃心作祟嗎</span><span class="push-ipdatetime"> 06/03 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 輸的人說贏得人崩潰 我是不太明白這邏輯了</span><span class="push-ipdatetime"> 06/03 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 就和柯潔一樣 臺灣沒人下得過柯潔 一堆人一直酸</span><span class="push-ipdatetime"> 06/03 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 現在說崩潰是有在說輸贏嗎?亂亂扯耶</span><span class="push-ipdatetime"> 06/03 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 就跟我第一次去中國我對深圳的印象就是 路上的兒童脖</span><span class="push-ipdatetime"> 06/03 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們敢拿茶葉蛋的笑話來說嘴 為什麼怕大陸回去講這件事</span><span class="push-ipdatetime"> 06/03 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 說的是這傢伙贏了之後的態度問題，哪管誰輸誰贏阿</span><span class="push-ipdatetime"> 06/03 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gichilder</span><span class="f3 push-content">: Dota2在steam上全時遊玩人數最高的 台灣沒職業隊沒推廣</span><span class="push-ipdatetime"> 06/03 20:54
+</span></div>台灣只有業餘隊伍。我所知道台灣比較強的人年紀上都是社會人士了
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 有膽說沒膽承認嗎</span><span class="push-ipdatetime"> 06/03 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 子都被軟鐵條綁著 集體乞討 還不能只給一個 給錢一定</span><span class="push-ipdatetime"> 06/03 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 臺灣，經常拿全世界來和中國比 然後找到勝利感</span><span class="push-ipdatetime"> 06/03 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 你們玻璃心作祟才會拿回去講拿回去宣傳，怪我們喔?</span><span class="push-ipdatetime"> 06/03 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 自己的人是提都不敢提</span><span class="push-ipdatetime"> 06/03 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: newbee 2014 2015的陣容還有大神們，今年成績好可是NP是</span><span class="push-ipdatetime"> 06/03 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 要給一整群 不然他們會圍上來鬧事 警察也只管他們對</span><span class="push-ipdatetime"> 06/03 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: drama team阿</span><span class="push-ipdatetime"> 06/03 20:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaeomes</span><span class="f3 push-content">: 這要承認什麼…那位教授言論關我屁事</span><span class="push-ipdatetime"> 06/03 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 吱吱：我抹黑取笑你可以 你把這件事告訴大家，就是玻璃心</span><span class="push-ipdatetime"> 06/03 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 那教授是在明明就是在講貧富差距問題，你們斷章取義</span><span class="push-ipdatetime"> 06/03 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 吱吱邏輯無敵</span><span class="push-ipdatetime"> 06/03 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 香港人 台灣人 還有其他外國人的紛爭 平常當看不見</span><span class="push-ipdatetime"> 06/03 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 斷章取義?高志斌教授原話就是說大陸祇有5000萬人吃得起茶</span><span class="push-ipdatetime"> 06/03 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 斷章取義還敢說的理直氣壯，知恥嗎你?</span><span class="push-ipdatetime"> 06/03 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 茶葉蛋 人均所得很低的 臺灣人不要被來臺灣的陸客假像騙了</span><span class="push-ipdatetime"> 06/03 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 阿 茶葉蛋那個人 年齡名顯比我大一輩以上 他有這樣</span><span class="push-ipdatetime"> 06/03 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 原版視頻又不是查不到 還在這裡洗地呢</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colinfeng</span><span class="f3 push-content">: 支那好可憐，世上能崩潰的事情太多了</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 贏也酸 輸也酸?</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 那你去反駁那教授的言論阿，而不是在抹黑台灣人啊</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 印象 然後在節目上說 我是不意外</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 我沒有洗他 我告訴你的是 那一輩的人 看中國就是這樣</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 無聊 不是說自己人嗎 不是說台灣是中國的一部份 結果完全不</span><span class="push-ipdatetime"> 06/03 20:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 當自己人 怪誰</span><span class="push-ipdatetime"> 06/03 20:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 那個教授就是臺灣人 現在你在護航他 等於贊同他的言論</span><span class="push-ipdatetime"> 06/03 20:59
+</span></div><span class="f2">※ 編輯: hi9060604 (118.166.187.17), 06/03/2017 21:03:41
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 護航就代表認同他的話?你邏輯有問題阿你</span><span class="push-ipdatetime"> 06/03 20:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 至於深圳你可以問問看 我回台灣也沒整天講中國都這樣</span><span class="push-ipdatetime"> 06/03 20:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 我管你是哪一輩的人 我只知道他是臺灣人</span><span class="push-ipdatetime"> 06/03 21:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaeomes</span><span class="f3 push-content">: 隨隨便便就認定別人贊同 真腦補欸你</span><span class="push-ipdatetime"> 06/03 21:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你這一代也是臺灣人，他那一代也是臺灣人</span><span class="push-ipdatetime"> 06/03 21:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 對於那些老一輩的人 中國就是這樣 是他眼中的事實阿</span><span class="push-ipdatetime"> 06/03 21:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們不也經常拿殺人放火的事情放大到整個中國人的水準上嗎</span><span class="push-ipdatetime"> 06/03 21:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 對對對，在你中共人眼裡只要是台灣人都他媽有罪啦</span><span class="push-ipdatetime"> 06/03 21:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們有資格做切割嗎</span><span class="push-ipdatetime"> 06/03 21:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 干我屁事 他台灣人又怎樣? 但是看他年齡我不會意外</span><span class="push-ipdatetime"> 06/03 21:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 別人以偏概全你就硬掰成全部人也都這樣想，怪誰?</span><span class="push-ipdatetime"> 06/03 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 大陸一有犯罪的新聞 你們不也是集體高呼：中國水準不意外</span><span class="push-ipdatetime"> 06/03 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 換到自己人出包 比如茶葉蛋言論和獸父 就急忙切割</span><span class="push-ipdatetime"> 06/03 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 誰管中國人怎麼想</span><span class="push-ipdatetime"> 06/03 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 雙重標準，玩的很溜嘛</span><span class="push-ipdatetime"> 06/03 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 有集體嗎?  如果有集體  中天 tvbs那類的 哪有這樣</span><span class="push-ipdatetime"> 06/03 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shields5566</span><span class="f3 push-content">: 中國人什麼時候可以停止幻想我們同一國阿 別鬧了好爆</span><span class="push-ipdatetime"> 06/03 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 所以 我在台灣遇到中國人 我也不會問他有沒有犯過罪</span><span class="push-ipdatetime"> 06/03 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你還別瞧不起老一輩的人 在我看來，臺灣年輕人未必比臺灣</span><span class="push-ipdatetime"> 06/03 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 只會用PTT看世界還在這裡混得很開心，就是他阿</span><span class="push-ipdatetime"> 06/03 21:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jympin</span><span class="f3 push-content">: 到底憑甚麼覺得台灣人會幫中國隊加油?腦袋有洞</span><span class="push-ipdatetime"> 06/03 21:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 老一代的人通情達理和知識面廣</span><span class="push-ipdatetime"> 06/03 21:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 難不成我現在遇到深圳人 我會問他你小時候有沒有被綁</span><span class="push-ipdatetime"> 06/03 21:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 就我的觀察 覺青和吱吱對大陸的認識比臺灣老一代人低級多</span><span class="push-ipdatetime"> 06/03 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 脖子上街乞討過 當然不會阿 那我是不是切割中國人了?</span><span class="push-ipdatetime"> 06/03 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: 支那賤畜不意外</span><span class="push-ipdatetime"> 06/03 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 你想太多了 老一輩的人 對於中國的想法就是一個工具</span><span class="push-ipdatetime"> 06/03 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 就我觀察五毛對台灣的認識如以往一般低級沒知識</span><span class="push-ipdatetime"> 06/03 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tbaby</span><span class="f3 push-content">: 上次贏了依然崩潰的好像是女排，事隔數年重新上演罷了</span><span class="push-ipdatetime"> 06/03 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 台灣討厭中國又不是新聞 一個國家被討厭就唉唉叫 被世界</span><span class="push-ipdatetime"> 06/03 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 討厭又不是第一天了 顧人怨檢討自己好爆</span><span class="push-ipdatetime"> 06/03 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 以前很爛 現在變的有用 但是在他們心中 更不當人的</span><span class="push-ipdatetime"> 06/03 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們對中國大陸的想像很多時候是出於臆測 笑話一則</span><span class="push-ipdatetime"> 06/03 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 因為他們有資源的 不用被綁在台灣 賺完中國錢就行了</span><span class="push-ipdatetime"> 06/03 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jympin</span><span class="f3 push-content">: 看他們那種留言 台灣人會想幫妳加油?真的笑死人</span><span class="push-ipdatetime"> 06/03 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 剛好 沒有正規職業公會制度國家 是他們最擅長的領域</span><span class="push-ipdatetime"> 06/03 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 對中國的想像當然是出於臆測啊，誰會知道其他國家情況</span><span class="push-ipdatetime"> 06/03 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 快去慶祝64好嗎？</span><span class="push-ipdatetime"> 06/03 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 隨你講半天茶葉蛋的笑話就是你們臺灣人說的呀</span><span class="push-ipdatetime"> 06/03 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們敢說還怕別人拿回去講?別笑死人了</span><span class="push-ipdatetime"> 06/03 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 是阿 我不否認阿 但是我並不意外那輩人 有這想法</span><span class="push-ipdatetime"> 06/03 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 不是臆測是出於國際場合打壓 WHO不給參加 整天欺負台灣</span><span class="push-ipdatetime"> 06/03 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">:  被討厭又說我這麼好你不准不喜歡 媽的低能</span><span class="push-ipdatetime"> 06/03 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 可是我不會路上問中國人 小時候有沒有集體乞討過阿</span><span class="push-ipdatetime"> 06/03 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 國與國之間國情不同，不瞭解其他國家情況也很正常啊</span><span class="push-ipdatetime"> 06/03 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 吱吱玻璃心 我抹黑你可以 被抓包打臉就是你玻璃心了</span><span class="push-ipdatetime"> 06/03 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 中國人現在比較爛怕人講喔？連中國富豪郭文貴自己都</span><span class="push-ipdatetime"> 06/03 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 說中國人可憐了QQ</span><span class="push-ipdatetime"> 06/03 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 況且中國人都不知道中國的「事實」了 外國人怎麼會知道</span><span class="push-ipdatetime"> 06/03 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">:  你黨媒看到傻了啊</span><span class="push-ipdatetime"> 06/03 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 覺青吱吱不就一直這個邏輯 我抹黑你可以 你反駁就是玻璃心</span><span class="push-ipdatetime"> 06/03 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 臺灣出現的各種狗屁倒灶的破事兒都是個案 他們不是臺灣人</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 你比郭文貴先生更了解現在的中國嗎？他說現在中國一</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 要反駁就反駁啊 誰在乎 這裏是台灣隨便你講 你回牆內反</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 可悲玻璃心糞國   心眼比屁眼小</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 堆垃圾五毛你怎麼看啊？64有沒有死人啊？</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 駁看看</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 還好我國跟中國不一樣 網路不會被管制</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 別人反駁你也只會叫別人吱吱崩潰潰阿</span><span class="push-ipdatetime"> 06/03 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 而大陸出現的破事，就是中國人就是這樣 你們的玩法我不懂?</span><span class="push-ipdatetime"> 06/03 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 愛在微勃亂造謠是中國人的休閒娛樂</span><span class="push-ipdatetime"> 06/03 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 中國就人多白癡多啊 怪我喔</span><span class="push-ipdatetime"> 06/03 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 看吧 來了 我抹黑你可以 你反駁就是心眼比屁眼還小</span><span class="push-ipdatetime"> 06/03 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 回答我啊～你覺得你比郭文貴先生更了解中國嗎？</span><span class="push-ipdatetime"> 06/03 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 人類只會看自己想選擇注意看的東西啦，你沒發現阿?</span><span class="push-ipdatetime"> 06/03 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 他們窮人很多 出門消息花不起 只花的起上網吧嘴砲</span><span class="push-ipdatetime"> 06/03 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 你怎麼不去怪那些丟你們中國人臉的人呢?</span><span class="push-ipdatetime"> 06/03 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 為什麼我從頭到尾都沒說他不是台灣人 你要改?</span><span class="push-ipdatetime"> 06/03 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 他自己就是丟臉的其中之一 當然看不到</span><span class="push-ipdatetime"> 06/03 21:13
+</span></div>????????
+<span class="f2">※ 編輯: hi9060604 (118.166.187.17), 06/03/2017 21:14:19
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 吱吱很崇拜韋小寶：只准我打你的臉 不準你打我的臉</span><span class="push-ipdatetime"> 06/03 21:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 「你們這樣對我們，所以我們也可以這樣對你們」這話</span><span class="push-ipdatetime"> 06/03 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m810415</span><span class="f3 push-content">: 跟動物計較那麼多</span><span class="push-ipdatetime"> 06/03 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 你在這邊酸我國人民對中國人有偏見 又不會改變我們想法</span><span class="push-ipdatetime"> 06/03 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 我覺得這就是台灣跟中國年輕人的差距吧 在上一輩歐美</span><span class="push-ipdatetime"> 06/03 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 根本無敵，年齡不同對中國會有不同認知本來就是正常</span><span class="push-ipdatetime"> 06/03 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 不過的事，不知道是在嘴什麼</span><span class="push-ipdatetime"> 06/03 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 這個廣西窮人就是鐵證   上來造謠抹黑是他的窮休閒</span><span class="push-ipdatetime"> 06/03 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 對於台灣遊客就覺得是鄉下人 台灣製品是爛貨 有些電</span><span class="push-ipdatetime"> 06/03 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: st 對呀 按你邏輯，你們怎麼不怪說茶葉蛋的臺灣人呢</span><span class="push-ipdatetime"> 06/03 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 反而去怪澄清事實的大陸人 你的話用來打你的臉剛好合適</span><span class="push-ipdatetime"> 06/03 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 中國人均8000鎂，你說你們比較好?!真他媽笑話。</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 影出現過影射 但是我們能做好自己也能理解 中國無法?</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 教授又不代表全台灣人，那個茶葉蛋我覺得超智障</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 台灣人也跟你說沒有很多人這樣想，你自己不接受的</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 台灣人也覺得荒謬的東西，你們是在認真什麼 太自卑?</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 我連這件事都不知道 去怪他幹嘛? 又不是我出醜乾我屁事</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 怪三小  要吃屎干我屁事   可悲就說心眼比屁眼小</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 因為我能理解 我們上一輩 在別人眼中的印象怎麼來的</span><span class="push-ipdatetime"> 06/03 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 泱泱大國竟能被一顆茶葉蛋攻破，這也是滿可悲的</span><span class="push-ipdatetime"> 06/03 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 還我我抹黑真可笑  一件屁眼大的事就到西元幾年?</span><span class="push-ipdatetime"> 06/03 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 我們能從自己做好來慢慢證明 中國人好像希望拿把槍頂</span><span class="push-ipdatetime"> 06/03 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 現在說的超灑脫 茶葉蛋教授不代表臺灣人 轉頭檢討大陸人</span><span class="push-ipdatetime"> 06/03 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 各位朋友，跟這種五毛理性講解真的沒有用，有興趣可</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ted4158</span><span class="f3 push-content">: 中國怎樣乾台灣啥事？</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你既然覺得說茶葉蛋的教授超白癡，為何不批評他反批評大陸</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 著 叫別人改口? 至少你的態度給我這種觀感 那我覺得</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 以看看郭文貴先生的實況，留言板中有很多中國人都是</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 理性又有水準的，跟五毛天地之差，要理性找那種中國</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 轉頭檢討realtw這樣比較好嗎 哈哈</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 人？得了吧，你們那點想法我還不知道</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 人就好。</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 茶葉蛋都多少年了 還在講 難怪要到西元2100年還在說92共識</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 在我國媒體上出醜的大咖太多了 不差他一個早就習慣了</span><span class="push-ipdatetime"> 06/03 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 這就是你來PTT 也無益於這種文化差距 另外 台灣人本</span><span class="push-ipdatetime"> 06/03 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 我一直都覺得那個茶葉蛋很智障阿 只是沒想到有人拿笑</span><span class="push-ipdatetime"> 06/03 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 話般的內容來嘴台灣人 哈哈</span><span class="push-ipdatetime"> 06/03 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 來就把這種老人當笑話在看的 這種老人笑話太多了</span><span class="push-ipdatetime"> 06/03 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 所以說到最後都是笑話 臺灣人出包 結果檢討大陸人XDD</span><span class="push-ipdatetime"> 06/03 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 中國媒體管制很嚴格吧 可能不習慣看到發言出錯的畫面</span><span class="push-ipdatetime"> 06/03 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 茶葉蛋有多少年？2013年的五四新青年節目播出 是有多遠</span><span class="push-ipdatetime"> 06/03 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 想太多 台灣人自己出包的事 早就罵翻台灣人自己了</span><span class="push-ipdatetime"> 06/03 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 我當笑話看我能理解阿? 還記得我前面提的例子嗎?</span><span class="push-ipdatetime"> 06/03 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 說他白痴不就是在罵他。你跟我們拼命講這個不罵你罵誰?</span><span class="push-ipdatetime"> 06/03 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 茶葉蛋言論可不是叫出錯的言論 這跟說錯話沒關係</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 現在2017年 5年了 很久了啊 現在世界加速這麼快</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 啥時檢討過大陸人啊? 你要就檢討那位教授好嗎</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 直到現在你們也不承認臺灣人說的話 反而一直檢討大陸人</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 那如果在他的年代 中國就是如此呢? 我現在講那個深圳</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WonWonDog</span><span class="f3 push-content">: 那位茶葉蛋教授只是自稱什麼美食學院教授，但實際上不</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 四年都可以政黨輪替了 還不遠????</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 馬雲都出刷臉支付 你們對岸不是超進步的 你還不如狂吹這個</span><span class="push-ipdatetime"> 06/03 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 的例子 也會被當笑話阿 但是 是我親眼所見</span><span class="push-ipdatetime"> 06/03 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們自己人說茶葉蛋的理論出包 結果一直檢討大陸人玻璃心</span><span class="push-ipdatetime"> 06/03 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 因為那根本是無需要在意的事 你們卻一直提</span><span class="push-ipdatetime"> 06/03 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 意思就是說你們隨便抹黑大陸人都可以 被抓包就對方玻璃心</span><span class="push-ipdatetime"> 06/03 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 為什麼要檢討大陸人 這裡我們自己人出包 都罵翻了 哪有空管</span><span class="push-ipdatetime"> 06/03 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 對岸...</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 標準的，只准我打你的臉，不准你打我的臉</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 你不覺得自己正好驗證了中國人玻璃心的說法?????</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 臺灣人真的太熱心了，熱心很好，願意跟人相處也很棒</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: ，但是要搞清楚對象是誰，中國人沒有錯，但是這種專</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 就像我不會因為realtw怎樣而覺得全中國人都怎樣</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 抹不抹黑 我不確定 但是我現在如果舉這個例子上節目</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 門帶風向的五毛就不是這麼回事了，你跟他說的話越多</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: ，只會讓他爽而已。</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 那你覺得我是不是抹黑 但是我親眼所見 能否理解?</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 得了吧 每次一討論茶葉蛋 你們哪次不是說臺灣人不關心</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 大陸人玻璃心</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 為什麼我們要檢討中國人?他國事務看看就算了 就當八卦</span><span class="push-ipdatetime"> 06/03 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 哪裡有抹黑中國人了？句句屬實和來抹黑?</span><span class="push-ipdatetime"> 06/03 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 到底啥是茶葉蛋 吃不起茶葉蛋的是我吧 QAQ</span><span class="push-ipdatetime"> 06/03 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 言下之意就是我抹黑你，我不在意 你要反駁就是你玻璃心</span><span class="push-ipdatetime"> 06/03 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 或者是你要反駁就是心眼比屁眼還小 上面，你們不就這麼說</span><span class="push-ipdatetime"> 06/03 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 所以我會把他當笑話 但是我能理解原因</span><span class="push-ipdatetime"> 06/03 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 事實就是台灣人真得沒多少人知道這件事啊</span><span class="push-ipdatetime"> 06/03 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 總而言之，就是我抹黑造謠你無罪 你要反駁就是小心眼玻璃</span><span class="push-ipdatetime"> 06/03 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 支那賤畜吃不起怪我喔  整天吃屎我都沒嫌臭了 肏</span><span class="push-ipdatetime"> 06/03 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 你糾結這件事4年 事實上根本沒多少人知道啊</span><span class="push-ipdatetime"> 06/03 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 與其扯這個 你還不如來罵台灣的治水系統好了</span><span class="push-ipdatetime"> 06/03 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 然後你現在抹黑台灣人都如此認為，不罵你罵誰</span><span class="push-ipdatetime"> 06/03 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 你不能做好自己 來反駁 那你的反駁被酸 天經地義阿</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 我國每天一堆新聞 根本不會有人去特別注意不重要的東西</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 沒人知道，所以大陸人告訴你們啊 告訴你們不就知道了</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們抹黑別人當然不會在意</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 應該說 台灣有更多讓我們想罵的事情 根本不會去管這個</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 你改天要來台灣通知我啦  茶葉蛋我請你吃啦 消消氣</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 你好好做自己 有人覺得你吃不起茶葉蛋 我也是當笑話</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 你為什麼要跟自己過不去== 這裡沒人在抹黑阿</span><span class="push-ipdatetime"> 06/03 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 別人告訴你事實你自己不接受，我們都接受教授話不妥當</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 吱吱邏輯無敵 我們抹黑你 但是知道的人不多 所以我們沒錯</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 因為我們知道的人不多，所以你們要反駁就是你們玻璃心</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 連事情都不知道 談何抹黑啊 你把事情過度連結了</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 然後你就拼命扯茶葉蛋茶葉蛋幹嘛?吃飽太閒阿</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 實在是太可笑了</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 但你整天急著跳腳說 我就是吃得起買一百顆 我會不笑?</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 五毛的條件就是喪盡天良，現在一堆中國人期待自己國</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 家更好，有良好的法治跟教育，如果有一個畜牲在這裡</span><span class="push-ipdatetime"> 06/03 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 吠，他一定不是正常中國人。</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 你抹黑別人吱吱 誰才可笑????????</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 換個角度想 你我立場交換 你會不笑?</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 現在是大陸提到茶葉蛋 你們不但不檢討自己人說話白癡</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 在那邊說人抹黑又拼命把別人打成吱，雙重標準真厲害</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 一下吱吱一下覺青 哪有那麼多時間</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 到底有多愛茶葉蛋啊?  那是中國國寶逆啦？</span><span class="push-ipdatetime"> 06/03 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 還以自己知道的人不多為藉口 批評大陸玻璃心</span><span class="push-ipdatetime"> 06/03 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 誰會去管一個不重要的人 4年前講過什麼話</span><span class="push-ipdatetime"> 06/03 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 一個笑話 延伸 一個笑話 雖能理解 但是真的都好笑</span><span class="push-ipdatetime"> 06/03 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 事實上就是那個教授問題沒錯啊 但你何須在意</span><span class="push-ipdatetime"> 06/03 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 不只玻璃心吧    你漏了玻璃屁眼玻璃腦吧</span><span class="push-ipdatetime"> 06/03 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 推文完全跟文章沒關係了XD</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你這件事情攤開來講 你們就心虛啊 所以只敢討論吱吱名稱</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 因為你們 因為這個笑話整天跳腳 急於證明 還更好笑</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 如果有不了解中國人的朋友，我推薦朋友去看看郭文貴</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 先生的YouTube，在那裡。才有正常的中國人，好的中</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 國人平時都被關在牆內，時時刻刻翻牆引戰的一定都是</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 台灣沒什麼人知道又要怎麼代表全台灣人啊</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 五毛，給各位浪費很多時間的朋友做個參考。</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MiamiKotori</span><span class="f3 push-content">: real支那怎麼還沒被水桶。64646464646464646464嫩</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 越說越好笑了 你造謠抹黑對方還覺得對方沒必要在意</span><span class="push-ipdatetime"> 06/03 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 我從來沒說過這個臺灣教授的話代表全體臺灣人</span><span class="push-ipdatetime"> 06/03 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 我也不想跟這種沒邏輯的咖講了</span><span class="push-ipdatetime"> 06/03 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 中國人整天隨地拉屎 真的很噁心</span><span class="push-ipdatetime"> 06/03 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 又不是我抹黑 你在不在意與我何干?</span><span class="push-ipdatetime"> 06/03 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 這串推文裡 第一個講造謠的是...</span><span class="push-ipdatetime"> 06/03 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 而是你們用知道的人不多為藉口 把過錯全部推到對岸去</span><span class="push-ipdatetime"> 06/03 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 那個教授也有臉書啊 你可以去他FB留言要他道歉啊</span><span class="push-ipdatetime"> 06/03 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 一堆人跳針 那你們說大陸的醜事時 也不是我啊 關我屁事</span><span class="push-ipdatetime"> 06/03 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 廣西省在中國是五線城市  但還是吃得起茶葉蛋喔！</span><span class="push-ipdatetime"> 06/03 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 一有事情就切歌，還討論個屁</span><span class="push-ipdatetime"> 06/03 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 那不切割要怎麼做 你覺得</span><span class="push-ipdatetime"> 06/03 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 很多中國人並不噁心，他們也希望有一天可以脫離專制</span><span class="push-ipdatetime"> 06/03 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 廣西是省，不是城市 沒邏輯的就不要出來丟臉</span><span class="push-ipdatetime"> 06/03 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: ，但是中共養了很多五毛，掩蓋真實好中國人的想法，</span><span class="push-ipdatetime"> 06/03 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 想了解中國人，要看得全面，等朋友們看到五毛被中國</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 美國吃驚 日本震驚   中國射精</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 教授就一個陌生人啊 我跟他什麼關係要跟他不切割</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 人嘴成狗，就知道我在說什麼了。</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 五線省真的有夠落後哈哈哈</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 就是一個不知道哪所學店的教授搞出的笑話 跟一般人何干</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Passion1129</span><span class="f3 push-content">: 支那狗要台灣土地有種就打過來   嘴砲還不就隻狗</span><span class="push-ipdatetime"> 06/03 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 可以啊 討論到臺灣糗事你們就切割 跟自己無關</span><span class="push-ipdatetime"> 06/03 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 換位思考就行了 很簡單的 有聽過英法番茄醬的故事嗎?</span><span class="push-ipdatetime"> 06/03 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 滿地爛泥巴   長江以南最不爭氣的</span><span class="push-ipdatetime"> 06/03 21:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k782782000</span><span class="f3 push-content">: 中國人就常常講這種幹話啊 不意外</span><span class="push-ipdatetime"> 06/03 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 那你們討論大陸醜事時 人家一樣可以切割 別以為祇有你會</span><span class="push-ipdatetime"> 06/03 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 上面不也是說是教授的問題了 所以你覺得台灣人要怎</span><span class="push-ipdatetime"> 06/03 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 麼做你或全中國人才會滿意?</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 難道又要道歉了喔 沒梗</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KGarnett05</span><span class="f3 push-content">: 支那小丑又出來放屁了 64戰車趕快開出來碾死這雜碎吧</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">irosehead</span><span class="f3 push-content">: 垃圾遊戲</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 中國連共享單車雨傘都做不起來  還敢說自己共產 ?</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 當事人名字你知道 你可以去要求當事人道歉啊</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dartmoor</span><span class="f3 push-content">: 這賽評寫這種文已經涉及種族歧視了吧，有沒有人可以翻</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們什麼時候承認是教授的錯誤？我看你們一直檢討對方玻璃</span><span class="push-ipdatetime"> 06/03 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dartmoor</span><span class="f3 push-content">: 譯ㄧ下寄給主辦單位，相信他會受到懲處</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bluebear</span><span class="f3 push-content">: 瞧，這不就一隻廣西支那畜來表演崩潰了XD</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 心 都是大陸人的錯</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 現在是被我有理有據的，批駁了以後才承認是教授的錯</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 你錯了，64坦克只會殺死好的中國人，壞人都沒有良心</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 上面寫一堆教授白癡，看不懂中文阿</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 茶葉蛋是中國人心中永遠的痛 r.i.p</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: ，不會為了正義而拋棄生命的。</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 我不批評你們，你們會老實承認這點嗎</span><span class="push-ipdatetime"> 06/03 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 說你們玻璃心不代表教授說的就是有理阿 你沒邏輯阿</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們不希望大陸人提茶葉袋的事，是因為你們出醜了</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 中國人吃不起茶葉蛋?是你們廣西人吃不起吧</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 中國人不是垃圾，但是會在這裡的中國人一定是廢物，</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 這無庸置疑。</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 自己省落後 別亂拉其他人下水啊</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eroha90021</span><span class="f3 push-content">: realtw智障 來告我啊</span><span class="push-ipdatetime"> 06/03 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KNVSEOC</span><span class="f3 push-content">: 真玻璃</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 但中國人一直提也很奇怪 你就不能當他是個案嗎</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dirubest</span><span class="f3 push-content">: 明天是值得紀念的日子</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 得了吧 之前提到茶葉蛋的問題 你們有誰承認是臺灣這邊錯</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 台灣不同年齡層有不同教育背景 對中國認知各式各樣</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 啊 是要承認什麼? 學店教授說的蠢話 要我們承認什麼?</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 討論來討論去就是大陸人玻璃心 絕對不能提這件事</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 肯定是廣西人真的吃不起  才會對這言論急的跳腳</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 你一直要跟一位上了年紀的教授對抗..</span><span class="push-ipdatetime"> 06/03 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 這麼害怕大陸人討論茶葉蛋 到底是誰玻璃心?</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gowaa</span><span class="f3 push-content">: 哪有中國人一直提 只有他在提而已</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 對吼 我忘了 謝謝樓上修正</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MASAMIFANS</span><span class="f3 push-content">: 茶葉蛋怎麼了??</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 誰跟你害怕提? 我還怕你們少了茶葉蛋事件就沒東西可嘴了</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 深怕廣西人吃不起茶葉蛋會被發現</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 完全不知道你提這件事是為什麼? 這對我國一般人又不重</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 就你這種五毛超無聊一直提</span><span class="push-ipdatetime"> 06/03 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 是是是 臺灣人一出醜 就五四三的人群細分 極度切割</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 不敢說64只敢說茶葉蛋就知道這一個一定是五毛。</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 就很清楚一句話 老一輩人 眼中的中國就這樣阿 不懂嗎</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 中國廣西省真的好慘啊  吃不起茶葉蛋還專出低能兒</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dirubest</span><span class="f3 push-content">: 廣西狗被履帶壓在底下的時候也會笑吟吟的擁護黨嗎？</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">armedlove</span><span class="f3 push-content">: 誒...不會吧？我以為茶葉蛋的笑話是把「中國人覺得台灣</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">armedlove</span><span class="f3 push-content">: 人普遍認為中國人吃不起茶葉蛋」這件事當笑話耶</span><span class="push-ipdatetime"> 06/03 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 大陸人出醜 那就是大陸人全是這樣 絕對不用細分人群</span><span class="push-ipdatetime"> 06/03 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 中國人本身就是個笑話</span><span class="push-ipdatetime"> 06/03 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 他的時代背景 他可能是說謊 也可能親眼體驗過 就那樣</span><span class="push-ipdatetime"> 06/03 21:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 這串有誰提到大陸人出醜的事</span><span class="push-ipdatetime"> 06/03 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: realtw自以為代表中共人的正義啦，其他人說啥他都不會接受</span><span class="push-ipdatetime"> 06/03 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 你們那套玩法我還不知道 自己人出醜事就一直切割</span><span class="push-ipdatetime"> 06/03 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 可悲 廣西省自己窮還還想黑其他省 真的不要臉</span><span class="push-ipdatetime"> 06/03 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 一直在亂扯 推文都很多大家給你的解釋了</span><span class="push-ipdatetime"> 06/03 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 然後乾我屁事 雖然我也親眼所見過其他醜事 與我何干?</span><span class="push-ipdatetime"> 06/03 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 所以不切割到底要怎麼做 你教我們好嗎</span><span class="push-ipdatetime"> 06/03 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 難怪我的中國室友也超討厭廣西  整天跟我抱怨</span><span class="push-ipdatetime"> 06/03 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 就你們那點玩法我還不清楚</span><span class="push-ipdatetime"> 06/03 21:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 這裡有誰跟那個學店教授是自己人啊?中國的自己人也太寬</span><span class="push-ipdatetime"> 06/03 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 難不成我還要為他跟你道歉? 有沒有這麼弱智...?</span><span class="push-ipdatetime"> 06/03 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: 你這傢伙的自我勝利法我看太多了，噁心</span><span class="push-ipdatetime"> 06/03 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 你有為中國弱智做的行為 向世界各國道歉過嗎?</span><span class="push-ipdatetime"> 06/03 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 一個連PTT都不會用的陌生人 到底干我們什麼事啊?</span><span class="push-ipdatetime"> 06/03 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 還是某些弱智中國人 水土破壞多了 影響其他國家環境</span><span class="push-ipdatetime"> 06/03 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 我也不懂？還一直咬著茶葉蛋不放</span><span class="push-ipdatetime"> 06/03 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 中國人中只要是五毛就是垃圾，我朋友北京人，之前就</span><span class="push-ipdatetime"> 06/03 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 跟我說過，五毛不代表中國人。但是就是會有五毛一直</span><span class="push-ipdatetime"> 06/03 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 搞爛中國人的名聲，可悲啊…</span><span class="push-ipdatetime"> 06/03 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 你也要出來道歉? 沒有吧? 你也覺得與你何干吧?</span><span class="push-ipdatetime"> 06/03 21:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FairPrice</span><span class="f3 push-content">: 支那人不意外</span><span class="push-ipdatetime"> 06/03 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVDrww</span><span class="f3 push-content">: realtw更該為身為五毛向中共人道歉</span><span class="push-ipdatetime"> 06/03 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 啊 對了要先幫中國網友QQ 可能以後只能玩騰訊沒STEAM了</span><span class="push-ipdatetime"> 06/03 21:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 支持哪隊有規定喔，也太ㄏ了吧，沒自由到這種地步</span><span class="push-ipdatetime"> 06/03 21:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: Steam以後不能用了嗎?</span><span class="push-ipdatetime"> 06/03 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 那不然你好好懺悔 雖然樹不是你砍的 錢不是你賺的 但</span><span class="push-ipdatetime"> 06/03 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 你要不要幫騰訊為壟斷中國市場的行為向中國網友道歉</span><span class="push-ipdatetime"> 06/03 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 弱智中國人 弄出一堆空氣問題 沙塵問題 你別切割</span><span class="push-ipdatetime"> 06/03 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 中國人真的很慘，一堆五毛瘋狂自慰，敗壞好中國人的</span><span class="push-ipdatetime"> 06/03 21:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 中國玻璃運來台灣居然沒有碎掉喔？呵</span><span class="push-ipdatetime"> 06/03 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 名聲，跟我溝通還要先說自己不是五毛QQ</span><span class="push-ipdatetime"> 06/03 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 雖然 在我心中 錢不是你賺的我就懶的屌你 我也不會路</span><span class="push-ipdatetime"> 06/03 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 上怪罪中國人 要他懺悔 但是你是不是希望這樣做?</span><span class="push-ipdatetime"> 06/03 21:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nalthax</span><span class="f3 push-content">: 真的反台獨的話要說「我們中國人」啊，講反台獨心裡的想</span><span class="push-ipdatetime"> 06/03 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nalthax</span><span class="f3 push-content">: 法卻比誰都天然獨，口是心非愛崩潰</span><span class="push-ipdatetime"> 06/03 21:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1qazbgt5</span><span class="f3 push-content">: 地是中國的  那你也是狗娘生的  用喊的誰不會？</span><span class="push-ipdatetime"> 06/03 21:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deathnote14</span><span class="f3 push-content">: 影響周圍各國的事情都 沒放在眼裡了 一個笑話算啥?</span><span class="push-ipdatetime"> 06/03 21:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9061204</span><span class="f3 push-content">: 人家領薪水養家的也不容易啊 說錯話可能丟工作 幫QQ</span><span class="push-ipdatetime"> 06/03 21:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmac</span><span class="f3 push-content">: 就有人一直崩潰啊，那個教授是誰根本在臺灣沒人知道，隨便拿</span><span class="push-ipdatetime"> 06/03 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmac</span><span class="f3 push-content">: 個名號出來說說你們也能高潮是有多自卑啊</span><span class="push-ipdatetime"> 06/03 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a1qazbgt5</span><span class="f3 push-content">: 有本事把現在非法政權趕走  不然就別整天學狗叫  智障</span><span class="push-ipdatetime"> 06/03 21:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ukyoGoGo</span><span class="f3 push-content">: 支那狗的心真易碎</span><span class="push-ipdatetime"> 06/03 21:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">polyman73</span><span class="f3 push-content">: 遠離九二 杜絕愛支</span><span class="push-ipdatetime"> 06/03 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hayate65536</span><span class="f3 push-content">: 真的支那人不吵根本不知道有茶葉蛋這事ww</span><span class="push-ipdatetime"> 06/03 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hayate65536</span><span class="f3 push-content">: 垃圾支那賤畜乖乖待在籠子裡的好，別出來給人笑</span><span class="push-ipdatetime"> 06/03 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmac</span><span class="f3 push-content">: 而且這種斷章取義上微博熱門也不少，臺灣一堆節目被這樣轉上</span><span class="push-ipdatetime"> 06/03 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmac</span><span class="f3 push-content">: 微博取笑的也不在少數，跟你這些人解釋了也就被回說:別太認</span><span class="push-ipdatetime"> 06/03 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmac</span><span class="f3 push-content">: 真，只是好玩而已，那臺灣說茶葉蛋也只是剛好而已</span><span class="push-ipdatetime"> 06/03 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 就真的一堆人吃不起啊 要崩潰多久?</span><span class="push-ipdatetime"> 06/03 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 能上網的那些中國人無法想像中國偏鄉有多窮?</span><span class="push-ipdatetime"> 06/03 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxcvbn56563</span><span class="f3 push-content">: xDDDDD</span><span class="push-ipdatetime"> 06/03 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">llwopp</span><span class="f3 push-content">: 台灣人為什麼要幫飛彈瞄準我們的國家加油？台灣人瘋了？</span><span class="push-ipdatetime"> 06/03 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aliensoul</span><span class="f3 push-content">: 比英霸沒人氣 可憐</span><span class="push-ipdatetime"> 06/03 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: realtw看到情勢不對，又逃走了。真是典型五毛的行為</span><span class="push-ipdatetime"> 06/03 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">warmblizzard</span><span class="f3 push-content">: 。</span><span class="push-ipdatetime"> 06/03 22:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: 沒什麼觀眾是因為前面幾天不開放一般民眾入場好嗎？</span><span class="push-ipdatetime"> 06/03 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: 台北國際電腦展前幾天是要專業人士證明的 或是採訪證</span><span class="push-ipdatetime"> 06/03 22:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: 研討會性質</span><span class="push-ipdatetime"> 06/03 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: <a href="https://www.computextaipei.com.tw/zh_TW/show/info.html?" target="_blank" rel="nofollow">https://www.computextaipei.com.tw/zh_TW/show/info.html?</a></span><span class="push-ipdatetime"> 06/03 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: id=D6EA8CD9C277802AD0636733C6861689&amp;sFuncID=D6EA8CD9C27</span><span class="push-ipdatetime"> 06/03 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: 7802AD0636733C6861689</span><span class="push-ipdatetime"> 06/03 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Esolider</span><span class="f3 push-content">: 好喔</span><span class="push-ipdatetime"> 06/03 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: 呃…我縮一下吧！</span><span class="push-ipdatetime"> 06/03 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: <a href="https://goo.gl/fY8Imv" target="_blank" rel="nofollow">https://goo.gl/fY8Imv</a></span><span class="push-ipdatetime"> 06/03 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ruby02162000</span><span class="f3 push-content">: 中國人為什麼那麼愛幻想我們覺得他們吃不起茶葉蛋啊</span><span class="push-ipdatetime"> 06/03 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ruby02162000</span><span class="f3 push-content">: =＿=</span><span class="push-ipdatetime"> 06/03 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: 贏惹也能崩潰 不愧是中國人 了不起</span><span class="push-ipdatetime"> 06/03 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mobetac24369</span><span class="f3 push-content">: 贏了也要玻璃心= =</span><span class="push-ipdatetime"> 06/03 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a31670323</span><span class="f3 push-content">: 支那狗</span><span class="push-ipdatetime"> 06/03 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kruzin</span><span class="f3 push-content">: 茶葉蛋就中國人愛自嗨，根本沒啥台灣人知道的節目</span><span class="push-ipdatetime"> 06/03 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killver</span><span class="f3 push-content">: Dota有台灣伺服器嗎？科科，dota連線品質，問號</span><span class="push-ipdatetime"> 06/03 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gin10791</span><span class="f3 push-content">: 中國怎麼可能吃不起茶葉蛋 只是不愛吃而已 他們愛吃屎</span><span class="push-ipdatetime"> 06/03 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">balaking</span><span class="f3 push-content">: 一些看似國外電競周邊其實都是中國廠商吧</span><span class="push-ipdatetime"> 06/03 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colasung37</span><span class="f3 push-content">: 當然生氣啊 黨每次都給他五毛 現在他吃得起茶葉蛋了</span><span class="push-ipdatetime"> 06/03 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colasung37</span><span class="f3 push-content">: 當然討厭別人說他吃不起阿</span><span class="push-ipdatetime"> 06/03 22:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CLOT0424</span><span class="f3 push-content">: 中國人本來就吃不起茶葉蛋了 而且是他們自己說的 說好幾</span><span class="push-ipdatetime"> 06/03 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CLOT0424</span><span class="f3 push-content">: 年了</span><span class="push-ipdatetime"> 06/03 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blowchina</span><span class="f3 push-content">: 看不出來有崩潰阿？？</span><span class="push-ipdatetime"> 06/03 22:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beypola</span><span class="f3 push-content">: 茶葉蛋? 什麼茶葉蛋 想吃去超商買不就好了</span><span class="push-ipdatetime"> 06/03 22:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qaz0314</span><span class="f3 push-content">: 中國人又崩潰了</span><span class="push-ipdatetime"> 06/03 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 觀察你們的生態真的很有趣</span><span class="push-ipdatetime"> 06/03 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freshmints</span><span class="f3 push-content">: 以你們可悲的年均 還真的有不少人吃不起茶葉蛋</span><span class="push-ipdatetime"> 06/03 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freshmints</span><span class="f3 push-content">: 然後跟這件事情的關聯是什麼啊 一開始不是還說屌打我</span><span class="push-ipdatetime"> 06/03 22:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freshmints</span><span class="f3 push-content">: 們 而且都不知道幾百年的事情了 還沒幾個知道的XDD</span><span class="push-ipdatetime"> 06/03 22:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freshmints</span><span class="f3 push-content">: 然後如果論說錯的話 你哪句有道歉過的 呵呵</span><span class="push-ipdatetime"> 06/03 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pewsggl</span><span class="f3 push-content">: realch秀下限～～</span><span class="push-ipdatetime"> 06/03 22:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">madaniel</span><span class="f3 push-content">: 他們中國的臉都被這些玻璃心智障丟光了~</span><span class="push-ipdatetime"> 06/03 22:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Organizer</span><span class="f3 push-content">: 你玩膩你家的事</span><span class="push-ipdatetime"> 06/03 23:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riches</span><span class="f3 push-content">: 看到有人崩潰就是爽</span><span class="push-ipdatetime"> 06/03 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wtfconk</span><span class="f3 push-content">: 支那人不意外,在台灣拿盡好處嘴巴還是一樣臭,之前遇到個</span><span class="push-ipdatetime"> 06/03 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfconk</span><span class="f3 push-content">: 店家請的支那店員,服務態度差,於是我問他一句&#34;你口音是中</span><span class="push-ipdatetime"> 06/03 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfconk</span><span class="f3 push-content">: 國人吧&#34;,接著對方就暴走了,反問你不也中國人不然難道美國</span><span class="push-ipdatetime"> 06/03 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfconk</span><span class="f3 push-content">: 人嘛,真的是八七支那,國際觀只有兩個國家,而且超級玻璃心</span><span class="push-ipdatetime"> 06/03 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfconk</span><span class="f3 push-content">: ,拿了台灣工作權卻不認台灣,這種也只有無良政府才容許他</span><span class="push-ipdatetime"> 06/03 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfconk</span><span class="f3 push-content">: 們在本地工作...</span><span class="push-ipdatetime"> 06/03 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">batsukirei</span><span class="f3 push-content">: 看著都覺得可憐起來了</span><span class="push-ipdatetime"> 06/03 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">logitech2004</span><span class="f3 push-content">: 到底茶葉蛋是什麼梗？為什麼台灣從沒人討論啊</span><span class="push-ipdatetime"> 06/03 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">logitech2004</span><span class="f3 push-content">: 每次看到用茶葉蛋來酸都很莫名，沒人覺得大陸人吃</span><span class="push-ipdatetime"> 06/03 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">logitech2004</span><span class="f3 push-content">: 不起吧</span><span class="push-ipdatetime"> 06/03 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winter0723</span><span class="f3 push-content">: 崩XDDDDD</span><span class="push-ipdatetime"> 06/03 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 很傻眼,那個說我們媒體報導偏頗的也是不知道台灣人真正</span><span class="push-ipdatetime"> 06/03 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 討厭中國人的原因,中國的國民教育和操作資訊就是強</span><span class="push-ipdatetime"> 06/03 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">protect6090</span><span class="f3 push-content">: 南京大屠殺沒殺光牠們真的是日本人的錯哈哈</span><span class="push-ipdatetime"> 06/03 23:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 茶葉蛋好像就有個廣告很北爛吧</span><span class="push-ipdatetime"> 06/03 23:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 真心覺得中國人很煩</span><span class="push-ipdatetime"> 06/03 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 台灣人根本沒人在討論中國人跟茶葉蛋的事</span><span class="push-ipdatetime"> 06/03 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">orz7887245</span><span class="f3 push-content">: 自己要請大陸狗當賽評 怪我囉？</span><span class="push-ipdatetime"> 06/03 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 中國人真是自我意識過剩 才會去看那種三流節目自嗨</span><span class="push-ipdatetime"> 06/03 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 希望他們有朝一日可以學會尊重別人</span><span class="push-ipdatetime"> 06/03 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">suifong</span><span class="f3 push-content">: 茶葉蛋那個教授多久了，而且他是說貧困地區。</span><span class="push-ipdatetime"> 06/03 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 不是廣告 是有個台灣人都不看的節目 說了甚麼</span><span class="push-ipdatetime"> 06/03 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 中國人為什麼不懂當他們學會尊重台灣人時 就可以自然地獲</span><span class="push-ipdatetime"> 06/03 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 得台灣這個盟友？唉</span><span class="push-ipdatetime"> 06/03 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 中國人常說殺光台灣人 那中國人都殺人魔囉</span><span class="push-ipdatetime"> 06/03 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 整天在那邊嗆要殺台灣人 這種恐怖份子般的行為誰敢接近</span><span class="push-ipdatetime"> 06/03 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 還有說你們中國人就崩潰 奇怪耶</span><span class="push-ipdatetime"> 06/03 23:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 一個台灣人講茶葉蛋 中國人就整天靠北</span><span class="push-ipdatetime"> 06/03 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 他們中國人可是成天恐嚇台灣人欸 真是不知羞恥</span><span class="push-ipdatetime"> 06/03 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OoJudyoO</span><span class="f3 push-content">: 其他獨裁國家人民也沒中國人討厭 北韓伊朗古巴人好多了</span><span class="push-ipdatetime"> 06/03 23:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 我覺得更北爛的是連翻牆來的都不知道台灣為何討厭他們</span><span class="push-ipdatetime"> 06/03 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 都翻牆了還不知道有夠扯,不知是不想還是不敢承認事實</span><span class="push-ipdatetime"> 06/03 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h73o1012</span><span class="f3 push-content">: 蝦? 支那? 重要嗎?</span><span class="push-ipdatetime"> 06/03 23:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Knudsen</span><span class="f3 push-content">: 中國人水準真是不是很高</span><span class="push-ipdatetime"> 06/03 23:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Teng0615</span><span class="f3 push-content">: 64646464646464 realcn 6464646464</span><span class="push-ipdatetime"> 06/03 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s19900923</span><span class="f3 push-content">: 那是啥？</span><span class="push-ipdatetime"> 06/03 23:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">antu1019</span><span class="f3 push-content">: realtw好愛茶葉蛋</span><span class="push-ipdatetime"> 06/03 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz19860929</span><span class="f3 push-content">: 支那人崩潰干我屁事，回去掃玻璃啦</span><span class="push-ipdatetime"> 06/03 23:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thomaschion</span><span class="f3 push-content">: 邊緣比賽</span><span class="push-ipdatetime"> 06/03 23:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tuna0214</span><span class="f3 push-content">: 有人崩潰只好推了</span><span class="push-ipdatetime"> 06/04 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SophiaLee</span><span class="f3 push-content">: ??</span><span class="push-ipdatetime"> 06/04 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mochi79726</span><span class="f3 push-content">: 喔淫了喔共喜</span><span class="push-ipdatetime"> 06/04 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">psku</span><span class="f3 push-content">: 今天是支那豚不能提及的日子</span><span class="push-ipdatetime"> 06/04 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kiaee</span><span class="f3 push-content">: 中國才是大家的吧 支那人滾吧</span><span class="push-ipdatetime"> 06/04 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Shermie</span><span class="f3 push-content">: 支那人性喜作假 小鼻子小眼睛 無衛生觀念 喜歡給人管</span><span class="push-ipdatetime"> 06/04 00:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerrys0580</span><span class="f3 push-content">: taiwan no.1!!!!</span><span class="push-ipdatetime"> 06/04 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 仇恨還不夠高  加油了 吱吱們</span><span class="push-ipdatetime"> 06/04 00:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LivveTi</span><span class="f3 push-content">: 贏了也要崩潰 到底XD</span><span class="push-ipdatetime"> 06/04 00:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gghost1002</span><span class="f3 push-content">: 支那支那支那</span><span class="push-ipdatetime"> 06/04 00:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">snwen513</span><span class="f3 push-content">: 64快到了</span><span class="push-ipdatetime"> 06/04 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ChenYenChou</span><span class="f3 push-content">: 肥宅世界滾回臭酸專版</span><span class="push-ipdatetime"> 06/04 00:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azhu</span><span class="f3 push-content">: 8726</span><span class="push-ipdatetime"> 06/04 00:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alphabear</span><span class="f3 push-content">: 賤畜</span><span class="push-ipdatetime"> 06/04 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Andebull</span><span class="f3 push-content">: ?</span><span class="push-ipdatetime"> 06/04 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 地是中國的？我發現很多中國人接受這樣的洗腦教育，真</span><span class="push-ipdatetime"> 06/04 00:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 的都以為臺灣這塊島自古就是屬於中國的…麻煩多去唸點</span><span class="push-ipdatetime"> 06/04 00:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikazeray</span><span class="f3 push-content">: 書研究研究吧。</span><span class="push-ipdatetime"> 06/04 00:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzzmmp13</span><span class="f3 push-content">: 426就是這樣才沒人喜歡</span><span class="push-ipdatetime"> 06/04 01:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iris470</span><span class="f3 push-content">: 因為中國人都realcn這樣子所以被討厭不eyR</span><span class="push-ipdatetime"> 06/04 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feanor0709</span><span class="f3 push-content">: 真支那 崩潰~</span><span class="push-ipdatetime"> 06/04 01:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">madaniel</span><span class="f3 push-content">: 要吃屎智障五毛唸書也太難為它們</span><span class="push-ipdatetime"> 06/04 01:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plains</span><span class="f3 push-content">: 地是中國的 那為什麼住在上面的是台灣人哩？我想中國可能</span><span class="push-ipdatetime"> 06/04 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">plains</span><span class="f3 push-content">: 沒有教邏輯…</span><span class="push-ipdatetime"> 06/04 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">plains</span><span class="f3 push-content">: 話說今天是64 realtw不要再講茶葉蛋了 來聊聊天安門啊～</span><span class="push-ipdatetime"> 06/04 02:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo60703</span><span class="f3 push-content">: 頗ㄏ realcn先乖乖紀念一下64啊</span><span class="push-ipdatetime"> 06/04 02:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UniversalGod</span><span class="f3 push-content">: 支那噁心</span><span class="push-ipdatetime"> 06/04 02:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justice0926</span><span class="f3 push-content">: 支那低能儿</span><span class="push-ipdatetime"> 06/04 02:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeyun</span><span class="f3 push-content">: 這樣也要崩潰</span><span class="push-ipdatetime"> 06/04 03:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Alimoe</span><span class="f3 push-content">: 看中國人崩潰就是爽</span><span class="push-ipdatetime"> 06/04 03:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxwu2012</span><span class="f3 push-content">: 茶葉蛋在中國那麼紅哦？</span><span class="push-ipdatetime"> 06/04 04:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maxwu2012</span><span class="f3 push-content">: 我沒看五毛說我還不知道勒</span><span class="push-ipdatetime"> 06/04 04:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yef7591</span><span class="f3 push-content">: 26只會拿台灣人不知道的茶葉蛋出來講zz 那是老一輩的想法</span><span class="push-ipdatetime"> 06/04 04:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yef7591</span><span class="f3 push-content">: 啊 他們之前真的窮現在好一點也沒用 人太多 87一大堆</span><span class="push-ipdatetime"> 06/04 04:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eeveelugia2</span><span class="f3 push-content">: 這只證明支那畜的玻璃心又到了前所未有的境界</span><span class="push-ipdatetime"> 06/04 05:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eeveelugia2</span><span class="f3 push-content">: 我第一次看到贏了比賽還可以崩潰的</span><span class="push-ipdatetime"> 06/04 05:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Woodstock1</span><span class="f3 push-content">: Dota2是啥？ 魔獸的新地圖？</span><span class="push-ipdatetime"> 06/04 06:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chenpc2002</span><span class="f3 push-content">: 誰來翻譯一下這個邊緣宅在講什麼？</span><span class="push-ipdatetime"> 06/04 07:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mapodoufu</span><span class="f3 push-content">: realtw說不定就是老一輩人XD</span><span class="push-ipdatetime"> 06/04 07:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oceanman</span><span class="f3 push-content">: 強國人超自卑哪招，要支持誰你管得著??</span><span class="push-ipdatetime"> 06/04 08:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dawn5566</span><span class="f3 push-content">: 中國廢物realcn今天什麼日子你知道嗎？</span><span class="push-ipdatetime"> 06/04 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hank11235813</span><span class="f3 push-content">: 全世界都欠你們中國人啊? 草擬媽的回去慶祝六四去</span><span class="push-ipdatetime"> 06/04 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cretio753</span><span class="f3 push-content">: 一個路人對著樹洞偷偷說“你是狗”，這是很值得在意的</span><span class="push-ipdatetime"> 06/04 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cretio753</span><span class="f3 push-content">: 事？</span><span class="push-ipdatetime"> 06/04 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cretio753</span><span class="f3 push-content">: 這人從沒聽過，這話從沒聽過，出處也是你說了才知道。</span><span class="push-ipdatetime"> 06/04 09:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cretio753</span><span class="f3 push-content">: 對一個無名氏說的屁話 ，台灣人除了不在乎又能怎樣？</span><span class="push-ipdatetime"> 06/04 09:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DeaGoo</span><span class="f3 push-content">: 真的玻璃</span><span class="push-ipdatetime"> 06/04 09:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 支那人還不看清楚，年輕人根本覺得你們有夠噁心</span><span class="push-ipdatetime"> 06/04 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chiguang</span><span class="f3 push-content">: 我唯一會幫南韓棒球加油，也是南韓vs中國時…中國有夠狗</span><span class="push-ipdatetime"> 06/04 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryankkk</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 06/04 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JyouItsu</span><span class="f3 push-content">: 支那賤民整天意淫台灣地他們的，但是只能鍵盤嘴砲  氣噗</span><span class="push-ipdatetime"> 06/04 14:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kokskuld</span><span class="f3 push-content">: 啊不就很會打電動而已... 有很了不起ㄇ= =</span><span class="push-ipdatetime"> 06/04 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Justin890820</span><span class="f3 push-content">: twitch看比賽 老外也是在酸中國觀眾啦幹 nb贏了才有</span><span class="push-ipdatetime"> 06/05 01:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Justin890820</span><span class="f3 push-content">: 掌聲尖叫聲 og等等外國隊贏了鴉雀無聲 每次都這樣</span><span class="push-ipdatetime"> 06/05 01:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Justin890820</span><span class="f3 push-content">: 才會每次都被酸crowds 中國自己也好不到哪裡</span><span class="push-ipdatetime"> 06/05 01:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neil2003tw</span><span class="f3 push-content">: Dota2屌打檯面上所有遊戲</span><span class="push-ipdatetime"> 06/05 01:37
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496492856.A.D53.html?cacheKey=2052-20410878&offset=57946&offset-sig=561cca5d59f9a7bd2f81a310d5029ce824d013ee" data-longpollurl="/v1/longpoll?id=5fa1eae7a2fb6edc689c17c64dda4e1710e9830f" data-offset="57946"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

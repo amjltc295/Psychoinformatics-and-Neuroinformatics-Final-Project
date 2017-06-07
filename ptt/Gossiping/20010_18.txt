@@ -1,0 +1,321 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494921842.A.CE9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 三維集成技術很怪的科目 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="各位鄉民大家好 今天呢 本人去看網購書
+發現到有一本書叫做三維集成技術 翻成英文是three-dimensional integration
+technology 本魯發現到這本書跟熱力學有關聯耶 如此奇怪的科目
+是不是已經過時了 在台灣也沒這門課阿 這是本書目錄 有沒有掛?
+第1章 三維集成電路概述
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 三維集成技術很怪的科目">
+<meta property="og:description" content="各位鄉民大家好 今天呢 本人去看網購書
+發現到有一本書叫做三維集成技術 翻成英文是three-dimensional integration
+technology 本魯發現到這本書跟熱力學有關聯耶 如此奇怪的科目
+是不是已經過時了 在台灣也沒這門課阿 這是本書目錄 有沒有掛?
+第1章 三維集成電路概述
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494921842.A.CE9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494921842.A.CE9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">chamge7788 (經濟王7887)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 三維集成技術很怪的科目</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 16:03:59 2017</span></div>
+各位鄉民大家好 今天呢 本人去看網購書
+
+發現到有一本書叫做三維集成技術 翻成英文是three-dimensional integration
+
+technology 本魯發現到這本書跟熱力學有關聯耶 如此奇怪的科目
+
+是不是已經過時了 在台灣也沒這門課阿 這是本書目錄 有沒有掛?
+
+第1章 三維集成電路概述
+1.1集成電路發展的瓶頸
+1.1.1互連延遲與數據傳輸帶寬
+1.1.2功耗
+1.1.3異質芯片的SoC集成
+1.2三維集成電路
+1.2.1三維集成的優點
+1.2.2三維集成的分類
+1.2.3三維集成制造技術概述
+1.2.4三維集成的應用
+1.3三維集成的歷史、現狀及發展前景
+1.3.1三維集成的歷史
+1.3.2三維集成的現狀
+1.3.3發展前景和趨勢
+1.4三維集成面臨的挑戰
+1.4.1制造技術
+1.4.2散熱與熱管理
+1.4.3可靠性
+1.4.4成品率及成本
+1.4.5模型、模擬、設計方法和設計規則
+1.4.6測量測試
+參考文獻
+
+第2章 三維互連制造技術
+2.1三維互連制造概述
+2.1.1TSV深孔刻蝕
+2.1.2深孔側壁絕緣和擴散阻擋層
+2.1.3TSV深孔導電填充
+2.1.4圓片減薄
+2.1.5圓片鍵合
+2.2高深寬比深孔刻蝕
+2.2.1等離子體刻蝕
+2.2.2時分復用法
+2.2.3低溫刻蝕法
+2.2.4磁中性環路放電刻蝕
+2.2.5TSV深孔刻蝕
+2.2.6激光刻蝕加工
+2.3介質層材料與工藝
+2.3.1介質層沉積
+2.3.2介質層材料
+2.3.3低介電常數介質層
+2.4粘附層／擴散阻擋層／種子層材料與工藝
+2.4.1擴散阻擋層和種子層的制造方法
+2.4.2擴散阻擋層
+2.4.3種子層
+2.5導電填充與電鍍
+2.5.1銅電鍍原理
+2.5.2TSV盲孔電鍍
+2.5.3TSV通孔電鍍
+2.5.4電鍍的理論模型與模擬
+2.5.5其他導體材料
+參考文獻
+
+第3章 鍵合集成技術
+3.1鍵合技術概述
+3.1.1鍵合基本原理
+3.1.2鍵合方法
+3.1.3鍵合對象
+3.1.4鍵合強度測量
+3.2鍵合對准方法
+3.2.1紅外對准
+3.2.2光學對准
+3.2.3倒裝芯片
+3.2.4芯片自組裝對准
+3.2.5模板對准
+3.3金屬鍵合
+3.3.1微凸點技術
+3.3.2銅熱壓鍵合
+3.3.3金屬共晶鍵合
+3.4二氧化硅融合鍵合
+3.4.1鍵合原理
+3.4.2鍵合過程和特點
+3.5高分子臨時鍵合
+3.5.1臨時鍵合
+3.5.2WaferBOND
+3.5.3HD3007
+3.5.4其他臨時鍵合材料
+3.5.5拆鍵合方法
+3.6高分子永久鍵合
+3.6.1苯並環丁烯（BCB）鍵合
+3.6.2聚酰亞胺（PI）鍵合
+3.7金屬一高分子材料混合鍵合
+3.7.1Cu—BCB混合鍵合
+3.7.2銅一聚酰亞胺混合鍵合
+3.7.3銅錫共晶混合鍵合
+3.8化學機械拋光（CMP）
+3.8.1化學機械拋光基本原理
+3.8.2單晶硅和二氧化硅化學機械拋光
+3.8.3銅化學機械拋光
+3.8.4高分子材料化學機械拋光
+3.9硅圓片減薄
+3.9.1硅圓片減薄
+3.9.2回刻
+參考文獻
+
+第4章 三維集成策略
+4.1TSV的工藝順序
+4.1.1TSV工藝順序的分類及特點
+4.1.2ViaFirst工藝
+4.1.3ViaMiddle工藝
+4.1.4ViaLast工藝
+4.1.5基於通孔的三維集成
+4.1.6SOI圓片三維集成
+4.2鍵合方式的選擇
+4.2.1芯片／圓片的選擇
+4.2.2芯片方向的選擇
+4.2.3鍵合方法的選擇
+4.3典型集成方法和策略
+4.3.1ViaFirst工藝方法
+4.3.2ViaMiddle工藝方法
+4.3.3ViaLast工藝方法
+4.3.4SOI三維集成的工藝方法
+4.3.5通孔電鍍ViaLast方案
+4.4插入層技術
+4.4.1插入層的功能與特點
+4.4.2插入層典型結構及制造流程
+4.4.3玻璃插入層
+4.4.4插入層的應用
+4.5三維集成可制造性
+4.5.1三維集成的制造
+4.5.2三維集成的制造成本
+參考文獻
+
+第5章 三維集成的電學和熱力學特性
+5.1三維互連的電學分析及模型
+5.1.1TSV閉式參數模型
+5.1.2RLCG集約模型
+5.1.3寬頻帶集約模型
+5.1.4TSV的插入損耗與噪聲耦合
+5.1.5TSV性能的溫度影響
+5.1.6電容調控
+5.2三維集成的熱學特性
+5.2.1三維集成的溫度特性及其影響
+5.2.2熱傳導模型
+5.2.3有限元方法
+5.2.4三維集成的功耗優化設計
+5.3三維集成的散熱問題
+5.3.1熱傳導TSV
+5.3.2微流體散熱
+5.3.3鍵合層熱導率增強
+參考文獻
+
+第6章 三維集成的可靠性
+6.1三維集成的可靠性問題
+6.2殘余應力
+6.2.1殘余應力的影響
+6.2.2TSV殘余應力
+6.2.3硅片減薄殘余應力
+6.2.4鍵合應力
+6.3熱應力及熱學可靠性
+6.3.1TSV銅柱熱膨脹
+6.3.2銅柱熱膨脹對可靠性的影響
+6.3.3銅柱熱膨脹對襯底器件電學性能的影響
+6.3.4熱膨脹的影響因素
+6.3.5退火熱處理
+6.3.6溫度沖擊
+6.3.7熱膨脹的分析方法
+6.4電學可靠性
+6.4.1電遷移
+6.4.2擴散阻擋層的完整性
+6.4.3閾值電壓
+6.4.4介質層完整性
+6.5三維集成成品率
+6.5.1三維集成成品率估計
+6.5.2成品率提升
+參考文獻
+
+第7章 三維集成檢測與測試
+7.1電學參數測量
+7.1.1電阻測量
+7.1.2TSV電容測量
+7.2電學可靠性測量
+7.2.1TSV及金屬凸點的電遷移
+7.2.2擴散阻擋層完整性
+7.2.3介質層完整性
+7.2.4TSV電鍍缺陷測量
+7.3幾何參數測量
+7.3.1硅片彎曲測量
+7.3.2TSV深度的測量
+7.3.3TSV熱膨脹測量
+7.4應力測量方法
+7.4.1Stoney公式法
+7.4.2集成應力傳感器
+7.4.3拉曼散射光譜
+7.4.4納米壓痕
+7.4.5X射線衍射
+7.4.6同步輻射X射線衍射
+7.4.7TSV銅晶粒
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.164.130.130
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494921842.A.CE9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494921842.A.CE9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: 中國翻譯的</span><span class="push-ipdatetime"> 05/16 16:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tyrande</span><span class="f3 push-content">: 黑人問號.png</span><span class="push-ipdatetime"> 05/16 16:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 樓下推打穿惹～GG</span><span class="push-ipdatetime"> 05/16 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ridecule</span><span class="f3 push-content">: 你貼這個衝三小</span><span class="push-ipdatetime"> 05/16 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 支那集成</span><span class="push-ipdatetime"> 05/16 16:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">powerdown</span><span class="f3 push-content">: 應該是後續半導體產業的重點發展方向</span><span class="push-ipdatetime"> 05/16 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">patentshit</span><span class="f3 push-content">: 匪區用語，翻譯成人話比較容易看懂</span><span class="push-ipdatetime"> 05/16 16:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">enso</span><span class="f3 push-content">: 3D IC. 看看Sony新的stack image sensor就知道了</span><span class="push-ipdatetime"> 05/16 18:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494921842.A.CE9.html?cacheKey=2052-37975233&offset=4851&offset-sig=c1d98e0945c976ad2135b40b215683b06e36ce8d" data-longpollurl="/v1/longpoll?id=9818ec432648798f41bb6ac43a1f95c7937d6054" data-offset="4851"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

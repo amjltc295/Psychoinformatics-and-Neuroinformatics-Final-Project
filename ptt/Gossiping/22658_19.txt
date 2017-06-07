@@ -1,0 +1,235 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496686284.A.449.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="法匠又亂寫了～
+從頭到尾本案就是符合「醫療常規」就是SOP
+哪裏存在當醫生本來就有重大瑕疵的時候
+要自負舉證責任證明醫療瑕疵不會造成不利結果？
+判決書中所說醫生有重大瑕疵的認定
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過">
+<meta property="og:description" content="法匠又亂寫了～
+從頭到尾本案就是符合「醫療常規」就是SOP
+哪裏存在當醫生本來就有重大瑕疵的時候
+要自負舉證責任證明醫療瑕疵不會造成不利結果？
+判決書中所說醫生有重大瑕疵的認定
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496686284.A.449.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496686284.A.449.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">xifaka (當之無愧)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 02:11:22 2017</span></div>
+法匠又亂寫了～
+從頭到尾本案就是符合「醫療常規」就是SOP
+哪裏存在當醫生本來就有重大瑕疵的時候
+要自負舉證責任證明醫療瑕疵不會造成不利結果？
+判決書中所說醫生有重大瑕疵的認定
+全部都是拿台大醫院內部自編的手冊來說醫生有瑕疵
+真是貽笑大方！
+每一本醫書治療方式都不一樣 是要看哪一本？
+然後法官自創一個鳥創新理論
+認為醫生符合「醫療常規」還不夠
+這個只是最低標準
+不能認為醫生盡到善良管理人注意義務
+還必須達到「醫療水準」才算盡到注意義務而無瑕疵
+但是「醫療水準」的判斷標準
+就是根據台大內部自編的手冊跟準則
+所以法官認為「醫療水準」等於「內部自編手冊」？
+
+但是一般醫療指引guideline是規範全國的醫院
+Guideline就是「醫療常規」是醫生應遵循的SOP
+Guideline就是「醫療常規」是醫生應遵循的SOP
+為何層級比台大醫院自編的內部手冊層級還低？
+
+按照判決書的見解
+就是「醫療水準」盡到的注意義務大於「醫療常規」
+也就是「台大內部自編的手冊跟準則」比guideline
+還有完善 這根本不對吧？
+
+一本醫院內部自編的手冊
+層級高於全世界通用的醫療常規
+這是什麼見解？真是廢到笑！
+
+真的不意外法官會拿本草綱目來判中醫師有醫療過失反正「本草綱目」等於「醫療水準」
+「醫療水準」盡到的注意義務大於「醫療常規」
+本草綱目勝過世界通行的guideline
+真是佩服佩服！
+
+原來不遵守醫院內部自編的手冊會這麼嚴重
+全台灣每個醫院內部自編手冊的治療方法又不一樣
+到底是要看哪一本？
+
+等一下法匠又要叫我滾去看判決書了
+好好好 奴才去看了！判決書就是聖旨不能質疑！
+
+
+<span class="f2">※ 引述《jazz5566 (五六爵士)》之銘言：
+</span><span class="f2">※ 引述《jazz5566 (五六爵士)》之銘言：
+</span><span class="f6">: 剛才終於看了這個判決惹
+</span><span class="f6">: 我只能說新聞根本就在鬼扯
+</span><span class="f6">: 最高院認為醫院應該舉證的是 「因果關係」
+</span><span class="f6">: 最高法院認為， 「當醫生本來就有重大瑕疵的時候」
+</span><span class="f6">: 這個瑕疵，到底會不會造成死亡的結果，其中的因果關係，由於原告不具有醫學專業知識
+</span><span class="f6">: ，所以必須由醫生方面來進行舉證。
+</span><span class="f6">: 過失行為-----------------------------&gt;損害結果
+</span><span class="f6">:                   因果關係
+</span><span class="f6">: 大概長得像這樣
+</span><span class="f6">: 而且二審法院在判決中提到。法官看了當時的病歷之後，發現醫院從病患住院觀察到意識
+</span><span class="f6">: 昏迷，
+</span><span class="f6">: 這個期間都沒有去觀察他的昏迷指數和生命徵象，也沒有做出評估。
+</span><span class="f6">: 也因此，並未及時安排電腦斷層掃描。
+</span><span class="f6">: 根據醫療常規，你沒有做到這些事情，應該是屬於有疏失的。
+</span><span class="f6">: 而且只有住院醫師看診，期間並沒有主治醫師陪同。
+</span><span class="f6">: 而且從刑案的紀錄來看
+</span><span class="f6">: 住院醫師也有陳述，主治醫師也沒有確實督導住院醫師。
+</span><span class="f6">: 反而住院醫師一開始只照Ｘ光，因為符合ＳＯＰ，是沒有過失的。
+</span><span class="f6">: 加上，　醫審會也認為主治醫師延遲處理有過失。
+</span><span class="f6">: 所以，最高法院認為，你醫生本來就有過失。
+</span><span class="f6">: 現在問題在於，「過失」和「損害」之間有沒有「因果關係」？
+</span><span class="f6">: 由於家屬根本沒有專業能力舉證，所以將這個舉證責任分配給醫生。
+</span><span class="f6">: 由於家屬根本沒有專業能力舉證，所以將這個舉證責任分配給醫生。
+</span><span class="f6">: 由於家屬根本沒有專業能力舉證，所以將這個舉證責任分配給醫生。
+</span><span class="f6">: 而且二審因果關係部分也沒有調查清楚，所以發回。
+</span><span class="f6">: 說好的舉證無過失呢？
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.147.42.228
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496686284.A.449.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496686284.A.449.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 嘻嘻 法匠會叫你吞下去</span><span class="push-ipdatetime">06/06 02:13
+</span></div><span class="f2">※ 編輯: xifaka (27.147.42.228), 06/06/2017 02:17:41
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">atorneychien</span><span class="f3 push-content">: 可是照你這樣說起來 台大醫院有照他們編的那個手冊</span><span class="push-ipdatetime"> 06/06 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">atorneychien</span><span class="f3 push-content">: 去訓練好醫師(不論是住院或主治)? 好像也沒有呀</span><span class="push-ipdatetime"> 06/06 02:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">atorneychien</span><span class="f3 push-content">: 所以編那本是編好玩的? Training是Training假的?</span><span class="push-ipdatetime"> 06/06 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">atorneychien</span><span class="f3 push-content">: 還是台大的醫師是自走砲 根本沒被Training好?</span><span class="push-ipdatetime"> 06/06 02:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lastmile</span><span class="f3 push-content">: 如果覺得台大醫生沒訓練好拜託別去找台大出來的醫生看診</span><span class="push-ipdatetime"> 06/06 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lastmile</span><span class="f3 push-content">: ，很多人會感謝你們的。</span><span class="push-ipdatetime"> 06/06 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 那本就參考用的啊！我問好幾個台大醫師都沒看過</span><span class="push-ipdatetime"> 06/06 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 你怎麼程度一點長進也沒有?</span><span class="push-ipdatetime"> 06/06 02:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: Hi 法匠 你亂寫被我拆穿又要亂人肉了吧？</span><span class="push-ipdatetime"> 06/06 02:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 笑死 只准法官判決書使用獨門暗器不依照通說判決 醫師治</span><span class="push-ipdatetime"> 06/06 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 療按照醫療常規還不行 還要依照醫院內部自編的手冊 才能</span><span class="push-ipdatetime"> 06/06 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 達到善良管理人注意義務</span><span class="push-ipdatetime"> 06/06 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: ....醫療責任舉證轉換 算什麼獨門見解?說你程度差還不信</span><span class="push-ipdatetime"> 06/06 02:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 都已經在最高院了 還通說暗器咧?你以為在國考喔?</span><span class="push-ipdatetime"> 06/06 02:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 舉證責任倒置這是通說嗎？</span><span class="push-ipdatetime"> 06/06 02:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 本職學能那麼差 連法律也學不好 你能不能認真一點去學?</span><span class="push-ipdatetime"> 06/06 02:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 舉證責任倒置不是嗎? 這話題談了這麼久 隨便找文章都有</span><span class="push-ipdatetime"> 06/06 02:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 不懂就去找家教or上學 反正教你也不聽 88</span><span class="push-ipdatetime"> 06/06 02:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 法官自己都不用盡到判決水準 連判決依照通說都做不到</span><span class="push-ipdatetime"> 06/06 03:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 法匠連判決書都看不懂 法官自創一個醫療水準定義 法匠都</span><span class="push-ipdatetime"> 06/06 03:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 不覺得怪？</span><span class="push-ipdatetime"> 06/06 03:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 法匠判決書看不懂 道理說不過就趕快跑 明明就不是通說的</span><span class="push-ipdatetime"> 06/06 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 東西遇到醫師就轉彎 跟遇到阿扁馬上適用實質影響力說</span><span class="push-ipdatetime"> 06/06 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 舉證責任倒置到底哪個案子還有適用過？還敢說這是通說～</span><span class="push-ipdatetime"> 06/06 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 通個鬼！</span><span class="push-ipdatetime"> 06/06 03:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 法匠好棒棒，搞到四大科出走，醫師招不滿，平時罵台大醫，</span><span class="push-ipdatetime"> 06/06 07:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 出事又送台大醫</span><span class="push-ipdatetime"> 06/06 07:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seed77788</span><span class="f3 push-content">: 舉證責任轉換不算獨門暗器吧……真要說的話學者也只是</span><span class="push-ipdatetime"> 06/06 07:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seed77788</span><span class="f3 push-content">: 對類型化在糾結而已 而且誰說一定要照通說跟判例判 都</span><span class="push-ipdatetime"> 06/06 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seed77788</span><span class="f3 push-content">: 已經是最高院了</span><span class="push-ipdatetime"> 06/06 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 對啊 那醫師幹嘛要按照醫療常規治療 每一本寫的還不一樣</span><span class="push-ipdatetime"> 06/06 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 咧</span><span class="push-ipdatetime"> 06/06 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seed77788</span><span class="f3 push-content">: 所以我從來不認為不照醫療常規治療檢查就是有過失啊 但</span><span class="push-ipdatetime"> 06/06 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seed77788</span><span class="f3 push-content">: 是醫療訴訟事證偏在的特性給比較專業的醫生證明他沒有</span><span class="push-ipdatetime"> 06/06 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seed77788</span><span class="f3 push-content">: 過失我很贊成啊</span><span class="push-ipdatetime"> 06/06 10:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">earnformoney</span><span class="f3 push-content">: 由衷佩服jazz大跟seed大 我已經放棄治療了XD</span><span class="push-ipdatetime"> 06/06 12:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 對啊 國家賠償也應該讓行政機關舉證無過失 尤其在特別權</span><span class="push-ipdatetime"> 06/06 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 利關係下 舉證責任也要倒置啊？為何只適用醫療業？</span><span class="push-ipdatetime"> 06/06 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 也不看看多少人不信任台灣法律 法匠還自以爲治療</span><span class="push-ipdatetime"> 06/06 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 法官都可以替人扯公使錢來脫罪了,有需要時用本草網目來</span><span class="push-ipdatetime"> 06/06 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 定醫生的罪有何不可,法官真那麼厲害自己看就好了</span><span class="push-ipdatetime"> 06/06 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 神農本草經變成醫療常規也不意外～話說到底要看哪本醫書</span><span class="push-ipdatetime"> 06/06 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 06/06 14:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CCcat525</span><span class="f3 push-content">: jazz5566可以說明一下本案重大瑕疵是如何認定的嗎?</span><span class="push-ipdatetime"> 06/07 09:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496686284.A.449.html?cacheKey=2052-2733507&offset=7462&offset-sig=5c864f04c5c4b3831a8d257299ff28cd51d65b2b" data-longpollurl="/v1/longpoll?id=c65438bce0da688a8775fda28e0ca7ae0112697b" data-offset="7462"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,173 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496285220.A.770.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] Android Pay登台動手玩 6大須知與4大支付 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="安全？你信嗎？Google敢說我可不敢聽，看看下面這則報導
+隱私只是一場夢？Google打算追蹤你的信用卡消費紀錄
+http://www.ithome.com.tw/news/114492
+Google在23日發表新的行銷工具服務，將整合用戶的線上行為資料，以及第三方提供信用
+卡消費紀錄，試圖為行銷人員解答數位行銷與實體商店消費間的關聯，引發了隱私保護團
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] Android Pay登台動手玩 6大須知與4大支付">
+<meta property="og:description" content="安全？你信嗎？Google敢說我可不敢聽，看看下面這則報導
+隱私只是一場夢？Google打算追蹤你的信用卡消費紀錄
+http://www.ithome.com.tw/news/114492
+Google在23日發表新的行銷工具服務，將整合用戶的線上行為資料，以及第三方提供信用
+卡消費紀錄，試圖為行銷人員解答數位行銷與實體商店消費間的關聯，引發了隱私保護團
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496285220.A.770.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496285220.A.770.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">purplvampire (阿修雷)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] Android Pay登台動手玩 6大須知與4大支付</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 10:46:55 2017</span></div>
+<span class="f2">※ 引述《ComeThrough (☁)》之銘言：
+</span><span class="f6">: Android Pay 登台動手玩！6 大須知與 4 大支付比一比
+</span><span class="f6">: <a href="http://www.ettoday.net/news/20170601/935609.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170601/935609.htm</a>
+</span><span class="f6">: ※快速、安全：
+</span><span class="f6">: 雖然註冊麻煩一點點，然而安全性也跟 Apple Pay 與 Samsung Pay 一樣，Android Pay
+</span><span class="f6">: 在安全性方面遠比信用卡還高，而且個人資料也不會外漏，對使用者而言，透過
+</span><span class="f6">: Android Pay 付款無需記憶、輸入各種付款明細，只要選擇欲付款的卡，並輸入安全碼或
+</span><span class="f6">: 透過 Android 裝置進行驗證，即可輕鬆快速、安全的付款。
+</span>安全？你信嗎？Google敢說我可不敢聽，看看下面這則報導
+
+隱私只是一場夢？Google打算追蹤你的信用卡消費紀錄
+<a href="http://www.ithome.com.tw/news/114492" target="_blank" rel="nofollow">http://www.ithome.com.tw/news/114492</a>
+
+Google在23日發表新的行銷工具服務，將整合用戶的線上行為資料，以及第三方提供信用
+卡消費紀錄，試圖為行銷人員解答數位行銷與實體商店消費間的關聯，引發了隱私保護團
+體的批評。
+
+Google即將推出的行銷服務，將會利用到使用者的刷卡消費購物紀錄，Google更聲稱，已
+經能夠<span class="f3 hl">掌握美國境內70%的信用卡與簽帳卡的交易資料</span>。
+
+Google可以透過自家的Android手機、YouTube、Google Maps、搜尋Gmail等消費端服務，
+加上網路行銷工具AdWords、店家自行灌入AdWords的使用者購物歷史，或來自第三方資料
+業者的外部資料、信用卡消費資料等，便可確立企業網路行銷投資與店面消費之間的實際
+關聯。
+
+=====================
+
+那些傻傻的Andriod美國用戶已經拿自己當祭品送給Google信用卡消費紀錄給店家打廣告
+，你要成為下一個白兔嗎？
+
+
+--
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">obov</span><span class="f3 push-content">: 雷姆教  雷姆教  雷姆幫你蕊懶叫</span><span class="push-ipdatetime">08/22 00:40
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.35.120.28
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496285220.A.770.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496285220.A.770.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 掌握美國境內70%的信用卡與簽帳卡的交易資料XDDDDDDDD</span><span class="push-ipdatetime"> 06/01 10:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChiuYi5566</span><span class="f3 push-content">: 真傻 你覺得其他pay就不會蒐集你的資料嗎</span><span class="push-ipdatetime"> 06/01 10:48
+</span></div>重點是拿你的資料去賣阿幹
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cake10414</span><span class="f3 push-content">: 支那寶:</span><span class="push-ipdatetime"> 06/01 10:49
+</span></div><span class="f2">※ 編輯: purplvampire (114.35.120.28), 06/01/2017 10:50:14
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OPisgood</span><span class="f3 push-content">: 哪種PAY不會蒐集你資料 你能不能講一個出來</span><span class="push-ipdatetime"> 06/01 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 現金PAY</span><span class="push-ipdatetime"> 06/01 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 啊你用google的各種服務有付錢嗎？</span><span class="push-ipdatetime"> 06/01 10:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppc</span><span class="f3 push-content">: 真的 哪一種pay不蒐集資料</span><span class="push-ipdatetime"> 06/01 10:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hpw841031</span><span class="f3 push-content">: 信用卡也會記錄啊，賣給誰只是你腦補吧?雖然我覺得銀行</span><span class="push-ipdatetime"> 06/01 10:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hpw841031</span><span class="f3 push-content">: 也有在(ry</span><span class="push-ipdatetime"> 06/01 10:53
+</span></div>都打廣告給你看了還在腦補Orz
+<span class="f2">※ 編輯: purplvampire (114.35.120.28), 06/01/2017 10:54:30
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waynedd</span><span class="f3 push-content">: 所有的無現金支付工具都會蒐集使用者資料.怕被蒐集資料就</span><span class="push-ipdatetime"> 06/01 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waynedd</span><span class="f3 push-content">: 用現金支付..連轉帳都不要..</span><span class="push-ipdatetime"> 06/01 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JT0624</span><span class="f3 push-content">: 不想被記錄就乖乖付現</span><span class="push-ipdatetime"> 06/01 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: apple pay跟samsung pay也一樣啦。</span><span class="push-ipdatetime"> 06/01 11:00
+</span></div>蘋果什麼時候把你的交易紀錄賣給店家打廣告過了?
+<span class="f2">※ 編輯: purplvampire (114.35.120.28), 06/01/2017 11:05:51
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">n0029480300</span><span class="f3 push-content">: 哪家pay都一樣啦</span><span class="push-ipdatetime"> 06/01 11:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aq981334</span><span class="f3 push-content">: 哪家PAY都一樣，Google是唯一一家敢明講的而已</span><span class="push-ipdatetime"> 06/01 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JH10</span><span class="f3 push-content">: 上面好像有些人不知道AdWords是什麼東西</span><span class="push-ipdatetime"> 06/01 12:59
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496285220.A.770.html?cacheKey=2052-11622207&offset=3539&offset-sig=d067e8709ac99590fb1d73c2d2f524aa313812ae" data-longpollurl="/v1/longpoll?id=672880583a965bb2258bce647da94d7debd45f9d" data-offset="3539"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

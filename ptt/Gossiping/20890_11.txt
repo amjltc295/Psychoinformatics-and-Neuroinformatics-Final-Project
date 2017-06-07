@@ -1,0 +1,223 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495534318.A.AB9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 只有台中人懂的梗有哪些？o&#39;_&#39;o - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="原PO跟推文好像都講得差不多了
+1.中港路
+口語上不講台灣大道
+除非要報很詳細正確的地址
+不然講的基本上都是目前讀高中以下的年輕台中人
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 只有台中人懂的梗有哪些？o&#39;_&#39;o">
+<meta property="og:description" content="原PO跟推文好像都講得差不多了
+1.中港路
+口語上不講台灣大道
+除非要報很詳細正確的地址
+不然講的基本上都是目前讀高中以下的年輕台中人
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495534318.A.AB9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495534318.A.AB9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">maple0425 (漏接達人)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 只有台中人懂的梗有哪些？o&#39;_&#39;o</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 18:11:52 2017</span></div>
+<span class="f2">※ 引述《cena59473 (感謝小狗)》之銘言：
+</span><span class="f6">: 安安
+</span><span class="f6">: 我是木柵于晏
+</span><span class="f6">: 謝謝
+</span><span class="f6">: 今天和一群台中人聊天
+</span><span class="f6">: 結果他們一直聊玖壹壹、中趕路、
+</span><span class="f6">: 小時候最常去科學博物館、
+</span><span class="f6">: 還有台中人早餐喜歡吃炒麵
+</span><span class="f6">: 旁邊一堆台北人好像都沒聽過
+</span><span class="f6">: 到底台中的梗還有哪些呀？
+</span><span class="f6">: o&#39;_&#39;o
+</span>
+
+
+原PO跟推文好像都講得差不多了
+
+1.中港路
+口語上不講台灣大道
+除非要報很詳細正確的地址
+不然講的基本上都是目前讀高中以下的年輕台中人
+
+2.科博館+植物園
+國小戶外教學一定會去個一兩次
+尤其是星期三，因為這天有些館(還是全館限學生?)是免費參觀
+
+3.早餐一定吃過炒麵+豬血湯
+炒麵一定要加東泉辣椒醬
+然後豐原地區是加源美辣椒醬
+
+4.大麵羹/焿(其實應該寫作大麵鹼 跟羹不一樣0.0)
+就是比一般麵條多加了鹼粉(俗稱蘇打粉)去讓麵條更粗
+鹼跟羹的台語發音接近所以就這樣以訛傳訛誤用了...
+不過這個食物沒有一般的羹那麼稠
+
+5.麻薏
+夏天消暑必吃
+
+6.尬賽
+讀高中那時候，想拉屎就是講「尬賽」
+不過我不確定外地人有沒有這樣講
+然後我在大學也有朋友是台中人但他聽不懂
+
+
+其他我想到的...
+
+7.小六的時候流行去考私立高中的國中部資優班
+最有名的就衛道跟曉明吧
+
+8.一中街=補習
+5點放學坐個車到一中街
+買個晚餐配個飲料 6點進水利大樓補習囉
+旁邊三民路上的中友附近也有補習大樓
+(高職的大多在火車站舊後站那邊)
+
+9.中出水煎包
+加調味料到水煎包這類食物上
+不管是甜辣醬還是醬油或是什麼醬
+把罐子的噴頭往包子戳進去擠就對了
+
+之前有外地同學看到我這樣
+露出一副&#34;哩洗咧衝啥小&#34;的意外表情0.0
+是說這樣才有讓內餡跟醬料充分混合的感覺阿
+抹在表皮 手或嘴角還很容易沾到 很不方便
+
+
+10.
+會有「ㄏㄧㄡˇ」這個音
+對方講完一句話，表達認同或是敷衍的時候用
+  跟「嗯」「是喔」的意思一樣
+或者是放在問句句尾，跟「嗎」的用法一樣
+
+
+
+大概是這樣
+其他等台中人補充
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.240.248.68
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495534318.A.AB9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495534318.A.AB9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DarkMooon</span><span class="f3 push-content">: 中出水煎包 超噁  不衛生 ==</span><span class="push-ipdatetime">05/23 18:14
+</span></div>哪裡不衛生...除非有人會去舔噴頭啦
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shdopeoplesn</span><span class="f3 push-content">: 炒麵綜合湯才是王道!</span><span class="push-ipdatetime">05/23 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eyeclose</span><span class="f3 push-content">: to 1F ,又沒人去舔醬料罐的嘴，中出再多包也不會出包啊</span><span class="push-ipdatetime">05/23 18:18
+</span></div>對 跟我想的一樣
+<span class="f2">※ 編輯: maple0425 (101.12.245.215), 05/23/2017 18:19:18
+</span><span class="f2">※ </span><span class="f2 hl">maple0425</span><span class="f2">:轉錄至看板 TaichungCont</span>                               05/23 18:23
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abcd23207991</span><span class="f3 push-content">: 喔喔水煎包那樣擠只有台中有ㄛ</span><span class="push-ipdatetime">05/23 18:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KBking</span><span class="f3 push-content">: 推樓上</span><span class="push-ipdatetime">05/23 18:24
+</span></div><span class="f2">※ </span><span class="f2 hl">maple0425</span><span class="f2">:轉錄至看板 TaichungBun</span>                                05/23 18:25
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">guohuo</span><span class="f3 push-content">: 中和也是這樣擠 我從國小就買中和廟口水煎包</span><span class="push-ipdatetime">05/23 18:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m21423</span><span class="f3 push-content">: 直擠在裡面口感有夠糟</span><span class="push-ipdatetime">05/23 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guohuo</span><span class="f3 push-content">: 自己孤陋寡聞 以為全台灣只有你們有阿 無知</span><span class="push-ipdatetime">05/23 18:26
+</span></div>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jokerleo815</span><span class="f3 push-content">: ㄏ一ㄡˇ</span><span class="push-ipdatetime">05/23 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dan5209</span><span class="f3 push-content">: 身分證號開頭B或L=正港台中人</span><span class="push-ipdatetime">05/23 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rv0918</span><span class="f3 push-content">: 我以為中出包子大家都會說QQ</span><span class="push-ipdatetime">05/23 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo3258</span><span class="f3 push-content">: 臺中最愛請外地的朋友吃慶祭</span><span class="push-ipdatetime">05/23 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">QQ5566</span><span class="f3 push-content">: 是不太衛生啊 你想想噴頭沾了油醬 放在室溫 滿滿的泥沙塵</span><span class="push-ipdatetime">05/23 18:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QQ5566</span><span class="f3 push-content">: 蒼蠅細菌大腸桿菌 加料 多棒</span><span class="push-ipdatetime">05/23 18:38
+</span></div>不是啊..
+如果自然放著 噴頭會有沙塵細菌
+那裡面是不是也一樣會有
+醬料經過噴頭也會沾到...
+<span class="f2">※ 編輯: maple0425 (101.12.245.215), 05/23/2017 18:45:25
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GanKer</span><span class="f3 push-content">: 照樓上的道理來說，只要食物碰到空氣，通通不衛生</span><span class="push-ipdatetime"> 05/23 18:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ALAN781215</span><span class="f3 push-content">: 10.ㄏ一ㄡˇ</span><span class="push-ipdatetime"> 05/23 19:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GonVolcano</span><span class="f3 push-content">: 推10.</span><span class="push-ipdatetime"> 05/23 19:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2654133</span><span class="f3 push-content">: 幹 超有共鳴XDDDD</span><span class="push-ipdatetime"> 05/23 19:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thejackys</span><span class="f3 push-content">: 塔斯丁狗ㄏㄧㄡˇ</span><span class="push-ipdatetime"> 05/23 20:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alphonse1</span><span class="f3 push-content">: 中出水煎包好懷念XD</span><span class="push-ipdatetime"> 05/23 21:14
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495534318.A.AB9.html?cacheKey=2052-38668393&offset=4260&offset-sig=f7c49f849b5d584124309f0761f25b0ce2bbe41d" data-longpollurl="/v1/longpoll?id=b2747b798a93819153eb49fb5c21c501095ea58e" data-offset="4260"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,160 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495382417.A.B92.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 幫了川普入主白宮 推特創辦人：我很抱歉 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+幫了川普入主白宮 推特創辦人：我很抱歉
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 幫了川普入主白宮 推特創辦人：我很抱歉">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+幫了川普入主白宮 推特創辦人：我很抱歉
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495382417.A.B92.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495382417.A.B92.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PttCastro (卡斯楚)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 幫了川普入主白宮 推特創辦人：我很抱歉</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 00:00:14 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+幫了川普入主白宮 推特創辦人：我很抱歉
+
+3.完整新聞內文:
+〔即時新聞／綜合報導〕美國總統川普（Donald Trump）曾提到，推特幫助他入主白宮，
+對此，推特共同創辦人威廉斯（Evan Williams）表示，如果那是真的，「我很抱歉」。
+
+美國《紐約時報》報導，威廉斯在受訪時，被問及川普將入主白宮的功勞歸給推特一事。
+川普在3月時曾表示，「我想，假如沒有推特，我或許就不在這了。」
+
+對此，威廉斯說，推特在其中扮演的角色，「真的非常糟糕」。他說，「如果沒有推特他
+不會成為總統，如果這是真的，那麼，我很抱歉。」白宮並對此作出回應。
+
+《紐時》指出，過去民眾要抒發情緒，頂多只能投稿報紙或與鄰居高談闊論，但在威廉斯
+創立推特和部落格後，民眾有個可以向全世界發言的免費平台。這在通訊科技的歷史上，
+猶如歐洲首位發明活字印刷術的古騰堡的現代翻版。
+
+但來到2017年，45歲的威廉斯說，「我認為網路敗壞了。」其實多年來他都這麼認為，但
+情況越來越糟了。
+
+他說，「我一度以為每個人都能自由說話、交換資訊和意見，自然而然世界就會變得更好
+，但我錯了。」
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/world/breakingnews/2074561" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/world/breakingnews/2074561</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.39.69.128
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495382417.A.B92.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495382417.A.B92.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lailungsheng</span><span class="f3 push-content">: I AM sorry</span><span class="push-ipdatetime"> 05/22 00:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lailungsheng</span><span class="f3 push-content">: I am Trump</span><span class="push-ipdatetime"> 05/22 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 豬頭嗎 川普能上只是因為 希婆更爛</span><span class="push-ipdatetime"> 05/22 00:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo1990910</span><span class="f3 push-content">: 那幫洨英選上宗痛 某團體要不要出來道歉？</span><span class="push-ipdatetime"> 05/22 00:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toto3527</span><span class="f3 push-content">: 他不用推特 是不會用fb膩</span><span class="push-ipdatetime"> 05/22 00:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">G888888</span><span class="f3 push-content">: 碼農還是好好當個碼農吧</span><span class="push-ipdatetime"> 05/22 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">now99</span><span class="f3 push-content">: 鎖他帳號啊</span><span class="push-ipdatetime"> 05/22 00:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Phater</span><span class="f3 push-content">: 說希拉蕊更爛的，能解釋川普那點優於希拉蕊的?</span><span class="push-ipdatetime"> 05/22 01:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j54353</span><span class="f3 push-content">: 沒被GOP撥糞20年啊</span><span class="push-ipdatetime"> 05/22 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j54353</span><span class="f3 push-content">: 還有川川是男的</span><span class="push-ipdatetime"> 05/22 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">barlin</span><span class="f3 push-content">: 做網路的還成天只想聽自己想聽的ㄏㄏ</span><span class="push-ipdatetime"> 05/22 02:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmbbp</span><span class="f3 push-content">: 本來是媒體帶風向 現在人人帶風向 看這些即時垃圾不如看書</span><span class="push-ipdatetime"> 05/22 07:52
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495382417.A.B92.html?cacheKey=2052-50840125&offset=2616&offset-sig=8a967bebb515576cc27e8efd1ba7533505c86f62" data-longpollurl="/v1/longpoll?id=2fe66f1bce2ad00c5f577735e3de2e75649279f4" data-offset="2616"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

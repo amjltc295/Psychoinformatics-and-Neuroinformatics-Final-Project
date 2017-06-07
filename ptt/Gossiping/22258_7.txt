@@ -1,0 +1,172 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496426577.A.80E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 車子違停遭拖吊　怎麼合法攔截取車有「 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+三立
+2.完整新聞標題:
+車子違停遭拖吊　怎麼合法攔截取車有「眉角」
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 車子違停遭拖吊　怎麼合法攔截取車有「">
+<meta property="og:description" content="1.媒體來源:
+三立
+2.完整新聞標題:
+車子違停遭拖吊　怎麼合法攔截取車有「眉角」
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496426577.A.80E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496426577.A.80E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">parttime (PT)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 車子違停遭拖吊　怎麼合法攔截取車有「</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 02:02:54 2017</span></div>
+1.媒體來源:
+三立
+
+2.完整新聞標題:
+車子違停遭拖吊　怎麼合法攔截取車有「眉角」
+
+3.完整新聞內文:
+駕駛人一旦違停，遇到警察取締違規車輛，該怎麼做才能合法攔截？彰化縣警局交通隊說
+，其實有「眉角」，只要車主和拖吊車同時到場，他們就放行、不開單；若車主到場，車
+已上架未移動，則開單放行；假使車主未到場，就直接到保管場領車。不過，苗栗縣警局
+做法，則是車子就算貼上封貼，只要車主現身後，不去撕毀或碰觸車子，加上拖吊車未移
+動車子，都會開單放行。
+
+拖吊搶快&#34;上架前&#34; 員警可放行攔截取車 ID-926302
+
+▲拖吊車流程。
+
+車子違停被拖吊，真的無法攔截取車嗎？其實警方有通融的空間。一般警方取締違停車輛
+，第1步會先鳴笛再拍照，接著在車子上貼封條，第3步把車子上架，最後一步，拖車回保
+管場。
+
+拖吊搶快&#34;上架前&#34; 員警可放行攔截取車 ID-926303
+
+▲若警方、駕駛人同時到場則可以現場放行。
+
+但以苗栗警方做法，過程中如果車主現身，車子雖然上架但未移動，苗栗交通隊警員表示
+：「原則上還是會放行，因為我們車子還沒移動。」車主想攔截取車，警員就會開出違停
+罰單後放行，但如果是車子已經移動，車主只能去保管場，支付違停罰單、拖吊以及保管
+費，期間車主不能碰觸車子、撕毀封條以及開車，否則會觸法妨害公務罪。
+
+拖吊搶快&#34;上架前&#34; 員警可放行攔截取車 ID-926301
+
+▲民眾最好還是將車依停車格停放，以免吃罰單。
+
+不過，每個縣市警局處置違停車輛做法大多雷同，像彰化警方空間比較大一點，彰化縣交
+通隊組長蕭汝上表示：「拖吊車已經到現場，駕駛人也馬上到現場，這種情況我們會實施
+放行。」除了這狀況是放行不開單外，其餘做法也和其他縣市一致，駕駛人若不想被拖吊
+，最好還是乖乖守法。
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.setn.com/News.aspx?NewsID=258572" target="_blank" rel="nofollow">http://www.setn.com/News.aspx?NewsID=258572</a>
+
+5.備註:
+
+之前遇到的是直接掛掉警察跟司機
+
+這方法不是最有效嗎
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.133.173.252
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496426577.A.80E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496426577.A.80E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #他國事務</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 開車門拖出來，缺點是警戒程度會提高</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: ID-926303  ID-926301</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ANiZan9991</span><span class="f3 push-content">: 都幾歲了還在那丟臉，違停活該死好</span><span class="push-ipdatetime"> 06/03 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abakama</span><span class="f3 push-content">: 違停不要拖吊，跟車什麼關係，通知車主，人道毀滅，或派</span><span class="push-ipdatetime"> 06/03 02:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abakama</span><span class="f3 push-content">: 去反共大陸</span><span class="push-ipdatetime"> 06/03 02:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jim1122</span><span class="f3 push-content">: 要嘛不要違停,要嘛有富爸爸買公牛,苗栗拖吊車應不敢。。</span><span class="push-ipdatetime"> 06/03 02:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kerodo</span><span class="f3 push-content">: 當初立法立心酸的。。還有解套方式。</span><span class="push-ipdatetime"> 06/03 02:30
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496426577.A.80E.html?cacheKey=2052-1821700&offset=2607&offset-sig=d9156a0f28fd6584a5c9bc15a26f9ee8c014e589" data-longpollurl="/v1/longpoll?id=7d41bfb18f8102fcc78ad58d74b7fcb87841cc2e" data-offset="2607"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

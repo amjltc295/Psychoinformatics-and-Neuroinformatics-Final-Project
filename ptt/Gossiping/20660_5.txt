@@ -1,0 +1,181 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495374318.A.9C0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 北市府倒貼賠錢辦世大運？柯文哲:會虧多 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="奧運、世界盃等等
+舉辦國都要花上不少預算 去賠錢舉辦
+而且金額都蠻誇張的
+世大運規模比較小
+但像這樣的活動 有機會可以不賠錢嗎? 甚至能賺錢嗎?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 北市府倒貼賠錢辦世大運？柯文哲:會虧多">
+<meta property="og:description" content="奧運、世界盃等等
+舉辦國都要花上不少預算 去賠錢舉辦
+而且金額都蠻誇張的
+世大運規模比較小
+但像這樣的活動 有機會可以不賠錢嗎? 甚至能賺錢嗎?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495374318.A.9C0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495374318.A.9C0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">evangelew (uwe)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 北市府倒貼賠錢辦世大運？柯文哲:會虧多</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 21:45:15 2017</span></div>
+<span class="f2">※ 引述《wuayi (很恐怖不要問)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: ※ 例如蘋果日報、奇摩新聞
+</span><span class="f6">: ettoday
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: ※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+</span><span class="f6">: 北市府倒貼賠錢辦世大運？柯文哲：會虧多少我不曉得
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 台北市議員王世堅17日在議會質詢時，踢爆北市府估世大運門票收入約6730萬元，但光售
+</span><span class="f6">: 票系統就斥資3000萬元，售票成本高達50％，若碰上雨天門票最貴的開閉幕式取消，北市
+</span><span class="f6">: 府還要賠錢倒貼，痛批毫無成本概念幾近荒唐。對此，市長柯文哲18日受訪時也稱，「算
+</span><span class="f6">: 出來會虧多少我不曉得。」
+</span><span class="f6">: 台北市體育局長鄭芳梵昨被王世堅追問，高鐵、客運等一般票證販售，委託賣票機構取得
+</span><span class="f6">: 售票成本都是5％才合理，結果世大運預計賣票6000萬元，且還是期望值，實際上可能根
+</span><span class="f6">: 本賣不到，但光售票成本就高達50％，「請問你的成本概念在哪裡？不會詢問其他公家單
+</span><span class="f6">: 位嗎？」
+</span><span class="f6">: 「當時世大運，在開閉幕的門票我個人是主張要高一點。」柯文哲表示，但後來認為，世
+</span><span class="f6">: 大運應當給民眾有更多的參與機會，所以最後票價可以說是最低價；至於世大運是否賠錢
+</span><span class="f6">: ？柯表示沒辦法回答，「應該是不要…世大運本來就不是為了財務平衡辦的。」
+</span><span class="f6">: 柯文哲表示，自己只知道門票開幕式800元、閉幕式500元，「至於算出來會虧多少我不曉
+</span><span class="f6">: 得」；但他強調，世大運有編列預算，所以不會動用到二備金。
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: ※ 當新聞連結過長時，需提供短網址方便網友點擊
+</span><span class="f6">: <a href="http://www.ettoday.net/news/20170518/927144.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170518/927144.htm</a>
+</span><span class="f6">: 5.備註:
+</span><span class="f6">: ※ 一個人一天只能張貼一則新聞，被刪或自刪也算額度內，超貼者水桶，請注意
+</span>
+
+奧運、世界盃等等
+舉辦國都要花上不少預算 去賠錢舉辦
+而且金額都蠻誇張的
+
+世大運規模比較小
+但像這樣的活動 有機會可以不賠錢嗎? 甚至能賺錢嗎?
+外國不知道有沒有這樣的例子
+
+舉辦大型運動會然後賺錢的?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.130.32
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495374318.A.9C0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495374318.A.9C0.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 怎會期待賺錢 連大陸人口這麼多 奧運也是賠阿</span><span class="push-ipdatetime"> 05/21 21:47
+</span></div>我也覺得賠錢正常
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 為啥不直接用兩廳院售票系統，或是直接外包給寬宏算了？這</span><span class="push-ipdatetime"> 05/21 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 賣票系統也真貴</span><span class="push-ipdatetime"> 05/21 21:47
+</span></div>那國外人士要怎麼購買?
+<span class="f2">※ 編輯: evangelew (101.15.130.32), 05/21/2017 21:50:38
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 兩廳院系統也有英文介面啊，外國人一樣能訂票。</span><span class="push-ipdatetime"> 05/21 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 另外資料庫是現成的，就算再寫個世大運專屬的前台，也不會</span><span class="push-ipdatetime"> 05/21 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 像現在這樣等於是重練，要花到三千萬那麼誇張</span><span class="push-ipdatetime"> 05/21 21:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 不是英文介面問題 是付費系統訂票系統要能給國外用</span><span class="push-ipdatetime"> 05/21 21:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adon0313</span><span class="f3 push-content">: 這種本來就是虧到死掉的活動</span><span class="push-ipdatetime"> 05/21 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 國外支付方式都要能整合 台灣售票系統搞得定嗎</span><span class="push-ipdatetime"> 05/21 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amury</span><span class="f3 push-content">: 這種會賺錢才是新聞</span><span class="push-ipdatetime"> 05/21 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 兩廳院系統可以用信用卡，其他售票系統還有paypal等付款手</span><span class="push-ipdatetime"> 05/21 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 段，有的連微信都在談了。台北市自己重練的售票系統，外國</span><span class="push-ipdatetime"> 05/21 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 人要付款買票還沒那麼方便呢</span><span class="push-ipdatetime"> 05/21 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 賠錢正常巴 目前這等級有賺錢沒幾個巴</span><span class="push-ipdatetime"> 05/21 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jt13</span><span class="f3 push-content">: 哀哀叫啥  大部分奧運都會賠錢了~~要辦之前都不知道嗎 幹</span><span class="push-ipdatetime"> 05/21 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 高雄世大運也是外包給外面的售票系統去賣，台北市卻要花三</span><span class="push-ipdatetime"> 05/21 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 千萬自己搞一套。雖然說都會賠，但是也還有大賠小賠之分</span><span class="push-ipdatetime"> 05/21 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 你叫郝龍斌來辦虧更大</span><span class="push-ipdatetime"> 05/21 22:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 如果不是因為市長是柯P，看到這種售票系統，都得要做夢夢</span><span class="push-ipdatetime"> 05/21 22:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 見有弊案了</span><span class="push-ipdatetime"> 05/21 22:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jullei</span><span class="f3 push-content">: 外包會不會又說圖利誰 過去台灣這類競賽門票有外包的嗎？</span><span class="push-ipdatetime"> 05/22 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewings</span><span class="f3 push-content">: 上面不就講了，高雄辦世運，售票就是外包出去的</span><span class="push-ipdatetime"> 05/22 00:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggttoo</span><span class="f3 push-content">: 賠就陪，至少科P有在把關，不會亂蓋12億的游泳池</span><span class="push-ipdatetime"> 05/22 01:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 高雄世大上次不是也是給這家做嗎?</span><span class="push-ipdatetime"> 05/22 10:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495374318.A.9C0.html?cacheKey=2052-48167424&offset=4318&offset-sig=1f321954818db7e3eadcf36709a089da8a614984" data-longpollurl="/v1/longpoll?id=ac4b9e88f4cc83643d4bdde0b2369b1ac22f3d40" data-offset="4318"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

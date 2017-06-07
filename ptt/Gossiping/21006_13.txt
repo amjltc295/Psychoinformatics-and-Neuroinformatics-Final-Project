@@ -1,0 +1,290 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495611757.A.FE4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 時力:數位金融要發展 就從告別財金幫開始 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ＦＢ卦點說明：
+時代力量與黃國昌最近打財政金融幫派很兇 大推
+從報稅系統就知道 這些裙帶人禍國殃民搞得有多誇張
+ＦＢ連結：
+https://www.facebook.com/newpowerparty/posts/1645017065569643
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 時力:數位金融要發展 就從告別財金幫開始">
+<meta property="og:description" content="ＦＢ卦點說明：
+時代力量與黃國昌最近打財政金融幫派很兇 大推
+從報稅系統就知道 這些裙帶人禍國殃民搞得有多誇張
+ＦＢ連結：
+https://www.facebook.com/newpowerparty/posts/1645017065569643
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495611757.A.FE4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495611757.A.FE4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ZMittermeyer (ZM)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 時力:數位金融要發展 就從告別財金幫開始</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 15:42:34 2017</span></div>
+ＦＢ卦點說明：
+
+時代力量與黃國昌最近打財政金融幫派很兇 大推
+
+從報稅系統就知道 這些裙帶人禍國殃民搞得有多誇張
+
+
+ＦＢ連結：
+<a href="https://www.facebook.com/newpowerparty/posts/1645017065569643" target="_blank" rel="nofollow">https://www.facebook.com/newpowerparty/posts/1645017065569643</a>
+
+ＦＢ內容：
+
+時代力量 New Power Party
+
+＃發言人時間
+「數位金融要發展 就從告別財金幫開始」
+　　
+金融之於經濟，如同血液之於人體。尤其在數位經濟時代，科技金融的發展更顯重要。
+問題是，台灣的金融業準備好了嗎？
+　　
+最近隨著Apple Pay在台灣正式上路，越來越多人注意到有一個政府默默推了很久的「
+台灣 Pay」，使用者評價卻始終慘不忍睹。事實上除了台灣 Pay，從第三方支付、電子
+支付到行動支付，幾乎每一步都落後國際發展的腳步。
+　　
+科技金融要發展，靠的是人才及創意。<span class="f3 hl">以台灣的科技力，相關技術毫無問題，問題出在
+</span><span class="f3 hl">當前金融圈，是被一群靠著年資及人脈的財金部會退休官員，也就是眾所周知的「財金
+</span><span class="f3 hl">幫」所把持</span>。即便績效出不來，依舊坐領高薪，這樣怎麼會有能力和意願把事情給做好
+？
+　　
+日前金管會在國會接受質詢時，曾明白表示不會延續前面幾任主委「打金融世界盃」的
+目標。對於這點我們必須表示肯定，畢竟連一個App都做不好，確實不該妄想打世界盃。
+如何改革舊體制，避免財金幫繼續佔據金融體系高位，才該是當前財金部會的首要之務
+。
+　　
+金融業不缺技術，更不缺年輕人才，唯一缺乏的是給他們表現機會，在一個公平透明的
+競爭環境，比拼創意和實力，而不是比拼誰當門神更有力。
+　　
+＝＝＝ 相關連結 ＝＝＝
+到底是誰綁架了台灣的行動支付？（肥貓與他們的產地）
+<a href="https://goo.gl/t43Wo3" target="_blank" rel="nofollow">https://goo.gl/t43Wo3</a>
+　　
+【改革玩真的？Part 1】 2016-11-21（黃國昌委員）
+<a href="https://goo.gl/TRF9R2" target="_blank" rel="nofollow">https://goo.gl/TRF9R2</a>
+　　
+【打破金融幫 改革要加速】2017-05-03（黃國昌委員）
+<a href="https://goo.gl/2nQlnJ" target="_blank" rel="nofollow">https://goo.gl/2nQlnJ</a>
+　　
+【財政部上億打造網路系統，報稅變抱怨】2017-05-10（黃國昌委員）
+<a href="https://goo.gl/4lL4ju" target="_blank" rel="nofollow">https://goo.gl/4lL4ju</a>
+　　
+金管會︰金融戰略 朝向開放（自由）
+<a href="https://goo.gl/2cK4X7" target="_blank" rel="nofollow">https://goo.gl/2cK4X7</a>
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.166.197
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495611757.A.FE4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495611757.A.FE4.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 支持</span><span class="push-ipdatetime"> 05/24 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 黃國昌你這是跟藍綠都對著幹呀</span><span class="push-ipdatetime"> 05/24 15:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 也只有他敢說</span><span class="push-ipdatetime"> 05/24 15:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hpw841031</span><span class="f3 push-content">: 你任期內沒解決他們，就一定回被解決掉了@@</span><span class="push-ipdatetime"> 05/24 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">if2</span><span class="f3 push-content">: 金融體系要擺自己人才方便辦事阿</span><span class="push-ipdatetime"> 05/24 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivan1408</span><span class="f3 push-content">: 這是加速台灣改革行政生態的作法</span><span class="push-ipdatetime"> 05/24 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 民進黨沒立委在罵財經幫自肥。也只有他敢講了</span><span class="push-ipdatetime"> 05/24 15:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 05/24 15:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jason91818</span><span class="f3 push-content">: 尿失禁黨：財金幫滾 ，我來</span><span class="push-ipdatetime"> 05/24 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leafall</span><span class="f3 push-content">: 還有交通幫，也麻煩順便打</span><span class="push-ipdatetime"> 05/24 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kerkyky</span><span class="f3 push-content">: 難怪會被罷免，打藍又打綠</span><span class="push-ipdatetime"> 05/24 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">encoreg10917</span><span class="f3 push-content">: 只有黃國昌有在專注在這塊上，給推</span><span class="push-ipdatetime"> 05/24 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MaxScorpio</span><span class="f3 push-content">: 想要罷免他的是不是腦袋有洞啊……</span><span class="push-ipdatetime"> 05/24 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">noabstersion</span><span class="f3 push-content">: 推~ 認真做事</span><span class="push-ipdatetime"> 05/24 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DexterMorgan</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bert6666x</span><span class="f3 push-content">: 老人幫</span><span class="push-ipdatetime"> 05/24 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rock810</span><span class="f3 push-content">: 工讀生不要混了，快上阿</span><span class="push-ipdatetime"> 05/24 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">theseller</span><span class="f3 push-content">: 幫補</span><span class="push-ipdatetime"> 05/24 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ienari</span><span class="f3 push-content">: 推  敢去打這個很有種</span><span class="push-ipdatetime"> 05/24 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LeeMatt</span><span class="f3 push-content">: 這是台灣自國民黨遷台至今的毒瘤</span><span class="push-ipdatetime"> 05/24 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MaxScorpio</span><span class="f3 push-content">: 再推</span><span class="push-ipdatetime"> 05/24 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kazekaze</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fr373969</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 05/24 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kazekaze</span><span class="f3 push-content">: 因為我的好朋友黃KK，我開始認同時代力量。</span><span class="push-ipdatetime"> 05/24 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JazzyKit</span><span class="f3 push-content">: 跟林全對幹...</span><span class="push-ipdatetime"> 05/24 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iqlow</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2603</span><span class="f3 push-content">: 難怪你被討厭</span><span class="push-ipdatetime"> 05/24 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckycat158</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">impact999</span><span class="f3 push-content">: 完全沒通過台灣pay這東西 山寨寶都比他有知名度</span><span class="push-ipdatetime"> 05/24 15:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hhtj</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 15:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q65810</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rock666</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toddy5401</span><span class="f3 push-content">: 支持  這不是藍綠的問題  這是既得利益者的共犯結構</span><span class="push-ipdatetime"> 05/24 16:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AtSeed</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aza0290</span><span class="f3 push-content">: 黃國昌被嗆全場大笑！費鴻泰：他藍綠人緣都極糟</span><span class="push-ipdatetime"> 05/24 16:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kokunmai</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/24 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">victoryman</span><span class="f3 push-content">: PUSH</span><span class="push-ipdatetime"> 05/24 16:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hellobuffet</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">season2011</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 05/24 16:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">szshiauguei</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kengoptt</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BEHIND</span><span class="f3 push-content">: 笑死 都換民進黨執政了還在國民黨 跟馬英九無能扯阿扁一樣</span><span class="push-ipdatetime"> 05/24 16:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stiles</span><span class="f3 push-content">: 這點要支持時力</span><span class="push-ipdatetime"> 05/24 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sps10513</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ax9214258</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acale0202</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sgsboyxl</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ArayaHellCat</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 17:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tyr2004</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 17:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex9708hero</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 17:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">haviccy</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 17:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linccccc</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 17:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 你怎麼老是跟既得利益者對幹呢？</span><span class="push-ipdatetime"> 05/24 17:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckywind</span><span class="f3 push-content">: 一定要改變這種亂象</span><span class="push-ipdatetime"> 05/24 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seebrave</span><span class="f3 push-content">: 把金融幫那堆老人拿掉 台灣金融圈科技力應該會變超強</span><span class="push-ipdatetime"> 05/24 18:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FORH</span><span class="f3 push-content">: 1</span><span class="push-ipdatetime"> 05/24 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frlin</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sggs</span><span class="f3 push-content">: 1</span><span class="push-ipdatetime"> 05/24 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnang</span><span class="f3 push-content">: 推 兆豐金查無實證</span><span class="push-ipdatetime"> 05/24 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ying0502</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king22649</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 沒救</span><span class="push-ipdatetime"> 05/24 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SkyIllusionn</span><span class="f3 push-content">: 有夠鳥的報稅系統</span><span class="push-ipdatetime"> 05/24 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">notsmall</span><span class="f3 push-content">: 認真做事推</span><span class="push-ipdatetime"> 05/24 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KNVSEOC</span><span class="f3 push-content">: 這倒是真的</span><span class="push-ipdatetime"> 05/24 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charlly</span><span class="f3 push-content">: push</span><span class="push-ipdatetime"> 05/24 19:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">banishment</span><span class="f3 push-content">: 大推</span><span class="push-ipdatetime"> 05/24 19:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaguars33</span><span class="f3 push-content">: 戰神加油 時力加油 金融改革才能讓台灣起飛</span><span class="push-ipdatetime"> 05/24 19:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hotaruinori</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 死廢物老人怎麼還不死一死？</span><span class="push-ipdatetime"> 05/24 19:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derringer</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/24 19:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/24 20:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catvsdog</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/24 20:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">redredder</span><span class="f3 push-content">: 這個必須推</span><span class="push-ipdatetime"> 05/24 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">camgogo</span><span class="f3 push-content">: push</span><span class="push-ipdatetime"> 05/24 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc1213</span><span class="f3 push-content">: .</span><span class="push-ipdatetime"> 05/24 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">codebreaker</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 20:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vikingman</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 20:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waeting</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sbtiagr</span><span class="f3 push-content">: 推 一堆老人在上面玩弄台灣金融</span><span class="push-ipdatetime"> 05/24 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yahe0526</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: 化石腦財金幫已嚴重阻礙台灣金融創新</span><span class="push-ipdatetime"> 05/24 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: 因為人脈遍布藍綠 所以沒人敢動 時力要加油</span><span class="push-ipdatetime"> 05/24 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luuluu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 20:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luuluu</span><span class="f3 push-content">: 真的只能靠時力了</span><span class="push-ipdatetime"> 05/24 20:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tieferozean</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 21:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">speedup</span><span class="f3 push-content">: 難怪被藍綠打得那麼慘</span><span class="push-ipdatetime"> 05/24 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piggymomo</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 21:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SorrowWind</span><span class="f3 push-content">: 絕對支持</span><span class="push-ipdatetime"> 05/24 21:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xzp436</span><span class="f3 push-content">: 黃國昌真的很猛...</span><span class="push-ipdatetime"> 05/24 21:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beryll</span><span class="f3 push-content">: 貓</span><span class="push-ipdatetime"> 05/24 21:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Camderela</span><span class="f3 push-content">: 猛</span><span class="push-ipdatetime"> 05/24 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beryll</span><span class="f3 push-content">: 肉</span><span class="push-ipdatetime"> 05/24 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">embracepl</span><span class="f3 push-content">: 推 時代力量! 加油!</span><span class="push-ipdatetime"> 05/24 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/24 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentbear</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mouse10389</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ez321</span><span class="f3 push-content">: 这事情深得人心</span><span class="push-ipdatetime"> 05/25 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 01:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">curiouscat</span><span class="f3 push-content">: 財經幫禍國殃民吶！！</span><span class="push-ipdatetime"> 05/25 01:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saint01</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 03:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a8084123</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 08:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnkofe</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 08:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sding</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">songsi</span><span class="f3 push-content">: 大推</span><span class="push-ipdatetime"> 05/25 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mrsbread</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/25 21:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lahermanda</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/26 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qphone</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/26 07:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 紙上談兵</span><span class="push-ipdatetime"> 05/29 22:11
+</span></div><span class="f2">※ </span><span class="f2 hl">NGgirl</span><span class="f2">:轉錄至看板 Finance</span>                                       05/29 22:59
+<span class="f2">※ </span><span class="f2 hl">NGgirl</span><span class="f2">:轉錄至看板 HatePolitics</span>                                  05/29 22:59
+<span class="f2">※ </span><span class="f2 hl">NGgirl</span><span class="f2">:轉錄至看板 Salary</span>                                        05/29 22:59
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ueewen</span><span class="f3 push-content">: 用刀叉吃人民血肉，就是這幫人！</span><span class="push-ipdatetime"> 05/29 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kt102441</span><span class="f3 push-content">: 時力就是要推</span><span class="push-ipdatetime"> 05/30 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catvsdog</span><span class="f3 push-content">: 推國昌 財經幫真的禍國殃民 一堆廢物</span><span class="push-ipdatetime"> 05/30 01:51
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495611757.A.FE4.html?cacheKey=2052-456707&offset=14013&offset-sig=257579c7a97e41b67d9c65249e4be73b57862b0e" data-longpollurl="/v1/longpoll?id=d7b45d6232dbf7a1e53695d48d2f1c9492ea0282" data-offset="14013"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

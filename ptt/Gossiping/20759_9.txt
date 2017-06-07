@@ -1,0 +1,197 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495449269.A.E23.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 中國棋手柯潔對戰AlphaGo　明天烏鎮登場 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="蘋果即時
+中國棋手柯潔對戰AlphaGo　明天烏鎮登場
+2017年05月22日18:21
+去年戰勝南韓知名棋手李世石九段的人工智慧AlphaGo，明將出戰中國19歲棋手柯潔，中
+國圍棋協會、浙江省體育局與Google上月宣佈，這場「中國烏鎮·圍棋峰會」，將於5月
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 中國棋手柯潔對戰AlphaGo　明天烏鎮登場">
+<meta property="og:description" content="蘋果即時
+中國棋手柯潔對戰AlphaGo　明天烏鎮登場
+2017年05月22日18:21
+去年戰勝南韓知名棋手李世石九段的人工智慧AlphaGo，明將出戰中國19歲棋手柯潔，中
+國圍棋協會、浙江省體育局與Google上月宣佈，這場「中國烏鎮·圍棋峰會」，將於5月
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495449269.A.E23.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495449269.A.E23.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">CharleneTsai (給他200塊去吃麥當勞啦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 中國棋手柯潔對戰AlphaGo　明天烏鎮登場</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 18:34:25 2017</span></div>
+蘋果即時
+
+中國棋手柯潔對戰AlphaGo　明天烏鎮登場
+
+2017年05月22日18:21
+
+去年戰勝南韓知名棋手李世石九段的人工智慧AlphaGo，明將出戰中國19歲棋手柯潔，中
+國圍棋協會、浙江省體育局與Google上月宣佈，這場「中國烏鎮·圍棋峰會」，將於5月
+23、25、27日舉辦三場，至於團體賽將於5月24日舉行，5位知名棋手包括時越、羋昱廷、
+唐韋星、陳耀燁和周睿羊，將組成團隊，共同對抗人工智慧。此外，配對賽在5月26日進
+行，古力與連笑將分別與AlphaGo組隊，挑戰棋手如何理解AlphaGo的獨特風格，並與之合
+作。
+
+至於今傳出央視CCTV5原計劃直播這場比賽，但直播可能遭取消，此外中國各個網站直播
+，包括騰訊旗下的野狐圍棋網也取消直播，而在新浪微博上，有關直播的消息也被刪除，
+引發揣測。（大陸中心／綜合外電報導）
+
+<a href="https://tinyurl.com/n95rw8n" target="_blank" rel="nofollow">https://tinyurl.com/n95rw8n</a>
+
+------------------
+
+幾月不見 阿發狗想必又更神了
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.115.105.87
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495449269.A.E23.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495449269.A.E23.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: 打賭會裝病退賽</span><span class="push-ipdatetime"> 05/22 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alan2603</span><span class="f3 push-content">: All in 阿發狗</span><span class="push-ipdatetime"> 05/22 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ives20130</span><span class="f3 push-content">: 中國人要被洗臉惹</span><span class="push-ipdatetime"> 05/22 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: 未看先猜人類輸</span><span class="push-ipdatetime"> 05/22 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">losangeles9</span><span class="f3 push-content">: 我還有一招 只是AI太弱我不想用</span><span class="push-ipdatetime"> 05/22 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XYZ669538</span><span class="f3 push-content">: 上次 讓柯進醫院 這次 直接送去火化啊!!</span><span class="push-ipdatetime"> 05/22 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">valorhu</span><span class="f3 push-content">: 配對賽的話應該會很有趣w</span><span class="push-ipdatetime"> 05/22 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meetyou76</span><span class="f3 push-content">: 有可以看直播了</span><span class="push-ipdatetime"> 05/22 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sincos5566</span><span class="f3 push-content">: 就跟散打對太極一樣 不能直播ㄏㄏ</span><span class="push-ipdatetime"> 05/22 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 先跟醫院掛號 救護車備好</span><span class="push-ipdatetime"> 05/22 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">more5566</span><span class="f3 push-content">: 阿發go開打前要翻牆連線主機</span><span class="push-ipdatetime"> 05/22 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">myjackchen</span><span class="f3 push-content">: 人類加油</span><span class="push-ipdatetime"> 05/22 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">benson861119</span><span class="f3 push-content">: 中國這麼想丟臉</span><span class="push-ipdatetime"> 05/22 18:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XYZ669538</span><span class="f3 push-content">: 第一手  拔插頭</span><span class="push-ipdatetime"> 05/22 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w3160828</span><span class="f3 push-content">: 解放軍不是全面封鎖 連網路都不給連? 阿法狗還能下?</span><span class="push-ipdatetime"> 05/22 18:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nikon610</span><span class="f3 push-content">: 幹又要一堆阿法夠的文了</span><span class="push-ipdatetime"> 05/22 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">srxteam0935</span><span class="f3 push-content">: 暫停比賽用的假血有沒有多準備幾袋？</span><span class="push-ipdatetime"> 05/22 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">carwho</span><span class="f3 push-content">: 說個笑話 世界第一不敢直播</span><span class="push-ipdatetime"> 05/22 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">signm</span><span class="f3 push-content">: 怕輸喔</span><span class="push-ipdatetime"> 05/22 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">poupy</span><span class="f3 push-content">: 想紅</span><span class="push-ipdatetime"> 05/22 18:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toya123</span><span class="f3 push-content">: 不敢直播是哪招</span><span class="push-ipdatetime"> 05/22 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 有吐幾桶血的賭盤嗎？</span><span class="push-ipdatetime"> 05/22 18:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 怕輸齁XDDD</span><span class="push-ipdatetime"> 05/22 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Dreamer48763</span><span class="f3 push-content">: 柯潔贏了我請樓下吃雞排</span><span class="push-ipdatetime"> 05/22 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Grothendieck</span><span class="f3 push-content">: 謝謝</span><span class="push-ipdatetime"> 05/22 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w3160828</span><span class="f3 push-content">: 柯傑穩贏的 因為現場會斷電</span><span class="push-ipdatetime"> 05/22 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b9211028</span><span class="f3 push-content">: 不准直播 aloha 輸定了</span><span class="push-ipdatetime"> 05/22 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckid</span><span class="f3 push-content">: 麻煩請最靠近比賽場地的醫院先空出一張病床,感謝</span><span class="push-ipdatetime"> 05/22 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mradult</span><span class="f3 push-content">: 沒有直播，看來柯潔穩了</span><span class="push-ipdatetime"> 05/22 18:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">will1118</span><span class="f3 push-content">: 投降算平手嗎？</span><span class="push-ipdatetime"> 05/22 18:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">THZYC1995</span><span class="f3 push-content">: 第一手肚臍</span><span class="push-ipdatetime"> 05/22 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 不是柯潔不敢直播吧 而是中國政府就是不想幫估狗打廣</span><span class="push-ipdatetime"> 05/22 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 告 連直播都不准出現估狗的名字........</span><span class="push-ipdatetime"> 05/22 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">erikanofann</span><span class="f3 push-content">: 都debug完了才接受挑戰 科科</span><span class="push-ipdatetime"> 05/22 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevin1996</span><span class="f3 push-content">: 嘴歸嘴，還是希望人類能贏</span><span class="push-ipdatetime"> 05/22 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LEBR0NJAMES6</span><span class="f3 push-content">: 幹 個人團體接著打 都不給阿法狗老師休息喔</span><span class="push-ipdatetime"> 05/22 19:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BetaCat</span><span class="f3 push-content">: 圍棋名將柯潔將與404 not found展開「人機大戰」。</span><span class="push-ipdatetime"> 05/22 19:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 先預約掛號</span><span class="push-ipdatetime"> 05/22 19:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">werlight</span><span class="f3 push-content">: 拔插頭的請就位 UPS電解液我換成純水了</span><span class="push-ipdatetime"> 05/22 19:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zu00405479</span><span class="f3 push-content">: 柯潔這次會當場吐血嗎？然後變棋靈王</span><span class="push-ipdatetime"> 05/22 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 輸了會七孔流血嗎</span><span class="push-ipdatetime"> 05/22 19:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamseanli</span><span class="f3 push-content">: 要停電斷網路了</span><span class="push-ipdatetime"> 05/22 19:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Janius</span><span class="f3 push-content">: 改成不插電圍棋賽</span><span class="push-ipdatetime"> 05/22 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 人類加油，圍棋的尊嚴；AI加油，人類的進步</span><span class="push-ipdatetime"> 05/22 20:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abelyi100</span><span class="f3 push-content">: 好啦還是幫人類加油！！！</span><span class="push-ipdatetime"> 05/22 20:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snowrain</span><span class="f3 push-content">: 非要住院</span><span class="push-ipdatetime"> 05/22 21:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: 不是早比過了？   大師就是阿發狗</span><span class="push-ipdatetime"> 05/22 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 上次是網路30秒的快棋 這次才是正統比賽的用時</span><span class="push-ipdatetime"> 05/22 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 每方3小時的正式比賽</span><span class="push-ipdatetime"> 05/22 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ThunderLion</span><span class="f3 push-content">: 估計打到一半會斷電 支那人日常</span><span class="push-ipdatetime"> 05/22 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 不直播，會不會弄鬼啊？</span><span class="push-ipdatetime"> 05/22 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lamuneforty</span><span class="f3 push-content">: 禁直播  KJ恐成最大贏家</span><span class="push-ipdatetime"> 05/22 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 中共全面封殺 本來柯潔想推廣圍棋現在完全GG</span><span class="push-ipdatetime"> 05/22 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gamania10000</span><span class="f3 push-content">: 越禁大家越想看好嗎</span><span class="push-ipdatetime"> 05/23 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 要製造假棋譜了，營造小屁孩勝alphago的自慰式勝利</span><span class="push-ipdatetime"> 05/23 01:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 不可能假棋譜啦...一看就露餡了</span><span class="push-ipdatetime"> 05/23 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iPhoneX</span><span class="f3 push-content">: 好小聲喔</span><span class="push-ipdatetime"> 05/23 10:31
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495449269.A.E23.html?cacheKey=2052-36734416&offset=6824&offset-sig=42e332320c90438b7cc81a436b8919a21127751a" data-longpollurl="/v1/longpoll?id=bf70751569feab39b3f22484df8ce39219dcbcfe" data-offset="6824"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,184 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496063686.A.BB2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 覺得自己有糖尿病怎麼辦啊?認真 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="糖尿病(diabetes mellitus,DM)分兩類
+Type1 DM的典型症狀是「多吃多喝多尿+體重下降」
+這種一般為先天自主免疫異常
+胰臟beta細胞已經被自己的免疫系統幹掉了
+所以無法產生胰島素
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 覺得自己有糖尿病怎麼辦啊?認真">
+<meta property="og:description" content="糖尿病(diabetes mellitus,DM)分兩類
+Type1 DM的典型症狀是「多吃多喝多尿+體重下降」
+這種一般為先天自主免疫異常
+胰臟beta細胞已經被自己的免疫系統幹掉了
+所以無法產生胰島素
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496063686.A.BB2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496063686.A.BB2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Shimotsukin (Dynamo)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 覺得自己有糖尿病怎麼辦啊?認真</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 21:14:43 2017</span></div>
+<span class="f2">※ 引述《a125567365 (我要成為廢文王)》之銘言：
+</span><span class="f6">: 我好像有家族史
+</span><span class="f6">: R罵有糖尿病
+</span><span class="f6">: 又高偏瘦 吃不胖
+</span><span class="f6">: 可是飲食正常 食量比正常人大
+</span><span class="f6">: 也不愛喝手搖杯 跟含糖飲料
+</span><span class="f6">: 最近常常吃正餐後
+</span><span class="f6">: 過沒幾個小時又餓ㄌ
+</span><span class="f6">: 還有最近壓力太大找妹子紓壓ㄉ時候 竟然明顯感覺不像以前那樣硬
+</span><span class="f6">: GOOGLE好像都跟糖尿病有關
+</span><span class="f6">: 假設真的得糖尿病要怎麼辦啊QQ
+</span>
+糖尿病(diabetes mellitus,DM)分兩類
+
+Type1 DM的典型症狀是「多吃多喝多尿+體重下降」
+這種一般為先天自主免疫異常
+胰臟beta細胞已經被自己的免疫系統幹掉了
+所以無法產生胰島素
+通常這類型的病人發病的年齡都偏低
+且身材普遍瘦
+一輩子幾乎需要注射胰島素來控制血糖
+
+
+Type2則是八卦肥宅都有可能會命中的類型
+包括有代謝症候群(metabolic syndrome)：
+腰圍過大、空腹血糖略高、血壓偏高等等的人或家族糖尿病史者都有風險
+這種人通常身材過重或肥胖、生活作息不正常、飲食喜高油高鹽高糖
+而且這類型不少人得到DM了仍不自覺
+因為T2DM的beta細胞通常仍能分泌胰島素
+只是因為腹部肥胖過多脂肪造成了胰島素阻抗
+導致胰島素無法將血糖送入細胞內、血糖無法下降
+所以不一定需要注射胰島素
+有的大概只需要仰賴口服血糖藥就能控制血糖
+
+以台灣來說大概有九成的糖尿病病患皆屬於Type2
+以前發病年齡一般都在40歲前後
+不過現在已經有下降的趨勢了
+這當然跟現代人生活與飲食習慣有絕大關係
+
+通常T2DM在積極地控制身材與生活後都能延長糖尿病的各種併發症
+至於坊間所謂「根治糖尿病」治療或偏方
+可以很明確跟你說100000000%是騙人的
+DM目前只能控制到讓你過著與常人無異的生活
+絕無可能讓已經失效的beta細胞再回春
+
+所以如果家裡有長輩有DM該怎麼辦？
+有時長者有血糖問題純粹是年紀過高、身體老化、致使新陳代謝不佳
+倒不一定真有糖尿病
+會怕的話就是定期至醫院檢查、並且平常注意飲食習慣
+即便你真有家族隱性基因潛藏著
+只要注重生活作息
+仍是有很高的機會能夠迴避掉糖尿病發生的危險
+
+
+最後
+人飯後直至胃排空大概需要四小時的時間
+因此中午吃飽飯大概到下午四五點就會覺得有點餓
+晚餐吃飽又會在睡前想吃宵夜
+所以光憑容易餓根本無法作為得到DM的依據
+
+至於硬不起來
+只能同情你砲友碰到沒擋頭的人了。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.232.85.188
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496063686.A.BB2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496063686.A.BB2.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipposman</span><span class="f3 push-content">: 此篇正解</span><span class="push-ipdatetime"> 05/29 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">trygone</span><span class="f3 push-content">: 嗜睡就代表你很大的機率有糖尿病了</span><span class="push-ipdatetime"> 05/29 21:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silverstris</span><span class="f3 push-content">: 去醫院測糖化血色素啊</span><span class="push-ipdatetime"> 05/29 21:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EggAcme</span><span class="f3 push-content">: 擔心太多就直接看醫生實際 畢竟沒法隔空看診</span><span class="push-ipdatetime"> 05/29 21:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abramtw</span><span class="f3 push-content">: 認真回 斷醣飲食</span><span class="push-ipdatetime"> 05/29 21:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496063686.A.BB2.html?cacheKey=2052-2008189&offset=2552&offset-sig=a1113d783bfa043d5a0c5510a2ef225963df7d2a" data-longpollurl="/v1/longpoll?id=b0b093515ec7fb2dfd677fdc537284855125c1f0" data-offset="2552"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

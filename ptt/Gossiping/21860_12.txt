@@ -1,0 +1,189 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496169152.A.210.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 會畫圖有什麼好處嗎? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我以前做過房仲，略懂。
+先談談電腦輔助繪圖好了，
+現在電腦繪圖功能之強大，真的能屌打
+多數手繪能達成的成就。
+但是有一點，我認為手繪圖無法被取代
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 會畫圖有什麼好處嗎?">
+<meta property="og:description" content="我以前做過房仲，略懂。
+先談談電腦輔助繪圖好了，
+現在電腦繪圖功能之強大，真的能屌打
+多數手繪能達成的成就。
+但是有一點，我認為手繪圖無法被取代
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496169152.A.210.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496169152.A.210.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">free610 (免費)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 會畫圖有什麼好處嗎?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 02:32:29 2017</span></div>
+我以前做過房仲，略懂。
+
+先談談電腦輔助繪圖好了，
+
+現在電腦繪圖功能之強大，真的能屌打
+
+多數手繪能達成的成就。
+
+但是有一點，我認為手繪圖無法被取代
+
+的關鍵，就是整合創造。
+
+現代繪圖軟體結合參數設定，它可以
+
+短時間內完成某種被規劃下的設計圖型。
+
+但這效率是在框架內的成效，
+
+只有手繪能在突破框架做出多元思考
+
+的創造。如果會參數設計的應該能瞭解。
+
+
+說說設計吧，設計者手繪能力的好壞真的
+
+差很多，手繪是最直接能與思考連動的，
+
+更勝於文字。因此它能突破文化差異進行
+
+溝通，譬如地圖、以物易物。
+
+
+甚至工地現場與工班討論都吃手繪能力，
+
+與腦同步的手繪能力決定設計者一半的價
+
+值。反觀現在很多設計者失去電腦就半殘
+
+，實在慘不忍睹。
+
+
+畫圖最顯而易見的好處就是訓練想像力與
+
+觀察力，會速寫的都知道，完成一張圖都
+
+是兩者併用的。這兩項能力的價值不用多
+
+說明吧，再來就是求偶絕對管用，而且能
+
+吸引到的多少都是有內涵的，真的很實用。
+
+
+（奧塞展，一堆死文青在那嘴砲把妹，
+
+擋人視線，真是品質低落的展，但還算
+
+值得啦。）
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.72.184.111
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496169152.A.210.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496169152.A.210.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SoLaYo</span><span class="f3 push-content">: 所以你有求到偶嗎？</span><span class="push-ipdatetime">05/31 02:33
+</span></div>
+有，才說。
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zxzxzzzx</span><span class="f3 push-content">: 阿還不是只能幹房仲</span><span class="push-ipdatetime">05/31 02:34
+</span></div>
+所以離職了，我還曾在豪宅幹房仲啊，
+
+你在幹嘛。
+<span class="f2">※ 編輯: free610 (42.72.184.111), 05/31/2017 02:35:58
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">remarkand</span><span class="f3 push-content">: 為什麼求偶有用？請詳解0.0</span><span class="push-ipdatetime"> 05/31 02:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nikon610</span><span class="f3 push-content">: 上課老師也一直強調手繪的能力 真的現在可能用不到 以</span><span class="push-ipdatetime"> 05/31 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nikon610</span><span class="f3 push-content">: 後想用隨時需要 就派得上用場</span><span class="push-ipdatetime"> 05/31 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">canblow</span><span class="f3 push-content">: 你這什麼排班</span><span class="push-ipdatetime"> 05/31 02:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hn022</span><span class="f3 push-content">: 外行人</span><span class="push-ipdatetime"> 05/31 08:25
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496169152.A.210.html?cacheKey=2052-2747371&offset=1965&offset-sig=5ad3e6c48e41c7d59a73c9c77d52a4ce3f40ba42" data-longpollurl="/v1/longpoll?id=d602e25180c1462c06e2f00cf2c2e2de7fff9c5d" data-offset="1965"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,145 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495867798.A.B39.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 比特幣暴跌又死幾個了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="安安阿
+前些日子比特幣漲到一顆八九萬
+好像那時候一堆人跟風買進
+不知現在暴跌又死了幾個
+有八卦樸
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 比特幣暴跌又死幾個了">
+<meta property="og:description" content="安安阿
+前些日子比特幣漲到一顆八九萬
+好像那時候一堆人跟風買進
+不知現在暴跌又死了幾個
+有八卦樸
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495867798.A.B39.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495867798.A.B39.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Rasin (雷森)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 比特幣暴跌又死幾個了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 14:49:54 2017</span></div>
+安安阿
+
+前些日子比特幣漲到一顆八九萬
+
+好像那時候一堆人跟風買進
+
+不知現在暴跌又死了幾個
+
+有八卦樸
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.165.136.232
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495867798.A.B39.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495867798.A.B39.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chloeslover</span><span class="f3 push-content">: 現在進場時機正佳</span><span class="push-ipdatetime"> 05/27 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 有暴跌喔？前幾天不是上1950美金嗎＠＠</span><span class="push-ipdatetime"> 05/27 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">highyes</span><span class="f3 push-content">: 快追啊！  台灣人喜歡追高！</span><span class="push-ipdatetime"> 05/27 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goldflower</span><span class="f3 push-content">: 哈哈殺暴這些跟風的小王八蛋               嗚嗚嗚嗚</span><span class="push-ipdatetime"> 05/27 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freshego</span><span class="f3 push-content">: 開始漲才買的都是不會投資的人辣XD</span><span class="push-ipdatetime"> 05/27 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluebluelan</span><span class="f3 push-content">: 昨天跌到2300 今天又回到2500</span><span class="push-ipdatetime"> 05/27 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WeasoN</span><span class="f3 push-content">: 現在時價是1900左右</span><span class="push-ipdatetime"> 05/27 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fenixray</span><span class="f3 push-content">: 跌到1:500鎂再叫我</span><span class="push-ipdatetime"> 05/27 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: 快跑，高檔劇烈震盪是頭部，跟炒作股票一樣</span><span class="push-ipdatetime"> 05/27 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 現在中勒索病毒最划算</span><span class="push-ipdatetime"> 05/27 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ott</span><span class="f3 push-content">: <a href="http://disp.cc/b/18-a3WV" target="_blank" rel="nofollow">http://disp.cc/b/18-a3WV</a> (比特幣升至 2,800 美元歷史高位！</span><span class="push-ipdatetime"> 05/27 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ott</span><span class="f3 push-content">: 　清洗浮額　　前波段　獲利了結</span><span class="push-ipdatetime"> 05/27 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shan820704</span><span class="f3 push-content">: 正常修正啦 之前衝這麼快</span><span class="push-ipdatetime"> 05/27 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cactusman</span><span class="f3 push-content">: 低能貨幣有價無市</span><span class="push-ipdatetime"> 05/27 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yellowjames</span><span class="f3 push-content">: 在沒玩比特幣的人眼中，這些人都是死的</span><span class="push-ipdatetime"> 05/27 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">benny3579</span><span class="f3 push-content">: 拉回就是買點</span><span class="push-ipdatetime"> 05/27 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">puam4444</span><span class="f3 push-content">: 之後中國會再緊縮匯出 所以應該有更多人拿比特幣洗錢</span><span class="push-ipdatetime"> 05/27 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 舒爽，我壓身家空這麼久，總算賺惹</span><span class="push-ipdatetime"> 05/27 19:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MikeB</span><span class="f3 push-content">: All in囉</span><span class="push-ipdatetime"> 06/07 06:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495867798.A.B39.html?cacheKey=2052-2039055&offset=2263&offset-sig=5b05c11ea24f6c3e53352504c249ba4f2636b9af" data-longpollurl="/v1/longpoll?id=97c7d71c85e35420c0c05fde2273e4ef64e82a51" data-offset="2263"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

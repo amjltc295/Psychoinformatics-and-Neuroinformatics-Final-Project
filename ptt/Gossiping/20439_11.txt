@@ -1,0 +1,194 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495202656.A.3A9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 台灣為何不採雙首長制? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="認真回一下
+先破題
+臺灣現在就是雙首長制，只不過問題很多
+雙首長制的內涵是
+1.總統代表國家也有實權，不用對國會負責
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 台灣為何不採雙首長制?">
+<meta property="og:description" content="認真回一下
+先破題
+臺灣現在就是雙首長制，只不過問題很多
+雙首長制的內涵是
+1.總統代表國家也有實權，不用對國會負責
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495202656.A.3A9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495202656.A.3A9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">DaDadergeege (Kyle)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 台灣為何不採雙首長制?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 22:04:13 2017</span></div>
+認真回一下
+
+先破題
+臺灣現在就是雙首長制，只不過問題很多
+雙首長制的內涵是
+1.總統代表國家也有實權，不用對國會負責
+2.內閣通常由國會最大黨組閣，閣揆對國會負責
+
+雙首長制就是藉由行政分成兩部分
+由換軌機制確保多數執政
+當國會最大黨跟總統同黨的時候，偏總統制；
+不同的時候偏內閣制
+吸取兩種制度的優點
+
+好，再來簡單談談臺灣是怎樣
+
+一、總統的選舉制度問題
+講到雙首長制最成功的就是法國了。臺灣現在
+總統是採相對多數決，民意基礎有限。像法國
+的兩輪決選制的話，就可以選出民意過半的總
+統，而且第二輪投票都會有政黨結盟，國會合
+作關係比較強。
+
+二、民主素養不足
+閣揆是由總統提名，國會同意。但是臺灣普遍
+的民主素養差，就算是身為國會少數黨，也不
+會同意任用敵對多數黨組閣，形成少數執政。
+這問題包含下一個國會運作問題。
+
+三、國會制衡力不足
+總統可以無視國會多數任用少數組閣原因包括
+國會沒有辦法制衡總統。雖然有倒閣權，但是
+改組壓力 不成比例；有彈劾權，但是程序困難
+而且嚴重缺乏調查權、聽證制度。這部分原因
+也是煎茶院失能
+
+其實要改革也不難
+首先當然是要提倡兩輪決選，不但有利於民意
+基礎，還可以訓練政黨的合作。不然立法院整
+天都跟鬥技場一樣
+再來就是加強國會的制裁力，包括藐視國會罪
+不然行政機關不鳥國會受到的懲戒也不嚴重
+
+這樣才能讓國會有辦法否決總統提名少數內閣
+順便點個幾點合作、民主的能力值
+降低幾點格鬥、嘴砲的
+
+臺灣的政治體系問題真的很多
+隨便提都有國會結構、運作失能，立委選制嚴
+重排擠少數弱勢、行政體系老舊
+你說那些政黨不知道，我還真不太相信
+擺明了就是現況對他們有利，就這樣擺爛自己
+撈錢、騙選票
+說到頭也要怪我們自己
+大家都愛罵文組沒有用 又整天在喊拚經濟
+才縱容整個體系敗壞
+
+我也是理組的 不是自己文組幫自己講話
+比起不尊重人家的專業
+以為他們沒專業才是最可怕
+
+-----
+Sent from JPTT on my iPhone
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.160.232.110
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495202656.A.3A9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495202656.A.3A9.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 人民水準低就選出同樣的立委啊</span><span class="push-ipdatetime"> 05/19 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 兩輪投票也是有缺點的 一來有政治人物利益交換操作 再者</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 畢竟是兩輪 被轉投的民意等於被扭曲</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 記得喊兩輪投票呼聲最高的就是扁時代 因為某黨的一直輸</span><span class="push-ipdatetime"> 05/19 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Neil0503</span><span class="f3 push-content">: 無論不尊重還是以為沒專業，都很可怕。這篇認真推</span><span class="push-ipdatetime"> 05/19 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 不起 整天講我們沒分裂哪輪得到你阿扁云云</span><span class="push-ipdatetime"> 05/19 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 另外總統有實權是沒多大問題 背多少民意給多少權力 現行</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 制度下是直選 少說也是1000多萬人的意見參與結果</span><span class="push-ipdatetime"> 05/19 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DaDadergeege</span><span class="f3 push-content">: 同意樓上，不過在雙首長制下絕對多數決比較有益處</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 雙首長制的問題在朝野意見鴻溝 倒不在主政多數與否 若用</span><span class="push-ipdatetime"> 05/19 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 兩輪投票只能確保總統跟國會有高機率同聯盟主導</span><span class="push-ipdatetime"> 05/19 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 但反過來說 法國近代左右共治也多次出現</span><span class="push-ipdatetime"> 05/19 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ec73Iwai</span><span class="f3 push-content">: 也就是說 總統國會是否同聯盟反而不是最主要的因素</span><span class="push-ipdatetime"> 05/19 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SSSB</span><span class="f3 push-content">: 沒錯，而且行政院長跟總統就是個雙頭馬車</span><span class="push-ipdatetime"> 05/19 23:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495202656.A.3A9.html?cacheKey=2052-35571419&offset=3236&offset-sig=8921b51faa628c97931f450ea5cf248182642110" data-longpollurl="/v1/longpoll?id=1e21c507e148e98a0b1d88ad4b7384b8266d1f7a" data-offset="3236"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

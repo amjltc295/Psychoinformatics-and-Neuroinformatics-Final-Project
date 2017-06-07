@@ -1,0 +1,258 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495104437.A.E1E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 美11歲電腦神童 示範玩具變網攻武器 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="美11歲電腦神童 示範玩具變網攻武器
+【大紀元2017年05月17日訊】美國一名綽號「網路忍者」的11歲電腦神童，今天在一場資
+安大會上實際示範駭入與會者的藍牙裝置，以操縱泰迪熊，證明只要是物聯網，智慧型玩
+具都能成為網攻武器。
+法新社報導，魯賓．保羅（Reuben Paul）在家鄉德州奧斯汀（Austin）的學校可能就只
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 美11歲電腦神童 示範玩具變網攻武器">
+<meta property="og:description" content="美11歲電腦神童 示範玩具變網攻武器
+【大紀元2017年05月17日訊】美國一名綽號「網路忍者」的11歲電腦神童，今天在一場資
+安大會上實際示範駭入與會者的藍牙裝置，以操縱泰迪熊，證明只要是物聯網，智慧型玩
+具都能成為網攻武器。
+法新社報導，魯賓．保羅（Reuben Paul）在家鄉德州奧斯汀（Austin）的學校可能就只
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495104437.A.E1E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495104437.A.E1E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">maruEX (KATE)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 美11歲電腦神童 示範玩具變網攻武器</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 18:47:11 2017</span></div>
+美11歲電腦神童 示範玩具變網攻武器
+
+【大紀元2017年05月17日訊】美國一名綽號「網路忍者」的11歲電腦神童，今天在一場資
+安大會上實際示範駭入與會者的藍牙裝置，以操縱泰迪熊，證明只要是物聯網，智慧型玩
+具都能成為網攻武器。
+
+法新社報導，魯賓．保羅（Reuben Paul）在家鄉德州奧斯汀（Austin）的學校可能就只
+是1名6年級學生，但他今天與他那隻玩具泰迪熊，卻在荷蘭一場資安大會上技驚四座。
+
+還是小孩的魯賓在偌大的世界論壇（Wolrd Forum）講台上說：「從飛機到行動電話，從
+智慧手機到智能房屋，任何東西或玩具都能成為物聯網（IOT）的一環；而從魔鬼終結者
+到泰迪熊，任何東西或玩具都能將之武器化。」
+
+為在現場示範，魯賓使用他那隻毛茸茸的泰迪熊，透過無線上網連結雲端與藍牙，然後接
+收或傳遞訊息。他先將一個信用卡大小、名為「樹莓派」（raspberrypi）的電腦裝置插
+入筆電，然後掃描在場所有可用的藍牙裝置，在眾人驚呼下，載得包括在場許多高層官員
+的電話號碼。
+
+然後魯賓再用一個電腦程式語言Python，透過其中一組號碼駭入泰迪熊，開啟玩具熊的燈
+並從現場觀眾裡錄下一段簡訊。
+
+魯賓說：「大多數網路連結的東西基本上都有藍牙裝置…我基本上是秀出如何連上，然後
+藉錄音和開關燈，對它下達指令。物聯網家用器具，即我們日常生活所用的，像車子、燈
+、冰箱等可供聯網的，都能拿來武器化，用以刺探或傷害我們。」
+
+被駭入的生活用品可用來竊取像密碼的私人資訊、當作遠端監控裝備監視小孩，或啟動
+GPS找出某人所在位置。
+
+魯賓的父親也是一名資訊科技專家，而魯賓本身除精通電腦外，還是美國最年幼的少林功
+夫黑帶高手。現在一家人已在幫魯賓成立他的「網路少林」（CyberShaolin）非營利組織
+，盼藉這個單位告訴大人與小孩網路上的威脅，甚至呼籲製造業、安全研究人員與政府聯
+手因應。（轉自中央社）
+
+<a href="http://www.epochtimes.com/b5/17/5/17/n9152248.htm" target="_blank" rel="nofollow">http://www.epochtimes.com/b5/17/5/17/n9152248.htm</a>
+
+
+--
+
+          <span class="b6 hl">榮獲11項大獎的紀錄片《難以置信》台北市議會首映</span>
+          <a href="http://www.epochtimes.com/b5/16/12/11/n8581721.htm" target="_blank" rel="nofollow"><span class="hl">http://www.epochtimes.com/b5/16/12/11/n8581721.htm</span></a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.10.27
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495104437.A.E1E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495104437.A.E1E.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">js0071724</span><span class="f3 push-content">: o</span><span class="push-ipdatetime"> 05/18 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tyrande</span><span class="f3 push-content">: note7表示:</span><span class="push-ipdatetime"> 05/18 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s902131</span><span class="f3 push-content">: 可以發射核彈嗎</span><span class="push-ipdatetime"> 05/18 18:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">henry3744</span><span class="f3 push-content">:  還  蠻  屌   的    屌   爆    了</span><span class="push-ipdatetime"> 05/18 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: 嗚嗚嗚 我11歲的時候只會打炮 人家已經在當駭客了</span><span class="push-ipdatetime"> 05/18 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nikon610</span><span class="f3 push-content">: 天網製造人</span><span class="push-ipdatetime"> 05/18 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iBirdy</span><span class="f3 push-content">: wow....</span><span class="push-ipdatetime"> 05/18 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwf0322</span><span class="f3 push-content">: 少林功夫好欸～</span><span class="push-ipdatetime"> 05/18 18:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 好猛 想到看門狗</span><span class="push-ipdatetime"> 05/18 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 這也太強了...</span><span class="push-ipdatetime"> 05/18 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">franklin1997</span><span class="f3 push-content">: 太強了</span><span class="push-ipdatetime"> 05/18 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">auerbach</span><span class="f3 push-content">: 美國處處是天才</span><span class="push-ipdatetime"> 05/18 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">palindromes</span><span class="f3 push-content">: youtube一堆年輕小朋友在車庫做東西 超猛</span><span class="push-ipdatetime"> 05/18 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ymuit</span><span class="f3 push-content">: 很棒!!!</span><span class="push-ipdatetime"> 05/18 18:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adsl12367</span><span class="f3 push-content">: note 7反入侵裝置  一入侵就自爆</span><span class="push-ipdatetime"> 05/18 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenntrf</span><span class="f3 push-content">: 核彈發射器都不會電子化</span><span class="push-ipdatetime"> 05/18 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jovialguy</span><span class="f3 push-content">: 欸 看看人家 我家小智都還只會旅行</span><span class="push-ipdatetime"> 05/18 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">footeye</span><span class="f3 push-content">: 好厲害</span><span class="push-ipdatetime"> 05/18 18:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ckvir</span><span class="f3 push-content">: 不相信</span><span class="push-ipdatetime"> 05/18 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: watchdog都是真的</span><span class="push-ipdatetime"> 05/18 18:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">palindromes</span><span class="f3 push-content">: 現在兩歲多就會滑IPAD  了解資訊很快</span><span class="push-ipdatetime"> 05/18 18:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XD10160804</span><span class="f3 push-content">: 台灣表示 犯法 移送司法調查</span><span class="push-ipdatetime"> 05/18 18:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GonVolcano</span><span class="f3 push-content">: 在台灣的話應該被壓抑，然後變吸毒犯8+9</span><span class="push-ipdatetime"> 05/18 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">reaturn</span><span class="f3 push-content">: 所以只玩的起塑膠玩具的台灣人沒有駭？</span><span class="push-ipdatetime"> 05/18 18:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nagisaK</span><span class="f3 push-content">: 不要用藍芽不就好</span><span class="push-ipdatetime"> 05/18 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">palindromes</span><span class="f3 push-content">: 網路一堆開放原始碼  聰明的學得很快</span><span class="push-ipdatetime"> 05/18 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cathay</span><span class="f3 push-content">: 少林功夫果然名不虛傳</span><span class="push-ipdatetime"> 05/18 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akiue</span><span class="f3 push-content">: 功夫配網路就是行！</span><span class="push-ipdatetime"> 05/18 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 少林功夫黑帶...</span><span class="push-ipdatetime"> 05/18 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">palindromes</span><span class="f3 push-content">: google home 就有小朋友自己製作出來</span><span class="push-ipdatetime"> 05/18 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 帥喔</span><span class="push-ipdatetime"> 05/18 18:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccucwc</span><span class="f3 push-content">: 我11歲連打槍都不會</span><span class="push-ipdatetime"> 05/18 18:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assassinzero</span><span class="f3 push-content">: 不簡單  反觀鬼島一堆念到研究所  程式還不會寫...</span><span class="push-ipdatetime"> 05/18 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 老爸做資安 沒甚麼好意外 國高中科展得獎 父母是教授一樣</span><span class="push-ipdatetime"> 05/18 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 老爸先幫你把東西做好或跑過一便 接著放小孩出去表演罷了</span><span class="push-ipdatetime"> 05/18 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ePaper</span><span class="f3 push-content">: 強</span><span class="push-ipdatetime"> 05/18 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 除非是那種無師自通的駭客 才會令人比較驚訝</span><span class="push-ipdatetime"> 05/18 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stock0907</span><span class="f3 push-content">: 其實是魯蛇賓駭入11歲智障屁孩大腦精片捧成神童</span><span class="push-ipdatetime"> 05/18 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hushiang</span><span class="f3 push-content">: 樓上你真的認為台灣父母博士、科展得獎的小孩有辦法贏過</span><span class="push-ipdatetime"> 05/18 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hushiang</span><span class="f3 push-content">: 美國車庫文化出來的小孩嗎?</span><span class="push-ipdatetime"> 05/18 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SilentBob</span><span class="f3 push-content">: 五樓你再唬啊</span><span class="push-ipdatetime"> 05/18 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tin123210</span><span class="f3 push-content">: 看來看門狗是根據事實改編的</span><span class="push-ipdatetime"> 05/18 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UltraRaRa</span><span class="f3 push-content">: 一定不會是老爸做的歐^～^</span><span class="push-ipdatetime"> 05/18 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HeavensFeel</span><span class="f3 push-content">: 父母是教授的應該都叫底下學生做的吧</span><span class="push-ipdatetime"> 05/18 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wishmaster</span><span class="f3 push-content">: IOT真的是笑話,殭屍大軍...</span><span class="push-ipdatetime"> 05/18 19:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevabc1</span><span class="f3 push-content">: 他那隻玩家熊也會抽大麻嗎~~~</span><span class="push-ipdatetime"> 05/18 19:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dcshoecousa</span><span class="f3 push-content">: 我有朋友台灣人從小在阿根廷長大，12歲就迷上coding</span><span class="push-ipdatetime"> 05/18 19:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dcshoecousa</span><span class="f3 push-content">: 現在在IBM當工程師年薪破200萬</span><span class="push-ipdatetime"> 05/18 19:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hibria</span><span class="f3 push-content">: 我11歲還在修ro腳本，看來我該讓賢了</span><span class="push-ipdatetime"> 05/18 19:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abramtw</span><span class="f3 push-content">: 我11歲在看young gun</span><span class="push-ipdatetime"> 05/18 19:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: 我是鐵頭功</span><span class="push-ipdatetime"> 05/18 19:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 反觀還在背國文的台灣學童…</span><span class="push-ipdatetime"> 05/18 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oicecnir</span><span class="f3 push-content">: 這實力玩八的駭客操控AI車應該以後會很常見</span><span class="push-ipdatetime"> 05/18 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuer6734</span><span class="f3 push-content">: 我11歲還在跟女同學一起打鬧</span><span class="push-ipdatetime"> 05/18 19:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guenhwyvar</span><span class="f3 push-content">: 台灣小孩整天都在上課寫作業補習啊</span><span class="push-ipdatetime"> 05/18 19:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imdog</span><span class="f3 push-content">: 靠腰 也太強</span><span class="push-ipdatetime"> 05/18 19:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: yoyo早就繞過</span><span class="push-ipdatetime"> 05/18 19:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aliensoul</span><span class="f3 push-content">: 反觀 臺灣還在背弟子規</span><span class="push-ipdatetime"> 05/18 19:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WLR</span><span class="f3 push-content">: 創世紀就是天網</span><span class="push-ipdatetime"> 05/18 19:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">davidrockcom</span><span class="f3 push-content">: 幹我不喜歡什麼家電都搞物聯網的原因就是這樣</span><span class="push-ipdatetime"> 05/18 19:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 這小孩一定在車庫製造的產物</span><span class="push-ipdatetime"> 05/18 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ComeThrough</span><span class="f3 push-content">: 可以駭進藍芽塑膠懶嗎</span><span class="push-ipdatetime"> 05/18 19:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makotoCCO</span><span class="f3 push-content">: 看門狗</span><span class="push-ipdatetime"> 05/18 19:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iComeInPeace</span><span class="f3 push-content">: 嗚嗚 我11歲還在玩覽叫</span><span class="push-ipdatetime"> 05/18 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iComeInPeace</span><span class="f3 push-content">: 不對 我現在好像也是在玩覽叫</span><span class="push-ipdatetime"> 05/18 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oldman315</span><span class="f3 push-content">: 少林功夫黑帶是啥啊？</span><span class="push-ipdatetime"> 05/18 19:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">relaxcloud</span><span class="f3 push-content">: 還好不是生在台灣</span><span class="push-ipdatetime"> 05/18 20:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: Watch Dog</span><span class="push-ipdatetime"> 05/18 20:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guogu</span><span class="f3 push-content">: 他的泰迪熊能連上網路?! 這泰迪熊太高科技了吧...</span><span class="push-ipdatetime"> 05/18 20:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ntustjc</span><span class="f3 push-content">: 他11歲駭藍芽，我11歲弄蛀牙，輸了QQ</span><span class="push-ipdatetime"> 05/18 20:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickyhoney</span><span class="f3 push-content">: 首先要有個車庫的房子</span><span class="push-ipdatetime"> 05/18 20:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">okah</span><span class="f3 push-content">: 傳統武術表示有救了</span><span class="push-ipdatetime"> 05/18 20:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Arctica</span><span class="f3 push-content">: 好猛…</span><span class="push-ipdatetime"> 05/18 20:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kyrt</span><span class="f3 push-content">: 原來note 7是被自爆的</span><span class="push-ipdatetime"> 05/18 20:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkyIsCat</span><span class="f3 push-content">: 猛</span><span class="push-ipdatetime"> 05/18 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">positMIT</span><span class="f3 push-content">: 八成是靠爸族</span><span class="push-ipdatetime"> 05/18 20:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fragmentwing</span><span class="f3 push-content">: 傳武終於有救了--科技傳武</span><span class="push-ipdatetime"> 05/18 20:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">passersK</span><span class="f3 push-content">: 11歲打砲？  左手跟右手啪啪啪哦</span><span class="push-ipdatetime"> 05/18 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coolda</span><span class="f3 push-content">: 強</span><span class="push-ipdatetime"> 05/18 21:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Philethan</span><span class="f3 push-content">: ....</span><span class="push-ipdatetime"> 05/18 21:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevin015015</span><span class="f3 push-content">: 猛</span><span class="push-ipdatetime"> 05/18 21:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tonsin2976</span><span class="f3 push-content">: 台灣小朋友只會拍那什麼智障影片= =</span><span class="push-ipdatetime"> 05/18 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Wall62</span><span class="f3 push-content">: 好強歐</span><span class="push-ipdatetime"> 05/18 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lulocke</span><span class="f3 push-content">: 從忍者變成少林 嗚呼</span><span class="push-ipdatetime"> 05/18 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chownan82465</span><span class="f3 push-content">: 調整者</span><span class="push-ipdatetime"> 05/18 22:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggttoo</span><span class="f3 push-content">: 物聯網+AI....人類要GG的日子也近了...QQ</span><span class="push-ipdatetime"> 05/18 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: ........好猛</span><span class="push-ipdatetime"> 05/18 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dalinman</span><span class="f3 push-content">: 甘 好想學</span><span class="push-ipdatetime"> 05/18 23:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jauruyu</span><span class="f3 push-content">: 看門狗3</span><span class="push-ipdatetime"> 05/19 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Quinzio</span><span class="f3 push-content">: 太強了</span><span class="push-ipdatetime"> 05/19 01:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oqiz</span><span class="f3 push-content">: 了不起</span><span class="push-ipdatetime"> 05/19 01:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ibook0102</span><span class="f3 push-content">: ntustjc: 他11歲駭藍芽，我11歲弄蛀牙 害我噴水了</span><span class="push-ipdatetime"> 05/19 02:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiy75</span><span class="f3 push-content">: 11歲</span><span class="push-ipdatetime"> 05/19 03:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akay08</span><span class="f3 push-content">: 看門狗</span><span class="push-ipdatetime"> 05/19 04:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jay0215</span><span class="f3 push-content">: 雖跟爸媽有關係 但不是絕對 很多教授的子女成就也不怎樣</span><span class="push-ipdatetime"> 05/19 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SapphireNoah</span><span class="f3 push-content">: 幹 孟婆是不是不幹啦？</span><span class="push-ipdatetime"> 05/19 07:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doranako</span><span class="f3 push-content">: 豪洨，用藍芽抓其他手機號碼</span><span class="push-ipdatetime"> 05/19 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chichung</span><span class="f3 push-content">: 美國小孩我是相信啦！台灣的都嘛父母做的</span><span class="push-ipdatetime"> 05/19 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">parkerlived</span><span class="f3 push-content">:                 徐小東 : 我要挑戰他</span><span class="push-ipdatetime"> 05/19 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nova06091</span><span class="f3 push-content">: 用樹莓派這種玩具也能出來嘴  少見多怪   觀眾都文組</span><span class="push-ipdatetime"> 05/19 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thaleschou</span><span class="f3 push-content">: 樓上coding一段來看看</span><span class="push-ipdatetime"> 05/20 20:45
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495104437.A.E1E.html?cacheKey=2052-40103159&offset=12243&offset-sig=088b9a3b0a0e69e4559fd9a3e534b60d26d4b14a" data-longpollurl="/v1/longpoll?id=83f3fc8f30685a630d69d8b677586020d3a8d1ad" data-offset="12243"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

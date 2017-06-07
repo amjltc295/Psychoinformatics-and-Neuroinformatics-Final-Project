@@ -1,0 +1,171 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495196242.A.90D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 英研究：無神論者更聰明 因為克服「宗教 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這是典型的訴諸權威權威謬誤
+科學家信教不代表神就是存在
+正如牛頓是一個科學家，也是一個煉金士
+難道牛頓的萬有引力理論是對的，就代表他認為世上有神秘力量能把銀鐵銅變成金也是真
+的？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 英研究：無神論者更聰明 因為克服「宗教">
+<meta property="og:description" content="這是典型的訴諸權威權威謬誤
+科學家信教不代表神就是存在
+正如牛頓是一個科學家，也是一個煉金士
+難道牛頓的萬有引力理論是對的，就代表他認為世上有神秘力量能把銀鐵銅變成金也是真
+的？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495196242.A.90D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495196242.A.90D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kiuyeah (說我帥，太沉重)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 英研究：無神論者更聰明 因為克服「宗教</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 20:17:17 2017</span></div>
+<span class="f2">※ 引述《tspes40801 (tspes40801)》之銘言：
+</span><span class="f6">: 其實這篇報導只講一半
+</span><span class="f6">: ------------------------
+</span><span class="f6">: <a href="http://www.dailymail.co.uk/sciencetech/article-3506294/Are-atheist-probably-PSYCHOPATH-Non-believers-lack-empathy-religious-people-intelligent-claims-study.html" target="_blank" rel="nofollow">http://www.dailymail.co.uk/sciencetech/article-3506294/Are-atheist-probably-PSYCHOPATH-Non-believers-lack-empathy-religious-people-intelligent-claims-study.html</a>
+</span><span class="f6">:     不知道是不是同篇研究，此篇文的結論也是宗教人士的智力較低但
+</span><span class="f6">: 相反的無神論者(其實應該被稱為無信仰宗教者)則被判定為精神病患。
+</span><span class="f6">: 報導指出，宗教信仰者智力較低的原因，是因為抑制腦中一部份的智商放
+</span><span class="f6">: 在同情心上，相反的無神論者同情心則較低，智力也較高。
+</span><span class="f6">: 除此之外，這篇文試圖解釋為何女性信仰者比較多，似乎跟女性大腦對於
+</span><span class="f6">: 精神上的要求較多。
+</span><span class="f6">: 研究人員提到，有宗教信仰者的同情心不一定具有反科學的用意，可能只是
+</span><span class="f6">: 把多一點的智商用在同情與精神道德上。
+</span><span class="f6">: 不過，根據1901~2000年的諾貝爾獎得主(科學相關)，有90%的人是宗教信仰者
+</span><span class="f6">: ，其餘的是無神論者、不可知論者、其他。
+</span><span class="f6">: ----------------------------------
+</span><span class="f6">: 雖然我覺得說自己無神和心理真的完全無神是兩回事，請參考:
+</span><span class="f6">: <a href="https://www.mplus.com.tw/article/949?ref=961" target="_blank" rel="nofollow">https://www.mplus.com.tw/article/949?ref=961</a>
+</span>
+這是典型的訴諸權威權威謬誤
+
+科學家信教不代表神就是存在
+
+正如牛頓是一個科學家，也是一個煉金士
+
+難道牛頓的萬有引力理論是對的，就代表他認為世上有神秘力量能把銀鐵銅變成金也是真
+的？
+
+--
+<span class="f4 b7"> 作者 </span><span class="b4"> clhs1123 (雪特由)                                     </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 垃圾車到底為什麼要放音樂                                        </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Mon May  1 21:27:25 2017                                               </span>
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BoBoooM</span><span class="f3 push-content">: 提醒你該上車了啊</span><span class="push-ipdatetime">05/01 21:27
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 138.19.53.217
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495196242.A.90D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495196242.A.90D.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 信神，也可能認為別人的不是神，是鬼</span><span class="push-ipdatetime"> 05/19 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 他研究鍊金術是想找到那種配方，不代表無條件相信，不是信</span><span class="push-ipdatetime"> 05/19 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 仰者就無條件相信，這也是邏輯可得</span><span class="push-ipdatetime"> 05/19 20:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 17世紀煉金術的確是當時的科學</span><span class="push-ipdatetime"> 05/19 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 當時人們認為基本元素可藉煉金術重組</span><span class="push-ipdatetime"> 05/19 20:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CPULE</span><span class="f3 push-content">: 當然有神論未必智力輸 可是回過頭來哪個聰明人有證明神存在</span><span class="push-ipdatetime"> 05/19 20:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CPULE</span><span class="f3 push-content">: 他們得獎內容似乎也跟神蹟無關吧?</span><span class="push-ipdatetime"> 05/19 20:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s01714</span><span class="f3 push-content">: 有邏輯就不會信神了</span><span class="push-ipdatetime"> 05/19 20:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 科學家信的所謂的神可不是低能宗教的人造神 天差地遠</span><span class="push-ipdatetime"> 05/19 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tspes40801</span><span class="f3 push-content">: 可....可是我記得我PO的報導沒有要證明神的存在啊...</span><span class="push-ipdatetime"> 05/19 20:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 所以牛頓沒有邏輯？這種說法是有問題的，他是在追尋他心目</span><span class="push-ipdatetime"> 05/19 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 中的神而研究科學，這就是他對他的神的邏輯而已</span><span class="push-ipdatetime"> 05/19 20:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sky20501</span><span class="f3 push-content">: 斷水流大師兄：請問各位在吵什麼？？？</span><span class="push-ipdatetime"> 05/19 20:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 像邪教主畢達格拉斯，就相信數學能算出世界的樣貌，是神力</span><span class="push-ipdatetime"> 05/19 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 所以在研究數學追尋神與世界的形象，他有信仰而且異於當時</span><span class="push-ipdatetime"> 05/19 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 希臘的宗教觀點，這是他邏輯推出的神的樣貌</span><span class="push-ipdatetime"> 05/19 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bitlife</span><span class="f3 push-content">: 確實有神秘力量可以把其他金屬變成黃金啊,啊不然你以為黃</span><span class="push-ipdatetime"> 05/19 20:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bitlife</span><span class="f3 push-content">: 金怎麼存在的?牛頓只是沒找到正確方法和工具而以</span><span class="push-ipdatetime"> 05/19 20:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: 傳言鍊金術有可能是真的   不是失傳就是故意暗藏裝傻</span><span class="push-ipdatetime"> 05/19 23:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: 這樣他們才會有更多黃金 &#34;所以鍊金術的宣傳必然只會是假&#34;</span><span class="push-ipdatetime"> 05/19 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: 因為鍊金術如果是真的還得了   黃金會變垃圾</span><span class="push-ipdatetime"> 05/19 23:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495196242.A.90D.html?cacheKey=2052-35541966&offset=3964&offset-sig=40ade7a02b020d14e367df8b1f6d3ed402ef66b0" data-longpollurl="/v1/longpoll?id=c00f563182d318d48a31ad79e45d66dad0c5d609" data-offset="3964"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

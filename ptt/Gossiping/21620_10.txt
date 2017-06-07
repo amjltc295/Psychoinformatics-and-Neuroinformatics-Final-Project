@@ -1,0 +1,175 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496026501.A.CCE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 無人機會不會讓戰鬥機飛行員失業啊？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="八卦是 台灣需要得是drones 而不是電戰無人機
+海峽範圍很小
+Drones 可以有效壓制中國的海軍 而不怕空軍的攻擊
+同時drones可以做高難度翻轉 雷達面積又小
+拿飛彈去炸drones 完全不划算
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 無人機會不會讓戰鬥機飛行員失業啊？">
+<meta property="og:description" content="八卦是 台灣需要得是drones 而不是電戰無人機
+海峽範圍很小
+Drones 可以有效壓制中國的海軍 而不怕空軍的攻擊
+同時drones可以做高難度翻轉 雷達面積又小
+拿飛彈去炸drones 完全不划算
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496026501.A.CCE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496026501.A.CCE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">angellll (長尾巴的天使)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 無人機會不會讓戰鬥機飛行員失業啊？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 10:54:59 2017</span></div>
+<span class="f2">※ 引述《Egoogle (sowbutcher)》之銘言：
+</span><span class="f6">: 以後飛機自己就可以飛了
+</span><span class="f6">: 少了維生系統
+</span><span class="f6">: 可以做更高G的機動
+</span><span class="f6">: 這樣戰機飛行員會不會失業啊
+</span><span class="f6">: 有無八卦
+</span><span class="f6">: -----
+</span><span class="f6">: Sent from JPTT on my Sony D6503.
+</span>
+八卦是 台灣需要得是drones 而不是電戰無人機
+海峽範圍很小
+
+Drones 可以有效壓制中國的海軍 而不怕空軍的攻擊
+同時drones可以做高難度翻轉 雷達面積又小
+拿飛彈去炸drones 完全不划算
+
+以台灣本島跟中國的距離
+完全就是Drones的作戰範圍  夠了
+
+研發drones很便宜
+但是反制他卻非常貴
+非常適合台灣的不對稱作戰
+
+像兩人座的小型潛艇也非常適合台灣水域
+
+
+
+--
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 97.88.42.47
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496026501.A.CCE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496026501.A.CCE.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 恩…聽說中國是作 drone 的大國</span><span class="push-ipdatetime"> 05/29 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">: 水管有很多彩虹四號的影片CH4  可以看看伊拉克玩得怎樣</span><span class="push-ipdatetime"> 05/29 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">:  一些固定目標 或是移動車  被炸的影片 周圍人噴飛</span><span class="push-ipdatetime"> 05/29 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pinkowa</span><span class="f3 push-content">: 中國做的比你多 比你強 這樣台灣玩屁 我們先完蛋</span><span class="push-ipdatetime"> 05/29 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">:  恐怖的上帝之眼武器</span><span class="push-ipdatetime"> 05/29 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: 太好笑了 比DRONES的數量你比得過支那?</span><span class="push-ipdatetime"> 05/29 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: 你一百台飛出去 人家五百台飛過來 換你傻眼</span><span class="push-ipdatetime"> 05/29 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: 台灣迫切需要的是潛艦</span><span class="push-ipdatetime"> 05/29 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: 面對那五百台無人機請問你要拿什麼去攔?</span><span class="push-ipdatetime"> 05/29 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: 拿貴死人的飛彈去打嗎?</span><span class="push-ipdatetime"> 05/29 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angellll</span><span class="f3 push-content">: &#34;不對稱做戰&#34;  比數量妳就直接投降吧</span><span class="push-ipdatetime"> 05/29 11:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angellll</span><span class="f3 push-content">: 兩邊打的目標不一樣 我們主打登陸艇跟封鎖艦艇就夠了</span><span class="push-ipdatetime"> 05/29 11:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 台灣及周遭空域能同時容納500台無人機</span><span class="push-ipdatetime"> 05/29 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 不是有無人機攔截槍嗎</span><span class="push-ipdatetime"> 05/29 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 應該叫做干擾槍 吃電 除非電廠被炸光不然應該是無限</span><span class="push-ipdatetime"> 05/29 11:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: 無人機攔截槍....搞笑嗎</span><span class="push-ipdatetime"> 05/29 11:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: 那東西有用 美國就不會在中東用無人機炸爽爽了</span><span class="push-ipdatetime"> 05/29 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 中國的電子及無人機技術跟美國比差遠 我國電子作戰與伊</span><span class="push-ipdatetime"> 05/29 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 朗比遠勝伊朗 連伊朗都能生擒美國RQ170</span><span class="push-ipdatetime"> 05/29 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 而且中東有電子作戰技術嗎</span><span class="push-ipdatetime"> 05/29 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: goo.gl/yxu7HN</span><span class="push-ipdatetime"> 05/29 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: wiki的內容</span><span class="push-ipdatetime"> 05/29 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 依照你的說法這是伊朗搞笑還是美國搞笑</span><span class="push-ipdatetime"> 05/29 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 美國在中東炸爽的幾乎是恐怖組織這些連防空能力都無</span><span class="push-ipdatetime"> 05/29 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 缺點就是距離不遠但如此不是更適合台灣防衛作戰嗎 中國</span><span class="push-ipdatetime"> 05/29 11:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 太遠不能控制我們的但我們在自己家打戰能控制他們的</span><span class="push-ipdatetime"> 05/29 11:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Iamidiots</span><span class="f3 push-content">: 台灣是守，中國是攻。兩者的戰略角度不同，如果誰拳頭</span><span class="push-ipdatetime"> 05/29 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Iamidiots</span><span class="f3 push-content">: 大誰較能贏，那二戰日本就不會打中國搞得如此辛苦</span><span class="push-ipdatetime"> 05/29 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Iamidiots</span><span class="f3 push-content">: 越戰美國也不會煞羽而歸</span><span class="push-ipdatetime"> 05/29 11:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bearq258</span><span class="f3 push-content">: 面對無人機，三台無人機拉圍網去包抄即可</span><span class="push-ipdatetime"> 05/29 11:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496026501.A.CCE.html?cacheKey=2052-1776686&offset=3832&offset-sig=72060c9d46bc681b47ff886ccbec75e1ef5e091a" data-longpollurl="/v1/longpoll?id=34f44d6a5e5ccefa2b26e12f3aa1659536a45308" data-offset="3832"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

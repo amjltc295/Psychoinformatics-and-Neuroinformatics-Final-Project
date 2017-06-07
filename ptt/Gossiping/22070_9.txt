@@ -1,0 +1,170 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496319680.A.42C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 嚴防豪雨！　全台21縣市發布豪雨、大雨特 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+蘋果日報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 嚴防豪雨！　全台21縣市發布豪雨、大雨特">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+蘋果日報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496319680.A.42C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496319680.A.42C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">awfulday (閉嘴，你這爛婊子)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 嚴防豪雨！　全台21縣市發布豪雨、大雨特</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 20:21:16 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+蘋果日報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+嚴防豪雨！　全台21縣市發布豪雨、大雨特報
+
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+嚴防豪雨致災！中央氣象局繼12時30分針對台中以南7縣市發布大雨特報後，16時再針對
+全台21縣市發布豪雨、大雨特報，台中以南9縣市發布豪雨特報，北北基宜等12縣市發布
+大雨特報。
+
+氣象局表示，今天下午受西南氣流影響，高雄部分地區降雨已經累積超過50毫米，而受西
+南氣流及滯留鋒面影響，今下午至明（2）日中南部地區有局部大雨或豪雨發生，明日北
+部、東北部地區及東部、東南部山區、澎湖、馬祖亦將有局部大雨或豪雨發 生的機率，
+請注意瞬間大雨、雷擊及強陣風，山區慎防坍方、 落石、溪水暴漲，低窪地區慎防淹水
+。（生活中心／台北報導）
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="https://goo.gl/rog47U" target="_blank" rel="nofollow">https://goo.gl/rog47U</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+暴雨來襲，大夥塊陶RR!
+
+--
+
+<span class="b4">[問卦] goole導航</span>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: goole,咕咧</span><span class="push-ipdatetime">04/30 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">psc531</span><span class="f3 push-content">: Goole是什麼</span><span class="push-ipdatetime">04/30 17:00
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.27.48.237
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496319680.A.42C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496319680.A.42C.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 金門表示:</span><span class="push-ipdatetime"> 06/01 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 看吧 選了女總統 南部淹大水</span><span class="push-ipdatetime"> 06/01 20:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seabox</span><span class="f3 push-content">: 女總統一上任 天氣都亂七八糟的</span><span class="push-ipdatetime"> 06/01 20:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">udm</span><span class="f3 push-content">: 21縣市？看看你們的學測教出來的記者！！</span><span class="push-ipdatetime"> 06/01 20:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">henry55566</span><span class="f3 push-content">: 女總統害台灣做大水</span><span class="push-ipdatetime"> 06/01 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">higameboy</span><span class="f3 push-content">: 不支持九二共識 連天公伯都不原諒你</span><span class="push-ipdatetime"> 06/01 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">j30916</span><span class="f3 push-content">: 德不配位 祭央乂下台喇</span><span class="push-ipdatetime"> 06/01 20:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CH22</span><span class="f3 push-content">: 水庫水還補不滿好不好...</span><span class="push-ipdatetime"> 06/01 20:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taotzu</span><span class="f3 push-content">: 猴顏禍水女宗痛</span><span class="push-ipdatetime"> 06/01 20:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gy206578</span><span class="f3 push-content">: 牝雞司晨</span><span class="push-ipdatetime"> 06/01 20:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Noxus</span><span class="f3 push-content">: 臺北什麼都沒有阿</span><span class="push-ipdatetime"> 06/01 20:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 樓下支援冰冰圖</span><span class="push-ipdatetime"> 06/01 20:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 台北大晴天 爽</span><span class="push-ipdatetime"> 06/01 20:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jecko</span><span class="f3 push-content">: 台北晚上很悶熱</span><span class="push-ipdatetime"> 06/01 20:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">selfhu</span><span class="f3 push-content">: 天氣跟總統有何關聯，好會扯</span><span class="push-ipdatetime"> 06/01 22:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496319680.A.42C.html?cacheKey=2052-12448289&offset=3028&offset-sig=76f1ec0d91a98551a994098874c32462b15049c2" data-longpollurl="/v1/longpoll?id=bc3ab31f4134c6ebaff083595dca070ea1cf2008" data-offset="3028"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

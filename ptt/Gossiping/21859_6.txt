@@ -1,0 +1,250 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496167656.A.F3D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 有人正在吃憂鬱症的藥嗎? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="沒想到能夠有一天在八卦版回文 (?
+※ 引述《bigrange (bigrange)》之銘言：
+: 網路上的各種測驗   做完都顯示自己應該是有憂鬱症
+唯一解：去看精神科
+: 如果去看醫生很有可能要吃藥
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 有人正在吃憂鬱症的藥嗎?">
+<meta property="og:description" content="沒想到能夠有一天在八卦版回文 (?
+※ 引述《bigrange (bigrange)》之銘言：
+: 網路上的各種測驗   做完都顯示自己應該是有憂鬱症
+唯一解：去看精神科
+: 如果去看醫生很有可能要吃藥
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496167656.A.F3D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496167656.A.F3D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">fiftypercent (50%)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 有人正在吃憂鬱症的藥嗎?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 02:07:33 2017</span></div>
+沒想到能夠有一天在八卦版回文 (?
+
+<span class="f2">※ 引述《bigrange (bigrange)》之銘言：
+</span><span class="f6">: 網路上的各種測驗   做完都顯示自己應該是有憂鬱症
+</span>
+唯一解：去看精神科
+
+<span class="f6">: 如果去看醫生很有可能要吃藥
+</span>
+那就吃啊，沒什麼大不了的，就跟感冒要吃藥一樣。
+
+<span class="f6">: 想問現在有在吃憂鬱症藥的人
+</span><span class="f6">: 有什麼好處和壞處?    或是有什麼心得分享?    吃藥好嗎?
+</span>
+我目前吃的藥是SSRI (詳細請google)
+好處是 吃藥可以減少情緒低落的頻率
+壞處是剛吃的時候第一二個禮拜會反胃 有兩三次衝到廁所去吐這樣
+能撐過前段這個副作用的時間 等大腦習慣藥物了之後就會好很多了
+
+請務必要撐住剛服用藥物的這段時間
+有不少案例是無法撐過這段讓大腦習慣的過渡期而有不樂觀的結果
+
+
+心得分享就是請專業的精神科醫師診斷
+一開始會較頻繁地回診 因為要看哪種藥對你的症狀有效
+等到確定特定的藥有不錯且長期的效果後 回診的時間就會慢慢拉長惹
+
+然後看精神科醫生以外 建議可以搭配心理諮商師做相關治療
+因為精神科醫生無法給予太多的時間傾聽每個病患的內心世界
+而且醫學系教的也不是心理諮商相關的課程 XDD
+
+醫生能做的基本上就是 針對你的症狀 =&gt; 開藥
+
+而與心理諮商師談話 可以有更多的時間和固定的頻率會談
+心理諮商師會用他們的專業試著解決你的症狀這樣
+
+所以 精神科醫師 跟 心理諮商師 是相輔相成的~
+
+*我也有聽過有人與社工會談 但我無相關經驗
+
+
+最後一個問題 吃藥好嗎？
+換個方式問: 你重感冒了，發燒流鼻涕肌肉痠痛樣樣來，看病吃藥好嗎？
+
+我相信這樣應該就會有答案惹
+
+
+大guy是這樣 o&#39;_&#39;o
+
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 150.116.50.10
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496167656.A.F3D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496167656.A.F3D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limoncool</span><span class="f3 push-content">: 可是我當時的心理諮商師我覺得超廢 後來就沒去了 只有</span><span class="push-ipdatetime"> 05/31 02:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bbrooktw0</span><span class="f3 push-content">: 希望大大能越來越好 加油 共勉之</span><span class="push-ipdatetime"> 05/31 02:08
+</span></div>謝謝你~
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limoncool</span><span class="f3 push-content">: 在看醫生</span><span class="push-ipdatetime"> 05/31 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limoncool</span><span class="f3 push-content">: 而且你的藥是不是算成分劑量很重的那種</span><span class="push-ipdatetime"> 05/31 02:09
+</span></div>心理諮商師有很多選擇 可以多看看適合自己的心理師
+我一開始的劑量很低喔 後來才慢慢增加
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwe00489</span><span class="f3 push-content">: 會有副作用嗎 好奇問一下</span><span class="push-ipdatetime"> 05/31 02:09
+</span></div>目前無太大的副作用 可以維持適當的生活品質
+所以不要害怕服用精神科的藥
+<span class="f2">※ 編輯: fiftypercent (150.116.50.10), 05/31/2017 02:13:53
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jetaime851</span><span class="f3 push-content">: 諮商很碰運氣</span><span class="push-ipdatetime"> 05/31 02:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fghj142</span><span class="f3 push-content">: 副作用通常都會有，而身體機能會隨著發作次數退化所以吃</span><span class="push-ipdatetime"> 05/31 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fghj142</span><span class="f3 push-content">: 藥很重要</span><span class="push-ipdatetime"> 05/31 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hanbor</span><span class="f3 push-content">: 解決憂鬱的原因比較重要啊 經濟有壓力 吃藥一輩子也不會有</span><span class="push-ipdatetime"> 05/31 02:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hanbor</span><span class="f3 push-content">: 錢</span><span class="push-ipdatetime"> 05/31 02:14
+</span></div>心理師可以算是以第三人幫助個案解決原因的角色
+吃藥就是讓病情降低這樣
+<span class="f2">※ 編輯: fiftypercent (150.116.50.10), 05/31/2017 02:18:35
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 可以考慮詢問醫生  可不可以和臨床心理師溝通病患的狀</span><span class="push-ipdatetime"> 05/31 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 況  不然通常醫院這兩部分是完全分開  沒有交集的 頂多</span><span class="push-ipdatetime"> 05/31 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 醫生開轉介單給臨床心理師 之後訪談效果和內容 醫生幾</span><span class="push-ipdatetime"> 05/31 02:17
+</span></div>在我去的醫院裡的醫生是表明
+要有非常嚴重(急需解決)的症狀才能轉介&#34;醫院內&#34;的臨床心理師
+
+反之無法 就要在外尋找能配合的心理師了
+<span class="f2">※ 編輯: fiftypercent (150.116.50.10), 05/31/2017 02:21:30
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 乎不知道   但問題是只有醫生能開藥啊 他做再多醫學藥</span><span class="push-ipdatetime"> 05/31 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 物研究 還是無法了解病患的病症有什麼用  就像感冒 你</span><span class="push-ipdatetime"> 05/31 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 可以很明確跟醫生說鼻塞 黃色鼻涕 扁條線有分泌物 但是</span><span class="push-ipdatetime"> 05/31 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 憂鬱症又無法這麼簡單形容   拜託醫生給我多點時間吧</span><span class="push-ipdatetime"> 05/31 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">:   況且能自行走到診間真的不叫沒那麼嚴重 因為嚴重的</span><span class="push-ipdatetime"> 05/31 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 時候你不知道啊啊啊   害我每次都很懷疑醫生到底裡不了</span><span class="push-ipdatetime"> 05/31 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 解我</span><span class="push-ipdatetime"> 05/31 02:21
+</span></div>我想你應該可以跟醫生提一下心理師那邊的諮商結果是如何
+甚至可以拿心理師那邊的回饋表(忘了專業名稱是什麼) 給醫生看一下
+
+如果醫生拒絕聽你在心理師那邊的情況的話 我覺得你可以換個醫生了
+
+<span class="f2">※ 編輯: fiftypercent (150.116.50.10), 05/31/2017 02:24:22
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 醫生是願意聽啦 不過除非病患主動提起  按他們醫院流程</span><span class="push-ipdatetime"> 05/31 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 是不會去互相干涉這部分的  ；我去的是高雄某衛福部有</span><span class="push-ipdatetime"> 05/31 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 身心科大樓的醫院   第一次去之後他就幫我轉介院內臨</span><span class="push-ipdatetime"> 05/31 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 床心理師 排一個月之後 但後來因為醫生實在是ooxx  就</span><span class="push-ipdatetime"> 05/31 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 中斷治療九個月   才再去醫院請他開醫生證明  又開始</span><span class="push-ipdatetime"> 05/31 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 漫長治療了.....</span><span class="push-ipdatetime"> 05/31 02:29
+</span></div>linda大 我覺得不要隨意的中斷治療比較好
+如果你認為這個醫生不好 你可以找下一個適合你的
+
+
+<span class="f2">※ 編輯: fiftypercent (150.116.50.10), 05/31/2017 02:32:20
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isiyou</span><span class="f3 push-content">: 推 之前也在吃精神官能症的藥</span><span class="push-ipdatetime"> 05/31 02:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WWIII</span><span class="f3 push-content">: 大麻治萬病 出國抽吧</span><span class="push-ipdatetime"> 05/31 02:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 謝謝50%大的建議 依中斷治療九個月的經驗來說 這真的是</span><span class="push-ipdatetime"> 05/31 04:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 最糟糕的日子之一  導致大四下了也只好休學 要說這個</span><span class="push-ipdatetime"> 05/31 04:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 醫生不好 其實也沒有 他有我所缺乏的歡樂感 只是我憂鬱</span><span class="push-ipdatetime"> 05/31 04:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 的症狀太久太嚴重 甚至很習慣性的隱藏得非常好 也很難</span><span class="push-ipdatetime"> 05/31 04:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 明確指出狀況 平日遇到「觸發點」就會瞬間崩潰  但是</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 醫生、諮商師都不是24小時和我接觸 當然對我的了解有</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 限 有時候會覺得我沒那麼嚴重 上禮拜的診間結束後也是</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">:  就單純在醫生的陪同下打電話給媽媽  結果就崩潰了 連</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 一句話都說不出來 13分鐘 一路聽著醫生和媽媽的通話</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">:  最後只淚眼汪汪的擠出四個字&#39;我想回家&#39;  留下錯愕的</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 醫生和兩個想下班的護士  話說回來會再次選擇同位醫生</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: ；主要有兩個原因1.懶的換 2.這個醫生說的話能讓我離</span><span class="push-ipdatetime"> 05/31 04:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linda17a3</span><span class="f3 push-content">: 死亡更接近。下午又要看診了真的不知道該怎麼面對醫生</span><span class="push-ipdatetime"> 05/31 04:12
+</span></div>linda大 我有寄站內信給你哦
+希望可以幫助到你
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinghtt</span><span class="f3 push-content">: 樓上乾脆找Dr.阿笠比較快</span><span class="push-ipdatetime"> 05/31 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinghtt</span><span class="f3 push-content">: 讓妳症狀無法緩解的醫生就該換，親人放你一個就診也太敢</span><span class="push-ipdatetime"> 05/31 04:46
+</span></div><span class="f2">※ 編輯: fiftypercent (150.116.50.10), 05/31/2017 04:55:26
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kayxs</span><span class="f3 push-content">: Linda你要不要考慮看看許添盛的門診看看，他主打的不是藥</span><span class="push-ipdatetime"> 05/31 07:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kayxs</span><span class="f3 push-content">: 物治療，而是會花時間在跟你探討內心的問題，這ㄧ塊他真的</span><span class="push-ipdatetime"> 05/31 07:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kayxs</span><span class="f3 push-content">: 做的很用心，推薦給你參考。</span><span class="push-ipdatetime"> 05/31 07:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whitehow</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/31 08:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whynotwhy</span><span class="f3 push-content">: 我覺不能把感冒與憂鬱症混在一起談，社會對這兩者看法</span><span class="push-ipdatetime"> 05/31 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whynotwhy</span><span class="f3 push-content">: 差太多了</span><span class="push-ipdatetime"> 05/31 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlackWood</span><span class="f3 push-content">: 加油</span><span class="push-ipdatetime"> 05/31 10:37
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496167656.A.F3D.html?cacheKey=2052-2394724&offset=7621&offset-sig=4d0bd3b566cf1056f6609955840952179bf921b2" data-longpollurl="/v1/longpoll?id=be22c515a85994dd276ddc1eb359b3fb86d38262" data-offset="7621"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

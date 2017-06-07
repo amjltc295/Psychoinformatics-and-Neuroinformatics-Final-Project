@@ -1,0 +1,184 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495876874.A.803.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 擊敗人類頂尖高手　AlphaGo宣布退役 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="蘋果
+擊敗人類頂尖高手　AlphaGo宣布退役
+升級後的人工智慧軟體AlphaGo所向披靡，以3：0贏得這次烏鎮人機大戰。
+不過這也將是人機大戰的最後3局比賽了。
+在最後一局比賽結束後的發佈會上
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 擊敗人類頂尖高手　AlphaGo宣布退役">
+<meta property="og:description" content="蘋果
+擊敗人類頂尖高手　AlphaGo宣布退役
+升級後的人工智慧軟體AlphaGo所向披靡，以3：0贏得這次烏鎮人機大戰。
+不過這也將是人機大戰的最後3局比賽了。
+在最後一局比賽結束後的發佈會上
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495876874.A.803.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495876874.A.803.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">MidoBanA (美堂)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 擊敗人類頂尖高手　AlphaGo宣布退役</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 17:21:11 2017</span></div>
+蘋果
+
+
+擊敗人類頂尖高手　AlphaGo宣布退役
+
+
+升級後的人工智慧軟體AlphaGo所向披靡，以<span class="f1 hl">3：0</span>贏得這次烏鎮人機大戰。
+不過這也將是人機大戰的最後3局比賽了。
+
+在最後一局比賽結束後的發佈會上
+AlphaGo之父、DeepMind創始人哈薩比斯（Demis Hassabis）：
+「本周的比賽聚集了圍棋起源地最優秀的棋手參與
+是AlphaGo作為一個競賽系統能夠對弈的最高級別對手。
+因此，本次中國烏鎮圍棋峰會是AlphaGo參加的最後對弈比賽。」
+
+不過，哈薩比斯也說，人類棋手與AlphaGo的故事並不會就此結束。
+AlphaGo的啟蒙老師、歐洲圍棋冠軍樊麾隨後表示：
+「我們將與柯潔共同研究這三局比賽，做成影片，與全世界圍棋愛好者共同分享。
+我們還給全世界圍棋愛好者準備了一份禮物
+這些自我對戰是阿爾法狗最寶貴的財富
+我們近期會公佈50副阿爾法狗自我對戰的棋譜，以慢棋的形式進行。」
+（大陸中心／綜合外電報導）
+
+
+<a href="https://goo.gl/Tsw5tF" target="_blank" rel="nofollow">https://goo.gl/Tsw5tF</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.254.98.143
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495876874.A.803.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495876874.A.803.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 我是說在座的各位</span><span class="push-ipdatetime"> 05/27 17:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eva19452002</span><span class="f3 push-content">: 中離狗</span><span class="push-ipdatetime"> 05/27 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ptte</span><span class="f3 push-content">: sai贏了就升天了</span><span class="push-ipdatetime"> 05/27 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 感謝各位測試員</span><span class="push-ipdatetime"> 05/27 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yu1988</span><span class="f3 push-content">: Google感謝祭!!!</span><span class="push-ipdatetime"> 05/27 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 再不退役要被拆成廢鐵了</span><span class="push-ipdatetime"> 05/27 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EXIONG</span><span class="f3 push-content">: 一擊脫離 太屌了</span><span class="push-ipdatetime"> 05/27 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ksxo</span><span class="f3 push-content">: 阿法狗表示:我已經不知為何而戰 空虛寂寞覺得冷</span><span class="push-ipdatetime"> 05/27 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chuckni</span><span class="f3 push-content">: 打贏爽啦宣布退役不給報仇</span><span class="push-ipdatetime"> 05/27 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">teemo0330</span><span class="f3 push-content">: 50場阿法狗自己打自己？</span><span class="push-ipdatetime"> 05/27 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snow3804</span><span class="f3 push-content">: AlphaGo:人類沒一個人打的</span><span class="push-ipdatetime"> 05/27 17:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">netsphere</span><span class="f3 push-content">: 孤單求敗</span><span class="push-ipdatetime"> 05/27 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goodjeff</span><span class="f3 push-content">: 李唯一贏的那場 是人類唯一一場</span><span class="push-ipdatetime"> 05/27 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 成傳說了</span><span class="push-ipdatetime"> 05/27 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sheepxo</span><span class="f3 push-content">: 人類會進化呀！不要跑！</span><span class="push-ipdatetime"> 05/27 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">em4</span><span class="f3 push-content">: 急流勇退 不給雪恥</span><span class="push-ipdatetime"> 05/27 17:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">perlone</span><span class="f3 push-content">: 阿發狗唯一一場輸給李世石</span><span class="push-ipdatetime"> 05/27 17:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dunkyou</span><span class="f3 push-content">: BetaGo要出來了嗎</span><span class="push-ipdatetime"> 05/27 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 跟sai一樣 打完最強就不打了</span><span class="push-ipdatetime"> 05/27 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: BetaGo要推出瞜</span><span class="push-ipdatetime"> 05/27 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 已經打上世界一位還不會老化退休，不退役太欺負人了</span><span class="push-ipdatetime"> 05/27 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baibaizo</span><span class="f3 push-content">: 原來是興趣使然的棋手…</span><span class="push-ipdatetime"> 05/27 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wylscott</span><span class="f3 push-content">: BetaGo：以後要跟我打都要先被我讓4子</span><span class="push-ipdatetime"> 05/27 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ajpg52</span><span class="f3 push-content">: 要讓他在網路上挑戰全世界人類才對</span><span class="push-ipdatetime"> 05/27 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppo7741</span><span class="f3 push-content">: 電擊引退</span><span class="push-ipdatetime"> 05/27 17:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rumirumi</span><span class="f3 push-content">: 沒有對手 只好引退</span><span class="push-ipdatetime"> 05/27 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a64681432</span><span class="f3 push-content">: 佐為？要回去了是吧？</span><span class="push-ipdatetime"> 05/27 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mopigou</span><span class="f3 push-content">: 佐為消失了</span><span class="push-ipdatetime"> 05/27 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GARRETH</span><span class="f3 push-content">: 棋盤上的血漬漸漸消失了</span><span class="push-ipdatetime"> 05/27 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">einejack</span><span class="f3 push-content">: 獨孤求敗阿法狗</span><span class="push-ipdatetime"> 05/27 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 它沒輸過沒辦法排名</span><span class="push-ipdatetime"> 05/27 17:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cheetahspeed</span><span class="f3 push-content">: 支那人就是廢 連圍棋都下不贏電腦</span><span class="push-ipdatetime"> 05/27 17:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">schumi7401</span><span class="f3 push-content">: 公布自我對戰棋譜也很興奮阿 最強跟最強耶</span><span class="push-ipdatetime"> 05/27 17:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qk3380888</span><span class="f3 push-content">: 等等 劇情不是應該柯潔退役嗎</span><span class="push-ipdatetime"> 05/27 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Vonix</span><span class="f3 push-content">: 現在已經看到十盤電腦譜 不是人類下得出來</span><span class="push-ipdatetime"> 05/27 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tzenyachin</span><span class="f3 push-content">: 李世石人類唯一</span><span class="push-ipdatetime"> 05/27 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay0108</span><span class="f3 push-content">: 獨孤求敗無誤</span><span class="push-ipdatetime"> 05/27 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 佐為表示：機器人沒有愛</span><span class="push-ipdatetime"> 05/27 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kohanchen</span><span class="f3 push-content">: <a href="http://i.imgur.com/27qqooj.jpg" target="_blank" rel="nofollow">http://i.imgur.com/27qqooj.jpg</a></span><span class="push-ipdatetime"> 05/27 17:58
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="27qqooj"><a href="//imgur.com/27qqooj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awenracious</span><span class="f3 push-content">: 阿法狗：跟人類下浪費時間，還是自己下好了</span><span class="push-ipdatetime"> 05/27 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: SAAAAAAAAAAAAAAIIIIIIIIIIIIIIII</span><span class="push-ipdatetime"> 05/27 19:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sam0453</span><span class="f3 push-content">: 楊海是先知</span><span class="push-ipdatetime"> 05/27 19:30
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495876874.A.803.html?cacheKey=2052-2045937&offset=5295&offset-sig=7bfe7c387a231671b21ad8e6188a21d63a14c5fb" data-longpollurl="/v1/longpoll?id=258b2d7a39fe4a9f8d59c88e8782d6250c802e6c" data-offset="5295"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

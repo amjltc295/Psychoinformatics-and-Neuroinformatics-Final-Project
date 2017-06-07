@@ -1,0 +1,193 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495119738.A.708.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] HTC 11網友讚誠意滿點 這顏色詢問度爆高 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://www.cna.com.tw/news/afe/201705180361-1.aspx
+HTC U11網友讚誠意滿點 這顏色詢問度爆高
+（中央社記者吳家豪台北電）
+宏達電旗艦新機HTC U11獲網友好評，包括規格、價格、外型都「誠意滿點」；
+據了解，目前紅色機種詢問度超高，但推出時程還沒確定，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] HTC 11網友讚誠意滿點 這顏色詢問度爆高">
+<meta property="og:description" content="http://www.cna.com.tw/news/afe/201705180361-1.aspx
+HTC U11網友讚誠意滿點 這顏色詢問度爆高
+（中央社記者吳家豪台北電）
+宏達電旗艦新機HTC U11獲網友好評，包括規格、價格、外型都「誠意滿點」；
+據了解，目前紅色機種詢問度超高，但推出時程還沒確定，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495119738.A.708.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495119738.A.708.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">science9686 (科學 = 真理)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] HTC 11網友讚誠意滿點 這顏色詢問度爆高</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 23:02:12 2017</span></div>
+<a href="http://www.cna.com.tw/news/afe/201705180361-1.aspx" target="_blank" rel="nofollow">http://www.cna.com.tw/news/afe/201705180361-1.aspx</a>
+HTC U11網友讚誠意滿點 這顏色詢問度爆高
+
+
+（中央社記者吳家豪台北電）
+
+
+宏達電旗艦新機HTC U11獲網友好評，包括規格、價格、外型都「誠意滿點」；
+
+據了解，目前紅色機種詢問度超高，但推出時程還沒確定，
+
+<span class="f1 hl">官網預購則顯示128GB機種已無庫存。</span>
+
+
+宏達電16日發表年度旗艦新機HTC U11，
+
+首創側框感應功能Edge Sense，售價新台幣1萬9900元起，
+
+首波上市提供炫藍銀、寶石藍、亮麗黑、冰雪白4款顏色供消費者選擇，
+
+另外1款豔陽紅可於第二波銷售期間購買。
+
+
+
+國內知名BBS平台批踢踢（PTT）有網友發現，16日U11在官網開放預購後，
+
+下午4時左右曾一度無法下單，到了下午6時左右又可以訂購，
+
+疑似因為流量太大造成當機。
+
+
+
+據了解，目前U11紅色機種詢問度超高，但推出時程還沒確定。
+
+
+
+官網預購頁面則顯示，售價2萬1900元的128GB機種已無庫存，
+
+至於售價1萬9900元的64GB機種仍有庫存，
+
+反映出預購用戶似乎更青睞大容量版本。
+
+
+
+針對首波尚未開賣的紅色U11，有網友說本來要買HTC 10，但是看到紅色U11一整個生火，
+
+直言 「夭壽骨，一整個要推我入坑嘛」 。
+
+
+
+
+
+
+
+
+--
+
+<span class="f2 hl">HTC</span> 11 – 為與眾不同而生
+<a href="https://www.youtube.com/watch?v=s1q9X3T7jVQ" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=s1q9X3T7jVQ</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/s1q9X3T7jVQ" frameborder="0" allowfullscreen></iframe></div></div></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.46.96.47
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495119738.A.708.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495119738.A.708.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">howarddddads</span><span class="f3 push-content">: 葉佩?</span><span class="push-ipdatetime"> 05/18 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiara5566</span><span class="f3 push-content">: 紅色真的漂亮</span><span class="push-ipdatetime"> 05/18 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">barbarian72</span><span class="f3 push-content">: 五樓屁眼塞手機</span><span class="push-ipdatetime"> 05/18 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ayeae</span><span class="f3 push-content">: 重返農藥 起飛囉</span><span class="push-ipdatetime"> 05/18 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oten</span><span class="f3 push-content">: M10的後繼機種所以是U11  不會有M11?</span><span class="push-ipdatetime"> 05/18 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 點進去連圖都沒有 記者想搞業佩也專業一點好嗎</span><span class="push-ipdatetime"> 05/18 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heavensun</span><span class="f3 push-content">: M不吉利 一直賠  改叫U</span><span class="push-ipdatetime"> 05/18 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ComeThrough</span><span class="f3 push-content">: m10爽爽用</span><span class="push-ipdatetime"> 05/18 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">josemora</span><span class="f3 push-content">: 醜到有剩</span><span class="push-ipdatetime"> 05/18 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abcjoe61115</span><span class="f3 push-content">: 假台灣真中國品牌</span><span class="push-ipdatetime"> 05/18 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tigershark</span><span class="f3 push-content">: 市占1% 廢到笑</span><span class="push-ipdatetime"> 05/18 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">giveUstars</span><span class="f3 push-content">: 重返榮耀</span><span class="push-ipdatetime"> 05/18 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PTT88</span><span class="f3 push-content">: 騙鬼 我看手機版根本沒人徵求</span><span class="push-ipdatetime"> 05/18 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skcubrats</span><span class="f3 push-content">: 繼續黑~ 不要跟我搶~~~</span><span class="push-ipdatetime"> 05/18 23:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elnomar</span><span class="f3 push-content">: 看圖塑膠感很重，實機不知道會不會好一點</span><span class="push-ipdatetime"> 05/18 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gamaqqq</span><span class="f3 push-content">: 業配的包裝真行 這次又多少錢了</span><span class="push-ipdatetime"> 05/19 00:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eowa</span><span class="f3 push-content">: 王雪紅</span><span class="push-ipdatetime"> 05/19 07:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495119738.A.708.html?cacheKey=2052-40121657&offset=3036&offset-sig=d8ba2d1d4b9269c3605645a6a30d043b1f09bf0f" data-longpollurl="/v1/longpoll?id=f07efb46a9cf029196e68784c97c8257023d0fd4" data-offset="3036"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

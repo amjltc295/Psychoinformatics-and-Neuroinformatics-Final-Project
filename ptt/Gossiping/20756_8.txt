@@ -1,0 +1,191 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495447633.A.4BE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 美元慘摔！新台幣狂飆1.58角收30.052　 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+東森新聞雲
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 美元慘摔！新台幣狂飆1.58角收30.052　">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+東森新聞雲
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495447633.A.4BE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495447633.A.4BE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">redspeed (RED)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 美元慘摔！新台幣狂飆1.58角收30.052　</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 18:07:10 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+東森新聞雲
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+美元慘摔！新台幣狂飆1.58角收30.052　創近33個月新高
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+財經中心／綜合報導
+
+台北外匯市場新台幣兌美元匯率今（22）日以30.07元開盤，盤中更是一度升破30元整數
+關卡，在外資匯入下，一度勁揚2.45角，最高來到29.965元，不過隨後升幅收斂，終場狂
+飆1.58角，收在30.052元，成交放大至9.09億美元，創近33個月新高。
+
+川普「通俄門」風波未息，美元指數持續走軟，創近6個月新低，新台幣在韓元走升帶動
+下，盤中一度大升逾2角，觸及29.965美元，重現「2字頭」，雖然終場升幅收斂，但仍飆
+升1.58角，以30.052元兌1美元作收，創近2年9個月以來新高。
+
+至於國際匯市部分，雖然北韓昨日再度試射飛彈，但韓元抗跌，盤中勁揚逾1%，來到1116
+附近價位，而日圓也一度回升至110.97兌1美元。
+
+外匯人員表示，新台幣今日最高價來到30.07元、最低價則來到29.965元，盤中輕鬆升破
+30元大關，主要是國際熱錢持續回流，使得新台幣轉強，不過尾盤買盤進駐，新台幣拉回
+3字頭。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="http://www.ettoday.net/news/20170522/929705.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170522/929705.htm</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+╔══════════════════════════════════╗
+║╔════════════════════════════════╗║
+║║                   節電，                                       ║║
+║║                        才是最環保、最省錢的發電！              ║║
+║╚════════════════════════════════╝║
+╚══════════════════════════════════╝
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.104.161
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495447633.A.4BE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495447633.A.4BE.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 擠兌惹 上</span><span class="push-ipdatetime"> 05/22 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DiMammaMia</span><span class="f3 push-content">: 五樓通肛門</span><span class="push-ipdatetime"> 05/22 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 30保衛戰～</span><span class="push-ipdatetime"> 05/22 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greg7575</span><span class="f3 push-content">: 北韓開戰美國倒川。台幣飛是很正常的</span><span class="push-ipdatetime"> 05/22 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">F0314</span><span class="f3 push-content">: 來去亞馬遜買東西囉</span><span class="push-ipdatetime"> 05/22 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CherryVoe</span><span class="f3 push-content">: 等25再進場</span><span class="push-ipdatetime"> 05/22 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 進口貨什麼時後要跌!!</span><span class="push-ipdatetime"> 05/22 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Grothendieck</span><span class="f3 push-content">: 彭老不敢動了</span><span class="push-ipdatetime"> 05/22 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">C13H16ClNO</span><span class="f3 push-content">: 尾盤買盤？央行？</span><span class="push-ipdatetime"> 05/22 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Arbin</span><span class="f3 push-content">: 尾盤誰買啊XD</span><span class="push-ipdatetime"> 05/22 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bob120400</span><span class="f3 push-content">: 新台幣慘升</span><span class="push-ipdatetime"> 05/22 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jrshiun</span><span class="f3 push-content">: 和泰: 我們是美金計車價..那個我是說 日幣計車價...那個.</span><span class="push-ipdatetime"> 05/22 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LoveMakeLove</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/22 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 台幣漲一點都不開心好嗎？</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 一堆只想著出去玩的</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joshua781021</span><span class="f3 push-content">: 外資換籌碼準備好炒台股啊</span><span class="push-ipdatetime"> 05/22 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 台幣變強很好啊 一堆沒競爭力的中小企業現形</span><span class="push-ipdatetime"> 05/22 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jankowalski</span><span class="f3 push-content">: 為了那些只能賺3% 5%的企業 臺幣匯率被壓了20年</span><span class="push-ipdatetime"> 05/22 18:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WWIII</span><span class="f3 push-content">: 二十指日可待</span><span class="push-ipdatetime"> 05/22 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chinhan1216</span><span class="f3 push-content">: 老闆哭哭</span><span class="push-ipdatetime"> 05/22 18:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">abcdef4</span><span class="f3 push-content">: 哭了</span><span class="push-ipdatetime"> 05/22 18:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jtf81902013</span><span class="f3 push-content">: 出口貿易國還這麼開心 ...</span><span class="push-ipdatetime"> 05/22 18:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 應該會更低</span><span class="push-ipdatetime"> 05/22 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">intelb06385</span><span class="f3 push-content">: 一群87 明年貶回32一定一堆物價上漲的</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joshua781021</span><span class="f3 push-content">: 升到20電子業都要爆掉了</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joshua781021</span><span class="f3 push-content">: 32-30  電子都匯損 賺的都賠給匯損了</span><span class="push-ipdatetime"> 05/22 18:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Imhuang</span><span class="f3 push-content">: 今年一例一休就漲翻了吧……</span><span class="push-ipdatetime"> 05/22 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 爽 慣腦板要QQ辣</span><span class="push-ipdatetime"> 05/22 19:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: 美元廢的要死    還一堆人認為會升    可笑</span><span class="push-ipdatetime"> 05/22 21:59
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495447633.A.4BE.html?cacheKey=2052-36704650&offset=4898&offset-sig=ca864287dd510f95e85b5e68fde9528e38956aff" data-longpollurl="/v1/longpoll?id=77667773b3e2a62533b962cd8fec6091714c6ce9" data-offset="4898"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

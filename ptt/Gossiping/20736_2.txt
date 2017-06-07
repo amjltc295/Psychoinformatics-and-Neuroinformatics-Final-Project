@@ -1,0 +1,394 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495434328.A.17F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 黃國昌：令人失望透頂的金管會 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ＦＢ卦點說明：黃國昌對金管會感到失望又森七七
+他希望金管會不要被大財團當成細漢仔
+ＦＢ連結：http://bit.ly/2rJg0ZJ
+ＦＢ內容：
+令人失望透頂的金管會
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 黃國昌：令人失望透頂的金管會">
+<meta property="og:description" content="ＦＢ卦點說明：黃國昌對金管會感到失望又森七七
+他希望金管會不要被大財團當成細漢仔
+ＦＢ連結：http://bit.ly/2rJg0ZJ
+ＦＢ內容：
+令人失望透頂的金管會
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495434328.A.17F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495434328.A.17F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Anddyliu (安滴滴)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 黃國昌：令人失望透頂的金管會</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 14:25:25 2017</span></div>
+ＦＢ卦點說明：黃國昌對金管會感到失望又森七七
+他希望金管會不要被大財團當成細漢仔
+
+ＦＢ連結：<a href="http://bit.ly/2rJg0ZJ" target="_blank" rel="nofollow">http://bit.ly/2rJg0ZJ</a>
+
+ＦＢ內容：
+
+
+令人失望透頂的金管會
+由於本週財委會已經沒有詢答的機會了
+早上金管會銀行局官員來國會辦公室
+我直接追問關於永豐案的處理
+聽完以後，既失望又憤怒。
+
+就何壽川違法兼任YFY Global董事長的部分，官員持續對何壽川語多袒護。袒護到連
+「金管會自己訂的法規有問題」這種超級離譜的話都講得出來。
+明明YFY Global只有何壽川一名董事，金管會還是附和何的脫詞，說他只是「董事」、
+不是「董事長」
+
+我出示YFY Global的董事會議事錄，不僅只有何壽川「一人出席、一人決議」，上面更明
+明寫著「授權董事長」的白紙黑字。何壽川不是董事長，誰是董事長？
+結果，金管會竟然連「那他可以說是筆誤」這種話都掰得出來？
+
+真是嘆為觀止，從「法規解釋」到「證據評價」，即使再扭曲，堅持採取「只許有利大老
+闆」原則。
+
+而這竟是我國負責金融監理的主管機關官員！
+連這麼明確的違法都可以袒護成這樣，還用期待針對諸多違反利害衝突的關係人交易，金
+管會會認真查嗎？
+
+果不其然，一問之下，這個也沒有問、那個也沒有查。
+全部推給檢調，理由竟然是金管會也沒有能力再查下去！
+有這樣的金管會，難怪違法亂紀的金控大老闆可以如此囂張。
+
+最後，金管會說兩週內會公佈處分結果，儘管今天的談話令人十分失望，我仍要再次敬告
+金管會，重拾責任及專業，不要被大財團當成細漢仔。
+
+<a href="http://imgur.com/5wWhHOY.jpg" target="_blank" rel="nofollow">http://imgur.com/5wWhHOY.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="5wWhHOY"><a href="//imgur.com/5wWhHOY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.226.218.174
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495434328.A.17F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495434328.A.17F.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s820912gmail</span><span class="f3 push-content">: 因為西索小時候家裡很窮</span><span class="push-ipdatetime"> 05/22 14:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HellKitty</span><span class="f3 push-content">: 不然你來作?</span><span class="push-ipdatetime"> 05/22 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tml7415</span><span class="f3 push-content">: 選黃國昌 到底做了啥啊?</span><span class="push-ipdatetime"> 05/22 14:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mazz</span><span class="f3 push-content">: 精管會</span><span class="push-ipdatetime"> 05/22 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nixon</span><span class="f3 push-content">: 9.2</span><span class="push-ipdatetime"> 05/22 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: 總之無可奈何？</span><span class="push-ipdatetime"> 05/22 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HellKitty</span><span class="f3 push-content">: 黃國昌難道不會質詢喔??當立委當假的 叫金管會主委出來</span><span class="push-ipdatetime"> 05/22 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HellKitty</span><span class="f3 push-content">: 問阿 只會講空話?不然黃大立委有甚麼新證據?</span><span class="push-ipdatetime"> 05/22 14:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">softstar0125</span><span class="f3 push-content">: 境外公司就只有董事沒有董事長呀，金管會裝傻喔</span><span class="push-ipdatetime"> 05/22 14:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">huangjyuan</span><span class="f3 push-content">: 做了 監督國民黨 監督金融幫 還有哭哭</span><span class="push-ipdatetime"> 05/22 14:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 黃國昌又要哭了</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derringer</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 搞了半天沒起訴 顆顆 浪費大家時間</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 原來有人不看質詢內容也不怕被打臉的 金管會每次都被電翻</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">david85dodo</span><span class="f3 push-content">: 查無不法 謝謝指教</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 只會發FB的廢渣</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kazimir</span><span class="f3 push-content">: 黃國昌怎麼整天在失望啊 在當個兩年可以出一本失望集了</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qsxwdc</span><span class="f3 push-content">: 選他東罵西罵，毫無實質影響力，不如選隻狗，叫得還比較</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qsxwdc</span><span class="f3 push-content">: 大聲，選時力的都是智障</span><span class="push-ipdatetime"> 05/22 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 電翻得到什麼 什麼都沒有 作秀昌</span><span class="push-ipdatetime"> 05/22 14:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">prompter</span><span class="f3 push-content">: 金管會就是財閥會阿</span><span class="push-ipdatetime"> 05/22 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iPadProPlus</span><span class="f3 push-content">: 又要被罷免了？</span><span class="push-ipdatetime"> 05/22 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 原來執政黨擺爛 需要一個五席的政黨負責? 神邏輯耶</span><span class="push-ipdatetime"> 05/22 14:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">huangjyuan</span><span class="f3 push-content">: 我承認 政黨票我投時力</span><span class="push-ipdatetime"> 05/22 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 一個人整天在失望啥？立委也做了 做了什麼什麼也沒有</span><span class="push-ipdatetime"> 05/22 14:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 藍綠黨工請滾出去好嗎   立委大概只有黃國昌 在意這件</span><span class="push-ipdatetime"> 05/22 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 果然是沒辦法解決問題 就只想解決提出問題的人</span><span class="push-ipdatetime"> 05/22 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ox1005</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/22 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 事</span><span class="push-ipdatetime"> 05/22 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 質詢內容 耍嘴皮有用 怎都沒起訴！？</span><span class="push-ipdatetime"> 05/22 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 說得好像藍綠哪個黨立委有做得比他多 連好好質詢都做不到</span><span class="push-ipdatetime"> 05/22 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kathypig</span><span class="f3 push-content">: 等等主子打臉，又要怪國民黨了</span><span class="push-ipdatetime"> 05/22 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 製造問題的國昌 無法解決問題的國昌</span><span class="push-ipdatetime"> 05/22 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 說的好像金管會的問題是國昌製造出來的 裝傻就沒問題了?</span><span class="push-ipdatetime"> 05/22 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 問了一堆問題 帶風向</span><span class="push-ipdatetime"> 05/22 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 其他立委連問題在哪都問不出來啊 選立委不用質詢的喔?</span><span class="push-ipdatetime"> 05/22 14:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 國民兩擋哪個立委有站出來的</span><span class="push-ipdatetime"> 05/22 14:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 有問題請按鈴申告 電翻只是作秀</span><span class="push-ipdatetime"> 05/22 14:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 快點去救詐騙犯跟李明哲阿 笑時代力量不敢啦</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 沒什麼好問的 浪費大家時間 不是嗎</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 爛立委下台</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以立委不應該質詢，應該按鈴告發? 神邏輯耶</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 整天問問題 向小孩一樣 對嗎！？</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 原來立委質詢是作秀，長知識了</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 原來浪費大家時間的不是擺爛的金管會?</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">IamTK</span><span class="f3 push-content">: 你甚麼都要講,跟祭央乂當初有甚麼差?為反而反,等到你做大了</span><span class="push-ipdatetime"> 05/22 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 質詢可以啊 問題 得到什麼 什麼都沒有吧 誰抓去關了！？</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toddy5401</span><span class="f3 push-content">: 好可惜  無法對這個共犯結構做出處法</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 你是不是看不懂國昌的質詢啊?</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IamTK</span><span class="f3 push-content">: 甚麼都不會做,沒有競爭力跟執行力,跟現任執政者有甚麼差別?</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 國民兩黨立委爛到只會閉隻眼交朋友</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 甚麼都沒有 不去怪擺爛的執政黨 來怪發現問題的人? 讚喔</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 滯台支那9.2開始腦噓</span><span class="push-ipdatetime"> 05/22 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 天天講大話 然後有罪就要去舉發 不然問了半天 好好笑 只</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 官員擺爛你能怎樣</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 大家都是好朋友  沒事了  沒事了</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: [問卦]有沒有9.2不看新聞說人家沒質詢的八卦？</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 作秀 問問題當然可以 問題是問完然後！？</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 國昌至少找出問題 請問執政黨做了啥? 講兩個聽聽好嗎</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 逃兵</span><span class="push-ipdatetime"> 05/22 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 有些人連問都不問</span><span class="push-ipdatetime"> 05/22 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">niko0202</span><span class="f3 push-content">: 國昌壞壞 點出問題的處理掉就沒問題了～破壞皇城和諧</span><span class="push-ipdatetime"> 05/22 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 秀完了 接續罵顆顆</span><span class="push-ipdatetime"> 05/22 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">haofutw</span><span class="f3 push-content">: 又要哭了</span><span class="push-ipdatetime"> 05/22 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 沒什麼好問的</span><span class="push-ipdatetime"> 05/22 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 誰叫執政黨要擺爛? 不怪擺爛的人怪國昌 超強的</span><span class="push-ipdatetime"> 05/22 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Myfun</span><span class="f3 push-content">: 推黃！認真監督</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: 怎麼只有他在問呢？大概其他藍綠立委都死光了吧</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以說執政黨做了啥 講兩個來聽聽啊?</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 問完發FB呀，覺青就覺得他有政績了</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 國昌扯後退第一名 沒建樹</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 黨工只會在那講無關緊要的  廢到有剩</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 大家都知道沒什麼好問的 就國昌不知道</span><span class="push-ipdatetime"> 05/22 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 講半天還是講不出執政黨做了啥</span><span class="push-ipdatetime"> 05/22 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 有證據就去提告，發fb幹嘛</span><span class="push-ipdatetime"> 05/22 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 是沒錢請高級黨工嗎</span><span class="push-ipdatetime"> 05/22 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 就沒犯罪事實 是要問什麼！？ 一直作秀發FB幹嘛呢</span><span class="push-ipdatetime"> 05/22 14:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pietro</span><span class="f3 push-content">: 喔喔 不罵沒在關心的藍綠立委 罵出來表達失望的黃國昌阿</span><span class="push-ipdatetime"> 05/22 14:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Albert666</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 好喔，以後就不要看到政客發抱怨FB</span><span class="push-ipdatetime"> 05/22 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 有犯罪事實 不是質詢 發fb 是要去告</span><span class="push-ipdatetime"> 05/22 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 沒犯罪就不用質詢喔? 原來程度差這麼多 哎...</span><span class="push-ipdatetime"> 05/22 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Pietro</span><span class="f3 push-content">: 不解決問題 解決發現問題的人 好樣兒</span><span class="push-ipdatetime"> 05/22 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 質詢完只會森77？好好笑</span><span class="push-ipdatetime"> 05/22 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jason91818</span><span class="f3 push-content">: 存在感+1</span><span class="push-ipdatetime"> 05/22 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 藍綠立委連屁都不敢放</span><span class="push-ipdatetime"> 05/22 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 說的好像藍綠其他立委就不用FB一樣 被打臉不痛嗎?</span><span class="push-ipdatetime"> 05/22 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 就沒問題呀，在那光放屁幹嘛?</span><span class="push-ipdatetime"> 05/22 14:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jetalpha</span><span class="f3 push-content">: 推，借轉公民版，謝謝。</span><span class="push-ipdatetime"> 05/22 14:41
+</span></div><span class="f2">※ </span><span class="f2 hl">jetalpha</span><span class="f2">:轉錄至看板 PublicIssue</span>                                 05/22 14:41
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 人家發FB有問題嗎?有問題去告他啊，在這放屁幹麻</span><span class="push-ipdatetime"> 05/22 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ironkyoater</span><span class="f3 push-content">: 之前硬扯周美青，現在綠色的全部崩潰</span><span class="push-ipdatetime"> 05/22 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 整天製造問題無法解決問題的國昌好棒棒</span><span class="push-ipdatetime"> 05/22 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 沒問題的話金管會被質詢會回答不出來?</span><span class="push-ipdatetime"> 05/22 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 原來質詢是製造問題喔 那立委都不用質詢就沒問題啦 神耶</span><span class="push-ipdatetime"> 05/22 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 去看正經就知到你為何連肛門都找不到</span><span class="push-ipdatetime"> 05/22 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Charley2309</span><span class="f3 push-content">: 黨工又要出來說別人哭了 他們才不在意</span><span class="push-ipdatetime"> 05/22 14:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 這樣就有做事了 好棒歐</span><span class="push-ipdatetime"> 05/22 14:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 沒犯罪事實 也沒什麼好答的啊</span><span class="push-ipdatetime"> 05/22 14:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以你還是講不出執政黨做了什麼? 好可憐...</span><span class="push-ipdatetime"> 05/22 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 有犯罪事實請申告 不是作秀</span><span class="push-ipdatetime"> 05/22 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以沒犯罪的時候立委都不用質詢了? 高級反串的概念</span><span class="push-ipdatetime"> 05/22 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2603</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 問了半天 不答你能怎樣！？ 這不是作秀嗎？</span><span class="push-ipdatetime"> 05/22 14:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newking761</span><span class="f3 push-content">: 垃圾不分藍綠，請支持台灣良心黃國昌</span><span class="push-ipdatetime"> 05/22 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 正經都沒人看了還在正經</span><span class="push-ipdatetime"> 05/22 14:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 法院都有緘默權了 國昌問話一定要答？</span><span class="push-ipdatetime"> 05/22 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 官員被質詢可以不用回答? 你是來反串的嗎 XD</span><span class="push-ipdatetime"> 05/22 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackjack0040</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 14:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 沒有確定的事請或是不知道 與沒問題 為什麼要答</span><span class="push-ipdatetime"> 05/22 14:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RW2010</span><span class="f3 push-content">: 垃圾不分藍綠啊~ 綠上來繼續給你擺爛</span><span class="push-ipdatetime"> 05/22 14:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 垃圾，空心蔡再裝死2020要下台了</span><span class="push-ipdatetime"> 05/22 14:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 沒問題就回答沒問題啊 很難懂?  金管會可沒說沒問題</span><span class="push-ipdatetime"> 05/22 14:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pietro</span><span class="f3 push-content">: 是金管會的法條不好wwwww</span><span class="push-ipdatetime"> 05/22 14:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 所以就風聲大 誰處罰了 秀一場</span><span class="push-ipdatetime"> 05/22 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeyun</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 你一定沒聽過金管會回答甚麼 才會講這種會被打臉的話</span><span class="push-ipdatetime"> 05/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NEJAN9</span><span class="f3 push-content">: 時力辛苦了，22k黨工等等亡國還剩什麼技能呢</span><span class="push-ipdatetime"> 05/22 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newking761</span><span class="f3 push-content">: 垃圾不分藍綠，請支持台灣良心黃國昌</span><span class="push-ipdatetime"> 05/22 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 22k 黨工 我過不好  也要拉你們陪葬</span><span class="push-ipdatetime"> 05/22 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stiles</span><span class="f3 push-content">: 推黃國昌</span><span class="push-ipdatetime"> 05/22 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 一種不準你們比我好的概念</span><span class="push-ipdatetime"> 05/22 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 等有人抓去關審理比較重要 至於回答什麼都是嘴皮 如果</span><span class="push-ipdatetime"> 05/22 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vencil</span><span class="f3 push-content">: 金管會廠廠   垃圾不分藍綠</span><span class="push-ipdatetime"> 05/22 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 都沒有只是秀而已 浪費大家時間</span><span class="push-ipdatetime"> 05/22 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wakou109</span><span class="f3 push-content">: 垃圾不分藍綠 黃國昌真的辛苦了</span><span class="push-ipdatetime"> 05/22 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cerberi</span><span class="f3 push-content">: 推，不過現在的風是 解決提出問題的人，不是解決問題</span><span class="push-ipdatetime"> 05/22 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laidawn</span><span class="f3 push-content">: 垃圾金管會</span><span class="push-ipdatetime"> 05/22 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以沒人被抓去關就代表不用質詢了? 被打臉不痛?</span><span class="push-ipdatetime"> 05/22 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DaDadergeege</span><span class="f3 push-content">: 推 藍綠黨工都很怕時代上位</span><span class="push-ipdatetime"> 05/22 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jt912129</span><span class="f3 push-content">: 到底有多少帳號想黑黃國昌 顆顆</span><span class="push-ipdatetime"> 05/22 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 隨便  一直做秀對嗎？</span><span class="push-ipdatetime"> 05/22 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 打了半天 誰處罰了 誰抓去關了 ？</span><span class="push-ipdatetime"> 05/22 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以我就問你啊 沒人被除罰就代表不用質詢了?</span><span class="push-ipdatetime"> 05/22 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: *處罰</span><span class="push-ipdatetime"> 05/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 沒必要回答這個問題 顆顆 因為沒有用</span><span class="push-ipdatetime"> 05/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 藍綠立委到台上質詢都有人被處罰了? 被打臉真的不痛?</span><span class="push-ipdatetime"> 05/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 沒人說不可以質詢 但是大家都知道 質詢是作秀 顆顆</span><span class="push-ipdatetime"> 05/22 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 打你自己臉吧 明明就作秀 沒建樹</span><span class="push-ipdatetime"> 05/22 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以你是在說有質詢的藍綠立委都是作秀?</span><span class="push-ipdatetime"> 05/22 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 解決問題 ？沒有</span><span class="push-ipdatetime"> 05/22 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以沒解決問題 不怪擺爛的金管會 怪質詢的人?</span><span class="push-ipdatetime"> 05/22 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 你脫離主題不再回應</span><span class="push-ipdatetime"> 05/22 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 要逃了嗎? 掰掰喔</span><span class="push-ipdatetime"> 05/22 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">danielqwop</span><span class="f3 push-content">: 金管會呀</span><span class="push-ipdatetime"> 05/22 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: 連法官判阿扁沒有法源依據用大水庫理論..裡面就是有鬼</span><span class="push-ipdatetime"> 05/22 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 因為你問的問題已經脫離主題所以沒必要回你</span><span class="push-ipdatetime"> 05/22 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 不是說不回應了嗎? 怎麼又跑回來回應了?</span><span class="push-ipdatetime"> 05/22 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 隔不到十分鐘就反悔了? 還是一開始就說謊?</span><span class="push-ipdatetime"> 05/22 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nighty7222</span><span class="f3 push-content">: 推國昌</span><span class="push-ipdatetime"> 05/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 你這種問法加油歐</span><span class="push-ipdatetime"> 05/22 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">majx0404</span><span class="f3 push-content">: 沒辦法解決問題搓圓仔湯？那就罷免提出問題的立委！</span><span class="push-ipdatetime"> 05/22 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: gold的意思是說 一定要有人被告被彈核才有資格質詢</span><span class="push-ipdatetime"> 05/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 否則都是作秀</span><span class="push-ipdatetime"> 05/22 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 可是他又不敢回答其他質詢但沒人被關的立委是不是也作秀</span><span class="push-ipdatetime"> 05/22 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 說不回應了也是說謊 之後又跑回來回應 QQ</span><span class="push-ipdatetime"> 05/22 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldduck</span><span class="f3 push-content">: 質詢本來就可以 問題什麼都沒有 那不是作秀啊</span><span class="push-ipdatetime"> 05/22 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 所以其他質詢的立委但沒人被處罰的也是作秀?</span><span class="push-ipdatetime"> 05/22 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 你是不會去看正經喔  只會在那沒問題</span><span class="push-ipdatetime"> 05/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 用FB=作秀 沒人被處罰=作秀? 都不知道這樣打臉其他立委嗎</span><span class="push-ipdatetime"> 05/22 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">love13140</span><span class="f3 push-content">: 推國昌</span><span class="push-ipdatetime"> 05/22 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 然後自己還說謊被抓到...好可憐</span><span class="push-ipdatetime"> 05/22 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WilliamWill</span><span class="f3 push-content">: 無言</span><span class="push-ipdatetime"> 05/22 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnzteeqrq</span><span class="f3 push-content">: 人家也是要討生活</span><span class="push-ipdatetime"> 05/22 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pouy</span><span class="f3 push-content">: 黨工也要生存阿</span><span class="push-ipdatetime"> 05/22 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ueini</span><span class="f3 push-content">: 推國昌</span><span class="push-ipdatetime"> 05/22 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a0684a06</span><span class="f3 push-content">: 這樓真多黨工</span><span class="push-ipdatetime"> 05/22 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa741121</span><span class="f3 push-content">: 前幾樓還在崩潰</span><span class="push-ipdatetime"> 05/22 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">molsmopuim</span><span class="f3 push-content">: 推黃國昌，質詢專業度應該是數一數二的</span><span class="push-ipdatetime"> 05/22 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HenryFCC</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Curryshan</span><span class="f3 push-content">: 蔡的用人 唉</span><span class="push-ipdatetime"> 05/22 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">homer0403</span><span class="f3 push-content">: 黃國昌如果算是作秀 那其他立委就是連作秀都不如 更爛</span><span class="push-ipdatetime"> 05/22 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">susanna026</span><span class="f3 push-content">: 唉</span><span class="push-ipdatetime"> 05/22 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">papawalk</span><span class="f3 push-content">: 目前哪個立委比黃問政認真專業的～</span><span class="push-ipdatetime"> 05/22 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dethklok</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/22 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coober</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/22 15:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">walkmancat</span><span class="f3 push-content">: 崩潰藍綠說得好像藍綠立委做很多事情的倒是分享一下</span><span class="push-ipdatetime"> 05/22 15:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackypan1989</span><span class="f3 push-content">: 如果他算作秀 其他立委不知道幹什麼吃的</span><span class="push-ipdatetime"> 05/22 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujimoto</span><span class="f3 push-content">: 這裡有人期待過金管會嗎？</span><span class="push-ipdatetime"> 05/22 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Shermie</span><span class="f3 push-content">: 沒違法 但是要罰57億美金 當我白痴</span><span class="push-ipdatetime"> 05/22 16:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 16:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rkb84</span><span class="f3 push-content">: 當官真的好爽阿,推拖拉就沒事了.官僚保障真的好棒.</span><span class="push-ipdatetime"> 05/22 16:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">after1</span><span class="f3 push-content">: 黃國昌要其他立委怎麼活</span><span class="push-ipdatetime"> 05/22 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 再推</span><span class="push-ipdatetime"> 05/22 16:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DDinin</span><span class="f3 push-content">: 擋人財路</span><span class="push-ipdatetime"> 05/22 16:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sheepbear</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yohan0219</span><span class="f3 push-content">: 扯</span><span class="push-ipdatetime"> 05/22 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sk3s</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChrisLiu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 16:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa708</span><span class="f3 push-content">: 金管會爛到根去了</span><span class="push-ipdatetime"> 05/22 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qaz0314</span><span class="f3 push-content">: 黑名單又森77了</span><span class="push-ipdatetime"> 05/22 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">allenchang52</span><span class="f3 push-content">: 黨工真的往死裡打....</span><span class="push-ipdatetime"> 05/22 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fuxdk</span><span class="f3 push-content">: 推文裡面混入幾隻畜生 大概他媽媽是被狗幹之後生了他吧</span><span class="push-ipdatetime"> 05/22 17:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuxdk</span><span class="f3 push-content">: 一堆媽媽被狗幹生的畜生 整天搶錢排洗風向</span><span class="push-ipdatetime"> 05/22 17:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">befly10015</span><span class="f3 push-content">: 11</span><span class="push-ipdatetime"> 05/22 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">superjim</span><span class="f3 push-content">: 整天只會作秀 也沒比藍綠高尚到哪裡去 大家一樣爛</span><span class="push-ipdatetime"> 05/22 17:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sheepbear</span><span class="f3 push-content">: 至少人家作的秀都有憑有據，KMT也來學學看啊廠廠</span><span class="push-ipdatetime"> 05/22 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aoirx</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 17:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beryll</span><span class="f3 push-content">: 支那工讀生崩潰</span><span class="push-ipdatetime"> 05/22 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luffy811214</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">comawu</span><span class="f3 push-content">: 狗黨畜生和民進黨拉基黨工來夾殺囉</span><span class="push-ipdatetime"> 05/22 18:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovemeandyou</span><span class="f3 push-content">: 黨工腦子燒壞了 官員腦殘回答都可以無視 跳針說立委</span><span class="push-ipdatetime"> 05/22 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovemeandyou</span><span class="f3 push-content">: 有問題？</span><span class="push-ipdatetime"> 05/22 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">olivet</span><span class="f3 push-content">: 說的好像藍綠的立委有在做事一樣</span><span class="push-ipdatetime"> 05/22 18:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hhtj</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 18:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">curance</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/22 18:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beryll</span><span class="f3 push-content">: 高</span><span class="push-ipdatetime"> 05/22 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lv256</span><span class="f3 push-content">: 工讀生大崩哭</span><span class="push-ipdatetime"> 05/22 19:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlackQ840910</span><span class="f3 push-content">: 上面一堆說問了又怎樣的是在反串的嗎XDD</span><span class="push-ipdatetime"> 05/22 19:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">haviccy</span><span class="f3 push-content">: 推，垃圾不分藍綠</span><span class="push-ipdatetime"> 05/22 20:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d92036david</span><span class="f3 push-content">: 所以上面的意思是 只要質詢的立委通通是作秀囉？ 叭</span><span class="push-ipdatetime"> 05/22 20:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">d92036david</span><span class="f3 push-content">: 叭 全部下臺</span><span class="push-ipdatetime"> 05/22 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">speedup</span><span class="f3 push-content">: 總是會有幾隻小狗出來吠 我只想問 賽吼呷謀</span><span class="push-ipdatetime"> 05/22 20:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc1213</span><span class="f3 push-content">: .</span><span class="push-ipdatetime"> 05/22 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zxc1213</span><span class="f3 push-content">: 9.2: 這麼認真的人 會害我們沒錢A</span><span class="push-ipdatetime"> 05/22 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cymine</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdqw</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 21:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yangtsur</span><span class="f3 push-content">: 為了讓實力更有實力.只好下次繼續投實力了</span><span class="push-ipdatetime"> 05/22 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">youbee</span><span class="f3 push-content">: 金管會換血好嗎？</span><span class="push-ipdatetime"> 05/22 21:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">souldrinking</span><span class="f3 push-content">: 前面幾樓是怎樣？昌黑喔？</span><span class="push-ipdatetime"> 05/22 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kamelie</span><span class="f3 push-content">: 高調。 黃國昌比起一堆立委認真太多了</span><span class="push-ipdatetime"> 05/22 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wolftin</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/22 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">breakegg2000</span><span class="f3 push-content">: 黃戰神連不是專業的金融人員都屌打任何人</span><span class="push-ipdatetime"> 05/22 23:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yyhbala</span><span class="f3 push-content">: 推國昌</span><span class="push-ipdatetime"> 05/22 23:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kotomiaio</span><span class="f3 push-content">: 推黃立委</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aquariussoul</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/23 01:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howmma</span><span class="f3 push-content">: g大至少有立委肯追肯問,其它立委都去哪了？</span><span class="push-ipdatetime"> 05/23 02:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">happydo</span><span class="f3 push-content">: 金管會ㄏㄏ</span><span class="push-ipdatetime"> 05/23 07:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">curiouscat</span><span class="f3 push-content">: 財經幫亂國</span><span class="push-ipdatetime"> 05/23 07:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sding</span><span class="f3 push-content">: 金融幫不意外</span><span class="push-ipdatetime"> 05/23 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lsdasha</span><span class="f3 push-content">: 哈哈，幹0糧好幾樓垃圾工讀生崩潰94爽</span><span class="push-ipdatetime"> 05/23 09:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xicake</span><span class="f3 push-content">: 記id嚕</span><span class="push-ipdatetime"> 05/23 09:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AUwalker</span><span class="f3 push-content">: 天啊，昧著良心黑時力的居然快20樓</span><span class="push-ipdatetime"> 05/23 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie955093</span><span class="f3 push-content">: 不管啦沒有選民服務都是多的下台！_888888</span><span class="push-ipdatetime"> 05/23 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k012727</span><span class="f3 push-content">: 立委本來就是要看見真相，提出現有條文規範問題</span><span class="push-ipdatetime"> 05/24 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamten</span><span class="f3 push-content">: 推時代</span><span class="push-ipdatetime"> 05/25 01:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">didi3789</span><span class="f3 push-content">: 只能靠你了</span><span class="push-ipdatetime"> 05/26 14:49
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495434328.A.17F.html?cacheKey=2052-36207940&offset=25851&offset-sig=eaef67df84d1fdb340c12376eb48f6c68b17742c" data-longpollurl="/v1/longpoll?id=375add6ff7bba4d536818f7516f758213341ee3b" data-offset="25851"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

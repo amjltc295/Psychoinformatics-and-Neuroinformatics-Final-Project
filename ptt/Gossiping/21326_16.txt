@@ -1,0 +1,162 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495805951.A.7C3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 五大高手圍攻AlphaGo 人類還是輸了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="話說我有個疑問，
+如果讓AlphaGo(姑且稱之一號機)對弈AlphaGo(稱為二號機)
+然後兩個AlphaGo裡面的資料庫或程式碼都是一樣的，
+那這樣到底哪一個AlphaGo會贏呢?
+※ 引述《gnew (mix)》之銘言：
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 五大高手圍攻AlphaGo 人類還是輸了">
+<meta property="og:description" content="話說我有個疑問，
+如果讓AlphaGo(姑且稱之一號機)對弈AlphaGo(稱為二號機)
+然後兩個AlphaGo裡面的資料庫或程式碼都是一樣的，
+那這樣到底哪一個AlphaGo會贏呢?
+※ 引述《gnew (mix)》之銘言：
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495805951.A.7C3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495805951.A.7C3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Ertkkpoo (Good)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 五大高手圍攻AlphaGo 人類還是輸了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 21:39:08 2017</span></div>
+
+話說我有個疑問，
+
+
+如果讓AlphaGo(姑且稱之一號機)對弈AlphaGo(稱為二號機)
+
+然後兩個AlphaGo裡面的資料庫或程式碼都是一樣的，
+
+那這樣到底哪一個AlphaGo會贏呢?
+
+
+
+
+
+<span class="f2">※ 引述《gnew (mix)》之銘言：
+</span><span class="f6">: 五大高手圍攻AlphaGo 人類還是輸了
+</span><span class="f6">: <a href="http://news.ltn.com.tw/news/world/breakingnews/2080284" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/world/breakingnews/2080284</a>
+</span><span class="f6">: LTN
+</span><span class="f6">: 〔即時新聞／綜合報導〕Google研發的人工智慧AlphaGo，日前與中國棋王柯潔對弈兩戰
+</span><span class="f6">: 全勝，今日AlphaGo遭到中國五大圍棋高手圍攻，可惜五名棋手在過程中意見紛紛難以統
+</span><span class="f6">: 合，最後還只剩一人奮戰，讓人類再度吃下敗戰。
+</span><span class="f6">: 據《香港01》報導，人類棋士執黑子，由周睿羊負責下棋，時越、羋昱廷、唐韋星、陳耀
+</span><span class="f6">: 燁則負責絞盡腦汁提供意見，周睿羊都會回頭和隊友們討論。五人在開局就屢次陷入思考
+</span><span class="f6">: ，很多時候棋手們都會提出不同的下法。
+</span><span class="f6">: 五大高手的3小時思考時間就這樣慢慢用光，棋手們此後每步棋都只有一分鐘讀秒，結果
+</span><span class="f6">: 在棋局尾端的收官階段，只剩下唐韋星獨自奮戰，其他人都已呈現放棄狀態，最後在254
+</span><span class="f6">: 手時中國隊投子認輸。
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.70.212.118
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495805951.A.7C3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495805951.A.7C3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a026537</span><span class="f3 push-content">: 沒有意義</span><span class="push-ipdatetime"> 05/26 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pttenjk</span><span class="f3 push-content">: 你87阿</span><span class="push-ipdatetime"> 05/26 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jayppt</span><span class="f3 push-content">: alphago常常自己和自己下啊 都不知下幾盤了</span><span class="push-ipdatetime"> 05/26 21:40
+</span></div>所以是alphago贏還是alphago的自己贏呢?
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">citydiver</span><span class="f3 push-content">: 執黑子的贏</span><span class="push-ipdatetime"> 05/26 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 聽說是 黑45% vs 55%白</span><span class="push-ipdatetime"> 05/26 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OGC218</span><span class="f3 push-content">: 不管啦alphaGO和綜合格鬥家一樣缺少武德</span><span class="push-ipdatetime"> 05/26 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 如果柯潔第三盤下出超水準 搞不好真能幹掉alphago</span><span class="push-ipdatetime"> 05/26 21:44
+</span></div><span class="f2">※ 編輯: Ertkkpoo (61.70.212.118), 05/26/2017 21:45:50
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jayppt</span><span class="f3 push-content">: alphago就是不犯錯啊 覺得要貼目你持黑贏面太小 還是得持</span><span class="push-ipdatetime"> 05/26 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jayppt</span><span class="f3 push-content">: 白 然後和他打混戰 例如柯潔那一戰 就少一個劫才而已</span><span class="push-ipdatetime"> 05/26 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jayppt</span><span class="f3 push-content">: 其實不是沒機會 但要混戰到alphago變成讀不出盤面</span><span class="push-ipdatetime"> 05/26 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jayppt</span><span class="f3 push-content">: 要期望和李一樣 alpahgo自己出毛病 現在的alphago不會再</span><span class="push-ipdatetime"> 05/26 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jayppt</span><span class="f3 push-content">: 犯那種錯了吧</span><span class="push-ipdatetime"> 05/26 21:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loloman</span><span class="f3 push-content">: 依照程式來看，到最後會變成固定模式，誰先誰後誰就會輸</span><span class="push-ipdatetime"> 05/26 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twdvdr</span><span class="f3 push-content">: 你覺得過中盤柯潔還不錯是因為 alphago 設定贏了就不搶攻</span><span class="push-ipdatetime"> 05/27 00:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cacoi</span><span class="f3 push-content">: 結果一號機二號機就聯手發射核彈了</span><span class="push-ipdatetime"> 05/27 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">forb9823018</span><span class="f3 push-content">: 裡面有加亂數Y</span><span class="push-ipdatetime"> 05/27 03:19
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495805951.A.7C3.html?cacheKey=2052-1972552&offset=2850&offset-sig=06220ee48ab2ce52799799d466cb661f14c7886b" data-longpollurl="/v1/longpoll?id=47680e59edde0f0af53ccb1c5eab3ed1c9f935c4" data-offset="2850"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,329 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496719043.A.335.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 有些政策請台灣年輕人多關心 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="關於近日的新低白領政策
+我想其實很多人只是理解到了表層上的影響 雖然光這表層的影響就夠大了
+但深入台灣社會的問題 這可不只是我們想像的那麼簡單而已
+因為大家還都忽略了外籍已經有二代 甚至三代這件事
+我想把我真實觀察到的當卦點 主要用意其實是一個很重大的提醒
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 有些政策請台灣年輕人多關心">
+<meta property="og:description" content="關於近日的新低白領政策
+我想其實很多人只是理解到了表層上的影響 雖然光這表層的影響就夠大了
+但深入台灣社會的問題 這可不只是我們想像的那麼簡單而已
+因為大家還都忽略了外籍已經有二代 甚至三代這件事
+我想把我真實觀察到的當卦點 主要用意其實是一個很重大的提醒
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496719043.A.335.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496719043.A.335.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PegasusSeiya ( )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 有些政策請台灣年輕人多關心</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 11:16:25 2017</span></div>
+關於近日的新低白領政策
+
+
+我想其實很多人只是理解到了表層上的影響 雖然光這表層的影響就夠大了
+
+
+但深入台灣社會的問題 這可不只是我們想像的那麼簡單而已
+
+因為大家還都忽略了外籍已經有二代 甚至三代這件事
+
+我想把我真實觀察到的當卦點 主要用意其實是一個很重大的提醒
+
+因為沒經歷過的 應該是不會有這個體會和了解
+
+
+以下;
+
+
+
+
+
+首先有板友分享了 目前外勞約70-80萬人 再加上檯面下的 抓個90萬人好了
+
+(其實我看根本不止) 如果再加上開放白領 那我簡單估100萬
+
+
+我不知道大家有沒有真的去工廠 產線 或是一些比較低階勞動力的地方
+
+其實你如果去那些地方 除了同事是外勞多之外
+
+帶你的前輩已經是外勞 只是目前沒到是菲律賓外勞當主管帶台灣年輕人的程度
+
+可是這些資深外勞已經在地化 也就是以前所謂的大陸越南新娘 或是其下一代
+
+(先不論是真愛還是只是來換身份)
+
+
+其文化 對台灣社會的理解 甚至高過不少台灣年輕人 (台灣年輕人的理解多來自網路)
+
+一天兼兩個差 早班 加個小夜 可能還不用大夜
+
+裡面有一個班甚至是台灣老闆私下長期合作 彈性配合 (不給勞健保 但熟識給你兼差)
+
+另一個才是正是有紀錄的 正規工時的班 都在法規內 (這樣兩班就不衝突)
+
+雖然一天回家扣除睡覺都在工作 但兩組加起來其實月入可能超過50k的
+
+再加上吃苦會存錢 那就不只是能寄錢 還能在台灣累積資本了
+
+
+經過多年的怒力 其實很多即使當初的老公很渣 也都養下一代了
+
+這點是我們台灣人整天還在網路上戰台男台女所不及的
+
+而這些工作環境也並不是真的那種你想像的糟
+
+那些電子化的工廠還有產線 都是要求乾淨
+
+人的工作其實都是去操作機械而已  或是在產線中途幫忙一些機械做不到的手工
+
+(簡單說就是拆拆板子 或是蓋蓋蓋子等等)
+
+
+已經有不少是兩代下去做的
+
+二代通常都比較嬌 但是整個大勝台灣人
+
+只要解決了當初渣老公的問題
+
+兩代其實就開始累積正面資產了 (不論有形無形)
+
+
+而這些一代頂多40-50歲 二代其實會規劃的話 有些可能都已在台灣專科職校上課了
+
+如果身份ok的話 一代又會思考 那麼有些二代可能在這些專科職校有學歷了
+
+(有很多學校因應政策開放給這些外籍教育資源 甚至以此為廣告招生)
+
+這些都是台灣年輕人口中的不想去唸的學校 留意一下各地的一些你沒聽過的學校看板
+
+但不管怎樣 他們都是已經受台灣教育了
+
+雇主根本也不會覺得這些所謂鳥學校 會影響聘雇他們的意願 (只要便宜肯吃苦就好)
+
+
+那這些底子都有了 有教育 有家庭 (也就是在地化)
+
+甚至外表都是 (有些二代你不講 其實你已經分不出 特別是女孩子)
+
+再加上台灣中小企業為主的文化 真的是不用等政策開放
+
+
+而這些在台灣中小企業裡的工作其實就是白領OP罷了
+
+國立大學是我們在這個惡性循環中勝出的理由 老闆心裡肯定知道
+
+那麼這群人 其實不用等正式開放 隨著在地化 我想他們遲早就會慢慢佔領這塊
+
+然後接軌將來的三代或真正開放引進
+
+
+我做個延伸的想像 比如說你看到的可能是一個年輕在地化已經多年的外籍
+
+再帶一個更年輕的外籍 正在辦公室裡做國貿OP
+
+而且可能那個市場 他們比台灣人更熟悉
+
+老闆樂給20-30k 他們也做得很勤奮
+
+因為他們正在打造他們的家
+
+
+而在休息室裡 其實你都會聽到這些一代在討論
+
+然而我必須說以我觀點來聽 他們思考的是怎麼利用ROC的資源
+
+繼續規劃發展 還有處理各自問題 (大陸老家 越南老家)
+
+簡單說就是擺脫老家的糾纏 那些幫倒忙的兄弟姐妹 等等
+
+
+以利用資源發展 還有照顧家族來說 他們是很正面這點我必須肯定
+
+但是回過頭來檢視我們自己還有政府政策的態度
+
+我們是不是也太不關心自己?
+
+
+其實我相信多年前立意良好 能讓企業省下成本 也能讓台灣的年輕人往上推到上一層工作
+
+但事實上這些省下的資源 多年來並沒有造成年輕人往上移動 反而是下降的
+
+可是下層的這些外籍員工的在地化(對他們來說就是往上)
+
+卻是跟我們不成比例的極速上升中
+
+
+以我觀察看到的這些外籍態度 還有現在這個政策走向
+
+即使最後沒有開放白領OP 但這些二代或將來三代 也是會自己在地化的
+
+我想 再這樣下去不改變
+
+交叉遲早的事
+
+
+我很認同這些人的勤奮努力 但是我們和那些歐美國家組成完全不同
+
+這些如果努力機會 如果是墊基在侵蝕另一邊的將來發展
+
+其實也只是造就了利用這些局面真正後面的資本家
+
+移民後就整個開新局了 一滴不留 只留健保
+
+
+我希望大家能多關注一下這個議題
+
+當年很多人想得沒想過的事
+
+不也都一一發生實現了嗎?
+
+
+也許我們需要更多的危機意識
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.227.165.64
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496719043.A.335.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496719043.A.335.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Benbenyale</span><span class="f3 push-content">: 幫高調</span><span class="push-ipdatetime"> 06/06 11:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Benbenyale</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/06 11:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TommyWu1991</span><span class="f3 push-content">: Dpper會噓你</span><span class="push-ipdatetime"> 06/06 11:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">doofenshmirz</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">turgnev</span><span class="f3 push-content">: 外配已是臺灣人，哪來外勞？</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 都還有生小孩一天600補助了  DPP政府真心疼外勞</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 外配沒身分證前 就是外勞</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anti87</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">grant790110</span><span class="f3 push-content">: 這是自找的</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tml7415</span><span class="f3 push-content">: 現在 開放外勞 又變成民進黨罪過了喔?</span><span class="push-ipdatetime"> 06/06 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 開放的確是蠶蝕掉僅剩的一些白領工作</span><span class="push-ipdatetime"> 06/06 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 那不是陳菊的德政嗎</span><span class="push-ipdatetime"> 06/06 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 台灣政府政策 就是 致力消滅本土台灣人</span><span class="push-ipdatetime"> 06/06 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ScarYao</span><span class="f3 push-content">: 充滿歧視跟種族主義的言論</span><span class="push-ipdatetime"> 06/06 11:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peace1113</span><span class="f3 push-content">: 最重要的還是讓這些二代三代，對台灣有認同感…</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">grant790110</span><span class="f3 push-content">: 叫年輕人下去把底層拼回來 又沒人去</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 不讓台灣人升級  拼命引進外國人 最後就會這樣 無解</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">segio</span><span class="f3 push-content">: 說真的.台勞就高不成低不就.這些職位不給移民工要給誰做?</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GaussQQ</span><span class="f3 push-content">: 現在就流行本位保護主義啊老美選舉也選擇這樣的路</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 就讓外勞來啊讓他們去夜店洗基因解決少子化啊</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charloette</span><span class="f3 push-content">: 美國總統不保護美國人他保護誰？台灣政府不照顧台灣人</span><span class="push-ipdatetime"> 06/06 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">charloette</span><span class="f3 push-content">: 跑去照顧外勞外配?</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 保護政策 從來都沒有錯  只要用得當的話</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">grant790110</span><span class="f3 push-content">: 台灣的天龍族都歧視他們的父母 你希望他們有認同感??</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 你歧視外勞喔 何況他們工作又沒干涉到你 蔡英文政府的</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 政策都是對的不要意識型態好嗎</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">charloette</span><span class="f3 push-content">: 歐洲各先進國家都在保護自己人了</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">viable</span><span class="f3 push-content">: 哧</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 最好你繳的稅 各種台灣福利 全都拿去補貼外國人</span><span class="push-ipdatetime"> 06/06 11:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 老闆加外勞掏空台灣 有啥掛</span><span class="push-ipdatetime"> 06/06 11:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 老闆只在乎賺錢 甚至反正以後去當外國人就好</span><span class="push-ipdatetime"> 06/06 11:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 到時候年輕人失業率10%以上指日可待</span><span class="push-ipdatetime"> 06/06 11:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samgreco</span><span class="f3 push-content">: 慣老闆和外勞掏空台灣+1</span><span class="push-ipdatetime"> 06/06 11:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 台灣政府 卻跟著那樣玩   真得很搞</span><span class="push-ipdatetime"> 06/06 11:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 乖乖賺錢就好了 少在那意識型態 dpp絕對正確</span><span class="push-ipdatetime"> 06/06 11:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">greta107</span><span class="f3 push-content">: 不是致力於教育 人才升級</span><span class="push-ipdatetime"> 06/06 11:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samgreco</span><span class="f3 push-content">: 川普：雇美國人，用美國貨，建設美國</span><span class="push-ipdatetime"> 06/06 11:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jungle01</span><span class="f3 push-content">: 外勞賺錢干你屁事 是你自己不工作的</span><span class="push-ipdatetime"> 06/06 11:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samgreco</span><span class="f3 push-content">: 台灣：雇外勞，用外國貨，建設東南亞</span><span class="push-ipdatetime"> 06/06 11:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">processior</span><span class="f3 push-content">: 不想多加評論</span><span class="push-ipdatetime"> 06/06 11:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samgreco</span><span class="f3 push-content">: 有錢人和老闆，靠外勞撈夠本就直接移民了，哪管這些</span><span class="push-ipdatetime"> 06/06 11:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anti87</span><span class="f3 push-content">: 台灣政府真的很糟</span><span class="push-ipdatetime"> 06/06 11:29
+</span></div><span class="f2">※ 編輯: PegasusSeiya (36.227.165.64), 06/06/2017 11:33:20
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 不用管他們了，讓那群老人慢慢玩，能移民的就塊陶吧</span><span class="push-ipdatetime"> 06/06 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nmrsabc</span><span class="f3 push-content">: 幫低調</span><span class="push-ipdatetime"> 06/06 11:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jetalpha</span><span class="f3 push-content">: 簡單來說，就是外來政權的中華民國引進另外一批外國人</span><span class="push-ipdatetime"> 06/06 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jetalpha</span><span class="f3 push-content">: 來洗他們的正當性，讓台灣人越來越難活在自己的土地上。</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anti87</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/06 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 垃圾資進黨背叛勞工。</span><span class="push-ipdatetime"> 06/06 23:50
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496719043.A.335.html?cacheKey=2052-2748557&offset=8738&offset-sig=d25f3bf35b7a1e02adc6ee50c59da1b45d7fdbd7" data-longpollurl="/v1/longpoll?id=9f2821a2b9c8c46bcd7a36440aa62251d3fc8f24" data-offset="8738"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

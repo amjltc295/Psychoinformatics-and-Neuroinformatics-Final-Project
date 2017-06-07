@@ -1,0 +1,202 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495631920.A.F2B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: 國中未達畢業資格人數 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="大家好，我是原PO
+推文提到，原來國中有成績畢業門檻!
+依稀記得應該是103年時公告畢業資格(有錯誤請指正)
+大致上可分為三類
+出席率-出席達2/3以上
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: 國中未達畢業資格人數">
+<meta property="og:description" content="大家好，我是原PO
+推文提到，原來國中有成績畢業門檻!
+依稀記得應該是103年時公告畢業資格(有錯誤請指正)
+大致上可分為三類
+出席率-出席達2/3以上
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495631920.A.F2B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495631920.A.F2B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mic1984mic (...)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: 國中未達畢業資格人數</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 21:18:38 2017</span></div>
+大家好，我是原PO
+
+推文提到，原來國中有成績畢業門檻!
+依稀記得應該是103年時公告畢業資格(有錯誤請指正)
+大致上可分為三類
+出席率-出席達2/3以上
+品德-功過相抵未滿三大過
+成績-語文(國文+英文)、數學、自然、社會、藝文、綜合、健體七大領域須四大及格
+
+聽起來很不錯，wow~我們教育部終於願意承擔教育責任，有學力才有學歷
+
+But!就是這個But!
+好制度就是會被人玩爛
+
+畢業門檻提高，很多人畢不了業捏!
+
+領域成績不及格怎麼辦，那就學期結束補考吧
+經歷過高中、大學對期末補考應該不陌生，反正考過這學期就過
+
+But，又是But
+學生用紙筆測驗可能還是沒辦法阿
+「我孩子很乖只是不會念書...」「我孩子拿修業證書會有自卑感...」
+於是學校就改為寫寫學習單，有努力交作業就及格
+
+好啦~看似完美
+每學期都發出預警通知，導師三催四請追作業，考後成績再確認
+一定有學生還是偷懶不能畢業，可能差個5分10分0.2分
+家長就來學校求情、拜託，求情不成就找地方議員，
+於是乎教育局受不了壓力開始要求可以成績回溯
+畢業前舉辦大補(ㄈㄤˋ)考(ㄕㄨㄟˇ )，務必降低不能畢業人數
+
+重點在於要回溯不回溯都可以討論研議
+哪有先知道結果確定不能畢業再來回溯，也只開放這些學生有資格回溯
+那平時老老實實努力交出作業的瞬間成了傻瓜
+
+標準先射箭在畫靶
+
+<span class="f2">※ 引述《mic1984mic (...)》之銘言：
+</span><span class="f6">: ※ [本文轉錄自 <a href="/bbs/Teacher/M.1495626145.A.CC8.html" target="_blank" rel="nofollow">Teacher 看板 #1P9N6Xp8</a> ]
+</span><span class="f6">: 作者: mic1984mic (...) 看板: Teacher
+</span><span class="f6">: 標題: 國中未達畢業資格人數
+</span><span class="f6">: 時間: Wed May 24 19:42:22 2017
+</span><span class="f6">: 其實這是一篇黑特文
+</span><span class="f6">: 黑特我們的教育太過廉價，黑特行政體系只想美化數據
+</span><span class="f6">: 先讓我大嘆一口氣吧...
+</span><span class="f6">: 唉~~~~~~~~~~~~~~~~~~~~~~~~
+</span><span class="f6">: 小弟是桃園市國中的教學組長，
+</span><span class="f6">: 今天，在桃園的大家是否有相同感受，教育局為了降低未達畢業生人數
+</span><span class="f6">: 找了幾所學校一起開會喝咖啡，
+</span><span class="f6">: 目標就是要學校想辦法讓因領域未達畢業標準人數，「想辦法」再降低
+</span><span class="f6">: 學校未達畢業比率很高？  5%不知道算不算高
+</span><span class="f6">: 學校太嚴苛不給活路？    每學期預警，每學期辦理補考抄寫學習單，補考後再發放成績單確認
+</span><span class="f6">: 六學期...整整六學期呢!!
+</span><span class="f6">: 現在只接到一個要求，就是辦六次不夠，那你有辦第七次嗎？
+</span><span class="f6">: 可以大補(ㄈㄤˋ)考(ㄕㄨㄟˇ)，可以成績回溯，只要學生「願意」再學習！！
+</span><span class="f6">: 其實，這些理念我都同意，
+</span><span class="f6">: 但，可以新生適用，可以有落日條款等等
+</span><span class="f6">: 只是曾幾何時，
+</span><span class="f6">: 是先看到不能畢業再來苦惱，是先射箭再畫靶!
+</span><span class="f6">: 只因為學生家長投訴...因為議員選民陳情...因為要開記者會上電視...因為...
+</span><span class="f6">: 局處雙膝一軟，
+</span><span class="f6">: 卻聰明靈巧的不發公文來函直接表明，最後雙手一推『請各校本於權責.....』
+</span><span class="f6">: 沒人在意成因，只在意最後的結果
+</span><span class="f6">: 最後得到漂亮的未畢業人數，證明縣市辦學績效優秀，卻是假象的堆疊
+</span><span class="f6">: 我們追求的不是真相，是數字
+</span><span class="f6">: 為了數字，不管學歷或學力在皆大歡喜假象下都顯得無關痛癢了
+</span><span class="f6">: 嘆...教育是否已死!!
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.134.138.6
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495631920.A.F2B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495631920.A.F2B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiiam1005</span><span class="f3 push-content">: 我射了</span><span class="push-ipdatetime"> 05/24 21:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 關鍵字 103年</span><span class="push-ipdatetime"> 05/24 21:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jetalpha</span><span class="f3 push-content">: 推補充畢業標準</span><span class="push-ipdatetime"> 05/24 21:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kting926</span><span class="f3 push-content">: 沒擔當的教育部，有人吵就縮起來</span><span class="push-ipdatetime"> 05/24 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mnnraku</span><span class="f3 push-content">: 就不學好的8+9阿</span><span class="push-ipdatetime"> 05/24 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 天龍國承德一中的三寶歪哥黑箱笑長趙啞鱗早已爽爽退休領18</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 趴 牠在位時有國中部特叫冥屍淋浴淪 自稱被逼迫考上高中部</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 教甄 又請假三年當米蟲 還能當教評委挑同事 也有殺人阿嬤</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 公友奠淑鎂害同事喪命 並獲選憂銹員公 更有前扶倒主任狐貍</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 精黃討客兄搞小王害男老師離職 啞鱗笑長遴選搞黑箱 階級複</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 製傳位搞世襲 還不要臉死不認錯 果然遴選教甄詐騙集團 為</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 學校就沒是非 殺人姦淫黑箱後門都OK 笑長趙啞鱗歪哥恆久遠</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">:  臭名永留傳 難怪知名笑友腐大性侵&#34;王&#34;有樣學樣 強爆了還</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tpxtps</span><span class="f3 push-content">: 有苑長護航 絕對要讓啞鱗笑長18趴領到&#34;死好&#34;</span><span class="push-ipdatetime"> 05/24 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mecca</span><span class="f3 push-content">: 原來真的有連國中都可以無法畢業的廢物</span><span class="push-ipdatetime"> 05/24 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SnakeO</span><span class="f3 push-content">: 樓上,不只真的有,如果都沒要求學校放水,比例會高很多...</span><span class="push-ipdatetime"> 05/24 23:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Reichenau</span><span class="f3 push-content">: 平常考開根號乘十都沒用的廢物一堆</span><span class="push-ipdatetime"> 05/25 00:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">douxid</span><span class="f3 push-content">: 不給畢業更高階的學店怎麼活啊，你知道你擋人財路嗎？</span><span class="push-ipdatetime"> 05/25 00:51
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495631920.A.F2B.html?cacheKey=2052-1036846&offset=4399&offset-sig=b52125f8f58aadaf1484fce514389a1dc2c9f492" data-longpollurl="/v1/longpoll?id=e3b3b62994229c4dcb29e7b65209151bf92642dc" data-offset="4399"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,175 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495600875.A.FE9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 味全新品開發擂台尋找「台味接班人」 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://www.appledaily.com.tw/appledaily/article/adcontent/20170524/37659469/
+味全新品開發擂台尋找「台味接班人」
+邀學子踏入跨領域創新的搖籃 成為未來搶手人才
+2017年05月24日
+味全培育產業人才不遺餘力，去年打破業界傳統實習或競賽方式，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 味全新品開發擂台尋找「台味接班人」">
+<meta property="og:description" content="http://www.appledaily.com.tw/appledaily/article/adcontent/20170524/37659469/
+味全新品開發擂台尋找「台味接班人」
+邀學子踏入跨領域創新的搖籃 成為未來搶手人才
+2017年05月24日
+味全培育產業人才不遺餘力，去年打破業界傳統實習或競賽方式，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495600875.A.FE9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495600875.A.FE9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">yazeroplus (zero)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 味全新品開發擂台尋找「台味接班人」</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 12:41:12 2017</span></div>
+<a href="http://www.appledaily.com.tw/appledaily/article/adcontent/20170524/37659469/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/appledaily/article/adcontent/20170524/37659469/</a>
+
+
+味全新品開發擂台尋找「台味接班人」
+邀學子踏入跨領域創新的搖籃 成為未來搶手人才
+2017年05月24日
+
+
+味全培育產業人才不遺餘力，去年打破業界傳統實習或競賽方式，
+舉辦結合創意、品牌、研發、設計的「新品開發擂台」，
+因為能讓學生深入了解食品產業的每個環節，而受到參賽學生的好評。
+今年推出2.0升級版競賽，主打「誰是台味接班人」，
+邀請年輕學子一同尋找家鄉「台味」。
+競賽總獎金高達48萬元、總冠軍隊伍直接進企業實習，
+藉此鼓勵學生踴躍參與，完整體驗產品企劃、研發、設計的流程，
+從無到有打造一個超有在地特色的新品！
+
+
+「台灣優質農產在國際上負有盛名，味全作為食品業領導大廠，
+要讓在地好食材被更多人看見。味全希望透過創意競賽，鼓勵年輕人回到家鄉、
+尋找土地帶來的感動，讓『吃在地』成為一股新風潮。」
+味全執行長蘇守斌表示，「學生在開發新產品過程中所需要的資源，
+味全將全力支持，培育優秀學子們成為食品業未來的生力軍！」
+
+類實戰體驗 打造全新品牌
+新品開發擂台競賽為業界首創，將新產品開發流程打造為類實戰體驗，
+通過競賽嚴謹的5大關卡──海選報名、企劃提案、口味研發、
+包裝設計及決選發表，學生在長達3個多月的競賽過程中，
+須以業界標準研發及製作產品，並接受消費者市調檢驗；
+味全並派出陣容堅強的導師群全程指導，協助學生將創意化為實體成品。
+
+本屆新品開發擂台主題鎖定「在地食材」，鼓勵年輕學子回到家鄉、
+挖掘本土食材背後的人文故事，無論是鮮甜美味的蔬果、營養豐富的穀物、
+還是鮮豔可口的花草，學生將激發創意把美好「台味」介紹給消費大眾，
+並以高規格檢驗及產地溯源打造新型態產品。
+
+年輕創意無限 業界掀起新風潮
+新品開發擂台競賽去年首辦就獲得年輕族群熱烈回響──
+來自中華科技大學的隊伍將鮮乳優格混搭果乾，獨特口感獲市調好評；
+台灣大學、中央大學、實踐大學的跨校團隊選用多種穀物加入鮮乳，
+推出具飽足感的創意飲品，符合當今消費者追求簡單、健康的飲食習慣，
+也在競賽中獲得佳績。來自各校的優秀隊伍經過競賽重重考驗，
+不但培養出合作無間的默契，更運用各自的長才打造新品，
+以年輕創意為業界掀起一股新風潮。
+
+
+
+備註:良心可以拿來比賽
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.248.106.154
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495600875.A.FE9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495600875.A.FE9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">makimakimaki</span><span class="f3 push-content">: 蘋果也淪陷了</span><span class="push-ipdatetime"> 05/24 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 化工生力軍</span><span class="push-ipdatetime"> 05/24 12:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">keric7</span><span class="f3 push-content">: 回收餿水油銅葉綠素都很有創意啊</span><span class="push-ipdatetime"> 05/24 12:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 化工生力軍XDDDDDDD</span><span class="push-ipdatetime"> 05/24 12:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">awdxabc295</span><span class="f3 push-content">: <a href="http://i.imgur.com/17stNFl.jpg" target="_blank" rel="nofollow">http://i.imgur.com/17stNFl.jpg</a></span><span class="push-ipdatetime"> 05/24 12:58
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="17stNFl"><a href="//imgur.com/17stNFl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cystal</span><span class="f3 push-content">: 如何提煉地溝油</span><span class="push-ipdatetime"> 05/24 13:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tosada</span><span class="f3 push-content">: 自從蝦味先之後 說不定變成新鮮人的志願了呢？</span><span class="push-ipdatetime"> 05/24 13:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x0003</span><span class="f3 push-content">: 這麼優質的產品不把logo印上去，我要怎麼買呢&gt;_^</span><span class="push-ipdatetime"> 05/24 13:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knnney</span><span class="f3 push-content">: 味全產品早從2006前就把味全兩字跟logo變小或後移，2014才</span><span class="push-ipdatetime"> 05/24 15:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knnney</span><span class="f3 push-content">: 開始滅頂，一群人在自嗨滅頂有成哩</span><span class="push-ipdatetime"> 05/24 15:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495600875.A.FE9.html?cacheKey=2052-707964&offset=3128&offset-sig=e77661d66e59f5b0f36c0eca62f60ec72f69323c" data-longpollurl="/v1/longpoll?id=15704dcda89df59c6820283cd5b60b43f7578025" data-offset="3128"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,311 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495699733.A.BEE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 工程師被軟禁　用「程式語言」求救　同 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+東森
+2.完整新聞標題:
+工程師被軟禁　用「程式語言」求救　同事分析後救了他！
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 工程師被軟禁　用「程式語言」求救　同">
+<meta property="og:description" content="1.媒體來源:
+東森
+2.完整新聞標題:
+工程師被軟禁　用「程式語言」求救　同事分析後救了他！
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495699733.A.BEE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495699733.A.BEE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PUTOUCHANG (自己的廢文自己發)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 工程師被軟禁　用「程式語言」求救　同</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 16:08:50 2017</span></div>
+1.媒體來源:
+
+東森
+
+2.完整新聞標題:
+
+工程師被軟禁　用「程式語言」求救　同事分析後救了他！
+
+3.完整新聞內文:
+
+南京一間大型軟體公司的工程師小張5月初遭到傳銷公司軟禁，身上的東西都被搶走，並
+關在一間平房內。但小張非常機智，他知道能拯救他的只有過往學習到的知識，於是假借
+交接工作，爭取到和同事聯絡的機會，用「程式代碼」來傳遞求救訊息，成功獲救！
+
+根據《南京日報》報導，小張在5月初搭火車前往天津找朋友玩，在抵達天津以後，在火
+車站發現一名表情痛苦的女乘客，好心的上前詢問，得知對方的錢包被偷，善良的先出借
+了200元。隔天，小張打算回家的時候，突然接到女乘客的電話，表示要還錢和請客，小
+張爽快答應，沒想到自己已經進入傳銷組織的包圍網。
+
+一到目的地，小張馬上被10多個人包圍，手機和身上的所有物品也被搶走，關在一個小房
+間內。傳銷組織的人向小張打聽家庭狀況，藉此對小張的父母、親戚來詐財，並要求小張
+定時打電話和公司聯絡，以免引起懷疑，
+
+機智的小張知道想要脫困只能依靠智取，他藉著和公司「報平安」的機會打電話給同事老
+喻，將求救的訊息藏在只有工程師知道的代碼裡面。
+
+老喻表示，當時小張提到，公司的有一個測試軟體可能影響生產系統，代碼路徑是「
+srcordercenterservice」的一個testjs，其中還提及「控制類」的字樣，「表面上是在
+說工作的事情，但我一聽就知道不對勁，因為那個代碼早就已經上線，路徑順序也不是小
+張說的那樣，且測試根本不會影響到生產系統。」
+
+發現異狀的老喻也沒揭穿，配合的演戲，並立刻向公司的管理團隊通知此事，出動所有工
+程師一起推敲，終於發現小張故意把代碼順序說錯其實是要傳遞「SOS」的訊息，而「控
+制類」指的就是他被人控制了！
+
+接著老喻馬上回撥電話，並傳了一段代碼給小張，其中還有6這個數字，並著重提到「轉
+換」這個字眼，小張推敲以後想到，編程用的是二進制，數字6轉換成二級制就是「110」
+，代表公司已經知道他想傳遞的求救訊息！
+
+在解出求救訊息以後，公司迅速集結一支10多人的救援小隊，有的人負責到天津報警，有
+的人負責和小張的家人取得聯繫，也有人負責找出求救信號的發出地點，鎖定小張被困的
+方圓5公里，在警方的協助下，在監視畫面找出小張的所在地，成功將他救出！
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.ettoday.net/news/20170525/931748.htm?from=fb_et_news" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170525/931748.htm?from=fb_et_news</a>
+
+5.備註:
+
+公蝦餃
+
+--
+Sent from JPTT on my Nokia 33l0.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.34.3.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495699733.A.BEE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495699733.A.BEE.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 潮</span><span class="push-ipdatetime"> 05/25 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Israfil</span><span class="f3 push-content">: Hello, World!</span><span class="push-ipdatetime"> 05/25 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 樓下碼農</span><span class="push-ipdatetime"> 05/25 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Aliass</span><span class="f3 push-content">: 宅</span><span class="push-ipdatetime"> 05/25 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: 假新聞吧</span><span class="push-ipdatetime"> 05/25 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uhmeiouramu</span><span class="f3 push-content">: if (call_110==0){die}</span><span class="push-ipdatetime"> 05/25 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edward40812</span><span class="f3 push-content">: ......</span><span class="push-ipdatetime"> 05/25 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">if2</span><span class="f3 push-content">: 這哪部</span><span class="push-ipdatetime"> 05/25 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #笑死</span><span class="push-ipdatetime"> 05/25 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 劇情編這麼爛 怎麼拍電影阿</span><span class="push-ipdatetime"> 05/25 16:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xl35l4</span><span class="f3 push-content">: 歹徒挺人道的啊，還可以接回撥的電話</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 寫小說逆</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 中國也有低能卡?</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AllenHuang</span><span class="f3 push-content">: 支那的Dcard文</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnuonly</span><span class="f3 push-content">: 唬爛 只能給0.87分</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uuuuOPuff</span><span class="f3 push-content">: 拍電影了</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahahank</span><span class="f3 push-content">: 6</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z67186718</span><span class="f3 push-content">: ㄧ支十幾個肥宅的小隊</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 笑死了XDDDDDD</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 這哪部</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yude0109</span><span class="f3 push-content">: 南京回收業者</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogogcat</span><span class="f3 push-content">: 幹拍電影 ?</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Zenonia</span><span class="f3 push-content">: 公蝦餃</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ccyaztfe</span><span class="f3 push-content">: 拍電影？？？</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 技者還是回來抄低能卡文好了</span><span class="push-ipdatetime"> 05/25 16:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 宅死了</span><span class="push-ipdatetime"> 05/25 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shirou123</span><span class="f3 push-content">: 只會hello world怎麼辦</span><span class="push-ipdatetime"> 05/25 16:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2470abc</span><span class="f3 push-content">: //TMD我被困住了</span><span class="push-ipdatetime"> 05/25 16:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alen0303</span><span class="f3 push-content">: 爛尾 糞作</span><span class="push-ipdatetime"> 05/25 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mosquito147</span><span class="f3 push-content">: 但是是不是也表示中國產銷很可怕啊@@?</span><span class="push-ipdatetime"> 05/25 16:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">E6300</span><span class="f3 push-content">: 只會用二進位卡難怪會被綁架</span><span class="push-ipdatetime"> 05/25 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bbq123</span><span class="f3 push-content">: 這哪ㄅ...咦?</span><span class="push-ipdatetime"> 05/25 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dorydoze</span><span class="f3 push-content">: 哪部啦</span><span class="push-ipdatetime"> 05/25 16:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HDAPPLETV</span><span class="f3 push-content">: 電影快上映囉</span><span class="push-ipdatetime"> 05/25 16:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 哪部?</span><span class="push-ipdatetime"> 05/25 16:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Auslayer</span><span class="f3 push-content">: 這是密語 還沒搭到程式語言的邊</span><span class="push-ipdatetime"> 05/25 16:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EfiwymsiAros</span><span class="f3 push-content">: 唬爛</span><span class="push-ipdatetime"> 05/25 16:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ttQoQ</span><span class="f3 push-content">: 拍電影是吧</span><span class="push-ipdatetime"> 05/25 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rexkinkikids</span><span class="f3 push-content">: 6 = 110  ，乾 這是數位邏輯，跟程式語言有鬼關係</span><span class="push-ipdatetime"> 05/25 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HiHiCano</span><span class="f3 push-content">: 好弱的幻想文...程式語言加油好嗎？</span><span class="push-ipdatetime"> 05/25 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: /src/order/centerservice MVC架構欸</span><span class="push-ipdatetime"> 05/25 16:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Saviolatoh</span><span class="f3 push-content">: 假到爆的幻想文</span><span class="push-ipdatetime"> 05/25 16:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wangquanchi</span><span class="f3 push-content">: 可以拍電影惹</span><span class="push-ipdatetime"> 05/25 16:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saca572381</span><span class="f3 push-content">: 看來是偏向偵探解謎</span><span class="push-ipdatetime"> 05/25 16:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OGC218</span><span class="f3 push-content">: 傳銷公司</span><span class="push-ipdatetime"> 05/25 16:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 太虎爛</span><span class="push-ipdatetime"> 05/25 16:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deepinsoul</span><span class="f3 push-content">: 有興趣可以看李么傻的書，其實不誇張</span><span class="push-ipdatetime"> 05/25 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sdd5426</span><span class="f3 push-content">: 工三小</span><span class="push-ipdatetime"> 05/25 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OverInfinity</span><span class="f3 push-content">: 溫馨</span><span class="push-ipdatetime"> 05/25 16:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tsubasa1008</span><span class="f3 push-content">: printf(&#34;SOS\n&#34;);</span><span class="push-ipdatetime"> 05/25 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ken1325</span><span class="f3 push-content">: 劇情編得很爛  加油好嗎</span><span class="push-ipdatetime"> 05/25 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">madden</span><span class="f3 push-content">: 番號?</span><span class="push-ipdatetime"> 05/25 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">v7q4</span><span class="f3 push-content">: 拍電影了</span><span class="push-ipdatetime"> 05/25 16:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 哪部？</span><span class="push-ipdatetime"> 05/25 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiyo729</span><span class="f3 push-content">: 誰會想綁架肥宅工程師啦</span><span class="push-ipdatetime"> 05/25 16:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fgh81113</span><span class="f3 push-content">: 工三小</span><span class="push-ipdatetime"> 05/25 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 半信半疑</span><span class="push-ipdatetime"> 05/25 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sober716</span><span class="f3 push-content">: 理組XDDDDDDDDDD</span><span class="push-ipdatetime"> 05/25 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 太唬爛了吧</span><span class="push-ipdatetime"> 05/25 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yanli2</span><span class="f3 push-content">: 白癡才信 機會打電話給同事老喻 沒機會打110?!</span><span class="push-ipdatetime"> 05/25 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jauyuu</span><span class="f3 push-content">: 這要碰到看電影到走火入魔的同事才能那麼順利吧</span><span class="push-ipdatetime"> 05/25 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simpleplanya</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/25 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mecca</span><span class="f3 push-content">: 樓下melon</span><span class="push-ipdatetime"> 05/25 16:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">madsperm</span><span class="f3 push-content">: 唬爛</span><span class="push-ipdatetime"> 05/25 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuluga</span><span class="f3 push-content">: 但中國的確有類似這種的 之前一位中國朋友有說他鄰居的女</span><span class="push-ipdatetime"> 05/25 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">summer7983</span><span class="f3 push-content">: 右肩理組版</span><span class="push-ipdatetime"> 05/25 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuluga</span><span class="f3 push-content">: 兒也是被這種強拉被軟禁 還被強暴...好不容易才救出來</span><span class="push-ipdatetime"> 05/25 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kc5225790</span><span class="f3 push-content">: 這叫綁架吧？關直銷屁事？</span><span class="push-ipdatetime"> 05/25 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxian30201</span><span class="f3 push-content">: 這個記者很會 寫的很有畫面感</span><span class="push-ipdatetime"> 05/25 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuluga</span><span class="f3 push-content">: 但是的確有用直銷或賣東西 吸引人加入</span><span class="push-ipdatetime"> 05/25 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuluga</span><span class="f3 push-content">: 這種在中國一直有阿...</span><span class="push-ipdatetime"> 05/25 16:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo921080931</span><span class="f3 push-content">: 屌</span><span class="push-ipdatetime"> 05/25 16:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeng50</span><span class="f3 push-content">: 我信 今年朋友才去南京被騙</span><span class="push-ipdatetime"> 05/25 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roger60801</span><span class="f3 push-content">: 拍電影啊</span><span class="push-ipdatetime"> 05/25 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dameontree</span><span class="f3 push-content">: 拍電影我會進場</span><span class="push-ipdatetime"> 05/25 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x1217xx</span><span class="f3 push-content">: 太唬爛了吧</span><span class="push-ipdatetime"> 05/25 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeng50</span><span class="f3 push-content">: 真的是直銷模式 帶到小房間 跟行李分開 然後兩男一女洗腦</span><span class="push-ipdatetime"> 05/25 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">airlow</span><span class="f3 push-content">: 如果我是那同事，一定馬上回你是酒喝多了還沒醒嗎</span><span class="push-ipdatetime"> 05/25 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HANJIUN</span><span class="f3 push-content">: 肥宅取暖膩</span><span class="push-ipdatetime"> 05/25 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casperrrr</span><span class="f3 push-content">: 感覺好精采~快拍電影</span><span class="push-ipdatetime"> 05/25 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccjj8</span><span class="f3 push-content">: 哪部</span><span class="push-ipdatetime"> 05/25 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imanda0324</span><span class="f3 push-content">: 笑翻</span><span class="push-ipdatetime"> 05/25 16:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dichotomyptt</span><span class="f3 push-content">: 之前八卦不是才有人po類似的 鄉民真健忘</span><span class="push-ipdatetime"> 05/25 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 好帥，搞的我開始想學程式</span><span class="push-ipdatetime"> 05/25 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dichotomyptt</span><span class="f3 push-content">: 請他去中國玩 結果被軟禁</span><span class="push-ipdatetime"> 05/25 16:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">princetamaki</span><span class="f3 push-content">: 肥宅的逆襲</span><span class="push-ipdatetime"> 05/25 16:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fragmentwing</span><span class="f3 push-content">: 快拍電影，可能又有讓子彈飛等級的神作了</span><span class="push-ipdatetime"> 05/25 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cxiii</span><span class="f3 push-content">: ......</span><span class="push-ipdatetime"> 05/25 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cksxxb</span><span class="f3 push-content">: 還要自組十幾人救援？</span><span class="push-ipdatetime"> 05/25 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eterbless</span><span class="f3 push-content">: 這哪部電影</span><span class="push-ipdatetime"> 05/25 16:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a0913</span><span class="f3 push-content">: 假新聞</span><span class="push-ipdatetime"> 05/25 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iorittn</span><span class="f3 push-content">: 可以拍電影</span><span class="push-ipdatetime"> 05/25 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie0804</span><span class="f3 push-content">: 狂</span><span class="push-ipdatetime"> 05/25 17:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 鄉民會在程式裡用藏頭文求救</span><span class="push-ipdatetime"> 05/25 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sean90330</span><span class="f3 push-content">: 鄉民只會hello world</span><span class="push-ipdatetime"> 05/25 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">himekami</span><span class="f3 push-content">: printf(SOS\n);</span><span class="push-ipdatetime"> 05/25 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">richjf</span><span class="f3 push-content">: 之前不是有個文，被很久不見的騙去貴州還是廣西的？</span><span class="push-ipdatetime"> 05/25 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amoe1210</span><span class="f3 push-content">: 根本就是拍電影吧</span><span class="push-ipdatetime"> 05/25 17:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 哪部?</span><span class="push-ipdatetime"> 05/25 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stu030301</span><span class="f3 push-content">: 哪部自己說好嗎</span><span class="push-ipdatetime"> 05/25 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rayio</span><span class="f3 push-content">: 製造業嗎XDD</span><span class="push-ipdatetime"> 05/25 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hcder4126</span><span class="f3 push-content">: 柯南是你?</span><span class="push-ipdatetime"> 05/25 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 洞窟物語喔?</span><span class="push-ipdatetime"> 05/25 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">danmarch</span><span class="f3 push-content">: zzz Dcard寫得都比這個好</span><span class="push-ipdatetime"> 05/25 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 有    之前八卦板有類似的  被傳銷騙去然後軟禁</span><span class="push-ipdatetime"> 05/25 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: @@</span><span class="push-ipdatetime"> 05/25 17:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 落後國家真的有</span><span class="push-ipdatetime"> 05/25 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">WilliamWill</span><span class="f3 push-content">: 你再屁</span><span class="push-ipdatetime"> 05/25 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ryankkk</span><span class="f3 push-content">: 低能新聞</span><span class="push-ipdatetime"> 05/25 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickyhoney</span><span class="f3 push-content">: 電影宣傳嗎</span><span class="push-ipdatetime"> 05/25 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yudofu</span><span class="f3 push-content">: 工程師劇情可能是假的，但是傳銷控制是真的</span><span class="push-ipdatetime"> 05/25 17:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AizawaYuuiti</span><span class="f3 push-content">: 關程式碼闢室....6 = 110 這叫程式碼？</span><span class="push-ipdatetime"> 05/25 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HappyKH</span><span class="f3 push-content">: 喔喔標準中國爽新聞 問題是犯罪者被放任多久了呢？</span><span class="push-ipdatetime"> 05/25 18:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JiaTai</span><span class="f3 push-content">: 又是中國幻想文</span><span class="push-ipdatetime"> 05/25 18:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vi000246</span><span class="f3 push-content">: 抓到老鬼了</span><span class="push-ipdatetime"> 05/25 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dudee</span><span class="f3 push-content">: 中國人自掃門前雪又覺得清官難斷家務事，謊稱是路上正妹的</span><span class="push-ipdatetime"> 05/25 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dudee</span><span class="f3 push-content">: 父母或男友，看到打她抓走她頂多嘆口氣</span><span class="push-ipdatetime"> 05/25 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dudee</span><span class="f3 push-content">: 有個新聞有影片，在公司上班被男同事一路扯下樓，在樓梯口</span><span class="push-ipdatetime"> 05/25 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dudee</span><span class="f3 push-content">: 就要強暴也沒人幫忙，冷眼看好戲，超誇張</span><span class="push-ipdatetime"> 05/25 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wz70403</span><span class="f3 push-content">: 哪部</span><span class="push-ipdatetime"> 05/25 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1030400</span><span class="f3 push-content">: 國文課 指示講台上同學畫圖案，直接上x-y axis 做圖哈</span><span class="push-ipdatetime"> 05/25 18:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soyjay</span><span class="f3 push-content">: 110 21 =2  22 =4 2+4=6</span><span class="push-ipdatetime"> 05/25 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wusam4667103</span><span class="f3 push-content">: 幹 太屌了</span><span class="push-ipdatetime"> 05/25 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aiguo</span><span class="f3 push-content">: 太強，同事居然聽得懂</span><span class="push-ipdatetime"> 05/25 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">f58rtht</span><span class="f3 push-content">: 這有人信？</span><span class="push-ipdatetime"> 05/25 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stv4268</span><span class="f3 push-content">: 拍電影逆XDDDD</span><span class="push-ipdatetime"> 05/25 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 幹你媽的天津治安真差 市長還不下台嗎</span><span class="push-ipdatetime"> 05/25 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lianginptt</span><span class="f3 push-content">: 在中國不能當好人啊，誰知道那是不是在坑你</span><span class="push-ipdatetime"> 05/25 18:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiki41052</span><span class="f3 push-content">: 超強 這電影吧?</span><span class="push-ipdatetime"> 05/25 18:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ly1752</span><span class="f3 push-content">: 會不會之後又看到一堆分享這無聊的小說</span><span class="push-ipdatetime"> 05/25 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jialin6666</span><span class="f3 push-content">: 說個SOS還要編碼</span><span class="push-ipdatetime"> 05/25 19:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">i12348</span><span class="f3 push-content">: 蜜桃？</span><span class="push-ipdatetime"> 05/25 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king22649</span><span class="f3 push-content">: 這哪部?</span><span class="push-ipdatetime"> 05/25 20:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">martin5566</span><span class="f3 push-content">: SOD要怎麼編？</span><span class="push-ipdatetime"> 05/25 20:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nsmmsn</span><span class="f3 push-content">: 真勵志,想學程式+1</span><span class="push-ipdatetime"> 05/25 21:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kai950415</span><span class="f3 push-content">: 備註害我笑出來</span><span class="push-ipdatetime"> 05/25 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctes940008</span><span class="f3 push-content">: 真的嗎？</span><span class="push-ipdatetime"> 05/25 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiy75</span><span class="f3 push-content">: 柯南會有的劇情</span><span class="push-ipdatetime"> 05/26 00:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gestapo</span><span class="f3 push-content">: 哪部？</span><span class="push-ipdatetime"> 05/26 02:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m850537</span><span class="f3 push-content">: 結局一定要用傳統武術衝進去救人</span><span class="push-ipdatetime"> 05/26 06:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckLuDan</span><span class="f3 push-content">: 哈哈</span><span class="push-ipdatetime"> 05/26 10:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495699733.A.BEE.html?cacheKey=2052-1314846&offset=16627&offset-sig=80f79a026564a09c9a23d9c72dc93ec57664c115" data-longpollurl="/v1/longpoll?id=4d4132916fc50e5a163632422f8af7bae07ba619" data-offset="16627"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,172 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495280249.A.F6B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台中繼黑心豬 又爆黑心鮑魚逾1.2萬公斤 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合報
+2.完整新聞標題:
+台中繼黑心豬 又爆黑心鮑魚逾1.2萬公斤
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台中繼黑心豬 又爆黑心鮑魚逾1.2萬公斤">
+<meta property="og:description" content="1.媒體來源:
+聯合報
+2.完整新聞標題:
+台中繼黑心豬 又爆黑心鮑魚逾1.2萬公斤
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495280249.A.F6B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495280249.A.F6B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">skizard ( )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台中繼黑心豬 又爆黑心鮑魚逾1.2萬公斤</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 19:37:26 2017</span></div>
+1.媒體來源:
+聯合報
+
+
+2.完整新聞標題:
+台中繼黑心豬 又爆黑心鮑魚逾1.2萬公斤
+
+
+3.完整新聞內文:
+台中市南屯區宏碩海產公司遭檢舉，販售改標的過期海鮮，經衛生、檢警單位查緝，查獲
+業者涉嫌將過期的「冷凍鮑魚」改標延長效期一年，共計查獲905箱、73包、1萬2290.5公
+斤；現場還發現逾期的「冷凍割背白蝦仁」60箱、共648公斤，台中市衛生局就地封存，
+責令業者不得販售，並依食安法裁處，檢警也針對改標部份將全案移送法辦，並追查問題
+食品下游流向。
+
+檢警查出，宏碩海產公司以批發活、冷凍海產為主，主要通路為飯店餐廳及零售業者，產
+品有活魚、龍蝦、螃蟹、九孔及其他各式冷凍海產。至於有多少黑心海鮮被吃下肚？檢警
+還在追查中。
+
+台中市衛生局接獲民眾檢舉，昨天由檢察官指揮搜查，發現部份鮑魚產品外箱標示有遭割
+除痕跡，且重新張貼標示「品名：冷凍鮑魚」，生產日期2016年05月06日，有效日期2018
+年05月05日的標籤，現場也發現尚未使用的標籤貼紙，並查產品相關報驗資料顯示，產品
+原始有效日期分別為2017年5月5日及2017年4月29日。
+
+現場稽查人員發現，業者將有效期在今年4月29日、5月5日到期的「冷凍鮑魚」，改標延
+長效期一年；曹姓業者承認有疏失，將「冷凍鮑魚」重新貼標為有效日期2018年5月5日。
+
+衛生局稽查人員也在宏碩海產公司租借的冷凍倉儲現場發現過期的「冷凍割背白蝦仁」（
+有效日期為今年4月5日）。另外，現場還有無標示的蝦仁類產品共136箱12包，目前已責
+付業者保管，後續將由檢調單位釐清是否有違反食安法規定情事。
+
+衛生局表示，依食安法規定食品業者違反食安法第15條第1項第8款貯存、販售逾有效日期
+食品，依同法第44條處6萬元以上2億元以下罰鍰；若涉及標籤竄改或改標等情事，則移請
+檢調後續刑事偵辦。
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/7320/2473345" target="_blank" rel="nofollow">https://udn.com/news/story/7320/2473345</a>
+
+
+5.備註:
+連鮑魚都黑心 ~&#34;~
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 124.155.187.150
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495280249.A.F6B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495280249.A.F6B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">louis10452</span><span class="f3 push-content">: 五樓專幹黑心臭鮑魚</span><span class="push-ipdatetime"> 05/20 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uhmeiouramu</span><span class="f3 push-content">: 臭海鮮</span><span class="push-ipdatetime"> 05/20 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 民進黨執政縣市</span><span class="push-ipdatetime"> 05/20 19:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dWoWb</span><span class="f3 push-content">: 臭鮑鮑</span><span class="push-ipdatetime"> 05/20 19:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YKM519</span><span class="f3 push-content">: 黑龍市不意外。等等應該會爆出老闆是9.2</span><span class="push-ipdatetime"> 05/20 19:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tryagain24</span><span class="f3 push-content">: 南部真可怕(?</span><span class="push-ipdatetime"> 05/20 19:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">testutw</span><span class="f3 push-content">: 黑龍市出黑心食品意外嗎</span><span class="push-ipdatetime"> 05/20 19:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LoliComplex</span><span class="f3 push-content">: 這鮑有毒</span><span class="push-ipdatetime"> 05/20 19:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GGrunrunder</span><span class="f3 push-content">: 肯定是竹科運來的</span><span class="push-ipdatetime"> 05/20 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 「黑」龍市</span><span class="push-ipdatetime"> 05/20 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rotterdam</span><span class="f3 push-content">: 台灣食安永遠都不會改變.....幹</span><span class="push-ipdatetime"> 05/20 20:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IMNPUS</span><span class="f3 push-content">: 換黨執政了，還是一樣</span><span class="push-ipdatetime"> 05/20 20:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BIGKUKY</span><span class="f3 push-content">: 要不要先查查看是不是金主</span><span class="push-ipdatetime"> 05/21 14:27
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495280249.A.F6B.html?cacheKey=2052-37409762&offset=3103&offset-sig=c01a505dae5487f0b70bc615b0905f7312f2db5b" data-longpollurl="/v1/longpoll?id=50f96191ca4c2c87e5e98af05a6d866b7ffcd2cb" data-offset="3103"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

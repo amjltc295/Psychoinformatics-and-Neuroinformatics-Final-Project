@@ -1,0 +1,218 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495586084.A.4A1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 基隆市立醫院年虧4300萬 院長：想退休 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中時電子報
+2.完整新聞標題:
+基隆市立醫院年虧4300萬 院長：想退休
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 基隆市立醫院年虧4300萬 院長：想退休">
+<meta property="og:description" content="1.媒體來源:
+中時電子報
+2.完整新聞標題:
+基隆市立醫院年虧4300萬 院長：想退休
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495586084.A.4A1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495586084.A.4A1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mitim (mitim)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 基隆市立醫院年虧4300萬 院長：想退休</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 08:34:41 2017</span></div>
+1.媒體來源:
+中時電子報
+
+2.完整新聞標題:
+基隆市立醫院年虧4300萬 院長：想退休
+
+3.完整新聞內文:
+基隆市立醫院連年虧損，市府近2年編列6300萬補助，卻年虧4300萬，績效不彰，是基隆
+「錢坑」之一。議員游祥耀在議會總質詢時，提出市立醫院若不能轉虧為盈，要求市政府
+將其裁撤，還問院長楊冠洋上任1年給自己打多少分，未料楊冠洋竟回「想退休」，令議
+員傻眼。
+
+針對市立醫院盈虧問題，議員游祥耀說：「院長已上任1年，到底有沒有信心，還是有退
+休打算？」，沒想到楊冠洋卻回：「沒有，但有退休打算。」游聽後愣住，認為院長態度
+消極，要求市府考慮市立醫院的存廢。
+
+楊冠洋表示，市立醫院費用較低，自從一例一休上路後，讓市立醫院在經營方面有所限制
+，導致醫院門診病患數，及護理之家收容數減少，不但沒有好的醫療儀器支援，病床及人
+事費用開銷也很龐大。
+
+他還說，另外新聘的醫師是為了去做長照的服務，下個月衛生福利部將撥款500萬經費來
+補助院方對失智老人的照顧。
+
+游祥耀則打臉院長，並指出以往的院長績效比較好，且現在已經收掉醫美的業務，以前也
+一樣沒有新設備，現任院長上任後不但仍虧了錢，竟還增加16名員額，績效根本不見起色
+，應該好好檢視自己。
+
+游祥耀問：「所以院長說了那麼多，到底有哪個門診是賺錢的」，楊冠洋回覆：「只有健
+康檢查有賺，其他沒有。」游祥耀建議市府盡速將市立醫院裁撤。
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.chinatimes.com/newspapers/20170524000532-260107" target="_blank" rel="nofollow">http://www.chinatimes.com/newspapers/20170524000532-260107</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.139.38.20
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495586084.A.4A1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495586084.A.4A1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 飽了  想退休有什麼不對</span><span class="push-ipdatetime"> 05/24 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wen12305</span><span class="f3 push-content">: 了不起，負責</span><span class="push-ipdatetime"> 05/24 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gay7788</span><span class="f3 push-content">: 院長太誠實，難怪被電</span><span class="push-ipdatetime"> 05/24 08:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Atwo</span><span class="f3 push-content">: 所以是一例一休後才虧的嗎</span><span class="push-ipdatetime"> 05/24 08:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">juliantaipei</span><span class="f3 push-content">: 又是一例一休，可以扯點別的嗎？</span><span class="push-ipdatetime"> 05/24 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiraayu</span><span class="f3 push-content">: kmt貪污第一名</span><span class="push-ipdatetime"> 05/24 08:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JCS15</span><span class="f3 push-content">: 從小到大沒進過市立醫院 跟朋友提到還會誤會是省(署)立醫院</span><span class="push-ipdatetime"> 05/24 08:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ggmit615</span><span class="f3 push-content">: 所以市立醫院是以賺錢為目的開的?</span><span class="push-ipdatetime"> 05/24 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamgaylan</span><span class="f3 push-content">: 市立醫院那麽小 大家還不都去省立醫院</span><span class="push-ipdatetime"> 05/24 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 垃圾健保不廢除就是一直壓榨醫生護士</span><span class="push-ipdatetime"> 05/24 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 開醫院來賺錢?議員邏輯很怪，不過要廢掉也沒差，是基</span><span class="push-ipdatetime"> 05/24 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 隆人不方便而已</span><span class="push-ipdatetime"> 05/24 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aq981334</span><span class="f3 push-content">: 市立醫院賠錢是有差逆，反正健保都花一堆了</span><span class="push-ipdatetime"> 05/24 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 基隆鄉有長庚，誰去市立醫院？虧錢剛好而已</span><span class="push-ipdatetime"> 05/24 08:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pita30</span><span class="f3 push-content">: 這院長不錯 不講場面話</span><span class="push-ipdatetime"> 05/24 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 離台北近, 又有長庚...去市立醫院看幹嘛....</span><span class="push-ipdatetime"> 05/24 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 呀就一粒一休的問題，不能扯?</span><span class="push-ipdatetime"> 05/24 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tchialen</span><span class="f3 push-content">: 退休臭了嗎</span><span class="push-ipdatetime"> 05/24 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JCS15</span><span class="f3 push-content">: 最慘的是還有人以為廟口附近的門診中心就是本體</span><span class="push-ipdatetime"> 05/24 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ErnieBanks</span><span class="f3 push-content">: 推院長誠實</span><span class="push-ipdatetime"> 05/24 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mitchku</span><span class="f3 push-content">: 我覺得醫院不只是要賺錢，政府應補助一下，少了一間醫院</span><span class="push-ipdatetime"> 05/24 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">osiris34</span><span class="f3 push-content">: 推這院長，不爽做就不要做，幹嘛受這些議員的氣</span><span class="push-ipdatetime"> 05/24 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mitchku</span><span class="f3 push-content">: 對地方影響很大</span><span class="push-ipdatetime"> 05/24 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ErnieBanks</span><span class="f3 push-content">: 健保要有排富條款</span><span class="push-ipdatetime"> 05/24 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eric112</span><span class="f3 push-content">: 比照捷運這個無法自償不應該有</span><span class="push-ipdatetime"> 05/24 08:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eric112</span><span class="f3 push-content">: 收起來算了</span><span class="push-ipdatetime"> 05/24 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chchch</span><span class="f3 push-content">: 這間醫院破爛到一個誇張，沒生意不意外</span><span class="push-ipdatetime"> 05/24 08:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hohohoha</span><span class="f3 push-content">: 又一休一例</span><span class="push-ipdatetime"> 05/24 08:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 真的很破爛，上次去看朋友我還以為到了越南XD</span><span class="push-ipdatetime"> 05/24 08:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">earnformoney</span><span class="f3 push-content">: 醫院本來就不該是營利單位</span><span class="push-ipdatetime"> 05/24 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">EarthLegacy</span><span class="f3 push-content">: 裁你妹啊！</span><span class="push-ipdatetime"> 05/24 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie0804</span><span class="f3 push-content">: 誠實有錯嗎</span><span class="push-ipdatetime"> 05/24 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jankowalski</span><span class="f3 push-content">: 議員邏輯哪裡怪 醫院本來就是用來賺錢的</span><span class="push-ipdatetime"> 05/24 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jankowalski</span><span class="f3 push-content">: 只是很多人愛用道德綁架 說什麼醫德之類的話</span><span class="push-ipdatetime"> 05/24 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gary886</span><span class="f3 push-content">: 醫院是蠻老舊沒錯...不過看看小病我覺得還可以啦</span><span class="push-ipdatetime"> 05/24 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jankowalski</span><span class="f3 push-content">: 衛福部長都說醫療是服務業了 沒付錢哪來服務</span><span class="push-ipdatetime"> 05/24 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gary886</span><span class="f3 push-content">: 而且收費真的算便宜...只是要遇到好醫生有點運氣</span><span class="push-ipdatetime"> 05/24 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">js52666</span><span class="f3 push-content">: 怎麼沒有路克不來</span><span class="push-ipdatetime"> 05/24 08:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 基隆人都跑長庚，不然來台北一堆大醫院也很方便</span><span class="push-ipdatetime"> 05/24 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NotimportanT</span><span class="f3 push-content">: 基隆有這間醫院喔?以前當兵遇到重大流感部隊都直接</span><span class="push-ipdatetime"> 05/24 08:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NotimportanT</span><span class="f3 push-content">: 送長庚…</span><span class="push-ipdatetime"> 05/24 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 議員這麼嗆  提案關醫院不就得了</span><span class="push-ipdatetime"> 05/24 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 醫院不營利要靠什麼繼續下去？</span><span class="push-ipdatetime"> 05/24 08:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xx49874039</span><span class="f3 push-content">: 北部議員有正常的嗎</span><span class="push-ipdatetime"> 05/24 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Anyotw</span><span class="f3 push-content">: 待退人士，不騙你。無敵</span><span class="push-ipdatetime"> 05/24 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MonkeyD5566</span><span class="f3 push-content">: 這樣也一例一休，很百搭捏</span><span class="push-ipdatetime"> 05/24 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ali810622</span><span class="f3 push-content">: 醫院本來就營利機構…看來有些人腦子不好使</span><span class="push-ipdatetime"> 05/24 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">storyo11413</span><span class="f3 push-content">: 才上任一年..看來是屎坑 難怪想跑</span><span class="push-ipdatetime"> 05/24 09:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ALAN781215</span><span class="f3 push-content">: 這議員是......</span><span class="push-ipdatetime"> 05/24 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ALAN781215</span><span class="f3 push-content">: 某些回應會有這種議員也是正常</span><span class="push-ipdatetime"> 05/24 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">funkD</span><span class="f3 push-content">: 就看對你地方有沒有影響阿 你爽就好</span><span class="push-ipdatetime"> 05/24 09:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TwinkleFany</span><span class="f3 push-content">: 本身基隆人只有急診才會來這間</span><span class="push-ipdatetime"> 05/24 09:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 醫院要賺錢還不簡單？？設自費門診不用健保</span><span class="push-ipdatetime"> 05/24 09:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrStone</span><span class="f3 push-content">: 屌，直接開大絕</span><span class="push-ipdatetime"> 05/24 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 醫院不是營利單位所以醫院是國家等級的福利嗎</span><span class="push-ipdatetime"> 05/24 10:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 不賺錢要去哪邊吸引好的人才買新的設備</span><span class="push-ipdatetime"> 05/24 10:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xinh</span><span class="f3 push-content">: 基隆人大都去署立或者乾脆去長庚 甚至跑台北 況且市立去通</span><span class="push-ipdatetime"> 05/24 10:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xinh</span><span class="f3 push-content">: 常也只去門診中心 基本上沒人會去他院本部 超級老舊 會虧錢</span><span class="push-ipdatetime"> 05/24 10:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xinh</span><span class="f3 push-content">: 不意外…</span><span class="push-ipdatetime"> 05/24 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">esho</span><span class="f3 push-content">: 小時候我們家比較近海軍醫院（就是現在三總）都是去海軍醫院</span><span class="push-ipdatetime"> 05/24 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">esho</span><span class="f3 push-content">: 很少去這間</span><span class="push-ipdatetime"> 05/24 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kbpoop</span><span class="f3 push-content">: 那就快裁  賣給台塑算了</span><span class="push-ipdatetime"> 05/24 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tristanh</span><span class="f3 push-content">: 基隆到底稱在那邊幹嘛</span><span class="push-ipdatetime"> 05/24 10:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerrylin</span><span class="f3 push-content">: 你都問了  當然就這樣回答  87</span><span class="push-ipdatetime"> 05/24 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">softstar0125</span><span class="f3 push-content">: 以前在基隆念書，大家都說生病要去長庚不要去其他家</span><span class="push-ipdatetime"> 05/24 11:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">illegalmad</span><span class="f3 push-content">: 就醫療商品化市場化的結構惡果啊</span><span class="push-ipdatetime"> 05/24 11:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samonella</span><span class="f3 push-content">: 市醫的腳色本來就不是賺錢. 要醫院賺錢,呵呵....</span><span class="push-ipdatetime"> 05/24 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bluebear</span><span class="f3 push-content">: 院長誠實</span><span class="push-ipdatetime"> 05/24 12:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imblg</span><span class="f3 push-content">: 怎覺得是院長認為議員提問太腦殘隨便回答XD</span><span class="push-ipdatetime"> 05/24 17:24
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495586084.A.4A1.html?cacheKey=2052-576544&offset=8504&offset-sig=95f28a9d6cd391a909ddccaf47a8f263e700a1cd" data-longpollurl="/v1/longpoll?id=c671620319de80fdb8c7e8e10949a30b8892b165" data-offset="8504"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

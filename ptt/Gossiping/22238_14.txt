@@ -1,0 +1,167 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496417704.A.9A8.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 我保險業風險指數 全球最高 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="中時電子報
+我保險業風險指數 全球最高
+2017年06月02日 04:10 劉懿慧／台北報導
+據資誠報告指出，台灣保險業風險指數為全球最高，但對於已知風險的準備狀態卻低於全
+球平均；目前台灣保險業最擔憂的風險為低利率環境，使資本市場的不確定性增加，導致
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 我保險業風險指數 全球最高">
+<meta property="og:description" content="中時電子報
+我保險業風險指數 全球最高
+2017年06月02日 04:10 劉懿慧／台北報導
+據資誠報告指出，台灣保險業風險指數為全球最高，但對於已知風險的準備狀態卻低於全
+球平均；目前台灣保險業最擔憂的風險為低利率環境，使資本市場的不確定性增加，導致
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496417704.A.9A8.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496417704.A.9A8.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">MonkeyCL (可愛的小猴子)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 我保險業風險指數 全球最高</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 23:35:01 2017</span></div>
+中時電子報
+
+<span class="b4 hl">我保險業風險指數 全球最高</span>
+
+2017年06月02日 04:10 劉懿慧／台北報導
+
+據資誠報告指出，台灣保險業風險指數為全球最高，但對於已知風險的準備狀態卻低於全
+球平均；目前台灣保險業最擔憂的風險為低利率環境，使資本市場的不確定性增加，導致
+經營風險成為迫切議題。
+
+資誠昨（1）日發布《2017保險業風險調查報告：保險公司面臨的風險》，調查全球52個
+國家的保險業者，未來2至3年內對風險高低排序及各項風險的預測。整體而言，保險業的
+環境愈趨艱難，2017年全球保險業的擔憂指數創下新高，但產業在因應風險的準備指數，
+卻相較於2015年整體下降。
+
+調查結果顯示，全球保險業首次將「變革管理」評為最大威脅，資誠聯合會計師事務所金
+融產業服務副營運長陳賢儀分析，因產業結構和科技的改變，都可能顛覆原有的傳統商業
+模式，因此保險業正從艱困的經濟環境中尋找出路。
+
+第二大風險則是網路風險，除保險公司本身可能面臨的網路攻擊，還需承保網路犯罪所衍
+生費用，另外，也包含保險公司內部科技系統是否充足及來自保險科技的新進競爭。不過
+，網路風險在台灣排名僅18，也反映出台灣因尚未成為國際駭客鎖定的對象，對於資訊安
+全的認知與法規也相對落後。近年隨保險業務逐漸轉向線上作業，握有大量客戶隱私的保
+險公司成駭客鎖定的對象，保險業的網路安全風險也必須重視。
+
+台灣本次風險調查中的風險指數為全球最高3.66，但對於已知風險的準備狀態指數為2.9
+，低於全球平均3.02，意味著國內保險業者，對於產業面臨艱難環境的應對能力感到愈來
+愈焦慮。
+
+調查指出，台灣保險業最擔憂的風險為持續的低利率環境，以及其對保險公司投資績效所
+造成的影響，全球資本市場的不確定性增加，使經營風險成為相當迫切的議題。
+
+陳賢儀建議，企業應找出「最適成長策略」，強化企業成長所需的能力及投資的良性成本
+，同時重新檢視或削減惡性成本、低績效的業務和低效率的營運，以順應此趨勢，化危機
+為轉機。
+
+此外，「科技」在台灣保險業風險指數為第四、全球第三，顯見保險科技的崛起，正顛覆
+傳統保險業務。資誠聯合會計師事務所金融產業服務副營運長李潤之分析，傳統保險業者
+除降低成本外，更該積極因應潮流，進行升級及創新轉型，將保險科技的威脅降至最低。
+
+(工商時報)
+
+<a href="http://www.chinatimes.com/newspapers/20170602000148-260205" target="_blank" rel="nofollow">http://www.chinatimes.com/newspapers/20170602000148-260205</a>
+
+備註：
+
+板上有百萬襄理可以解說一下嘛？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.215.81
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496417704.A.9A8.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496417704.A.9A8.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infoman</span><span class="f3 push-content">: 隨隨便便都能做出全球排名也頗厲害</span><span class="push-ipdatetime"> 06/02 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">suhaw</span><span class="f3 push-content">: 問三上沒幫就好 最愛吉</span><span class="push-ipdatetime"> 06/02 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">piliwu</span><span class="f3 push-content">: PWC的特色就是嘴砲四大第一</span><span class="push-ipdatetime"> 06/02 23:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496417704.A.9A8.html?cacheKey=2052-1699380&offset=2500&offset-sig=f7e2a9609d7283533739d8f19629484aa2a66984" data-longpollurl="/v1/longpoll?id=a6069254c9a9bd2083fb87f751af99cf7d21d1e1" data-offset="2500"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

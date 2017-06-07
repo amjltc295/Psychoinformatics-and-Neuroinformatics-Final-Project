@@ -1,0 +1,205 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496471480.A.3CF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] Android 之父正式發表新手機 Essential - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+TechNews
+2.完整新聞標題:
+「手機廠商不該要你每年換手機」，Android 之父正式發表新手機「Essential」
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] Android 之父正式發表新手機 Essential">
+<meta property="og:description" content="1.媒體來源:
+TechNews
+2.完整新聞標題:
+「手機廠商不該要你每年換手機」，Android 之父正式發表新手機「Essential」
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496471480.A.3CF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496471480.A.3CF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hoho ( )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] Android 之父正式發表新手機 Essential</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 14:31:18 2017</span></div>
+1.媒體來源:
+<span class="f6 hl">TechNews</span>
+
+2.完整新聞標題:
+<span class="f6 hl">「手機廠商不該要你每年換手機」</span>，Android 之父正式發表新手機「Essential」
+
+3.完整新聞內文:
+Andy Rubin 新公司所推出的手機產品 Essential，強調簡潔、方便，配件都設計成採磁
+鐵連接，讓手機用戶不必一換新手機，就買新配件。
+
+Android 之父 Andy Rubin 的新產品，終於在前日正式揭開面紗，包含智慧型手機
+Essential、作業系統 Ambient OS 以及智慧家居產品 Essential Home。
+
+<span class="f6 hl">「個人裝置不應該每年更新。」</span>
+
+曾經創造 Android 系統的 Andy Rubin，因為不滿意科技產業現狀，認為 Android 不該
+愈發展愈複雜，喪失科技簡化人們生活的目的，因此創立了新公司 Essential。
+
+「在與朋友一段長談後，我決定要創立一種新公司，這種公司使用 21 世紀的方法創造產
+品，服務希望活在21世紀的人們。」Andy Rubin 在 Essential 官網這樣寫道。
+
+Essential 的公司目標是，個人裝置不應該得每年更新，應該隨著用戶使用而演化進步，
+而科技應該幫助人們的生活變得更簡單。Essential 的公司目標是，個人裝置不應該得每
+年更新，應該隨著用戶使用而演化進步，而科技應該幫助人們的生活變得更簡單。
+
+此理念反映到 <span class="f3 hl">Essential 手機的一大設計特點：模組化</span>。Andy Rubin 認為人們不應該每
+換新手機就得買新配件，配件應該得套用於各台手機。因此，Essential 的配件，包含充
+電座與外接 360 度相機鏡頭，都是<span class="f3 hl">透過內建無線資料傳輸磁鐵連接</span>手機裝置。
+
+而手機的螢幕設計，與三星的 Galaxy S8 類似，一樣採無邊際螢幕邊框，最大化用戶的
+視覺體驗。另外，其手機機體外框採鈦合金，宣稱比 Apple 或三星的鋁合金還堅硬，機
+殼不怕摔。
+
+硬體上，Essential 也採用相當高規格的配件，包含<span class="f2 hl">高通 835 處理器、4G 記憶體、</span>
+<span class="f2 hl"> 128GB 儲存空間等，前置相機達 800 萬畫素、能錄製 4K 影片</span>，後製相機則有 1300 萬
+畫素，並有感光鏡頭幫助低光源環境拍攝。
+
+此產品定價<span class="f2 hl"> 699 美元，雖然尚未透露上市時間，但確定會先從美國作為第一銷售市場</span>。
+
+
+4.新聞連結：
+<a href="http://www.techbang.com/posts/51577" target="_blank" rel="nofollow">http://www.techbang.com/posts/51577</a>
+
+5.備註:
+
+A.上一個模組化手機的是 2013 年的 Phonebloks 概念：
+<a href="http://technews.tw/2017/04/17/the-world-just-isnt-ready-for-modular-phones/" target="_blank" rel="nofollow">http://technews.tw/2017/04/17/the-world-just-isnt-ready-for-modular-phones/</a>
+
+B.概念很好，但光是各家廠商之間的協定，到底能否做得出來，又是另外一條漫長的路
+
+C.如果真的普及，那以後工具人可以多開啟一條手機組裝技能樹 XD
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.113.119.170
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496471480.A.3CF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496471480.A.3CF.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wonder007</span><span class="f3 push-content">: 標題: 不需要換手機    內文: 換手機不需要重買配件</span><span class="push-ipdatetime"> 06/03 14:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonder007</span><span class="f3 push-content">: ???</span><span class="push-ipdatetime"> 06/03 14:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thundelet</span><span class="f3 push-content">: 擋人財路</span><span class="push-ipdatetime"> 06/03 14:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 才699，apple跟三爽的旗艦可以去吃屎了</span><span class="push-ipdatetime"> 06/03 14:32
+</span></div>補新聞連結
+<span class="f2">※ 編輯: hoho (140.113.119.170), 06/03/2017 14:33:38
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: 讚</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baiya</span><span class="f3 push-content">: 想要什麼功能 就自己加模組插上去 跟DIY電腦有87%很像</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">netsc</span><span class="f3 push-content">: 開始賣洗髮精了嗎？</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 讚讚 android microcontroller可以應用上去嗎</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">untilnow</span><span class="f3 push-content">: 賣洗髮精的, 有防手機分岔或斷裂嗎</span><span class="push-ipdatetime"> 06/03 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dinex</span><span class="f3 push-content">: Google不是之前有推過後來又沒有了</span><span class="push-ipdatetime"> 06/03 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadowppt</span><span class="f3 push-content">: 沒有市場的模組化應用，根本是垃圾</span><span class="push-ipdatetime"> 06/03 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sincos5566</span><span class="f3 push-content">: 電子垃圾</span><span class="push-ipdatetime"> 06/03 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ascii</span><span class="f3 push-content">: Project Ara吧 已經終止了</span><span class="push-ipdatetime"> 06/03 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 要真能大賣的話 Goggle 就不會把 Project Ara 給關了</span><span class="push-ipdatetime"> 06/03 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aza0290</span><span class="f3 push-content">: 你不會想要一個模組化的筆電..數位相機...</span><span class="push-ipdatetime"> 06/03 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 給我來一台</span><span class="push-ipdatetime"> 06/03 14:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Grothendieck</span><span class="f3 push-content">: 怎麼有這麼geek的名字</span><span class="push-ipdatetime"> 06/03 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 當初Project Ara 辜狗光磁鐵骨架 就想收 $15USD 靠北貴</span><span class="push-ipdatetime"> 06/03 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 不更新是指換手機還是安全性漏洞?</span><span class="push-ipdatetime"> 06/03 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonder007</span><span class="f3 push-content">: 還好吧 逸萱秀 這名字很少女阿</span><span class="push-ipdatetime"> 06/03 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 郭董 組一支 Apple 都沒收到哪麼多錢了 而且又大又醜</span><span class="push-ipdatetime"> 06/03 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiriri</span><span class="f3 push-content">: 保肝藥 essential</span><span class="push-ipdatetime"> 06/03 14:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">netio</span><span class="f3 push-content">: 比U11貴阿幹</span><span class="push-ipdatetime"> 06/03 14:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Granatha</span><span class="f3 push-content">: 會被各廠集體幹爛</span><span class="push-ipdatetime"> 06/03 14:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogisun</span><span class="f3 push-content">: 現在可以組手機了啊 想不想組而已</span><span class="push-ipdatetime"> 06/03 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lmf770410</span><span class="f3 push-content">: 起飛了？</span><span class="push-ipdatetime"> 06/03 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">enjoy5566</span><span class="f3 push-content">: 到時候每年換配件 87</span><span class="push-ipdatetime"> 06/03 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yudofu</span><span class="f3 push-content">: 最好他這隻可以賣幾年都不更新，一開始就買最頂的iPhone也</span><span class="push-ipdatetime"> 06/03 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yudofu</span><span class="f3 push-content">: 可以撐很久，配件又多，買這個垃圾幹嘛？</span><span class="push-ipdatetime"> 06/03 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cliffx</span><span class="f3 push-content">: M7用了3年多</span><span class="push-ipdatetime"> 06/03 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bigcho</span><span class="f3 push-content">: 然後一個月換一個模組</span><span class="push-ipdatetime"> 06/03 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amos30627</span><span class="f3 push-content">: 宅宅未來不只幫妹子組電腦惹 組手機之日也不遠了</span><span class="push-ipdatetime"> 06/03 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GrayAngel</span><span class="f3 push-content">: 這跟組手機完全不一樣,這只是組配件而已,主機無法組阿</span><span class="push-ipdatetime"> 06/03 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">davidbright</span><span class="f3 push-content">: 連這個也可以酸的酸酸也真是屌QQ</span><span class="push-ipdatetime"> 06/03 21:41
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496471480.A.3CF.html?cacheKey=2052-2021366&offset=5809&offset-sig=760d3d81b435641adf284b7637f9a8cccb46123e" data-longpollurl="/v1/longpoll?id=a4b471edd39f6c7cb515b97178263a2abd7be02d" data-offset="5809"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

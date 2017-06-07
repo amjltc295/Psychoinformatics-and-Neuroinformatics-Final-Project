@@ -1,0 +1,224 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495442859.A.BA1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 業界不能說的秘密  你認知的「鮮奶」有 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+TVBS
+2.完整新聞標題:
+業界不能說的秘密　你認知的「鮮奶」有哪些添加物
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 業界不能說的秘密  你認知的「鮮奶」有">
+<meta property="og:description" content="1.媒體來源:
+TVBS
+2.完整新聞標題:
+業界不能說的秘密　你認知的「鮮奶」有哪些添加物
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495442859.A.BA1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495442859.A.BA1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Loigi (專利)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 業界不能說的秘密  你認知的「鮮奶」有</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 16:47:37 2017</span></div>
+1.媒體來源:
+TVBS
+
+2.完整新聞標題:
+業界不能說的秘密　你認知的「鮮奶」有哪些添加物
+
+3.完整新聞內文:
+街邊到處都有手搖飲料店，標榜鮮奶或純鮮乳，但真的是這樣嗎？你知道什麼是液態乳？
+什麼是冰磚奶嗎？每到夏天，鮮乳生產量總是供不應求，因此會進口「液態乳」來因應。
+台灣政府為了保障本土酪農，液態乳採關稅配額方式進口，配額量第一年(2002年)為
+10,649公噸，逐年增加至2004年起固定為21298公噸，以<span class="f5 hl">避免大量進口外國乳製品會打擊
+</span><span class="f5 hl">台灣本土的酪農產業。</span>
+
+如果品牌大廠無法標到當年的液態乳配額，另一種滿足消費者的方式就是進口「冰磚奶」
+。<span class="f5 hl">由於冰磚奶的成本較低，所以某些廠商傾向以冰磚奶取代本土酪農的乳品，但會打擊本
+</span><span class="f5 hl">土的酪農業，低價競爭的惡性循環下，台灣人未來可能沒有新鮮的牛乳可以喝。</span>
+
+冰磚奶是鮮乳在殺菌後急速冷凍製成冰磚以方便運輸的形式，但因為冰磚奶是冷凍製成的
+(通常低於-30度)，在冷凍的過程中，因為牛乳中的油脂跟水的成分結冰速度不一致，導
+致油水分離，且油脂鏈結被冰晶給打斷，解凍的時候也不易還原成油水互溶的狀態，甚至
+需要加入乳化劑重新穩定牛乳的均質化。同時，<span class="f5 hl">原來鮮奶中的重要營養成分如：乳清蛋白
+</span><span class="f5 hl">、乳脂等，在冷凍24小後即有近半的比例被破壞，所以冰磚稀釋的還原乳無論在口感及香
+</span><span class="f5 hl">氣上都比鮮奶遜色。</span>
+
+台灣的廠商進口後，為了填補冰磚奶在冷凍過程中被破壞的重要營養成分，會<span class="f3 hl">在稀釋還原
+</span><span class="f3 hl">冰磚奶的過程中額外添加乳脂、乾酪素鈉等，好讓稀釋還原的冰磚奶能有足夠的乳脂與牛
+</span><span class="f3 hl">乳的香味。這樣的作法會產生兩種結果，其一，因為乾酪素鈉是萃取出來，喝起口味來有
+</span><span class="f3 hl">明顯差別；其二，由於多的不少額外添加物，喝同樣體積的冰磚乳，所攝入的脂肪量比鮮
+</span><span class="f3 hl">乳多，同時，牛奶味香料的鈉含量也偏高，反而容易引起高血壓等心血管疾病。</span>
+
+在法令上，農委會核發的鮮乳標章只對台灣在地生乳製造的鮮乳，而《食安法》規定只要
+是進口牛乳成分及加工符合規定、運輸過程全程冷藏，就算保存期限長於國產鮮乳，仍可
+稱為鮮乳，因此在法令上並無觸犯相關問題。只是對消費者來說，此種鮮乳，是否等同於
+於其心中認定的「新鮮牛乳」，中間可能得畫上很大的問號。
+
+<span class="f3 hl">在ptt八卦版上，此議題也引起不少網友討論，「真的不知道原來是這樣！」「不然你以
+</span><span class="f3 hl">為夏天的奶哪裡來？不這樣做根本不夠市場吃」「營業用奶做的拿鐵喝起來真的濃的化不
+</span><span class="f3 hl">開，還以為是店家屌，沒想到屌的是油。」「鮮奶怎可能這麼濃，有濃醇香的基本上都有
+</span><span class="f3 hl">加料才能這樣。「超商拿鐵咖啡看他們換牛奶都是業務牛奶，含乳量都標50%。」</span>
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/N8WZlq" target="_blank" rel="nofollow">https://goo.gl/N8WZlq</a>
+
+5.備註:
+好好的牛奶加一堆有的沒的，但記者也沒講是哪家廠商
+
+<span class="f3 hl">看之前的文章好像是光泉?</span>
+
+<span class="hl">台灣的Cost down已經真的都是連消費者的健康都不顧那種欸</span>
+
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+業務用奶.......?
+<a href="http://imgur.com/MQ76XTG" target="_blank" rel="nofollow">http://imgur.com/MQ76XTG</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="MQ76XTG"><a href="//imgur.com/MQ76XTG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/ebXhkje" target="_blank" rel="nofollow">http://imgur.com/ebXhkje</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="ebXhkje"><a href="//imgur.com/ebXhkje"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/GTYdwq5" target="_blank" rel="nofollow">http://imgur.com/GTYdwq5</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="GTYdwq5"><a href="//imgur.com/GTYdwq5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/niiyMbE" target="_blank" rel="nofollow">http://imgur.com/niiyMbE</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="niiyMbE"><a href="//imgur.com/niiyMbE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/T62uTwW" target="_blank" rel="nofollow">http://imgur.com/T62uTwW</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="T62uTwW"><a href="//imgur.com/T62uTwW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/dKaz9fR" target="_blank" rel="nofollow">http://imgur.com/dKaz9fR</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="dKaz9fR"><a href="//imgur.com/dKaz9fR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/70fSuDJ" target="_blank" rel="nofollow">http://imgur.com/70fSuDJ</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="70fSuDJ"><a href="//imgur.com/70fSuDJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/cprXEYS" target="_blank" rel="nofollow">http://imgur.com/cprXEYS</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="cprXEYS"><a href="//imgur.com/cprXEYS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/9ZKq9Fl" target="_blank" rel="nofollow">http://imgur.com/9ZKq9Fl</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="9ZKq9Fl"><a href="//imgur.com/9ZKq9Fl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.72.96.242
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495442859.A.BA1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495442859.A.BA1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 我論這篇會被吱吱噓</span><span class="push-ipdatetime"> 05/22 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Riya520</span><span class="f3 push-content">: 之前不是被噓過了, 那種就不能貼鮮乳標章</span><span class="push-ipdatetime"> 05/22 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #知道了</span><span class="push-ipdatetime"> 05/22 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">theeht</span><span class="f3 push-content">: 喝一點點不會死人啦</span><span class="push-ipdatetime"> 05/22 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 林鳳X有加屎 這大家都知道</span><span class="push-ipdatetime"> 05/22 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Notte</span><span class="f3 push-content">: 煩欸 有那麼難懂ㄇ</span><span class="push-ipdatetime"> 05/22 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 啊不是認鮮奶標章就好了？</span><span class="push-ipdatetime"> 05/22 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 認鮮奶標章這麼簡單的事連三歲小孩都知道</span><span class="push-ipdatetime"> 05/22 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 不是早就被證實是造謠了？</span><span class="push-ipdatetime"> 05/22 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 那篇文章不是被噓爆了嗎？</span><span class="push-ipdatetime"> 05/22 16:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">susanna026</span><span class="f3 push-content">: 怎麼分辨 市面上 哪些不是冰磚奶？不想喝 業務奶</span><span class="push-ipdatetime"> 05/22 16:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">originalsexy</span><span class="f3 push-content">: 終於爆出來??</span><span class="push-ipdatetime"> 05/22 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 自己買鮮奶來加，簡單營養</span><span class="push-ipdatetime"> 05/22 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stevenkuo</span><span class="f3 push-content">: 暴利產業</span><span class="push-ipdatetime"> 05/22 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">susanna026</span><span class="f3 push-content">: 市面上 拿鐵加的是那種奶？</span><span class="push-ipdatetime"> 05/22 16:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lX</span><span class="f3 push-content">: 咖啡這幾年需求越來越大 但好像也沒聽說台灣有多缺牛奶的新聞</span><span class="push-ipdatetime"> 05/22 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: <a href="https://goo.gl/RNeYfX" target="_blank" rel="nofollow">https://goo.gl/RNeYfX</a></span><span class="push-ipdatetime"> 05/22 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">susanna026</span><span class="f3 push-content">: 看不出來 怎麼分辨？</span><span class="push-ipdatetime"> 05/22 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Notte</span><span class="f3 push-content">: 腿多久了才在報 廢物記者</span><span class="push-ipdatetime"> 05/22 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 義美都開始賣澳洲牛奶了覺青崩潰</span><span class="push-ipdatetime"> 05/22 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 自己買來加啊，還能促進國產鮮奶消費</span><span class="push-ipdatetime"> 05/22 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itsdj</span><span class="f3 push-content">: 啊之前不是討論過了，成分表都有寫啊，用還原奶的也很大方</span><span class="push-ipdatetime"> 05/22 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itsdj</span><span class="f3 push-content">: 寫還原奶。該擔心的不是鮮奶，是調飲類的奶</span><span class="push-ipdatetime"> 05/22 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kerodo</span><span class="f3 push-content">: ，請先分清楚是鮮奶，前不久小農那篇才被噓爆</span><span class="push-ipdatetime"> 05/22 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 請認明鮮乳標章 冰磚奶絕對拿不到</span><span class="push-ipdatetime"> 05/22 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">liannhwa</span><span class="f3 push-content">: 外國鮮奶就比本土的還便宜 這是要恐嚇誰</span><span class="push-ipdatetime"> 05/22 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 這篇是在婊旺旺牛奶嗎??　　屎報技者不想做了?</span><span class="push-ipdatetime"> 05/22 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 上次那篇才被噓爆而已XD</span><span class="push-ipdatetime"> 05/22 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itsdj</span><span class="f3 push-content">: 我就說手搖店茶葉已經沒啥好戰的了，這兩年都故意戰鮮奶</span><span class="push-ipdatetime"> 05/22 16:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TWN5566</span><span class="f3 push-content">: @@</span><span class="push-ipdatetime"> 05/22 17:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kepf</span><span class="f3 push-content">: 我都買牛奶和無糖綠自己配來喝了…</span><span class="push-ipdatetime"> 05/22 17:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 我現在只敢買有標章的</span><span class="push-ipdatetime"> 05/22 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nabecat</span><span class="f3 push-content">: 葉佩雯</span><span class="push-ipdatetime"> 05/22 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 怕就喝小農鮮乳啊</span><span class="push-ipdatetime"> 05/22 17:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killla</span><span class="f3 push-content">: 小農是摃潘子奶</span><span class="push-ipdatetime"> 05/22 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TWN5566</span><span class="f3 push-content">: 小農真的好貴歐</span><span class="push-ipdatetime"> 05/22 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loking</span><span class="f3 push-content">: 小農資本這麼低，能做的比大廠好很難吧</span><span class="push-ipdatetime"> 05/22 17:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">M013</span><span class="f3 push-content">: 過77啦☺</span><span class="push-ipdatetime"> 05/22 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ecnecsinimer</span><span class="f3 push-content">: 記者是時空旅人？</span><span class="push-ipdatetime"> 05/22 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fanta1331</span><span class="f3 push-content">: 喝咖啡吧</span><span class="push-ipdatetime"> 05/22 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 有問題的是冰磚奶沒有特別的標示這一點</span><span class="push-ipdatetime"> 05/22 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sweety655633</span><span class="f3 push-content">: 農業工業化這麼久了還一堆左蠢在那推小農</span><span class="push-ipdatetime"> 05/22 20:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casio0406</span><span class="f3 push-content">: 台灣鮮奶那麼貴還要坑人，鬼島</span><span class="push-ipdatetime"> 05/23 04:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">casio0406</span><span class="f3 push-content">: <a href="http://i.imgur.com/uf63mBg.jpg" target="_blank" rel="nofollow">http://i.imgur.com/uf63mBg.jpg</a></span><span class="push-ipdatetime"> 05/23 04:58
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="uf63mBg"><a href="//imgur.com/uf63mBg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495442859.A.BA1.html?cacheKey=2052-36379232&offset=7489&offset-sig=d5e634d5c70079c0993524af669c8cb8892750da" data-longpollurl="/v1/longpoll?id=5be1687d9c2aaeb1aed63e3c99282149336be016" data-offset="7489"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

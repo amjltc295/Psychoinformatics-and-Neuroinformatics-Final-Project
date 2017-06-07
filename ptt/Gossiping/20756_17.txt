@@ -1,0 +1,204 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495447817.A.A5B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 母親節廣告有性別歧視 會考社會科考了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+母親節廣告有性別歧視 會考社會科考了
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 母親節廣告有性別歧視 會考社會科考了">
+<meta property="og:description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+母親節廣告有性別歧視 會考社會科考了
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495447817.A.A5B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495447817.A.A5B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">LeaveTaiwan (LeaveTaiwan!!!)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 母親節廣告有性別歧視 會考社會科考了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 18:10:15 2017</span></div>
+1.媒體來源:
+中央社
+
+2.完整新聞標題:
+母親節廣告有性別歧視 會考社會科考了
+
+3.完整新聞內文:
+（中央社記者陳至中台北20日電）一年一度的母親節剛過，商業廣告主打鍋子、家電、清
+潔用品，踩到性別歧視的紅線。今天國中教育會考社會科，便出了這麼一題，要考生判斷
+哪則廣告有「性別刻板印象」。
+
+國中教育會考第一天不會公布試題，但教育部今天邀請中央輔導團教師審閱試題，並向大
+眾說明。
+
+新北市福營國中公民教師卓旻寧提到，第15題以4則廣告台詞傳達的訊息，評量學生是否
+瞭解性別刻板印象的概念（單選題）。
+
+第一則廣告是保養品，提到「男女需求大不同」，需要的營養補給也不一樣；第二則訴求
+民眾買靈芝保健食品，孝順爸爸、媽媽；第三則講到體貼老婆，要購買合適的洗衣精；第
+四則則是強調居家保全的重要性。
+
+按照規定，教育部第一天不能公布解答，但次長林騰蛟換了個形式，現場要媒體記者作答
+，結果所有人都認為第三則洗衣精廣告，性別刻板印象最明顯。
+
+卓旻寧表示，會考社會科試題與生活息息相關，很多看起來不怎樣的訊息，經過妥善設計
+，都能成為考試重點。這一題廣告題，足以讓國中畢業生反思，母親節孝順媽媽買鍋子、
+拖把，不見得是孝順、體貼女性的行為。
+
+除了廣告題，今年會考社會科還出現匯率浮動導致日本來台遊客不增反減，以及電線桿編
+碼、計算雞排的銷貨收入、以及「陪伴商機」等，都是從日常生活和時事中出題。
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.cna.com.tw/news/firstnews/201705200113-1.aspx" target="_blank" rel="nofollow">http://www.cna.com.tw/news/firstnews/201705200113-1.aspx</a>
+
+5.備註:
+
+所以母親節是性別歧視.....??
+母親應該要有老二才不是性別歧視
+是嗎?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.227.173.31
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495447817.A.A5B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495447817.A.A5B.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 女權當道，這道菜不好吃。</span><span class="push-ipdatetime"> 05/22 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kosuke</span><span class="f3 push-content">: 挖靠這樣也能崩潰 那乾脆都別送老母東西了 這樣最不騎士</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkyIsCat</span><span class="f3 push-content">: 他說的是廣告吧</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lkksppet</span><span class="f3 push-content">: 買鍋子是「媽媽煮」，為什麼不是爸爸煮?</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 誰會想收到拖把</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 這又是什麼自助餐？</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loversdating</span><span class="f3 push-content">: 你的備註顯見你根本沒看懂這篇文章啊</span><span class="push-ipdatetime"> 05/22 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 送媽媽r20</span><span class="push-ipdatetime"> 05/22 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maple9911</span><span class="f3 push-content">: 好吃</span><span class="push-ipdatetime"> 05/22 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nouvellex</span><span class="f3 push-content">: 看不懂內文？強調做家事是專屬女性的責任就是性別歧視</span><span class="push-ipdatetime"> 05/22 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycwtu</span><span class="f3 push-content">: 完全不懂這考題來幹嘛的</span><span class="push-ipdatetime"> 05/22 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 如果是你生日有人送你拖把你會開心嗎？</span><span class="push-ipdatetime"> 05/22 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 反正現在就拼命自助餐 不爽的就是歧視</span><span class="push-ipdatetime"> 05/22 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 遇到不想作的事情就馬上搬出 人家是女森捏</span><span class="push-ipdatetime"> 05/22 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nouvellex</span><span class="f3 push-content">: 原po備註很明顯不是沒看內文就是在帶風向</span><span class="push-ipdatetime"> 05/22 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loversdating</span><span class="f3 push-content">: 像樓上這種亂放大絕的現在也不少捏科科，什麼都推</span><span class="push-ipdatetime"> 05/22 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loversdating</span><span class="f3 push-content">: 到自助餐就好</span><span class="push-ipdatetime"> 05/22 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loversdating</span><span class="f3 push-content">: 我是指dark</span><span class="push-ipdatetime"> 05/22 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sacola</span><span class="f3 push-content">: 做家事不是女性的專利，這廣告當然有性別刻板印象</span><span class="push-ipdatetime"> 05/22 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">landax</span><span class="f3 push-content">: 閱讀能力有問題還敢出來帶風向</span><span class="push-ipdatetime"> 05/22 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cloudccw</span><span class="f3 push-content">: 看不懂文章喔</span><span class="push-ipdatetime"> 05/22 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 要講刻板印象? 現在結婚都要男方出錢 哪個女生想背這</span><span class="push-ipdatetime"> 05/22 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 個責任?</span><span class="push-ipdatetime"> 05/22 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sacola</span><span class="f3 push-content">: 樓上講的也是性別刻板印象啊，這是可以雙方協議的事情</span><span class="push-ipdatetime"> 05/22 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 離婚為何是男方付贍養費 女方不用?</span><span class="push-ipdatetime"> 05/22 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 兵役 哪個女權跳出來搶這項保衛國家的責任跟權利</span><span class="push-ipdatetime"> 05/22 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 女權怎麼遇到這些問題通通裝死 只會講我要選月薪7萬</span><span class="push-ipdatetime"> 05/22 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 的另一半?</span><span class="push-ipdatetime"> 05/22 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chunfo</span><span class="f3 push-content">: 就真的有很多媽媽在做家事啊</span><span class="push-ipdatetime"> 05/22 18:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chunfo</span><span class="f3 push-content">: 自助餐看到名牌包就又不是刻板印象了</span><span class="push-ipdatetime"> 05/22 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Godofthebutt</span><span class="f3 push-content">: dark 崩潰惹</span><span class="push-ipdatetime"> 05/22 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">globe1022</span><span class="f3 push-content">: 還有母親節不錯了，回頭看看有多少爸爸有父親節過...</span><span class="push-ipdatetime"> 05/22 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rasputin</span><span class="f3 push-content">: 你看看你，明明問的是刻板印象，標題卻被白癡偷渡換成歧</span><span class="push-ipdatetime"> 05/22 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rasputin</span><span class="f3 push-content">: 視，馬上有沒觀念的人上當了</span><span class="push-ipdatetime"> 05/22 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hsyinu</span><span class="f3 push-content">: 笑死人了現在結婚大多是雙方共同付吧，哪裡有都男方付錢</span><span class="push-ipdatetime"> 05/22 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rasputin</span><span class="f3 push-content">: Stereotype=\=discrimination, 只是錯誤落伍的觀念</span><span class="push-ipdatetime"> 05/22 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsyinu</span><span class="f3 push-content">: 很多媽媽做家事不代表媽媽愛做家事啊</span><span class="push-ipdatetime"> 05/22 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zaqw641125</span><span class="f3 push-content">: 堪慮</span><span class="push-ipdatetime"> 05/22 18:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sacola</span><span class="f3 push-content">: 很多媽媽在做家事，但也有很多爸爸在做家事啊。</span><span class="push-ipdatetime"> 05/22 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 發文的可以跟某些推文在一起啊，多元成家（扶額</span><span class="push-ipdatetime"> 05/22 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sacola</span><span class="f3 push-content">: 有很多小孩子也做家事啊。  那為何要強調&#34;媽媽&#34;做家事？</span><span class="push-ipdatetime"> 05/22 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hzs6111</span><span class="f3 push-content">: 母親節還要媽媽繼續做家事QQ</span><span class="push-ipdatetime"> 05/22 18:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">marchs24145</span><span class="f3 push-content">: 想偷渡？</span><span class="push-ipdatetime"> 05/22 18:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 原po甘有看內文？</span><span class="push-ipdatetime"> 05/22 18:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yumanatu</span><span class="f3 push-content">: 出題者必是女性，意在誘導國中女生長大後拒做家事</span><span class="push-ipdatetime"> 05/22 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nineuniverse</span><span class="f3 push-content">: 有可能原po沒上過公民 性別刻板印象是專有名詞</span><span class="push-ipdatetime"> 05/23 00:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joanna32288</span><span class="f3 push-content">: 閱讀障礙嗎</span><span class="push-ipdatetime"> 05/23 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joanna32288</span><span class="f3 push-content">: 補噓</span><span class="push-ipdatetime"> 05/23 02:22
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495447817.A.A5B.html?cacheKey=2052-36704699&offset=6473&offset-sig=ff96aa151b4c89d8235d348df05937992d16f874" data-longpollurl="/v1/longpoll?id=601a2b1826bb4e78c15ae7291487ac9657a4062e" data-offset="6473"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

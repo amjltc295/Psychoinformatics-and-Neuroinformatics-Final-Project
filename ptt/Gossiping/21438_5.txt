@@ -1,0 +1,194 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495887854.A.6C9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 搶救天外天劇場 網路連署籲中市府撤回恐 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+搶救天外天劇場 網路連署籲中市府撤回恐龍決議
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 搶救天外天劇場 網路連署籲中市府撤回恐">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+搶救天外天劇場 網路連署籲中市府撤回恐龍決議
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495887854.A.6C9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495887854.A.6C9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">moocow (void)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 搶救天外天劇場 網路連署籲中市府撤回恐</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 20:24:10 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+搶救天外天劇場 網路連署籲中市府撤回恐龍決議
+
+3.完整新聞內文:
+2017-05-24  16:18
+
+〔記者蘇孟娟／台中報導〕台中天外天劇場保存引關注，日前台中市文資處指出，經文化
+資產審議委員會確認未具合法文化資產身分；台中文史復興組合23日晚間以「撤回恐龍決
+議、重啟文資審議」為題，發起網路連署，短短十二小時湧入逾千人響應連署，盼台中市
+政府重啟天外天劇場文化資產審議。
+
+台中文史復興組合指出，天外天劇場是台中僅存的日本時代老劇場，也是唯一由台灣人自
+建、自營，象徵以創建人吳子瑜為首之文化協會仕紳對振興本地文化與對日本統治者為文
+化抵抗的決心。
+
+該團體指出，天外天劇場是見證百年來台中城市發展、變遷的經典劇場建築，也是台中不
+能再失去的珍寶，若天外天能成功保存、修復與活化，將成為台中人對故鄉的驕傲所在，
+但如今政府文資保存決心、城市發展價值觀均已倍受質疑。
+
+連署提出3大訴求，包括：1、天外天歷史文化價值可受公評，「所有權人不同意」等非文
+資因素不應成為審議結果之理由；2、台中市府應對不符文資專業性的審議結果，退回重
+審，還給天外天劇場公正、客觀、整體的文資身分評價。3、對於台中市政府現有棄守文
+資專業的結果，考量天外天急迫性及其珍貴價值，懇請文化部援引文資法110條，代行職
+權並逕行予以指定。
+
+團體統計，網路連署在昨日晚間發出後12小時內，已有上千人響應、連署，連署人來自全
+台各地，亦有許多台中市民表達對故鄉文化資產的掛念以及對保存的希望。
+
+連署中有人提及不希望台中只剩下商業化的「文創」地景，希望可以保存這樣一座難得的
+古蹟與記憶，並且維護、再出發，希望城市的記憶可以被保存，「一個城市之所以偉大不
+在於她有多少的新建築而是她累積了多少的歲月。」等意見。
+
+更有人指出，「天外天劇場好好整修，不論在建築美學或歷史角度，都可以和國家歌劇院
+遙相呼應，何樂不為」，更呼籲「當全民想替台中鐵道沿線留下深具魅力的城市遺產已成
+事實，市府重啟審議就是義務」。
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/life/breakingnews/2077834" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/life/breakingnews/2077834</a>
+
+5.備註:
+國民黨喜歡把日本蓋的老建物拆光光 民進黨好像也沒有比較好阿
+還要靠柯口中的文化恐怖份子到處奔走
+
+延伸閱讀:
+
+學者提新事證 籲保留天外天劇場
+<a href="http://www.chinatimes.com/realtimenews/20170526005116-260405" target="_blank" rel="nofollow">http://www.chinatimes.com/realtimenews/20170526005116-260405</a>
+
+天外天劇場文資審議程序 文化部關切
+<a href="https://udn.com/news/story/7314/2487939" target="_blank" rel="nofollow">https://udn.com/news/story/7314/2487939</a>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.46.54
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495887854.A.6C9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495887854.A.6C9.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sandiato</span><span class="f3 push-content">: 天外天不是賣麻辣鍋的喔？</span><span class="push-ipdatetime"> 05/27 20:24
+</span></div><span class="f2">※ 編輯: moocow (122.116.46.54), 05/27/2017 20:26:56
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">radiodept</span><span class="f3 push-content">: 你憑什麼酸我們黨的佳龍？你9.2？</span><span class="push-ipdatetime"> 05/27 20:25
+</span></div>我藍綠都酸拉 連不藍不綠的柯也酸(引用梁文傑的梗)
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VXcc</span><span class="f3 push-content">: 醜</span><span class="push-ipdatetime"> 05/27 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 幹，在臺中好幾年完全不知道有這東西</span><span class="push-ipdatetime"> 05/27 20:26
+</span></div><span class="f2">※ 編輯: moocow (122.116.46.54), 05/27/2017 20:28:11
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaPAELLA</span><span class="f3 push-content">: 我都吃馬辣</span><span class="push-ipdatetime"> 05/27 20:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 文青 救了一堆  結果還不是變成蚊子館...</span><span class="push-ipdatetime"> 05/27 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qppqqp</span><span class="f3 push-content">: 結構已不復存的東西.....</span><span class="push-ipdatetime"> 05/27 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">darkMood</span><span class="f3 push-content">: 古蹟都拆一拆了，現在的放200年也都是古蹟啦</span><span class="push-ipdatetime"> 05/27 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">u35k6</span><span class="f3 push-content">: 「所有權人不同意」等非文資因素不應成為審議結果之理由，</span><span class="push-ipdatetime"> 05/27 20:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">u35k6</span><span class="f3 push-content">: 不出錢用這種招叫政府想辦法留，被叫恐怖份子剛好而已</span><span class="push-ipdatetime"> 05/27 20:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 舊台中市區其實還好 日治古蹟已經指定蠻多的</span><span class="push-ipdatetime"> 05/27 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 聲明稿寫得有點誇張</span><span class="push-ipdatetime"> 05/27 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 目前的狀況的確所有權人常是官方不願意指定的因素之一</span><span class="push-ipdatetime"> 05/27 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 其實政府與民間都應加強與所有權人溝通</span><span class="push-ipdatetime"> 05/27 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 想辦法讓他們願意自動保存</span><span class="push-ipdatetime"> 05/27 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckdot</span><span class="f3 push-content">: 而非單一透過指定與對立</span><span class="push-ipdatetime"> 05/27 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Neytirina</span><span class="f3 push-content">: 沒有恐怖份子  鬼島現在觀光景點少一半ㄅ ㄏ</span><span class="push-ipdatetime"> 05/29 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neytirina</span><span class="f3 push-content">: 以前一對日式房子也是被說沒價值  結果現在一堆人愛去</span><span class="push-ipdatetime"> 05/29 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neytirina</span><span class="f3 push-content">: 也不是放的久就有價值好不好，日治台灣數一數二的大戲</span><span class="push-ipdatetime"> 05/29 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neytirina</span><span class="f3 push-content">: 院，最大的圓頂，可以詮釋庶民文化集體記憶的好地方，</span><span class="push-ipdatetime"> 05/29 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neytirina</span><span class="f3 push-content">: 八卦不知道遺產維護在幹嘛的酸宅只會用物質性的年代久</span><span class="push-ipdatetime"> 05/29 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neytirina</span><span class="f3 push-content">: 遠酸人家沒有價值，阿就停留在二十世紀初期的維護思維</span><span class="push-ipdatetime"> 05/29 22:04
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495887854.A.6C9.html?cacheKey=2052-2072669&offset=4666&offset-sig=bb5dd23ea14fea443417a128ef5f67236cd9aa2b" data-longpollurl="/v1/longpoll?id=15eee1ad2a76d235031622ba85f42a21c8e9765c" data-offset="4666"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,287 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495458378.A.498.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 員工也想加班？21位綠委連署「一例一休」 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:The News Lens 關鍵評論網
+https://www.thenewslens.com/article/68873
+2.完整新聞標題:
+員工也想加班？21位綠委連署「一例一休」放寬加班上限
+2017/05/22, 政治
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 員工也想加班？21位綠委連署「一例一休」">
+<meta property="og:description" content="1.媒體來源:The News Lens 關鍵評論網
+https://www.thenewslens.com/article/68873
+2.完整新聞標題:
+員工也想加班？21位綠委連署「一例一休」放寬加班上限
+2017/05/22, 政治
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495458378.A.498.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495458378.A.498.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Lxr (鍵盤李組長)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 員工也想加班？21位綠委連署「一例一休」</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 21:06:12 2017</span></div>
+1.媒體來源:The News Lens 關鍵評論網
+<a href="https://www.thenewslens.com/article/68873" target="_blank" rel="nofollow">https://www.thenewslens.com/article/68873</a>
+
+2.完整新聞標題:
+員工也想加班？21位綠委連署「一例一休」放寬加班上限
+2017/05/22, 政治
+
+3.完整新聞內文:
+
+（中央社）
+
+民進黨立委何欣純今天說，他們將對一例一休啟動修法，將每月加班46小時的上限，改為
+3個月為一期總量勻支使用，但單月不得超過54小時；<span class="f3 hl">而休息日的加班時數，則改為核實</span>
+<span class="f3 hl">計算</span>。
+
+政府推動的一例一休勞基法修法上路至今，社會反應不一，何欣純與民進黨立委許智傑、
+陳賴素美、張廖萬堅、陳素月、黃國書、黃秀芳等人今天舉行記者會，表示將對一例一休
+提出修法。
+
+何欣純說，肯定政府推動週休二日，但同時也要啟動修法，增加現行一例一休版本的彈性
+，希望創造勞資與經濟三贏的狀況。而這修法版本，盼在本會期休會前一讀，若各界都支
+持，也可在臨時會處理，不然下會期再排入委員會討論也可以。
+
+她說，這次修法重點，第一是將休息日加班時數，以及工資改為核實計算，將現行的「做
+1算4，做5算8」改為核實計算，才不會讓勞工看得到吃不到；第二，現行的加班時數每月
+不能超過46小時，在這情況下，勞資的彈性空間較小，所以也要修。
+
+何欣純進一步說，因此在不變動原有的條文的情況下，加上一個但書，就是經勞資會議同
+意後，得以3個月為一期總量勻支使用，單月最多不得超過54小時，這增加了彈性，這也
+是採用歐美國家的「工時賬戶制」，讓勞資能去協調。
+
+何欣純說，第三個修法重點，就是若該年沒修完的特休假，將修法規定雇主應發給工資，
+或延長最多兩年，這樣的雙軌制能夠更有彈性。
+
+民進黨立委黃國書則表示，現在社會有非常多的民怨，民怨之首就是一例一休，而一例一
+休定了非常多的僵硬的細節，也讓過去勞資關係產生變化，<span class="f3 hl">這民怨若不去調整，他擔心最</span>
+<span class="f3 hl">後會動搖國本</span>。
+
+他說，希望這次提出的修法版本，能夠讓政府與立法院之間，有一個再討論的機會，希望
+大家能夠來去思考，訂一些更務實、合乎勞動需求權益的方案出來。
+
+蘋果報導，何欣純說，這是讓勞資雙方有協議空間，資方可以趕工、拼經濟，勞方也能拿
+得到加班費，且進一步來說，<span class="f3 hl">即使最多加班到54小時，除以每個月上班22天，每天也只多</span>
+<span class="f3 hl">加2.4小時</span>，不會超過法定一天最長的12小時工時。
+
+陳素月說，一例一休立意良善，<span class="f3 hl">基層勞工卻反應實質收入減少，「有人早上上班，晚上去</span>
+<span class="f3 hl">火鍋店打工」</span>，希望美意不要變調；陳賴素美也指出，有<span class="f3 hl">資方揚言政府管這麼緊，要撤出</span>
+<span class="f3 hl">台灣</span>，「我們雖然穿著衣服改衣服，但這衣服確實不合身」。
+
+新頭殼報導，張廖萬堅則表示，一例一休通過後本來大家都很期待，能讓企業主真正落實
+勞工周休二日，但實施後<span class="f3 hl">中南部中小企業勞資雙方都因缺乏彈性而不滿</span>，很多企業主因為
+無法支付加班費，便規定一律不准加班，讓不少勞工薪資不增反減。
+
+風傳媒報導，對於林全堅稱目前不會修法調整一例一休，共同提案的立委許智傑則舉例，
+有些產業在<span class="f3 hl">一例一休上路後，周末不敢讓員工加班，反而是雇用薪資更低的臨時工，員工</span>
+<span class="f3 hl">想加班也無法</span>，基層有聲音希望調整，他會說服行政院。
+
+社會民主黨全國委員苗博雅則在臉書表示，「當初執政黨說一例一休有多棒，砍七天假換
+一例一休是對勞工好，講得天花亂墜，立委在立法院護航快速闖關。這些委員還記得嗎？
+勞工一例一休加班費還沒領到，立委就要提案砍掉。現在每月加班上限46小時，立委提案
+可彈性加到54小時......七天假還來啦！」
+
+---------
+
+員工想加班，阿苗不要亂！
+每天也只多加兩個半小時！
+不讓員工加班會動搖國本！
+老闆周末不敢讓員工打卡！
+管這麼嚴資方會撤出台灣！
+
+是因為政府管太多，而不是薪水太低
+才會讓勞工必須「早上上班、晚上兼差」
+民進黨才是真正體貼勞工、苦民所苦的好政黨！
+
+--
+我常跟行家講，1.__董是我偶像，工程搶過來不必自己做，十億先拿走五億，接下來發包
+兩轉三轉四五六七八轉，你不賺錢想辦法偷工減料，再跟2.______勾結追加三、五億預算
+。這個工程下來，我看你起碼拿走七億，3.____我們這麼一點點的錢，你有沒有良心啊!
+Q：請填入電影《黑金》的正確台詞：
+1.(A)周 (B)徐 (C)趙 2.(A)營建署 (B)縣政府 (C)高公局 3.(A)多扣 (B)分給 (C)三砲
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.134.234.121
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495458378.A.498.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495458378.A.498.html</a>
+</span><span class="f2">※ 編輯: Lxr (220.134.234.121), 05/22/2017 21:12:13
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 怎麼不做個加薪跟加班選哪個的問卷，幹</span><span class="push-ipdatetime"> 05/22 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yushenglu</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PietroConti</span><span class="f3 push-content">: 那七天假還來啊！</span><span class="push-ipdatetime"> 05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">suhaw</span><span class="f3 push-content">: 砍老子的價 在他嗎 的說要我加班? 幹</span><span class="push-ipdatetime"> 05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 提高薪資 誰想他嗎的加班?</span><span class="push-ipdatetime"> 05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Halu5566</span><span class="f3 push-content">: 總的來說 就是民進黨砍你七天假還想演好人</span><span class="push-ipdatetime"> 05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">odd5566</span><span class="f3 push-content">: 可不可以發動罷免蔡英文阿...................</span><span class="push-ipdatetime"> 05/22 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lesnaree2</span><span class="f3 push-content">: 不想加班的都是滯台支那9.2 支持吳敦義</span><span class="push-ipdatetime"> 05/22 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opnash</span><span class="f3 push-content">: 背刺才是最高境界</span><span class="push-ipdatetime"> 05/22 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a9104324</span><span class="f3 push-content">: 當初硬是要通過是在三X...</span><span class="push-ipdatetime"> 05/22 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 砍價，延長加班，可是沒握方向盤不算工時， 所以工時還是</span><span class="push-ipdatetime"> 05/22 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jackloutter</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 降低的。</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 罷免啦，拎北工作辭一辭去幫忙</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YKM519</span><span class="f3 push-content">: 明年會改成一年唯一期嗎嗎</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lX</span><span class="f3 push-content">: 民進黨的魔術  砍7天假 物價漲一波 再減少加班費  科科</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 員工還想加薪呢，你他媽怎麼不提案強制加薪10%</span><span class="push-ipdatetime"> 05/22 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">milkQ</span><span class="f3 push-content">: 每天只多加2.4小時。。看到這局話整個火大</span><span class="push-ipdatetime"> 05/22 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nevhir</span><span class="f3 push-content">: 加薪免談 但加工時OK的</span><span class="push-ipdatetime"> 05/22 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sincere77</span><span class="f3 push-content">: 唉.. 真的是一堆人被騙以為民進黨真的會「照顧勞工」了</span><span class="push-ipdatetime"> 05/22 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 10%？比照軍公教加為250%才對吧，一副沒8.7萬會死人的樣子</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><span class="f2">※ 編輯: Lxr (220.134.234.121), 05/22/2017 21:15:59
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">paul0917</span><span class="f3 push-content">: 下次選舉一定要把這21個立委拿來複習</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">netion</span><span class="f3 push-content">: 整個偏向資方偏的亂七八糟，比kmt還誇張</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">edfiv</span><span class="f3 push-content">: 罷免+1  幹垃圾總統做成這樣520沒發表任何談話只會躲在家裡</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edfiv</span><span class="f3 push-content">: 玩狗 要他有屁用</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fan5566</span><span class="f3 push-content">: 爽啦 超想加班</span><span class="push-ipdatetime"> 05/22 21:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SoMnUs</span><span class="f3 push-content">: 資進黨: 這不是讓你加班了嗎^_&lt; 有問題自己去跟老闆說</span><span class="push-ipdatetime"> 05/22 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 劉世芳還想選市長，幹</span><span class="push-ipdatetime"> 05/22 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">caserchen</span><span class="f3 push-content">: 公雞變飼主</span><span class="push-ipdatetime"> 05/22 21:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nowitzki0207</span><span class="f3 push-content">: 勞工想增加時數多賺錢臭了嗎</span><span class="push-ipdatetime"> 05/22 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 幹 那些選區的 記得補刀</span><span class="push-ipdatetime"> 05/22 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">olddadwind</span><span class="f3 push-content">: 垃圾資進黨</span><span class="push-ipdatetime"> 05/22 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 05/22 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 64芳看起來就一臉資方臉</span><span class="push-ipdatetime"> 05/22 21:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mow1982</span><span class="f3 push-content">: 財團&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;勞工。</span><span class="push-ipdatetime"> 05/22 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kazekaze</span><span class="f3 push-content">: dpper、吱吱：我好興奮啊。</span><span class="push-ipdatetime"> 05/22 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mradult</span><span class="f3 push-content">: 算什麼，何不改成每天上班10小時，不用那麼麻煩了</span><span class="push-ipdatetime"> 05/22 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tnjolin</span><span class="f3 push-content">: AAB</span><span class="push-ipdatetime"> 05/22 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mradult</span><span class="f3 push-content">: 永遠都說員工想加班，實質是薪水太低</span><span class="push-ipdatetime"> 05/22 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wakou109</span><span class="f3 push-content">: 垃圾資進黨 幹</span><span class="push-ipdatetime"> 05/22 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">j21802</span><span class="f3 push-content">: 幹你娘資進黨人渣最好全家死光</span><span class="push-ipdatetime"> 05/22 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">snew1209</span><span class="f3 push-content">: 贏太多</span><span class="push-ipdatetime"> 05/22 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">execration</span><span class="f3 push-content">: 最軟的一塊快被這些人挖死了，幹</span><span class="push-ipdatetime"> 05/22 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">milkQ</span><span class="f3 push-content">: 我現在的生活就是每天加班快3個小時，毫無生活品質，我只想</span><span class="push-ipdatetime"> 05/22 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Smile</span><span class="f3 push-content">: 把選區那些人渣立委記清楚</span><span class="push-ipdatetime"> 05/22 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milkQ</span><span class="f3 push-content">: 要休息，不想加班!!!資進黨還我七天假!!提高基本薪資!!!!</span><span class="push-ipdatetime"> 05/22 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">senhsiang</span><span class="f3 push-content">: 砍7天假~然後再用加班補~太不合理了吧</span><span class="push-ipdatetime"> 05/22 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 幹 這種不要臉的話都說的出來</span><span class="push-ipdatetime"> 05/22 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">penguinlove</span><span class="f3 push-content">: 請大家這次出一份自己的力量 罷免這些立委，不然這</span><span class="push-ipdatetime"> 05/22 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">penguinlove</span><span class="f3 push-content">: 些人永遠以為他們想怎樣就能怎樣</span><span class="push-ipdatetime"> 05/22 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">patoo</span><span class="f3 push-content">: 當初DPP趕著過一例一休 吹的多好多好 一群不要臉的垃圾</span><span class="push-ipdatetime"> 05/22 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BigDick56</span><span class="f3 push-content">: 勞工是民進黨最軟的那塊</span><span class="push-ipdatetime"> 05/22 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">liudwan</span><span class="f3 push-content">: 結果演了半天，砍假才是本體，其他一併歸位</span><span class="push-ipdatetime"> 05/22 21:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 幹你娘資進黨。</span><span class="push-ipdatetime"> 05/22 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 當初徐國勇還吹噓加班費*2.33 2.66起跳</span><span class="push-ipdatetime"> 05/22 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yangweiisi</span><span class="f3 push-content">: 恥力無下限的民進黨</span><span class="push-ipdatetime"> 05/22 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TheWho</span><span class="f3 push-content">: 推 怎麼不做個加薪跟加班選哪個的問卷</span><span class="push-ipdatetime"> 05/22 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">patoo</span><span class="f3 push-content">: 當初DPP急著要過就是要硬幹掉七天假 現在馬腳露出來了吧</span><span class="push-ipdatetime"> 05/22 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leonian</span><span class="f3 push-content">: 垃圾資進黨</span><span class="push-ipdatetime"> 05/22 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">after1</span><span class="f3 push-content">: 資進黨  開工囉~</span><span class="push-ipdatetime"> 05/22 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: 頗呵</span><span class="push-ipdatetime"> 05/22 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 原本的規定, 對旅遊、觀光業,真的很難適用</span><span class="push-ipdatetime"> 05/22 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Arctica</span><span class="f3 push-content">: 快瘋了這些智障政客…</span><span class="push-ipdatetime"> 05/22 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">freener</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 05/22 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">delegate</span><span class="f3 push-content">: 垃圾民進黨 罷免爛立委</span><span class="push-ipdatetime"> 05/22 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 許多有產業淡旺季季的, 一些生產線的行業也不合宜</span><span class="push-ipdatetime"> 05/22 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">light20735</span><span class="f3 push-content">: 民進黨真爛</span><span class="push-ipdatetime"> 05/22 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomandnico</span><span class="f3 push-content">: 老闆可以彈性奴工</span><span class="push-ipdatetime"> 05/22 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yukaiw</span><span class="f3 push-content">: 資進黨黨工不死，台灣不會好</span><span class="push-ipdatetime"> 05/22 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dgfly</span><span class="f3 push-content">: 一群白痴智障立委擺明討好財團</span><span class="push-ipdatetime"> 05/22 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iphyf</span><span class="f3 push-content">: 該發動罷免了</span><span class="push-ipdatetime"> 05/22 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">reppoc</span><span class="f3 push-content">: 嫌民調不夠低？</span><span class="push-ipdatetime"> 05/22 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Shermie</span><span class="f3 push-content">: 再投民進黨我跟你姓</span><span class="push-ipdatetime"> 05/22 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ARPG</span><span class="f3 push-content">: 砍老子七天假，我用選票讓你們嘗嘗 勞工有多軟</span><span class="push-ipdatetime"> 05/22 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hibiscus520</span><span class="f3 push-content">: 2018全面補刀資進黨/2020資進黨再補刀</span><span class="push-ipdatetime"> 05/22 23:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ueewen</span><span class="f3 push-content">: 言而無信是渣！</span><span class="push-ipdatetime"> 05/22 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tim19871026</span><span class="f3 push-content">: 垃圾不分藍綠!!</span><span class="push-ipdatetime"> 05/23 04:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cfwang</span><span class="f3 push-content">: 資進黨不意外</span><span class="push-ipdatetime"> 05/23 07:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">heartblue</span><span class="f3 push-content">: 吱吱呢？裝死裝到什麼時候？</span><span class="push-ipdatetime"> 05/23 08:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">z2v2r2mk2</span><span class="f3 push-content">: 我是想加薪，不是想加班阿幹</span><span class="push-ipdatetime"> 05/23 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">maybecry</span><span class="f3 push-content">: 無恥資進黨</span><span class="push-ipdatetime"> 05/23 08:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chancing</span><span class="f3 push-content">: 幹你娘</span><span class="push-ipdatetime"> 05/23 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kaiod</span><span class="f3 push-content">: 綠色執政品質保證 真是TMD笑話</span><span class="push-ipdatetime"> 05/23 11:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">puresugar</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/23 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dppkmt</span><span class="f3 push-content">: 明年大家等著看～</span><span class="push-ipdatetime"> 05/23 13:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serval623</span><span class="f3 push-content">: 資本賤畜黨</span><span class="push-ipdatetime"> 05/23 20:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spider2</span><span class="f3 push-content">: 是調加班上限，真的不懂對不想加班的人有什麼影響？想加</span><span class="push-ipdatetime"> 05/23 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">spider2</span><span class="f3 push-content">: 班的為什麼不能多賺點錢？</span><span class="push-ipdatetime"> 05/23 21:05
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495458378.A.498.html?cacheKey=2052-36941458&offset=12799&offset-sig=05da9f6ab0f4bd036183057dc658e1e584b65b27" data-longpollurl="/v1/longpoll?id=b9e5960ab775c4bc9de19481d0e76fcfc251aaad" data-offset="12799"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

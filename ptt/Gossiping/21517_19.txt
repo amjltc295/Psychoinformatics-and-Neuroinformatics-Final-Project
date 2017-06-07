@@ -1,0 +1,340 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495950520.A.3E8.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞]「你領22K要檢討阿」  他：年輕人不只缺乏 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="好啦，爸媽那年代可能真的低薪
+可能真的月薪一萬多就能買房
+但問題是，現在房價跟物價跟當年差多少？
+更不要說，民國80幾年的時候，只要肯吃苦，薪水可能28000~35000起跳
+注意，是起跳，不是最高
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞]「你領22K要檢討阿」  他：年輕人不只缺乏">
+<meta property="og:description" content="好啦，爸媽那年代可能真的低薪
+可能真的月薪一萬多就能買房
+但問題是，現在房價跟物價跟當年差多少？
+更不要說，民國80幾年的時候，只要肯吃苦，薪水可能28000~35000起跳
+注意，是起跳，不是最高
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495950520.A.3E8.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495950520.A.3E8.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">nocesst (肥宅魔導師ﾍ(･_|)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞]「你領22K要檢討阿」  他：年輕人不只缺乏</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 13:48:32 2017</span></div>
+<span class="f2">※ 引述《IronCube (吃飽就要大便)》之銘言：
+</span><span class="f6">: ※ 引述《diefishfish ()》之銘言：
+</span><span class="f6">: : 「你領22K要檢討阿」　他：年輕人不只缺乏責任感，還很爛
+</span><span class="f6">: 為什麼領22k的不用檢討？
+</span><span class="f6">: 你就是在低能力標準、讀學店才會領22k啊
+</span><span class="f6">: 少在那邊說你爸媽領22k也能買房子
+</span><span class="f6">: 卻沒想到你爸媽那個年代普遍刀只讀高中國中
+</span><span class="f6">: 沒技術性沒考上公務員的都領不到九千一萬
+</span><span class="f6">: 所以學你爸媽去學技術做小生意做苦力不就好了
+</span><span class="f6">: 還在那邊安逸過一生 不檢討自己 活該拿22k
+</span><span class="f6">: : ▲年輕上班族示意圖。（圖／達志／示意圖）
+</span><span class="f6">: : 「為什麼人家可以年薪300萬，你在那邊領22K？
+</span><span class="f6">: : 我們公司還沒開過低於3萬2的薪水，你領22K要檢討阿。」台大環工博士畢業，如今是一
+</span><span class="f6">: : 家工程顧問公司負責人的Argus說，根據自己的面試經驗，當下年輕人不僅缺乏責任感，
+</span><span class="f6">: : 還很爛，奉勸年輕人出社會最重要的是態度，「什麼叫很爛？25歲剛畢業的人，最基本的
+</span><span class="f6">: : word都不會，碩士畢業爛到一塌糊塗。」
+</span><span class="f6">: : Argus表示，在環工領域，台大碩士畢業的行情約落在3萬8千元到4萬5千元之間，過去面
+</span><span class="f6">: : 試員工時，自己多半會讓對方開薪水，曾有人開出月薪4萬8千元的條件，最後錄取，結果
+</span><span class="f6">: : 程度卻很離譜，「連word用尺規定義都不會，還在用空格排版，一看就是不常寫報告，這
+</span><span class="f6">: : 種人很多，我用過太多了，而且很多是名校的，台清大我都請過這種人，就是該會的都沒
+</span><span class="f6">: : 有會阿，你看台灣的教育爛成這樣子。」
+</span><span class="f6">: : 「我都會問：你覺得你應該拿多少？」Argus說，曾遇過台大環工的學弟來面試，開價僅3
+</span><span class="f6">: : 萬3千元，這讓自己嚇一跳，「我就說：你是我學弟耶，你開那麼低，我還不敢用耶。」
+</span><span class="f6">: : 他強調即使對方開高也沒關係，因為《勞基法》雖保障勞工，卻也賦予老闆一項權利──
+</span><span class="f6">: : 資遣，「所以我會照勞基法，在一個月內看他表現，薪水很高沒關係，一個月內我覺得他
+</span><span class="f6">: : 不行就走人。」
+</span><span class="f6">: : 「我希望用男生是當過兵的，什麼替代役的，我不太喜歡用。」Argus強調，目前當兵只
+</span><span class="f6">: : 要10個月，如果連役期這麼短都會閃躲的人根本無法培養。一旦錄取，自己會在剛開始的
+</span><span class="f6">: : 1個月內傾囊相授，「但也可能遇到一種狀況，他原本底子實在太爛了，教都教到很累，
+</span><span class="f6">: : 那就沒辦法了，我一定要換掉他。」
+</span><span class="f6">: : 談起年輕人低薪的問題，Argus直言，其實社會上年薪達到300萬元的人不少，「為什麼人
+</span><span class="f6">: : 家可以年薪300萬，你在那邊領22K？我們公司還沒開過低於3萬2的薪水，你領22K要檢討
+</span><span class="f6">: : 阿。」他強調，年輕人出社會要成功，50％看學歷、技能，剩下50％是看工作態度，「但
+</span><span class="f6">: : 現在我們發現，年輕人他就是沒有責任感，沒有責任感就算了，他還很爛，什麼叫很爛？
+</span><span class="f6">: : 25歲剛畢業的人，最基本的word都不會，碩士畢業爛到一塌糊塗，間距只會用空格調來調
+</span><span class="f6">: : 去，一本報告看起來很醜，就算教他，回家還是不肯學。」
+</span><span class="f6">: : Argus舉例，自己第一份工作是下水道設計的工程師，必須學會Auto Cad，「我以前很爛
+</span><span class="f6">: : ，是買書回家自己練習，把它搞會，我一個禮拜就變得很厲害。」他說，目前接觸到的年
+</span><span class="f6">: : 輕人卻不然，即使問了作法也是隨便弄，「如果我們要接一個1000萬的公部門案子，我就
+</span><span class="f6">: : 會問，你覺得一個人花1000萬在你身上，然後你交這種東西，過得了嗎？」
+</span><span class="f6">: : Argus直言，對企業而言，年輕人的程度不好沒關係，因為公司一旦錄用員工，就有花錢
+</span><span class="f6">: : 栽培的打算，只怕員工不上進，「如果你又不學的話，那你就沒救啦，因為年輕人都覺得
+</span><span class="f6">: : 企業養自己是應該的，沒去想過這個問題。」
+</span><span class="f6">: : ▼Argus認為，年輕人領22k的原因在於工作態度。（圖／資料照）
+</span><span class="f6">: : ett
+</span><span class="f6">: : <a href="http://www.ettoday.net/news/20170528/933535.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170528/933535.htm</a>
+</span><span class="f6">: -----
+</span><span class="f6">: Sent from JPTT on my iPhone
+</span>
+
+
+好啦，爸媽那年代可能真的低薪
+可能真的月薪一萬多就能買房
+
+但問題是，現在房價跟物價跟當年差多少？
+更不要說，民國80幾年的時候，只要肯吃苦，薪水可能28000~35000起跳
+
+注意，是起跳，不是最高
+
+這代表什麼？
+現在的社會薪資結構越活越過去啊
+
+民國80年左右，台北房價一坪2、30萬還輕鬆好找
+生活機能不錯、交通方便、附近就是學區之類的
+
+現在呢？這種地方可能一坪沒有7、80萬不用談
+連萬華很多的老公寓，在之前傳都更的時候
+都曾經暴漲到一坪8、90萬
+
+更不要說那時候的物價到現在起碼多一倍
+
+那薪水呢？
+薪水不要說多一倍
+反而還往後倒退
+
+
+
+
+
+許多人因為自己可能薪水夠了，就覺得是別人不努力
+卻完全忽視了在背後的薪資結構之類的問題
+只能說，這些成功的人，還真是有臉說啊
+
+
+-----
+Sent from JPTT on my Sony F8132.
+
+--
+→ lucky1lk: 你不知道 五樓把四樓膜弄破以後 就生出三樓了            05/12 20:49
+→ Originalvoid: 二樓見證了這一切                                  05/12 20:59
+推 windswith68: &lt;(★v★)/我愛把拔、我愛馬麻                        05/12 21:21
+推 Kristoflower: 五樓你說我是把拔還是馬麻                          05/12 21:24
+→ ciscoboy604: 樓上是把拔                                         05/12 21:29
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.216.242.195
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495950520.A.3E8.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495950520.A.3E8.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rr78</span><span class="f3 push-content">: 我覺得華爾街之狼講得比較好你要月領300萬 還是去麥當勞</span><span class="push-ipdatetime"> 05/28 13:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rr78</span><span class="f3 push-content">: 每個來面試的都想在辦公室吹冷氣當行政助理 你是要拿多高</span><span class="push-ipdatetime"> 05/28 13:51
+</span></div>我想說的是，現在社會低薪並不只單純是沒能力這個問題
+而是低薪結構造成的
+
+不然老實說，過去爸媽領一兩萬的，可能也是沒能力
+但為什麼買房過生活卻是沒有問題？
+
+因為薪水跟不上物價、房價的成長速度
+
+這才是應該解決的，而不是單純的指責年輕人沒能力、太安逸等
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JamesGO</span><span class="f3 push-content">: 反正也給不起麥當勞的薪水，就別酸了</span><span class="push-ipdatetime"> 05/28 13:53
+</span></div><span class="f2">※ 編輯: nocesst (49.216.242.195), 05/28/2017 13:54:29
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 人家在講甚麼 你在扯什麼？</span><span class="push-ipdatetime"> 05/28 13:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 標題就說了22K</span><span class="push-ipdatetime"> 05/28 13:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 先說說你自己是不是吃人頭路 老闆叫你做一動 你就只做一</span><span class="push-ipdatetime"> 05/28 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 動 不會多做  在講態度 你在扯什麼時代背景  不只態度不</span><span class="push-ipdatetime"> 05/28 13:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 好  還要找理由讓自己的無能合理化</span><span class="push-ipdatetime"> 05/28 13:58
+</span></div>扯個人扯不完啦，就算我說我會幫忙多做還是什麼的，你信也好，不信也好，都跟我無關
+
+
+我只是單純指出，台灣之所以處於低薪的狀態，並不是單純因為不努力或太安逸
+
+不然，有哪個國家的國民是八成的勞動力都領所謂的超級高薪？
+沒有啊，因為所謂的高薪就是對比出來的
+不然每年算中位數跟平均幹嘛？
+
+就是代表一定會有人的收入低於中位數跟平均
+問題是，這些收入低於中位數跟平均的人
+是否薪資是可以跟得上物價跟房價的成長？
+很明顯不能嘛
+
+再來，就不要說社會新鮮人大部分起薪也不會多好看了
+
+
+不要再把低薪都歸類到別人不努力好嗎？
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sid300</span><span class="f3 push-content">: 怪東怪西都不怪自己  怪社會怪房價高  自己努力了什麼</span><span class="push-ipdatetime"> 05/28 14:01
+</span></div>所以你不覺得房價過高？
+你覺得全民一起來炒房是對的？
+
+如果不是，那你是不是也在怪房價高？
+<span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:02:24
+</span><span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:03:19
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 【都是這個時代害的，害我這麼努力只能領一點點，嗯！一</span><span class="push-ipdatetime"> 05/28 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 定是這樣！】</span><span class="push-ipdatetime"> 05/28 14:04
+</span></div>我不太理解的是，怎麼就是會有人認為
+會去怪社會怪時代的就一定是不努力的人啊
+
+接受事實很難嗎？
+台灣就是陷入了低薪的結構
+勞工又整天內鬥
+領32k的批22k的
+領45k的批32k的
+
+結果最後還是爽到上面的人
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 推文展現原文內容</span><span class="push-ipdatetime"> 05/28 14:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 家母只當女工也在那時代買了透天</span><span class="push-ipdatetime"> 05/28 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 嫌高就不要買。 另外，現在什麼都反，反建設，反能源，</span><span class="push-ipdatetime"> 05/28 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 反到機會都沒了，經濟差只是剛好</span><span class="push-ipdatetime"> 05/28 14:06
+</span></div>所以窮人活該沒房住？
+還是低薪活該沒房住？
+
+拜託，你以為台灣各地全部建築都是豪宅？
+現在台灣房價就是扣除掉豪宅意外的一般建築高到買不起
+
+不是嫌貴不要買，是就算想買也買不起
+
+房價膨脹成這樣，誰的問題？
+
+不要再忽略現實了好嗎
+
+
+事實就是，爸媽那年代的低薪可以買房
+為什麼現在不行？
+
+因為有人在默默偷人民的錢
+結果人民還在內鬥
+<span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:06:30
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 今天是在談態度，而非買不買房。</span><span class="push-ipdatetime"> 05/28 14:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 我高雄 我賭爛陳菊把高雄弄到沒經濟建設 還一堆笨蛋挺</span><span class="push-ipdatetime"> 05/28 14:07
+</span></div>照你的邏輯來看，怪陳菊幹嘛？
+只要態度正確，應該就能高薪啊
+幹嘛管建設、經濟問題？
+<span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:08:56
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 態度這麼好的情況下 花媽應該不是你的絆腳石啊</span><span class="push-ipdatetime"> 05/28 14:09
+</span></div><span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:10:07
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 那就拿出你的投票權去制裁</span><span class="push-ipdatetime"> 05/28 14:10
+</span></div>你態度這麼好幹嘛要制裁誰
+你應該不需要靠陳菊啊
+<span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:11:59
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 確實對我沒什麼影響 是對一堆說一動做一動裝死的有影響</span><span class="push-ipdatetime"> 05/28 14:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 有種幹話很多  別人不能抱怨  自己可以唷 ○△○</span><span class="push-ipdatetime"> 05/28 14:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 領22k 態度差 還愛辯  活在網路世界吧</span><span class="push-ipdatetime"> 05/28 14:13
+</span></div>對你沒影響，那你剛剛上面在說什麼啊
+平行世界還是切割自己
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 別人領高他薪水就會下降阿</span><span class="push-ipdatetime"> 05/28 14:13
+</span></div><span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:14:40
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 哪句看出對我有影響？幻想症嗎？</span><span class="push-ipdatetime"> 05/28 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 你還是主動一點 魯蛇臉 在網路上多砲你的薪資也不會上升</span><span class="push-ipdatetime"> 05/28 14:15
+</span></div>奇怪，對你沒影響，你賭爛陳菊幹嘛
+真的對你沒影響的話，陳菊做什麼應該都不會影響到你啊
+賭爛什麼？
+
+對了，其實上網嘴炮的確不會增加我的薪水，不過我還滿愛的
+
+至少我知道要講出這些東西之前要先看些書
+而不是看些勵志小語說不要總是怪別人，應該要看看自己
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 看這態度是當業務的人才呢</span><span class="push-ipdatetime"> 05/28 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 魯蛇b</span><span class="push-ipdatetime"> 05/28 14:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">: 魯蛇a 房價要馬想辦法改變它 不然就只能接受或改變自己</span><span class="push-ipdatetime"> 05/28 14:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">itshard</span><span class="f3 push-content">:  不然砲再多你也只是虛度光陰</span><span class="push-ipdatetime"> 05/28 14:19
+</span></div>想改變房價問題，首先就是要搞懂這社會到底為什麼買不起
+
+因為高房價是對比出來的
+其中一項就是低薪結構
+
+結果你開頭就說不要怪別人，應該怪自己
+
+那要討論什麼咧
+<span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:20:36
+</span><span class="f2">※ 編輯: nocesst (101.14.132.118), 05/28/2017 14:24:02
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 這種態度 應該是百萬業務吧？ 眾人皆魯</span><span class="push-ipdatetime"> 05/28 14:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dodomomo222</span><span class="f3 push-content">: 現在台灣社會的問題就是壟斷，所有的東西都是，瓦斯</span><span class="push-ipdatetime"> 05/28 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dodomomo222</span><span class="f3 push-content">: 都是欣字輩，百多台電視老闆都是差不多的人，一大堆</span><span class="push-ipdatetime"> 05/28 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dodomomo222</span><span class="f3 push-content">: 產業都是那些之前用奇怪方式卡位的老人，下面的人賺</span><span class="push-ipdatetime"> 05/28 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dodomomo222</span><span class="f3 push-content">: 不到，上面的人年年賺更多，所以平均薪資年年成長，</span><span class="push-ipdatetime"> 05/28 14:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dodomomo222</span><span class="f3 push-content">: 但是基層的薪資卻年年退步</span><span class="push-ipdatetime"> 05/28 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ktdsick</span><span class="f3 push-content">:  有時間砲房價、砲低薪，就是沒時間去看自己憑什麼。</span><span class="push-ipdatetime"> 05/28 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooppking</span><span class="f3 push-content">: 好笑的是領高薪的專業人士一堆都不夠專業</span><span class="push-ipdatetime"> 05/28 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WinRARdotrar</span><span class="f3 push-content">: 哈哈態度哈哈</span><span class="push-ipdatetime"> 05/29 04:29
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495950520.A.3E8.html?cacheKey=2052-1050659&offset=10633&offset-sig=48fb87b3584c23039668eb0cf0525f8a8ffb03eb" data-longpollurl="/v1/longpoll?id=6a6827887134c4817301f24ea41f6f4775acc387" data-offset="10633"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

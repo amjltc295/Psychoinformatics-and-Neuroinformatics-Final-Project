@@ -1,0 +1,153 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495711277.A.773.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 兩萬塊以下的筆電都不要買? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="餓死抬頭
+本魯的這台文書機才征戰兩年半就已經步入老年狀態
+可以說是速度慢到撐得上奇蹟
+原本想說記憶體不夠力想說加一條
+沒想到一問才發現本魯當初就買了糞存貨
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 兩萬塊以下的筆電都不要買?">
+<meta property="og:description" content="餓死抬頭
+本魯的這台文書機才征戰兩年半就已經步入老年狀態
+可以說是速度慢到撐得上奇蹟
+原本想說記憶體不夠力想說加一條
+沒想到一問才發現本魯當初就買了糞存貨
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495711277.A.773.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495711277.A.773.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">galaxybombbb (棒棒棒)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 兩萬塊以下的筆電都不要買?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 19:21:14 2017</span></div>
+餓死抬頭
+
+本魯的這台文書機才征戰兩年半就已經步入老年狀態
+可以說是速度慢到撐得上奇蹟
+原本想說記憶體不夠力想說加一條
+沒想到一問才發現本魯當初就買了糞存貨
+根本沒有加記憶體的必要 救都救不了
+
+不打聽不知道 一打聽原來不到兩萬的筆電
+根本都只是廠商想清楚囤積兩年以上的存貨
+
+有沒有不到兩萬塊的筆電都不要買的卦?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.247.45.219
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495711277.A.773.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495711277.A.773.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">utamaru</span><span class="f3 push-content">: 幹嘛不換SSD</span><span class="push-ipdatetime"> 05/25 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenyeart</span><span class="f3 push-content">: 是</span><span class="push-ipdatetime"> 05/25 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 現在筆電沒4萬都不要買了 你還買2萬的</span><span class="push-ipdatetime"> 05/25 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 沒SSD的電腦都是垃圾，就算3~5萬也一樣。</span><span class="push-ipdatetime"> 05/25 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 專版</span><span class="push-ipdatetime"> 05/25 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sowgotoHELL</span><span class="f3 push-content">: 我asus筆電買3萬用快2年  有夠難用 準備換蘋果</span><span class="push-ipdatetime"> 05/25 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a741085</span><span class="f3 push-content">: 你可以先花一顆256GSSD續命看看  還是慢的話就放生吧</span><span class="push-ipdatetime"> 05/25 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Number41</span><span class="f3 push-content">: 那一萬元的變形筆電呢？</span><span class="push-ipdatetime"> 05/25 19:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ykesha</span><span class="f3 push-content">: 一堆XP電腦都還在跑文書 筆電在差至少還能跑LOL吧XDD</span><span class="push-ipdatetime"> 05/25 19:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dreamer48763</span><span class="f3 push-content">: 我朋友買一台7000的文書機 半年就爆</span><span class="push-ipdatetime"> 05/25 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ykesha</span><span class="f3 push-content">: 兩萬不差了 都可以買i7的筆電 跑跑不開特效的遊戲挺順</span><span class="push-ipdatetime"> 05/25 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnublue</span><span class="f3 push-content">: 我華碩筆電買6.5k當文書機 到現在兩年也還勉強堪用</span><span class="push-ipdatetime"> 05/25 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">huei252</span><span class="f3 push-content">: 重點是你的用途,文書處理,還是拿來玩GTA5 ?</span><span class="push-ipdatetime"> 05/25 19:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">galaxybombbb</span><span class="f3 push-content">: 加碼說個笑話 本魯筆電開spotify跟chrome效能使用98</span><span class="push-ipdatetime"> 05/25 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikepopkimo</span><span class="f3 push-content">: 筆電不要玩3A大作，散熱不好，硬體效能較同級桌機矮</span><span class="push-ipdatetime"> 05/25 19:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sellgd</span><span class="f3 push-content">: 我都買萬初的4核ATOM很好用 加到4或8G 512G</span><span class="push-ipdatetime"> 05/25 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikepopkimo</span><span class="f3 push-content">: 一大截</span><span class="push-ipdatetime"> 05/25 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">brianuser</span><span class="f3 push-content">: 我EEEPC都還可以用</span><span class="push-ipdatetime"> 05/25 19:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kice1204</span><span class="f3 push-content">: 一萬一年，一分錢一分貨。</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">night957</span><span class="f3 push-content">: SSD是起死回生丹</span><span class="push-ipdatetime"> 05/25 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">caesst85149</span><span class="f3 push-content">: 我這台2萬Acer已經用了9年</span><span class="push-ipdatetime"> 05/25 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linqqq007</span><span class="f3 push-content">: 買個480G的SSD應該就很猛了</span><span class="push-ipdatetime"> 05/25 19:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zero2768</span><span class="f3 push-content">: 直接上勞</span><span class="push-ipdatetime"> 05/25 20:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AnpingTW</span><span class="f3 push-content">: 華碩eeebook不到一年已快不行</span><span class="push-ipdatetime"> 05/25 21:31
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495711277.A.773.html?cacheKey=2052-1376317&offset=2991&offset-sig=11e655296b2202cf5ed2c954cb9fa4baa7da9fd4" data-longpollurl="/v1/longpoll?id=306f38f5923bbd61d2c372512099bf99c56a49d3" data-offset="2991"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

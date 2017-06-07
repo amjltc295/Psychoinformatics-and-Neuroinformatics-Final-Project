@@ -1,0 +1,155 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495652428.A.C9A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] jp - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="常
+: 留言，然後一堆男生超哈的，有這方面ㄉ八卦嗎？還是jp是大正妹？有圖嗎！！
+Jet Fuel（JP）的簡稱，也就是現在飛機的主要燃料來源
+古早古早以前還是屬於“航空汽油”的階段（也就是螺旋槳的活塞發動機）
+後來進入渦輪噴射的時代就有了各式的航空用燃油
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] jp">
+<meta property="og:description" content="常
+: 留言，然後一堆男生超哈的，有這方面ㄉ八卦嗎？還是jp是大正妹？有圖嗎！！
+Jet Fuel（JP）的簡稱，也就是現在飛機的主要燃料來源
+古早古早以前還是屬於“航空汽油”的階段（也就是螺旋槳的活塞發動機）
+後來進入渦輪噴射的時代就有了各式的航空用燃油
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495652428.A.C9A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495652428.A.C9A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ispy03532003 (臭酸肥它)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] jp</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 03:00:25 2017</span></div>
+<span class="f2">※ 引述《Smiletome (添加物)》之銘言：
+</span><span class="f6">: 板上目前就幾個id玩5樓梗，不然就是每篇都留言，不過呀有一個jp好像是葛女森又常
+</span>常
+<span class="f6">: 留言，然後一堆男生超哈的，有這方面ㄉ八卦嗎？還是jp是大正妹？有圖嗎！！
+</span>Jet Fuel（JP）的簡稱，也就是現在飛機的主要燃料來源
+古早古早以前還是屬於“航空汽油”的階段（也就是螺旋槳的活塞發動機）
+後來進入渦輪噴射的時代就有了各式的航空用燃油
+商用/民規的肥宅我不熟，軍規的比較熟一點
+現在主要的型號以研發時期是JP1~8號+A/A1+B為主
+軍用機的話，如果是上個世代的三或四代機
+用的是jp-4or5，尤其是jp-4，用途最廣的就是這款
+至於jp-6跟7，6還沒什麽，但jp-7就有點強了
+美軍最傳奇性的SR-71黑鳥偵察機的那兩顆J58發動機吃的就是這個
+而且是專門開發出來的，為的就是讓黑鳥在執行高空偵查時藉由jp7的冰點很低（沒記錯
+的話好像有到零下400度以下的實力）的特性讓供油正常不易結冰
+jp-8就沒什麼疑問了，美軍現役定翼飛行器的通用燃料
+
+jeta/a1跟jet-b就比較偏商用，沒去深入了解
+大丐4醬
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.141.196.108
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495652428.A.C9A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495652428.A.C9A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uke3458</span><span class="f3 push-content">: 底下開放分屍jp = =</span><span class="push-ipdatetime"> 05/25 03:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: Jet Fuel 為什麼是JP</span><span class="push-ipdatetime">05/25 03:01
+</span></div>應該是這個p= Propellant，我上面那個是俗稱而已
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clark2644</span><span class="f3 push-content">: U文</span><span class="push-ipdatetime">05/25 03:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Allison511</span><span class="f3 push-content">: 原來是這個樣子啊</span><span class="push-ipdatetime">05/25 03:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈 不要再回惹</span><span class="push-ipdatetime">05/25 03:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rely0907</span><span class="f3 push-content">: 豪像很厲害呢</span><span class="push-ipdatetime">05/25 03:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maple0425</span><span class="f3 push-content">: 好喔</span><span class="push-ipdatetime">05/25 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">henry3744</span><span class="f3 push-content">: 原來是這樣啊～</span><span class="push-ipdatetime">05/25 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JingP</span><span class="f3 push-content">: 就軍航使用的航空煤油啊</span><span class="push-ipdatetime"> 05/25 03:06
+</span></div>妳平常都吃幾號的（誤）
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 什麼事，我騎士團沒跟到</span><span class="push-ipdatetime">05/25 03:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 哦哦哦 那個的話我就知道惹 玩KERBAL有碰到過(?</span><span class="push-ipdatetime">05/25 03:07
+</span></div><span class="f2">※ 編輯: ispy03532003 (223.141.196.108), 05/25/2017 03:09:47
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JingP</span><span class="f3 push-content">: JPTSㄛ 我喜歡U-2</span><span class="push-ipdatetime"> 05/25 03:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zy116pj</span><span class="f3 push-content">: 我很討厭U2合唱團</span><span class="push-ipdatetime"> 05/25 03:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JingP</span><span class="f3 push-content">: U-2是偵察機啦......</span><span class="push-ipdatetime"> 05/25 04:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495652428.A.C9A.html?cacheKey=2052-1135589&offset=2664&offset-sig=ec49597fe98a4481b0fff17d1f923adda5a27e60" data-longpollurl="/v1/longpoll?id=cf298c45195d82eadf3b792a15b8b7c5b5002fa4" data-offset="2664"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

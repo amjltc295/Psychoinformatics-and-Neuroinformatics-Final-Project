@@ -1,0 +1,362 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495851938.A.848.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 世大運臉書未經同意盜用廣告平面肖像權 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="呵呵～這製作是有多邊緣？若真有問題?先不尋正常管道溝通補救，却直接在世大運臉書
+放炮?
+現被打臉了，趕快出來倒歉吧
+世大運臉書的回應
+Taipei 2017 Universiade - 世大運
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 世大運臉書未經同意盜用廣告平面肖像權">
+<meta property="og:description" content="呵呵～這製作是有多邊緣？若真有問題?先不尋正常管道溝通補救，却直接在世大運臉書
+放炮?
+現被打臉了，趕快出來倒歉吧
+世大運臉書的回應
+Taipei 2017 Universiade - 世大運
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495851938.A.848.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495851938.A.848.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">pinkgogo (coco)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 世大運臉書未經同意盜用廣告平面肖像權</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 10:25:35 2017</span></div>
+<span class="f2">※ 引述《iamyamashi (派大星是我兄弟)》之銘言：
+</span><span class="f6">: 好不容易有團隊拍了一支像樣的影片，結果世大運的工作人員
+</span><span class="f6">: 完全不尊重製作團隊和餐與拍攝運動員的肖像權
+</span><span class="f6">: 請大家幫高調！不要讓製作團隊和運動員的權益被損害了！
+</span><span class="f6">: <a href="https://tinyurl.com/y7dslb69" target="_blank" rel="nofollow">https://tinyurl.com/y7dslb69</a>
+</span><span class="f6">: <a href="http://imgur.com/a/zSCJV" target="_blank" rel="nofollow">http://imgur.com/a/zSCJV</a>  (臉書截圖)
+</span><span class="f6">: 文字內容：
+</span><span class="f6">: ------------------------------------------------
+</span><span class="f6">: 我是世大運宣傳影片的製作組製片張俊謙
+</span><span class="f6">: 對我而言能參與代表國家的片子感到莫名的幸運和榮幸
+</span><span class="f6">: 也為能與這支片子的導演尹國賢 Gavin Yin一起工作感到驕傲
+</span><span class="f6">: 參與這支影片的所有演員我也很清楚知道
+</span><span class="f6">: 每位演出的運動員所簽署的合約書及肖像權同意書
+</span><span class="f6">: 在播放媒體部分所簽署是影片的全媒體使用權
+</span><span class="f6">: 並沒有平面的肖像權使用權
+</span><span class="f6">: 我不知道在這個官網所看到的這張平面照片是經過誰的同意
+</span><span class="f6">: 在沒有同意使用的狀況下直接使用
+</span><span class="f6">: 將這件事提起是希望大家應尊重參與演出的運動員
+</span><span class="f6">: 這是他們的舞台
+</span><span class="f6">: 而不應被這樣的消費
+</span><span class="f6">: -------------------------------------------------
+</span><span class="f6">: 重點是張製片去世大運的臉書粉絲團反應這件事情之後
+</span><span class="f6">: 竟然被世大運粉絲團的小編一直裝死刪除文章
+</span><span class="f6">: <a href="https://tinyurl.com/yas3phko" target="_blank" rel="nofollow">https://tinyurl.com/yas3phko</a>
+</span><span class="f6">: <a href="http://imgur.com/a/wiMv3" target="_blank" rel="nofollow">http://imgur.com/a/wiMv3</a>
+</span><span class="f6">: 文字內容：
+</span><span class="f6">: --------------------------------------------------
+</span><span class="f6">: 柯文哲
+</span><span class="f6">: 柯市長
+</span><span class="f6">: 我樂於跟你分享
+</span><span class="f6">: 小編啊小編
+</span><span class="f6">: 我不懂為何你刪除我的貼文
+</span><span class="f6">: 還是我要常常分享給你
+</span><span class="f6">: -------------------------------------------------
+</span><span class="f6">: 越看越生氣，不知道這些人在搞什麼
+</span><span class="f6">: 拜託大家幫高調！
+</span><span class="f6">: 這應該算是有很大的八卦吧？
+</span>
+
+呵呵～這製作是有多邊緣？若真有問題?先不尋正常管道溝通補救，却直接在世大運臉書
+放炮?
+現被打臉了，趕快出來倒歉吧
+
+世大運臉書的回應
+
+Taipei 2017 Universiade - 世大運
+Hello, Jerry，我們沒有刪除過這篇文章喔！您可以點選
+
+<a href="https://m.facebook.com/photo.php?fbid=10155360552393436&amp;set=o.157215971120682&amp;" target="_blank" rel="nofollow">https://m.facebook.com/photo.php?fbid=10155360552393436&amp;set=o.157215971120682&amp;</a>
+type=3&amp;theater
+
+這個連結就可以看到了，我們並沒有刪文。
+
+另外，關於您提出的封面圖片使用授權問題，小編在您原本的貼文有回覆了，是您非常嚴
+重的誤解了。在這邊也再貼一次給您：
+
+1. <span class="f3 hl">世大運粉絲團上的封面圖片是由本支宣傳影片的得標廠商甲蟲創意正式提供給世大運
+</span><span class="f3 hl">宣傳的素材，並非世大運自行擷取的圖片</span>。
+2. <span class="f3 hl">您提出質疑後，甲蟲創意也出示了世大運官方封面圖片中出現的運動員的完整使用與
+</span><span class="f3 hl">肖像權同意書，且有附運動員本身的簽章與同意，其範圍包含了本支廣告與廣告衍生的影
+</span><span class="f3 hl">片、照片、姓名等</span>。
+3. 因此，世大運使用該圖作為封面圖片是完全合法且合理的！
+
+以上簡單說明，希望您能夠理解，並且還執行單位一個公道清白。我們都是愛體育、愛台
+灣的人，希望不要因為您個人的誤解，造成全體工作人員和運動員不必要的傷害。
+
+
+
+
+
+
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.214.32.46
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495851938.A.848.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495851938.A.848.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 低能製作以後黑到底了</span><span class="push-ipdatetime"> 05/27 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 這感覺就跟某帝雉號事件一樣</span><span class="push-ipdatetime"> 05/27 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rrr518</span><span class="f3 push-content">: ……到底真相是什麼咧</span><span class="push-ipdatetime"> 05/27 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 在業界的敢這樣玩 以後一定可以接國民黨的案子 這波賺</span><span class="push-ipdatetime"> 05/27 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">batt0909</span><span class="f3 push-content">: 哈，這制作多無知阿</span><span class="push-ipdatetime"> 05/27 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 不意外呀!通常肖像權都是授與廣告公司或是主辦單位使用</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twPenn</span><span class="f3 push-content">: 好複雜</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 而且這種事情一直狂POFB不事先去跟團隊連本來就很可疑</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">batt0909</span><span class="f3 push-content">: 同意書都出來了</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 正常是A--&gt;B授權，這個是A--&gt;C(廣告公司)--&gt;B 透過中間</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 廣告公司跟主辦單位要使用肖像權的範圍這麼多你這樣子</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 靠這麼狹小的定義範圍去授權 是要簽多少張合約書?</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 果然 昨天就說啦 合約拿出來一切就明白了</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mynewid</span><span class="f3 push-content">: 嘻嘻</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s50101</span><span class="f3 push-content">: 怎麼感覺就是故意想黑</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 買廣告公司的授權，A以為被B盜用，孰不知B買的是C的權</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 累死兩方的事情幹嘛?大家可都不是笨蛋</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">delphi1989</span><span class="f3 push-content">: 朝聖各種柯黑先噴再說</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 而不是A的權，A搞不懂就出來抗議。</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 昨天那篇對照之下 恩恩 抹黑文的可能性很大阿</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 而且這個堪稱製作人的人還自稱了解合約書喔~</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">micr430927</span><span class="f3 push-content">: 是想凹一筆錢嗎？</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 今年年初華航帝雉號的文鼎字型侵權事件跟這個很像</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 還有廣告影片會有製作人這個職位嗎?這點可能需要比較懂</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 的人解釋一下 我覺得很奇怪</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 只要是影片就會有製作人</span><span class="push-ipdatetime"> 05/27 10:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 不知道這篇會不會有人來喊高調了 嘻嘻</span><span class="push-ipdatetime"> 05/27 10:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">live1002</span><span class="f3 push-content">: 科科科</span><span class="push-ipdatetime"> 05/27 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 原來如此 我剛剛有去再看一遍工作人員列表有三個製作人</span><span class="push-ipdatetime"> 05/27 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 一定有製作人的啦</span><span class="push-ipdatetime"> 05/27 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">planethell</span><span class="f3 push-content">: 所以他為什麼會出來跳腳</span><span class="push-ipdatetime"> 05/27 10:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">patoo</span><span class="f3 push-content">: 人家球打回來了 張俊謙換你囉</span><span class="push-ipdatetime"> 05/27 10:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Eumenes30</span><span class="f3 push-content">: 柯黑的水準...要拿人錢還要抹人屎...</span><span class="push-ipdatetime"> 05/27 10:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 柯p就是英明哈哈</span><span class="push-ipdatetime"> 05/27 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 因為他以為他被侵權，不知道主辦單位買的是他賣給廣告</span><span class="push-ipdatetime"> 05/27 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 公司的權而不是直接找他買，沒錢賺自然跳出來罵了</span><span class="push-ipdatetime"> 05/27 10:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 製作自取其辱,搞不清楚狀況出來賣下限</span><span class="push-ipdatetime"> 05/27 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 有合約有真相，幫高調</span><span class="push-ipdatetime"> 05/27 10:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 柯P下台</span><span class="push-ipdatetime"> 05/27 10:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyeyskald</span><span class="f3 push-content">: 推 第一篇那些亂酸的id記得出來道歉</span><span class="push-ipdatetime"> 05/27 10:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray90910</span><span class="f3 push-content">: 幹 北七</span><span class="push-ipdatetime"> 05/27 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bcismylove</span><span class="f3 push-content">: ㄏㄏ</span><span class="push-ipdatetime"> 05/27 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Khauf</span><span class="f3 push-content">: 哈哈被打臉惹</span><span class="push-ipdatetime"> 05/27 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyy12</span><span class="f3 push-content">: 打臉 想黑就說 自以為</span><span class="push-ipdatetime"> 05/27 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sky1119</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 韓全聯吳念真肖像權有87分像</span><span class="push-ipdatetime"> 05/27 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wakeup1990</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/27 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p9i1n0g0u4</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dian9</span><span class="f3 push-content">: !</span><span class="push-ipdatetime"> 05/27 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 柯黑腦袋大概無法分辨有授權和沒授權的差異吧 87 哈哈</span><span class="push-ipdatetime"> 05/27 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 4</span><span class="push-ipdatetime"> 05/27 10:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 哈哈哈～</span><span class="push-ipdatetime"> 05/27 11:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: %%%%</span><span class="push-ipdatetime"> 05/27 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 這本來就有含影片相關宣傳的使用權了～</span><span class="push-ipdatetime"> 05/27 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc1217</span><span class="f3 push-content">: 有疑問應該先問公司或官方呀 直接用FB嗆是…？</span><span class="push-ipdatetime"> 05/27 11:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 害自已公司被告吧～</span><span class="push-ipdatetime"> 05/27 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a023778596</span><span class="f3 push-content">: 有授權 全媒體不是嗎</span><span class="push-ipdatetime"> 05/27 11:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icepet0015</span><span class="f3 push-content">: 看來是想紅的朋友呢～</span><span class="push-ipdatetime"> 05/27 11:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m9o2o</span><span class="f3 push-content">: 科科</span><span class="push-ipdatetime"> 05/27 11:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derayxu</span><span class="f3 push-content">: 製作人只是委託拍片的打工仔…他以為他有多大的權力？所</span><span class="push-ipdatetime"> 05/27 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">derayxu</span><span class="f3 push-content">: ``X有權當然在廣告公司呀！製作人拍完片領完錢就下班了，</span><span class="push-ipdatetime"> 05/27 11:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">derayxu</span><span class="f3 push-content">: 還要爭什麼？</span><span class="push-ipdatetime"> 05/27 11:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x00361</span><span class="f3 push-content">: %%%</span><span class="push-ipdatetime"> 05/27 11:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doranobi0125</span><span class="f3 push-content">: 哈哈</span><span class="push-ipdatetime"> 05/27 11:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MyPetTankDie</span><span class="f3 push-content">: 做完才想黑一筆xD</span><span class="push-ipdatetime"> 05/27 11:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CJhang</span><span class="f3 push-content">: %%%</span><span class="push-ipdatetime"> 05/27 11:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZanyLuna</span><span class="f3 push-content">: 被打臉了</span><span class="push-ipdatetime"> 05/27 11:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Monde</span><span class="f3 push-content">: 真相大白</span><span class="push-ipdatetime"> 05/27 11:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hazelburn</span><span class="f3 push-content">: 嚇死我了，還想說這麼低能的錯怎麼會犯</span><span class="push-ipdatetime"> 05/27 11:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x222333123</span><span class="f3 push-content">: $$$$$$$$$$</span><span class="push-ipdatetime"> 05/27 11:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eayterrr</span><span class="f3 push-content">: 看來現在在ptt看文要先看個幾天風向才行</span><span class="push-ipdatetime"> 05/27 11:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 嚇死了...想說怎麼可能犯這種錯</span><span class="push-ipdatetime"> 05/27 11:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 柯黑水準</span><span class="push-ipdatetime"> 05/27 11:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oxkay</span><span class="f3 push-content">: 打臉打的好…製片沒有私下溝通，只是想出來討錢吧</span><span class="push-ipdatetime"> 05/27 11:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HEBO</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 11:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vn509942</span><span class="f3 push-content">: 白紙黑字 大力打臉</span><span class="push-ipdatetime"> 05/27 11:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ihavejason</span><span class="f3 push-content">: 笑死 又一個想黑人反而黑到自己</span><span class="push-ipdatetime"> 05/27 11:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 柯黑才高潮半天就被打臉了</span><span class="push-ipdatetime"> 05/27 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">berice152233</span><span class="f3 push-content">: 推推推</span><span class="push-ipdatetime"> 05/27 11:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asdfgh0920</span><span class="f3 push-content">: 臉腫到都認不出來了</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdfgh0920</span><span class="f3 push-content">: 這舉球員高阿</span><span class="push-ipdatetime"> 05/27 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sars7125889</span><span class="f3 push-content">: 顆黑快出來阿</span><span class="push-ipdatetime"> 05/27 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crazysinger</span><span class="f3 push-content">: %%%%%%</span><span class="push-ipdatetime"> 05/27 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sggs</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/27 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsupohsiang</span><span class="f3 push-content">: 打臉文推一下</span><span class="push-ipdatetime"> 05/27 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wbreeze</span><span class="f3 push-content">: 呵呵 亂黑</span><span class="push-ipdatetime"> 05/27 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YCLLZDBZM</span><span class="f3 push-content">: 呵呵。</span><span class="push-ipdatetime"> 05/27 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 科黑水準</span><span class="push-ipdatetime"> 05/27 11:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qppqqp</span><span class="f3 push-content">: $$$$$$$$$$  改快給我  %%%%</span><span class="push-ipdatetime"> 05/27 11:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">weimr</span><span class="f3 push-content">: 這臉 有點腫阿</span><span class="push-ipdatetime"> 05/27 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyKH</span><span class="f3 push-content">: 這製作誰還想跟他合作</span><span class="push-ipdatetime"> 05/27 11:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kylie720</span><span class="f3 push-content">: 我只能幫忙分享,這位製作對台北市政府的道歉喔</span><span class="push-ipdatetime"> 05/27 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taiwan1789</span><span class="f3 push-content">: FB嗆就想紅 但以後誰敢找他</span><span class="push-ipdatetime"> 05/27 12:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JacobSu</span><span class="f3 push-content">: 這製作該說蠢，還是自以為？</span><span class="push-ipdatetime"> 05/27 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tricia1231</span><span class="f3 push-content">: 來喊個高調好了</span><span class="push-ipdatetime"> 05/27 12:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taiwan1789</span><span class="f3 push-content">: 給你們廣告公司賺還要被你們製作嗆 好大尾</span><span class="push-ipdatetime"> 05/27 12:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thundertiger</span><span class="f3 push-content">: ㄏㄏ</span><span class="push-ipdatetime"> 05/27 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z955018</span><span class="f3 push-content">: 哈！以為黑了柯P，全聯就會白嗎？</span><span class="push-ipdatetime"> 05/27 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">javatea</span><span class="f3 push-content">: 沒啥貢獻的廢物 叫囂倒是跑第一 呵呵 笑死</span><span class="push-ipdatetime"> 05/27 12:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lifeofstar</span><span class="f3 push-content">: 不查證就開砲 蠻丟臉的</span><span class="push-ipdatetime"> 05/27 12:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lwrwang</span><span class="f3 push-content">: 以後在業界黑到底了</span><span class="push-ipdatetime"> 05/27 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billabcddog</span><span class="f3 push-content">: 故意要黑的吧</span><span class="push-ipdatetime"> 05/27 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa708</span><span class="f3 push-content">: 推！可憐的邊緣製作，要更邊緣了</span><span class="push-ipdatetime"> 05/27 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 臉腫個像肉粽了</span><span class="push-ipdatetime"> 05/27 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zenwhale</span><span class="f3 push-content">: 哇嗚</span><span class="push-ipdatetime"> 05/27 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yuwuen</span><span class="f3 push-content">: 先喊先贏啊</span><span class="push-ipdatetime"> 05/27 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chihuilo</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/27 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lslayer</span><span class="f3 push-content">: 真相大白了齁</span><span class="push-ipdatetime"> 05/27 12:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">virusket</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 05/27 12:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jullei</span><span class="f3 push-content">: 不查證就亂報料 還不快出來道歉</span><span class="push-ipdatetime"> 05/27 12:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 哈哈打臉哈哈</span><span class="push-ipdatetime"> 05/27 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggttoo</span><span class="f3 push-content">: 朝聖打臉XD</span><span class="push-ipdatetime"> 05/27 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">love12548</span><span class="f3 push-content">: 開心 他以後不用玩標案惹</span><span class="push-ipdatetime"> 05/27 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uwptd</span><span class="f3 push-content">: 哈~柯黑UCCU~</span><span class="push-ipdatetime"> 05/27 12:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sbw0115</span><span class="f3 push-content">: 可憐的人，要黑也不專業一點！</span><span class="push-ipdatetime"> 05/27 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chenjasen</span><span class="f3 push-content">: 打臉可以打小力點嗎</span><span class="push-ipdatetime"> 05/27 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whhw</span><span class="f3 push-content">: UCCU</span><span class="push-ipdatetime"> 05/27 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 吉一下啦,看那個人那麼欣喜若狂的樣子~不吉說得過去嗎?</span><span class="push-ipdatetime"> 05/27 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunchen0201</span><span class="f3 push-content">: %%%%%%%%%%%</span><span class="push-ipdatetime"> 05/27 12:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">comi0530</span><span class="f3 push-content">: ㄏㄏ</span><span class="push-ipdatetime"> 05/27 12:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spector66</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nobody741</span><span class="f3 push-content">: 幫 ㄏㄏ    真蚌  哭哭喔</span><span class="push-ipdatetime"> 05/27 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 放炮時代的受害者</span><span class="push-ipdatetime"> 05/27 13:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ubcs</span><span class="f3 push-content">: 整個廢到笑標準柯黑蚊</span><span class="push-ipdatetime"> 05/27 13:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jarviswang12</span><span class="f3 push-content">: 爽啦打臉</span><span class="push-ipdatetime"> 05/27 13:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wargod536</span><span class="f3 push-content">: 柯黑水準 不意外</span><span class="push-ipdatetime"> 05/27 13:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevinpc</span><span class="f3 push-content">: 夏眠林?</span><span class="push-ipdatetime"> 05/27 13:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rootless</span><span class="f3 push-content">: 直接在臉書上說本來就怪怪der</span><span class="push-ipdatetime"> 05/27 13:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germun</span><span class="f3 push-content">: 這種邏輯不通又完全不合理的亂放砲會信的人也不簡單</span><span class="push-ipdatetime"> 05/27 13:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kada9999</span><span class="f3 push-content">: 9.2見不得好啦</span><span class="push-ipdatetime"> 05/27 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">schopan</span><span class="f3 push-content">: 現在打柯不見得都是要拿KMT好處的人  你該懂的</span><span class="push-ipdatetime"> 05/27 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dluog</span><span class="f3 push-content">: #</span><span class="push-ipdatetime"> 05/27 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray48</span><span class="f3 push-content">: 啪啪啪啪啪啪</span><span class="push-ipdatetime"> 05/27 14:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex9708hero</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 台灣選舉很好選，選柯文哲就對了，其他人不是牛屎就是</span><span class="push-ipdatetime"> 05/27 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 豬屎怎麼選！</span><span class="push-ipdatetime"> 05/27 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 臉書有人開始說:製片在FB發聲也是逼不得已</span><span class="push-ipdatetime"> 05/27 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 市府還是吉一下好了</span><span class="push-ipdatetime"> 05/27 14:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king22649</span><span class="f3 push-content">: %%%%%%%%%%%%%%%</span><span class="push-ipdatetime"> 05/27 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iphone20</span><span class="f3 push-content">: diu臉</span><span class="push-ipdatetime"> 05/27 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s81048112</span><span class="f3 push-content">: 想要$$$$$$$$$$$</span><span class="push-ipdatetime"> 05/27 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cobal</span><span class="f3 push-content">: 真是後悔投柯P</span><span class="push-ipdatetime"> 05/27 15:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Charmeur</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/27 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tianguan</span><span class="f3 push-content">: 分享影片會被吉嗎?</span><span class="push-ipdatetime"> 05/27 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">headsouth</span><span class="f3 push-content">: 這種真的蠻蠢的 不自己先去搞清楚 而是見獵心喜 想趁機</span><span class="push-ipdatetime"> 05/27 16:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">headsouth</span><span class="f3 push-content">: 黑一筆順便洗知名度吧</span><span class="push-ipdatetime"> 05/27 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnkofe</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 17:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd131420</span><span class="f3 push-content">: 臉好像有點腫</span><span class="push-ipdatetime"> 05/27 17:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nick236</span><span class="f3 push-content">: 我就知道會被打臉</span><span class="push-ipdatetime"> 05/27 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aeryzephyr</span><span class="f3 push-content">: 柯p底下也很多能人異士的，儘管他本人不熟悉這些</span><span class="push-ipdatetime"> 05/27 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ginchacha</span><span class="f3 push-content">: 作者有回耶</span><span class="push-ipdatetime"> 05/27 18:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: 幫高調</span><span class="push-ipdatetime"> 05/27 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hdue</span><span class="f3 push-content">: 認為製作公司不懂 就不跟其溝通 直接鬧業主 說業主刪文</span><span class="push-ipdatetime"> 05/27 19:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cj04m06</span><span class="f3 push-content">: 沒搞清楚狀況就亂造謠敗壞市府名聲，不吉一下嗎？</span><span class="push-ipdatetime"> 05/27 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: @ @</span><span class="push-ipdatetime"> 05/27 21:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 我看過他的最新回應了 還是覺得他只是純粹找麻煩</span><span class="push-ipdatetime"> 05/27 23:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jullei</span><span class="f3 push-content">: 感覺他很衝，跟他臉書的照片“鬥魚”一樣，連明明沒刪文</span><span class="push-ipdatetime"> 05/27 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jullei</span><span class="f3 push-content">: 都搞不清楚，說會有多清楚前因後果我是不信</span><span class="push-ipdatetime"> 05/27 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/27 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/27 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 其實影片跟FB的尺寸是不一樣的這個一定是要求甲蟲公司</span><span class="push-ipdatetime"> 05/28 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 做完給主辦單位放上去的 所以這應該是甲蟲公司的問題</span><span class="push-ipdatetime"> 05/28 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 不過看了同意書也寫到甲蟲公司可以&#34;利用&#34;的規定</span><span class="push-ipdatetime"> 05/28 00:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 所以是哪裡不符同意書 看起來這個製作人好像不清楚</span><span class="push-ipdatetime"> 05/28 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s3926293</span><span class="f3 push-content">: 啪啪啪</span><span class="push-ipdatetime"> 05/28 00:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Barolo</span><span class="f3 push-content">: 低腦製片不意外</span><span class="push-ipdatetime"> 05/28 06:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Comebuy</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/28 11:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jullei</span><span class="f3 push-content">: 以為會吵的小孩有糖吃，什麼都想搞公審</span><span class="push-ipdatetime"> 05/28 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 問題是如果是故意抹黑，也達到效果了？</span><span class="push-ipdatetime"> 05/28 17:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Goog1e</span><span class="f3 push-content">: 中二推</span><span class="push-ipdatetime"> 05/29 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AbbeyJien</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/30 13:49
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495851938.A.848.html?cacheKey=2052-2021721&offset=20024&offset-sig=d7206b0acf5f6a342c9944585f0907a3eb7fcdb3" data-longpollurl="/v1/longpoll?id=aec28a5ae25aef9cd2444c13d79fe13a303aba50" data-offset="20024"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

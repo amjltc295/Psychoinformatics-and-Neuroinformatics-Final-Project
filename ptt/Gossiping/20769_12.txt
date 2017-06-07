@@ -1,0 +1,453 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495454403.A.695.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 民進黨立委提案 減少加班費 調高加班時數 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="勞工反對一例一休的點 是在於老闆付不出加班費 不給加班
+導致勞工薪水沒變多 甚至變少
+而不是勞工沒放假不爽
+再說 加班一小時 老闆付一小時加班費 很合理啊
+老闆真的只會叫勞工來加班一小時？整人嗎？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 民進黨立委提案 減少加班費 調高加班時數">
+<meta property="og:description" content="勞工反對一例一休的點 是在於老闆付不出加班費 不給加班
+導致勞工薪水沒變多 甚至變少
+而不是勞工沒放假不爽
+再說 加班一小時 老闆付一小時加班費 很合理啊
+老闆真的只會叫勞工來加班一小時？整人嗎？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495454403.A.695.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495454403.A.695.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">zz2895341 (台灣第一兵-白冰冰)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 民進黨立委提案 減少加班費 調高加班時數</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 20:00:01 2017</span></div>
+<span class="f2">※《joel1129 (腐腐)》的觀察啦：</span>
+
+<span class="f6">: ※註:有電視或媒體有報導者，請勿使用爆卦! 未滿20字 一行文 退文</span>
+<span class="f6">: 1.勞基法目前規定，休息日 加班 0~4小時以4小時計算、4~8小時以8小時計算、</span>
+<span class="f6">:   8~12小時以12小時計算。</span>
+<span class="f6">:   民進黨立委提案修正為：依照實際的加班時數 來給付加班費用</span>
+<span class="f6">:   譬如說如果是加班1個小時，依照目前規定，老闆應給付4小時加班費</span>
+<span class="f6">:   但修法後變成只能領1個小時的加班費</span>
+<span class="f6">: 2.目前規定勞工一個月加班上限為46個小時</span>
+<span class="f6">:   民進黨提案修正為54個小時</span>
+
+勞工反對一例一休的點 是在於老闆付不出加班費 不給加班
+
+導致勞工薪水沒變多 甚至變少
+
+而不是勞工沒放假不爽
+
+再說 加班一小時 老闆付一小時加班費 很合理啊
+
+老闆真的只會叫勞工來加班一小時？整人嗎？
+
+老闆怕的是 加班不足四小時 卻要給四小時加班費
+
+原本立意是好的
+
+但反而會讓老闆不給加班 導致勞工收入沒有因為一例一休而增加
+
+如今這樣修法很好啊
+
+鄉民動點腦 不要只會無腦反對 好嗎？
+
+--
+
+廢文寫手
+<a href="https://www.facebook.com/EricChuProtect" target="_blank" rel="nofollow">https://www.facebook.com/EricChuProtect</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.168.17.189</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1495454403.A.695.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1495454403.A.695.html</span></a>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 我上八卦板時都不帶腦的</span><span class="push-ipdatetime">05/22 20:00
+</span></div><span class="f2">※ 編輯: zz2895341 (1.168.17.189), 05/22/2017 20:00:33</span>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 那就直接上4小時不就好了，老闆自己蠢要怪誰啊？</span><span class="push-ipdatetime">05/22 20:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">olaqe</span><span class="f3 push-content">: 老闆不給加班?勞工有這麼奴喔?</span><span class="push-ipdatetime">05/22 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 本來高額加班費的用意就是為了減少加班時數，執政黨修法時</span><span class="push-ipdatetime">05/22 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KissMeMoMo</span><span class="f3 push-content">: 立委就腦殘 加一小給四小時</span><span class="push-ipdatetime">05/22 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 的說辭耶。</span><span class="push-ipdatetime">05/22 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: 以後就叫你來加班一小時^V^</span><span class="push-ipdatetime">05/22 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nju4ru8</span><span class="f3 push-content">: 你不覺得你第五句跟第六句有點矛盾嗎?</span><span class="push-ipdatetime">05/22 20:02
+</span></div>沒 我說的是原來的規定
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: 讓你光坐捷運就少4分之1工資 ㄎㄎ</span><span class="push-ipdatetime">05/22 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rriver</span><span class="f3 push-content">: 廢文寫手</span><span class="push-ipdatetime">05/22 20:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e3e452045</span><span class="f3 push-content">: ㄞ</span><span class="push-ipdatetime">05/22 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">olaqe</span><span class="f3 push-content">: 加班少了 親情厚了 想賺加班費的就是奴性 無誤</span><span class="push-ipdatetime">05/22 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scarbywind</span><span class="f3 push-content">: 不給(報)加班</span><span class="push-ipdatetime">05/22 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackwheel09</span><span class="f3 push-content">: 我們竹科都有給好ㄇ 大家賺的好爽 砍屁 幹</span><span class="push-ipdatetime">05/22 20:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JCS15</span><span class="f3 push-content">: <a href="http://i.imgur.com/dxBtInt.jpg" target="_blank" rel="nofollow">http://i.imgur.com/dxBtInt.jpg</a></span><span class="push-ipdatetime">05/22 20:04
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="dxBtInt"><a href="//imgur.com/dxBtInt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">play0517</span><span class="f3 push-content">: 是付不出加班費還是不想付？</span><span class="push-ipdatetime">05/22 20:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mradult</span><span class="f3 push-content">: 我覺得全部換補休就好，勞工只是愛加班，錢倒是其次</span><span class="push-ipdatetime">05/22 20:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 那當初改個屁</span><span class="push-ipdatetime">05/22 20:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taotzu</span><span class="f3 push-content">: 你休假加班一小時都不算前後浪費的時間哦</span><span class="push-ipdatetime"> 05/22 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 郭前部長自己講過以前資方常幹這種叫人加一兩時班的事</span><span class="push-ipdatetime"> 05/22 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 有些工作不用做滿4小時呀，例如機台出狀況，維修人員修好</span><span class="push-ipdatetime">05/22 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 就可以走了，不然要幹嘛？但你加1~2個小時還賺不到2~3百</span><span class="push-ipdatetime"> 05/22 20:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KissMeMoMo</span><span class="f3 push-content">: 改是要偷掉7天 現在在把加班時數調回來 連這看都不董</span><span class="push-ipdatetime"> 05/22 20:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 光車費來回就去掉1百有了，早午餐也許還多一餐。更不用提</span><span class="push-ipdatetime"> 05/22 20:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 而且加一兩小時班你還是要花一樣的交通費,淦你良垃圾資方</span><span class="push-ipdatetime"> 05/22 20:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 原本行程變更，通勤時間都還沒算在內，本來4小時就很合理</span><span class="push-ipdatetime"> 05/22 20:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zz2895341</span><span class="f3 push-content">: <a href="http://i.imgur.com/wEFwuv8.jpg" target="_blank" rel="nofollow">http://i.imgur.com/wEFwuv8.jpg</a> 一例一休衝擊</span><span class="push-ipdatetime"> 05/22 20:08
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="wEFwuv8"><a href="//imgur.com/wEFwuv8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 這還是住的進的喔，如果住在市郊又得開車，停車費60不見</span><span class="push-ipdatetime"> 05/22 20:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KEYSOLIDER</span><span class="f3 push-content">: 說的對 沒辦法有些人只想帶風向</span><span class="push-ipdatetime">05/22 20:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 結果修完法變成資方出來靠北有勞工故意只做一兩小時就繞跑</span><span class="push-ipdatetime"> 05/22 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 交通通勤費100~200不見，等於整天做白工。</span><span class="push-ipdatetime"> 05/22 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 明明本來是資方故意整勞方的竟然變成勞方搞資方</span><span class="push-ipdatetime"> 05/22 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KEYSOLIDER</span><span class="f3 push-content">: 領不到錢 又要兼職沒有比較好</span><span class="push-ipdatetime">05/22 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 資動部竟然接受這種理由實在太可笑了</span><span class="push-ipdatetime">05/22 20:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 是沒錯啦 其實不滿一例一休的的確是這個樣子。</span><span class="push-ipdatetime"> 05/22 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CenaC</span><span class="f3 push-content">: 不給加班？ 這種要求我還滿想的</span><span class="push-ipdatetime"> 05/22 20:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 不滿的說不定是本來能修的對勞工更有利呢，結果現在越修越</span><span class="push-ipdatetime">05/22 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lkk0752</span><span class="f3 push-content">: 換補休的話覺青不又跑出來靠邀說薪水變少</span><span class="push-ipdatetime">05/22 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 回去，除了七天假被砍，剩下的勞工有得到什麼？DPP詐騙集團</span><span class="push-ipdatetime">05/22 20:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: →zz2895341:一例一休 平均增加企業人事成本六趴</span><span class="push-ipdatetime">05/22 20:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 結果現在你說領不到錢? 話都給你說好不好</span><span class="push-ipdatetime"> 05/22 20:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 了不起 負責</span><span class="push-ipdatetime"> 05/22 20:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zz2895341</span><span class="f3 push-content">: 就成本增加太多 修一點回去而已</span><span class="push-ipdatetime">05/22 20:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 一例一休 人民不滿的主因絕對跟帶風向的不同 帶風向</span><span class="push-ipdatetime"> 05/22 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lnmp</span><span class="f3 push-content">: 阿那個只做一兩小時花的交通費勒?淦那些資方出嗎?</span><span class="push-ipdatetime"> 05/22 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">x222333123</span><span class="f3 push-content">: 對啊怎麼可能只上1小時，普遍都上5～6小時，改成這樣</span><span class="push-ipdatetime"> 05/22 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x222333123</span><span class="f3 push-content">: 方便多了^_^</span><span class="push-ipdatetime"> 05/22 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的是不想加班 一個是想加班。一例一休現在就是不太</span><span class="push-ipdatetime"> 05/22 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 能加班 還好當初不是二例不然更慘。既然現在不太能</span><span class="push-ipdatetime"> 05/22 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班讓勞工不爽 那現在可加班了 帶的風向完全背離現</span><span class="push-ipdatetime"> 05/22 20:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 實啊。成本增加是繼續開放加班的公司啊 但這是多數</span><span class="push-ipdatetime">05/22 20:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 嗎？ 自己想想啊。過去多給一倍 公司賺1.5倍 那當然</span><span class="push-ipdatetime"> 05/22 20:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: ok 但現在是多給2倍 那我是老闆我也不要叫你加班。</span><span class="push-ipdatetime"> 05/22 20:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stlinman</span><span class="f3 push-content">: <a href="https://goo.gl/JlWxgl" target="_blank" rel="nofollow">https://goo.gl/JlWxgl</a>  懶人包，不解釋</span><span class="push-ipdatetime"> 05/22 20:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 就是這樣的概念 但帶風向的不知道到底了不了解到底</span><span class="push-ipdatetime">05/22 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 什麼才是真的風向。現在就算從46開到54給你 還是要</span><span class="push-ipdatetime">05/22 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 額外給兩倍 付不出來的依舊不會加班啊。但負擔得起</span><span class="push-ipdatetime"> 05/22 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的 可以不再因為上限46 所以只報46 還可以多賺。</span><span class="push-ipdatetime"> 05/22 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 笑死人，可是新聞上的調查可不是這樣的耶，加班時數反而增</span><span class="push-ipdatetime">05/22 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 加你怎麼不提啊？</span><span class="push-ipdatetime">05/22 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: <a href="http://news.rti.org.tw/news/detail/?recordId=345668" target="_blank" rel="nofollow">http://news.rti.org.tw/news/detail/?recordId=345668</a></span><span class="push-ipdatetime">05/22 20:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 老闆表示我不想給勞工加班但是我要漲物價</span><span class="push-ipdatetime">05/22 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 廢話 這一波這麼好賺當然想加 所以想加的可以加 搞</span><span class="push-ipdatetime"> 05/22 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 不好還嫌不夠。以前加到54 現在只能到46 你不會不爽</span><span class="push-ipdatetime"> 05/22 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: ？我多做的沒辦法報 你不幹嗎？現在提高不就是呼應</span><span class="push-ipdatetime">05/22 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 你要加班的？ 不能加的 老闆給不起的 改了還是沒辦</span><span class="push-ipdatetime"> 05/22 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 以前不是也是46??在講三小</span><span class="push-ipdatetime"> 05/22 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 法加啊。所以這波改動根本沒有吃虧與否 給不起的沒</span><span class="push-ipdatetime"> 05/22 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 辦法的老闆 因為依舊額外兩倍 還是無法叫你來。給</span><span class="push-ipdatetime"> 05/22 20:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的起的 員工繼續爽拿 不好嗎？</span><span class="push-ipdatetime"> 05/22 20:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 說錯 以前加班費是46 抱歉。</span><span class="push-ipdatetime"> 05/22 20:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班上限。</span><span class="push-ipdatetime"> 05/22 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 這波最好只有改加班時數上限啦，連高額加班費都被拿掉了</span><span class="push-ipdatetime">05/22 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">reallydaniel</span><span class="f3 push-content">: 又是立志要成為黨工的 先出社會再討論勞基法好嗎</span><span class="push-ipdatetime"> 05/22 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 這樣改掉，那真正被修的只有七天假被砍掉，勞工什麼都沒得</span><span class="push-ipdatetime"> 05/22 20:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 到，DPP上次強硬過關的說辭，說好的照顧勞工在哪？越修越爛</span><span class="push-ipdatetime"> 05/22 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ueewen</span><span class="f3 push-content">: 我不想加，但緊急情形非得處理，領一小時，光交通費就抵</span><span class="push-ipdatetime">05/22 20:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ueewen</span><span class="f3 push-content">: 不回！</span><span class="push-ipdatetime">05/22 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 高額加班費被抵掉了？ 哪來的？二倍加班費還存在啊</span><span class="push-ipdatetime"> 05/22 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 。不想加沒有意見 但顯然大部分的人是想加的 而且這</span><span class="push-ipdatetime"> 05/22 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 個改正根本沒有讓不能加的可以加 只是還原了你的加</span><span class="push-ipdatetime">05/22 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 班時數啊 雙倍額外加班費照拿。</span><span class="push-ipdatetime">05/22 20:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 我以前是想從政是沒錯啦 但看到這麼多人只顧著帶風</span><span class="push-ipdatetime">05/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 哪裡兩倍??不是1.33,1.66??2倍不就變成1倍??</span><span class="push-ipdatetime">05/22 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 向卻忽略真正的社會風向 我摸摸鼻子 反正還年輕 我</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 也不覺得自己有特別的能力 所以想說算了 先照顧好</span><span class="push-ipdatetime"> 05/22 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 自己充實自己吧。</span><span class="push-ipdatetime">05/22 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 充實個屁，以後年輕人畢業前就快挑個國家去打工吧</span><span class="push-ipdatetime"> 05/22 21:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 現在休息日或假日是2.33 2.66加班費吧 你到底活在</span><span class="push-ipdatetime"> 05/22 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 哪裡......</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kevinet7410</span><span class="f3 push-content">: 重點是為什麼要靠加班來賺錢 幹 基本工資太低啊</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 要出國也不是隨便就去吧 不用充實自己喔？ @@</span><span class="push-ipdatetime"> 05/22 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 你台灣提高基本工資可以啊 物價怎麼樣我可不敢想像</span><span class="push-ipdatetime"> 05/22 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 啊 看看韓國 他們的薪資多高 結果 工時比我們還高。</span><span class="push-ipdatetime"> 05/22 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 為什麼？因為物價也高啊。</span><span class="push-ipdatetime">05/22 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 台灣的市場小 韓國都還有五六千萬人 如果各行各業</span><span class="push-ipdatetime"> 05/22 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的基本薪資提高一倍 物價會怎樣我不敢想像啊。</span><span class="push-ipdatetime"> 05/22 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zz2895341</span><span class="f3 push-content">: 大部分人又不是領基本工資 提高基本工資有什麼用</span><span class="push-ipdatetime"> 05/22 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 你不要鬧了好嗎?休息日是有給1的，所以是再給1.33,1.66</span><span class="push-ipdatetime">05/22 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: ，就算你沒上班也是有1，變成2倍就變成休息日再領1，懂</span><span class="push-ipdatetime">05/22 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: ?</span><span class="push-ipdatetime"> 05/22 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 現行的休息日是作1給4，哪來的只有2倍？</span><span class="push-ipdatetime"> 05/22 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 只作一小時就是要給4小時的錢，現在改作1給1，那不就是前次</span><span class="push-ipdatetime">05/22 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 修法的狀態，那勞基法修正，除了砍掉七天假，剩下的對勞工</span><span class="push-ipdatetime">05/22 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 有啥好處？直接講出來啊？對勞工有啥好處？執政黨要求的降</span><span class="push-ipdatetime">05/22 21:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 工時，政見要不要實現？修了法，結果對勞工更慘，這樣還能</span><span class="push-ipdatetime">05/22 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 護航，真厲害，反正DPP提的就是對的是不是？</span><span class="push-ipdatetime"> 05/22 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 況且在現行作1給4的情況下，加班時數還能上升，不就代表資</span><span class="push-ipdatetime"> 05/22 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 方根本還有辦法承受這些成本，況且資方也漲價因應了喔。</span><span class="push-ipdatetime">05/22 21:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 舊制是 加班費1.33 1.66 一例一休休息日是2.33 2.66</span><span class="push-ipdatetime"> 05/22 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 。 至於1換4這個 說實在話 真叫你來 老闆會只叫你</span><span class="push-ipdatetime"> 05/22 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 來1小時？ 不可能啊。</span><span class="push-ipdatetime"> 05/22 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">thomaschion</span><span class="f3 push-content">: 黨工可以算加班費嗎？</span><span class="push-ipdatetime"> 05/22 21:32
+</span></div>你有看過發妹妹文的黨工？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 一例一休加班費加倍啊 特休假增加啊 你到底活在哪</span><span class="push-ipdatetime"> 05/22 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 個平行世界？ 這次若真的改動 跟原本的一例一休差距</span><span class="push-ipdatetime"> 05/22 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 不大 給不起的不能加啊 還還原你的工時 讓你的加班</span><span class="push-ipdatetime"> 05/22 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 費可以報或改休假 不就是這樣？</span><span class="push-ipdatetime">05/22 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 你到底在說什麼啊，休息日加班費就是1.33,1.66啊，誰告</span><span class="push-ipdatetime"> 05/22 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 訴你是加班費2.33,2.66的?</span><span class="push-ipdatetime"> 05/22 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 黨工有沒有加班費要問隨便亂帶風向跟使用分身帳號</span><span class="push-ipdatetime"> 05/22 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 推文的人 我怎麼知道。=__=</span><span class="push-ipdatetime">05/22 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 你自己說的，要給你看加班費法條嗎？</span><span class="push-ipdatetime">05/22 21:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 自己去google啊 2.33 2.66 就有新聞了。</span><span class="push-ipdatetime"> 05/22 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 特休增加一天，每年砍你七天假，還差6天假呢。</span><span class="push-ipdatetime"> 05/22 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 法條跟新聞你信那個??</span><span class="push-ipdatetime">05/22 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 7天假跟52個休息日比????? 2.33跟2.66就擺在那裡 是</span><span class="push-ipdatetime">05/22 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 所以作1給4，作4給8，超過8給12為什麼要刪掉？給個解釋啊？</span><span class="push-ipdatetime">05/22 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 要辯什麼？</span><span class="push-ipdatetime">05/22 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 所以說好的以價制量呢？DPP很希望台灣勞工工時再上升是不是</span><span class="push-ipdatetime"> 05/22 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 回答了啊 上面就說了 自己去翻。</span><span class="push-ipdatetime"> 05/22 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 在現行制度下，加班工時還是微增的喔，現在要把作1給4修掉</span><span class="push-ipdatetime">05/22 21:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 看起來是勞工希望加班啊 勞工既然希望加班多賺點</span><span class="push-ipdatetime"> 05/22 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">:  那就讓你加班的時間可以藉由這次的修正還原 拿到</span><span class="push-ipdatetime"> 05/22 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 實際的加班費 不是嗎？</span><span class="push-ipdatetime"> 05/22 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 是希望工時再往上跑是不是？你根本就搞不清楚原來執政黨的</span><span class="push-ipdatetime"> 05/22 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 自己的說辭。</span><span class="push-ipdatetime"> 05/22 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 現行作1給4的制度都能讓加班工時再增加了，現在把這個制度</span><span class="push-ipdatetime"> 05/22 21:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: <a href="http://i.imgur.com/lzoVKjR.jpg" target="_blank" rel="nofollow">http://i.imgur.com/lzoVKjR.jpg</a></span><span class="push-ipdatetime"> 05/22 21:52
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="lzoVKjR"><a href="//imgur.com/lzoVKjR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 再拿掉，是要鼓勵加班時數再往上跑是不是？還在勞工希望加</span><span class="push-ipdatetime">05/22 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 2.33,2.66在哪啊？搞笑喔</span><span class="push-ipdatetime"> 05/22 21:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 52個休息日??今年以前都沒人週休二日就對了</span><span class="push-ipdatetime"> 05/22 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 班？我前面給你的新聞裡都有了，加班時數今年還是微增的，</span><span class="push-ipdatetime"> 05/22 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 本來要調低的工時 結果勞工不希望 使得一例一休讓</span><span class="push-ipdatetime">05/22 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 勞工不滿 你不做修正嗎？ 立委回應民意 讓加班時數</span><span class="push-ipdatetime">05/22 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 兌現化 把一休四拿掉 回應想要加班的多數勞工 不就</span><span class="push-ipdatetime"> 05/22 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 根本不存在勞工要不要加班的問題，因為加班時數還是有增加</span><span class="push-ipdatetime"> 05/22 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 這樣？</span><span class="push-ipdatetime">05/22 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 你又知道是因為降低工時才不滿，怎不講是DPP修的太差，對勞</span><span class="push-ipdatetime">05/22 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 哇靠，不是說勞資最大共識，之前資方不爽，勞工現在才</span><span class="push-ipdatetime">05/22 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 不爽??</span><span class="push-ipdatetime">05/22 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 工不好，才讓人對它一例一休不滿意</span><span class="push-ipdatetime"> 05/22 21:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 你提出的數據不就回應了勞工要加班嗎？ 你還不讓他</span><span class="push-ipdatetime"> 05/22 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的加班時數得到兌現？ 一例一休比舊制好些 姚老師也</span><span class="push-ipdatetime">05/22 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 有說過阿 你到底在說什麼？</span><span class="push-ipdatetime"> 05/22 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 哪裡有提到是勞工想要加班？只是剛好證明了資方有辦法承受</span><span class="push-ipdatetime"> 05/22 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 現行的制度的加班費而已，勞工的加班費是上升的，你根本搞</span><span class="push-ipdatetime"> 05/22 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 那個新聞數據回應勞工要加班???不是回應加班時數增加嗎</span><span class="push-ipdatetime"> 05/22 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 05/22 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 各個對一例一休不滿的聲音都是沒辦法加班 這次的修</span><span class="push-ipdatetime"> 05/22 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 正沒有動到加班費 所以沒辦法加班的還是不能 反而因</span><span class="push-ipdatetime"> 05/22 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 為上限解開 可以兌現自己的工時 拿到應拿的加班費</span><span class="push-ipdatetime">05/22 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 啊。</span><span class="push-ipdatetime"> 05/22 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 不清楚狀況，現在作1給4，勞工加班時數微增，加班費加1成。</span><span class="push-ipdatetime"> 05/22 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 所以就把1.33,1.66改成1，1給4那些都修掉??跟之前比就</span><span class="push-ipdatetime"> 05/22 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 不就代表資方根本有辦法承受這些成本，勞工起碼還能多得到</span><span class="push-ipdatetime">05/22 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 是0.33,0.66變成1而已</span><span class="push-ipdatetime">05/22 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 一點加班費，結果現在反而要把這些對勞工有利的修掉？有沒</span><span class="push-ipdatetime"> 05/22 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 去google好嗎？一堆新聞不滿一例一休的都是說不能加</span><span class="push-ipdatetime"> 05/22 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 班啊 去google 完再來好嗎？但這次若真的改動也沒</span><span class="push-ipdatetime">05/22 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 有多大的影響 因為讓人不能加班的加班費沒有動啊！</span><span class="push-ipdatetime">05/22 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 有搞錯啊？</span><span class="push-ipdatetime">05/22 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 反而兌現了自己的工時 讓自己的加班時數可以兌現 就</span><span class="push-ipdatetime">05/22 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 是這樣啊。</span><span class="push-ipdatetime"> 05/22 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 哪裡沒影響？原本作1給4能得到的加班費，根本不會影響到加</span><span class="push-ipdatetime"> 05/22 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 班時數？我給的新聞裡的數字就是這個最好證明了，那是主計</span><span class="push-ipdatetime">05/22 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 老闆看到做一給四 一定讓你做到四啊 你怎麼這麼天真</span><span class="push-ipdatetime"> 05/22 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 總處官方的分析，你扯這麼多也沒用，官方統計就打腫你的臉</span><span class="push-ipdatetime"> 05/22 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: ？幻想做一給四老闆真的只讓你做一？</span><span class="push-ipdatetime"> 05/22 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 起碼加班時數微增0.1小時，能讓勞工再多得到1成加班費，懂</span><span class="push-ipdatetime"> 05/22 22:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 不懂啊？你把作1休4改掉，反而會讓加班費變低好嘛，有點邏</span><span class="push-ipdatetime"> 05/22 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 輯好不好，事實就是有作1給4，也不影響加班時數，勞工起碼</span><span class="push-ipdatetime"> 05/22 22:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 還可以拿多一點加班費，改掉作1給4，勞工能得到的加班費反</span><span class="push-ipdatetime"> 05/22 22:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 而會因此而降低。</span><span class="push-ipdatetime">05/22 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 到底是誰沒邏輯？ 因為做一休給四讓人很難加班好嗎</span><span class="push-ipdatetime"> 05/22 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 05/22 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 新聞也都是說不滿一例一休是因為無法加班了....</span><span class="push-ipdatetime"> 05/22 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duetobe</span><span class="f3 push-content">: 原本聽過不給報的 就做沒錢工</span><span class="push-ipdatetime">05/22 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: 我先</span><span class="push-ipdatetime">05/22 22:16
+</span></div>講個道理出來 不要只會噓
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 對啊，勞工也嫌假變少，改不改?</span><span class="push-ipdatetime"> 05/22 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 因為這樣 所以勞工對一例一休不滿 這是各大報紙媒</span><span class="push-ipdatetime"> 05/22 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 體的採訪 自己不google 的怪誰？</span><span class="push-ipdatetime">05/22 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 噢，那當初休息日以價制量，砍假是在??</span><span class="push-ipdatetime">05/22 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 但不好意思 m大 對照現在社會輿論 大部分的人因爲無</span><span class="push-ipdatetime">05/22 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 法加班而對一例一休不滿 所以應該會從這裡修正 但總</span><span class="push-ipdatetime">05/22 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 體沒有太大改變 是讓勞工可以兌現自己的加班時數。</span><span class="push-ipdatetime"> 05/22 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 休息日就是一例一休的重點，改了當初講得不就都廢話?</span><span class="push-ipdatetime"> 05/22 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 修法前就有人說休息日加班費看得到吃不到，現在不爽領</span><span class="push-ipdatetime">05/22 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 不到加班費不過是證實事前預測罷了，你以為過了才不爽</span><span class="push-ipdatetime"> 05/22 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 啊</span><span class="push-ipdatetime"> 05/22 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 加班上限提高就夠搞笑了，你知道砍七天假要多工作7天了</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 嗎？</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 比過去高多了的加班費依舊存在 所以給不起的依舊給</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 不起 以假制量還是存在著 只是有減低了 讓勞工可以</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班 領得比過去多 但老闆依舊成本增加 只是多了些</span><span class="push-ipdatetime"> 05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 彈性 過去高額的成本沒有少。</span><span class="push-ipdatetime">05/22 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 做1給4改掉了，沒有降低成本?</span><span class="push-ipdatetime"> 05/22 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 那就不要改啊，不然到時工時沒減少，一例一休又多了個</span><span class="push-ipdatetime"> 05/22 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 笑點</span><span class="push-ipdatetime"> 05/22 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 成本依舊啊 只是彈性可能增加。 一樣要加班8小時的</span><span class="push-ipdatetime">05/22 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 話 不會因為修正而讓成本降低啊。七天改成52天的休</span><span class="push-ipdatetime">05/22 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 息日 社會輿論並沒有顯示是對這不滿 況且也有了特</span><span class="push-ipdatetime"> 05/22 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 休增加。 所以我想針對七天改成52天休息日 應該還好</span><span class="push-ipdatetime"> 05/22 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 成本依舊??做1給4跟做1給1一樣喔</span><span class="push-ipdatetime">05/22 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">:  。</span><span class="push-ipdatetime">05/22 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 你想應該還好，請問一下一例一休民調支持度多少?</span><span class="push-ipdatetime">05/22 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 當初一例一休是多了彈性，讓想加班的能加班，你知道嗎</span><span class="push-ipdatetime">05/22 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 05/22 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 結果你說大家不滿一例一休不能加班??那當初彈三小</span><span class="push-ipdatetime"> 05/22 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 你要幻想老闆會做一給四隨便你 我不想搓破你的夢。</span><span class="push-ipdatetime">05/22 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 一例一休讓勞工不滿的點 各大新聞媒體都是直指不能</span><span class="push-ipdatetime"> 05/22 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班 因為加班費太高 沒有空間 現在這個改動 沒有針</span><span class="push-ipdatetime"> 05/22 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 幻想??法條在上面你沒看??</span><span class="push-ipdatetime"> 05/22 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 對這塊 針對的是 讓想加班的員工 不再被做一給四綁</span><span class="push-ipdatetime"> 05/22 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 死 而不能加班 也讓真的的工時可以被兌現。</span><span class="push-ipdatetime"> 05/22 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 不能加班??那當初一例一休最大共識是在搞笑??</span><span class="push-ipdatetime"> 05/22 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 做1給4是綁老闆不是綁員工吧，老闆不肯依法給，老闆問</span><span class="push-ipdatetime"> 05/22 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 題</span><span class="push-ipdatetime">05/22 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 做1給4的成本和做1給1的成本會一樣？真是服了他，邏輯真好</span><span class="push-ipdatetime"> 05/22 22:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 現實上老闆不會讓你來做一算四 你要活在虛幻空間請</span><span class="push-ipdatetime"> 05/22 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 加班費太高??不是有新聞算出來才幾%??</span><span class="push-ipdatetime"> 05/22 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 便。做一休四綁了老闆 所以老闆不給加班 加上加班費</span><span class="push-ipdatetime">05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 增加 你覺得老闆成本大增 入不敷出 怎麼會讓你來加</span><span class="push-ipdatetime">05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 法條叫虛幻世界喔</span><span class="push-ipdatetime"> 05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 班？</span><span class="push-ipdatetime"> 05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 事實證明就是就算是做1給4，要加班還是得加班，因為主計總</span><span class="push-ipdatetime">05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 大增是大增幾%??不是很會google，去查啊</span><span class="push-ipdatetime">05/22 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 現實就是老闆不會讓你真的只做一拿四啊 要這樣他乾</span><span class="push-ipdatetime">05/22 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 脆不加班了 不是嗎？</span><span class="push-ipdatetime">05/22 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 處的數字就是顯示，做1給4不影響加班時數，因為加班時數還</span><span class="push-ipdatetime"> 05/22 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 是微增0.1小時，一直扯東扯西，不敢面對現實耶。</span><span class="push-ipdatetime"> 05/22 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 所以主計總處的資料是假的囉？怎麼統計出來的數字剛好打你</span><span class="push-ipdatetime">05/22 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 現實就是一例一休砍完七天假之後，開始要為一例一休解</span><span class="push-ipdatetime"> 05/22 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 套囉~~</span><span class="push-ipdatetime"> 05/22 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 臉，因為做1給4執行後，加班時數還是微增0.1小時。</span><span class="push-ipdatetime"> 05/22 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 噢，現實還有老闆違法不給加班費咧，輔導期結束沒?還沒</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 輔導完就要修法解套，顆顆</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 你那個數據有沒有細分各行業加班的狀況？因為這一年</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 以來 做出口的 最近景氣不錯 加班很正常。而且提供</span><span class="push-ipdatetime"> 05/22 22:40
+</span></div><span class="f2">※ 編輯: zz2895341 (1.168.17.189), 05/22/2017 22:43:00
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班上限 得以讓他們的工時可以被兌現 這不是很好</span><span class="push-ipdatetime"> 05/22 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 嗎？但是做內需的如同服務業等等 想加沒得加啊 所以</span><span class="push-ipdatetime"> 05/22 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 這次拿到做四休一 幫助的是那些想加不能加的。沒有</span><span class="push-ipdatetime"> 05/22 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 損及那些可以加班的 而是讓不能加班的得以加班。</span><span class="push-ipdatetime"> 05/22 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 就是這樣 多說無意益 我要去忙了。保重。</span><span class="push-ipdatetime"> 05/22 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 去和主計總處講啊？那是官方資料，起碼比你還有可靠性。</span><span class="push-ipdatetime"> 05/22 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 做1給4就是幫助勞工啊，拿掉幫個屁</span><span class="push-ipdatetime"> 05/22 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 還好他跑了，跳針真的很煩</span><span class="push-ipdatetime"> 05/22 22:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 不要精神勝利法好嗎？我認真討論 釐清事情 只是先去</span><span class="push-ipdatetime"> 05/22 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 忙而已 之後要討論再來啊 甚至歡迎私信啊 我回信還</span><span class="push-ipdatetime"> 05/22 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 比較方便 不用被綁在這裡 可以去做重要的事。</span><span class="push-ipdatetime"> 05/22 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 開篇文章論述啊，推文回很麻煩</span><span class="push-ipdatetime"> 05/22 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 加班會減少一例一休通過前早就討論過了，加班費率提高</span><span class="push-ipdatetime"> 05/22 22:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 導致老闆不給加班，勞工只好另找兼差，你以為現在才被</span><span class="push-ipdatetime"> 05/22 22:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 討論喔</span><span class="push-ipdatetime"> 05/22 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 是被討論了啊 所以因為不給加班 現在的媒體輿論對</span><span class="push-ipdatetime"> 05/23 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 於一例一休不滿的 也是因為不能加班啊 這跟我說的沒</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 有衝突吧甚至符合了 所以應證了 大部分人希望加班</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 啊。不過真正讓老闆不給加班的原因 是高額的加班費</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 與做一給四 現在可能把做一給四修正回做一給一 這</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 樣的彈性 讓老闆可以排給想加班的人 但加班費依舊沒</span><span class="push-ipdatetime"> 05/23 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 動 啊 所以老闆成本還是高的 只是像內需的服務業等</span><span class="push-ipdatetime"> 05/23 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 等比較可以有彈性獲得加班 所以沒有虧吧？至於持續</span><span class="push-ipdatetime"> 05/23 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班的人也依舊可以拿到修正後的高加班費 甚至因為</span><span class="push-ipdatetime"> 05/23 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 把上限放高 所以加班時數得以兌現呀。所以基本上</span><span class="push-ipdatetime"> 05/23 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">:  高額的加班費還在 以價制量還是有他的力量存在。</span><span class="push-ipdatetime"> 05/23 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 甚至加班費是兩倍 不是2.33 2.66 也都有很大的箝制</span><span class="push-ipdatetime"> 05/23 00:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 力。我的看法是這樣。</span><span class="push-ipdatetime"> 05/23 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 加班變成常態不好 不過跟我們較為相像的國家如韓國</span><span class="push-ipdatetime"> 05/23 00:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">:  加班時數更盛於我們 這不是一個提高基本工資就可以</span><span class="push-ipdatetime"> 05/23 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 解決的。也期待勞檢繼續努力 之前跟別的網友對話過</span><span class="push-ipdatetime"> 05/23 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">:  從他提出的數據有發現台灣的勞檢持續在進步 六都</span><span class="push-ipdatetime"> 05/23 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的勞檢裁罰率在相同水平（17-19%） 這是好事 持續加</span><span class="push-ipdatetime"> 05/23 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 油吧 希望台灣的就業環境更好 大guy是這樣。</span><span class="push-ipdatetime"> 05/23 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: <a href="/bbs/Gossiping/M.1495472828.A.AD4.html" target="_blank" rel="nofollow">#1P8ngyhK (Gossiping)</a></span><span class="push-ipdatetime"> 05/23 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 有辦法論述矛盾成這樣也是厲害</span><span class="push-ipdatetime"> 05/23 01:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 哪裡論述矛盾？ 現在反對一例一休的聲音 各大媒體</span><span class="push-ipdatetime"> 05/23 03:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 都是說不能加班啊！為什麼不能加班？因為加班費太</span><span class="push-ipdatetime"> 05/23 03:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 高 而且做一給四。現在要動的 是把做一給四修正成</span><span class="push-ipdatetime"> 05/23 03:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 做一給一 加班費依舊是2.33 2.66去算。2.33 2.66 這</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 個數字一堆新聞 定義的問題而已 當初一堆人討論也是</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 說2.33 2.66 懂？ 既然大多數的人希望可以加班 所以</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 才給些彈性 加班費加倍依舊沒有消失。而加班時數上</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 限增加8小說 讓加班的人的加班費 不再只能報到46小</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 時 不就是真正的加班時數得以兌現？ 這樣你到底聽</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 懂沒有？</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">c928</span><span class="f3 push-content">: 在釣魚？呵呵</span><span class="push-ipdatetime"> 05/23 09:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kanpfer</span><span class="f3 push-content">: 好個屁</span><span class="push-ipdatetime"> 05/23 10:47
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495454403.A.695.html?cacheKey=2052-37092949&offset=31866&offset-sig=07b7642a8809895b905771f30c5aae6fc3ce5f10" data-longpollurl="/v1/longpoll?id=4a7000dfea9ca3f5484a30199b882a47af6d7fda" data-offset="31866"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

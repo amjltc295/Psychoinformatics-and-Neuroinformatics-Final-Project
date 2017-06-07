@@ -1,0 +1,1008 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495994898.A.753.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 如何教沒有基礎=0的長輩上網 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="之前我和老媽住
+基於讓她學點東西可以防止老年癡呆
+我提議她學電腦; 她不要，說人老了眼睛老花，電腦的字太小
+後來老媽退休搬回老家
+我們成了遠距
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 如何教沒有基礎=0的長輩上網">
+<meta property="og:description" content="之前我和老媽住
+基於讓她學點東西可以防止老年癡呆
+我提議她學電腦; 她不要，說人老了眼睛老花，電腦的字太小
+後來老媽退休搬回老家
+我們成了遠距
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495994898.A.753.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495994898.A.753.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">HuangJC (吹笛牧童)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 如何教沒有基礎=0的長輩上網</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 02:08:14 2017</span></div>
+
+
+之前我和老媽住
+基於讓她學點東西可以防止老年癡呆
+我提議她學電腦; 她不要，說人老了眼睛老花，電腦的字太小
+
+後來老媽退休搬回老家
+我們成了遠距
+她看到舅舅用 line 及臉書很方便
+整天向我抱怨: 為什麼舅舅可以用，我不可以
+在這裡我還是講電腦版的，不是手機版的
+我說: 沒有不可以，只是你要自己打密碼
+這事舅舅不可能會，查了一下，原來是表弟幫的忙;表弟還是學生，未出社會
+這種東西給學生學太容易了，而且他住家裡，超有空幫長輩維護電腦
+
+你要知道最大的障礙就在時間，在維護電腦
+
+我就回老媽:因為舅舅和表弟住在一起，都表弟幫忙的，如果你問為什麼他行你不行
+那你也可以找表弟幫忙啊～
+（靠北咧，當初我們還住在一起，要教你你不學，現在是 書到用時方恨少 是吧..
+我們現在是遠距，我不方便替你打密碼了，當然也可以輸入一次記起來
+但等你被人破解，帳號被人入侵向親友借了幾百萬，看你會不會哭出來）
+
+這時，我老爸以雖然年老但是有責任感的護花使者身份出現了
+他對我說:你就幫媽裝一裝吧，密碼的事我負責
+
+有老爸這句話，後來老媽怕麻煩我，不敢學時
+我都說:這很容易的，你只要開機就可以用
+（然後我會向老爸打 pass:因為難的都你包了，好樣的，果然疼老婆）
+
+老媽後來有了自信，比較敢開口要求了
+會講出: 我要的很簡單，我只是要 xxxx 功能
+行，你要什麼就只學什麼; 反正難的老爸會扛
+
+
+
+突然有一天，老爸也說:我只要 xxxxx
+
+
+
+X，我真的想罵髒話，老爸你怎麼學老媽說話
+你答應替她扛的，現在是你們兩個都叫我扛！
+
+-----------------------------------
+
+我替老爸裝了一台很好的二手筆電
+他年輕時也學過電腦，也害怕病毒
+我說:這台你不用怕，我超想留下這台當遊戲機，但你要就給你了
+因為這台電腦，重灌還原只要三分鐘
+什麼病毒你通通不用管，中毒就還原就算了
+當你還原只要三分鐘，你還管它什麼病毒
+
+各位，事實上是只要兩分半鐘
+這台電腦真的超酷
+因為它用的是 XP 系統，ghost 還原只要兩分半
+我下一台電腦是 win 7, ghost 無法還原（應該說，要新一點的版本）
+我投向了 clonezilla 的懷抱
+大家可以查一查 clonezilla, 如果我沒搞錯，
+它也是你我的稅金發展出來的軟體，發展完後又捐了出來
+所以不像 ghost 是商業軟體，它是免費的，又好用
+唯一的代價是要有一點 linux 的觀念，對於長期活在 win os 下的人來說會無法適應
+教老爸學 ghost 我都放棄了，教他 clonezilla 更不可能
+而 ghost 還原 win xp 只要兩分半鐘
+clonezilla 還原 win7 是半小時起跳
+
+一次中毒就要花半小時還原 os,那我開始沒耐心了
+（好吧，半小時還是很快啦）
+所以我愛死了原本的 win xp 筆電
+反正我又不用它工作，老爸老媽要的，不過是 win 上的接龍遊戲而已
+老媽又多要了臉書，line
+
+
+win xp 很好用，但很舊
+兩分半鐘可以還原這個 os,但有一點代價
+它的原版光碟塞進去已經無法灌這台電腦了
+因為有些軟體灌到一半就會尋求官網服務
+而它的官網已經關了
+
+再來就是常有試用期軟體，比如免費防毒送你用一年
+這東西新電腦時可以裝一裝，但舊機就不建議了
+因此電腦一灌好我就移除
+另外灌上微軟官方防毒軟體;它不是很好，但很夠用
+使用它的條件是你要有原版 OS
+筆電原裝就是原版 OS，可以用
+而 win xp 有很多 service pack 要再安裝
+它當時還無法使用微軟新的動態更新 service 等機制
+防毒軟體也無法自動下載病毒碼
+（以上在 win 7 全有解;但偏偏這台是 win xp）
+總之，很多老舊的東西要自行搜尋，做功課
+我天天在加班到凌晨回家後，才維護這台 XP
+花了一個禮拜把所有最新 service pack &amp; driver 全部灌好
+然後重新 ghost 起來
+
+整理好的東西很好用，而這個 ghost 只要兩分半鐘就可以還原了
+
+---------------------------
+
+我把整台電腦交給老爸，開始教他怎麼維護
+驗收，才是尊重
+別以為我是為了邀功
+我講解全部的過程，不是為了讓他聽懂
+只是為了讓他了解:這絕不容易，你兒子超越所有維修公司，千萬不要拿給別人修
+因為他們不會想了解你的機器，只會用最一致化的方法修
+而我都做過了，我知道問題所在
+
+老爸一直點頭說 好好好，懂懂懂
+
+----------------------------
+
+幾個月後，每週都回老家的我，因為工作繁忙，連續幾週沒回家
+等我再回去，老媽說:
+電腦出問題了，爸不敢打擾你，所以抱去給別人修了
+
+X，一切都完了
+
+打開電腦，一切如我所料
+我的電腦被外面的店家用盜版的 XP 洗掉了
+在他們只不過是用 ghost 跑一下，幾分鐘就好
+
+老爸說:問他們修不修得好，他們說修得好
+但後來一堆功能無法使用，他們說不收錢
+
+我當場就罵出來:我的原版 OS 被洗掉了，灌成盜版 OS
+這是損毀行為，什麼收錢，我要他們賠
+是哪一家店，你給我地址我去拆招牌
+他學電腦幾年，我學電腦幾年，他們說什麼你就信，我說什麼你都不信
+為什麼外面的和尚就比較會唸經
+我就跟你說這台電腦一堆問題
+連我這種人都要灌上一個禮拜
+他們有本事灌？我都可以向他們上課了
+我要不是在新竹工作沒空
+去到這種業界，或和你社大的電腦課老師比
+我覺對是超越他們許多
+（對，更早前老爸也曾拿這台電腦的原廠光碟請社大老師灌，他們灌不起來
+但老師教什麼，老爸都很尊重;包括把 IE 學會了，卻死不肯改用 chrome
+而這台老舊 XP 很慢，就是要用 chrome 才能又快又好用
+包括他用 IE 打不開的網頁，還要操心用什麼軟體才能看見動畫
+在 chrome 全都解決了;這老師連 chrome 都沒聽過，能和我比？
+根本就是一個無法學習新知，在打混賺閒錢的電腦老師而已）
+
+
+我不可能再灌一個禮拜了
+因為那些網站我當初也是想破頭
+不斷換關鍵字找出來
+現在有些也關了
+
+我不是要炫耀我的薪水多高
+但一個禮拜灌出這台電腦，換算時薪，這是很昂貴的維修費
+
+叫我做，就從頭到尾聽我的話
+讓外面的公司修，那我沒本事擦他們屁股
+
+-----------------------------------------
+
+後來老媽改學手機
+整天盯著小小的螢幕發神經
+當然，為了她的視力，我馬上換成大平板
+
+不過請捲回前面看這篇文章
+我媽抱怨電腦字小，所以不想學（我用大外接 LCD螢幕喔）
+
+嗯，現在手機的字更小好嘛
+但她有興趣，就不嫌字小了
+切～
+
+當然手機就比較沒有輸密碼的問題啦
+因為臉書是一個軟體，youtube 是一個軟體
+但在電腦，那些全是 ie 打開之下的不同網頁，要自己打密碼維護
+在手機，全是不同軟體，密碼打好就幾乎不會消失
+暫時也沒聽到手機中毒必需重灌，以致需要重輸入密碼的消息
+
+只是呢，每當他們碰到新東西，問怎麼解決
+我都會說:在電腦很好解決，因為電腦擴充性強
+（比如別人寄個動畫檔來，而看動畫的軟體大概要不同的四五套
+在電腦很容易，在手機就辛苦了）
+
+而且，我是個工程師，每幾年要換一次電腦，二手電腦我很多
+但二手平板我就沒有了;那是買全新的給老媽
+我是為了老媽的視力才用平板換下她的手機
+結果她很順手的把手機移交給老爸
+靠，這是叫我買兩台新平板？
+以前我讓他們兩人共用一台電腦就好
+現在卻得一人一台平板？
+（電腦螢幕大，又貴，他們會甘願共用一台
+但手機多一台放著幹麻？老媽不用當然移交給老爸啊）
+
+
+講這麼多，老家的電腦到平板都我在維護
+你們可能以為我是獨生子
+才怪，我姐是學校教授
+她說要把學校撥給她的電腦送回老家給爸媽用
+
+我心中要罵人了:你們這些教授侵佔公款及設備早成習慣是吧，這是國科會經費耶
+你當然說那本來就撥給你用，不會收回，但有說撥給你孝親嗎？
+難怪一追討發票報銷流程，就全部爆炸說是歷史共業
+共業個屁，我在資訊公司，公司歷年來撥給我的電腦也差不多十部了
+有哪一台不堪工作使用但還能當上網機的被我拿回家私用？
+我們還是私人公司，不必守公務員法，我都有這自覺了
+你在學界侵佔公物竟然習以為常..
+
+X,你要是孝順，就花錢自己買台新的給爸媽
+不要陷爸媽於不義，我還會比較看得起學界
+不然我就是.. 吥～
+整天說台灣打不進聯合國，學校教授在忙外圍組織
+講的都是國家大事，結果侵佔公物這麼習慣
+在我看教授也不過如此
+
+--------------------------------
+
+洋洋灑灑寫了一大堆，沒有重點
+
+不過我就給個結論吧..
+能用錢解決就用錢解決
+不管你技術多好，別介入
+不然不會被感激
+
+老媽問姐問題時，我去關心一下
+還被姐諷刺:還不就是你這專家都不教，所以才來問我這個電腦白癡
+
+我不教？我花了一週苦苦灌出來的系統被毀了
+如果我教，老爸又聽不懂
+所以我做一個好用，他又不必懂的東西給他守著
+如果聽我的，重灌只要兩分半鐘，多少人羨慕這套系統？
+
+我想了很久，勉強用一個形容講給這個文組教授聽:
+我就像開飛機的，我承認我飛行很快
+但你要搭我的飛機，一定要來機場
+叫我開到你家接你，用你的方式，是做不到的
+
+我維護一台電腦，天天忙到凌晨四點，連續一週
+我的付出我相信你也拍馬難及
+
+------------
+
+肥宅不好當，還是叫他們去外面買
+人家會開個價錢
+不管多貴，至少他們會尊重這個價錢
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 175.180.78.57
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495994898.A.753.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495994898.A.753.html</a>
+</span>
+正好 1000 P 幣呢～
+
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 02:08:48
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddd1264</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 05/29 02:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 好長 先推一下好了</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 你用個TEAMVIEWER就能解決以上問題了</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mowru</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stfang925</span><span class="f3 push-content">: 幫QQ 不懂得真的就是叫他們去花錢解決就好</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 我是覺得啦網路那麼方便看是要遙控還是視訊教學很容易</span><span class="push-ipdatetime"> 05/29 02:13
+</span></div>
+我媽現在會在我上班時 line 我
+主管看到就說:公司不是請你來看 line 的
+
+當然請她上班時別打擾我，這我也說了
+就像當年不斷宣導開車別接手機
+我媽會罵我:我看別人開車都能接手機，為什麼你不行
+
+別怪我不孝，我封鎖我老媽了
+不給她來硬的她還覺得我應該接咧
+
+我在公司都加班加到她睡覺
+你覺得視訊是要她去找鬼？
+
+何況我對視訊的品質，到現在也還沒滿意
+遠端登入我也會
+不過他們能把登入 server 毀掉就是了
+（應該說，會抱給外面公司用 ghost 修，變回一般的樣子）
+最後還是得親自到場解決
+
+我都說了，問題發生在我數週很忙，無法回老家時
+那時我會有空視訊？
+又如果真的中毒，需要重灌
+遠端有那麼行不斷切換重開機，換 os?
+遠端不就是要先跑起 os 才能登入嗎？
+
+這我真的就辦不到了，應該是你比我高明
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 乾 當女版回喔 廢文</span><span class="push-ipdatetime"> 05/29 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 要怎麼用到欠100萬我也很訝異</span><span class="push-ipdatetime"> 05/29 02:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 樓上是?</span><span class="push-ipdatetime"> 05/29 02:14
+</span></div>
+別人的大姨媽 :P
+
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 02:22:49
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 再推</span><span class="push-ipdatetime"> 05/29 02:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robinyu85</span><span class="f3 push-content">: 所以有吉店家嗎</span><span class="push-ipdatetime"> 05/29 02:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sindy520</span><span class="f3 push-content">: 用teamviewer+1,另外你對老人期待太多，也許要等你老了</span><span class="push-ipdatetime"> 05/29 02:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sindy520</span><span class="f3 push-content">: 跟科技逐漸脫節才能體會爸媽的感受。順帶一提，我的gho</span><span class="push-ipdatetime"> 05/29 02:22
+</span></div>
+我現在就已經在苦苦追趕了，我知道學習新知很難
+
+其實修不好，扔掉再買台新的也就是了
+我在乎的是態度
+
+都說好別抱給外面修了
+如果我親自修也修不好，那我不會那麼生氣
+東西要壞，就得壞在我的手上
+而不是被別人搞壞了，我救不回來
+才說&#39;你看，本來就要壞了，所以給外面修壞沒差&#39;
+
+如果我這次不生氣，那下次會有更恐怖的事
+就以他們不斷拿社大老師的話來和我爭辯，我就很生氣
+如果那麼信社大老師的話，麻煩找社大老師買電腦
+錢我照出就是
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sindy520</span><span class="f3 push-content">: st會丟雲端備份，當工程師卻沒有備份的觀念...win7只要</span><span class="push-ipdatetime"> 05/29 02:22
+</span></div>
+其實雲端不可靠你知道嗎？
+我講的不是今年的事
+那時的雲端，可能要付費，才有我滿意的
+
+付那個錢，那為什麼不燒成 CD 呢？
+
+我的東西都有備份，但我沒法子替他們備份
+自己的東西要自己保管好
+如果我做的 ghost ,老爸有聽清楚的話
+那當店家要做 ghost 時，就會知道&#39;這東西硬碟裡有&#39;
+然後店家也不用拿他們的盜版 XP 來灌，爽爽灌我的版本就好了
+
+如果連這都忘了，那就只記一句話就好: 千萬別抱給外面修
+
+我管公司一堆電腦，自己保管的備份已經多到用光碟盒陣列了
+沒在我手上的東西，不管是光碟還是雲端，我也會弄丟的
+
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sindy520</span><span class="f3 push-content">: 用ghost11就可以了，根本不用很新的版本</span><span class="push-ipdatetime"> 05/29 02:22
+</span></div>
+其實是我學不會
+我會一套我行的就好了
+
+如果別人用什麼我都得配合，那沒完沒了
+外面店家也是這樣
+所以他們才不管你電腦有什麼
+收到機器，第一句話就是:硬碟裡的資料不保證完好喔，會被洗掉
+
+沒人有心思去應變所有情況
+
+----
+
+我看我同事用 ghost 還原 win7 也很辛苦
+有時可以還原，有時失敗
+而原因大家也說不上來
+明明所有磁區都還原了
+
+
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 02:41:24
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 有個一鍵還原系統GGHOST 有空可以研究一下ㄆ 蠻容易的</span><span class="push-ipdatetime"> 05/29 02:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 基本上用手機拍個短片 應該就看得懂怎麼操作惹</span><span class="push-ipdatetime"> 05/29 02:29
+</span></div>
+連&#34;絕對不可以抱給外面修&#34;都聽不懂了
+教這個我覺得也學不會的
+
+不然我放大絕好了:我爸電話給你，你來教
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">njpbjp6</span><span class="f3 push-content">: 你是不是壓力很大啊</span><span class="push-ipdatetime"> 05/29 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 還有遠端可以弄固定密碼 你只要能一鍵還原跟他說點藍色</span><span class="push-ipdatetime"> 05/29 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 那個圖示 或者乾脆把圖示放在右下角 你每次都能自己操控</span><span class="push-ipdatetime"> 05/29 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luciffar</span><span class="f3 push-content">: 整個還原+遙控的過程不會超過20分鐘 看你怎麼設計系統</span><span class="push-ipdatetime"> 05/29 02:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">az564232</span><span class="f3 push-content">: 直接把你的價目表給家人看 讓他們知道你的腦袋你的時間</span><span class="push-ipdatetime"> 05/29 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">az564232</span><span class="f3 push-content">: 可以值多少</span><span class="push-ipdatetime"> 05/29 02:34
+</span></div><span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 02:45:42
+</span>
+老人家難教的地方在於，他們不是完全不懂
+他們有時也會用自己的判斷力
+這點和服從的小朋友不同
+
+所以，&#34;絕對不可以抱給外面修&#34;，我爸並沒有忘
+但同時他自己找了個但書
+&#34;但你沒空，所以我覺得外面應該也會修吧&#34;
+
+專業他是沒有，但彈性及經驗都有
+在這種狀況下，不管你教什麼
+他都可能用自己的一套把它毀掉
+
+除非那個難到沒有任何人有本事把它毀掉
+包括外面店家也移除不掉你的一鍵還原系統
+
+不然我相信，他不會用一鍵還原
+第一件事就是抱給外面店家了
+然後 ghost 可能就把一鍵還原給洗了吧...
+
+-----------------
+
+我同學是這麼說的:
+如果你嚴格要求不可以給外面店家修
+那就刻鋼板，刻在筆電的外殻上
+是很醜沒錯
+但店家應該會看到吧..
+
+
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 02:50:40
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wowhi</span><span class="f3 push-content">: 深有同感XD~幫QQ</span><span class="push-ipdatetime"> 05/29 02:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">itsforte</span><span class="f3 push-content">: 八卦在？</span><span class="push-ipdatetime"> 05/29 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowhi</span><span class="f3 push-content">: 要教長輩電腦第一步是等他們來問，不然他永遠學不會</span><span class="push-ipdatetime"> 05/29 02:51
+</span></div>
+對，我一直在等他問
+他問時才教得會，這我很認同
+
+結果他都先問社大老師
+我後來又說:把社大老師電話給我，我有把握講過一輪後，以後他都聽我的
+
+我爸不敢咧...
+
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 02:53:02
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowhi</span><span class="f3 push-content">: 第二步是給他們要的，其他不用多講XD</span><span class="push-ipdatetime"> 05/29 02:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 他要的我給不起</span><span class="push-ipdatetime"> 05/29 02:53
+</span></div>
+win xp 後，我給了老爸 win7
+我沒再教他 ghost
+我教他標準的開機按 f9(應該是 f9 吧？）重灌流程 ; recovery partition
+
+同樣的，我沒指望他學會
+如果他學得會，我就教 ghost 了
+速度會比 f9 還快
+
+f9 一次，好像要灌兩小時
+
+那我為什麼要教呢？包括 win xp 那些歷史
+其實那是過程，主要是要他學會&#39;重視&#39;
+
+我寧可他會找我來修，那我灌一次兩小時也就算了
+
+那台電腦還蠻新的喔
+如果不是他要，我還可以用很久
+那是我工作上正在用的電腦， 不是退役機
+
+------------------------------
+
+幾天後他跟我說，電腦壞掉了
+我很驚訝，不可能的事，它 compile 我公司最大的專案還跑得動
+
+回到老家，請他示範
+他開網頁，對岸共匪的檔，打不開
+那我了了
+
+我拿出我最新買的電腦，連同一個網頁，也打不開
+我說: 爸，網路上的東西會變來變去，昨天能開是昨天的事，今天不給你看就是不給你看
+電腦並沒有壞，你看我最新的電腦一樣打不開它
+
+-----------------------------
+
+如果要給我爸他要的，那就是遠比我在用的電腦還要好的
+我覺得，十萬若能辦到好，我都會笑了
+（我用三萬的）
+然後讓他拿來玩接龍...
+
+孝順是很好，但要有技巧
+砸這樣的錢去孝順，我做不來
+
+所以還是有必要教他一些事，讓他知難而退，讓他減少期望
+
+我有想過啊，改買 Mac 給他
+Mac 超強的，中毒洗到乾淨也可以連上網下載整包 OS 回來裝
+這樣總行; 然後 Mac 也會有接龍可以玩吧...
+
+真的要搞到這樣？
+
+<span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 03:03:28
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 等她們問 等她們需求 不然永遠記不起來</span><span class="push-ipdatetime"> 05/29 02:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wowhi</span><span class="f3 push-content">: 1997我媽買電腦給我，叫我要教她電腦，斷斷續續的教到2017</span><span class="push-ipdatetime"> 05/29 02:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 她們永遠記不得 信箱 密碼 Fb line的東西</span><span class="push-ipdatetime"> 05/29 02:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowhi</span><span class="f3 push-content">: 現在她要開桌面的東西，還在問要點一下還是點兩下 QQ</span><span class="push-ipdatetime"> 05/29 02:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cyhb990671</span><span class="f3 push-content">: 教不會還自以為是真的會瘋掉。。拍拍</span><span class="push-ipdatetime"> 05/29 02:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 我媽永遠不學  永遠用一般按鍵機 去年突然用了智慧型</span><span class="push-ipdatetime"> 05/29 03:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sevenny</span><span class="f3 push-content">: 沒聽過chrome的電腦老師！？</span><span class="push-ipdatetime"> 05/29 03:02
+</span></div>
+社大的.. 他有固定開的課程，幹麻去學 chrome?
+IE 就可以和公家機關網頁連接了，功能上已經足夠
+
+chrome 幹麻要會？優點是什麼？老實說它是快，而且內建小工具齊全
+叫他們學一定馬上學會（都瀏覽器嘛）
+但他們就是沒把這個舉一反三的態度教給學生
+
+我媽就堅持用 IE
+而我只要可以帶她到 chrome, 就有內建的記憶密碼系統可以用
+我一直在等她問&#34;密碼記不起來怎麼辦&#34;
+那我就可以開始教
+（其實我也到記不起來的年紀了，沒chrome 幫我記密碼我會死）
+但她就是不問
+
+所以，她從沒自發的覺得有必要學 chrome
+只是不斷的說:你把這東西弄在 IE 上給我，我就會用了
+
+&#34;我只要這個&#34;
+
+前面說了，長輩要什麼給什麼，其他不用多說
+我用 chrome, 三萬的電腦跑得嚇嚇叫
+她要用 IE 跑到嚇嚇叫，那樣的電腦我還買不起
+
+所以我說，他們要的是比我用的還要好的電腦
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 唉 背後原因是要簽大家樂六合彩 和親戚聊牌 聊天</span><span class="push-ipdatetime"> 05/29 03:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 用FB 看動態 教她發文 不要 教她 用LINE 手機其他有</span><span class="push-ipdatetime"> 05/29 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 趣功能也不太想學</span><span class="push-ipdatetime"> 05/29 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 教些基本東西 她老說不學那些有的沒的</span><span class="push-ipdatetime"> 05/29 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 也不跟人講話聊天發動態 只有聊牌 還有阿姨串門子而</span><span class="push-ipdatetime"> 05/29 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 已</span><span class="push-ipdatetime"> 05/29 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 然後我爸 每次換手機 換設備 永遠忘記FB到底那個信箱</span><span class="push-ipdatetime"> 05/29 03:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 密碼 line是多少</span><span class="push-ipdatetime"> 05/29 03:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wowhi</span><span class="f3 push-content">: 幾乎都是要有同儕壓力才會積極想學XD</span><span class="push-ipdatetime"> 05/29 03:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chister</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/29 03:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2470abc</span><span class="f3 push-content">: 幹這篇他媽的有共鳴啊幹 看一看差點哭出來 同感啦</span><span class="push-ipdatetime"> 05/29 03:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Freeven</span><span class="f3 push-content">: 你只要跟你爸說網路上可以看免費的A片就夠了</span><span class="push-ipdatetime"> 05/29 03:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ISDP3</span><span class="f3 push-content">: 自以為了不起，其實做的都是虛工。</span><span class="push-ipdatetime"> 05/29 03:55
+</span></div>
+如果我放手不管
+那麼，我爸一開始是說，他要去買桌上型電腦
+因為以前他都在忙工作，沒空學，但現在工作穩定，有空學了，他想補齊遺憾
+
+我爸的背景是什麼呢？他是小教授二號時代的電腦賣家
+我家以前是賣電腦的啦，他年輕時學這些都很容易
+那時宏碁電腦才剛起來，施家班那個頭，施振榮
+在宏碁做出成績來以前，和下面的銷售體系大家是平起平坐的
+在產品說明會上，他講課講累了，不是坐在椅子上講
+而是整個躺上桌子講（把桌子當床）
+老爸講起這些往事，歷歷在目
+那你覺得他怎麼會以為電腦有多難...
+
+當年八位元時，我家就有軟碟機了，一台一萬元
+十六位元聲霸卡剛出現時，我們就買了
+那時我們從光華商場買卡回來，廠商還不會裝
+我們自己摸索著裝上去
+那時還沒有 win os ,所有硬體都是自己搶一塊位址空間去實現規格; 戰國時代
+什麼和什麼衝很難說，軟體都是 dos 上的，直接驅動
+直到 win os 出來統一天下，開始要有 driver for win
+這些過程，我們都一一經歷過了
+
+所以我爸要買桌上型電腦，而他一定會來問我
+我當然會怕啊，因為我早就不用桌上型電腦了
+我用筆電
+
+桌上型電腦是學生在用的，因為沒有品牌，功能強大，自組約便宜一萬元
+學生才有這個空去組; 出社會後公司也會給，因為有 MIS 幫忙組
+但漸漸的我們覺得錢給別人賺就好，買品牌電腦即可，雖然會貴上一萬
+再後來是買筆電就好，雖然又貴效能又差，但在維修保養上都方便
+尤其是軟體要版權，光華商場的電腦賣家經常另有小房間在幫忙灌沒版權的 OS
+有一年美國超級 301 啟動，盜版電腦一片哀嚎
+台灣政府買下全國版權一年當過渡期
+（也就是說，微軟的大部份軟體，最流行的，OS &amp; office 之類
+只要在台灣使用，台灣人都有版權;我們政府也放過這種地圖炮？！
+我可能記得不精確，但記得有這件事）
+現在地圖炮也還是有，但縮小到學術界
+在學校用軟體的朋友應該有感覺，教學版超好用的
+但你出社會就沒有囉～
+
+我還記得那時和同學聊天:我這台電腦，裝了 autocad 10萬，orcad 10萬
+這樣盜版軟體我就用 20萬了，而我的電腦才五萬
+如果警察來抓，拼著損毀證據，我們也要拔出硬碟往地上摔
+不然這二十萬再乘個五百倍罰下去，一輩子不用翻身了
+
+那陣子大家風聲鶴唳，為了學校功課要裝
+但軟體那麼貴又買不起，教學版也還沒流行
+感覺就很沒安全感;殺雞儆猴也還真的起訴了幾個學生還教授
+誰說不會抓...
+不然你出得起二十萬買原版？
+
+可是筆電就是一堆軟體有版權附給你了
+所以筆電就好
+
+------------------------------------
+
+好，中間這段歷史我爸沒參與
+他說要組桌機
+他沒車，以後送修都是我要載，我家只有我有車
+桌機不會有一堆軟體，他一定捨不得買，會叫我拿
+他八成覺得我既然在業界，我就拿得到
+
+就像我姐也隨口說:你們科技公司不是都會買設備給你用，幾年換一台;拿回家給爸媽用啊
+這種人，自己侵佔公物就以為別人也跟他一樣侵佔公物了
+其實民間公司，賺錢的當然是會買給員工
+不賺錢的，cost down 的，很多都更新設備很慢
+員工受不了就自掏腰包買，誰說我們都用公司給的電腦了？
+
+所以我爸如果自組桌機，就不會有 OS
+我就得替他生;那不如替他買
+
+這樣的坑也不小了，那我為什麼不在還能控制時
+就趕快拋出我的二手電腦給他接
+我自己去買新電腦
+至少我也升級到了，錢花得比較不那麼痛...
+
+所以我能不接手管這些嗎？
+偏是又沒法子...
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HansonTEvo</span><span class="f3 push-content">: 辛苦了 QQ 給推</span><span class="push-ipdatetime"> 05/29 04:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 防止老年癡呆，我南部的朋友都嘛用麻將，維護費很便宜..</span><span class="push-ipdatetime"> 05/29 05:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stevenkuo</span><span class="f3 push-content">: 真沒耐心 XDDD</span><span class="push-ipdatetime"> 05/29 05:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stevenkuo</span><span class="f3 push-content">: 電腦進步太快，工程師反而需要更大的動力去學習&amp;適應</span><span class="push-ipdatetime"> 05/29 05:40
+</span></div>
+我加班太兇已經長腦瘤了
+我不知道還可以花多少時間加班在爸媽要的規格上
+我說真的，他們要的電腦能用十萬組出來我都會笑了
+光是要跑 IE，而不能跑 chrome
+首先就要多花一筆錢，升級更快更大的，不是嘛
+
+他們是用錢解決問題，我是用學習解決問題
+他們有個有錢的兒子，我沒有
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RaiGend0519</span><span class="f3 push-content">: 我家也是這樣，只能給拍拍</span><span class="push-ipdatetime"> 05/29 05:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RaiGend0519</span><span class="f3 push-content">: 我說的永遠記不住，朋友說的就馬上適應</span><span class="push-ipdatetime"> 05/29 06:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RaiGend0519</span><span class="f3 push-content">: 跟老爸說防毒軟體裝一款就好</span><span class="push-ipdatetime"> 05/29 06:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RaiGend0519</span><span class="f3 push-content">: 不知道他年輕的時候聽信那個江湖道士說法</span><span class="push-ipdatetime"> 05/29 06:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RaiGend0519</span><span class="f3 push-content">: 每次電腦出問題就看到快五六個防毒軟體在打架</span><span class="push-ipdatetime"> 05/29 06:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">innocent5857</span><span class="f3 push-content">: 教過n次不懂裝懂，當自己使用跟你說老子不會，以自</span><span class="push-ipdatetime"> 05/29 06:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">innocent5857</span><span class="f3 push-content">: 己觀點還亂教別人，無言</span><span class="push-ipdatetime"> 05/29 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joy12345tony</span><span class="f3 push-content">: 要幫年老的人找回學習的熱情真的很難</span><span class="push-ipdatetime"> 05/29 07:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sheepbear</span><span class="f3 push-content">: 電腦太麻煩了，只要指令超過三個長輩就GG了，給長輩一</span><span class="push-ipdatetime"> 05/29 07:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sheepbear</span><span class="f3 push-content">: 台iPad最簡單。不用開關機、不用滑鼠、手指點點就可以</span><span class="push-ipdatetime"> 05/29 07:51
+</span></div>
+他們要玩遊戲，其實 PS3 就好了
+
+不過幾年前我把 2014年購入的 MBA（原價 $41900）
+二手送朋友;還很新喔！本來是我工作上在用的
+
+不覺得可惜嗎？想不想認我做乾爹？
+我的二手電腦是這樣在汰換的，而他們無法接
+
+其次是我想儘量壓搾老爸的學習動能
+他說過想學 office
+可是老媽這時就很討厭的勸他: 你都退休了，你學 office 要幹麻？
+你打簡報給誰看，記帳給誰看
+
+我們年輕人的學習，是在航向未知的未來
+學 office 不知道有什麼用，不管，先摸清楚再說，以後要用
+
+老年人的學習，卻是在斷捨離
+這東西我沒在用，不學...
+
+可是我看老爸的反應就知道，在那一年之間
+他從一個還有學習能力的人，變成只會做重覆動作的人
+癡呆發生得非常快，不可逆
+
+放棄學習後，就快速老化了
+你不覺得可惜，是因為你覺得他是老人
+但我覺得可惜，因為我知道不久前他還雄心壯志說要組一台桌機
+那時他還很聰明
+
+我現在是 windows/android/ios 下的程式設計師
+（是啦，還有 unix/linux/web 這些更大的領域我還沒做）
+比上不足以下有餘，也算不容易吧..
+
+但以前我的電腦基礎，是我爸教的
+那你知道我有什麼感覺嗎？
+
+在他還學得來時，我不想放棄
+一台 iPad 就是認輸了
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rax921930</span><span class="f3 push-content">: 有時候很懷疑自己幾十年後 會跟科技脫節嗎?會變這麼白</span><span class="push-ipdatetime"> 05/29 07:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rax921930</span><span class="f3 push-content">: 目的老人嗎? 如果不會 是該感謝父母給的教育環境 還是</span><span class="push-ipdatetime"> 05/29 07:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rax921930</span><span class="f3 push-content">: 自己的學習態度? 如果前者 只好感恩幫幫長輩 如果後者</span><span class="push-ipdatetime"> 05/29 07:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rax921930</span><span class="f3 push-content">: 則無需同情白目+白癡的長輩 因為爛泥扶不上壁</span><span class="push-ipdatetime"> 05/29 07:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leoon</span><span class="f3 push-content">: 推，阿肥辛苦了</span><span class="push-ipdatetime"> 05/29 08:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ck290996</span><span class="f3 push-content">: 你已經能理解花錢找人用就好，還會這麼生氣XDD</span><span class="push-ipdatetime"> 05/29 08:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ck290996</span><span class="f3 push-content">: 然後桌電維修不是機車載主機就好嗎？也可以叫人來</span><span class="push-ipdatetime"> 05/29 08:34
+</span></div>
+你是不是台北人？
+我們這裡修電腦要上高速公路，國道六號
+我們鄉下地方沒車很難出門
+我也不放心老爸騎機車那麼遠
+
+他曾經被鐵牛車撞倒（幹，鄉下沒掛車牌的鐵牛車竟然上路，撞到人）
+手臂骨折斷掉
+也因此放棄騎檔車（野狼檔車喔！我還不會騎，如果我會，同學都肯借我重機了
+我們交情超好的）
+
+而對方因為沒車牌，不適用一般道路規則
+我們竟然拿不到賠償
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">barkingdog</span><span class="f3 push-content">: 重點就是原波把爸媽當爸媽，盡力做到最好，要是當客人</span><span class="push-ipdatetime"> 05/29 08:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">barkingdog</span><span class="f3 push-content">: 就不用這麼辛苦了，愛真的是無價啊｡</span><span class="push-ipdatetime"> 05/29 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MOSMOSQQ55</span><span class="f3 push-content">: 靠北原來重點是姐弟嫌隙</span><span class="push-ipdatetime"> 05/29 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ianyang</span><span class="f3 push-content">: 真心推</span><span class="push-ipdatetime"> 05/29 08:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oeas</span><span class="f3 push-content">: 用心在做別人看不懂還亂搞真的會有種我到底是為了什麼的感覺</span><span class="push-ipdatetime"> 05/29 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nopainnogain</span><span class="f3 push-content">: 長輩只想要一鍵萬能吧</span><span class="push-ipdatetime"> 05/29 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevininla</span><span class="f3 push-content">: 雖然我都看不懂還是幫QQ</span><span class="push-ipdatetime"> 05/29 09:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bryan21xxx</span><span class="f3 push-content">: 幫QQ</span><span class="push-ipdatetime"> 05/29 09:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">schopan</span><span class="f3 push-content">: 幫QQ  就像我花一周幫長輩分析他的通話習慣 研究各家方案</span><span class="push-ipdatetime"> 05/29 09:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">schopan</span><span class="f3 push-content">: 的費率及補貼  結果巷口洗髮店阿姨的一句話 就說要改照人</span><span class="push-ipdatetime"> 05/29 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">schopan</span><span class="f3 push-content">: 家的方案下去辦  聽到當場抓狂</span><span class="push-ipdatetime"> 05/29 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">schopan</span><span class="f3 push-content">: 結論  人家高興花退休金你就讓他花啊</span><span class="push-ipdatetime"> 05/29 09:58
+</span></div>
+我爸沒有退休金
+包括老哥刷爆信用卡，老爸幫他還
+其實用的也是我的錢
+
+喔對，除了姐姐，我還有個哥哥
+我就不信一個男孩子學一點電腦來幫老爸有多難
+但全部壓力就還是在我身上了
+
+因為我哥連車都沒有（都卡爆族了）
+沒車他就無法回老家
+我家坐大眾交通回去，要花好幾小時，慢慢搖到外婆橋呢..
+但你如果有車，五十分鐘到！
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 整篇都很悲憤，回歸重點不就是長輩要會用，用得開心嗎？</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 知道你電腦強是工程師，但那對長輩會不會用電腦沒什麼幫助</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 老媽常叫我教她電腦，記一堆筆記最後還是只會開機</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 買大螢幕手機+平板之後幾乎不用教，點下去就會用了，字也比</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 電腦大多了</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 現在還會自己上網搜尋她要找的東西，對，就是用chrome</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: CP值高的一台也沒比組台電腦、買筆電貴</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 也不用花你那麼多時間心力教跟生氣，何苦呢</span><span class="push-ipdatetime"> 05/29 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zyw78</span><span class="f3 push-content">: 有些事想太多太累了</span><span class="push-ipdatetime"> 05/29 10:35
+</span></div>
+他們對我也有期望，所以在我出手抱怨前
+壓力都在我身上沒錯
+
+他們就是想得到坐飛機般的待遇，但不肯去機場
+你有看到我姐的回應那段嗎？
+那就是經典的
+
+我還有回她:那你怎麼不找堂哥呢？他是資訊公司副總，更強咧！
+但你應該知道他沒空吧！那你為什麼覺得我有空？
+以後只要我沒睡我就打電話叫你起床，你敢不敢和我賭這個
+我們付出的代價遠高於常人，別想得太容易
+
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zamp</span><span class="f3 push-content">: 你也許很懂電腦 但你不懂教學 你父母親不是那麼信任你</span><span class="push-ipdatetime"> 05/29 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zamp</span><span class="f3 push-content">: 你需要的是深刻瞭解他們的需求。包含他們不想讓你太忙太累</span><span class="push-ipdatetime"> 05/29 11:00
+</span></div>
+我有說啊，但總要事情發生後才有機會說
+我爸說:難道你一直沒空回家，就一直擺著不修
+我就斬釘截鐵的回:對，就一直擺著，我保證比你拿去外面修快
+現在，你拿去外面修後，一直修不好已經數個月了
+你真的有比較快？
+
+在他承諾不會再拿給外面修後，我才再給他一台 win vista
+這台是我和朋友換來的
+我給他 MBA，他給我 vista
+
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jimcheer</span><span class="f3 push-content">: 試著把流程圖文並茂寫下來看看呢？</span><span class="push-ipdatetime"> 05/29 11:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jimcheer</span><span class="f3 push-content">: 我都會把爸媽電腦手機常遇到或可能遇到的做成類似疑難</span><span class="push-ipdatetime"> 05/29 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jimcheer</span><span class="f3 push-content">: 排解的說明書印出來，幾乎都可以解決</span><span class="push-ipdatetime"> 05/29 11:07
+</span></div>
+我不擅長做筆記
+
+我爸其實自修能力不錯，他說只要有書看，我不用這樣教他
+我說:爸，但現在網路時代，書店都倒了，就是沒有書...
+你首先就是要學上網，上網路社群問
+等你跨過這一段，你學電腦會突飛猛進的
+
+可是他想用 line 問，而哪個網友肯讓人這樣問
+我說正式交流要用 mail, 因為信會等人
+用 line 問是把對方當祕書，隨傳隨到
+除了你兒子，沒人會對你這麼好
+
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyline72050</span><span class="f3 push-content">: 你說的我幾乎全部都發生過...除了我沒你有錢QQ</span><span class="push-ipdatetime"> 05/29 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neglect</span><span class="f3 push-content">: 你這麼認真，不推對不起自己</span><span class="push-ipdatetime"> 05/29 11:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ian90911</span><span class="f3 push-content">: 很真實 也有類似情境 推</span><span class="push-ipdatetime"> 05/29 11:31
+</span></div><span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 12:37:02
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h73o1012</span><span class="f3 push-content">: 哇草好臭的文 尊重你</span><span class="push-ipdatetime"> 05/29 12:00
+</span></div><span class="f2">※ 編輯: HuangJC (175.180.78.57), 05/29/2017 12:39:30
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AGIknight</span><span class="f3 push-content">: 你一開始花多一點錢建置一台適合老人點電腦跟系統根本</span><span class="push-ipdatetime"> 05/29 12:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AGIknight</span><span class="f3 push-content">: 不會有問題，你就是用自己的需求去思考結果你爸媽用的</span><span class="push-ipdatetime"> 05/29 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AGIknight</span><span class="f3 push-content">: 很辛苦，你也維護的很辛苦，全部多餘的白工</span><span class="push-ipdatetime"> 05/29 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wayne790614</span><span class="f3 push-content">: 只有我一直覺得用錯方法麻...你沒有和他們討論過你</span><span class="push-ipdatetime"> 05/29 15:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wayne790614</span><span class="f3 push-content">: 的時間成本有多高吧，沒有防火牆被火燒連營很正常吧</span><span class="push-ipdatetime"> 05/29 15:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnang</span><span class="f3 push-content">: 推 同感</span><span class="push-ipdatetime"> 05/29 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 早討論過了，只是討論不會讓人感同身受，一定要發生的當</span><span class="push-ipdatetime"> 05/29 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 下才能機會教育。我姐也很愛說她當家庭主婦多忙，你信了</span><span class="push-ipdatetime"> 05/29 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 她不就不會去要求她？我媽當過家庭主婦，沒當過工程師，</span><span class="push-ipdatetime"> 05/29 18:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 所以都替我姐說話，說她一年寄一次年菜多有心。相反的我</span><span class="push-ipdatetime"> 05/29 18:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 每週回去還會嫌我上班竟然不接電話。我只好說：我把工作</span><span class="push-ipdatetime"> 05/29 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 辭了回家教你電腦好不好</span><span class="push-ipdatetime"> 05/29 18:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 至於所謂我的需求...我都看開了，電腦送朋友而沒送回家</span><span class="push-ipdatetime"> 05/29 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 裡，沒逼他們接，還要怎樣。我開的條件很簡單：接我的就</span><span class="push-ipdatetime"> 05/29 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 照我的規矩，我負責。自己找的就自己負責，別找我。電腦</span><span class="push-ipdatetime"> 05/29 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 這領域太大，學不完，我除了自己有在用的，其他也沒比別</span><span class="push-ipdatetime"> 05/29 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 人行。千萬不要自己買又叫我負責，我真的學不來。像臉書</span><span class="push-ipdatetime"> 05/29 18:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: ，要問我就用電腦版，手機版我也不會用。不然為何不問姐</span><span class="push-ipdatetime"> 05/29 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 不問哥？只因為我做電腦？我  沒在用的東西反而比路人甲</span><span class="push-ipdatetime"> 05/29 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 還不如</span><span class="push-ipdatetime"> 05/29 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 錢他自己有，真要自組電腦也行，但千萬別找我拿os,別叫</span><span class="push-ipdatetime"> 05/29 18:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 我灌，我知道那問題也很多，你同樣是把問題想得太簡單了</span><span class="push-ipdatetime"> 05/29 18:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 。放大絕就是：你行你來，錢給你，讓你賺好不好</span><span class="push-ipdatetime"> 05/29 18:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 認真文我推</span><span class="push-ipdatetime"> 05/29 19:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmmken321</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 05/30 00:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hakunamatao</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/30 03:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sgg25981393</span><span class="f3 push-content">: 真的是這樣....</span><span class="push-ipdatetime"> 05/31 00:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 我覺得你父母挺欠揍也挺無辜的XDDD 但畢竟是自己爸媽</span><span class="push-ipdatetime"> 05/31 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 還是得教...就像你說的，可怕的是他們不像小孩你說就聽</span><span class="push-ipdatetime"> 05/31 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 爸媽還有自己的經驗與邏輯，我自己有用趨勢的旗艦服務</span><span class="push-ipdatetime"> 05/31 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 你可以給爸媽讓他們盡量打電話去問客服反正吃到飽</span><span class="push-ipdatetime"> 05/31 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 其實除了真的中毒要重灌外最多的就是LINE、FB怎麼用</span><span class="push-ipdatetime"> 05/31 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 這種東西可以交給他們，也會大大降低爸媽對電腦的耗損率</span><span class="push-ipdatetime"> 05/31 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tatu027</span><span class="f3 push-content">: 吧XDDD</span><span class="push-ipdatetime"> 05/31 13:42
+</span></div>
+其實是我媽不想學，所以她勸我爸不要學
+因為我爸不學，她就不會有壓力
+
+但我爸自己想學
+
+前面有人說，我都在看我自己的需求，而不是我爸媽的需求
+
+不是的; 我爸有提出的需求
+
+1.他要自己組一台桌機
+2.他要學 office
+
+桌機我沒空幫他，必需先講;但目前我會覺得，也許當初讓他組桌機算了
+不到黃河心不死，等他發現什麼軟體都要錢，是繞遠路沒錯
+但至少他不會一直說我給他的二手電腦是壞的
+
+而第二點，他用不到 office, 我媽勸他不要學
+這點沒錯，但有時不是用不用得到的問題
+就是一個執念:我覺得我還沒笨到學不來
+只要他想學，他就不會老化
+學了沒用是一回事，不然難道學打麻將的有變賭神嗎？
+
+所以他是有提出需求...
+
+手機可以做類似的事，但就不一樣
+一些事變方便，也就代表一些事學不到
+其實我爸是要挑戰那個學習，你們把他看得太淺了
+
+真正打垮他的是，&#34;沒有書&#34;
+因為他喜歡看書，但他想學的那些，都沒書了，都變網路版了
+他還沒學會 google, 不會網路社群
+這一步怎麼都跨不過去
+
+他想要一直問我，但我沒空
+更尤其那時我在生論文
+能不能畢業就在那一個月
+老師一直問我:公司那麼忙嗎？偶爾回鄉下離開公司，不就有空寫了？
+我回老師:我只要回鄉下就被我爸纏住要學電腦，我只有留在公司有空
+老師很驚訝啊...
+
+什麼事都在同一時間來
+
+就好像錢，不是沒有，但都在軋頭寸
+
+-----------
+
+有些人想凹我，說:你做很快，幫我一下就好
+我會回:但我很沒空，等我忙完我會打電話給你，只要你當時接電話我就做
+對方回:何時
+我說:凌晨四點，要或不要，給我個答案
+他們很驚訝
+但我說:凌晨四點是很晚沒錯，但你現在要我放下公事幫你，你不過份嗎？
+你要凹我，我就要你感受一下我的時間，我過份嗎？
+只要你肯起床我就肯幫喔，你考慮一下
+
+很多人要到這時，才開始感同身受，什麼叫做工程師很沒空...
+
+我在他們心目中是飛機，但加班機凌晨四點才開，有錯嗎？
+<span class="f2">※ 編輯: HuangJC (223.139.68.174), 06/01/2017 01:38:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 趨勢又不是什麼都教，我媽問的問題我都無法回答了</span><span class="push-ipdatetime"> 06/01 01:39
+</span></div>
+我媽問:滑鼠一直跑，停不住，是不是壞掉了
+
+我聽了就想笑:滑鼠是名字叫滑鼠，但它又沒有馬達，怎麼可能一直跑
+一個月後我回鄉下才看懂，我媽不會用電話表達
+
+她是說臉書，她想看舊文，於是捲到最下面
+但捲到最下面，臉書又會繼續載入更舊的文
+何時不會捲？當你已經看到最舊最舊最舊的文（你申請臉書帳號那一天）
+
+這不是滑鼠壞掉，但她認為是滑鼠壞掉
+你最好有本事從電話中教會我媽這個;而這趨勢肯教嗎？
+
+這是她的資訊焦慮症，我本來還不想教她臉書的
+這點我也很生氣，我有循序漸進的計劃，慢慢教她
+這逼我必需馬上教會她，什麼是動態網頁
+為什麼臉書網頁和一般網頁不同，永遠捲不完
+還有，為什麼舅舅說&#34;就在臉書上&#34;，不用理他
+
+
+因為，臉書不是圖書館，它比較像八卦雜誌
+
+我媽還會說:我要看XXXXX，幫我找出來
+我直接就回:我辦不到
+因為臉書不是圖書館
+你可以在臉書上看到很多東西，但不代表你想指定看什麼就有什麼
+
+我媽就因為舅舅說有什麼東西在臉書上，她非要看到不可
+因此有了嚴重的資訊焦慮及失眠
+（她本來就在吃FM2了，該睡就得睡，這下病情很嚴重）
+
+我就比較乾脆了，舅舅被我封鎖了
+阿姨也被我封鎖了
+我媽..前不久也被我封鎖了 XDDDD
+
+我說很多次了，不許發謠言來浪費我時間
+沒辦法，我很忙
+長輩文收兩次我就封鎖，管你是哪個親戚
+
+<span class="f2">※ 編輯: HuangJC (223.139.68.174), 06/01/2017 01:46:57
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 我媽的問題是這些，趨勢會回答嗎？ XD</span><span class="push-ipdatetime"> 06/01 01:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 就是這什麼&#39;滑鼠一直跑&#39;的問題，讓我爸把電腦抱出去修的</span><span class="push-ipdatetime"> 06/01 01:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 這種問題，最好的電腦一樣有，永遠修不好的啦...</span><span class="push-ipdatetime"> 06/01 01:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495994898.A.753.html?cacheKey=2052-10175698&offset=34485&offset-sig=2ad5fc71693488f76238ae92be6a59734a86c58f" data-longpollurl="/v1/longpoll?id=a65791862ac2db3c74089ab161c6555e206fa23d" data-offset="34485"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,282 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496735151.A.D64.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 不堪虧損 女書店七月熄燈 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+不堪虧損 女書店七月熄燈
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 不堪虧損 女書店七月熄燈">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+不堪虧損 女書店七月熄燈
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496735151.A.D64.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496735151.A.D64.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kinchla (在天空遨遊的貓)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 不堪虧損 女書店七月熄燈</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 15:45:49 2017</span></div>
+1.媒體來源:
+自由時報
+
+
+2.完整新聞標題:
+不堪虧損 女書店七月熄燈
+
+
+3.完整新聞內文:
+〔記者凌美雪／台北報導〕開業廿三年的女書店，不堪長期虧損，昨天宣告將於七月一日
+起結束門市營運。
+
+雖然有六百多個女書之友情義相挺，仍挺不過每個月五到七萬元的虧損，女書店店長楊瑛
+瑛說，透過股東們在五月二十一日會議上所做的決定，設下停損點，「先進行債務重整。
+七月股東會選出新的經營者，期待能有一個重新開始的可能性。」這不是「句點」，只是
+暫時畫一個「逗點」。
+
+女書的網路書店、臉書、部落格及出版，都不會停止。門市停止營運之後，店址保留，功
+能轉變為「出版社」性質，讀者依舊可以到這裡選書。
+
+華文世界首家女性主義書店 開業23年
+女書店於一九九四年創立，台大社會系副教授范雲當時仍是台大學生，她形容，女書店的
+出現，對於女性運動及性別平權的啟蒙猶如荒漠甘泉，對門市將暫時熄燈，「遺憾、難過
+也感嘆。」范雲說：「台灣成為亞洲第一個婚姻平權的國家，在性別平等上的成就，女書
+店也貢獻不少力量。」
+
+女書店雖是華文世界第一家女性主義書店，但首位女書之友，其實是住在板橋的一位男性
+醫師，「五十五位股東之中，有三位是男性。」因多數是小額投資，無力挽救日益擴大的
+虧損。
+
+此次為度過資金困難問題，五月曾發起「一千元買書挺女書」活動，連香港詩人黃裕邦也
+自費以活版印刷做了一百一十一份限量紀念詩卡，將販售所得全數捐予女書店，可惜仍難
+以彌補龐大的財務虧損。
+楊瑛瑛說：「到谷底了，我相信若有年輕世代帶進新的創意與行銷概念，將來或許可以全
+新的面貌再出發。」
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://m.ltn.com.tw/news/life/paper/1107134" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/life/paper/1107134</a>
+
+
+5.備註:
+女權加油
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.217.179.156
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496735151.A.D64.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496735151.A.D64.html</a>
+</span><span class="f2">※ 編輯: kinchla (49.217.179.156), 06/06/2017 15:46:32
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 女拳都不花錢買書 慘阿</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 父權害的</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 誰教你不轉型開女拳咖啡店</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sonyabear</span><span class="f3 push-content">: 不堪自助餐競爭</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 書店街都全倒了 現在還光賣書能活下去的書店?</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 女生都去買總裁系列之類言情小說</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 爽 台灣亂象一部分就女權搞出來的</span><span class="push-ipdatetime"> 06/06 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jason0330</span><span class="f3 push-content">: 一定是父權害的</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">em4</span><span class="f3 push-content">: 女權的書沒市場？</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsiyafel</span><span class="f3 push-content">: 女拳自助餐聽起來比較賺</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hall</span><span class="f3 push-content">: 萬惡高房價</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 然後咖啡廳因為不能賣&#34;奶&#34;字的商品 生意大概也不好</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 女權:這份自助餐要一千塊我不點 太貴ㄌ</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 有市場也活不下去啊 就算光賣參考書也只是慘澹經營</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DASHOCK</span><span class="f3 push-content">: 改開自助餐</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jason0330</span><span class="f3 push-content">: 我覺得改成自助餐店比較適合，穩賺不賠</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 最後真的開自助餐比較棒</span><span class="push-ipdatetime"> 06/06 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shirou123</span><span class="f3 push-content">: 抱歉完全沒聽過 可能連自助餐都不知道j三小</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">point09247</span><span class="f3 push-content">: 父權迫害</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: 一定是因為父權壓迫才造成營運不順 父權遺毒 叭叭</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrakis</span><span class="f3 push-content">: 嗯? 店址保留? 這樣不就只是裁掉門市人員+換牌照...</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 不轉型咖啡店 的確很難經營吧 這點算現實了</span><span class="push-ipdatetime"> 06/06 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 獨立書店不賣點咖啡點心 都很難經營下去啦</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahaha0204</span><span class="f3 push-content">: 實體獨立書店快倒光了，剩連鎖的了</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 開放壞壞總裁惹人愛 就有人買</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">purplebfly</span><span class="f3 push-content">: 不叫男生去買嗎??</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">black7412</span><span class="f3 push-content">: 自助餐好吃嗎</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">point09247</span><span class="f3 push-content">: 女權不是都自成一派買書幹嘛？  每個講的都不一樣哈</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smallyuki</span><span class="f3 push-content">: 爽啦</span><span class="push-ipdatetime"> 06/06 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxcvb0412</span><span class="f3 push-content">: 女性主義書店 一般女生哪會想去…</span><span class="push-ipdatetime"> 06/06 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn02997179</span><span class="f3 push-content">: 陸客不來</span><span class="push-ipdatetime"> 06/06 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yniori</span><span class="f3 push-content">: 這個社會有超過50%的女性~女權的書沒市場是誰的問題??</span><span class="push-ipdatetime"> 06/06 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">probsk</span><span class="f3 push-content">: 書就是書還分什麼男女</span><span class="push-ipdatetime"> 06/06 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nashill13</span><span class="f3 push-content">: 換開自助餐店啦，賺飽飽</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 一般女森都喜歡有貓貓的</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brownbear</span><span class="f3 push-content">: 感傷</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrakis</span><span class="f3 push-content">: 他們家的書算軟硬都有，大概是印量/鋪貨一直不順...</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 倒的好，給你一個讚！XD</span><span class="push-ipdatetime"> 06/06 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 開自助餐就賺了</span><span class="push-ipdatetime"> 06/06 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hydra3179</span><span class="f3 push-content">: 會倒不是因為路克布萊跟一例一休害的嗎</span><span class="push-ipdatetime"> 06/06 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 自助餐能賣雞腿熱狗之類的棒狀物嗎</span><span class="push-ipdatetime"> 06/06 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soulivee</span><span class="f3 push-content">: 自助餐玩不過旁邊的鳳城燒臘</span><span class="push-ipdatetime"> 06/06 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momocom</span><span class="f3 push-content">: 母豬教的勝利</span><span class="push-ipdatetime"> 06/06 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyodio</span><span class="f3 push-content">: 關好關滿，大家都看電子書，紙本破壞生態</span><span class="push-ipdatetime"> 06/06 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 女權友善寵物、親子、文創喵喵書坊。這樣生意會好</span><span class="push-ipdatetime"> 06/06 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bohm</span><span class="f3 push-content">: 這跟政府要修法推廣客語有87%像的感覺</span><span class="push-ipdatetime"> 06/06 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 女拳哪有談親子</span><span class="push-ipdatetime"> 06/06 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenyeart</span><span class="f3 push-content">: 標題說熄燈，結果門市還在呀？</span><span class="push-ipdatetime"> 06/06 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YJM1106</span><span class="f3 push-content">: 改成女體書店就可以開到永遠了QQ</span><span class="push-ipdatetime"> 06/06 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st2913sbck</span><span class="f3 push-content">: 都自助餐 怎麼會買書</span><span class="push-ipdatetime"> 06/06 15:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howard840531</span><span class="f3 push-content">: 《純情總裁逼我嫁》</span><span class="push-ipdatetime"> 06/06 16:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sfh20230</span><span class="f3 push-content">: 晉江</span><span class="push-ipdatetime"> 06/06 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dxdy</span><span class="f3 push-content">: 可憐 笑死人了XDDD</span><span class="push-ipdatetime"> 06/06 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mazam</span><span class="f3 push-content">: 噓推文</span><span class="push-ipdatetime"> 06/06 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 女拳崩潰</span><span class="push-ipdatetime"> 06/06 16:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taied</span><span class="f3 push-content">: 好可惜~一個好地方關門了</span><span class="push-ipdatetime"> 06/06 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a27588679</span><span class="f3 push-content">: 不轉型怪我囉？</span><span class="push-ipdatetime"> 06/06 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ohfulow</span><span class="f3 push-content">: 一定是父權書店害的</span><span class="push-ipdatetime"> 06/06 16:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twinway</span><span class="f3 push-content">: 關一關剛好</span><span class="push-ipdatetime"> 06/06 16:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RLH</span><span class="f3 push-content">: 臺灣女權再堅持不合時宜的論述 注定失敗</span><span class="push-ipdatetime"> 06/06 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">basicnet</span><span class="f3 push-content">: 自助餐</span><span class="push-ipdatetime"> 06/06 16:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kenqr</span><span class="f3 push-content">: 這時代所有實體書店都很難經營下去吧 轉型比較實在</span><span class="push-ipdatetime"> 06/06 16:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GrayHS</span><span class="f3 push-content">: 就是寫的爛 沒能力又不檢討自己就是我看到的女權</span><span class="push-ipdatetime"> 06/06 16:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GrayHS</span><span class="f3 push-content">: 整天灌輸自己很棒很值得 沒能力擁有想要的就放大絕</span><span class="push-ipdatetime"> 06/06 16:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GrayHS</span><span class="f3 push-content">: 女人都能當總統了 醒醒吧 自己沒能力不長進而已</span><span class="push-ipdatetime"> 06/06 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 傻逼啊正常女生都關心美妝保養和壞壞總裁何時愛 誰跟妳</span><span class="push-ipdatetime"> 06/06 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 搞女權</span><span class="push-ipdatetime"> 06/06 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mow1982</span><span class="f3 push-content">: 廢死，反核，女權，同志，反中，台獨。</span><span class="push-ipdatetime"> 06/06 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pqoiwe1994</span><span class="f3 push-content">: 仇女不分性別QQ</span><span class="push-ipdatetime"> 06/06 16:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eip937</span><span class="f3 push-content">: 只是知名度不高吧，感覺根本沒聽過這種書店啊</span><span class="push-ipdatetime"> 06/06 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">faiya</span><span class="f3 push-content">: 女權酒吧，然後找一堆歪國男人大談臺灣男人沙文</span><span class="push-ipdatetime"> 06/06 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxst</span><span class="f3 push-content">: 父權遺毒導致女書店倒閉</span><span class="push-ipdatetime"> 06/06 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">avrw</span><span class="f3 push-content">: 聽都沒聽過，難怪要倒</span><span class="push-ipdatetime"> 06/06 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 一定沒有賣師騎小說</span><span class="push-ipdatetime"> 06/06 16:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sean3378</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 06/06 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">codehard</span><span class="f3 push-content">: 父權迫害</span><span class="push-ipdatetime"> 06/06 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerrylin</span><span class="f3 push-content">: 女生都去喝幾百塊的下午茶  誰跟你買書  傻傻的</span><span class="push-ipdatetime"> 06/06 16:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyexers</span><span class="f3 push-content">: 母豬：女權是老娘搜刮利益的口號 不用太認真</span><span class="push-ipdatetime"> 06/06 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 書不一定有人天天買，飯可是天天要吃的欸，不開自助餐</span><span class="push-ipdatetime"> 06/06 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 難怪會島</span><span class="push-ipdatetime"> 06/06 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anson26666</span><span class="f3 push-content">: 沒賣總裁系列的嗎？</span><span class="push-ipdatetime"> 06/06 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gin10791</span><span class="f3 push-content">: 女權不看書的怎麼可能做的起來</span><span class="push-ipdatetime"> 06/06 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">babyMclaren</span><span class="f3 push-content">: 女權基數不夠吧</span><span class="push-ipdatetime"> 06/06 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s910928</span><span class="f3 push-content">: 開的餐廳不是女巫店嗎？</span><span class="push-ipdatetime"> 06/06 17:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e86117934</span><span class="f3 push-content">: 真沒競爭力。</span><span class="push-ipdatetime"> 06/06 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cospergod</span><span class="f3 push-content">: 鬼島是女權自助餐，確實不需要看書</span><span class="push-ipdatetime"> 06/06 17:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diodio2222</span><span class="f3 push-content">: 有人說那一家專賣書還撐下去的 跟你說 是天瓏書局</span><span class="push-ipdatetime"> 06/06 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silencepap</span><span class="f3 push-content">: 開查某間一個月就損益平衡了啦</span><span class="push-ipdatetime"> 06/06 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TauriCrab</span><span class="f3 push-content">: 現在書店都要複合才能生存 不然就是免店租</span><span class="push-ipdatetime"> 06/06 18:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charlie0112</span><span class="f3 push-content">: 誰在乎女權啊 有自助餐吃就好</span><span class="push-ipdatetime"> 06/06 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xmoonlight</span><span class="f3 push-content">: 自助餐害的</span><span class="push-ipdatetime"> 06/06 18:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ttping</span><span class="f3 push-content">: 好可惜!....然後某些推文有構不堪入目</span><span class="push-ipdatetime"> 06/06 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zealeliot</span><span class="f3 push-content">: 有這間？ 要倒了才聽過…行銷做的太爛了吧</span><span class="push-ipdatetime"> 06/06 18:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackred</span><span class="f3 push-content">: 沒競爭力  女的免費  男的2倍</span><span class="push-ipdatetime"> 06/06 18:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GPX2020</span><span class="f3 push-content">: 可見這些自稱女性主義的傢伙根本無法代表全體女性發聲</span><span class="push-ipdatetime"> 06/06 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GPX2020</span><span class="f3 push-content">: 賣個書自己人都不捧場，到底就只是小圈圈在自嗨罷了</span><span class="push-ipdatetime"> 06/06 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">moonstarxs</span><span class="f3 push-content">: 女權書一般書店都買得到吧</span><span class="push-ipdatetime"> 06/06 18:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 一定是 陸客不來</span><span class="push-ipdatetime"> 06/06 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">H2OYi</span><span class="f3 push-content">: 獨立書店倒閉居然有一堆人幸災樂禍，台灣社會真可悲</span><span class="push-ipdatetime"> 06/06 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nojydia</span><span class="f3 push-content">: 台灣的女權自助餐 罪有應得</span><span class="push-ipdatetime"> 06/06 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gerogexpg</span><span class="f3 push-content">: 母豬書店</span><span class="push-ipdatetime"> 06/06 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hodj</span><span class="f3 push-content">: 不會改成茶店喔？ 馬上一個月有盈餘</span><span class="push-ipdatetime"> 06/06 20:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yellow5</span><span class="f3 push-content">: 如果不是高房價壓抑人民消費力，花點錢在書本上面是OK的</span><span class="push-ipdatetime"> 06/06 20:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 獨立書店倒閉居然有一堆人幸災樂禍，台灣社會真可悲+1</span><span class="push-ipdatetime"> 06/06 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hiyahome</span><span class="f3 push-content">: 女體書店XDDD</span><span class="push-ipdatetime"> 06/06 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fordayever</span><span class="f3 push-content">: 沒聽過就不必來鬧了 這麼有名...</span><span class="push-ipdatetime"> 06/06 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 一堆沒知識的推文在莫名嘲諷</span><span class="push-ipdatetime"> 06/06 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Motor</span><span class="f3 push-content">: 可憐之人必有可恨之處</span><span class="push-ipdatetime"> 06/06 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DaGarn</span><span class="f3 push-content">: 轉型女拳館 收徒無數</span><span class="push-ipdatetime"> 06/07 00:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VirgilAeneid</span><span class="f3 push-content">: 超星白冰冰女拳全力相挺.</span><span class="push-ipdatetime"> 06/07 00:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo1107ss</span><span class="f3 push-content">: 我還以為標題打錯</span><span class="push-ipdatetime"> 06/07 02:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kevin10613</span><span class="f3 push-content">: 反核的低能兒連書店都開不好</span><span class="push-ipdatetime"> 06/07 02:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">swe1096</span><span class="f3 push-content">: ..</span><span class="push-ipdatetime"> 06/07 06:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q9154336</span><span class="f3 push-content">: bye~</span><span class="push-ipdatetime"> 06/07 07:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k956425410</span><span class="f3 push-content">: 時代在轉型</span><span class="push-ipdatetime"> 06/07 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 文青連個書店都開不好 還想管果菜公司</span><span class="push-ipdatetime"> 06/07 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ahaha777</span><span class="f3 push-content">: 真女權面臨死亡 假女權之名大行其道 倒就倒吧...台灣人</span><span class="push-ipdatetime"> 06/07 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ahaha777</span><span class="f3 push-content">: 本來就都奧客 想聊解並推動理想的人鳳毛麟角</span><span class="push-ipdatetime"> 06/07 14:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waiter337</span><span class="f3 push-content">: 看來不改成邊緣人書店穩死,男的比較會看書</span><span class="push-ipdatetime"> 06/07 16:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jenqhau</span><span class="f3 push-content">: 開母豬書店 羊腸專區 公主並區 說不定可以</span><span class="push-ipdatetime"> 06/07 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SE4NLN415</span><span class="f3 push-content">: 性別歧視在21世紀是行不通的 你有看過男性書店?</span><span class="push-ipdatetime"> 06/07 20:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496735151.A.D64.html?cacheKey=2052-2765052&offset=14037&offset-sig=f864b05e0a3bff9fde6bb1a822c03cbb80cb9cd6" data-longpollurl="/v1/longpoll?id=359cca033161327a3ca296538c58842a5f9f590c" data-offset="14037"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

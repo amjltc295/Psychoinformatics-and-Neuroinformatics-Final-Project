@@ -1,0 +1,198 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496307813.A.FA7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 前瞻創5萬就業機會？ 黃國昌揭國發會「驚 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+自由時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 前瞻創5萬就業機會？ 黃國昌揭國發會「驚">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+自由時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496307813.A.FA7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496307813.A.FA7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">riegel (阿修羅)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 前瞻創5萬就業機會？ 黃國昌揭國發會「驚</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 17:03:30 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+自由時報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+前瞻創5萬就業機會？ 黃國昌揭國發會「驚人」算法....
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+2017-06-01  15:40
+
+〔即時新聞／綜合報導〕行政院發言人徐國勇日前指出，前瞻計畫是經過政府長期的醞釀
+規劃，預計8年可創造4萬到5萬個就業機會。時代力量立委黃國昌對於這個數字存疑，去
+函國發會詢問計算方法。
+
+黃國昌在臉書PO文表示，「我完全沒有想到，國發會的推估方式，竟然如此簡單。
+簡單到令人不敢置信」，並且詳列國發會計算方法如下：
+
+1.前瞻八年的總經費是882,490,000,000，平均一年110,311,250,000元。
+
+2.國發會的計算，奠基在兩個假設條件：
+A.總經費先扣除15%的土地費用，然後20%-25%的工程經費用於人力；
+B.營造業受僱員工平均每月薪資43,000元，每年領12個月。
+
+3.因此，平均增加就業機會為36343-45429人。
+算式：
+110,311,250,000*（1-15%）*20% / （43000*12） = 36343
+110,311,250,000*（1-15%）*25% / （43000*12） = 45429
+
+黃國昌指出，「增加3萬6千多人到4萬5千多人，國發會說四捨五入，所以是4-5萬人。
+嗯。您贊同國發會這樣的推估嗎」，並且批評，「依建設項目估計的平均就業機會，數字
+絕對是錯的，行政院應該明確予以更正」。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="http://news.ltn.com.tw/news/politics/breakingnews/2085567" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/politics/breakingnews/2085567</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.141.165.77
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496307813.A.FA7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496307813.A.FA7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robert7066</span><span class="f3 push-content">: 馬上應徵了</span><span class="push-ipdatetime"> 06/01 17:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinkowa</span><span class="f3 push-content">: ................垃圾不分藍綠</span><span class="push-ipdatetime"> 06/01 17:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andyher</span><span class="f3 push-content">: 其實這樣算我感覺合理耶</span><span class="push-ipdatetime"> 06/01 17:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elec1141</span><span class="f3 push-content">: 錢詹個屁 幹</span><span class="push-ipdatetime"> 06/01 17:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KIDDLEE</span><span class="f3 push-content">: 呵呵呵呵呵</span><span class="push-ipdatetime"> 06/01 17:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xin317</span><span class="f3 push-content">: 5萬名外勞的就業機會</span><span class="push-ipdatetime"> 06/01 17:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feelfeel</span><span class="f3 push-content">: 菜主子說什麼就給我吞什麼，小心聯合蛆蛆一起拔掉你</span><span class="push-ipdatetime"> 06/01 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 可憐的民進黨 把最優的立委戰將 拉去幫一隻爛雜狗辯護</span><span class="push-ipdatetime"> 06/01 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mrlcoco</span><span class="f3 push-content">: 政府在玩數字遊戲</span><span class="push-ipdatetime"> 06/01 17:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ben88811</span><span class="f3 push-content">: 外勞月薪有4.3w?</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 徐國勇如果在立委 絕對是戰力200% 跑去幫狗雜種辯護 戰力</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 變成30%</span><span class="push-ipdatetime"> 06/01 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 那女人的老相好 害死人</span><span class="push-ipdatetime"> 06/01 17:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hoberg</span><span class="f3 push-content">: 債留子孫</span><span class="push-ipdatetime"> 06/01 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">veryGY</span><span class="f3 push-content">: 都外勞 能增甚麼機會?</span><span class="push-ipdatetime"> 06/01 17:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hamaoka</span><span class="f3 push-content">: 外勞阿</span><span class="push-ipdatetime"> 06/01 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piece1</span><span class="f3 push-content">: 長期醞釀...智庫是哪些人講出來笑一下?</span><span class="push-ipdatetime"> 06/01 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 土地經費 跟興建經費都是&#34;估&#34;出來的</span><span class="push-ipdatetime"> 06/01 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 然後直接平均 不用算大包小包承包商要賺的?</span><span class="push-ipdatetime"> 06/01 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 灑錢一定會促進就業 但是絕對不是這樣估的</span><span class="push-ipdatetime"> 06/01 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anvec</span><span class="f3 push-content">: 比較現實的算法是 每轉一次包 老闆要拿40-50%</span><span class="push-ipdatetime"> 06/01 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ReiFan</span><span class="f3 push-content">: 假設所有建案被東尼史塔克承包好了，然後東尼自己把技術活</span><span class="push-ipdatetime"> 06/01 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ReiFan</span><span class="f3 push-content">: 做了，勞力活包給22k，請問實際上製造了多少個工作機會?</span><span class="push-ipdatetime"> 06/01 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kikikokouuu</span><span class="f3 push-content">: 笑死回扣怎麼沒算</span><span class="push-ipdatetime"> 06/01 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 戰神又得罪人了</span><span class="push-ipdatetime"> 06/01 17:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windgaia</span><span class="f3 push-content">: 會有這種計算 腦袋應該非常的差 合理的講法都提不出來</span><span class="push-ipdatetime"> 06/01 17:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">renu186667</span><span class="f3 push-content">: 別瞧不起外勞唷，我在我們工地看過很多外勞的投保薪</span><span class="push-ipdatetime"> 06/01 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">renu186667</span><span class="f3 push-content">: 資都四萬以上</span><span class="push-ipdatetime"> 06/01 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YSJ543</span><span class="f3 push-content">: 營建業真的好賺相對的操勞</span><span class="push-ipdatetime"> 06/01 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sexygnome</span><span class="f3 push-content">: 現有工人是還沒就業就對了啦</span><span class="push-ipdatetime"> 06/01 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skychris</span><span class="f3 push-content">: 少數認真立委,給推</span><span class="push-ipdatetime"> 06/01 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skychris</span><span class="f3 push-content">: 八卦吱吱快出來噓阿</span><span class="push-ipdatetime"> 06/01 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dogreen</span><span class="f3 push-content">: 腦殘算法。</span><span class="push-ipdatetime"> 06/01 18:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b0610213</span><span class="f3 push-content">: 哇 吱吱都消失了</span><span class="push-ipdatetime"> 06/01 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">inderal</span><span class="f3 push-content">: 吱黨工是否該出來說句話呀？</span><span class="push-ipdatetime"> 06/01 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tokuchi2013</span><span class="f3 push-content">: 8800億創造5萬工作機會，還真物超所值啊！</span><span class="push-ipdatetime"> 06/01 20:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/01 20:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 吱吱出來洗地啊</span><span class="push-ipdatetime"> 06/01 20:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serrier</span><span class="f3 push-content">: 所以敢點明國發會人員嘛？不敢的話就只是作秀罷了</span><span class="push-ipdatetime"> 06/01 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kentshi</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 06/01 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serrier</span><span class="f3 push-content">: 整天臉書發文？不敢在立法院講？事後對記者發言？</span><span class="push-ipdatetime"> 06/01 20:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496307813.A.FA7.html?cacheKey=2052-12426270&offset=5836&offset-sig=65291ae847ef0ea60dad4ed7cf60d4636d4631c0" data-longpollurl="/v1/longpoll?id=374f6ad433e8dcbc89ea502e489f8c031ce04439" data-offset="5836"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

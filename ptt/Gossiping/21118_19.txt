@@ -1,0 +1,181 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495679413.A.13E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 因應花博發行市民卡 議員憂成「蚊子卡」 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="因應花博發行市民卡 議員憂成「蚊子卡」
+http://news.ltn.com.tw/news/local/paper/1105215
+三百萬張 經費高達二億五千萬
+〔記者蘇金鳳／台中報導〕台中市即將在明年發行市民卡，市議員張耀中廿四日在市議會
+提出質詢，指全國有三個縣市有發行市民卡，成效都不彰，而台中市因應花博發行三百萬
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 因應花博發行市民卡 議員憂成「蚊子卡」">
+<meta property="og:description" content="因應花博發行市民卡 議員憂成「蚊子卡」
+http://news.ltn.com.tw/news/local/paper/1105215
+三百萬張 經費高達二億五千萬
+〔記者蘇金鳳／台中報導〕台中市即將在明年發行市民卡，市議員張耀中廿四日在市議會
+提出質詢，指全國有三個縣市有發行市民卡，成效都不彰，而台中市因應花博發行三百萬
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495679413.A.13E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495679413.A.13E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hiyoyi (波塞多)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 因應花博發行市民卡 議員憂成「蚊子卡」</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 10:30:11 2017</span></div>
+因應花博發行市民卡 議員憂成「蚊子卡」
+
+<a href="http://news.ltn.com.tw/news/local/paper/1105215" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/local/paper/1105215</a>
+
+
+
+三百萬張 經費高達二億五千萬
+
+〔記者蘇金鳳／台中報導〕台中市即將在明年發行市民卡，市議員張耀中廿四日在市議會
+提出質詢，指全國有三個縣市有發行市民卡，成效都不彰，而台中市因應花博發行三百萬
+張市民卡，經費二億五千萬元，屆時恐成為「蚊子卡」，而且一張成本約八十多元，因明
+年選舉到，恐易遭外界質疑賄選，要求市府暫緩發行。
+
+
+交通局長：享有10公里免費公車
+
+交通局長王義川表示，市民卡預計明年四月前發送到每位市民的手中，民眾將可以不用再
+使用悠遊卡，花博一旦開展，市民可免費進場一次，而市民卡也將結合公車十公里免費，
+唯有台中市民可享有十公里免費公車及捷運優惠，還有進行市府各局處推出集點活動，明
+年四月前，將由民政系統直接發卡給設籍台中市或就讀台中轄區大學的每位市民，與其他
+縣市申請制不同。
+
+市議員張耀中昨天表示，因應花博，市府明年將發行市民卡，要發行三百萬張，經費約二
+．五億。
+
+
+議員：外縣市成效不佳 促暫緩
+
+張耀中昨天表示，目前已有三個縣市發行過市民卡，但成效卻是慘不忍睹，台中市若發行
+市民卡，屆時恐怕成了「蚊子卡」，建議市府暫停發行。
+
+張耀中表示，新竹市在一○二年發行市民卡，具備電子身分識別功能及多項「好康」優惠
+，總發行量達十七萬四千張，但是進入市府資料庫當大數據的約六千張，比例約三％。
+
+台南市在一○四年四月發行，斥資二千八百多萬元，辦卡率僅十五％，擁有一卡通及特約
+店家優惠、繳費與大眾運輸優惠等，但仍有多數市民不清楚市民卡功用為何。
+
+桃園市桃樂卡是在一○四年九月發行，發行達六十一萬張，除敬老卡和學生卡有乘車優惠
+的交通誘因外，使用率不到二成，逾十萬張而已。
+
+張耀中同時表示，每一張市民卡成本約八十多元，而且是在明年發行，但明年底就要選舉
+，市府要注意是否被外界質疑有賄選的嫌疑。
+
+王義川表示，一張卡片製卡費約二、三十元，八十元是加上一些建置費用，第二階段就可
+扣除建置費用。
+
+
+
+
+新聞來源:自由時報
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 117.56.85.145
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495679413.A.13E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495679413.A.13E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #三小</span><span class="push-ipdatetime"> 05/25 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Gossiking</span><span class="f3 push-content">: 蚊子：乾我屁事</span><span class="push-ipdatetime"> 05/25 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Ilat</span><span class="f3 push-content">: 白癡喔 用支付寶就好啦</span><span class="push-ipdatetime"> 05/25 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rsstar</span><span class="f3 push-content">: 製作防蚊貼紙</span><span class="push-ipdatetime"> 05/25 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 哪個政黨都一樣都在搞類似的東西真的是活在台灣的悲哀</span><span class="push-ipdatetime"> 05/25 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 好有錢</span><span class="push-ipdatetime"> 05/25 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Atwo</span><span class="f3 push-content">: 花博真的是辦來浪費公帑的</span><span class="push-ipdatetime"> 05/25 10:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Atwo</span><span class="f3 push-content">: 很喜歡辦一些浮誇名副其實的展覽運動會 當作政績</span><span class="push-ipdatetime"> 05/25 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 如果也有公車卡功能可以儲值不就好了嗎</span><span class="push-ipdatetime"> 05/25 10:34
+</span></div><span class="f2">※ 編輯: hiyoyi (117.56.85.145), 05/25/2017 10:35:04
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joumay</span><span class="f3 push-content">: 發 都發 黑龍捏 大發利市沒問題的</span><span class="push-ipdatetime"> 05/25 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Taiwan50</span><span class="f3 push-content">: 本來就在刷卡搭公車了…和原本的到底哪裡不一樣 = =</span><span class="push-ipdatetime"> 05/25 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">F10</span><span class="f3 push-content">: 票證公司的大客戶，一次下單三百萬張吔！</span><span class="push-ipdatetime"> 05/25 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 沒事 才佔新增負債的2%左右而已 黑龍花點錢錯了嗎</span><span class="push-ipdatetime"> 05/25 10:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GimO</span><span class="f3 push-content">: 黑龍各種亂花錢</span><span class="push-ipdatetime"> 05/25 14:46
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495679413.A.13E.html?cacheKey=2052-55116&offset=3417&offset-sig=aebb0c41b6c4a498d9b62fe4e5254cc7dff43191" data-longpollurl="/v1/longpoll?id=d3ec75c7430d289d0923702e9764064b310214c3" data-offset="3417"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

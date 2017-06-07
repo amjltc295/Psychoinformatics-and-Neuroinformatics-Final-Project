@@ -1,0 +1,200 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495499800.A.985.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 7款新電腦病毒合一？ 專家：恐大規模入侵 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+中國時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 7款新電腦病毒合一？ 專家：恐大規模入侵">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+中國時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495499800.A.985.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495499800.A.985.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">a828203 (催化劑)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 7款新電腦病毒合一？ 專家：恐大規模入侵</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 08:36:37 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+中國時報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+7款新電腦病毒合一？ 專家：恐大規模入侵
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+又有新電腦病毒？克羅埃西亞（Republika Hrvatska）一名網路安全專家史坦帕（
+Miroslav Stampar）發現一款集結7種駭客程式的新攻擊軟體，他警告這波攻擊若爆發，
+災情恐怕會比WannaCry更嚴重。
+
+勒索病毒新變種UIWIX現身 趨勢科技教你一招防堵
+
+思科：網路勒索要從源頭阻斷
+
+據《東網》報導，史坦帕稱，這款攻擊軟體結合了疑似從美國國家安全局（National
+Security Agency，縮寫：NSA）竊取的7種駭客程式，由駭客組織「影子掮客」（Shadow
+Brokers）外洩。根據史坦帕的研究，這款新攻擊軟體入侵電腦時分成2階段，第一階段完
+成24小時後，第二階段才會執行，為的是避免防毒軟體偵測到。
+
+史坦帕表示，駭客把這些程式集中在一個軟體裡，顯然想利用漏洞發動攻勢，他推測將有
+一波比WannaCry更嚴重的病毒攻擊。
+
+這款攻擊軟體包含EternalBlue、EternalRomance以及DoublePulsar，其中，「永恆之藍
+」（EternalBlue）據悉是NSA用以入侵網路的駭客工具，卻被其他駭客偷取並散播。日前
+已有科技公司發現同樣利用EternalBlue漏洞的新病毒「UIWIX」，而且比WannaCry更狡猾
+且不留痕跡。
+
+專家呼籲，除了切斷電腦中可能遭感染的路徑、確認漏洞是否確實修補，使用者平時也應
+養成資料備份的習慣，勿開啟來路不明的網站及檔案，並確保電腦系統和防毒軟體能自動
+完成更新。
+
+(中時電子報)
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="http://www.chinatimes.com/realtimenews/20170523001378-260412" target="_blank" rel="nofollow">http://www.chinatimes.com/realtimenews/20170523001378-260412</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.167.134.166
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495499800.A.985.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495499800.A.985.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">barbarian72</span><span class="f3 push-content">: 五樓屁眼有四種性病混合</span><span class="push-ipdatetime"> 05/23 08:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">i7851</span><span class="f3 push-content">: 要你命2000</span><span class="push-ipdatetime"> 05/23 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiminocodo</span><span class="f3 push-content">: 七合一病毒(&#39;・ω・&#39;)</span><span class="push-ipdatetime"> 05/23 08:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 五樓的屁眼有毒</span><span class="push-ipdatetime"> 05/23 08:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 源頭阻斷？炸了NSA跟微軟總部嗎？</span><span class="push-ipdatetime"> 05/23 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awesomeSS66</span><span class="f3 push-content">: 用電腦記得多洗手戴口罩</span><span class="push-ipdatetime"> 05/23 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 哦</span><span class="push-ipdatetime"> 05/23 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiphopboy7</span><span class="f3 push-content">: 哇靠 是要你命3000啊</span><span class="push-ipdatetime"> 05/23 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deangod99</span><span class="f3 push-content">: 七合一就比較強?  要你命3000的概念嗎</span><span class="push-ipdatetime"> 05/23 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pths313</span><span class="f3 push-content">: 趨勢科技教你一招防堵?? 恩?這是不是業配</span><span class="push-ipdatetime"> 05/23 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wolver</span><span class="f3 push-content">: 趨勢......這間我pass.</span><span class="push-ipdatetime"> 05/23 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">baobeising</span><span class="f3 push-content">: 資料備份有個屁用 機密資料或隱私被拿走就沒用了</span><span class="push-ipdatetime"> 05/23 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">donation12</span><span class="f3 push-content">: 電腦蠱毒？</span><span class="push-ipdatetime"> 05/23 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freewindg</span><span class="f3 push-content">: 趨勢還可以阿 不過好像要收費</span><span class="push-ipdatetime"> 05/23 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rich3826</span><span class="f3 push-content">: 七合變體魔王</span><span class="push-ipdatetime"> 05/23 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thomaschion</span><span class="f3 push-content">: 趨勢哦？我只知道擋註冊機很厲害。</span><span class="push-ipdatetime"> 05/23 08:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q76211635</span><span class="f3 push-content">: 趕快加裝安全衛士360吧！</span><span class="push-ipdatetime"> 05/23 09:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDGC</span><span class="f3 push-content">: 安全衛士360+金山毒霸二合一就夠了</span><span class="push-ipdatetime"> 05/23 09:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HaHaPoint</span><span class="f3 push-content">: 要你命3000</span><span class="push-ipdatetime"> 05/23 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kongxincai</span><span class="f3 push-content">: 沒事兒 打個七合一疫苗就行</span><span class="push-ipdatetime"> 05/23 09:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Toge</span><span class="f3 push-content">: 有誰沒事會裝駭客軟體.....</span><span class="push-ipdatetime"> 05/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 台灣早中了,三寶x屁孩x巴嘎囧x台女x小黃x慣老闆x鄉民7合1</span><span class="push-ipdatetime"> 05/23 09:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sinkage</span><span class="f3 push-content">: 從vista到win10都只用windows defender還沒重過毒</span><span class="push-ipdatetime"> 05/23 09:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: Win7再戰十年</span><span class="push-ipdatetime"> 05/23 09:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsx26997785</span><span class="f3 push-content">: 裝卡巴</span><span class="push-ipdatetime"> 05/23 09:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilove5072</span><span class="f3 push-content">: 業配文</span><span class="push-ipdatetime"> 05/23 09:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">esp0122</span><span class="f3 push-content">: 毒都比防毒軟體強 搞屁喔</span><span class="push-ipdatetime"> 05/23 09:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">horse2819</span><span class="f3 push-content">: 我都用360</span><span class="push-ipdatetime"> 05/23 09:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 天網:我這不就是來了?</span><span class="push-ipdatetime"> 05/23 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s175</span><span class="f3 push-content">: 金山360煉蠱大成</span><span class="push-ipdatetime"> 05/23 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 要帶電腦去醫院  打7合一 疫苗</span><span class="push-ipdatetime"> 05/23 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pda2001</span><span class="f3 push-content">: 要你命3000的概念</span><span class="push-ipdatetime"> 05/23 11:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kersihi</span><span class="f3 push-content">: 要你命3000~~~~~~~</span><span class="push-ipdatetime"> 05/23 11:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rumirumi</span><span class="f3 push-content">: 每種病毒都獨當一面</span><span class="push-ipdatetime"> 05/23 17:36
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495499800.A.985.html?cacheKey=2052-37764932&offset=5317&offset-sig=47ab6238a4ef2e39477406bf6c56cbd17fdfb4d6" data-longpollurl="/v1/longpoll?id=67f89ae0184802937c069b2e7bfca87ae7c84b54" data-offset="5317"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

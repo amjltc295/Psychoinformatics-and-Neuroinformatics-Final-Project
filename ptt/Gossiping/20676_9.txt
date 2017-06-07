@@ -1,0 +1,183 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495381656.A.482.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 聖母峰攻頂前最險一關「希拉瑞台階」塌了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+聖母峰攻頂前最險一關 「希拉瑞台階」塌了
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 聖母峰攻頂前最險一關「希拉瑞台階」塌了">
+<meta property="og:description" content="1.媒體來源:
+自由時報
+2.完整新聞標題:
+聖母峰攻頂前最險一關 「希拉瑞台階」塌了
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495381656.A.482.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495381656.A.482.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ss910126 (Yukino my wife)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 聖母峰攻頂前最險一關「希拉瑞台階」塌了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 23:47:32 2017</span></div>
+1.媒體來源:
+自由時報
+
+2.完整新聞標題:
+聖母峰攻頂前最險一關 「希拉瑞台階」塌了
+
+3.完整新聞內文:
+
+〔即時新聞／綜合報導〕聖母峰的著名地標「希拉瑞台階」（Hillary Step）是登山者攻
+頂前的最艱鉅挑戰。登山家近期證實，「希拉瑞台階」已經坍塌了，今後登頂可能變得更
+加危險。
+
+英國《BBC》報導，「希拉瑞台階」位於聖母峰東南側，是高12公尺、近乎垂直的岩石斷
+面。1953年，紐西蘭登山家希拉瑞（Edmund Hillary）是第一個征服它的人，因此以其為
+名。
+
+英國登山家莫斯戴爾（Tim Mosedale）在5月16日登頂後證實，「希拉瑞台階」已經不存
+在了，「因為巨大的岩石左一塊右一塊，攀登時可能很難對付。」
+登山家認為，「希拉瑞台階」坍塌可能是2015年尼泊爾大地震造成的。去年5月，美國喜
+馬拉雅山基金會發布的照片似乎已顯示「希拉瑞台階」已經改變了形狀，但因為積雪，難
+以準確判斷。
+
+莫斯戴爾說，「確實，我去年也攀登過，但是無法準確判斷台階是否不存在了，因為這一
+帶下了大雪。」他接著表示，「不過今年，我可以匯報，被命名為『希拉瑞台階』的巨石
+肯定不存在了。」
+
+登山家指出，被積雪覆蓋的坡面比岩石斷面更容易攀登，但也可能造成嚴重的「瓶頸」。
+英國登山家波寧頓（Chris Bonington）2012年曾表示，如果天氣好，在台階處等候1、2
+個小時可能影響不大。「如果天氣糟糕，2個半小時的等候，差別可能就是生與死。」
+
+「BBC中文網」指出，近年因商業珠峰探險盛行，在尖峰期，「希拉瑞台階」出現登山客
+嚴重擁堵的情形。尼泊爾當局曾經考慮過在這裡修建一座永久性的梯子。
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/world/breakingnews/2074829" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/world/breakingnews/2074829</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.126.31.54
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495381656.A.482.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495381656.A.482.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 五樓屌也塌了</span><span class="push-ipdatetime"> 05/21 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 樓下凶宅</span><span class="push-ipdatetime"> 05/21 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jacky01023</span><span class="f3 push-content">: 不是樓下才是</span><span class="push-ipdatetime"> 05/21 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 保潔你怎麼看</span><span class="push-ipdatetime"> 05/21 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justin194</span><span class="f3 push-content">: 蓋</span><span class="push-ipdatetime"> 05/21 23:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justin194</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/21 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 川普肛的</span><span class="push-ipdatetime"> 05/21 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lead0722</span><span class="f3 push-content">: 對應洪秀柱垮台 恐怖喔</span><span class="push-ipdatetime"> 05/21 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 夷得慢，又擋在別人前面的是三寶..登山界的三寶會要人命的</span><span class="push-ipdatetime"> 05/21 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amovie</span><span class="f3 push-content">: 希拉蕊早就塌了  被川普打臉打爆了</span><span class="push-ipdatetime"> 05/21 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 爬</span><span class="push-ipdatetime"> 05/21 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 希粉崩潰</span><span class="push-ipdatetime"> 05/21 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: <a href="http://imgur.com/a/QxSCT" target="_blank" rel="nofollow">http://imgur.com/a/QxSCT</a> 前後對照</span><span class="push-ipdatetime"> 05/21 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">horseface</span><span class="f3 push-content">: 希粉崩潰</span><span class="push-ipdatetime"> 05/21 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adon0313</span><span class="f3 push-content">: 感覺變比較好爬欸</span><span class="push-ipdatetime"> 05/21 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">khalid</span><span class="f3 push-content">: 以前就是最難爬的一關 之後山頂大概人滿為患了</span><span class="push-ipdatetime"> 05/22 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hyuchi0202</span><span class="f3 push-content">: 等蓋好電梯我再去爬</span><span class="push-ipdatetime"> 05/22 00:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">replay1812</span><span class="f3 push-content">: 希粉崩潰</span><span class="push-ipdatetime"> 05/22 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twdvdr</span><span class="f3 push-content">: 要帶氧氣筒爬蠻危險的</span><span class="push-ipdatetime"> 05/22 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevabc1</span><span class="f3 push-content">: OMG 這段超級精彩跟富有意義的 現在塌掉了好難過啊QQQQ</span><span class="push-ipdatetime"> 05/22 00:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 左邊 感覺隨時會滑下去</span><span class="push-ipdatetime"> 05/22 01:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greedystar1</span><span class="f3 push-content">: 希拉蕊表示 黑人???</span><span class="push-ipdatetime"> 05/22 01:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">munichuihsin</span><span class="f3 push-content">: 等蓋電梯或健康步道可能等一輩子也等不到，除非人類</span><span class="push-ipdatetime"> 05/22 01:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lucifiel1618</span><span class="f3 push-content">: 希拉蕊崩潰(物理</span><span class="push-ipdatetime"> 05/22 01:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">munichuihsin</span><span class="f3 push-content">: 突然得到外星科技。</span><span class="push-ipdatetime"> 05/22 01:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 希拉蕊駕崩了</span><span class="push-ipdatetime"> 05/22 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 雪崩式民調</span><span class="push-ipdatetime"> 05/22 02:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">handsomecat</span><span class="f3 push-content">: 輸給川普  崩了正常</span><span class="push-ipdatetime"> 05/22 16:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495381656.A.482.html?cacheKey=2052-50268683&offset=4609&offset-sig=fd84ac1bd3be81bc508b8769f8f951a88e163814" data-longpollurl="/v1/longpoll?id=7eb73b5887034433f91f55bb324ee529a90466f0" data-offset="4609"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

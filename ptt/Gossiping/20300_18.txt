@@ -1,0 +1,291 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495111204.A.471.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「蝦味先」恐斷貨...裕榮食品即起遭勒令 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+ETtoday
+2.完整新聞標題:
+「蝦味先」恐斷貨...裕榮食品即起遭勒令全面停業！
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「蝦味先」恐斷貨...裕榮食品即起遭勒令">
+<meta property="og:description" content="1.媒體來源:
+ETtoday
+2.完整新聞標題:
+「蝦味先」恐斷貨...裕榮食品即起遭勒令全面停業！
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495111204.A.471.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495111204.A.471.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ws089032 (123)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「蝦味先」恐斷貨...裕榮食品即起遭勒令</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 20:40:01 2017</span></div>
+1.媒體來源:
+ETtoday
+
+2.完整新聞標題:
+「蝦味先」恐斷貨...裕榮食品即起遭勒令全面停業！
+
+3.完整新聞內文:
+
+<a href="http://cdn2.ettoday.net/images/2531/d2531176.jpg" target="_blank" rel="nofollow">http://cdn2.ettoday.net/images/2531/d2531176.jpg</a>
+<div class="richcontent"><img src="http://cdn2.ettoday.net/images/2531/d2531176.jpg" alt="" /></div>▲未來「蝦味先」恐斷貨...裕榮食品遭勒令全面停業！（圖／食藥署提供）
+
+記者嚴云岑／台北報導
+
+「泡菜蝦味先」等5項產品遭爆使用過期原料，食藥署勒令業者須於5月20日前，將所有產
+品下架回收。由於此案已由檢調介入偵辦，高雄市衛生局已今（18）日晚間勒令裕榮食品
+股份有限公司暫停營業、製造，未來市面上蝦味先產品恐斷貨。
+
+食藥署南區區館中心主任劉芳銘表示，用到逾期原料的5項產品，分別為「蝦味先日式照
+燒」、「蝦味先蜜烤魷魚」、「蝦味先泡菜」、「蝦味先墨西哥煙燻」及「發芽大豆養生
+粉(紅麴)」。過期的柴魚精粉、無水檸檬酸及紅麴粉等3項原料，也分別過期3年、11個月
+、8天之久。
+
+食藥署表示，由於檢方已介入裕榮食品股份有限公司的違規事項，高雄市政府衛生局已勒
+令該公司暫時停止營業，配合相關調查改善。
+
+食藥署再度呼籲，食品業者務必善盡自主管理之責任，嚴禁使用逾期原物料製售產品，違
+者可依違反食安法第15條並同第44條可處新臺幣6萬元以上2億元以下罰鍰，如有將逾期產
+品改標販售等行為更涉及偽造文書、詐欺等刑責，將移檢調追究處辦。
+
+4.完整新聞連結 (或短網址):
+<a href="http://health.ettoday.net/news/927313" target="_blank" rel="nofollow">http://health.ettoday.net/news/927313</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.114.123.153
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495111204.A.471.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495111204.A.471.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chopper5566</span><span class="f3 push-content">: 買個十包壓壓驚</span><span class="push-ipdatetime"> 05/18 20:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 用新台幣讓他全部下架</span><span class="push-ipdatetime"> 05/18 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 恐啥小，無良食品廠停業剛好而已。</span><span class="push-ipdatetime"> 05/18 20:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WWWWW123</span><span class="f3 push-content">: 以後不買了</span><span class="push-ipdatetime"> 05/18 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a103232</span><span class="f3 push-content">: 恐三小 最後重罰6萬有屁用</span><span class="push-ipdatetime"> 05/18 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JugarXE</span><span class="f3 push-content">: 不知道有沒有辦法去工廠一包5塊收</span><span class="push-ipdatetime"> 05/18 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 勒令停業頗重 鬼島商人不怕罰錢只怕不能做事</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shampoopoo</span><span class="f3 push-content">: 是不是只有蝦味先有罰到斷貨阿 反觀地溝..</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l711470</span><span class="f3 push-content">: 違法在先，不配合調查，關臉書，推給員工</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce511239</span><span class="f3 push-content">: 幹嘛停業 很好吃欸</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mellrince</span><span class="f3 push-content">: 白癡公司 貪小便宜把公司的幾十年商譽都玩沒了</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Zeroyeu</span><span class="f3 push-content">: 還好政府有硬起來</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">megxz</span><span class="f3 push-content">: 以後不買蝦味先了</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gary360</span><span class="f3 push-content">: 無感 從小就不愛吃蝦味先</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 幹 我二十年前吃過怎麼半</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 會不會死掉</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sexbox</span><span class="f3 push-content">: 還好長大後沒吃過 哈哈哈</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gamania10000</span><span class="f3 push-content">: 斷貨最好阿.再推給員工嘛</span><span class="push-ipdatetime"> 05/18 20:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OrzOGC</span><span class="f3 push-content">: 之前那個用工業用原料的不也沒事，恐個屁啊</span><span class="push-ipdatetime"> 05/18 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ispy03532003</span><span class="f3 push-content">: 這下子要辦退貨辦到爽了…</span><span class="push-ipdatetime"> 05/18 20:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shampoopoo</span><span class="f3 push-content">: 嗚嗚蝦味先很好吃QQ</span><span class="push-ipdatetime"> 05/18 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kwinner</span><span class="f3 push-content">: 老百姓是菜政府最軟的一塊</span><span class="push-ipdatetime"> 05/18 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">higameboy</span><span class="f3 push-content">: 我都吃可樂果 不太會買蝦味先</span><span class="push-ipdatetime"> 05/18 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 台灣美食</span><span class="push-ipdatetime"> 05/18 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 調查完 都是下游原料提供商的錯 我們也是受害者</span><span class="push-ipdatetime"> 05/18 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">citymax</span><span class="f3 push-content">: 還好我先買兩箱放著了</span><span class="push-ipdatetime"> 05/18 20:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yijhen0525</span><span class="f3 push-content">: 沒有交保護費</span><span class="push-ipdatetime"> 05/18 20:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimkim9988</span><span class="f3 push-content">: 記者怕斷貨，趕快去囤貨</span><span class="push-ipdatetime"> 05/18 20:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwqwaas</span><span class="f3 push-content">: 恐三小 黑心食品斷貨還用恐 記者沒腦照寫習慣了膩</span><span class="push-ipdatetime"> 05/18 20:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lemonshine</span><span class="f3 push-content">: 老廠牌還幹這種事～缺德</span><span class="push-ipdatetime"> 05/18 20:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 恐三小</span><span class="push-ipdatetime"> 05/18 20:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cmj</span><span class="f3 push-content">: 蜜烤魷魚幾年前吃很不錯...</span><span class="push-ipdatetime"> 05/18 20:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">caesst85149</span><span class="f3 push-content">: 知道用過期原料還敢買我也很佩服</span><span class="push-ipdatetime"> 05/18 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">paulsama</span><span class="f3 push-content">: 是我最喜歡吃的零嘴之一</span><span class="push-ipdatetime"> 05/18 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pkmu8426</span><span class="f3 push-content">: 難怪一包分量那麼多</span><span class="push-ipdatetime"> 05/18 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mjnaoki</span><span class="f3 push-content">: 恐你媽</span><span class="push-ipdatetime"> 05/18 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 可以把市面上流通的蝦味先全部塞進業者嘴巴還是屁眼嗎?</span><span class="push-ipdatetime"> 05/18 20:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 還是我們要叩頭感謝業者「只」使用過期原料而不是工業級?</span><span class="push-ipdatetime"> 05/18 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amoebaba</span><span class="f3 push-content">: 9.2公司崩潰</span><span class="push-ipdatetime"> 05/18 20:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bodypack</span><span class="f3 push-content">: 幹 只勒令停業夠嗎?</span><span class="push-ipdatetime"> 05/18 20:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie96051</span><span class="f3 push-content">: 恐三小</span><span class="push-ipdatetime"> 05/18 20:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fuelgrip</span><span class="f3 push-content">: 過期3年的原料也在用 真是無良黑心業者</span><span class="push-ipdatetime"> 05/18 20:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">terresa916</span><span class="f3 push-content">: 去死了，無良商人</span><span class="push-ipdatetime"> 05/18 20:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">terresa916</span><span class="f3 push-content">: 去死啦</span><span class="push-ipdatetime"> 05/18 20:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gca00631</span><span class="f3 push-content">: 乖乖斷貨才會動搖國本,尤其綠色的</span><span class="push-ipdatetime"> 05/18 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 難怪零食是垃圾食物</span><span class="push-ipdatetime"> 05/18 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">capirex</span><span class="f3 push-content">: 好險剛剛去買了幾包</span><span class="push-ipdatetime"> 05/18 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooxxman</span><span class="f3 push-content">: 死好，那麼老牌還賺黑心錢，打死不吃</span><span class="push-ipdatetime"> 05/18 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kepf</span><span class="f3 push-content">: 蠻好吃的說@@</span><span class="push-ipdatetime"> 05/18 20:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SixLine</span><span class="f3 push-content">: 恐你妹  不斷貨不怕吃到全家都恐龍喔</span><span class="push-ipdatetime"> 05/18 20:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kurobane</span><span class="f3 push-content">: 今天差點買 好險</span><span class="push-ipdatetime"> 05/18 20:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Argyris</span><span class="f3 push-content">: 重罰2萬！</span><span class="push-ipdatetime"> 05/18 20:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aza0290</span><span class="f3 push-content">: 生化人培育計畫</span><span class="push-ipdatetime"> 05/18 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccucwc</span><span class="f3 push-content">: 日本授權商卡魯比會跨海提告嗎？</span><span class="push-ipdatetime"> 05/18 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iceroy</span><span class="f3 push-content">: 還好我有存貨</span><span class="push-ipdatetime"> 05/18 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rriver</span><span class="f3 push-content">: 恐3小</span><span class="push-ipdatetime"> 05/18 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HiSop</span><span class="f3 push-content">: 好久沒吃了</span><span class="push-ipdatetime"> 05/18 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ldstar</span><span class="f3 push-content">: 剛去傳統雜貨店搶了一包  感覺很滿足</span><span class="push-ipdatetime"> 05/18 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 鄉民：過期不過拉肚子而已 XDD</span><span class="push-ipdatetime"> 05/18 20:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">raindrops</span><span class="f3 push-content">: 這幾種口味完全沒吃過..</span><span class="push-ipdatetime"> 05/18 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 過期原料 義美小泡芙 年菜表示：</span><span class="push-ipdatetime"> 05/18 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jokerleo815</span><span class="f3 push-content">: 沒事兒沒事兒，換個包裝改個配方再漲一次</span><span class="push-ipdatetime"> 05/18 20:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">repuslin</span><span class="f3 push-content">: 台灣精神，節省成本換取利潤</span><span class="push-ipdatetime"> 05/18 20:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Noahbot</span><span class="f3 push-content">: 黑心商人</span><span class="push-ipdatetime"> 05/18 20:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Crazyfire</span><span class="f3 push-content">: 如果最後還沒倒的話 響應新南向 去印度賣賣看吧</span><span class="push-ipdatetime"> 05/18 20:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ast2</span><span class="f3 push-content">: 老闆這麼有錢了 心還那麼黑 簡直無恥</span><span class="push-ipdatetime"> 05/18 21:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">super1314159</span><span class="f3 push-content">: 蜜烤魷魚蠻好吃的 可是兩大超商幾乎都不會擺貨</span><span class="push-ipdatetime"> 05/18 21:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdfg567</span><span class="f3 push-content">: 停業最好 比罰金有用多了</span><span class="push-ipdatetime"> 05/18 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Tachiman</span><span class="f3 push-content">: 罰款應該在靠六萬那端，可悲</span><span class="push-ipdatetime"> 05/18 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 食安立委呢 蔡母豬呢 資金騙票黨呢 綠黨工 睡青這麼都好</span><span class="push-ipdatetime"> 05/18 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 安靜</span><span class="push-ipdatetime"> 05/18 21:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 沒事沒事 已重判2萬</span><span class="push-ipdatetime"> 05/18 21:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">redorange</span><span class="f3 push-content">: 不會買 沒差</span><span class="push-ipdatetime"> 05/18 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bathilda</span><span class="f3 push-content">: 難道台灣商譽不值錢</span><span class="push-ipdatetime"> 05/18 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">oftisa</span><span class="f3 push-content">: 只是過期就停業；頂新，加工業鎂都無罪；這是什麼世界？</span><span class="push-ipdatetime"> 05/18 21:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wintercomes</span><span class="f3 push-content">: 能夠一輩子爽爽賺的產業，應要走偏路</span><span class="push-ipdatetime"> 05/18 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jaguars33</span><span class="f3 push-content">: 恐屁啊  有沒有這麼M</span><span class="push-ipdatetime"> 05/18 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MaiDanGao</span><span class="f3 push-content">: 頂新沒事，過期停業你敢信</span><span class="push-ipdatetime"> 05/18 21:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cutinking</span><span class="f3 push-content">: 不再買了</span><span class="push-ipdatetime"> 05/18 21:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joyc06u6</span><span class="f3 push-content">: 頂新?</span><span class="push-ipdatetime"> 05/18 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">babyMclaren</span><span class="f3 push-content">: 頂新 統一有事嗎？</span><span class="push-ipdatetime"> 05/18 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lulocke</span><span class="f3 push-content">: 編輯腦子不好使 恐三小</span><span class="push-ipdatetime"> 05/18 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 反觀頂新…有錢真好</span><span class="push-ipdatetime"> 05/18 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gutalic</span><span class="f3 push-content">: 什麼時候會罰破億</span><span class="push-ipdatetime"> 05/18 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BigBananaBoy</span><span class="f3 push-content">: 恐你妹死刑啦幹</span><span class="push-ipdatetime"> 05/18 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mudee</span><span class="f3 push-content">: 還好沒在吃這個</span><span class="push-ipdatetime"> 05/18 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rumirumi</span><span class="f3 push-content">: 還好很久沒吃了</span><span class="push-ipdatetime"> 05/18 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yjlee0829</span><span class="f3 push-content">: 還好我買珍魷味</span><span class="push-ipdatetime"> 05/18 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ruka</span><span class="f3 push-content">: 昨天才買一包...</span><span class="push-ipdatetime"> 05/18 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chiayu316</span><span class="f3 push-content">: 反觀義美 怎麼沒勒令停業...</span><span class="push-ipdatetime"> 05/18 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">erasermyself</span><span class="f3 push-content">: 乾 燒番麥也是裕榮的</span><span class="push-ipdatetime"> 05/18 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Denki002</span><span class="f3 push-content">: 重罰六萬，美金喔? 科科</span><span class="push-ipdatetime"> 05/18 21:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fzrpower</span><span class="f3 push-content">: 為了民調提升，有沒有可能直接罰2億 ?</span><span class="push-ipdatetime"> 05/18 21:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snow3804</span><span class="f3 push-content">: 要重罰兩億了嗎</span><span class="push-ipdatetime"> 05/18 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tommy1233146</span><span class="f3 push-content">: 看來義美政商關係不錯啊</span><span class="push-ipdatetime"> 05/18 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lulocke</span><span class="f3 push-content">: 別傻了 到時法官又叫你拿出明顯危害人體的證明 不然沒事</span><span class="push-ipdatetime"> 05/18 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">coolp77</span><span class="f3 push-content">: 殺死人可教化，賣黑心食品重罰兩萬，幹你媽的鬼島</span><span class="push-ipdatetime"> 05/18 22:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeh0416</span><span class="f3 push-content">: 頂新有門神,鄉民敢嘴?</span><span class="push-ipdatetime"> 05/18 22:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chubbyP</span><span class="f3 push-content">: 可惡以後不買了！</span><span class="push-ipdatetime"> 05/18 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/18 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vigle2</span><span class="f3 push-content">: 大腸癌 讚讚讚</span><span class="push-ipdatetime"> 05/18 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">msj2287</span><span class="f3 push-content">: 還好現在很少吃</span><span class="push-ipdatetime"> 05/18 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">polarisk</span><span class="f3 push-content">: 抵制蝦味仙    除非買一送一    起死回生！轉虧為盈</span><span class="push-ipdatetime"> 05/18 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 幹你娘的  為判先猜沒造成傷害無罪釋放</span><span class="push-ipdatetime"> 05/18 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: 恐慌 等等去買幾包</span><span class="push-ipdatetime"> 05/18 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: (x</span><span class="push-ipdatetime"> 05/18 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptrex</span><span class="f3 push-content">: 換個名字</span><span class="push-ipdatetime"> 05/18 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">water0202</span><span class="f3 push-content">: 過幾天就會員工組自救會哭求政府給生路了</span><span class="push-ipdatetime"> 05/18 22:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freddy60907</span><span class="f3 push-content">: 讚啦 死好</span><span class="push-ipdatetime"> 05/18 23:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starport</span><span class="f3 push-content">: 所以說台灣的企業蒸蚌 美食就要加這一味</span><span class="push-ipdatetime"> 05/18 23:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 6萬結案</span><span class="push-ipdatetime"> 05/18 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">almondchoco</span><span class="f3 push-content">: 好好一家老牌子自毀前途</span><span class="push-ipdatetime"> 05/18 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">capcombio</span><span class="f3 push-content">: 不斷貨是叫人繼續買來吃嗎?</span><span class="push-ipdatetime"> 05/18 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kmtlikeslave</span><span class="f3 push-content">: 幹你娘 虧我那麼愛吃</span><span class="push-ipdatetime"> 05/18 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cycycle</span><span class="f3 push-content">: 晨星八卦&amp;衛福部公務人員這篇噓我<a href="/bbs/Gossiping/M.1494174732.A.3F6.html" target="_blank" rel="nofollow">#1P3qmCFs</a> 魚上鉤了</span><span class="push-ipdatetime"> 05/19 00:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">brookwest</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/19 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aadsl</span><span class="f3 push-content">: 先來去買 不然下架就買不到了</span><span class="push-ipdatetime"> 05/19 00:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 後台不夠硬，或是保護費沒繳，看看頂新味全遠雄日月光</span><span class="push-ipdatetime"> 05/19 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flamedevil</span><span class="f3 push-content">: 義美 幫QQ</span><span class="push-ipdatetime"> 05/19 03:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flamedevil</span><span class="f3 push-content">:     :</span><span class="push-ipdatetime"> 05/19 03:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ojizz4u</span><span class="f3 push-content">: 停的好</span><span class="push-ipdatetime"> 05/19 06:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leinru</span><span class="f3 push-content">: 魏應充怎麼都沒事阿，操</span><span class="push-ipdatetime"> 05/19 07:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1qazbgt5</span><span class="f3 push-content">: 已經賺飽了，現在停業沒差啦</span><span class="push-ipdatetime"> 05/19 07:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">o760823</span><span class="f3 push-content">: 倒一倒算了</span><span class="push-ipdatetime"> 05/19 08:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">doranako</span><span class="f3 push-content">: 斷貨咧，應該先下架回收吧</span><span class="push-ipdatetime"> 05/19 08:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vi000246</span><span class="f3 push-content">: 重罰6萬</span><span class="push-ipdatetime"> 05/19 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">okwep</span><span class="f3 push-content">: 停得好，重重的罰</span><span class="push-ipdatetime"> 05/19 09:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guanaco</span><span class="f3 push-content">: 怎麼跟義美差這麼多……</span><span class="push-ipdatetime"> 05/19 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Chothort</span><span class="f3 push-content">: 斷貨就斷貨啊 是在那恐三小</span><span class="push-ipdatetime"> 05/19 11:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bboy5j</span><span class="f3 push-content">: <a href="https://goo.gl/n178Wp" target="_blank" rel="nofollow">https://goo.gl/n178Wp</a></span><span class="push-ipdatetime"> 05/19 12:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 夕鶴</span><span class="push-ipdatetime"> 05/19 12:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beariscut</span><span class="f3 push-content">: 台灣最美的是....</span><span class="push-ipdatetime"> 05/19 13:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SiFox</span><span class="f3 push-content">: 限量是殘酷的！一包100~~ 一包100，說不定絕版囉~~</span><span class="push-ipdatetime"> 05/19 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h73o1012</span><span class="f3 push-content">: 好可惜 呵呵</span><span class="push-ipdatetime"> 05/19 17:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lion3210</span><span class="f3 push-content">: 之前味全有停業過嗎？</span><span class="push-ipdatetime"> 05/19 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chiayu316</span><span class="f3 push-content">: 味全跟本就不是自己製造問題食品 而是用到有問題的原</span><span class="push-ipdatetime"> 05/19 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chiayu316</span><span class="f3 push-content">: 料 跟這種明知過期有問題還硬要用本質完全不同好嗎</span><span class="push-ipdatetime"> 05/19 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lungerX</span><span class="f3 push-content">: 一定政商關係不好</span><span class="push-ipdatetime"> 05/20 00:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rootless</span><span class="f3 push-content">: 是喔 用到過期原料可以用超過十年也是了不起</span><span class="push-ipdatetime"> 05/20 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tzutzu123</span><span class="f3 push-content">: 讓他倒</span><span class="push-ipdatetime"> 05/20 01:07
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495111204.A.471.html?cacheKey=2052-40111535&offset=15769&offset-sig=15e6b2402962b4e714d2b58d3d865e24f2791a42" data-longpollurl="/v1/longpoll?id=8ae45d2e6316916586c6810f1d21d938ef509e69" data-offset="15769"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

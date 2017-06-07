@@ -1,0 +1,391 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495850954.A.7E5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>R: [問卦] 陳星工讀生們自命清高？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我是說“泛工讀生“
+我想表達的是，你們可以這樣判定，
+是因為你們沒有遭遇那種情況。
+別昧著良心打高空了，裝聖人假裝泯滅仇
+恨。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="R: [問卦] 陳星工讀生們自命清高？">
+<meta property="og:description" content="我是說“泛工讀生“
+我想表達的是，你們可以這樣判定，
+是因為你們沒有遭遇那種情況。
+別昧著良心打高空了，裝聖人假裝泯滅仇
+恨。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495850954.A.7E5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495850954.A.7E5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">boring5566 (無聊五六)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">R: [問卦] 陳星工讀生們自命清高？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 10:09:12 2017</span></div>
+我是說“泛工讀生“
+
+我想表達的是，你們可以這樣判定，
+
+是因為你們沒有遭遇那種情況。
+
+別昧著良心打高空了，裝聖人假裝泯滅仇
+
+恨。
+
+我也沒有說林都沒錯，但是今天很明顯你
+
+們泛工讀生把一些現實世界母豬的投影在
+
+林身上，講的好像自己最客觀最事實。
+
+<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="d3354f5336766e347f429398babdb498babdb4b0bcbfb7">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> 拿金庸的蕭鋒舉例
+
+今天陳是無辜的，他需要一直換聲明稿。
+
+需要找那麼多律師？還要拿一張假情書？
+
+試問？蕭鋒有躲嗎？蕭鋒無法選擇自己是
+
+遼人，陳星也無法選擇對女學生下手？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.227.209.251
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495850954.A.7E5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495850954.A.7E5.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #滾啦  #煩死</span><span class="push-ipdatetime">05/27 10:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 我有說陳星無辜??????</span><span class="push-ipdatetime">05/27 10:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nowitzki0207</span><span class="f3 push-content">: 現在檢討林的聲音幾乎蓋過陳的，但女的選擇死亡</span><span class="push-ipdatetime">05/27 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MSNboy</span><span class="f3 push-content">: 你不也是工讀生？</span><span class="push-ipdatetime">05/27 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CREA</span><span class="f3 push-content">: 一堆人頭殼幾康只會二分法</span><span class="push-ipdatetime">05/27 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 是你先說社會上有90%的人說某人是受害者，他就是受</span><span class="push-ipdatetime">05/27 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 害者，我看你這說法挺天才的，拿來反駁也不行</span><span class="push-ipdatetime">05/27 10:11
+</span></div>我意思是今天大家會吵？很明顯是你們過渡檢討被害者，今天你摸著良心，陳星和林所犯
+的錯是可以比擬的？？
+那請用點比例原則來檢討
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 哇操，原來被冤枉要乖乖閉嘴</span><span class="push-ipdatetime">05/27 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 笑死人了，提出這種天才理論還不准別人笑你</span><span class="push-ipdatetime">05/27 10:11
+</span></div>
+你拿蕭鋒做比喻？？哈哈 蕭鋒沒殺死他養父母，果然文組最愛賣弄文字
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 整天說人強姦，你是看a片看太多喔</span><span class="push-ipdatetime">05/27 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 要點名吵架自己站內信吵啦</span><span class="push-ipdatetime">05/27 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forest6601</span><span class="f3 push-content">: 沒有問題的話找一堆媒體消音</span><span class="push-ipdatetime">05/27 10:12
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:12:37
+</span><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:15:27
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 那我改個說法，全中原武林都認為康敏是受害者</span><span class="push-ipdatetime">05/27 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asked</span><span class="f3 push-content">: 74團又在幻想了 怎麼不說林爸拖這麼久一定有鬼</span><span class="push-ipdatetime">05/27 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 請問康敏是受害者嗎??</span><span class="push-ipdatetime"> 05/27 10:13
+</span></div>喔喔 那你把康敏比喻成林？
+林有自己騎上去？誘惑陳星？？
+真是好棒棒
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 事件發生當時，陳興神隱，避不見面→不敢面對，心裡有鬼</span><span class="push-ipdatetime"> 05/27 10:15
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:17:03
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 吧！陳興出面聲明→不是你幹嘛發聲明，心裡有鬼吧！</span><span class="push-ipdatetime"> 05/27 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 真正的小說派武俠大濕來了！74團學著點，什麼叫小說辦案</span><span class="push-ipdatetime"> 05/27 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 反正老灰仔幹年輕正妹就是該死，就是強姦</span><span class="push-ipdatetime"> 05/27 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 提出社會上八九成的人認為是受害者那個人就是受害者</span><span class="push-ipdatetime">05/27 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">talrasha</span><span class="f3 push-content">: 呵~74自助餐</span><span class="push-ipdatetime">05/27 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">babyMclaren</span><span class="f3 push-content">: 失智列車上也提供自助餐供餐嗎？</span><span class="push-ipdatetime"> 05/27 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hotcar</span><span class="f3 push-content">: 陳星 躲越久只是要掩蓋犯罪事實，人在做天在看</span><span class="push-ipdatetime"> 05/27 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 社會上八九成認為是加害者就是加害者這種高見，還不</span><span class="push-ipdatetime">05/27 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 准別人嘴耶，這才是真正的自命清高XDDD</span><span class="push-ipdatetime">05/27 10:16
+</span></div>所以我說你要用法律當最高標準，陳星當然沒問題啊？ 哈哈 問題是，你不是受害者就像
+我前面舉例 ，你被甲雞姦得愛滋，還要被檢討自己陪做好防護措施。
+你自己將心比心
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:20:35
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 哈哈啊哈哈哈。是你說林奕含自己騎上去的喔，王王冷可沒</span><span class="push-ipdatetime">05/27 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 說，你才是反串的吧</span><span class="push-ipdatetime"> 05/27 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 挖靠，為了替自己的&#34;高見&#34;辯護，直接汙衊林小姐</span><span class="push-ipdatetime"> 05/27 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 你A片真的看太多了，該出去走一走</span><span class="push-ipdatetime"> 05/27 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 自己騎上去，果然超級高尚的</span><span class="push-ipdatetime">05/27 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 陳興和林犯的錯可以比擬嗎？這是你的提問，那我問你，他</span><span class="push-ipdatetime">05/27 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 們各自犯了什麼錯？事實就是你不知道嘛！但是你什麼都不</span><span class="push-ipdatetime">05/27 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 知道的情況下還可以判斷出：陳興是加害人，林是被害人，</span><span class="push-ipdatetime"> 05/27 10:20
+</span></div>陳星，光是利用不對等的關係去欺騙去欺負一個小女生就有很大的問題。
+林我覺得錯是在活在自己的世界，對不起那些幫助她的人。
+但是她今天會這樣，最主要誰造成的。
+還有小說辦案！？你有想過？為啥她要考小說來書寫？因為正常管道無法幫助她
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">longya</span><span class="f3 push-content">: 失智列車都要超載了還一直要擠</span><span class="push-ipdatetime">05/27 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 我覺得不是別人自命清高，單純你邏輯太差(當然你會覺得</span><span class="push-ipdatetime"> 05/27 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 要點名吵架自己站內信吵啦+1 不要點我的名來吵又吵</span><span class="push-ipdatetime"> 05/27 10:20
+</span></div>哈哈 金庸類比大濕 可以唷 我晚點站內你討論
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 自己看過小說，什麼都知道啦 科科</span><span class="push-ipdatetime"> 05/27 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 不贏，徒然丟臉罷了</span><span class="push-ipdatetime"> 05/27 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 真小說派辦案大濕KKC，看金庸辦狼師案，拿清朝的劍斬明朝</span><span class="push-ipdatetime"> 05/27 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 的官，在下佩服佩服</span><span class="push-ipdatetime">05/27 10:20
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:26:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">talrasha</span><span class="f3 push-content">: 將心比心都來了...</span><span class="push-ipdatetime">05/27 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 看到推文有人連拿小說辦案跟拿小說打比方都分不清楚</span><span class="push-ipdatetime"> 05/27 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jamesbababa</span><span class="f3 push-content">: 這篇全吊上來了</span><span class="push-ipdatetime"> 05/27 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 拿小說辦案是把小說內容當事實，直接指控現實人事物</span><span class="push-ipdatetime"> 05/27 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 拿小說打比方是拿故事來指正概念性知識的謬誤</span><span class="push-ipdatetime"> 05/27 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killeralee</span><span class="f3 push-content">: 推KK小說派大師</span><span class="push-ipdatetime"> 05/27 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 這也能一概而論，我看也只有小說自助餐才有這種才條</span><span class="push-ipdatetime"> 05/27
+</span></div>10:25
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 你拿小說裡的一個賤pu來影射林還說不是拿小說辦案?</span><span class="push-ipdatetime"> 05/27 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 哈哈哈，有人看不懂中文</span><span class="push-ipdatetime"> 05/27 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 同樣案例你怎麼不拿戚秦氏來舉例?</span><span class="push-ipdatetime">05/27 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 快笑死我，拿小說當證據的居然說別人是小說辦案XD</span><span class="push-ipdatetime">05/27 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: Kkc原本是舉喬峰蛤</span><span class="push-ipdatetime">05/27 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 小說派是不是邏輯都不太好啊，連小說辦案跟拿小說故</span><span class="push-ipdatetime"> 05/27 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 事指出原po說社會90%認為是被害者就是被害者的根本</span><span class="push-ipdatetime"> 05/27 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 性謬誤的差別阿，腦袋是很好的東西，建議多使用</span><span class="push-ipdatetime"> 05/27 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 他可沒說馬輔仁等於林奕含喔</span><span class="push-ipdatetime"> 05/27 10:28
+</span></div>我說的是影射 ，這樣有點不人道。好吧 你們覺得這樣對的起自己良心， 我覺得也是可
+以。言論自由
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:30:15
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 小說自助餐超森七七的，直接把我打成說康敏=林奕含</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 馬夫人可以等於林奕含爸媽，林大立委等一干人，有說康</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 敏等於林奕含？林奕含有說過自己被強姦？</span><span class="push-ipdatetime">05/27 10:29
+</span></div>所以我原文說拿”被誘導前列腺高潮後被雞姦”你自己想想因為你不是被害者所以妳可義
+正嚴詞的講出這種得體的話。
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 戚秦氏可沒有社會上90%的人都認為她是加害者喔</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 自己預設林污蔑陳才會講出康敏這個名字出來不是嗎？嘴中</span><span class="push-ipdatetime"> 05/27 10:30
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:34:16
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 所講即是心中所想，如果是我我就說她是戚秦氏了啊！</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 包龍星幫她翻案，鄉民們都是支持她的</span><span class="push-ipdatetime"> 05/27 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 小說派的不也預設陳強姦林？喔不是預設是認為一定如此。</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 開始了，小說自助餐很厲害，變成心理分析師了XDDD</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 敢情小說自助餐有做過我的MSE  XDDDDD</span><span class="push-ipdatetime"> 05/27 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 還沒有證據下能這麼肯定陳有強姦林，敢問你們是共犯嗎？</span><span class="push-ipdatetime"> 05/27 10:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 還影射咧，我舉蕭峰跟康敏當例子就只是指正你的&#34;高</span><span class="push-ipdatetime"> 05/27 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 見&#34;，你說社會90%認為A是加害者那A就是加害者，社會</span><span class="push-ipdatetime"> 05/27 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 上有90%人感覺B是受害者那B就是受害者，然後我就提</span><span class="push-ipdatetime"> 05/27 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 出兩個反例來打你的臉，這麼簡單的事情，竟然有人能</span><span class="push-ipdatetime"> 05/27 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 牽拖到潛意識牽拖到心理狀態，原po還直接牽拖到影射</span><span class="push-ipdatetime"> 05/27 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 原po我可沒再跟你講話蛤</span><span class="push-ipdatetime"> 05/27 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 敢情pondaha是長住在我腦袋裡面審視我的靈魂XD</span><span class="push-ipdatetime">05/27 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 我在跟食神講話</span><span class="push-ipdatetime">05/27 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 果然，小說自助餐整天分析影射，就很愛把別人也當成</span><span class="push-ipdatetime"> 05/27 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 整天跟他們一樣影射東影射西，笑死人了</span><span class="push-ipdatetime"> 05/27 10:38
+</span></div>你自己有沒有把自己的想法注入，施主你自己最清楚。問心無愧要問你自己，我沒有比較
+高尚，但我覺得你在闡述某些自己的看法，自己不是受害者不要去做出評論。當然你覺得
+陳星是受害者，我要檢討我自己， 我也認了。
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:43:05
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 自己利稻草人打得很開心，74團森77</span><span class="push-ipdatetime"> 05/27 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 我很清楚阿，我完全沒有把自己對林跟陳的想法，注入</span><span class="push-ipdatetime">05/27 10:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 反駁你的&#34;高見&#34;時的蕭峰康敏那兩個對比，怎樣??</span><span class="push-ipdatetime"> 05/27 10:45
+</span></div>所以我說了啊 你要這樣護航自己比喻的論點我接受啊，我只是覺得你比喻的很爛這樣而
+已？蕭鋒跟陳星兩個人差蠻多的，康敏跟林也是。我書不多，不像文組的你字字珠璣，引
+經據點，滿口仁義道德。
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:48:37
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 你現在是要硬誣賴我有嗎??</span><span class="push-ipdatetime"> 05/27 10:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 不符合你的心中期待，你森７７了嗎????</span><span class="push-ipdatetime"> 05/27 10:47
+</span></div>沒有生氣啊？哈哈 我在看你笑話
+
+硬拗，我剛強調說你假設被甲誘姦得愛滋？也沒說強姦？？你自己不會這麼公正講事情。
+哈哈 我只是好奇你堅持的立場在哪？什麼時候中肯的王冷冷會邊得這麼偏激
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:52:06
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 看來是真的森７７了，那不打擾你了，萬一，萬分之一</span><span class="push-ipdatetime"> 05/27 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 機率你受刺激去自殺了，又變成我的錯了，哭哭</span><span class="push-ipdatetime"> 05/27 10:50
+</span></div>哈哈 冷冷 沒梗囉？舉例舉那麼多終於舉
+
+一個馬幼星出來。不是讀很多書？好棒棒
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 74團有個邏輯硬傷：你不認為林是被害人，那就是挺陳興，</span><span class="push-ipdatetime"> 05/27 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 覺得陳興是被害人，乾，沒有事證判斷不出來不行逆(還真</span><span class="push-ipdatetime"> 05/27 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 的是不行，你違反林是被害人的大原則就是工讀生</span><span class="push-ipdatetime"> 05/27 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 哇，舉完錯誤的例子還可以義正辭嚴來個清者自清耶</span><span class="push-ipdatetime"> 05/27 10:52
+</span></div>@KijgkingCold 我沒有生氣啊 我只是覺得你很可笑而已，為了硬掰而硬掰。
+書讀這麼多拿這種笑死人的舉例？
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:55:07
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 要說舉例錯誤，某人舉例的戚秦氏錯超大</span><span class="push-ipdatetime"> 05/27 10:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 戚秦氏一案，社會氛圍就是普遍認定她是受害者</span><span class="push-ipdatetime"> 05/27 10:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 莫再緹跟包龍星的對話建議你再看個87遍</span><span class="push-ipdatetime"> 05/27 10:54
+</span></div>你別轉移話題欸，他舉例不當？你也舉例不當不是？就問你書讀這麼多，怎麼會找這種破
+洞百出的例子來。我今天跟你講的是同理心，你還是沒理解。就說= = 你被誘姦得愛滋，
+你還會這要講嗎？
+誰才在森77
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 舉了康敏來對照林案，後來才說自己完全沒有影射林的意思</span><span class="push-ipdatetime"> 05/27 10:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: ，那剛剛是在鬼打牆喔？</span><span class="push-ipdatetime">05/27 10:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 舉錯誤例子？是你硬將別人的抽象概念傳達轉換成個案人</span><span class="push-ipdatetime">05/27 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 物的套用啊</span><span class="push-ipdatetime"> 05/27 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 能這樣睜著眼說瞎話也不簡單</span><span class="push-ipdatetime"> 05/27 10:55
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 10:59:13
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 小說自助餐真的完全不懂&#34;反例&#34;是什麼耶</span><span class="push-ipdatetime"> 05/27 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 砲別人是文組，結果理組最基本的&#34;欲證明某陳述為否</span><span class="push-ipdatetime"> 05/27 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: ，當提出反例&#34;都不知道還藍色窗簾一堆毛，說別人影</span><span class="push-ipdatetime"> 05/27 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 射，還先扯別人心理潛意識認定真實人物等於小說人物</span><span class="push-ipdatetime"> 05/27 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 拜託，小說辦案者喜歡拿小說人物直接移情真實人物</span><span class="push-ipdatetime"> 05/27 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 那我不管，但請不要就這樣以為別人都跟你們一樣愛搞</span><span class="push-ipdatetime"> 05/27 10:58
+</span></div>林父都說誘姦了，如果陳星不服他幹嘛前後文不一致的在哪反覆。
+所以我選擇相信林父？可以？
+你選擇相信陳星，我可以接受。
+只是，你自己摸良心也沒也道德瑕癡？
+不然今天怎麼沒啥人出來幫陳星出頭？
+郭冠嬰？？
+我哪來的小說辦案？
+問號？
+而且，你錯了 工程師不需要完全的理解驗證。解決大部份的問題才是？因為overflow問
+題我們就不要用電腦嗎？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: KKC:A遇到甲情形，b遇到甲情形 食神：所以你影射a等於b</span><span class="push-ipdatetime"> 05/27 10:58
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:04:36
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 終於有個ImBBCALL懂我在講什麼了</span><span class="push-ipdatetime"> 05/27 10:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 跟小說自助餐講道理跟邏輯真的是很累人的事情</span><span class="push-ipdatetime"> 05/27 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 自己藍色窗簾一堆，還要腦補別人的腦內也一堆藍色窗</span><span class="push-ipdatetime"> 05/27 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 簾，說別人文組，結果理組最基本的邏輯證明都2266</span><span class="push-ipdatetime">05/27 11:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 小說辦案者喜歡拿小說人物直接移情真實人物這我不管</span><span class="push-ipdatetime"> 05/27 11:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: ，但請不要就這樣以為別人都跟你們一樣愛搞移情連結</span><span class="push-ipdatetime"> 05/27 11:04
+</span></div>哈哈 這我不需要？真實世界可以認識女手機會太多了，我不用來這邊營造形象
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:06:26
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 好嗎??</span><span class="push-ipdatetime"> 05/27 11:04
+</span></div>我就說要你不能因為你賽康臭，不會被肛所以沒遇過這問題來探討林？這樣很難懂？如果
+你覺得你問心無愧，這邊大家看得到自有公證。
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:08:46
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EDGYourDad</span><span class="f3 push-content">: 推KKC   失智列車一去不返</span><span class="push-ipdatetime">05/27 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 看你的陳述，我猜你大概不懂&#34;移情&#34;是什麼意思</span><span class="push-ipdatetime">05/27 11:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 原po的邏輯我真的不懂，你認識女手機會很多跟這篇有什</span><span class="push-ipdatetime">05/27 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 還以為我講的是移情別戀的移情XDDD</span><span class="push-ipdatetime">05/27 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 麼關係，上面有與沒說你跟女生沒交流啊，你蹦出這句幹</span><span class="push-ipdatetime">05/27 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 嘛？</span><span class="push-ipdatetime">05/27 11:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: ImBBCALL，他大概不知道移情是心理學專有名詞</span><span class="push-ipdatetime"> 05/27 11:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 以為我在講男女感情</span><span class="push-ipdatetime">05/27 11:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: transference，心理學最基本的單詞，他也不知道</span><span class="push-ipdatetime"> 05/27 11:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 哇操  看來a片真看很多</span><span class="push-ipdatetime">05/27 11:09
+</span></div>喔喔 長知識了。 敝人書讀的不多，我只懂同理心。A片看得多臭了嗎？
+唉 反正呢？ 希望悲劇降到你身上還可以如此的義正嚴詞。
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:12:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 其實林家的說詞也很反覆啊，你卻只批評陳星聲明那就有問題</span><span class="push-ipdatetime"> 05/27 11:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 唉，跟這位談話真的很累人</span><span class="push-ipdatetime"> 05/27 11:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 。沒證據下說什麼你就信什麼，所以我也可以說是你強姦林奕</span><span class="push-ipdatetime"> 05/27 11:10
+</span></div>喔喔 好啊 妳可以認定我阿 我不反對啊？
+你可以吉我，我跟本懶得陳述。
+
+今天我說有鬼是陳星如果清白，需要這麼大陣仗？？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">longya</span><span class="f3 push-content">: 他等一下會修文說：誰說我不懂移情，但你們就是xxxxx</span><span class="push-ipdatetime">05/27 11:11
+</span></div>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 含囉？一直試圖抹到陳星身上就是你心裡有鬼。</span><span class="push-ipdatetime">05/27 11:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 講不贏，現在開詛咒了，詠唱CD中嗎??</span><span class="push-ipdatetime"> 05/27 11:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 而且你的舉例存在邏輯錯誤</span><span class="push-ipdatetime"> 05/27 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 你的推論:</span><span class="push-ipdatetime">05/27 11:13
+</span></div>沒詛咒你啊？我打個比喻模擬個情況而已，我詛咒馬騜都來不及了，你什麼咖洨。哈哈
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:15:06
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 若康敏不是受害者，則林不是受害者</span><span class="push-ipdatetime"> 05/27 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 同邏輯可得:林是受害者，則康敏也是受害者，請問對於這個</span><span class="push-ipdatetime"> 05/27 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 討論有什麼實質論述嗎？你只是把康敏拉進來不知所謂而已</span><span class="push-ipdatetime"> 05/27 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: KKC的推論根本不是這樣……他是舉康敏的例子告訴你輿論未</span><span class="push-ipdatetime"> 05/27 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 文組邏輯，科科</span><span class="push-ipdatetime">05/27 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 必等於事實。</span><span class="push-ipdatetime">05/27 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: ponda這麼肯定林奕含有被強姦？該不會你就是加害者吧？</span><span class="push-ipdatetime">05/27 11:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: pondaha完全搞不懂狀況耶，在反駁原po的時候，我完</span><span class="push-ipdatetime"> 05/27 11:15
+</span></div>王王冷回話啊？不要以為用詠唱打發我？哈哈 你不是最愛引用？怎麼跟路人用一樣的話
+？
+<span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:21:13
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 全沒有任何對林或陳的任何想法，單純看到他那兩句神</span><span class="push-ipdatetime">05/27 11:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 之陳述&#34;社會上90%的人感覺A是受害者，那A就是受害者</span><span class="push-ipdatetime">05/27 11:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: &#34;、&#34;社會上90%的人認為B是加害者，那B就是加害者&#34;</span><span class="push-ipdatetime">05/27 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 腦袋真的很好用呢，建議每個人都要裝一個</span><span class="push-ipdatetime">05/27 11:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 來提出兩個反例，反詰兼反駁，跟林奕含和陳國星有個</span><span class="push-ipdatetime">05/27 11:16
+</span></div>我就說了，你舉的例子很爛......
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 不想討論小說的話，前陣子的馬幼興案總可以拿來比喻吧？</span><span class="push-ipdatetime"> 05/27 11:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 屁關係??你們愛移情連結，就要誣賴別人有跟著移情連</span><span class="push-ipdatetime"> 05/27 11:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 結???</span><span class="push-ipdatetime"> 05/27 11:17
+</span></div>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: ponda是和陳星一起強姦過林奕含嗎？不然怎這麼肯定？</span><span class="push-ipdatetime">05/27 11:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: MT6797，不能提馬幼興喔，這樣某人會砲你潛意識下把</span><span class="push-ipdatetime"> 05/27 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 樓上發言不排除開吉，毀壞個人名譽</span><span class="push-ipdatetime">05/27 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 馬幼興跟陳國星連結，意圖幫陳脫罪，你壞壞~~</span><span class="push-ipdatetime"> 05/27 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pondaha</span><span class="f3 push-content">: 我指Mt6796</span><span class="push-ipdatetime"> 05/27 11:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 我無意汙衊你，單純好奇你是有什麼關鍵證據。</span><span class="push-ipdatetime"> 05/27 11:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 告啊</span><span class="push-ipdatetime"> 05/27 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 快告 我當你律師</span><span class="push-ipdatetime">05/27 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 有的話拜託拿出來，那種狼師我也不想放過法律制裁，我親戚</span><span class="push-ipdatetime">05/27 11:21
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/27/2017 11:25:36
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 有在當主播和媒體業的，我絕對盡我所能幫你找資源。</span><span class="push-ipdatetime">05/27 11:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 說錯 我幫你說錯，我幫你找律師，我在法院工作惹</span><span class="push-ipdatetime">05/27 11:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MT6797</span><span class="f3 push-content">: 如果沒有證據你憑什麼咬定對方是性侵犯？</span><span class="push-ipdatetime"> 05/27 11:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">acecup</span><span class="f3 push-content">: 這裡所有的嘴砲都是討論可能性而已,誰TMD有本事保證自己的</span><span class="push-ipdatetime"> 05/27 11:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">acecup</span><span class="f3 push-content">: 推論是真相?但從批判力度、角度的不同,或多或少就看到一個</span><span class="push-ipdatetime"> 05/27 11:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">acecup</span><span class="f3 push-content">: 人的本性</span><span class="push-ipdatetime"> 05/27 11:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">RLH</span><span class="f3 push-content">: 只有不懂就事論事的人才會拿什麼本性出來嘴 政治正確誰都會</span><span class="push-ipdatetime"> 05/27 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RLH</span><span class="f3 push-content">: 但根本無助於事</span><span class="push-ipdatetime">05/27 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aca2374</span><span class="f3 push-content">: I&#39;d 正確</span><span class="push-ipdatetime"> 05/27 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">conundrum</span><span class="f3 push-content">: 看到幾個對號入座的好棒</span><span class="push-ipdatetime"> 05/27 15:05
+</span></div><span class="f2">※ 編輯: boring5566 (61.227.209.251), 05/29/2017 10:34:30
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wike</span><span class="f3 push-content">: 阿彌陀佛 阿彌陀佛 阿彌陀佛 阿彌陀佛 阿彌陀佛 阿彌陀佛</span><span class="push-ipdatetime"> 06/01 19:46
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495850954.A.7E5.html?cacheKey=2052-1766986&offset=21456&offset-sig=60c9d2ff24310063579ab2fa3d8b2a5ba94ff772" data-longpollurl="/v1/longpoll?id=ab37a04ba954af402ec406ca77d4a7c5f5593b98" data-offset="21456"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

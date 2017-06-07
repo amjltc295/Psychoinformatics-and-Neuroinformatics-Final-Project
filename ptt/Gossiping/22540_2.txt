@@ -1,0 +1,257 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496623649.A.ADE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 重大醫療疏失最高院：醫師應舉證無因果?1 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="自由時報
+2.完整新聞標題:
+重大醫療疏失 醫師應舉證無因果關係 最高院：醫療專業不對等 舉證責任應轉換
+3.完整新聞內文:
+〔記者項程鎮、林彥彤／台北報導〕前高等法院庭長陳貽男的妻子在健身房滑倒撞頭，送
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 重大醫療疏失最高院：醫師應舉證無因果?1">
+<meta property="og:description" content="自由時報
+2.完整新聞標題:
+重大醫療疏失 醫師應舉證無因果關係 最高院：醫療專業不對等 舉證責任應轉換
+3.完整新聞內文:
+〔記者項程鎮、林彥彤／台北報導〕前高等法院庭長陳貽男的妻子在健身房滑倒撞頭，送
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496623649.A.ADE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496623649.A.ADE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mitim (mitim)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 重大醫療疏失最高院：醫師應舉證無因果?1</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 08:47:26 2017</span></div>
+自由時報
+
+2.完整新聞標題:
+重大醫療疏失 醫師應舉證無因果關係 最高院：醫療專業不對等 舉證責任應轉換
+
+3.完整新聞內文:
+〔記者項程鎮、林彥彤／台北報導〕前高等法院庭長陳貽男的妻子在健身房滑倒撞頭，送
+到台大醫院緊急手術後仍重度昏迷，十個月後死亡，陳和三名子女控告急診室醫師林麟、
+潘為元、吳明勳有醫療疏失，要求台大和醫師連帶賠償一千兩百餘萬元；案件纏訟多年，
+高院判原告敗訴，但上訴後最高法院近日認為，本案是重大醫療瑕疵，因醫病雙方醫療專
+業不對等，應由醫師舉證因果關係不存在，依此廢棄原判決而發回更審。
+
+家屬民事求償 高院判決敗訴
+
+本案一直受到醫界和法界矚目，刑事部分，已獲台北地檢署不起訴處分。民事方面，一審
+台北地院認為醫院沒好好照護病人，判決三醫師須賠償陳及子女各十五萬慰撫金；高院則
+認為，無法證明醫師和醫院的醫療疏失和陳妻昏迷死亡有因果關係，判決原告敗訴。不過
+本次上訴三審遭到發回，全案再度引發關注。
+
+最高法院廢棄判決 發回更審
+
+最高法院民五庭認為，民事訴訟法規定，民事糾紛原則上應由被害人或家屬負舉證責任，
+但遇重大醫療瑕疵時，因醫病雙方的醫療專業不對等，應依第二七七條但書規定，改由醫
+師負舉證責任。
+
+民五庭也指，林、潘醫師替陳妻急救時，雖有注意陳妻已嘔吐兩次、瞳孔反應及其他生命
+徵候，卻沒評估進行電腦斷層掃描，是違反醫療常規的過失。吳明勳是急診室主治醫師，
+沒在場指導，也沒在陳妻失去意識前親自處置治療，是否符合台大身為醫學中心的醫療水
+準，值得懷疑。
+
+民五庭表示，醫師如能確實注意陳妻意識變化，並安排斷層掃描、即時動手術，陳妻有無
+可能免於昏迷和死亡，高院對這些爭議應審酌調查。且陳妻在台大急救時的醫療記載不明
+確，高院卻沒要求負起舉證責任，以證明無疏失，判決過於疏略。
+
+陳妻是九十六年二月十九日晚上滑倒撞擊頭部而送台大，林、潘醫師安排Ｘ光檢查，九時
+多陳妻出現作嘔、暈吐等症狀，十一時如廁時昏倒失去意識。安排電腦斷層掃描發現顱骨
+骨折、顱內出血，隔天腦神經外科醫師緊急手術後仍昏迷，經轉院治療於十二月死亡。陳
+貽男及其子女請求賠償喪葬、醫療費和慰撫金等計一千兩百多萬元。
+
+台大醫院回應，院方尊重司法最後判決。而由於最高院判決轉換醫療糾紛的舉證責任不常
+見，引發法界及醫界熱議；有資深法官認為，本案是個案事實認定問題，非所有醫療糾紛
+都能適用；有醫師則指，此案曾經醫審會鑑定，縱使作斷層掃描，不必然不會發生腦傷，
+最高院似乎過度提高醫療水準定義，希望退回二審能作更專業判決。
+
+4.完整新聞連結 (或短網址):
+<a href="http://m.ltn.com.tw/news/focus/paper/1107952" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/focus/paper/1107952</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.141.175.222
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496623649.A.ADE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496623649.A.ADE.html</a>
+</span><span class="f2">※ 編輯: mitim (223.141.175.222), 06/05/2017 08:48:23
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ANiZan9991</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 06/05 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Change1224</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darknote</span><span class="f3 push-content">: 來了來了 前高等法院庭長陳貽男的妻子 看到沒</span><span class="push-ipdatetime"> 06/05 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Beinlie</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mig</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 高院太扯！</span><span class="push-ipdatetime"> 06/05 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">togo324</span><span class="f3 push-content">: 舉證之所在敗訴之所在  就是要你輸</span><span class="push-ipdatetime"> 06/05 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 原來高等法院法官，難怪會這麼硬，可以叫最高院改判</span><span class="push-ipdatetime"> 06/05 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shinewind</span><span class="f3 push-content">: 太扯了吧</span><span class="push-ipdatetime"> 06/05 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 一般人，早就定讞了！</span><span class="push-ipdatetime"> 06/05 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 權貴連最高院都可以幫忙改判</span><span class="push-ipdatetime"> 06/05 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 這時，文組的醫療水準，遠高於臺大醫了..</span><span class="push-ipdatetime"> 06/05 08:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s72005ming</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hzs6111</span><span class="f3 push-content">: 濫用私權QQ</span><span class="push-ipdatetime"> 06/05 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">job5786</span><span class="f3 push-content">: 最高院法官:額這案好硬我不判 反正下次上訴不是我承辦</span><span class="push-ipdatetime"> 06/05 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">voyhanxu</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dragonne</span><span class="f3 push-content">: 果然要法官的家人出事才...</span><span class="push-ipdatetime"> 06/05 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">truffaut</span><span class="f3 push-content">: 醫生GG不送</span><span class="push-ipdatetime"> 06/05 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nevhir</span><span class="f3 push-content">: 10年前的東西 你現在要醫生怎麼舉證 擺明有背景硬要搞人家</span><span class="push-ipdatetime"> 06/05 08:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyping</span><span class="f3 push-content">: 有醫療背景的朋友可以說說看顱骨骨折可以從x光看出來嗎 如</span><span class="push-ipdatetime"> 06/05 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lyping</span><span class="f3 push-content">: 果是未察覺不知道醫生有沒有責任呢？</span><span class="push-ipdatetime"> 06/05 08:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b9211173</span><span class="f3 push-content">: 有關係法官這時立場就不一樣了..</span><span class="push-ipdatetime"> 06/05 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chu122408</span><span class="f3 push-content">: 文組垃圾 二三類組站起來 要團結！</span><span class="push-ipdatetime"> 06/05 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cerwvk</span><span class="f3 push-content">: 醫師舉證因果關係不存在? 這不是有罪推論嗎?</span><span class="push-ipdatetime"> 06/05 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 被彈劾掉的法官，還這麼有力，可見法院內部的錯綜複雜</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 非專業&gt;&gt;&gt;&gt;&gt;&gt;專業</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chenyeart</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j1o2s3e4p5h6</span><span class="f3 push-content">: 第一賣冰，第二告醫生</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cerwvk</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子 &lt;--- 原來如此</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">autoimmune</span><span class="f3 push-content">: 被告的要舉證無因果    有夠瞎</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cerwvk</span><span class="f3 push-content">: 難怪司法相關會被人看不起.</span><span class="push-ipdatetime"> 06/05 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">autoimmune</span><span class="f3 push-content">: 難怪法律人治國總是呵呵</span><span class="push-ipdatetime"> 06/05 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 很棒，還記得出生缺雙手一腳的女童嗎 後來不是因醫療小組</span><span class="push-ipdatetime"> 06/05 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 判輸</span><span class="push-ipdatetime"> 06/05 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">YumingHuang</span><span class="f3 push-content">: 哈哈哈，麻煩你舉證你媽是你媽，他媽的..</span><span class="push-ipdatetime"> 06/05 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ABA0525</span><span class="f3 push-content">: 只有ㄧ隻腳的嬰兒都可以輸 醫界自己也要檢討護航巴</span><span class="push-ipdatetime"> 06/05 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 遇到自已人轉彎囉 發還的法官不處理嗎</span><span class="push-ipdatetime"> 06/05 09:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">becareful</span><span class="f3 push-content">: 告法官貪污，法官應舉證無貪污證據</span><span class="push-ipdatetime"> 06/05 09:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">darknote</span><span class="f3 push-content">: 不送醫療鑑定 玩舉證責任轉換 好聰明呢</span><span class="push-ipdatetime"> 06/05 09:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 一個我不知道要怎麼醫 但是我覺得有疏失的概念</span><span class="push-ipdatetime"> 06/05 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cerwvk</span><span class="f3 push-content">: 對了, 專門嗆法盲的, 怎麼沒看到呢? 最高法院耶.</span><span class="push-ipdatetime"> 06/05 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">keepwild</span><span class="f3 push-content">: 純噓最高法院</span><span class="push-ipdatetime"> 06/05 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">holyhelm</span><span class="f3 push-content">: 醫審會都鑑定過了zzz</span><span class="push-ipdatetime"> 06/05 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 你要證明沒有疏失 不然就是有罪 法官超棒der</span><span class="push-ipdatetime"> 06/05 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">holyhelm</span><span class="f3 push-content">: 醫審會裡面有1/3是法學專家和社會人士</span><span class="push-ipdatetime"> 06/05 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">holyhelm</span><span class="f3 push-content">: 最高院裡面有幾個醫界人士?</span><span class="push-ipdatetime"> 06/05 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colbert0626</span><span class="f3 push-content">: 該前法官所判臺灣高等法院100年度醫上訴字第4號刑事</span><span class="push-ipdatetime"> 06/05 09:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colbert0626</span><span class="f3 push-content">: 判決怎麼不用作此主張呢..</span><span class="push-ipdatetime"> 06/05 09:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nineflower</span><span class="f3 push-content">: 在台灣當醫生真好 治好被吉 治不好也被吉</span><span class="push-ipdatetime"> 06/05 09:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">autoimmune</span><span class="f3 push-content">: 說好的司法改革咧?</span><span class="push-ipdatetime"> 06/05 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwerui2003</span><span class="f3 push-content">: 太扯了</span><span class="push-ipdatetime"> 06/05 09:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">awakengod</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soredia</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子，麻煩原波上色一下...</span><span class="push-ipdatetime"> 06/05 09:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 有關係沒關係 沒關係就有關係</span><span class="push-ipdatetime"> 06/05 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">teatime1010</span><span class="f3 push-content">: 前高等法院庭長陳詒男妻子...官啊！</span><span class="push-ipdatetime"> 06/05 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">baiya</span><span class="f3 push-content">: 法官：殺鄉民的兇手 有教化可能 殺我的家屬泯滅人性</span><span class="push-ipdatetime"> 06/05 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mike9</span><span class="f3 push-content">: 太扯了</span><span class="push-ipdatetime"> 06/05 09:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azopper</span><span class="f3 push-content">: 以後法界人士生病沒人敢醫囉</span><span class="push-ipdatetime"> 06/05 09:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 06/05 09:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shengyeh</span><span class="f3 push-content">: 大家覺得如果是換一個人發生這種事 醫生會被告嗎</span><span class="push-ipdatetime"> 06/05 09:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 09:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momocco</span><span class="f3 push-content">: 怎麼不去告健身房  以後台灣急診收掉沒人看喔</span><span class="push-ipdatetime"> 06/05 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ajiesu</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 09:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brokenXD</span><span class="f3 push-content">: 鬼島法官不意外</span><span class="push-ipdatetime"> 06/05 10:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pluto9951020</span><span class="f3 push-content">: 又不是醫師害他滑倒撞到頭的 這邏輯根本是笑話</span><span class="push-ipdatetime"> 06/05 10:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dayrain</span><span class="f3 push-content">: 有沒有在昏迷前察覺根本沒差啊  早幾分鐘知道會比較好？</span><span class="push-ipdatetime"> 06/05 10:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dayrain</span><span class="f3 push-content">: 都隔天才開刀了..</span><span class="push-ipdatetime"> 06/05 10:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kting926</span><span class="f3 push-content">: 太扯</span><span class="push-ipdatetime"> 06/05 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aime5520</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 06/05 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">geeg</span><span class="f3 push-content">: 遇到法官就轉彎，一般人沒有這種待遇。</span><span class="push-ipdatetime"> 06/05 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syuu</span><span class="f3 push-content">: 台灣首任醫療案件專庭的審判長...</span><span class="push-ipdatetime"> 06/05 11:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fujiiyakumo</span><span class="f3 push-content">: 前高等法院庭長陳貽男的妻子</span><span class="push-ipdatetime"> 06/05 11:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 文組法律系教出來的法官就是這種水準 文組睜大眼看好了</span><span class="push-ipdatetime"> 06/05 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roger60801</span><span class="f3 push-content">: 自由心證呵呵</span><span class="push-ipdatetime"> 06/05 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 碰到法官老婆就轉彎 下次姦殺法官女兒就會被判死刑</span><span class="push-ipdatetime"> 06/05 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">resudi</span><span class="f3 push-content">: 這甚麼鬼</span><span class="push-ipdatetime"> 06/05 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cmid05</span><span class="f3 push-content">: HouseMD看太多嗎</span><span class="push-ipdatetime"> 06/05 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gr1031</span><span class="f3 push-content">: 10年了 滑倒撞傷翹毛算醫師的責任 真他媽恐怖</span><span class="push-ipdatetime"> 06/05 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">saureus</span><span class="f3 push-content">: 慘</span><span class="push-ipdatetime"> 06/05 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Woodstock1</span><span class="f3 push-content">: 有關係就沒關係</span><span class="push-ipdatetime"> 06/05 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fcz973</span><span class="f3 push-content">: 做斷層要錢啊，健保又一堆毛，有沒有要人做不給錢的八卦</span><span class="push-ipdatetime"> 06/05 12:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fjuting</span><span class="f3 push-content">: 屌，都快葛屁了還要先照CT?</span><span class="push-ipdatetime"> 06/05 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sid300</span><span class="f3 push-content">: 感謝法官  以後醫生沒有救活的全都要舉證沒有疏失</span><span class="push-ipdatetime"> 06/05 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 你偏題了 總之對社經地位高的人來說 通姦罪但書可以保障</span><span class="push-ipdatetime"> 06/05 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skywinner</span><span class="f3 push-content">: 台灣法界垃圾比例超高啊 判別人可以 自己人就不一樣啊</span><span class="push-ipdatetime"> 06/05 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skywinner</span><span class="f3 push-content">: 台灣人真的要好好思考 是要存垃圾毀台灣 還是要存台灣</span><span class="push-ipdatetime"> 06/05 14:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skywinner</span><span class="f3 push-content">: 改天有人告你法官貪污10億 你法官要舉證你沒有喔 揪咪</span><span class="push-ipdatetime"> 06/05 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tgrfd</span><span class="f3 push-content">: 這招也太厲害了  要證明自己無罪哪國法律阿</span><span class="push-ipdatetime"> 06/05 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tmuaircat</span><span class="f3 push-content">: 會不會導致一堆醫師去考法官啊</span><span class="push-ipdatetime"> 06/05 18:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 神邏輯</span><span class="push-ipdatetime"> 06/05 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ChangetheWay</span><span class="f3 push-content">: 舉證之所在，敗訴之所在</span><span class="push-ipdatetime"> 06/06 05:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HoterLin</span><span class="f3 push-content">: 垃圾法官</span><span class="push-ipdatetime"> 06/06 08:04
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496623649.A.ADE.html?cacheKey=2052-1987388&offset=11934&offset-sig=ce82e033e620f01a42c32a26050046cfe6598012" data-longpollurl="/v1/longpoll?id=a7f7ec4eeb50c040dc9733d3c38650c1425f00fe" data-offset="11934"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

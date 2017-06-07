@@ -1,0 +1,285 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495898160.A.A56.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] Google宣布Kotlin為Android官方開發語言 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合新聞網
+2.完整新聞標題:
+Android正式納入原生支援的Kotlin，為什麼讓開發者如此開心？
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] Google宣布Kotlin為Android官方開發語言">
+<meta property="og:description" content="1.媒體來源:
+聯合新聞網
+2.完整新聞標題:
+Android正式納入原生支援的Kotlin，為什麼讓開發者如此開心？
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495898160.A.A56.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495898160.A.A56.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">B99303079 (台大建屁孩)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] Google宣布Kotlin為Android官方開發語言</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 23:15:54 2017</span></div>
+
+1.媒體來源:
+
+聯合新聞網
+
+2.完整新聞標題:
+
+Android正式納入原生支援的Kotlin，為什麼讓開發者如此開心？
+
+3.完整新聞內文:
+
+稍早在Google I/O 2017宣布將從Android O開始納入原生支援的Kotlin程式語言，
+
+本身是由位於東歐捷克的IntelliJ IDEA軟體開發商JetBrains打造，
+
+而Kotlin的名稱
+
+則是源自JetBrains
+
+位於俄羅斯聖彼得堡的團隊以鄰近小島科特林島 (Kotlin Island)命名，
+
+並且以JAVA Virtual Machine (JVM)為基礎的靜態型程式語言。
+
+
+
+其實JetBrains與Android也有不少合作關係，
+
+針對Android平台開發者提供的Android Studio工具
+
+就是以IntelliJ IDEA為基礎設計，
+
+而Kotlin之所以吸引不少開發人員採用，
+
+在於本身語法雖然並不相容於JAVA，
+
+卻能與JAVA程式編碼交互運作，
+
+甚至可重複使用JAVA集合框架與類別庫等資源，
+
+同時本身也能以精簡語法撰寫編碼，
+
+而無需像JAVA編碼必須有嚴謹的規則。
+
+另外，若要使用其他程式編碼框架，
+
+過往在JAVA編碼環境必須確認每個語法敘述正確，
+
+同時結尾分號也必須確實標記，
+
+否則可能會讓程式陷入不正確的迴路，
+
+或是令人難以除錯，
+
+
+使用Kotlin拉入其他編碼框架則相對直覺、簡單，
+
+同也能讓整體編碼更為精簡，
+
+此外也能確保本身與JAVA編碼內容互通，
+
+或是將JAVA文件內容轉換成相容Kotlin版本。
+
+
+而更重要的，
+
+因為整體編碼變得更為精簡，
+
+因此可讓App運作效能變得更好，
+
+甚至特定狀況更能比JAVA編寫程式有更高運作效能，
+
+因此也讓不少App如Flipboard等都開始轉向使用Kotlin撰寫編碼。
+
+
+此次宣布與Android原生支援合作，
+
+JetBrains強調不影響原本Kotlin對應macOS或iOS平台
+開發使用特性，
+
+未來依然維持各平台支援使用模式，
+
+但在Android平台市佔帶動之下，
+
+勢必將讓更多開發人員加入此用Kotlin，
+
+預期將使此項程式語言變得更受歡迎。
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="https://udn.com/news/story/11131/2471144" target="_blank" rel="nofollow">https://udn.com/news/story/11131/2471144</a>
+
+
+5.備註:
+
+<a href="https://youtu.be/d8ALcQiuPWs" target="_blank" rel="nofollow">https://youtu.be/d8ALcQiuPWs</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/d8ALcQiuPWs" frameborder="0" allowfullscreen></iframe></div></div></div>Google開發者大會
+
+<a href="https://wechat.kanfb.com/tech/15446" target="_blank" rel="nofollow">https://wechat.kanfb.com/tech/15446</a>
+Kotlin會在Android領域取代Java嗎？
+
+
+
+--
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tzunami</span><span class="f3 push-content">: 一級廠：班長的口袋</span><span class="push-ipdatetime">08/04 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tzunami</span><span class="f3 push-content">: 二級廠：經理的庫房</span><span class="push-ipdatetime">08/04 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tzunami</span><span class="f3 push-content">: 三級廠：士官長的置物櫃</span><span class="push-ipdatetime">08/04 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tzunami</span><span class="f3 push-content">: 四級廠：連長室的保險箱</span><span class="push-ipdatetime"> 08/04 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tzunami</span><span class="f3 push-content">: 五級廠：營區內的水池或後山地下室</span><span class="push-ipdatetime"> 08/04 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tzunami</span><span class="f3 push-content">: 最高級補給單位：營區外的軍用品店</span><span class="push-ipdatetime"> 08/04 22:17
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.251.41.245
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495898160.A.A56.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495898160.A.A56.html</a>
+</span><span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:16:29
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzzz8931</span><span class="f3 push-content">: JAVA:</span><span class="push-ipdatetime"> 05/27 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: Google 8成快倒了 只會併購跟合作</span><span class="push-ipdatetime"> 05/27 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s860134</span><span class="f3 push-content">: 又要學新語言惹 幫QQ</span><span class="push-ipdatetime"> 05/27 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oblivionion</span><span class="f3 push-content">: 還是vb最好用</span><span class="push-ipdatetime"> 05/27 23:20
+</span></div>
+著名的電腦科學家艾茲格·迪科斯徹說過一句名言：
+
+「如果一個學生最早學過BASIC，
+
+那麼幾乎不可能讓他學會優秀的編程：
+
+因為這些人已經放棄了重生的希望。[2]」（
+
+Dijkstra對待Fortran、PL/1、COBOL和APL同樣也毫不留情。）
+
+另外一個笑話是：
+
+「真正的程式設計師不用BASIC。
+
+12歲以下的孩子才用。」
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 歌林好強啊！</span><span class="push-ipdatetime"> 05/27 23:22
+</span></div>Kotlin翻科特林才對
+<span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:25:08
+</span><span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:26:30
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BF109Pilot</span><span class="f3 push-content">: 受夠JAVA的氣的樣子XD</span><span class="push-ipdatetime"> 05/27 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ipod7788</span><span class="f3 push-content">: google 感覺就是要把java趕走</span><span class="push-ipdatetime"> 05/27 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzzz8931</span><span class="f3 push-content">: 3030是哪個系啊...</span><span class="push-ipdatetime"> 05/27 23:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kurtsgm</span><span class="f3 push-content">: JetBrains這家公司真的滿屌der...</span><span class="push-ipdatetime"> 05/27 23:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: 肥宅相輕 一樣功能的語言發明一堆</span><span class="push-ipdatetime"> 05/27 23:37
+</span></div>
+Swift跟Kotlin蠻像的
+<span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:38:47
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenlin0105</span><span class="f3 push-content">: 我文組</span><span class="push-ipdatetime"> 05/27 23:39
+</span></div><a href="https://udn.com/news/story/6913/1627492" target="_blank" rel="nofollow">https://udn.com/news/story/6913/1627492</a>
+
+家長注意!國高中生107年起必修程式設計
+<span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:43:16
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoShiunoO</span><span class="f3 push-content">: 滿好奇java byte code有版權嗎?一堆語言都轉成它當中介</span><span class="push-ipdatetime"> 05/27 23:44
+</span></div>這個我不清楚耶
+
+可能要問更專業的
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cangming</span><span class="f3 push-content">: 可是不是說swift沒必要不要學嗎QQ</span><span class="push-ipdatetime"> 05/27 23:44
+</span></div>學習成本高
+會的人都跑去開發IOS相關的產品了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OoShiunoO</span><span class="f3 push-content">: 之前還有Scala和Cclosure</span><span class="push-ipdatetime"> 05/27 23:47
+</span></div><span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:51:35
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GrayAngel</span><span class="f3 push-content">: 受夠Oracle整天拿Java告大家討錢吧...</span><span class="push-ipdatetime"> 05/27 23:53
+</span></div>使用者付費很合理啊
+
+只是價錢談不攏罷了
+<span class="f2">※ 編輯: B99303079 (111.251.41.245), 05/27/2017 23:59:08
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casd82</span><span class="f3 push-content">: Java真的爛 垃圾語言</span><span class="push-ipdatetime"> 05/28 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ftyu</span><span class="f3 push-content">: 快買歌林股票！</span><span class="push-ipdatetime"> 05/28 00:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Guoway</span><span class="f3 push-content">: 上面有人說java爛，給個理由好嗎？不要只是嘴砲啊</span><span class="push-ipdatetime"> 05/28 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pegasus170</span><span class="f3 push-content">: 其實我比較喜歡語法嚴謹的程式語言。</span><span class="push-ipdatetime"> 05/28 02:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">duo131</span><span class="f3 push-content">: 不爽基本上都是oracle放著java不管~~只有告人時才衝第一</span><span class="push-ipdatetime"> 05/28 03:44
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495898160.A.A56.html?cacheKey=2052-2126920&offset=5531&offset-sig=67f0cb5c1a3a8442e5a5b87bbff418a56cd938ca" data-longpollurl="/v1/longpoll?id=c9c9569835403fc0b49f19bd697f122c647b4b3a" data-offset="5531"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

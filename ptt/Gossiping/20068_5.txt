@@ -1,0 +1,161 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494951675.A.77B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 勒索病毒肆虐　賽門鐵克：與北韓有關 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="推 planethell: 原來卡巴斯基是俄國的喔
+卡巴斯基，這個名字（姓氏）一聽就知道是戰鬥民族了，
+xx斯基、xx卡亞、xx夫、xx娃......
+這些都是常見的斯拉夫人姓氏，
+（斯拉夫人就是戰鬥民族）
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 勒索病毒肆虐　賽門鐵克：與北韓有關">
+<meta property="og:description" content="推 planethell: 原來卡巴斯基是俄國的喔
+卡巴斯基，這個名字（姓氏）一聽就知道是戰鬥民族了，
+xx斯基、xx卡亞、xx夫、xx娃......
+這些都是常見的斯拉夫人姓氏，
+（斯拉夫人就是戰鬥民族）
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494951675.A.77B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494951675.A.77B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">k44521272 (賤龍在田)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 勒索病毒肆虐　賽門鐵克：與北韓有關</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 00:21:09 2017</span></div>
+<span class="f2">※ 引述《k6991652 (孤獨求敗)》之銘言：
+</span><span class="f6">: 勒索病毒肆虐　賽門鐵克：與北韓有關
+</span><span class="f6">: 蘋果日報
+</span><span class="f6">: 2017年05月16日18:04
+</span><span class="f6">: 勒索病毒「想哭」（WannaCry）肆虐全球，有網路安全公司懷疑與北韓有關。賽門鐵克（
+</span><span class="f6">: Symantec）和卡巴斯基（Kaspersky Lab）發現，「想哭」早期版本的部份編碼，也見於
+</span><span class="f6">: 北韓駭客組織「Lazarus」所用的程式。
+</span><span class="f6">: 俄羅斯網路安全公司卡巴斯基上月發表報告稱， Lazarus近年向台灣、印度、印尼等18國
+</span><span class="f6">: 金融機構發動攻擊，企圖竊取鉅款來研發核武。賽門鐵克也曾指出，去年2月孟加拉央行
+</span><span class="f6">: 被盜8,100萬美元（約24.33億元台幣），及波蘭、菲律賓和越南的銀行遭到的駭客攻擊，
+</span><span class="f6">: 疑同屬Lazarus所為。北韓駐聯合國代表尚未就這項指控發表評論。
+</span><span class="f6">: <a href="http://www.appledaily.com.tw/realtimenews/article/new/20170516/1119343/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/new/20170516/1119343/</a>
+</span>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">planethell</span><span class="f3 push-content">: 原來卡巴斯基是俄國的喔</span><span class="push-ipdatetime">
+</span></div>卡巴斯基，這個名字（姓氏）一聽就知道是戰鬥民族了，
+<span class="f2 hl">xx斯基、xx卡亞、xx夫、xx娃......</span>
+<span class="f2 hl">這些都是常見的斯拉夫人姓氏，</span>
+（斯拉夫人就是戰鬥民族）
+
+戰鬥民族除了很會幹架，數學邏輯也很強，
+所以戰鬥民族的防毒軟體【卡巴斯基】【大蜘蛛】評價也都不錯，
+本肥宅就是用大蜘蛛防毒軟體+防火牆，
+（Dr. Web 這套軟體以蜘蛛做圖騰，所以叫做大蜘蛛）
+<a href="http://i.imgur.com/bMRjBOv.jpg" target="_blank" rel="nofollow">http://i.imgur.com/bMRjBOv.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="bMRjBOv"><a href="//imgur.com/bMRjBOv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+不過....
+<span class="f3 hl">這次勒索病毒讓俄羅斯成重災區，</span>
+<span class="f3 hl">所以電腦隨時更新與定期備份才是王道。</span>
+
+賽門鐵克居然還沒倒，
+諾頓防毒那種老掉牙的技術還賣這麼貴，
+<span class="f6 b4 hl">本肥宅以前學生時代就是用諾頓還中毒</span>，
+所以改用大蜘蛛惹。
+
+那些懶得更新、又不願意多花錢買一顆外接硬碟備份資料的傢伙，中標哭哭活該！
+
+--
+<a href="http://i.imgur.com/eF9nNL4.jpg" target="_blank" rel="nofollow">http://i.imgur.com/eF9nNL4.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="eF9nNL4"><a href="//imgur.com/eF9nNL4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.12.203.201
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494951675.A.77B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494951675.A.77B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 老斯基</span><span class="push-ipdatetime"> 05/17 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 蜘蛛的公司被惡意軟體產出集團攻擊過目前最強的是bitfxxx</span><span class="push-ipdatetime"> 05/17 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenndy</span><span class="f3 push-content">: 白宮前實習生陸文&#34;斯基&#34;明明美國人</span><span class="push-ipdatetime"> 05/17 00:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 李文斯基又不是美國人 是移民</span><span class="push-ipdatetime"> 05/17 00:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wkheinz</span><span class="f3 push-content">: 有人秀下限</span><span class="push-ipdatetime"> 05/17 00:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ak77now</span><span class="f3 push-content">: 我用大蜘蛛掃毒+Bitdefender防毒  效果還不錯  又都免費</span><span class="push-ipdatetime"> 05/17 05:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494951675.A.77B.html?cacheKey=2052-38010316&offset=2323&offset-sig=ee50cbbb08902bfefbdacc3bf28d63265390c1c9" data-longpollurl="/v1/longpoll?id=e247e7f8a7777a67e70acbbb14369d90f258036d" data-offset="2323"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

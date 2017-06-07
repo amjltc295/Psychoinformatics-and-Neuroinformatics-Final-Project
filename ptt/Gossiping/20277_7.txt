@@ -1,0 +1,206 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495098684.A.0CA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 不想變鬼城  義大利小鎮付你6萬搬去住 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="剛剛丟了小鎮的名字跑去餵狗
+跑出了這個新聞
+The town&#39;s mayor has urged interested parties to please &#34;stop calling.&#34;
+This week, the mayor of a tiny hamlet in Liguria, Italy, announced a plan to
+repopulate his shrinking village. In a now-deleted Facebook post, Mayor
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 不想變鬼城  義大利小鎮付你6萬搬去住">
+<meta property="og:description" content="剛剛丟了小鎮的名字跑去餵狗
+跑出了這個新聞
+The town&#39;s mayor has urged interested parties to please &#34;stop calling.&#34;
+This week, the mayor of a tiny hamlet in Liguria, Italy, announced a plan to
+repopulate his shrinking village. In a now-deleted Facebook post, Mayor
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495098684.A.0CA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495098684.A.0CA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">JiaTai (Jiatai)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 不想變鬼城  義大利小鎮付你6萬搬去住</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 17:11:22 2017</span></div>
+<span class="f2">※ 引述《pitalvlu (pital)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: 蘋果日報
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: 不想變鬼城　義大利小鎮付你6萬搬去住
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 2017/05/18 06:51
+</span><span class="f6">: 義大利北部的山中小鎮Bormida人口不斷流失，從20世紀初的1000人，至今已降至400人左
+</span><span class="f6">: 右，為了挽救人口流失問題，鎮長Daniele Galliano出了奇招，只要你願意搬到小鎮去住
+</span><span class="f6">: ，不但會付你2000歐元（新台幣67300元），每月還給錢讓你租房。
+</span><span class="f6">: 《今日美國》報導指出，這座小鎮有一條主幹道貫穿，鎮上有1間民宿、4家餐廳，郵局每
+</span><span class="f6">: 周只開3天。當地一位餐廳經理表示，在這裡沒什麼事可做，不過生活簡單，有森林、山
+</span><span class="f6">: 羊、教會和美食，過日子不會有壓力。
+</span><span class="f6">: 小鎮每月付50歐元（新台幣1682元）補貼租金，不過至今只有4個人搬過去，鎮長給出更
+</span><span class="f6">: 多利多，包括大房子可以補貼到130歐元（新台幣4374元），Daniele Galliano表示，我
+</span><span class="f6">: 們沒辦法依行情幾戶全額租金，不過補貼只是象徵，還會有更多附帶的優惠條件。（洪子
+</span><span class="f6">: 恩／綜合報導）
+</span><span class="f6">: <a href="http://i.imgur.com/GD6tww0.jpg" target="_blank" rel="nofollow">http://i.imgur.com/GD6tww0.jpg</a>
+</span><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="GD6tww0"><a href="//imgur.com/GD6tww0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f6">: 義大利小鎮Bormida坐落在群山之間。取自USA TODAY
+</span><span class="f6">: <a href="http://i.imgur.com/L76Ola4.jpg" target="_blank" rel="nofollow">http://i.imgur.com/L76Ola4.jpg</a>
+</span><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="L76Ola4"><a href="//imgur.com/L76Ola4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f6">: 鎮長Daniele Galliano。取自Vostro Giornale
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="https://goo.gl/rSPWPg" target="_blank" rel="nofollow">https://goo.gl/rSPWPg</a>
+</span><span class="f6">: 5.備註:
+</span>剛剛丟了小鎮的名字跑去餵狗
+跑出了這個新聞
+The town&#39;s mayor has urged interested parties to please &#34;stop calling.&#34;
+
+This week, the mayor of a tiny hamlet in Liguria, Italy, announced a plan to
+repopulate his shrinking village. In a now-deleted Facebook post, Mayor
+Daniele Galliano suggested a €2,000 incentive (or $2,175) to attract
+newcomers to Bormida, a medieval town with 13th-century frescoes and a single
+church.
+
+According to Italian news site The Local, the response was staggering: Some
+17,000 people contacted the town&#39;s council about the offer in only four days.
+
+<span class="f3 hl">“It was only a suggestion,”</span> Galliano clarified, adding that people should “
+stop calling” about the offer. “Thank you anyway for your interest,” he
+said.
+
+Of course, that doesn’t mean you can’t drop everything and move to this
+beautiful European village in Italy’s remote northwest. There might not be
+much to do in Bormida (there are only four restaurants), but for people
+seeking a simple, natural lifestyle, this idyllic village could be a perfect
+fit.
+
+In a statement on the city of Bormida’s official website, Galliano also
+suggested this might not be the last we hear about a €2,000 gift to move to
+Italy.
+
+“The residence bonus,” Galliano wrote, “for the moment, is a project that
+we hope to achieve in 2018.”
+
+And the allocation of cheap housing, which will reportedly start at €50 per
+month ($54), could happen as early as July 2017. To be the first to know
+about any additional offers from Galliano and his charming town, consult the
+website regularly this summer.
+
+台灣媒體都不查證的...
+又不是研究你
+歐洲哪會這麼好心給你2000 EUR
+以小弟所在奧地利的薪水而言
+超市店員薪水大概落在1200 EUR
+辦公室小職員大概在1500 EUR
+給2000 EUR這種東西我這輩子都沒聽過
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 213.47.44.157
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495098684.A.0CA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495098684.A.0CA.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Firstshadow</span><span class="f3 push-content">: (づ′・ω・）づ suggestion 是什麼 == 我文組</span><span class="push-ipdatetime"> 05/18 17:11
+</span></div>               丟去餵狗就知道了
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 靠北 這麼低 這樣薪水可以租在哪</span><span class="push-ipdatetime"> 05/18 17:12
+</span></div>          不會欸 我在歐洲過一天不到4歐 房租一個月290歐 13平方米 當然維也納另當別論
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toulio81</span><span class="f3 push-content">: 1000人變400人還在收租金喔?直接說限額600人免費房子住</span><span class="push-ipdatetime"> 05/18 17:14
+</span></div>             歐洲地多人少 但是不收垃圾 因為已經太多了...
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toulio81</span><span class="f3 push-content">: ，把空屋消耗光不就好了...還在收租金就是嫌人不夠少</span><span class="push-ipdatetime"> 05/18 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 聽你再屁！&#34;在歐洲過一天不到4歐&#34;？物價比台北市還便宜？</span><span class="push-ipdatetime"> 05/18 17:16
+</span></div>            X我IP就知道啦 本來就台灣物價鳥得要死 這邊豬雞價1kg 9.99EUR
+            鮮乳1L 1.09~1.29歐 民生物資比台灣低不少
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 你是在那裏吃甚麼過活啊？行光合作用嗎？</span><span class="push-ipdatetime"> 05/18 17:16
+</span></div>            馬鈴薯一袋2KG也才3歐有找 2KG夠吃很久了
+            忘了說 房租是水電瓦斯全包
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Chia2323</span><span class="f3 push-content">: 好像別的國家真的看過搬過去幫你打理生活上事物</span><span class="push-ipdatetime"> 05/18 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Chia2323</span><span class="f3 push-content">: 1000多台幣沒啥誘因</span><span class="push-ipdatetime"> 05/18 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 台媒不遵守5W1H很久了, 所以才會經常鬧笑話</span><span class="push-ipdatetime"> 05/18 17:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Chia2323</span><span class="f3 push-content">: 看街景好像在山上很不方便 到市區買個東西就不只那些錢</span><span class="push-ipdatetime"> 05/18 17:21
+</span></div>             歐洲最貴的就交通惹QAQ
+<span class="f2">※ 編輯: JiaTai (213.47.44.157), 05/18/2017 17:21:53
+</span><span class="f2">※ 編輯: JiaTai (213.47.44.157), 05/18/2017 17:24:22
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SoWell</span><span class="f3 push-content">: 即將去德國讀書幫推</span><span class="push-ipdatetime"> 05/18 17:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kmichaelk</span><span class="f3 push-content">: 奧地利吃一餐 配個啤酒 4歐</span><span class="push-ipdatetime"> 05/18 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 可以去養老，會考慮耶</span><span class="push-ipdatetime"> 05/18 18:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495098684.A.0CA.html?cacheKey=2052-40095901&offset=4916&offset-sig=f30d43771af87447659d077822361db7dbf37b9a" data-longpollurl="/v1/longpoll?id=359aec264fb39aa57c7b1b11baf26d37cbf43386" data-offset="4916"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

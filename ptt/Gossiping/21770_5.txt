@@ -1,0 +1,183 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496122523.A.5D5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 10萬袋衛生紙 喚出7萬2G用戶 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源: 中時  黃琮淵／台北報導
+2.完整新聞標題: 10萬袋衛生紙 喚出7萬2G用戶
+3.完整新聞內文:
+2G門號6月底停用倒數，仍有近20萬2G用戶還未轉換，中華電信直接從婆婆媽媽下手，拿
+衛生紙利誘，這宗電信促銷史上頭一遭的「衛生紙促案」，短短2個月送出超過10萬袋的
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 10萬袋衛生紙 喚出7萬2G用戶">
+<meta property="og:description" content="1.媒體來源: 中時  黃琮淵／台北報導
+2.完整新聞標題: 10萬袋衛生紙 喚出7萬2G用戶
+3.完整新聞內文:
+2G門號6月底停用倒數，仍有近20萬2G用戶還未轉換，中華電信直接從婆婆媽媽下手，拿
+衛生紙利誘，這宗電信促銷史上頭一遭的「衛生紙促案」，短短2個月送出超過10萬袋的
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496122523.A.5D5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496122523.A.5D5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Diluvius (沒)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 10萬袋衛生紙 喚出7萬2G用戶</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 13:35:20 2017</span></div>
+1.媒體來源: 中時  黃琮淵／台北報導
+
+2.完整新聞標題: 10萬袋衛生紙 喚出7萬2G用戶
+
+3.完整新聞內文:
+2G門號6月底停用倒數，仍有近20萬2G用戶還未轉換，中華電信直接從婆婆媽媽下手，拿
+衛生紙利誘，這宗電信促銷史上頭一遭的「衛生紙促案」，短短2個月送出超過10萬袋的
+五月花衛生紙，逼出7萬名2G用戶升級，超低成本迸出高轉換率，跌破各界眼鏡。
+
+升級就送 婆媽逗相報
+台灣2G服務即將終止，2G的SIM卡跟2G手機自7月起就無法使用，但根據NCC最新統計，截
+至5月19日止，還有19萬2G用戶未升級，扣除企業戶外，月租型有10.6萬戶、預付卡有3萬
+戶，1個月後就會面臨斷訊危機。
+
+為了鼓勵用戶升4G，中華電信、台灣大哥大及遠傳電信，<span class="b4 hl">自前年就開始宣導，除了有月租
+</span><span class="b4 hl">不變、優惠更多的無痛升級專案，還可用零元帶回銀髮族手機</span>，但好話說盡，許多2G用戶
+就是不為所動，說不換就不換。
+
+超低成本 迸高轉換率
+2G用戶最多的中華電信分析，主因2G用戶有許多銀髮族，他們不只不上網，連電話都很少
+打，很難說服他們升4G，更尷尬的是這幾年詐騙盛行，大家都怕被騙，說什麼都不要，這
+種心理因素其實更難克服。
+
+為了克服「婆媽障礙」，中華電信只得逆勢突圍，<span class="b4 hl">不過這回不送手機、也不送家電，而是
+</span><span class="b4 hl">只要2G升4G，就送2袋（共16包）抽取式衛生紙</span>，這在國內電信史堪稱空前絕後，沒想到
+效果意外的好，<span class="b4 hl">讓婆媽們很有感。</span>
+
+手機家電 不敵兩袋紙
+數字會說話，中華電信3月底時，2G用戶數還有20.9萬戶，端出「衛生紙攻勢」後，2G戶
+數明顯下滑，現已跌破14萬戶，剩13.8萬戶，不到2個月少掉7萬戶，成效相當驚人，許多
+就是衝著衛生紙而來的婆媽們。
+
+「好話說盡，不如送你衛生紙！」中華電信門市專員笑說，許多婆婆媽媽不要智慧型手機
+、也不要平板，他們在意的是電話費，但即便打包票說月租費不變，仍舊能拖就拖，卻不
+敵兩袋衛生紙的「利誘」。
+
+尤其在中南部，不少老客戶到門市繳費，知道升4G就送衛生紙時，還「呷好逗相報」，鼓
+勵親朋好友一起換4G，效果比過往促案都好，接下來就看這波口耳相傳效應能否延續，在
+6月底前盡量將2G用戶都升至4G。
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.chinatimes.com/newspapers/20170530000160-260114" target="_blank" rel="nofollow">http://www.chinatimes.com/newspapers/20170530000160-260114</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.76.31
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496122523.A.5D5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496122523.A.5D5.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 才兩袋喔</span><span class="push-ipdatetime"> 05/30 13:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BrandyEye</span><span class="f3 push-content">: 這種換的也沒４g需要</span><span class="push-ipdatetime"> 05/30 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deltarobot</span><span class="f3 push-content">: 台女三寶就是貪小便宜</span><span class="push-ipdatetime"> 05/30 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony15899</span><span class="f3 push-content">: 賣假藥的都用送生活用品集人潮</span><span class="push-ipdatetime"> 05/30 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">devidevi</span><span class="f3 push-content">: 終於知道人民的需求在哪了，可惜不是政府</span><span class="push-ipdatetime"> 05/30 13:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yugiboy</span><span class="f3 push-content">: 唉  台灣人真他媽下賤  跟野狗沒兩樣</span><span class="push-ipdatetime"> 05/30 13:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NeGe56</span><span class="f3 push-content">: ....沒想到兩袋衛生紙可以有效，我果然不懂三寶</span><span class="push-ipdatetime"> 05/30 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icepet0015</span><span class="f3 push-content">: 不愧是婆婆媽媽們~</span><span class="push-ipdatetime"> 05/30 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy70612</span><span class="f3 push-content">: 這個行銷企劃  今年的KPI應該不錯</span><span class="push-ipdatetime"> 05/30 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ace4</span><span class="f3 push-content">: 老人眼睛不好 你給他智慧手機幹嘛？</span><span class="push-ipdatetime"> 05/30 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abring</span><span class="f3 push-content">: 我覺得4g真的很不穩，都切3g在用</span><span class="push-ipdatetime"> 05/30 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rkb84</span><span class="f3 push-content">: 送附一支有鍵盤的功能手機，他們也不要</span><span class="push-ipdatetime"> 05/30 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chctonagisa</span><span class="f3 push-content">: 重點是2g要斷了啊</span><span class="push-ipdatetime"> 05/30 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxcxxx</span><span class="f3 push-content">: 因為快到期了，不換也不行啊</span><span class="push-ipdatetime"> 05/30 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aaaaaa111</span><span class="f3 push-content">: 不會np到台哥大328?</span><span class="push-ipdatetime"> 05/30 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nadiaInochi</span><span class="f3 push-content">: 對她們來說衛生紙就真的比較實用啊</span><span class="push-ipdatetime"> 05/30 13:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">moecao14</span><span class="f3 push-content">: 這些人的兒子都用很兇。垃圾桶裡一團一團的</span><span class="push-ipdatetime"> 05/30 14:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nash9328</span><span class="f3 push-content">: 才兩袋 老肥宅一個禮拜就用完了</span><span class="push-ipdatetime"> 05/30 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vaniakure</span><span class="f3 push-content">: 反正這些人之後斷訊，還會去哀說業者都沒通知</span><span class="push-ipdatetime"> 05/30 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ifay</span><span class="f3 push-content">: 婆媽：拿回家給老肥宅兒子們用</span><span class="push-ipdatetime"> 05/30 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TKPTT</span><span class="f3 push-content">: 2G退場倒數中，終究要換的，換了又有額外的衛生紙可拿，對</span><span class="push-ipdatetime"> 05/31 01:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TKPTT</span><span class="f3 push-content">: 某些族群的人來說是很實用。</span><span class="push-ipdatetime"> 05/31 01:46
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496122523.A.5D5.html?cacheKey=2052-2416743&offset=4315&offset-sig=42712fa57904aace900df4bef3be904b793f5f06" data-longpollurl="/v1/longpoll?id=89f7db3d836999fe1ef78b87cb16da6c3b5ae568" data-offset="4315"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

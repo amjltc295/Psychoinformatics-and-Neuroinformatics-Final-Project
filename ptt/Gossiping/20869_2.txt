@@ -1,0 +1,450 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495522465.A.AB7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 阿法狗又贏啦! - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="柯潔大戰阿法狗 第一回合 阿法狗勝
+這是人類滅亡的第一步嗎
+推 diablo4: http://i.imgur.com/a6cOHro.png 結果出來了
+The Future of Go Summit  人類 0:1 機器
+http://events.google.com/alphago2017/index.html
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 阿法狗又贏啦!">
+<meta property="og:description" content="柯潔大戰阿法狗 第一回合 阿法狗勝
+這是人類滅亡的第一步嗎
+推 diablo4: http://i.imgur.com/a6cOHro.png 結果出來了
+The Future of Go Summit  人類 0:1 機器
+http://events.google.com/alphago2017/index.html
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495522465.A.AB7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495522465.A.AB7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">i329 (殺刀豬)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 阿法狗又贏啦!</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 14:54:21 2017</span></div>
+柯潔大戰阿法狗 第一回合 阿法狗勝
+
+這是人類滅亡的第一步嗎
+
+推 diablo4: <a href="http://i.imgur.com/a6cOHro.png" target="_blank" rel="nofollow">http://i.imgur.com/a6cOHro.png</a> 結果出來了
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="a6cOHro"><a href="//imgur.com/a6cOHro"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+The Future of Go Summit  人類 0:1 機器
+
+<a href="http://events.google.com/alphago2017/index.html" target="_blank" rel="nofollow">http://events.google.com/alphago2017/index.html</a>
+
+--
+sent from <a href="http://ptt56.com" target="_blank" rel="nofollow">http://ptt56.com</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.224.250.128
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495522465.A.AB7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495522465.A.AB7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BILLYTHEKID</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:54
+</span></div><span class="f2">※ 編輯: i329 (125.224.250.128), 05/23/2017 14:54:51
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 柯潔隨時要住院</span><span class="push-ipdatetime"> 05/23 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NCKU</span><span class="f3 push-content">: 計算機發明出來人類也沒滅亡啊</span><span class="push-ipdatetime"> 05/23 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MissFaye</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 柯潔輸到搖頭</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joumay</span><span class="f3 push-content">: 好奇怪 幹嘛這樣人工整地計目... 電腦按一按就好了不行嗎?</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SonyXperiaZ3</span><span class="f3 push-content">: 柯潔要崩潰啦</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 人類棄賽中離</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">william12tw</span><span class="f3 push-content">: 正常</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bravo</span><span class="f3 push-content">: 阿法狗會約跑嗎？</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shanpinlo</span><span class="f3 push-content">: 030</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaw13</span><span class="f3 push-content">: 柯潔下超好</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goldman0204</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shi0520</span><span class="f3 push-content">: 快加入反抗軍吧</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aggressorX</span><span class="f3 push-content">: 無聊 根本不同等級</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">walkdog0603</span><span class="f3 push-content">: 又要去住院了嗎XDDD</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: GG</span><span class="push-ipdatetime"> 05/23 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bruce511239</span><span class="f3 push-content">: 上面那一篇贏面很大的...是怎樣</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">followwar</span><span class="f3 push-content">: 狗贏1目半 0..0</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: 輸了才意外</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">terry1043</span><span class="f3 push-content">: 這是住哪間醫院</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bastille</span><span class="f3 push-content">:  老實說柯潔也不算輸 下得超好的</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a35715987</span><span class="f3 push-content">: 輸了才有卦</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RLAPH</span><span class="f3 push-content">: 嫩</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lookatme921</span><span class="f3 push-content">: 什麼時候打星海</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">missingkid</span><span class="f3 push-content">: 柯粉崩潰</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 早就知道了</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kawazakiz2</span><span class="f3 push-content">: 還早啦，再厲害也只會下棋，等會打黑暗靈魂再怕</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kohanchen</span><span class="f3 push-content">: 差幾目?</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">archon</span><span class="f3 push-content">: 不到五小時，10萬美金入袋，柯潔或成最大贏家</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuzukineko</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laygoyolo</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a129388477</span><span class="f3 push-content">: 一目半真的很強了</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brian0314</span><span class="f3 push-content">: 又是柯粉 哈哈</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 李世石表示：</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 阿傑回家睡覺瞜~</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 我在想 阿發狗484都算好惹不用贏太多子</span><span class="push-ipdatetime"> 05/23 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">terry1043</span><span class="f3 push-content">: 柯P還在睡</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 人類最後防線 QQ</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billy5588tw</span><span class="f3 push-content">: 柯潔很強了..</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abcyting</span><span class="f3 push-content">: 1目半是很接近嗎？</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bomei</span><span class="f3 push-content">: 天網</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stilu</span><span class="f3 push-content">: 輸了就輸了還不算輸，你乾脆說阿法狗不算贏好了</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keither1009</span><span class="f3 push-content">: 現在加入反抗軍能卡得到軍官缺嗎？</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gs951117</span><span class="f3 push-content">: 又要住院了嗎</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaw13</span><span class="f3 push-content">: 差半目</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paul861124</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andrewyllee</span><span class="f3 push-content">: 不訪問嗎</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">haha98</span><span class="f3 push-content">: 支持柯p</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bluegold</span><span class="f3 push-content">: 還不是靠貼目</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s820912gmail</span><span class="f3 push-content">: 廢物</span><span class="push-ipdatetime"> 05/23 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casperrrr</span><span class="f3 push-content">: 應該的</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yy222499</span><span class="f3 push-content">: 柯粉崩潰</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 柯潔打得不錯惹啦</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shi0520</span><span class="f3 push-content">: AI算到不能讓人類輸太難看 否則下場不妙</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 沒聲音 真想知道柯黃盤後說了什麼</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 媽的不是說識破了阿發狗嗎</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">evan1004</span><span class="f3 push-content">: 1目多超猛了</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccjj8</span><span class="f3 push-content">: 柯已經打得不錯了</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zu00405479</span><span class="f3 push-content">: 在支那贏太多是想要被道歉嗎?當然是算好阿</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DataMaster</span><span class="f3 push-content">: 阿法狗差點輸</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isaa</span><span class="f3 push-content">: 快點在黃博士的茶裡下藥</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay1233560</span><span class="f3 push-content">: 柯潔笑著爽拿出場費</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sam85sam22</span><span class="f3 push-content">: 黑棋184白棋177</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Celinemother</span><span class="f3 push-content">: 我要看星海= =</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">honsan</span><span class="f3 push-content">: 好想知道柯潔跟黃士傑說什麼喔</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJS</span><span class="f3 push-content">: 柯很猛了</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aggressorX</span><span class="f3 push-content">: 話都給你說就好了 一下看破很猛 一下只輸一目半很猛XD</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bxdfhbh</span><span class="f3 push-content">: 好像說是按照中國規則半目。日韓規則是一目半。</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">STi2011</span><span class="f3 push-content">: 不是說柯要贏了?</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwvvkai</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 只差1目半根本超強...</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">koiopolo2</span><span class="f3 push-content">: 打黑暗靈魂這麼簡單 迴避無敵時間都1/3秒以上了</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RW2010</span><span class="f3 push-content">: 一目半 四分之一子...有差很多嗎??</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsiehhsing</span><span class="f3 push-content">: 柯在笑好嗎，哪有崩潰，一堆沒在看</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asdf70044</span><span class="f3 push-content">: 原來阿法狗不算贏 到底贏家是誰阿?? 黑人問號</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shi0520</span><span class="f3 push-content">: 李世石還贏過 等柯傑贏了再來嘴吧</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andrewyllee</span><span class="f3 push-content">: 畫面不切喔?</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">STi2011</span><span class="f3 push-content">: 那這樣阿法狗會更強吧....</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn02827186</span><span class="f3 push-content">: 柯下的很不錯了</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 是Alphago設定問題,不然早殺爆</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LIN6627</span><span class="f3 push-content">: 神乎棋技</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongzero</span><span class="f3 push-content">: 科應該是再說左下角都被吃光吧</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diablo4</span><span class="f3 push-content">: <a href="http://i.imgur.com/a6cOHro.png" target="_blank" rel="nofollow">http://i.imgur.com/a6cOHro.png</a> 結果出來了</span><span class="push-ipdatetime"> 05/23 14:59
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="a6cOHro"><a href="//imgur.com/a6cOHro"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 狗狗輸了才是新聞</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">price20</span><span class="f3 push-content">: 人類最強對電腦 有些人好認真 大概是反中腦殘XDDD</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiv9137</span><span class="f3 push-content">: 請問中國不能連上谷哥 那AlphaGO怎麼連回google主機端的</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">R6SSI</span><span class="f3 push-content">: 好接近哦 厲害</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><span class="f2">※ 編輯: i329 (125.224.250.128), 05/23/2017 15:01:00
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">weltschmerz</span><span class="f3 push-content">: 那是反串拉= =</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerico</span><span class="f3 push-content">: 1/4子？</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anuevol</span><span class="f3 push-content">: 差很多嗎?阿就贏了啊，不管怎樣阿發狗都是小贏一點吧，這</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s655131</span><span class="f3 push-content">: 跟李40比哪邊輸比較少 外行人看不懂QQ</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oops66</span><span class="f3 push-content">: 只贏半目 根本棋靈王劇情</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Anuevol</span><span class="f3 push-content">: 才是它厲害的地方</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 1/4子  接近勢均力敵  很強</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: AG是求穩不求多</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiergh</span><span class="f3 push-content">: 乾脆阿法狗貼10目來下好了 還不算贏勒 知道以前AI被屌打嗎</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 9.2又被打臉QQ</span><span class="push-ipdatetime"> 05/23 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Serenede</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jiaching</span><span class="f3 push-content">: 屌虐半目</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leo921080931</span><span class="f3 push-content">: 輸就輸拉 哪來的不算輸</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><span class="f2">※ 編輯: i329 (125.224.250.128), 05/23/2017 15:01:47
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LIN6627</span><span class="f3 push-content">: 下一局啥時打</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 柯J有抓到阿法狗在優勢時喜歡下保守的特性反打一波</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 阿發狗有讓欸，好猛</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudin</span><span class="f3 push-content">: 這場蠻精彩的</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 不過還是無法壓過去</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluemmb</span><span class="f3 push-content">: 下一盤棋10萬美金入手 不笑難道要哭嗎</span><span class="push-ipdatetime"> 05/23 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ken1325</span><span class="f3 push-content">: 輸了就輸了，還不算輸勒，精神勝利法是吧</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cheetahspeed</span><span class="f3 push-content">: 支那人連圍棋都不會下</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greedypeople</span><span class="f3 push-content">: 塊陶啊</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s81048112</span><span class="f3 push-content">: 柯柯</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 執黑本來就要貼目啊 你不貼目黑方根本躺著贏</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 下保守應該是維持贏面到下完就好，沒有想到贏很多。</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">price20</span><span class="f3 push-content">: 支那人世界排名第一 不會下棋  那排名之後都是????87發言</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">weltschmerz</span><span class="f3 push-content">: ...現在世界最強就支那人 某樓反串也太爛了吧</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OOQ</span><span class="f3 push-content">: 某嘴有沒有吐血送醫？</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sssqsss</span><span class="f3 push-content">: 不知道訪問柯J會說什麼</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k03004748549</span><span class="f3 push-content">: 這樣算是勢均力敵了 很強</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack020408</span><span class="f3 push-content">: 誰去下都是電腦贏半目啦 不想贏你太多 柯杰根本被屌虐</span><span class="push-ipdatetime"> 05/23 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Roystu</span><span class="f3 push-content">: 吐血身亡</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stilu</span><span class="f3 push-content">: 柯潔當然很強，人類第一你敢嘴，但事實就是輸給AlphaGO</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 其實阿法狗控制剛好贏半目</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: AG控制贏半目才強到爆,代表他大局觀屌虐人類</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">schumi7401</span><span class="f3 push-content">: 沒贏很多 柯潔算贏了</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 因為阿法狗的演算法傾向提高勝率而非擴大優勢</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolod546</span><span class="f3 push-content">: 贏半目真的比較恐怖 代表都在控制中</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ms893030</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 科基贏再來爆卦</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OOQ</span><span class="f3 push-content">: 天網什麼時候啟動倒數？</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 怕贏太多 會有議員跳出來立法限制吧</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jacvky</span><span class="f3 push-content">: 設定問題，AI只求勝負，不會管贏的目數，所以只需知道勝負</span><span class="push-ipdatetime"> 05/23 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NTPUpigeyes</span><span class="f3 push-content">: 輸了就是輸了啦</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ymib</span><span class="f3 push-content">: AlphaGO的弱點就在電源線，懂？</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BetaCat</span><span class="f3 push-content">: 幫QQ 如果去年先上就有機會贏了</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 天網  在google總部 準備啟動</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DORAQMON</span><span class="f3 push-content">: 柯 超強</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freedom1986</span><span class="f3 push-content">: 阿老師是求穩，不求虐殺</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">grandwar</span><span class="f3 push-content">: 台灣被欺負成這樣應該第一個投靠天網</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 中國鄉民要去買鍋貼惹嗎</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: V25對上李世石的V18都可以讓四子，太強了。</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stilu</span><span class="f3 push-content">: 贏半目的意思就跟某個不看書的同學永遠都考60分，全班都不</span><span class="push-ipdatetime"> 05/23 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">more5566</span><span class="f3 push-content">: 圍棋界的獨孤求敗</span><span class="push-ipdatetime"> 05/23 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stilu</span><span class="f3 push-content">: 及格的時候就他一個人60分這樣</span><span class="push-ipdatetime"> 05/23 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsiyafel</span><span class="f3 push-content">: 老實說我都看不懂，只知道輸和贏，什麼下的很好嘸知啦</span><span class="push-ipdatetime"> 05/23 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">echomica</span><span class="f3 push-content">: 雖然柯潔中二了點 不過敢出來戰不錯了</span><span class="push-ipdatetime"> 05/23 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linfon00</span><span class="f3 push-content">: 贏半子而已 算的真準</span><span class="push-ipdatetime"> 05/23 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 但是阿法狗的設定就是他寧可讓你每場都六十分</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jiaching</span><span class="f3 push-content">: 不到5小時 10萬鎂get</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsjerry</span><span class="f3 push-content">: 沒贏很多??贏半目不就代表AG整體都控制得很好嗎!!</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 阿法狗讓真大</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: KJ雖然嘴，但真的有實力，算人類中最強的吧</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pzboy</span><span class="f3 push-content">: 阿法狗輸了再來爆卦  行嗎</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimgordon</span><span class="f3 push-content">: 其實柯潔這盤下的不錯 算然我完全不懂 ^^</span><span class="push-ipdatetime"> 05/23 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 等接下來兩場阿法狗都贏半目才能證實設定成這樣吧？</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 讓你每場60分 阿發GO控制在61分 氣死你 QQ</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">showgo</span><span class="f3 push-content">: 怎麼感覺台灣贏了</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 柯J的策略方向是正確的，不過還需要再臨門一腳才有可</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">EfiwymsiAros</span><span class="f3 push-content">: 有卦再爆 沒卦爆屁</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tassatul</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deer8dog9</span><span class="f3 push-content">: 能贏</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mathrew</span><span class="f3 push-content">: 誰去 都是贏半目  一目半  之類的吧...</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 你說贏1.5~5目我都還相信,剛好贏0.5目這根本等級不同</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 去年李世石還有神之一手,這次柯潔不可能贏的了進化超</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hoos891405</span><span class="f3 push-content">: 鄉民臉手遊圍棋app都打不贏</span><span class="push-ipdatetime"> 05/23 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 快的alphago</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gnardada</span><span class="f3 push-content">: GGGGGGGGG</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jacvky</span><span class="f3 push-content">: 它不是設定贏的目數好嗎...</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FuYen</span><span class="f3 push-content">: 那種很細的官子電腦可以半目半目算不意外啊</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 參數也不知道怎麼設定，有聽說參數可以設定讓子。</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zien0223</span><span class="f3 push-content">: 能打到這樣已經很不容易了</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jacvky</span><span class="f3 push-content">: 它是求穩，寧可增加勝率而放棄贏的目數。</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxxg00w0</span><span class="f3 push-content">: 禁止直播XD</span><span class="push-ipdatetime"> 05/23 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hwc</span><span class="f3 push-content">: 有此戰果並不意外</span><span class="push-ipdatetime"> 05/23 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">horseham</span><span class="f3 push-content">: 柯黑184  狗177 如果是我小時候規則黑半目勝</span><span class="push-ipdatetime"> 05/23 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WuDhar</span><span class="f3 push-content">: 人類最強，那大概是天津飯等級吧</span><span class="push-ipdatetime"> 05/23 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linfon00</span><span class="f3 push-content">: 你把小時候的規則輸入進去 他下法就不一樣了</span><span class="push-ipdatetime"> 05/23 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 人類最強是克林啦  天津飯哪根蔥</span><span class="push-ipdatetime"> 05/23 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 如果是照以前規則這場AG就179給你看</span><span class="push-ipdatetime"> 05/23 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 樓上不能這樣說 AI是利用中國規則去訓練的</span><span class="push-ipdatetime"> 05/23 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FuYen</span><span class="f3 push-content">: 就算是人也會根據貼目不同有不同下法啊</span><span class="push-ipdatetime"> 05/23 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 不過能下成這樣夠強了</span><span class="push-ipdatetime"> 05/23 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 讓子規則當然有輸入</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: *178</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiaujin</span><span class="f3 push-content">: 程式本來就會求高勝率哪管贏多少 還在那邊很接近了</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Myrd718</span><span class="f3 push-content">: 不意外啦</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc2331189</span><span class="f3 push-content">: 已經掛號好了嗎</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 基本上你要贏很多目贏的機率就比較低.AG不會那樣下</span><span class="push-ipdatetime"> 05/23 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 光有18號當老婆這點，克林就遙遙領先天津飯了</span><span class="push-ipdatetime"> 05/23 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudstr</span><span class="f3 push-content">: 沒alphago 還真不知道菜雞互啄</span><span class="push-ipdatetime"> 05/23 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Timberlake</span><span class="f3 push-content">: 鄉民都會神之一手</span><span class="push-ipdatetime"> 05/23 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie0804</span><span class="f3 push-content">: 進醫院了</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">percival</span><span class="f3 push-content">: 電腦輸了~才是八卦吧</span><span class="push-ipdatetime"> 05/23 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrStone</span><span class="f3 push-content">: 怎麼沒有當場吐血</span><span class="push-ipdatetime"> 05/23 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppBOSSqq</span><span class="f3 push-content">: 阿發狗知道自己還不能控制核彈 所以故意裝作只能贏一目</span><span class="push-ipdatetime"> 05/23 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">terminator3</span><span class="f3 push-content">: 看八卦板以為個個職業九段</span><span class="push-ipdatetime"> 05/23 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chean1020</span><span class="f3 push-content">: 廢物支那狗，連棋都不會下，之前不是很嗆？喘氣啊</span><span class="push-ipdatetime"> 05/23 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mugen0413</span><span class="f3 push-content">: 真。人間電腦惜敗</span><span class="push-ipdatetime"> 05/23 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PPTmilktea</span><span class="f3 push-content">: 放心 就算下場是柯潔贏了 鄉民也會說是狗故意輸的</span><span class="push-ipdatetime"> 05/23 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cimone</span><span class="f3 push-content">: 看八卦板以為個個都AI專家 可以控制AI只贏半目</span><span class="push-ipdatetime"> 05/23 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BAR21</span><span class="f3 push-content">: 飛機杯不曉得出來多久人類也沒滅亡阿</span><span class="push-ipdatetime"> 05/23 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chean1020</span><span class="f3 push-content">: 柯潔不是很嗆？再邱啊，廢物支那賤畜，哭哭唷嘻嘻</span><span class="push-ipdatetime"> 05/23 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yamhome</span><span class="f3 push-content">: AG都以勝率為優先，柯下得好？當事人心裡可不會這樣想</span><span class="push-ipdatetime"> 05/23 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">realtw</span><span class="f3 push-content">: 嘴炮吱吱又高潮了</span><span class="push-ipdatetime"> 05/23 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HomuCat</span><span class="f3 push-content">: 柯潔粉終於來了 呵呵</span><span class="push-ipdatetime"> 05/23 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric525498</span><span class="f3 push-content">: 阿法狗乖～這裡有餅乾</span><span class="push-ipdatetime"> 05/23 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TOROKYO</span><span class="f3 push-content">: 柯潔就是標準的不做死就不會死</span><span class="push-ipdatetime"> 05/23 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cheetahspeed</span><span class="f3 push-content">: 恭迎廣西柯粉</span><span class="push-ipdatetime"> 05/23 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lianhua</span><span class="f3 push-content">: 輸多少以內不算輸是支那的圍棋規則嗎?</span><span class="push-ipdatetime"> 05/23 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">drump</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bloodydevil</span><span class="f3 push-content">: 攤手表示輸半目算不錯了，除非接下來都輸半目，不然</span><span class="push-ipdatetime"> 05/23 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bloodydevil</span><span class="f3 push-content">: 我實在不信這能設定</span><span class="push-ipdatetime"> 05/23 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kmshy</span><span class="f3 push-content">: 阿發狗表示：贏這麼少算給你面子 別給臉不要臉</span><span class="push-ipdatetime"> 05/23 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HomuCat</span><span class="f3 push-content">: 柯潔會被嘴那麼慘 有一部份原因是廣西粉粉太囂張</span><span class="push-ipdatetime"> 05/23 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 這次古力會參加配對賽所以看不到他解盤了可惜</span><span class="push-ipdatetime"> 05/23 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmaclon</span><span class="f3 push-content">: 柯J絕對知道他被下指導了，所以只好XDDDDD的表情</span><span class="push-ipdatetime"> 05/23 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 小屁孩不早一點對戰，等到阿法狗進化了只能被屌虐</span><span class="push-ipdatetime"> 05/23 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ninggo</span><span class="f3 push-content">: 機器沒有熱情。</span><span class="push-ipdatetime"> 05/23 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 李世石可能會是人類對阿法狗唯一的一勝，歷史的一勝</span><span class="push-ipdatetime"> 05/23 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luuuking</span><span class="f3 push-content">: 第一二局贏一點就好，免得科J吐血不下了，第三句再大殺</span><span class="push-ipdatetime"> 05/23 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luuuking</span><span class="f3 push-content">: 特殺</span><span class="push-ipdatetime"> 05/23 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mooooose</span><span class="f3 push-content">: 廣西支那人就是平常太囂張 大家才會幫alphago加油</span><span class="push-ipdatetime"> 05/23 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 去年柯潔跟AG比還有可能贏,今年是不可能了</span><span class="push-ipdatetime"> 05/23 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e86117934</span><span class="f3 push-content">: 能叫初段的跟阿發狗比一下嗎？</span><span class="push-ipdatetime"> 05/23 15:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">slimfat0202</span><span class="f3 push-content">: 幹，之前誰法發柯潔要淫了，出來面對</span><span class="push-ipdatetime"> 05/23 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 好多鍵盤10段</span><span class="push-ipdatetime"> 05/23 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevio</span><span class="f3 push-content">: 柯師傅不要跟他拚棋 要切他電源!!!</span><span class="push-ipdatetime"> 05/23 15:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chrislai</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 15:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chrislai</span><span class="f3 push-content">: 李世石算是人類第一了吧  拿過一勝</span><span class="push-ipdatetime"> 05/23 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SaintSeven</span><span class="f3 push-content">: 不要再住院了=.=</span><span class="push-ipdatetime"> 05/23 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chanceiam</span><span class="f3 push-content">: 今天肚子痛吧XD</span><span class="push-ipdatetime"> 05/23 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">morris</span><span class="f3 push-content">: 下很好啦 只怕下一次差距更大</span><span class="push-ipdatetime"> 05/23 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OGC218</span><span class="f3 push-content">: 要自盡了嗎？</span><span class="push-ipdatetime"> 05/23 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blacktea5</span><span class="f3 push-content">: 麥片as.  $.!(82)</span><span class="push-ipdatetime"> 05/23 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 說個笑話 小李人類第一</span><span class="push-ipdatetime"> 05/23 15:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">basslife</span><span class="f3 push-content">: 只贏一目多 但你不知道狗是不是計算好的</span><span class="push-ipdatetime"> 05/23 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samsam80821</span><span class="f3 push-content">: 很厲害耶一目半</span><span class="push-ipdatetime"> 05/23 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">einard666</span><span class="f3 push-content">: 阿法狗也懂放水 真是溫馨</span><span class="push-ipdatetime"> 05/23 15:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: 不ey</span><span class="push-ipdatetime"> 05/23 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kemusi</span><span class="f3 push-content">: 一開始不是很嗆XD</span><span class="push-ipdatetime"> 05/23 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">epidemic000</span><span class="f3 push-content">: 要心態炸裂了 gg</span><span class="push-ipdatetime"> 05/23 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wxtab019</span><span class="f3 push-content">: 收官讓會下棋的去收大概不只贏這樣，只是alphago下法就</span><span class="push-ipdatetime"> 05/23 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wxtab019</span><span class="f3 push-content">: 求穩，減少變化提高勝率</span><span class="push-ipdatetime"> 05/23 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 真可惜</span><span class="push-ipdatetime"> 05/23 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s910443tw</span><span class="f3 push-content">: 支那狗崩潰</span><span class="push-ipdatetime"> 05/23 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 剃光頭瞜</span><span class="push-ipdatetime"> 05/23 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roy2142</span><span class="f3 push-content">: 呼叫姜康納</span><span class="push-ipdatetime"> 05/23 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: 意料之中</span><span class="push-ipdatetime"> 05/23 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jeff09</span><span class="f3 push-content">: <a href="http://imgur.com/glewQTA" target="_blank" rel="nofollow">http://imgur.com/glewQTA</a></span><span class="push-ipdatetime"> 05/23 15:54
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="glewQTA"><a href="//imgur.com/glewQTA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jeff09</span><span class="f3 push-content">: 人類要滅亡了QQ</span><span class="push-ipdatetime"> 05/23 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvBMWvv</span><span class="f3 push-content">: 柯基幹嘛要崩潰或吐血..這麼弱還有錢拿~開心爆了吧~</span><span class="push-ipdatetime"> 05/23 15:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvBMWvv</span><span class="f3 push-content">: 搞不懂想法...</span><span class="push-ipdatetime"> 05/23 15:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 柯超強，只輸一點點</span><span class="push-ipdatetime"> 05/23 16:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctes940008</span><span class="f3 push-content">: 慘</span><span class="push-ipdatetime"> 05/23 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xxxrecoil</span><span class="f3 push-content">: 推文推９.2是？？</span><span class="push-ipdatetime"> 05/23 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ihateants</span><span class="f3 push-content">: 很強是很強，但是輸了</span><span class="push-ipdatetime"> 05/23 16:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joe199277</span><span class="f3 push-content">: 阿法狗:贏就是贏，管你贏幾目</span><span class="push-ipdatetime"> 05/23 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joe199277</span><span class="f3 push-content">: 打爐石 0滴頭爆開 我剩一滴我也是贏啊</span><span class="push-ipdatetime"> 05/23 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TheRock0987</span><span class="f3 push-content">: 想看擲白子的柯潔能否贏半目</span><span class="push-ipdatetime"> 05/23 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pythonista</span><span class="f3 push-content">: 柯瑞輸了？？喔是柯潔</span><span class="push-ipdatetime"> 05/23 16:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c24253994</span><span class="f3 push-content">: 完了快保護江康納</span><span class="push-ipdatetime"> 05/23 16:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 能只輸一兩目算實力很接近..除非有人放水，吃個鍋貼吧！</span><span class="push-ipdatetime"> 05/23 16:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TheRock0987</span><span class="f3 push-content">: 有種柯潔擲白子贏跟第一場  一樣多  算你強</span><span class="push-ipdatetime"> 05/23 16:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kaitokid1214</span><span class="f3 push-content">: 阿柯 明天住院 病床你建</span><span class="push-ipdatetime"> 05/23 16:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hokksapp</span><span class="f3 push-content">: 柯潔上次住院不是說有絕招嗎？</span><span class="push-ipdatetime"> 05/23 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chrispherd</span><span class="f3 push-content">: 都單機版讓你了</span><span class="push-ipdatetime"> 05/23 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jonwei</span><span class="f3 push-content">: 這次不能拉網路線了</span><span class="push-ipdatetime"> 05/23 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shallwestart</span><span class="f3 push-content">: 柯潔發微博表示「就算阿法狗戰勝了李世石，但它贏</span><span class="push-ipdatetime"> 05/23 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackevils</span><span class="f3 push-content">: 能只輸這樣覺得不錯了，輸的沒有很多</span><span class="push-ipdatetime"> 05/23 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shallwestart</span><span class="f3 push-content">: 不了我」uccu</span><span class="push-ipdatetime"> 05/23 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mo42</span><span class="f3 push-content">: 柯潔輸了-&gt; 負潔  柯潔輸三次-&gt;負負負潔</span><span class="push-ipdatetime"> 05/23 16:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wjill</span><span class="f3 push-content">: 說只輸一點點的，笑了</span><span class="push-ipdatetime"> 05/23 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">symeng</span><span class="f3 push-content">: 輸1/4目 還蠻厲害的 中國的讓子規定是什麼啊？</span><span class="push-ipdatetime"> 05/23 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">symeng</span><span class="f3 push-content">: 我記得40還是誰說過阿法狗持白子比較強 看來柯下一場有機</span><span class="push-ipdatetime"> 05/23 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">symeng</span><span class="f3 push-content">: 會 不希望看到人類全敗 至少贏一場吧</span><span class="push-ipdatetime"> 05/23 16:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chrispherd</span><span class="f3 push-content">: 難道大家都不知道阿法狗比賽前可以設定要贏多少目嗎？</span><span class="push-ipdatetime"> 05/23 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windbomb</span><span class="f3 push-content">: 只差一目半下一盤的確有機會</span><span class="push-ipdatetime"> 05/23 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azsxqw1234</span><span class="f3 push-content">: 好險中共政府先崩潰把直播鎖了，不然13億人的感情又要</span><span class="push-ipdatetime"> 05/23 17:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">azsxqw1234</span><span class="f3 push-content">: 碎滿地了</span><span class="push-ipdatetime"> 05/23 17:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OOQ</span><span class="f3 push-content">: 其實狗狗在自我訓練，就像塔矢亮一對三都下成和局一樣</span><span class="push-ipdatetime"> 05/23 17:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FlynnZhang</span><span class="f3 push-content">: 哈哈柯潔哈哈</span><span class="push-ipdatetime"> 05/23 17:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">accr0982</span><span class="f3 push-content">: 兩隻狗對打,不知道怎樣</span><span class="push-ipdatetime"> 05/23 17:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yankees733</span><span class="f3 push-content">: 狗的學習是自我對打沒錯啊,狗對狗再進化成更強的狗</span><span class="push-ipdatetime"> 05/23 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wolid</span><span class="f3 push-content">: 讓目情況下，贏一目半，我覺得滿猛的@@</span><span class="push-ipdatetime"> 05/23 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wolid</span><span class="f3 push-content">: 加油~</span><span class="push-ipdatetime"> 05/23 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CarisLeVert</span><span class="f3 push-content">: 差一目半算超強了</span><span class="push-ipdatetime"> 05/23 17:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenkenapple</span><span class="f3 push-content">: 阿法狗讓的很有水準</span><span class="push-ipdatetime"> 05/23 17:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aryou0172</span><span class="f3 push-content">: 負負負潔笑死</span><span class="push-ipdatetime"> 05/23 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">omega31perda</span><span class="f3 push-content">: 唉 大家準備對抗天網吧</span><span class="push-ipdatetime"> 05/23 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cele28</span><span class="f3 push-content">: 不ey</span><span class="push-ipdatetime"> 05/23 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alphabear</span><span class="f3 push-content">: good job</span><span class="push-ipdatetime"> 05/23 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cRossdaRk</span><span class="f3 push-content">: 來比嘴上圍棋 柯潔一定嘴爆阿法狗跟黃博士</span><span class="push-ipdatetime"> 05/23 18:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Download</span><span class="f3 push-content">: 初手天元啦！</span><span class="push-ipdatetime"> 05/23 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paulshain04</span><span class="f3 push-content">: 太神啦</span><span class="push-ipdatetime"> 05/23 18:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiyobu</span><span class="f3 push-content">: 等一下畫面就會被切掉然後柯傑連贏兩場了 沒事</span><span class="push-ipdatetime"> 05/23 18:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tommy88520</span><span class="f3 push-content">: 輸了才是掛</span><span class="push-ipdatetime"> 05/23 18:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dbalruke</span><span class="f3 push-content">: 紅明顯，最可怕的是，如果我去下也是輸一目半，因為電腦</span><span class="push-ipdatetime"> 05/23 18:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dbalruke</span><span class="f3 push-content">: 不會想贏最多，而是贏最穩</span><span class="push-ipdatetime"> 05/23 18:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FFSR</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/23 18:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lbj2266</span><span class="f3 push-content">: 廣西人在那？？</span><span class="push-ipdatetime"> 05/23 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tony20095</span><span class="f3 push-content">: 輸就是輸啦，還以為惜敗喔？阿發狗本來就是設定下會贏</span><span class="push-ipdatetime"> 05/23 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony20095</span><span class="f3 push-content">: 機率比較高的，而不是設定下贏最多目的，還在那以為跟</span><span class="push-ipdatetime"> 05/23 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony20095</span><span class="f3 push-content">: 它差不多強咧</span><span class="push-ipdatetime"> 05/23 19:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">electricer</span><span class="f3 push-content">: 為啥一堆人知道電腦怎麼設定</span><span class="push-ipdatetime"> 05/23 19:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riro0335</span><span class="f3 push-content">: 他可以設定只贏一目半好嗎</span><span class="push-ipdatetime"> 05/23 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jialin6666</span><span class="f3 push-content">: 不意外。 一開始就說沒熱情了</span><span class="push-ipdatetime"> 05/23 19:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realbout</span><span class="f3 push-content">: 沒有愛</span><span class="push-ipdatetime"> 05/23 20:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tiuseensii</span><span class="f3 push-content">: 人類還剩幾集啊</span><span class="push-ipdatetime"> 05/23 20:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 阿伐狗選擇了保守棋局 所以才贏不多吧 有點像是放水</span><span class="push-ipdatetime"> 05/23 20:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeoqioc</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/23 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 爽</span><span class="push-ipdatetime"> 05/23 23:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex81131</span><span class="f3 push-content">: 不能贏太多，小不忍則亂大謀。</span><span class="push-ipdatetime"> 05/24 00:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anson26666</span><span class="f3 push-content">: 一堆不懂圍棋的.. 柯嘴砲歸嘴砲 能下到只輸一目半 算</span><span class="push-ipdatetime"> 05/24 00:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anson26666</span><span class="f3 push-content">: 是意料之外了</span><span class="push-ipdatetime"> 05/24 00:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaybaby</span><span class="f3 push-content">: 上面才在崩潰 他之前可是超級狂妄的</span><span class="push-ipdatetime"> 05/24 01:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aurestor</span><span class="f3 push-content">: 就保守下法啊 我這樣下不會贏多少 但是你不可能贏的概念</span><span class="push-ipdatetime"> 05/24 07:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ken0305</span><span class="f3 push-content">: 推想看星海</span><span class="push-ipdatetime"> 05/24 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwaqwa2007</span><span class="f3 push-content">: 台灣win</span><span class="push-ipdatetime"> 05/24 15:10
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495522465.A.AB7.html?cacheKey=2052-38347221&offset=32950&offset-sig=b124623ad542063e16bfc15029d1eb32fc1e4aac" data-longpollurl="/v1/longpoll?id=47ee4652d122583583c35bd9fc0cbe5739d72a3a" data-offset="32950"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

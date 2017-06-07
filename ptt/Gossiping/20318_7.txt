@@ -1,0 +1,192 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495119710.A.F32.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 高調！中國時報記者業配爆料秘辛公開。 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="月1
+: 後只剩我一位，預估我也即將在這幾天內被迫離開報社。表面理由很多，骨子裡的理由
+: 只有一個：不願以記者身分拉置入廣告又不接受調職當編輯。
+: 新聞媒體要生存，可以有方法，不一定要出賣媒體倫理與公信力。我試著寫了一份希望
+: 能增加報社收入又同時維持新聞倫理的粗淺想法建議書，並試著呈給蔡董事長、蔡總裁
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 高調！中國時報記者業配爆料秘辛公開。">
+<meta property="og:description" content="月1
+: 後只剩我一位，預估我也即將在這幾天內被迫離開報社。表面理由很多，骨子裡的理由
+: 只有一個：不願以記者身分拉置入廣告又不接受調職當編輯。
+: 新聞媒體要生存，可以有方法，不一定要出賣媒體倫理與公信力。我試著寫了一份希望
+: 能增加報社收入又同時維持新聞倫理的粗淺想法建議書，並試著呈給蔡董事長、蔡總裁
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495119710.A.F32.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495119710.A.F32.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">purue (purue)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 高調！中國時報記者業配爆料秘辛公開。</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 23:01:48 2017</span></div>
+<span class="f2">※ 引述《Taurnil (Elvis)》之銘言：
+</span><span class="f6">: 首先，這篇一定要用推的推爆！千萬不要噓到沈下去
+</span><span class="f6">: ---
+</span><span class="f6">: Blog來源：<a href="https://goo.gl/tdnF7K" target="_blank" rel="nofollow">https://goo.gl/tdnF7K</a>
+</span><span class="f6">: 中國時報　請停止踐踏媒體尊嚴
+</span><span class="f6">: Author: 陳志東
+</span><span class="f6">: 請先容我稍微講一下近況：中國時報的旅遊美食版記者，一年前還有4、5位，2017年5
+</span>月1
+<span class="f6">: 後只剩我一位，預估我也即將在這幾天內被迫離開報社。表面理由很多，骨子裡的理由
+</span><span class="f6">: 只有一個：不願以記者身分拉置入廣告又不接受調職當編輯。
+</span><span class="f6">: 新聞媒體要生存，可以有方法，不一定要出賣媒體倫理與公信力。我試著寫了一份希望
+</span><span class="f6">: 能增加報社收入又同時維持新聞倫理的粗淺想法建議書，並試著呈給蔡董事長、蔡總裁
+</span><span class="f6">: 與總編輯，但也許不會被看到或沒人感興趣。大家若有興趣，可以點這裡看看！
+</span><span class="f6">: （中國時報旅遊美食版計畫建議書）
+</span><span class="f6">: 底下這篇報導出來後，我知道自己可能面臨來自報社的抹黑或訴訟，這篇報導也可能變
+</span><span class="f6">: 成我記者生涯的最後一篇報導，但我會坦然面對。如果身為記者只敢踢爆別家企業的醜
+</span><span class="f6">: 事，卻不敢對報社出賣媒體倫理的新聞置入作法挺身而出，又如何配當記者。
+</span><span class="f6">: 底下，我們開始！
+</span><span class="f6">: 記者陳志東／專題報導
+</span><span class="f6">: 首先，如果你有興趣，不妨看著這張小表格，然後去找出今天2017年5月18日的中國時
+</span>報
+<span class="f6">: ，然後比對一下這表格裡的四則消息。如果你懶得去找報紙，沒關係，底下我會截圖給
+</span><span class="f6">: 你看。所謂「編經版面」廣義來說就是報社的業配置入單，也就是廣告收入。
+</span><span class="f6">: CT0075
+</span><span class="f6">: ↑↑中國時報的「編經版面」，亦即業配置入單。只要依照上頭日期對照當日報紙，就
+</span>會
+<span class="f6">: 知道每天有多少新聞是來自於金錢交易。這只是隸屬影視消費中心所能看到的一小部分
+</span>。
+<span class="f6">: 實際上每天有多少是用錢買的置入新聞，也許只有報社最高層才知道。（中國時報同事
+</span><span class="f6">: 提供）看著報紙，你會訝異，這四條「廣告」，在報紙上根本看不出來是廣告。是的！
+</span><span class="f6">: 這就是大家經常在講的「新聞置入」。它是收了業者的錢，原本該加上「廣告」兩個字
+</span><span class="f6">: 後以廣告形式刊登，但因打上「廣告」兩個字效果不夠好，因此就演變成「記者XXX報
+</span>導?
+<span class="f6">: 新聞置入有什麼不好？當然不好！
+</span><span class="f6">: 新聞就該是新聞，廣告就該是廣告，當廣告不再打上廣告，而是寫上記者xxx報導，這
+</span>樣
+<span class="f6">: 的新聞置入結果是：只要有錢，政治人物可以收買媒體，營造自己聲勢，同時強化對手
+</span><span class="f6">: 負面消息。只要有錢，企業可以搓洗掉負面新聞，操縱輿論走向，水泥業可以變成環保
+</span><span class="f6">: 業，黑心食品廠可以變成良心企業。只要有錢，廠商可以要求置入版面刊登前要先看過
+</span><span class="f6">: 並可任意更改，然後以記者報導之名，任意創造利多與利空消息影響股價，影響市場
+</span><span class="f6">: 信心並害投資人作出錯誤判斷，而醜名歸於那個倒楣記者。只要有錢，一般食品可以
+</span><span class="f6">: 被寫成是減肥或養生聖品、難吃的餐廳可以被說成是世界級美味?
+</span><span class="f6">: C只要有錢，沒有多少民眾參與的活動，也能被講成是地方首長的偉大政績並在報紙留
+</span><span class="f6">: 下白紙黑字的紀錄。而上述這些紀錄與文字影像，會因為是媒體報導而接續被學者與
+</span><span class="f6">: 研究生引用，用錢創造出來的新聞訊息，就會這樣無止盡傳播下去，成為真實歷史的
+</span><span class="f6">: 一部分，台灣也會變成一個完全由有錢人掌控的世界，所有傳播中的消息，都有可能
+</span><span class="f6">: 是真的，也可能是用錢買出來的新聞，但你我都無法分辨。
+</span><span class="f6">: Blog來源：<a href="https://goo.gl/tdnF7K" target="_blank" rel="nofollow">https://goo.gl/tdnF7K</a>
+</span><span class="f6">: 幫大家提示重點：
+</span><span class="f6">: 爆點1. 跟綠委要求裕隆繳回100億，經濟部工業局壓力有關。
+</span><span class="f6">: 爆點2. 中時、水泥業與花蓮王傅崑萁共百篇報導秘辛揭露。
+</span><span class="f6">: 爆點3. 麥當勞下業配，中時高層指示動保抗議新聞手下留情。
+</span><span class="f6">: 爆點4. 中時接受味全廣告置入變成新聞業配，挽救形象。
+</span><span class="f6">: 爆點5. 記者不願拉業配，高層威脅電爆逼退記者。
+</span><span class="f6">: 太多點了，大家自己進去看，進去先幫忙備份，這應該上層壓力很快就到。
+</span><span class="f6">: 我就不發不自殺聲明了，因為整篇文我只是轉貼，這位記者大哥才需要發個不自殺聲明
+</span>。
+<span class="f6">: 最後還是說：高調啊！！！
+</span><span class="f6">: #大家看到中Ｘ時報通常都是用噓的，但這篇一定要用推的把他推爆
+</span><span class="f6">: 才會有能見度，被大大傳播！
+</span>其實我比較意外的是 綠營一樣會買旺中廣告 而且是總統之姿 看來陣營與不同立場報社
+之間並非如此涇渭分明
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.15.43
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495119710.A.F32.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495119710.A.F32.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Iori2010</span><span class="f3 push-content">: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</span><span class="push-ipdatetime"> 05/18 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 吱吱會無視這篇</span><span class="push-ipdatetime"> 05/18 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nautasechs</span><span class="f3 push-content">: 我幾個月前才上過師大陳炳宏教授的課，他就是po總統大</span><span class="push-ipdatetime"> 05/18 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nautasechs</span><span class="f3 push-content">: 選的價目表，四大報都有價目，藍綠都有買，這已經不用</span><span class="push-ipdatetime"> 05/18 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nautasechs</span><span class="f3 push-content">: 懷疑了</span><span class="push-ipdatetime"> 05/18 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nautasechs</span><span class="f3 push-content">: 他剪的報導就是小英的，所以我敢說綠一定有買過</span><span class="push-ipdatetime"> 05/18 23:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k88888g</span><span class="f3 push-content">: 綠綠買的才兇累</span><span class="push-ipdatetime"> 05/18 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ianlin45</span><span class="f3 push-content">: 大家都是自己人</span><span class="push-ipdatetime"> 05/18 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amishitter</span><span class="f3 push-content">: 重點是業配嗎？ 重點是身為媒體工作者一昧護航吧</span><span class="push-ipdatetime"> 05/19 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amishitter</span><span class="f3 push-content">: 為了業配 新聞可以護航成這樣</span><span class="push-ipdatetime"> 05/19 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amishitter</span><span class="f3 push-content">: 竟然想帶風向到綠色買廣告</span><span class="push-ipdatetime"> 05/19 00:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">imrt</span><span class="f3 push-content">: 綠買中時業配更有說服力啊！</span><span class="push-ipdatetime"> 05/19 05:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DUKEYANG</span><span class="f3 push-content">: 我是小英當然跟中時買廣告，訂自由政黨傾向明顯</span><span class="push-ipdatetime"> 05/20 01:03
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495119710.A.F32.html?cacheKey=2052-40121654&offset=4847&offset-sig=007f0c100ac5c9327e2baea495e9815fee6b5a7e" data-longpollurl="/v1/longpoll?id=af7c3c05ffc3aab3b323f0db1cbf0404a814ccb0" data-offset="4847"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

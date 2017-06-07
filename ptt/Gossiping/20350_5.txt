@@ -1,0 +1,154 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495151248.A.EDE.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 學校的台語會教漢文音跟口語音的差別嗎? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="不是很懂你的需求。若你只是想知道漢字文白讀音的差別，那麼教育部的台語辭
+典，或是市面上的台語字典，裡頭都會收錄漢字的文白讀音，你去翻翻就知道了。
+但若你是想知道，以前的台灣人，在私塾裡是怎麼學習漢文，那麼你可以參考底
+下這些網站，裡頭漢文是用文讀音朗讀，解說則是搭配使用台語白話。
+《增廣昔時賢文》的白話講解：
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 學校的台語會教漢文音跟口語音的差別嗎?">
+<meta property="og:description" content="不是很懂你的需求。若你只是想知道漢字文白讀音的差別，那麼教育部的台語辭
+典，或是市面上的台語字典，裡頭都會收錄漢字的文白讀音，你去翻翻就知道了。
+但若你是想知道，以前的台灣人，在私塾裡是怎麼學習漢文，那麼你可以參考底
+下這些網站，裡頭漢文是用文讀音朗讀，解說則是搭配使用台語白話。
+《增廣昔時賢文》的白話講解：
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495151248.A.EDE.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495151248.A.EDE.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">CCY0927 (茹絮夢)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 學校的台語會教漢文音跟口語音的差別嗎?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 07:47:25 2017</span></div>
+<span class="f2">※ 引述《dodo52woman (嘟嘟左右衛門)》之銘言：
+</span><span class="f6">: 最近才發現台語很神奇
+</span><span class="f6">: 123456789就有兩種念法
+</span><span class="f6">: 其他字也有
+</span><span class="f6">: 去香港 買的香 好香
+</span><span class="f6">: 一個香就有三種音
+</span><span class="f6">: 有沒有類似可以學習這種語言的書可以推薦?
+</span><span class="f6">: 覺得很有趣
+</span><span class="f6">: 目前都看布袋戲比較多 漢文音
+</span><span class="f6">: 一氣化九百~
+</span>
+不是很懂你的需求。若你只是想知道漢字文白讀音的差別，那麼教育部的台語辭
+典，或是市面上的台語字典，裡頭都會收錄漢字的文白讀音，你去翻翻就知道了。
+
+但若你是想知道，以前的台灣人，在私塾裡是怎麼學習漢文，那麼你可以參考底
+下這些網站，裡頭漢文是用文讀音朗讀，解說則是搭配使用台語白話。
+
+《增廣昔時賢文》的白話講解：
+<a href="http://210.240.193.39/loh/taigi/course/xishixianwen_1.htm" target="_blank" rel="nofollow">http://210.240.193.39/loh/taigi/course/xishixianwen_1.htm</a>
+
+《雅音四書集粹》有聲書：
+<a href="http://ftp.ntu.edu.tw/NTU/fourbooks/" target="_blank" rel="nofollow">http://ftp.ntu.edu.tw/NTU/fourbooks/</a>
+
+或是你可以學一下羅馬字，之後去閱讀白話字文獻，這樣也有助於你理解以前的
+台灣人，甚至是現在的韓國人、日本人是怎麼看待「漢文」還有「口語」這兩者
+之間的關係。
+
+1894 《三字經新篡白話註解》：
+<a href="http://thepoj.com/memory/TGB/thak.asp?id=866&amp;page=1" target="_blank" rel="nofollow">http://thepoj.com/memory/TGB/thak.asp?id=866&amp;page=1</a>
+
+範例：<a href="http://i.imgur.com/zv34ZAs.jpg" target="_blank" rel="nofollow">http://i.imgur.com/zv34ZAs.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="zv34ZAs"><a href="//imgur.com/zv34ZAs"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 121.140.19.4
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495151248.A.EDE.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495151248.A.EDE.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">henry3744</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/19 07:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">remarkand</span><span class="f3 push-content">: 哇這麼早就有羅馬拼音的教本喔，長知識了，給推</span><span class="push-ipdatetime"> 05/19 07:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BEHIND</span><span class="f3 push-content">: 河洛話</span><span class="push-ipdatetime"> 05/19 07:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simon1203</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/19 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jksen</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/19 19:23
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495151248.A.EDE.html?cacheKey=2052-35368619&offset=1716&offset-sig=ac843ef24f8e41b467b0265dad92163808ce2150" data-longpollurl="/v1/longpoll?id=af890bb04e9b91e5663fe3dcca52c65689756d1e" data-offset="1716"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,350 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495030912.A.3DA.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「我們很有錢」大直居民聯署抵制平價公宅 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+TVBS
+2.完整新聞標題:
+「我們很有錢」大直居民聯署抵制平價公宅
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「我們很有錢」大直居民聯署抵制平價公宅">
+<meta property="og:description" content="1.媒體來源:
+TVBS
+2.完整新聞標題:
+「我們很有錢」大直居民聯署抵制平價公宅
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495030912.A.3DA.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495030912.A.3DA.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">qscgy4 (有點厲害)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「我們很有錢」大直居民聯署抵制平價公宅</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 22:21:45 2017</span></div>
+1.媒體來源:
+TVBS
+
+2.完整新聞標題:
+「我們很有錢」大直居民聯署抵制平價公宅
+
+3.完整新聞內文:
+台北市政府在中山區北安路一塊停車場，預定蓋公共住宅，當地民眾擔心影響環境品質，
+廣發連署書抗議，還列出反對理由，其中有幾項引起爭議，像是「這裡的人有錢，老人照
+護都有外籍看護，沒必要長照」，還說「這裡房價就算打85折，現在的青年也買不起」。
+都發局長林洲民回應，好地區蓋有一定品質的公共住宅，一定好上加好。不過民代認為，
+如果公宅不蓋精華地段，可以照顧到更多市民。
+
+記者王薀琁：「中山區北安路這塊停車場，附近有不少的豪宅，台北市政府選在這塊地蓋
+公共住宅，被當地居民發起連署抗議！」
+
+附近居民：「我擔心它們品質啦！它們的品質可能會破壞我們這邊的環境，因為我們這邊
+的環境非常非常的好！」
+
+附近居民：「不需要公宅啊！我們幹嘛需要公宅？這個黃金地蓋公宅，租金要多貴啊！誰
+來租啊？」
+
+附近居民：「原來政府蓋的房子都不是很好啊，問題一大堆啊！」
+
+大多認為不適合當地廣發連署書，上頭質疑，市政府的程序正義和民主，就算舉辦公聽會
+，也認為是敷衍居民，並列出19點反對意見，其中幾點引起爭議，寫下這裡的人有錢，老
+人照護都有外籍看護沒必要長照，認為精華地段蓋公宅像世界奇觀，房價打85折，青年也
+買不起，還說把這麼多機關都蓋在那兒，似乎太擠了！
+
+台北市都發局長林洲民：「這裡面的敘述，我自己認為應該更退一步，從整個台北市的發
+展來看，好宅配豪宅都是好鄰居！」
+
+局長強調，公共住宅有一定的品質，在大直地區有公共設施，一定好上加好！
+
+台北市議員徐弘庭：「拿好地段去做公共住宅是不是有點太可惜，照顧的人是不是比較少
+，如果把公共住宅拉到台北市比較周邊的區塊去，花同樣的錢照顧更多人！」
+
+民代認為照顧市民錢可以花在刀口上，政府也應該將政策選擇因素讓民眾明白，免得溝通
+不良讓公宅模樣成了情緒出口。
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.tvbs.com.tw/politics/728480" target="_blank" rel="nofollow">http://news.tvbs.com.tw/politics/728480</a>
+<a href="https://youtu.be/sbpK8SL-OQY" target="_blank" rel="nofollow">https://youtu.be/sbpK8SL-OQY</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/sbpK8SL-OQY" frameborder="0" allowfullscreen></iframe></div></div></div>
+5.備註:
+你們這些窮人為什麼要跟我吸一樣的空氣??
+害我們每天都要背空氣濾清器在身上，
+可惡，森77
+
+
+
+
+
+--
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Chantaljones</span><span class="f3 push-content">: 五樓用屁股榨甘蔗</span><span class="push-ipdatetime">10/02 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">G2S</span><span class="f3 push-content">: 用肛門榨的</span><span class="push-ipdatetime"> 10/02 21:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 五樓用肛門榨甘蔗汁</span><span class="push-ipdatetime"> 10/02 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roger840410</span><span class="f3 push-content">: 業障重會喝到假的</span><span class="push-ipdatetime"> 10/02 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gx9900824</span><span class="f3 push-content">: 五樓榨的</span><span class="push-ipdatetime"> 10/02 21:25
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.195.49.89
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495030912.A.3DA.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495030912.A.3DA.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GonVolcano</span><span class="f3 push-content">: 大直旁邊都是軍營，不意外</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bob120400</span><span class="f3 push-content">: 最美的風景</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g9591410</span><span class="f3 push-content">: 大直腸</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: = =</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">miketk</span><span class="f3 push-content">: 嘴臉超醜惡的   唉</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Louis0712</span><span class="f3 push-content">: 狂 真●天龍人</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gbcg9725</span><span class="f3 push-content">: Ｘ品質　Ｏ房價</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rock210548</span><span class="f3 push-content">: 不爽可以獨立阿</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sandwich1028</span><span class="f3 push-content">: 天龍國的大安信義輸了</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cytotoxic</span><span class="f3 push-content">: 好阿 大家一起死</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lexptt</span><span class="f3 push-content">: 天龍嘴臉</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DASHOCK</span><span class="f3 push-content">: 你看  台北哪邊都蓋不成</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DASHOCK</span><span class="f3 push-content">: 文山新店之前也濕敗了</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 真是高級天龍人呢，死保險套議員又再擋公宅了。</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 堅持蓋，理這些廢物幹嘛</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mcjogru</span><span class="f3 push-content">: 那就蓋垃圾回收中心啊</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Louis0712</span><span class="f3 push-content">: 既然自認錢很多 跟他們多抽點稅就好啦 可以不要蓋那阿</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 窮人滾</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lockgaap</span><span class="f3 push-content">: 好像在哪部漫畫看過這些人.....頭好痛</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saisai34</span><span class="f3 push-content">: 建議台北把公共住宅蓋在苗栗同樣預算可以照顧好幾倍的人</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">douxid</span><span class="f3 push-content">: 那應該不介意漲地價稅、房屋稅吧</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kevinypc</span><span class="f3 push-content">: 有夠自私</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">freaky0908</span><span class="f3 push-content">: 直接說怕被拉低房價就好了 不要在那邊假關懷</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 笑死人  鬼島不意外</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DASHOCK</span><span class="f3 push-content">: 可是漲地價稅突然就活不下去了</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rookiecop</span><span class="f3 push-content">: 反串吧</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ice4564</span><span class="f3 push-content">: 蓋個掩埋場還是核廢料處理廠好啦，幹！廢物</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 快蓋</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Louis0712</span><span class="f3 push-content">: 蓋座焚化爐算了 把那附近製造的垃圾都聚在那邊燒一燒</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s505015</span><span class="f3 push-content">: 不蓋精華的路段? 媽的 遊民當時也這樣說 公宅也這樣說</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wind93</span><span class="f3 push-content">: 不愧是天龍人</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windbomb</span><span class="f3 push-content">: 既然這一帶居民錢超多，那這一帶的房屋稅漲個10倍吧</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leo3258</span><span class="f3 push-content">: 國家政要圖利自己跟財團死不漲非自用外的地價跟房屋稅</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 先不管天龍人 看到徐弘庭就要噓</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ahoga</span><span class="f3 push-content">: 很有錢就多繳點稅吧，不要到時又哭說活不下去</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cp296633</span><span class="f3 push-content">: 有錢地價稅繳多一點 大直公告地價漲個幾成好了 對吧</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qscgy4</span><span class="f3 push-content">: 森77</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 把窮人都趕到邊邊</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">clotilde</span><span class="f3 push-content">: 你有錢關我什麼事</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hzs6111</span><span class="f3 push-content">: 以前遍地廢土雜草的鄉下地方</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MapleCat</span><span class="f3 push-content">: 天龍人的思維</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wahaha23</span><span class="f3 push-content">: <a href="https://i.imgur.com/60Ln7s1l.png" target="_blank" rel="nofollow">https://i.imgur.com/60Ln7s1l.png</a></span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="60Ln7s1l"><a href="//imgur.com/60Ln7s1l"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gtsp0964</span><span class="f3 push-content">: 既然很有錢 地價稅跟房屋稅就採最高上限來課</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kurtsgm</span><span class="f3 push-content">: 徐弘庭噴那個什麼垃圾話</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">michael0419</span><span class="f3 push-content">: 新的天龍國</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icelaw</span><span class="f3 push-content">: 直覺看起來就是軍公教退休貴族！</span><span class="push-ipdatetime"> 05/17 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amury</span><span class="f3 push-content">: 蓋徐弘庭他們家隔壁好了</span><span class="push-ipdatetime"> 05/17 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gemini2010</span><span class="f3 push-content">: 台灣最美的風景</span><span class="push-ipdatetime"> 05/17 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wuu831</span><span class="f3 push-content">:  <a href="http://i.imgur.com/wuYB8tV.jpg" target="_blank" rel="nofollow">http://i.imgur.com/wuYB8tV.jpg</a></span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="wuYB8tV"><a href="//imgur.com/wuYB8tV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">danorken</span><span class="f3 push-content">: 聽到事實我會崩潰 嗚嗚</span><span class="push-ipdatetime"> 05/17 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">solved0120</span><span class="f3 push-content">: 居住正義！不該有貧富居住的分界線。</span><span class="push-ipdatetime"> 05/17 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">whitezealman</span><span class="f3 push-content">: 天龍嘴臉  ㄏㄏㄏㄏ</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">holydc</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m810415</span><span class="f3 push-content">: 夠噁心</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 我超討厭住在大直的那些人+1</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a6dddd</span><span class="f3 push-content">: 把台北全部買起來啊，讓它完全沒有公有地</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jerry0701</span><span class="f3 push-content">: 天龍人當之無愧</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 真丟臉的想法阿 豪宅可以 公宅不行</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 看看這些既得利益者的嘴</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lulocke</span><span class="f3 push-content">: 不然蓋焚化爐</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">after1</span><span class="f3 push-content">: 嘴臉好噁心阿</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kidd03</span><span class="f3 push-content">: ㄧ群自以為有錢的垃圾</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wulaw5566</span><span class="f3 push-content">: 大直不意外</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ghgn</span><span class="f3 push-content">: 仇富不是沒理由的</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Csir</span><span class="f3 push-content">: 該武裝革命囉</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">khchhi</span><span class="f3 push-content">: 就那幾個白癡在起鬨根本沒幾幾個人聯署</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 台灣多的是沒同理心垃圾人</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">target8917</span><span class="f3 push-content">: 有錢你媽 我就住這 幹</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jiunyee</span><span class="f3 push-content">: 自以為高級 錢真的買不到品德</span><span class="push-ipdatetime"> 05/17 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chenbo</span><span class="f3 push-content">: 真。天龍人</span><span class="push-ipdatetime"> 05/17 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mopigou</span><span class="f3 push-content">: 這麼有錢,漲個房屋稅哀哀叫,聯署的先繳三%</span><span class="push-ipdatetime"> 05/17 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 哇好高級喔 這些人住透天嗎?</span><span class="push-ipdatetime"> 05/17 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: Hen有錢</span><span class="push-ipdatetime"> 05/17 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yukina23</span><span class="f3 push-content">: 有錢請什麼外籍看護，有錢你就請本籍的啊</span><span class="push-ipdatetime"> 05/17 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dogkorea5566</span><span class="f3 push-content">: 說真的別蓋在這 這些有錢人想把你趕走 有甚麼不敢做</span><span class="push-ipdatetime"> 05/17 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">InfocusM510</span><span class="f3 push-content">: 嘴臉</span><span class="push-ipdatetime"> 05/17 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 窮人比核電廠可怕</span><span class="push-ipdatetime"> 05/17 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 跟麥當勞事件的刁民有得比</span><span class="push-ipdatetime"> 05/17 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GrayAngel</span><span class="f3 push-content">: 還蠻好奇這些人老了會不會被子女要求重複急救...</span><span class="push-ipdatetime"> 05/17 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cutinking</span><span class="f3 push-content">: 好自私</span><span class="push-ipdatetime"> 05/17 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 這裡限住天龍人 窮人滾邊去</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">protoss666</span><span class="f3 push-content">: 窮人滾出台北啦 大直民眾好胖棒</span><span class="push-ipdatetime"> 05/17 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 不是缺電嗎? 蓋個小型火力電廠好了, CC</span><span class="push-ipdatetime"> 05/17 23:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">albert1229</span><span class="f3 push-content">: 噁心的嘴臉</span><span class="push-ipdatetime"> 05/17 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">INNBUG</span><span class="f3 push-content">: 真的跟天龍人好像XD</span><span class="push-ipdatetime"> 05/17 23:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">otld</span><span class="f3 push-content">: 這什麼噁心的嘴臉啊</span><span class="push-ipdatetime"> 05/17 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s0970761970</span><span class="f3 push-content">: 不想蓋公宅 那就蓋高壓電塔 垃圾場囉</span><span class="push-ipdatetime"> 05/17 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aak</span><span class="f3 push-content">: 理性來說概偏遠ㄧ點可以照顧更多人這論點沒錯啊</span><span class="push-ipdatetime"> 05/17 23:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shutout5566</span><span class="f3 push-content">: 太神啦XDDD</span><span class="push-ipdatetime"> 05/17 23:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sinon0123</span><span class="f3 push-content">: 窮人比核電廠可怕</span><span class="push-ipdatetime"> 05/17 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nctugoodman</span><span class="f3 push-content">:    越摳門 越沒同理心的 通常越有錢</span><span class="push-ipdatetime"> 05/17 23:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boycome</span><span class="f3 push-content">: 有夠自私，公立住宅本來就不應該放在精華區</span><span class="push-ipdatetime"> 05/17 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LunLin9590</span><span class="f3 push-content">: 好啦，就不要踏出大直一步啦，踏出去就扁死你們，好嗎</span><span class="push-ipdatetime"> 05/17 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LunLin9590</span><span class="f3 push-content">: ！？</span><span class="push-ipdatetime"> 05/17 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 天聾人不易外</span><span class="push-ipdatetime"> 05/18 00:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dorydoze</span><span class="f3 push-content">: 你們有錢甘別人屁事</span><span class="push-ipdatetime"> 05/18 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tachiman</span><span class="f3 push-content">: 下流…</span><span class="push-ipdatetime"> 05/18 00:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wenjie0810</span><span class="f3 push-content">: 我反核，除了大直核電廠</span><span class="push-ipdatetime"> 05/18 00:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yef7591</span><span class="f3 push-content">: 挖糙 有夠不要臉</span><span class="push-ipdatetime"> 05/18 00:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tony900735</span><span class="f3 push-content">: ？？</span><span class="push-ipdatetime"> 05/18 00:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cool189</span><span class="f3 push-content">: 自以為素質高 笑死我了</span><span class="push-ipdatetime"> 05/18 00:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwqwaas</span><span class="f3 push-content">: 把公宅蓋在精華地段?政府嫌錢太多?</span><span class="push-ipdatetime"> 05/18 00:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: &gt;/////&lt;</span><span class="push-ipdatetime"> 05/18 00:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">liuyc888</span><span class="f3 push-content">: 窮人真的不配跟天龍人做鄰居</span><span class="push-ipdatetime"> 05/18 00:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Ace100</span><span class="f3 push-content">: 之前罵柯公宅四年兩萬戶跳票還不是這些議員</span><span class="push-ipdatetime"> 05/18 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">losewind</span><span class="f3 push-content">: 大直早期滿滿的的國宅啊~不知道哪個白癡開放國宅買賣</span><span class="push-ipdatetime"> 05/18 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joydow</span><span class="f3 push-content">: 基河國宅都變基河豪宅了</span><span class="push-ipdatetime"> 05/18 00:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bluesky0754</span><span class="f3 push-content">: 這種嘴臉OOOXXX</span><span class="push-ipdatetime"> 05/18 00:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CenaC</span><span class="f3 push-content">: 標題殺人 @@</span><span class="push-ipdatetime"> 05/18 00:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">godbar</span><span class="f3 push-content">: 誰去弄些病毒或生化武器往那丟啊</span><span class="push-ipdatetime"> 05/18 00:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infor</span><span class="f3 push-content">: 大直算什麼東西啊</span><span class="push-ipdatetime"> 05/18 00:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qq251988</span><span class="f3 push-content">: 國民黨議員</span><span class="push-ipdatetime"> 05/18 00:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gdtg10900</span><span class="f3 push-content">: 台灣人這麼廢好意思什麼都怪政府呵呵</span><span class="push-ipdatetime"> 05/18 00:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Born700805</span><span class="f3 push-content">: 要自殺的就選這邊，也算為貧富洗牌盡一份力</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opmikoto</span><span class="f3 push-content">: 大直稱的上天龍?</span><span class="push-ipdatetime"> 05/18 00:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: 有錢人想的和你不一樣</span><span class="push-ipdatetime"> 05/18 00:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pp10327</span><span class="f3 push-content">: 原來是大直 我還以為大安勒 這也能大聲</span><span class="push-ipdatetime"> 05/18 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pp10327</span><span class="f3 push-content">: 補噓</span><span class="push-ipdatetime"> 05/18 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ppon</span><span class="f3 push-content">: 徐弘庭: 窮人住精華地段等於浪費</span><span class="push-ipdatetime"> 05/18 00:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cheneden</span><span class="f3 push-content">: 欠噓</span><span class="push-ipdatetime"> 05/18 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mopackm53637</span><span class="f3 push-content">: 台灣政府就是有錢人走狗</span><span class="push-ipdatetime"> 05/18 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sookie</span><span class="f3 push-content">: 殯儀館移過去啊</span><span class="push-ipdatetime"> 05/18 00:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rstears11</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/18 00:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sid300</span><span class="f3 push-content">: 莫名其妙  為什麼不選社子或萬華大同  偏要選這種地方</span><span class="push-ipdatetime"> 05/18 00:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sinkage</span><span class="f3 push-content">: 只好存放核廢料了</span><span class="push-ipdatetime"> 05/18 00:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ayau</span><span class="f3 push-content">: 很好呀，大直的居民這麼有錢這麼屌，不如都加客豪宅稅拿來</span><span class="push-ipdatetime"> 05/18 01:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ayau</span><span class="f3 push-content">: 照顧弱勢，照顧買不起房子的勞工好了</span><span class="push-ipdatetime"> 05/18 01:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">airticket</span><span class="f3 push-content">: ==========別吵，蘭嶼的核廢料挖過來放好了=======</span><span class="push-ipdatetime"> 05/18 01:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AJ831112</span><span class="f3 push-content">: 傻眼</span><span class="push-ipdatetime"> 05/18 01:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 因為大家都去台北工作啊所以支持蓋好蓋滿</span><span class="push-ipdatetime"> 05/18 01:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 20萬恐怕不夠至少也要50萬戶</span><span class="push-ipdatetime"> 05/18 01:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 天龍人說南部不需要捷運那當然台北公宅要蓋好蓋滿！</span><span class="push-ipdatetime"> 05/18 01:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">konner</span><span class="f3 push-content">: 不要廢話這麼多啦!這些有錢人合買下來啊。廢物笑你不敢買</span><span class="push-ipdatetime"> 05/18 01:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovetweet</span><span class="f3 push-content">: 先漲房屋地價稅 先挖他一筆再說</span><span class="push-ipdatetime"> 05/18 06:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayko</span><span class="f3 push-content">: 萬華大同也有公宅呀..各一個廢掉的國小蓋公宅.社子是行水區</span><span class="push-ipdatetime"> 05/18 07:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayko</span><span class="f3 push-content">: 才有空地,大同萬華也是有點意見,但沒這麼白目.</span><span class="push-ipdatetime"> 05/18 07:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z80520xx</span><span class="f3 push-content">: 柯粉不意外</span><span class="push-ipdatetime"> 05/18 07:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">windalso</span><span class="f3 push-content">: 噁心</span><span class="push-ipdatetime"> 05/18 07:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lunaX19</span><span class="f3 push-content">: 咦 世界奇觀不好嗎?</span><span class="push-ipdatetime"> 05/18 09:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DraymondHuan</span><span class="f3 push-content">: 幹一群眷村老人到處幫我們真天龍人吸仇恨值QQ</span><span class="push-ipdatetime"> 05/18 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a001223</span><span class="f3 push-content">: 呵呵 公宅還有分地段蓋？各區公有地拿來蓋不才叫公宅</span><span class="push-ipdatetime"> 05/18 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gh34163</span><span class="f3 push-content">: 垃圾徐弘庭</span><span class="push-ipdatetime"> 05/18 12:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ntoujunru</span><span class="f3 push-content">: 核廢料全放你們那你們要當多高級地段都沒關係可以獨立</span><span class="push-ipdatetime"> 05/18 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wittyjin</span><span class="f3 push-content">: 就是要拉低這裡的房價才要蓋在這裡，出來秀啥下限??</span><span class="push-ipdatetime"> 05/18 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Jimmywin</span><span class="f3 push-content">: 支持蓋殯葬場,焚化爐,掩埋場</span><span class="push-ipdatetime"> 05/18 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OpenGoodHate</span><span class="f3 push-content">: 不要蓋公宅  蓋賓儀館好了</span><span class="push-ipdatetime"> 05/18 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vizjeco</span><span class="f3 push-content">: 徐弘庭....不易外 勝文跟班</span><span class="push-ipdatetime"> 05/18 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivan1408</span><span class="f3 push-content">: 徐議員根本ㄎㄎ</span><span class="push-ipdatetime"> 05/18 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shao6</span><span class="f3 push-content">: 請問有人知道這塊地有多小嗎？大概走一圈根本沒多少步的路</span><span class="push-ipdatetime"> 05/18 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivan1408</span><span class="f3 push-content">: 蓋了公宅附近房價開始下修，這才是居民不要的</span><span class="push-ipdatetime"> 05/18 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shao6</span><span class="f3 push-content">: 一小塊地要蓋上層17樓，地下五樓，請問安全性有人敢擔保?</span><span class="push-ipdatetime"> 05/18 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shao6</span><span class="f3 push-content">: 媒體下這種聳動標題，卻沒有人認真去了解公宅的狀況...</span><span class="push-ipdatetime"> 05/18 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shao6</span><span class="f3 push-content">: 有住戶更表示要蓋是可以的，但樓層太高，地下挖太深，危險!</span><span class="push-ipdatetime"> 05/18 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shao6</span><span class="f3 push-content">: 政府假裝辦公聽會，但完全沒有與居民溝通就硬上...</span><span class="push-ipdatetime"> 05/18 18:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">highyes</span><span class="f3 push-content">: 支持政府蓋公宅  有錢了不起膩  不蓋公宅蓋靈骨塔</span><span class="push-ipdatetime"> 05/18 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joshualiu</span><span class="f3 push-content">: 自私</span><span class="push-ipdatetime"> 05/18 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sjlee1127</span><span class="f3 push-content">: ………………</span><span class="push-ipdatetime"> 05/18 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steelheart3</span><span class="f3 push-content">: 居然有民代幫講話 看來某群人很怕房價跌</span><span class="push-ipdatetime"> 05/18 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">luckyleaf</span><span class="f3 push-content">: 翻譯：窮人只配住郊區</span><span class="push-ipdatetime"> 05/18 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dufflin</span><span class="f3 push-content">: 狂</span><span class="push-ipdatetime"> 05/18 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">moto000</span><span class="f3 push-content">: 鬼島 不意外</span><span class="push-ipdatetime"> 05/18 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onixs</span><span class="f3 push-content">: 一堆垃圾老人，草泥馬的廢物</span><span class="push-ipdatetime"> 05/18 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serval623</span><span class="f3 push-content">: 國民黨支持者的聖地</span><span class="push-ipdatetime"> 05/18 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">amishitter</span><span class="f3 push-content">: 狂</span><span class="push-ipdatetime"> 05/18 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yanni999</span><span class="f3 push-content">: 操你媽的死窮鬼，沒房子住就去死一死啊！</span><span class="push-ipdatetime"> 05/18 21:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wahahaflower</span><span class="f3 push-content">: 幹你娘繳稅怎麼不繳多一點</span><span class="push-ipdatetime"> 05/18 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skinny27</span><span class="f3 push-content">: 呵呵去死一死好了</span><span class="push-ipdatetime"> 05/18 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">youbee</span><span class="f3 push-content">: 噁心到爆，什麼嘴臉</span><span class="push-ipdatetime"> 05/18 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silentocean</span><span class="f3 push-content">: 大直天龍人也能扯公務員真是酸酸無國界</span><span class="push-ipdatetime"> 05/19 07:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: 這群真的窮到只剩錢！均收是多少？真的每家都請照護</span><span class="push-ipdatetime"> 05/21 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flowersuger</span><span class="f3 push-content">: ？google街景也沒有比較漂亮啊！</span><span class="push-ipdatetime"> 05/21 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">conipop</span><span class="f3 push-content">: 不蓋公宅，不然蓋核電廠</span><span class="push-ipdatetime"> 05/24 01:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495030912.A.3DA.html?cacheKey=2052-48218634&offset=20051&offset-sig=0c17e8e14f29e33b4bd3cbc7b9e5f2973c94eceb" data-longpollurl="/v1/longpoll?id=31def33ad4dc8678b71fed4d69035b36171c5c39" data-offset="20051"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

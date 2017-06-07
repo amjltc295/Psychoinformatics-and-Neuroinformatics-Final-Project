@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496653759.A.623.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 日本第一架閃肥 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ＦＢ卦點說明：在日米軍司令部臉書發佈了日本第一台閃肥的揭幕儀式
+日本預計2019年開始服役 一共42架
+ＦＢ連結：http://bit.ly/2rBjgY4
+ＦＢ內容：
+NAGOYA, Japan, June 5, 2017 – The first Japanese-assembled F-35A was
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 日本第一架閃肥">
+<meta property="og:description" content="ＦＢ卦點說明：在日米軍司令部臉書發佈了日本第一台閃肥的揭幕儀式
+日本預計2019年開始服役 一共42架
+ＦＢ連結：http://bit.ly/2rBjgY4
+ＦＢ內容：
+NAGOYA, Japan, June 5, 2017 – The first Japanese-assembled F-35A was
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496653759.A.623.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496653759.A.623.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Anddyliu (安滴滴)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 日本第一架閃肥</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 17:09:15 2017</span></div>
+ＦＢ卦點說明：在日米軍司令部臉書發佈了日本第一台閃肥的揭幕儀式
+日本預計2019年開始服役 一共42架
+
+ＦＢ連結：<a href="http://bit.ly/2rBjgY4" target="_blank" rel="nofollow">http://bit.ly/2rBjgY4</a>
+
+ＦＢ內容：
+
+NAGOYA, Japan, June 5, 2017 – The first Japanese-assembled F-35A was
+unveiled during a ceremony at the Mitsubishi Heavy Industries (MHI) F-35
+Final Assembly and Check Out (FACO) facility in Nagoya, Japan today.
+Approximately 200 people attended the ceremony including Japanese and United
+States government and defense industry leaders. The ceremony highlighted the
+strong partnership between Japan and United States.
+(Photo by Thinh D. Nguyen, Lockheed Martin Aeronautics Company)
+日本名古屋，2017年6月5日 - 日本首批日系組裝的F-35A
+今天在日本名古屋的儀式上揭幕由三菱重工所最終裝配和檢驗的F-35。
+約有二百人參加了儀式包含了兩國政府及國防工業高階主管。
+儀式上強調了日本與美國的密切合作關係。
+
+<a href="http://imgur.com/GDNCZLS.jpg" target="_blank" rel="nofollow">http://imgur.com/GDNCZLS.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="GDNCZLS"><a href="//imgur.com/GDNCZLS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/ddGd7bU.jpg" target="_blank" rel="nofollow">http://imgur.com/ddGd7bU.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="ddGd7bU"><a href="//imgur.com/ddGd7bU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/o18egE3.jpg" target="_blank" rel="nofollow">http://imgur.com/o18egE3.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="o18egE3"><a href="//imgur.com/o18egE3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.163.37.91
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496653759.A.623.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496653759.A.623.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XXXXGAY</span><span class="f3 push-content">: 標題？</span><span class="push-ipdatetime"> 06/05 17:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gankgf</span><span class="f3 push-content">: 嚇屎人</span><span class="push-ipdatetime"> 06/05 17:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 買42架F-35要多少錢？</span><span class="push-ipdatetime"> 06/05 17:09
+</span></div>日本防衛省估計每架F-35的價格約為89億日元(約合1.1億美元)。
+防衛相田中直紀已表示，在無法避免交貨延遲或漲價的情況下，
+有可能取消採購合同。若以美方的估價簡單推算，每架F-35的價格約為2.4億美元，
+但由於其中還包括了訓練等方面的費用，F-35的單價尚不得而知。
+quote:<a href="https://goo.gl/EgyIev" target="_blank" rel="nofollow">https://goo.gl/EgyIev</a>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnu103437</span><span class="f3 push-content">: 初號機，會暴走嗎？</span><span class="push-ipdatetime"> 06/05 17:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chu122408</span><span class="f3 push-content">: 會飛的盤子 飛盤</span><span class="push-ipdatetime"> 06/05 17:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AlarmBell</span><span class="f3 push-content">: 標題也去合作了？</span><span class="push-ipdatetime"> 06/05 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">m21423</span><span class="f3 push-content">: 台獨嗎</span><span class="push-ipdatetime"> 06/05 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jaychou515</span><span class="f3 push-content">: 35A就35A，閃什麼肥</span><span class="push-ipdatetime"> 06/05 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">forRITZ</span><span class="f3 push-content">: 閃肥實際到底強不強阿  感覺很慘欸  坑不見底</span><span class="push-ipdatetime"> 06/05 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mingchaoliu</span><span class="f3 push-content">: 改叫雷電算了</span><span class="push-ipdatetime"> 06/05 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sdiaa</span><span class="f3 push-content">: 跟F-22比起來F-35單機普普 但是帶隊群毆威力加成比較多</span><span class="push-ipdatetime"> 06/05 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PTTJim</span><span class="f3 push-content">: 防衛相不是稻田朋美嗎？</span><span class="push-ipdatetime"> 06/05 17:21
+</span></div><a href="http://imgur.com/CylzGoc.jpg" target="_blank" rel="nofollow">http://imgur.com/CylzGoc.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="CylzGoc"><a href="//imgur.com/CylzGoc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/RkqYdxO.jpg" target="_blank" rel="nofollow">http://imgur.com/RkqYdxO.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="RkqYdxO"><a href="//imgur.com/RkqYdxO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/UvdTZOB.jpg" target="_blank" rel="nofollow">http://imgur.com/UvdTZOB.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="UvdTZOB"><a href="//imgur.com/UvdTZOB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>不用謝
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">et134226</span><span class="f3 push-content">: 初號機始動</span><span class="push-ipdatetime"> 06/05 17:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chungminchun</span><span class="f3 push-content">: 肥閃不是優在戰鬥機 是優在他根本天網系統...</span><span class="push-ipdatetime"> 06/05 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chungminchun</span><span class="f3 push-content">: 真打起來就是一架肥閃+N架無人機打馬克羅斯的感覺</span><span class="push-ipdatetime"> 06/05 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">victoryman</span><span class="f3 push-content">: 薩德駐韓 F-35駐日  這擺明就不是針對北韓</span><span class="push-ipdatetime"> 06/05 17:26
+</span></div><span class="f2">※ 編輯: Anddyliu (118.163.37.91), 06/05/2017 17:29:14
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Piin</span><span class="f3 push-content">: 這不是日本第一台，是在日本組裝的第一台</span><span class="push-ipdatetime"> 06/05 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccucwc</span><span class="f3 push-content">: 初號機！會暴走嗎？</span><span class="push-ipdatetime"> 06/05 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mitchku</span><span class="f3 push-content">: 重點不是錢，重點是藉由日本組裝習得技術與科技</span><span class="push-ipdatetime"> 06/05 18:04
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496653759.A.623.html?cacheKey=2052-2114564&offset=3509&offset-sig=11046cf3f24f74aa635bf968963125a7c263e46a" data-longpollurl="/v1/longpoll?id=589982f40422b114aaf6bca0fb1510a0e42b9b04" data-offset="3509"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

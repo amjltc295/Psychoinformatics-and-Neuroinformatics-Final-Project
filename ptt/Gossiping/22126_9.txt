@@ -1,0 +1,203 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496360243.A.884.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 警撒錢「脫光給500」 小姐脫衣陪酒 無罪 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:自由時報
+2.完整新聞標題:警撒錢「脫光給500」 小姐脫衣陪酒 無罪
+3.完整新聞連結:
+http://news.ltn.com.tw/news/society/paper/1107167
+4.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 警撒錢「脫光給500」 小姐脫衣陪酒 無罪">
+<meta property="og:description" content="1.媒體來源:自由時報
+2.完整新聞標題:警撒錢「脫光給500」 小姐脫衣陪酒 無罪
+3.完整新聞連結:
+http://news.ltn.com.tw/news/society/paper/1107167
+4.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496360243.A.884.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496360243.A.884.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">strellson (臺語是客家話)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 警撒錢「脫光給500」 小姐脫衣陪酒 無罪</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 07:37:14 2017</span></div>
+
+1.媒體來源:自由時報
+
+2.完整新聞標題:警撒錢「脫光給500」 小姐脫衣陪酒 無罪
+
+3.完整新聞連結:
+<a href="http://news.ltn.com.tw/news/society/paper/1107167" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/society/paper/1107167</a>
+
+4.完整新聞內文:
+106年6月2日
+〔記者陳冠備、劉曉欣／彰化報導〕彰化縣警局和美分局三名警員喬裝尋歡客「釣魚」，前年九月前往越式養身館查獲小姐脫衣陪酒，將業者與小姐法辦；但彰化地院法官勘查蒐證影片發現，警方用金錢誘惑小姐「脫胸罩給二百，脫內褲給三百」、「拔毛，三百可以嗎？」已構成「陷害教唆」之誘捕，手段並非正當且已違憲，不具證據能力，判二名業者及四名小姐無罪。
+
+偵辦此案的和美警分局表示，本案是在接獲多次檢舉，警方前往蒐證，確定有脫衣陪酒金錢交易的不法行為，才向檢方聲請搜索票，檢方也起訴，所以是法官對法理證據的見解不同，並非被告沒有脫衣等違法行為。彰化地檢署襄閱主任檢察官林漢強表示，收到判決後再研議是否上訴。
+
+判決書指出，鄭姓（四十七歲）、柯姓（四十五歲）男子是彰化一間養身館負責人，館內提供小姐陪酒，以每百分鐘一千二百元計費。一百零五年九月，和美分局三名警員喬裝客人查緝，查獲四女裸胸任警摸奶、拔陰毛，警方蒐證拍下影片，依妨害風化罪移送二名業者與四女，檢方起訴。
+
+彰化法院審理時，法官勘驗影片，發現雙方進包廂前十六分鐘，陪酒女子並無脫衣等行為，員警喊：「我們包廂不能穿胸罩！」但無人理會；再過八分鐘，員警又喊，「胸罩脫掉，不要我發飆的人都要脫胸罩」、「胸罩脫掉給二百，內褲脫掉給三百」等，才陸續有女子脫衣。沒多久，員警又說，「他拔毛，打麻將穩贏」、「拔毛，三百可以嗎？」等，不斷以金錢引誘女子做出猥褻行為。
+
+法官︰警陷害教唆
+
+法官認為，員警主動引誘或教唆，使原無犯罪之意的人萌生犯意，進而蒐證並加以逮捕偵辦，行為已逾越偵查犯罪之必要，違反憲法基本人權保障，對於維護公共利益並無意義；而員警以「陷害教唆」方式偵查，手段並非正當，採證之光碟也不具證據能力，因此判處被告無罪。
+
+學理「毒樹果實理論」
+
+彰化地方法院庭長王義閔表示，蒐證光碟是整起案件起訴關鍵，警方以金錢誘發被告犯罪，蒐證手段不正當，證據自然不被法官採信，就如學理上的「毒樹果實理論」，一棵樹有毒，其果實也有毒，司法警察機關以違法方式取得之物證、口供，其證據也不得採用。
+
+--
+<a href="https://goo.gl/wwdB2l" target="_blank" rel="nofollow">https://goo.gl/wwdB2l</a>
+
+-----
+Sent from JPTT on my HTC_M9u.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.128.27
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496360243.A.884.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496360243.A.884.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: babyboy永遠永遠手牽手 一步兩步一起走</span><span class="push-ipdatetime"> 06/02 07:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 警察很會玩耶</span><span class="push-ipdatetime"> 06/02 07:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnwu</span><span class="f3 push-content">: 法院認證的...</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tjtjtj</span><span class="f3 push-content">: 警察水準不意外</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: Oh my pretty girl 屁股扭一扭</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Conniiiie</span><span class="f3 push-content">: 警察水準</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cake10414</span><span class="f3 push-content">: 法院禁止警察當間諜了? QQ</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jason138</span><span class="f3 push-content">: 玩免錢的</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joumay</span><span class="f3 push-content">: 灑錢做業績 臭了嗎??? 對 很臭</span><span class="push-ipdatetime"> 06/02 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mig</span><span class="f3 push-content">: 垃圾鴿</span><span class="push-ipdatetime"> 06/02 07:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KGarnett05</span><span class="f3 push-content">: 垃圾警察</span><span class="push-ipdatetime"> 06/02 07:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gginindr</span><span class="f3 push-content">: 警專水準</span><span class="push-ipdatetime"> 06/02 07:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 警察水準 玩完有沒有付錢啊 哈哈哈哈哈</span><span class="push-ipdatetime"> 06/02 07:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 阿不就柿子挑軟的吃　看小姐好欺負阿</span><span class="push-ipdatetime"> 06/02 07:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">beachboy7</span><span class="f3 push-content">: 花錢認識女體也不行 QQ</span><span class="push-ipdatetime"> 06/02 07:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scores</span><span class="f3 push-content">: 拜託 性專區快設立好嗎 浪費警力做這種事情 警察就有藉口</span><span class="push-ipdatetime"> 06/02 07:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scores</span><span class="f3 push-content">: 不辦其他重要的案件...</span><span class="push-ipdatetime"> 06/02 07:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">missbaby</span><span class="f3 push-content">: 垃圾警察  爽完不給錢抓人</span><span class="push-ipdatetime"> 06/02 07:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">missbaby</span><span class="f3 push-content">: 把這種畜牲免職好嗎</span><span class="push-ipdatetime"> 06/02 07:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kissung</span><span class="f3 push-content">: 呵呵呵</span><span class="push-ipdatetime"> 06/02 07:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">missbaby</span><span class="f3 push-content">: 原來是彰化喔  彰化專出垃圾  不E外</span><span class="push-ipdatetime"> 06/02 07:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 警察水準阿,你怎麼不去堂口或幫派裡面釣魚?</span><span class="push-ipdatetime"> 06/02 07:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">missbaby</span><span class="f3 push-content">: 推去幫派裡面喊開他槍300啦   垃圾警察  XDDDD</span><span class="push-ipdatetime"> 06/02 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 混在裡面沒事就說要買槍買毒,你可以抓爽爽</span><span class="push-ipdatetime"> 06/02 07:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DuckWu</span><span class="f3 push-content">: 彰化和美科科</span><span class="push-ipdatetime"> 06/02 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shin00</span><span class="f3 push-content">: 垃圾警察</span><span class="push-ipdatetime"> 06/02 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">top1683</span><span class="f3 push-content">: 警察不意外</span><span class="push-ipdatetime"> 06/02 07:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cyclohexane</span><span class="f3 push-content">: 這警察也抓去辦一辦吧</span><span class="push-ipdatetime"> 06/02 07:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 這警察根本犯罪阿</span><span class="push-ipdatetime"> 06/02 07:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onixs</span><span class="f3 push-content">: 警察很會說耶！應該是常客！</span><span class="push-ipdatetime"> 06/02 07:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smonke</span><span class="f3 push-content">: 警察=穿制服的流氓 干!</span><span class="push-ipdatetime"> 06/02 07:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 一堆人看錯重點，問題是，奶大嗎</span><span class="push-ipdatetime"> 06/02 07:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iam0718</span><span class="f3 push-content">: 爽完就抓你</span><span class="push-ipdatetime"> 06/02 07:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrXD</span><span class="f3 push-content">: 有牌流氓 超奸得</span><span class="push-ipdatetime"> 06/02 07:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 警察水準</span><span class="push-ipdatetime"> 06/02 07:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 我還以為是雷洛時期咧</span><span class="push-ipdatetime"> 06/02 07:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q13461346</span><span class="f3 push-content">: 垃圾警察</span><span class="push-ipdatetime"> 06/02 08:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qmaper</span><span class="f3 push-content">: 垃圾警察 這樣抓???</span><span class="push-ipdatetime"> 06/02 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shotakun</span><span class="f3 push-content">: 終於有心智正常的法官了</span><span class="push-ipdatetime"> 06/02 08:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saphir</span><span class="f3 push-content">: 真廢</span><span class="push-ipdatetime"> 06/02 08:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">squarepants5</span><span class="f3 push-content">: 誘導性行為</span><span class="push-ipdatetime"> 06/02 08:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">unter</span><span class="f3 push-content">: 玩完了 還要被檢舉…</span><span class="push-ipdatetime"> 06/02 08:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cycwtu</span><span class="f3 push-content">: 真的垃圾</span><span class="push-ipdatetime"> 06/02 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kingbing</span><span class="f3 push-content">: 看到這個，越來越相信警察白漂是真的了</span><span class="push-ipdatetime"> 06/02 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jiaching</span><span class="f3 push-content">: 爽完再抓 台灣警察蒸蚌</span><span class="push-ipdatetime"> 06/02 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hong1126</span><span class="f3 push-content">: 一看就知道是高手</span><span class="push-ipdatetime"> 06/02 08:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">khst3man</span><span class="f3 push-content">: 重點是做錯事警察沒有對等的處罰</span><span class="push-ipdatetime"> 06/02 08:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">z842657913</span><span class="f3 push-content">: 這樣都可以的話警大不會才40級就能上</span><span class="push-ipdatetime"> 06/02 08:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">magician8</span><span class="f3 push-content">: 警察特考廢考刑事訴訟法就會變這樣</span><span class="push-ipdatetime"> 06/02 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jaroz</span><span class="f3 push-content">: 警察不用懲處嗎</span><span class="push-ipdatetime"> 06/02 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winsteadlove</span><span class="f3 push-content">: 什麼爛警察==</span><span class="push-ipdatetime"> 06/02 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gsmzxcvbnm</span><span class="f3 push-content">: 就有無聊人去檢舉啊</span><span class="push-ipdatetime"> 06/02 12:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bearhwa</span><span class="f3 push-content">: 警察：那我們就領乾薪不做事就好啦</span><span class="push-ipdatetime"> 06/02 13:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EvilPrada</span><span class="f3 push-content">: 業者不無辜  但警察蠢成這樣(或故意?)一點也不值得同情</span><span class="push-ipdatetime"> 06/02 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poverty</span><span class="f3 push-content">: fishing</span><span class="push-ipdatetime"> 06/02 14:27
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496360243.A.884.html?cacheKey=2052-574152&offset=7803&offset-sig=83b39d2de274fb3e00b24d0dfc36ea7754fbb865" data-longpollurl="/v1/longpoll?id=98b3ddc2894ca67cc3fdbb125575512647bff658" data-offset="7803"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

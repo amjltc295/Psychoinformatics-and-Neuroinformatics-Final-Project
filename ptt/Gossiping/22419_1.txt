@@ -1,0 +1,169 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496545039.A.F8D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] Space X又射啦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://mashable.com/2017/06/03/elon-musk-spacex-falcon-9-rocket-launch/
+分享一下，其實台灣新聞還沒出來
+今天space x 發射一顆可載人火箭到國際太空站(獵鷹+龍)並成功回收火箭，獵鷹自行返
+回地球降落，龍成功接駁太空站
+補充:但龍上面沒人，大概怕怕吧
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] Space X又射啦">
+<meta property="og:description" content="http://mashable.com/2017/06/03/elon-musk-spacex-falcon-9-rocket-launch/
+分享一下，其實台灣新聞還沒出來
+今天space x 發射一顆可載人火箭到國際太空站(獵鷹+龍)並成功回收火箭，獵鷹自行返
+回地球降落，龍成功接駁太空站
+補充:但龍上面沒人，大概怕怕吧
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496545039.A.F8D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496545039.A.F8D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">spring11104 (ox)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] Space X又射啦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 10:57:16 2017</span></div>
+<a href="http://mashable.com/2017/06/03/elon-musk-spacex-falcon-9-rocket-launch/" target="_blank" rel="nofollow">http://mashable.com/2017/06/03/elon-musk-spacex-falcon-9-rocket-launch/</a>
+
+分享一下，其實台灣新聞還沒出來
+
+今天space x 發射一顆可載人火箭到國際太空站(獵鷹+龍)並成功回收火箭，獵鷹自行返
+回地球降落，龍成功接駁太空站
+
+補充:但龍上面沒人，大概怕怕吧
+
+又創下世界第一
+
+<a href="https://youtu.be/JuZBOUMsYws" target="_blank" rel="nofollow">https://youtu.be/JuZBOUMsYws</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/JuZBOUMsYws" frameborder="0" allowfullscreen></iframe></div></div></div>
+大家要準備去火星炒房了嗎!!!
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 162.195.73.85
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496545039.A.F8D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496545039.A.F8D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 五樓今天又早洩了</span><span class="push-ipdatetime">06/04 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aggressorX</span><span class="f3 push-content">: 射惹ㄦ</span><span class="push-ipdatetime">06/04 10:57
+</span></div><span class="f2">※ 編輯: spring11104 (162.195.73.85), 06/04/2017 10:58:12
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">terryporter</span><span class="f3 push-content">: 上次爆過一次 還爆掉別人衛星</span><span class="push-ipdatetime">06/04 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abram</span><span class="f3 push-content">:      阿就是反衛星飛彈阿</span><span class="push-ipdatetime">06/04 10:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gunng</span><span class="f3 push-content">: 總算不用把人運去俄羅斯坐了</span><span class="push-ipdatetime">06/04 10:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iem2000</span><span class="f3 push-content">: 載人火箭!!!!</span><span class="push-ipdatetime">06/04 11:00
+</span></div>是獵鷹+龍，但龍上面沒人，大概還是怕炸吧，哈哈
+<span class="f2">※ 編輯: spring11104 (162.195.73.85), 06/04/2017 11:04:21
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">purplebfly</span><span class="f3 push-content">: 又射了,聯合國安理會不用開會嗎?</span><span class="push-ipdatetime">06/04 11:03
+</span></div><span class="f2">※ 編輯: spring11104 (162.195.73.85), 06/04/2017 11:05:25
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dahlia7357</span><span class="f3 push-content">: 看了起雞皮疙瘩  太神了!!!!!</span><span class="push-ipdatetime"> 06/04 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDD5566</span><span class="f3 push-content">: 是跩跟還是龍?</span><span class="push-ipdatetime"> 06/04 11:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cabin2501</span><span class="f3 push-content">: 有夠神</span><span class="push-ipdatetime"> 06/04 11:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linjrming</span><span class="f3 push-content">: 太完美了吧...</span><span class="push-ipdatetime"> 06/04 11:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DF801580</span><span class="f3 push-content">: 頂尖科技力量啊…</span><span class="push-ipdatetime"> 06/04 11:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ibugi</span><span class="f3 push-content">: 那個落地 夭壽讚</span><span class="push-ipdatetime"> 06/04 11:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lost0816</span><span class="f3 push-content">: 那降落 看幾次都覺得 太神太神了...</span><span class="push-ipdatetime"> 06/04 11:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GalacticEcho</span><span class="f3 push-content">: 看到未來平價太空旅行的曙光。</span><span class="push-ipdatetime"> 06/04 11:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Piin</span><span class="f3 push-content">: Dragon已經不是第一次使用了。</span><span class="push-ipdatetime"> 06/04 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggyang</span><span class="f3 push-content">: Dragon 有貨運版本吧</span><span class="push-ipdatetime"> 06/04 11:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">perfects1988</span><span class="f3 push-content">: 好強!!!!!!!!!!!!!!</span><span class="push-ipdatetime"> 06/04 11:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 馬斯克：爽，股價飛起來</span><span class="push-ipdatetime"> 06/04 11:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz19860929</span><span class="f3 push-content">: 要去抓蟑螂了</span><span class="push-ipdatetime"> 06/04 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">davidrockcom</span><span class="f3 push-content">: AMBAC 系統的體現啊！！</span><span class="push-ipdatetime"> 06/04 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ecnecsinimer</span><span class="f3 push-content">: 馬斯克不是說股價太高嗎</span><span class="push-ipdatetime"> 06/04 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mackyou</span><span class="f3 push-content">: 真的厲害</span><span class="push-ipdatetime"> 06/04 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SeijyaKijin</span><span class="f3 push-content">: 阿斯</span><span class="push-ipdatetime"> 06/04 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttpepe</span><span class="f3 push-content">: 好屌喔</span><span class="push-ipdatetime"> 06/04 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kohanchen</span><span class="f3 push-content">: 爽 我的特斯拉又要漲啦!!!</span><span class="push-ipdatetime"> 06/04 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">szl</span><span class="f3 push-content">: 福衛五號可以升空了沒？</span><span class="push-ipdatetime"> 06/04 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">prmea</span><span class="f3 push-content">: 那個降落不是 錄影回放喔???</span><span class="push-ipdatetime"> 06/04 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mecca</span><span class="f3 push-content">: 為什麼射之前身體會冒白煙啊??</span><span class="push-ipdatetime"> 06/04 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cielilver</span><span class="f3 push-content">: 不是回放  是自行降落回收</span><span class="push-ipdatetime"> 06/04 13:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghih1a12</span><span class="f3 push-content">: 太猛了</span><span class="push-ipdatetime"> 06/04 16:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496545039.A.F8D.html?cacheKey=2052-455739&offset=3941&offset-sig=41686eb53ec44daa105de6d9df9f35e48519d4f1" data-longpollurl="/v1/longpoll?id=74cc71068a60e0fa8e005dfadee64cf3228520ad" data-offset="3941"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

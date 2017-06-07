@@ -1,0 +1,176 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495618722.A.8DD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] ASUS我都唸ASUS　結果日本卻唸ASUS - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:APPLE
+2.完整新聞標題:
+ASUS我都唸ASUS  結果日本卻唸ASUS
+3.完整新聞內文:
+SayASUS-Say ASUS- Ey darling
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] ASUS我都唸ASUS　結果日本卻唸ASUS">
+<meta property="og:description" content="1.媒體來源:APPLE
+2.完整新聞標題:
+ASUS我都唸ASUS  結果日本卻唸ASUS
+3.完整新聞內文:
+SayASUS-Say ASUS- Ey darling
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495618722.A.8DD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495618722.A.8DD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">K380 (好車 就該如此 Cheers!)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] ASUS我都唸ASUS　結果日本卻唸ASUS</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 17:38:40 2017</span></div>
+1.媒體來源:APPLE
+
+
+2.完整新聞標題:
+ASUS我都唸ASUS  結果日本卻唸ASUS
+
+
+3.完整新聞內文:
+SayASUS-Say ASUS- Ey darling
+<a href="https://youtu.be/N7BM2nvxCD8" target="_blank" rel="nofollow">https://youtu.be/N7BM2nvxCD8</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/N7BM2nvxCD8" frameborder="0" allowfullscreen></iframe></div></div></div>
+<span class="f3 hl">ASUS我都唸ASUS，原來是唸ASUS</span>！業者的外文名稱唸法，在台灣有最多討論的大概就是
+COSTCO和IKEA，而ASUS（華碩）的唸法近日則成為日本網友熱議的話題，主要唸法有4種
+，分別是「啊速死」、「欸色死」、「欸速死」和「啊殺死」。
+
+據《宅宅新聞》報導，還有日本網友發起ASUS唸法的惡搞投票，但明明4個選項都是寫「
+ASUS」，完全分不出來，照樣吸引了超過8.6萬人次投票。甚至連日本華碩都在官方《推
+特》加入大混戰，搞笑發文「<span class="f3 hl">ASUS在2012年就統一唸成ASUS，有人唸ASUS、ASUS或ASUS，
+</span><span class="f3 hl">而最後定調為ASUS</span>」。
+
+到底華碩定調的ASUS是怎麼樣的ASUS呢？華碩還曾經為此拍了影片說明，正確唸法是「欸
+速死（ey-soos）」、不是「啊速死（ah-soos）」。（即時新聞中心／綜合報導）
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/15W7WJ" target="_blank" rel="nofollow">https://goo.gl/15W7WJ</a>
+
+5.備註:
+<span class="f6 hl">我都唸snsv</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.25.218.228
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495618722.A.8DD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495618722.A.8DD.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 三小拉 幹</span><span class="push-ipdatetime"> 05/24 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SE4NLN415</span><span class="f3 push-content">: ANUS</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OGCOGCOGCOGC</span><span class="f3 push-content">: ikea</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stayawesome</span><span class="f3 push-content">: 我都念ikea</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakibasara</span><span class="f3 push-content">: IKEA</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tim8177414</span><span class="f3 push-content">: AIDS拉幹 爽沒?</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">coco100</span><span class="f3 push-content">: 未看先猜有肥宅必推Costco</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HellKitty</span><span class="f3 push-content">: 阿速死阿</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tsukushi</span><span class="f3 push-content">: 我都唸costco</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qaz223gy</span><span class="f3 push-content">: 我都唸摳死摳</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 還有記者抄廢文才好笑</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iiooiioou</span><span class="f3 push-content">: 所都唸華碩</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ComeThrough</span><span class="f3 push-content">: costco</span><span class="push-ipdatetime"> 05/24 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TrySoHard</span><span class="f3 push-content">: 這篇沒有ikea我live自剁</span><span class="push-ipdatetime"> 05/24 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">phix</span><span class="f3 push-content">: ㄟ蘇係....懂了</span><span class="push-ipdatetime"> 05/24 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hancao0816</span><span class="f3 push-content">: 我都念cueto</span><span class="push-ipdatetime"> 05/24 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: 好笑嗎</span><span class="push-ipdatetime"> 05/24 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">finzaghi</span><span class="f3 push-content">: 三小爛新聞</span><span class="push-ipdatetime"> 05/24 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chmod777</span><span class="f3 push-content">: anus</span><span class="push-ipdatetime"> 05/24 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pttenjk</span><span class="f3 push-content">: samsung 怎麼念</span><span class="push-ipdatetime"> 05/24 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tsukiyumi</span><span class="f3 push-content">: snsv</span><span class="push-ipdatetime"> 05/24 17:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 電腦街之前正名影片放整天。買賣還是念ㄚˇ素死</span><span class="push-ipdatetime"> 05/24 17:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blakespring</span><span class="f3 push-content">: 阿速死</span><span class="push-ipdatetime"> 05/24 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 哪天要正名肩肉盤食，以卵擊石也是沒用的</span><span class="push-ipdatetime"> 05/24 17:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howard324666</span><span class="f3 push-content">: 所以HTC怎麼念?</span><span class="push-ipdatetime"> 05/24 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hu7592</span><span class="f3 push-content">: 我都唸ikea</span><span class="push-ipdatetime"> 05/24 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 日本念啊速死</span><span class="push-ipdatetime"> 05/24 18:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saxontai</span><span class="f3 push-content">: 我都唸snsv</span><span class="push-ipdatetime"> 05/24 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jack0316047</span><span class="f3 push-content">: 這三小..</span><span class="push-ipdatetime"> 05/24 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EvilPrada</span><span class="f3 push-content">: 幹  華碩自己的廣告都念阿速死了  華碩自己精神錯亂?</span><span class="push-ipdatetime"> 05/24 18:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495618722.A.8DD.html?cacheKey=2052-954435&offset=4188&offset-sig=5d53e04db42556a358734d8bf7d998c20a35051b" data-longpollurl="/v1/longpoll?id=bbd127c1a787478a691545cb8871b6dc560fad4a" data-offset="4188"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

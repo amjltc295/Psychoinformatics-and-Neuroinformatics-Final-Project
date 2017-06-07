@@ -1,0 +1,192 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496669293.A.291.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="難怪上次小弟出車禍
+醫生看完X光雖然說沒事
+但有特別問要不要再照核磁(後來我有做，好險有保險可給付@@
+原來就是這個事件導致的
+只能說下次乾脆做個表
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過">
+<meta property="og:description" content="難怪上次小弟出車禍
+醫生看完X光雖然說沒事
+但有特別問要不要再照核磁(後來我有做，好險有保險可給付@@
+原來就是這個事件導致的
+只能說下次乾脆做個表
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496669293.A.291.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496669293.A.291.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">qize1428 (倫)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 21:28:10 2017</span></div>
+<span class="f2">※ 引述《Gunbuster (勇往直前)》之銘言：
+</span><span class="f6">: 台大涉醫療疏失 最高院：醫師須自證無過失
+</span><span class="f6">: <a href="https://udn.com/news/story/7321/2505442?from=udn-ch1_breaknews-1-0-news" target="_blank" rel="nofollow">https://udn.com/news/story/7321/2505442?from=udn-ch1_breaknews-1-0-news</a>
+</span><span class="f6">: 2017-06-05 17:08中央社 台北5日電
+</span><span class="f6">: 前高等法院庭長陳貽男的妻子頭部受傷送到台大醫院急救後10個月死亡；陳貽男和子女對台
+</span><span class="f6">: 大醫師提告求償。案經上訴，最高法院廢棄原審判決發回更審，對過失醫療行為，本於醫療
+</span><span class="f6">: 專業不對等原則，舉證責任轉換到醫師身上。
+</span><span class="f6">: 台大公關今天表示，此案已進入司法程序，尊重法院判決，如果需要院方提出說明，也會配
+</span><span class="f6">: 合處理。
+</span><span class="f6">: 判決書指出，陳貽男的王姓妻子在民國96年2月某日，因故滑倒撞傷頭部，旋即被送往台大
+</span><span class="f6">: 醫院急救，並於同年12月15日死亡。
+</span><span class="f6">: 陳貽男等人主張，當時負責診療王女的林姓、潘姓醫師，未依台大醫院急診作業手冊規定，
+</span><span class="f6">: 立即為王安排電腦斷層掃描檢查，留院觀察期間又未評定留院觀察級數，也沒有每15至30分
+</span><span class="f6">: 鐘去觀察她的生命徵候、未從Ｘ光片發現顱骨骨折，因而未能發現顱內出血嚴重，錯失緊急
+</span><span class="f6">: 手術時間，導致手術無效果，其醫療行為與醫療常規不符，有過失。
+</span><span class="f6">: 此外，王女的家屬也認為，當時台大醫院急診室吳姓主治醫師，對急診病患負第一線治療義
+</span><span class="f6">: 務，林姓與潘姓住院醫師，對頭部外傷救治經驗不足，需吳男在場監督指導，但吳未於王女
+</span><span class="f6">: 急診治療時在場，又未能從Ｘ光片發現王女顱骨骨折遲誤病情，也有過失。
+</span><span class="f6">: 陳貽男與3名子女向台大與這3名醫師提告求償新台幣1200萬多元；一審台北地方法院判台大
+</span><span class="f6">: 要賠60萬元；二審台灣高等法院則改判台大免賠。
+</span><span class="f6">: 案經上訴，最高法院日前裁定二審判決廢棄，發還高院更審。
+</span><span class="f6">: 最高法院解釋，在過失醫療行為與病人死亡間因果關係的存在與否，原則上應由被害人負舉
+</span><span class="f6">: 證責任；不過，當醫師進行醫療處置有可歸責的重大瑕疪，導致相關醫療步驟過程，發生糾
+</span><span class="f6">: 結而難以釐清的情況時，本於醫療專業不對等原則，應歸由醫師負擔，依民事訴訟法第277
+</span><span class="f6">: 條但書規定，即產生舉證責任轉換，要由醫師舉證證明其醫療過失，與病人死亡間無因果關
+</span><span class="f6">: 係。
+</span><span class="f6">: 此外，本案相關醫療過程因無相關記載而未臻明確，原審未讓醫師就醫療過失與王女的死亡
+</span><span class="f6">: 無因果關係，善盡舉證責任，就遽為裁判也有疏略。
+</span><span class="f6">: 最高法院也認為，醫審會鑑定報告記載：「假設顱內血塊已擴大至超過30cc，合併較嚴重之
+</span><span class="f6">: 腦部壓迫現象，則須立即進行手術，若果如此，由於病人意識尚未喪失，此時手術理當有非
+</span><span class="f6">: 常良好之恢復。」代表這3名醫師若確實注意王女意識變化，或適當安排做電腦斷層等，王
+</span><span class="f6">: 是否有機會避免昏迷終至死亡的可能性？這些都要調查。
+</span>
+
+難怪上次小弟出車禍
+
+醫生看完X光雖然說沒事
+
+但有特別問要不要再照核磁(後來我有做，好險有保險可給付@@
+
+原來就是這個事件導致的
+
+只能說下次乾脆做個表
+
+送完急診讓病患或家屬勾一勾哪些檢查要再加做
+
+不勾就自己承擔責任
+
+記得把愛滋篩檢也放進去
+
+免得有人得愛滋掛掉還怪醫生沒有順便幫他檢查
+
+有些人的心眼就是特別小
+
+要特別小心
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.121.159.74
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496669293.A.291.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496669293.A.291.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ocean5566</span><span class="f3 push-content">: 柯文哲就是用到愛滋甲的器官 被逼到出來當市長</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay022137</span><span class="f3 push-content">: 推! 沒勾就是自己貪小便宜不加做檢查，生死自負</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dyingpete</span><span class="f3 push-content">: 這文也可以歪哈哈哈，厲害</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k8543</span><span class="f3 push-content">: 你這根本是偷渡..</span><span class="push-ipdatetime"> 06/05 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xiaoyi</span><span class="f3 push-content">: 把檢查做成菜單，請病人自己勾選，跟服務業有87%相似</span><span class="push-ipdatetime"> 06/05 21:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skywalker21</span><span class="f3 push-content">: 我相信這個案例的死者家人如果當初有菜單可以勾</span><span class="push-ipdatetime"> 06/05 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skywalker21</span><span class="f3 push-content">: 他們應該會感謝你的提議...也許就可以不用死了~~</span><span class="push-ipdatetime"> 06/05 21:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 屁眼大</span><span class="push-ipdatetime"> 06/05 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 這判決保護老百姓，以後下級審法官遇到醫療訴訟比較敢保</span><span class="push-ipdatetime"> 06/05 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 護病患而調整病患在醫療專業上的舉證責任。還一堆酸民被</span><span class="push-ipdatetime"> 06/05 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 媒體牽著走一味挺醫師，有哪種職業可以無風險的我也想去</span><span class="push-ipdatetime"> 06/05 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 當。</span><span class="push-ipdatetime"> 06/05 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mapodoufu</span><span class="f3 push-content">: 心眼小沒關係啊 屁眼大就好</span><span class="push-ipdatetime"> 06/05 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 法官就是唯一沒風險的職業 亂判誤判不用道歉也不用賠償</span><span class="push-ipdatetime"> 06/06 03:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 法官啊，陳啟祥行賄，但整個案子沒收賄人，絕吧？剛判完這</span><span class="push-ipdatetime"> 06/06 07:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 麼爭議的案子，隔天紀凱峰法官就全家到韓國去滑雪了，你看</span><span class="push-ipdatetime"> 06/06 07:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 這被告醫療疏失的醫生，當年有沒有病患死亡隔天帶全家去渡</span><span class="push-ipdatetime"> 06/06 07:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 假的</span><span class="push-ipdatetime"> 06/06 07:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icepet0015</span><span class="f3 push-content">: 感覺其實不錯ㄟ，反正都已經是服務業了，配個菜單剛好</span><span class="push-ipdatetime"> 06/06 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 法官真的很爽,高薪,沒責任,無風險</span><span class="push-ipdatetime"> 06/06 13:31
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496669293.A.291.html?cacheKey=2052-2439747&offset=4722&offset-sig=cb5010ea3b3f09dcce8c988b895d8bb9e2ed4bc1" data-longpollurl="/v1/longpoll?id=8b08909c54d2dea303789b43d9bc0613bb30f5c7" data-offset="4722"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

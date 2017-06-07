@@ -1,0 +1,176 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495988962.A.D01.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 這個關於最近這個魔術的解釋 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="平常沒事喜歡在水管亂晃
+看到這個解釋感覺蠻合理的
+後面還有自己做個小裝置解釋他的看法
+蠻有心的，大家覺得這個分析合理嗎？
+https://www.youtube.com/watch?v=q3hh9NX18pc
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 這個關於最近這個魔術的解釋">
+<meta property="og:description" content="平常沒事喜歡在水管亂晃
+看到這個解釋感覺蠻合理的
+後面還有自己做個小裝置解釋他的看法
+蠻有心的，大家覺得這個分析合理嗎？
+https://www.youtube.com/watch?v=q3hh9NX18pc
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495988962.A.D01.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495988962.A.D01.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">qwe123qqq (我是硬挺!呦呵呵)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 這個關於最近這個魔術的解釋</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 00:29:17 2017</span></div>
+平常沒事喜歡在水管亂晃
+
+看到這個解釋感覺蠻合理的
+
+後面還有自己做個小裝置解釋他的看法
+
+蠻有心的，大家覺得這個分析合理嗎？
+
+<a href="https://www.youtube.com/watch?v=q3hh9NX18pc" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=q3hh9NX18pc</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/q3hh9NX18pc" frameborder="0" allowfullscreen></iframe></div></div></div>
+（這頻道應該是個老師做的，感覺還不錯耶）
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.47.74.95
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495988962.A.D01.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495988962.A.D01.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jhjhs33504</span><span class="f3 push-content">: 有道理</span><span class="push-ipdatetime"> 05/29 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EfiwymsiAros</span><span class="f3 push-content">: #好</span><span class="push-ipdatetime"> 05/29 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 好像有點道理 不過有個問題 如果把真的硬幣放上翻動的地方</span><span class="push-ipdatetime"> 05/29 00:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FollowMe6</span><span class="f3 push-content">: 屌</span><span class="push-ipdatetime"> 05/29 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 這樣翻過去不就往下掉? 除非他沒放真的 但是又沒看他收走</span><span class="push-ipdatetime"> 05/29 00:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 而且還有一個 2:13的三個硬幣分到其他牌 如果是用翻的話</span><span class="push-ipdatetime"> 05/29 00:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 紙應該會被推起來 但是紙沒有動 硬幣就出現了</span><span class="push-ipdatetime"> 05/29 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ruby00514</span><span class="f3 push-content">: 花瓣呢？</span><span class="push-ipdatetime"> 05/29 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe123qqq</span><span class="f3 push-content">: 如果是用那個材質翻上去蓋住的話呢？</span><span class="push-ipdatetime"> 05/29 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe123qqq</span><span class="f3 push-content">: 他也是說這是他猜測的一個說法啦～也不是說一定這樣做</span><span class="push-ipdatetime"> 05/29 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe123qqq</span><span class="f3 push-content">: ，但我覺得可能很靠近真相了</span><span class="push-ipdatetime"> 05/29 00:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaymuscle</span><span class="f3 push-content">: 被這樣講一點都不神秘浪漫</span><span class="push-ipdatetime"> 05/29 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe123qqq</span><span class="f3 push-content">: 找出魔術原因的過程其實蠻像解謎遊戲，我覺得滿有趣說</span><span class="push-ipdatetime"> 05/29 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 他蓋紙的時候是先蓋靠近觀眾的一邊，所以只要趁蓋一半</span><span class="push-ipdatetime"> 05/29 00:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 的時候翻就好了。</span><span class="push-ipdatetime"> 05/29 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sleepboa</span><span class="f3 push-content">: 覺得不浪漫+1本來我以為是用類似釣魚線拉扯的古典手法</span><span class="push-ipdatetime"> 05/29 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 另外，桌子的邊緣有點類似相框，是高突起來的，也可以</span><span class="push-ipdatetime"> 05/29 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 避免觀眾直接平視桌面，以免看到硬閉翻面時的立體感。</span><span class="push-ipdatetime"> 05/29 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">logitech2004</span><span class="f3 push-content">: 應該是這個原理，只是設計上一定更厲害</span><span class="push-ipdatetime"> 05/29 00:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe123qqq</span><span class="f3 push-content">: 不過釣魚線的話速度照這個老師的算法應該要單身好幾年</span><span class="push-ipdatetime"> 05/29 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 另外兩個線索是，變花瓣的時候，硬幣放那四個位置太刻</span><span class="push-ipdatetime"> 05/29 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 意了，表示那個位子很可能才有機關。</span><span class="push-ipdatetime"> 05/29 00:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 還有就是一變四的時候，他彈指製造聲音，很可能是避免</span><span class="push-ipdatetime"> 05/29 00:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opthr1215</span><span class="f3 push-content">: 攝影機錄到馬達一次轉6個位置所發出的聲音。</span><span class="push-ipdatetime"> 05/29 00:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jonas30</span><span class="f3 push-content">: 先不要說那麼多了，解釋花瓣怎麼辦到的就可以</span><span class="push-ipdatetime"> 05/29 01:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WinNOKIA</span><span class="f3 push-content">: 達人秀的硬幣可以拿起來的，如果用馬達翻轉出現的硬幣會</span><span class="push-ipdatetime"> 05/29 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WinNOKIA</span><span class="f3 push-content">: 因為動能跳起來，但卻沒有發生</span><span class="push-ipdatetime"> 05/29 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe123qqq</span><span class="f3 push-content">: 如果有加上些許黏性物質或許可行</span><span class="push-ipdatetime"> 05/29 01:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sleepboa</span><span class="f3 push-content">: 可能錢幣有動過手腳?例如裝了磁鐵，如此也不怕位置擺錯</span><span class="push-ipdatetime"> 05/29 01:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mike9</span><span class="f3 push-content">: 如果是這個方法,又要黏得夠緊,又要拿得起來,花瓣也無解</span><span class="push-ipdatetime"> 05/29 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleepboa</span><span class="f3 push-content">: 再來翻轉是有可能的，你可以看到他會避免蓋排時操控機器</span><span class="push-ipdatetime"> 05/29 01:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lhsieh</span><span class="f3 push-content">: 覺得桌面是個螢幕,結合本來就不錯的手法</span><span class="push-ipdatetime"> 05/29 01:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 2:13-2:17的牌他沒拿起來 硬幣就過去了 看起來不像翻的</span><span class="push-ipdatetime"> 05/29 01:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleepboa</span><span class="f3 push-content">: 如果蓋排時翻轉，卡片彈跳起來就露餡了XD所以他都提前翻</span><span class="push-ipdatetime"> 05/29 01:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lhsieh</span><span class="f3 push-content">: 前面傳統手法鋪梗誤導,後面穿插,螢幕邊框包得XD</span><span class="push-ipdatetime"> 05/29 01:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleepboa</span><span class="f3 push-content">: 不，其實早就變回去了1:56跟2:08，給你看一下而已</span><span class="push-ipdatetime"> 05/29 01:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleepboa</span><span class="f3 push-content">: 然後他有用到電，所以磁力可以開開關關，推測是磁鐵固定</span><span class="push-ipdatetime"> 05/29 01:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmax</span><span class="f3 push-content">: 純黑桌面可以讓&#34;多層&#34;看起來是同一&#34;平面&#34;用抽換取代翻轉</span><span class="push-ipdatetime"> 05/29 02:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmax</span><span class="f3 push-content">: 這樣就不會動到紙牌</span><span class="push-ipdatetime"> 05/29 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmax</span><span class="f3 push-content">: 所以可能每個硬幣位置都是一個固定坑擺放硬幣，藉由快速抽換</span><span class="push-ipdatetime"> 05/29 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmax</span><span class="f3 push-content">: 讓硬幣顯示或消失</span><span class="push-ipdatetime"> 05/29 02:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greatsb</span><span class="f3 push-content">: 應該是黑魔法</span><span class="push-ipdatetime"> 05/29 02:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sobiNOva</span><span class="f3 push-content">: 看起來應該是故意用四幣集中當障眼法</span><span class="push-ipdatetime"> 05/29 02:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsien918</span><span class="f3 push-content">: 推!!!</span><span class="push-ipdatetime"> 05/29 04:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 應該是這樣沒錯 而且邊框厚度拿來遮</span><span class="push-ipdatetime"> 05/29 05:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colset</span><span class="f3 push-content">: 那他怎麼按開關的？他手從頭到尾都沒有碰桌子</span><span class="push-ipdatetime"> 05/29 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aaagang</span><span class="f3 push-content">: 不是小於那個秒數就不會被拍到= =</span><span class="push-ipdatetime"> 05/29 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nwojessy</span><span class="f3 push-content">: 用腳按吧</span><span class="push-ipdatetime"> 05/31 23:25
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495988962.A.D01.html?cacheKey=2052-1409554&offset=5352&offset-sig=f1a5fce220a21ae08c642438b7d76fe53f6d62db" data-longpollurl="/v1/longpoll?id=733b683814ac36aa7e508dce72f4bb062c186005" data-offset="5352"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

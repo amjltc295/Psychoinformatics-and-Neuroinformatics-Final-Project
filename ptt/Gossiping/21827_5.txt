@@ -1,0 +1,190 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496151425.A.5FF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 戰砲甲車成新寵 美、日、中都研發 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="新聞標題: 戰砲甲車成新寵 美、日、中都研發
+2017-05-28 12:37
+聯合
+軍用輪型裝甲車延伸出的砲車，它的任務與履帶型的主力戰車不同，甲車用於地面作戰時
+，支援步兵作戰直射火力、進行強襲攻堅任務，戰車用於進行地面決戰。目前美、日、大
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 戰砲甲車成新寵 美、日、中都研發">
+<meta property="og:description" content="新聞標題: 戰砲甲車成新寵 美、日、中都研發
+2017-05-28 12:37
+聯合
+軍用輪型裝甲車延伸出的砲車，它的任務與履帶型的主力戰車不同，甲車用於地面作戰時
+，支援步兵作戰直射火力、進行強襲攻堅任務，戰車用於進行地面決戰。目前美、日、大
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496151425.A.5FF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496151425.A.5FF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">F16V (Manners maketh man.)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 戰砲甲車成新寵 美、日、中都研發</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 21:36:57 2017</span></div>
+
+
+新聞標題: 戰砲甲車成新寵 美、日、中都研發
+
+2017-05-28 12:37
+
+聯合
+
+
+軍用輪型裝甲車延伸出的砲車，它的任務與履帶型的主力戰車不同，甲車用於地面作戰時
+，支援步兵作戰直射火力、進行強襲攻堅任務，戰車用於進行地面決戰。目前美、日、大
+陸，都有輪型砲車研發服役，具備快速機動的強勁火力，國軍至今尚未跟上腳步。
+
+裝甲車衍生出有砲塔的砲車，國防部定名為戰砲甲車，用以區別履帶型的主力戰車。
+
+軍備局在民國97年已研製出105砲砲塔的第一代雲豹甲車，當時以輪型戰車名義向陸軍裝甲
+兵學校推薦時，遭到嚴拒。
+
+裝甲兵的戰車，傳統是以履帶推進，不是用輪胎跑的。陸軍裝甲兵科建軍首選，就是要換
+裝美軍M1艾布蘭戰車，拒絕其他輪型甲車進化而來的砲車，國軍輪型砲車發展與應用受到
+這個影響有所停滯。
+
+國軍擁有近千輛履帶型主力戰車，包括M60A3與CM-11，除了陸軍裝甲旅外，也分配給陸軍
+機步旅。海軍陸戰隊戰車營早年使用M41戰車，2010年起使用M60A3。履帶車雖然適合越野
+，但速度不如輪型甲車。為了運用台灣道路資源，陸軍機步旅與憲兵裝憲營近年開始換裝
+輪型雲豹裝甲車。
+
+漢光演習兵棋推演發現，陸軍機步旅換裝了時速可達100公里的雲豹裝甲車，但整體機動性
+沒有提升，原因是被只能跑32公里的M60A3履帶戰車拖住。講究快速機動的陸戰旅，一樣也
+面臨這個問題。
+
+美軍為解決這個問題，創建史崔克旅，以八輪105公厘機動砲車（MGS）取代履帶戰車，讓
+機步部隊跑起來。
+
+105公厘砲雲豹甲車雖獲得海軍陸戰隊青睞，雖然列入五年兵力整建計畫，但是採購預算究
+竟能否在海軍列為優先的造艦計畫中突圍，尚未可知。
+
+
+
+新聞網址: <a href="https://goo.gl/ZF7zfT" target="_blank" rel="nofollow">https://goo.gl/ZF7zfT</a>
+
+-----
+Sent from JPTT on my HTC_M9u.
+
+--
+    Turing test(圖靈測試)是經由輸入談話內容至計算機、如果輸入者沒有辦法辨認得到
+的回答是真人或是機器所答，則稱該計算機AI通過圖靈測試。
+  Q:如果輸入&#34;<span class="f3 hl">我喜歡妳....學妹。</span>&#34;之字串，下列何者回應之AI<span class="f6 hl">最可能通過圖靈測試</span>?
+  (A) &#34;嗯! 學妹以後要成為學長的新娘!&#34;   (B) &#34;學長是個好人....一定有比我好的對象&#34;
+  (C) &#34;啥? 誰允許你這樣說話的? 給我趴下!&#34;   (D) &#34;醒醒吧，你沒有學妹&#34;
+                                                 <span class="hl">《民明書房-從人工智慧到宅經濟》</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.228.253
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496151425.A.5FF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496151425.A.5FF.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wyvernlee</span><span class="f3 push-content">: 甲甲表示：</span><span class="push-ipdatetime"> 05/30 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rednah</span><span class="f3 push-content">: 呆丸狼都用肉砲甲車</span><span class="push-ipdatetime"> 05/30 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WhiteMage</span><span class="f3 push-content">: 衝車</span><span class="push-ipdatetime"> 05/30 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 台灣有做出原型車 測評還OK但是沒買</span><span class="push-ipdatetime"> 05/30 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">machiusheng</span><span class="f3 push-content">: 甲的砲車?</span><span class="push-ipdatetime"> 05/30 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mingchaoliu</span><span class="f3 push-content">: 突擊砲車?</span><span class="push-ipdatetime"> 05/30 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 話說玩過世紀帝國都知道 拉著投石車一起跑本來就很慢XD</span><span class="push-ipdatetime"> 05/30 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adsl78728</span><span class="f3 push-content">: 看成約炮甲車</span><span class="push-ipdatetime"> 05/30 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blakespring</span><span class="f3 push-content">: 抬轎新聞</span><span class="push-ipdatetime"> 05/30 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JamesForrest</span><span class="f3 push-content">: 聯合報</span><span class="push-ipdatetime"> 05/30 21:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chuckni</span><span class="f3 push-content">: 甲甲車</span><span class="push-ipdatetime"> 05/30 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 陸軍裝甲兵科建軍首選就是要換裝美軍M1艾布蘭戰車</span><span class="push-ipdatetime"> 05/30 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 拒絕其他輪型甲車進化而來的砲車...</span><span class="push-ipdatetime"> 05/30 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cwt0115</span><span class="f3 push-content">: 由由der</span><span class="push-ipdatetime"> 05/30 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 頭腦有問題喔 陸軍真的是一堆頭腦有問題的==</span><span class="push-ipdatetime"> 05/30 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qazwsx0128</span><span class="f3 push-content">: 敢拒絕甲車？你恐甲?</span><span class="push-ipdatetime"> 05/30 21:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Chiccoco</span><span class="f3 push-content">: 裝甲車開出來</span><span class="push-ipdatetime"> 05/30 21:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 幹砲甲車</span><span class="push-ipdatetime"> 05/30 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZXCWS</span><span class="f3 push-content">: 戰砲甲車 兵科是掛砲兵還裝甲</span><span class="push-ipdatetime"> 05/30 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ROTFL</span><span class="f3 push-content">: 說個笑話：雲豹甲車</span><span class="push-ipdatetime"> 05/30 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 一台M1A2的戰力大概可以抵銷你一個營的裝甲車，台灣陸</span><span class="push-ipdatetime"> 05/30 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lostsky93</span><span class="f3 push-content">: 軍一堆頭殼壞掉的將領，用裝甲車取代重裝戰車</span><span class="push-ipdatetime"> 05/30 22:17
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496151425.A.5FF.html?cacheKey=2052-2733092&offset=4363&offset-sig=6d578adf2c213ae17c0a8196e2abed5476fa4188" data-longpollurl="/v1/longpoll?id=3b2313bc0fadcd434701579713857d5c5c657695" data-offset="4363"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

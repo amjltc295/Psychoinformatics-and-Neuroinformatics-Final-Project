@@ -1,0 +1,183 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496122717.A.BD3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 寫程式是很低賤的工作嗎? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我看到的業界現況
+複雜的程式多不多? 多啊
+平台又那麼多種, 你只不過碰個微軟的C#而已
+那原文講程式員是否低賤?
+這麼多年來我有兩個感想
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 寫程式是很低賤的工作嗎?">
+<meta property="og:description" content="我看到的業界現況
+複雜的程式多不多? 多啊
+平台又那麼多種, 你只不過碰個微軟的C#而已
+那原文講程式員是否低賤?
+這麼多年來我有兩個感想
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496122717.A.BD3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496122717.A.BD3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">sysstat (sys / stat)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 寫程式是很低賤的工作嗎?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 13:38:34 2017</span></div>
+我看到的業界現況
+複雜的程式多不多? 多啊
+平台又那麼多種, 你只不過碰個微軟的C#而已
+
+那原文講程式員是否低賤?
+這麼多年來我有兩個感想
+
+第一是寫程式從強的到一般差異那麼大,然而就比率上來講,
+絕大多數都是碼農, 根本不是什麼工程師
+並非像在ptt那樣, 動不動就可以扯到演算法啦, 資料結構啦, github
+如果要找IT的工作, 的確大部分都在找AP, 工作最好找
+但是好找不等於好
+前面就說了現有就有一堆複雜的程式, 一直交接, 交接到也不知道該問誰了
+有的十幾年就1.0版, 早就不知換過多少人
+要交客戶的也只是在現有的動手改一改
+然後一出問題, 客戶就拼命打來罵
+所以可以看到不少軟體公司的AP換了一個又一個, 換到我都來不及背名字
+一堆都剛畢業或工作沒多久, 做了沒幾個月就又換人了
+如果真的有這麼好會一直走嗎?
+然後它們竟然還有辭職回去賣雞排, 也有回去菜市場賣魚丸的
+反而硬體工程師,專案經理等流動率沒這麼大
+
+還有一個特點是在業界寫程式的大部分都不是本科系或是名校出身
+以我認識一個月領1x萬的AP來說, 正好全都不是
+我猜可能是越有好資歷的就越往好位子卡了, 升專案經理, 副總, 總經理
+不然就是去考公務員或考其他好的單位
+誰跟你乖乖留下來coding然後被客訴
+
+所以總結弱的一直走,強的又一直升上去
+於是就給人家程式員很慘的感覺
+至於那堆課本講的系統分析理論和資料結構我做這麼多案子真的沒看過有人這樣搞
+可能也是懂得都升上去了吧. 剩下不懂的阿菜
+
+<span class="f2">※ 引述《nonpolar (Nonpolar)》之銘言：
+</span><span class="f6">: 寫程式有分很多類型與型態
+</span><span class="f6">: 這就不贅述了
+</span><span class="f6">: 我是文組
+</span><span class="f6">: 因為某些工作上的目的開始學寫程式 我是寫C#
+</span><span class="f6">: 從這個機緣開始了解程式的世界與應用市場
+</span><span class="f6">: 忘了從哪邊看來的評論
+</span><span class="f6">: 評論是說 台灣寫不出大型、複雜架構的程式
+</span><span class="f6">: 起初還覺得是外國月亮比較圓的自卑心態罷了
+</span><span class="f6">: 越深入程式的世界越覺得如此
+</span><span class="f6">: 台灣人真的寫不出來....
+</span><span class="f6">: ※ 引述《red0whale (red whale)》之銘言：
+</span><span class="f6">: : 我喜歡寫程式
+</span><span class="f6">: : 從小就很喜歡寫程式
+</span><span class="f6">: : 但是我爸說寫程式沒有用，是很低賤而且一點意義也沒有的工作
+</span><span class="f6">: : 叫我以后不准給我當什麼程式設計師或什麼工程師之類的
+</span><span class="f6">: : 他還說在台灣程式設計師沒有出路，沒有市場
+</span><span class="f6">: : 有沒有寫程式根本低賤，連屁都不如的八卦?
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.47.249
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496122717.A.BD3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496122717.A.BD3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 原來台灣有軟體公司喔?</span><span class="push-ipdatetime"> 05/30 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">as6633208</span><span class="f3 push-content">: 你沒辦法coding一輩子 科技每天都在進步啊</span><span class="push-ipdatetime"> 05/30 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">testutw</span><span class="f3 push-content">: 跟台語一樣不是工具低賤而是用的人低賤</span><span class="push-ipdatetime"> 05/30 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">badbadook</span><span class="f3 push-content">: 懶叫會癢的概念</span><span class="push-ipdatetime"> 05/30 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jogan</span><span class="f3 push-content">: 最後都轉職PM</span><span class="push-ipdatetime"> 05/30 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 太中肯</span><span class="push-ipdatetime"> 05/30 13:43
+</span></div><span class="f2">※ 編輯: sysstat (114.42.47.249), 05/30/2017 13:45:59
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bronco5229</span><span class="f3 push-content">: 幫QQ</span><span class="push-ipdatetime"> 05/30 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">G888888</span><span class="f3 push-content">: 就是想當專業的碼農</span><span class="push-ipdatetime"> 05/30 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dexdey</span><span class="f3 push-content">: 程式技術是無法保值的知識 無法像其他行業越用越輕鬆</span><span class="push-ipdatetime"> 05/30 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kai6366</span><span class="f3 push-content">: 專業推</span><span class="push-ipdatetime"> 05/30 13:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckvir</span><span class="f3 push-content">: 看不懂跟github有啥關係</span><span class="push-ipdatetime"> 05/30 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzzz8931</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/30 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yesyesyesyes</span><span class="f3 push-content">: 是啊  程式的框架變動很快  不可能一輩子就是這樣</span><span class="push-ipdatetime"> 05/30 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">douglasjs</span><span class="f3 push-content">: 錯了，升上去的都是嘴砲王，不用演算法是因為沒人在乎</span><span class="push-ipdatetime"> 05/30 16:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496122717.A.BD3.html?cacheKey=2052-2420789&offset=3525&offset-sig=bc89be7a3521d5a11b3c98c90c9b1f70dfae85f4" data-longpollurl="/v1/longpoll?id=966cc4760c34090ca17ad95320b3243dc00e40ea" data-offset="3525"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,293 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495969117.A.01A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 他：年輕人不只缺乏責任感，還很爛 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+ettoday
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 他：年輕人不只缺乏責任感，還很爛">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+ettoday
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495969117.A.01A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495969117.A.01A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">bigtreelife (Tree)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 他：年輕人不只缺乏責任感，還很爛</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 18:58:35 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+ettoday
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+「你領22K要檢討阿」　他：年輕人不只缺乏責任感，還很爛
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+「為什麼人家可以年薪300萬，你在那邊領22K？我們公司還沒開過低於3萬2的薪水，你領
+22K要檢討阿。」台大環工博士畢業，如今是一家工程顧問公司負責人的Argus說，根據自
+己的面試經驗，當下年輕人不僅缺乏責任感，還很爛，奉勸年輕人出社會最重要的是態度
+，「什麼叫很爛？25歲剛畢業的人，最基本的word都不會，碩士畢業爛到一塌糊塗。」
+
+Argus表示，在環工領域，台大碩士畢業的行情約落在3萬8千元到4萬5千元之間，過去面
+試員工時，自己多半會讓對方開薪水，曾有人開出月薪4萬8千元的條件，最後錄取，結果
+程度卻很離譜，「連word用尺規定義都不會，還在用空格排版，一看就是不常寫報告，這
+種人很多，我用過太多了，而且很多是名校的，台清大我都請過這種人，就是該會的都沒
+有會阿，你看台灣的教育爛成這樣子。」
+
+「我都會問：你覺得你應該拿多少？」Argus說，曾遇過台大環工的學弟來面試，開價僅3
+萬3千元，這讓自己嚇一跳，「我就說：你是我學弟耶，你開那麼低，我還不敢用耶。」
+他強調即使對方開高也沒關係，因為《勞基法》雖保障勞工，卻也賦予老闆一項權利──
+資遣，「所以我會照勞基法，在一個月內看他表現，薪水很高沒關係，一個月內我覺得他
+不行就走人。」
+
+「我希望用男生是當過兵的，什麼替代役的，我不太喜歡用。」Argus強調，目前當兵只
+要10個月，如果連役期這麼短都會閃躲的人根本無法培養。一旦錄取，自己會在剛開始的
+1個月內傾囊相授，「但也可能遇到一種狀況，他原本底子實在太爛了，教都教到很累，
+那就沒辦法了，我一定要換掉他。」
+
+談起年輕人低薪的問題，Argus直言，其實社會上年薪達到300萬元的人不少，「為什麼人
+家可以年薪300萬，你在那邊領22K？我們公司還沒開過低於3萬2的薪水，你領22K要檢討
+阿。」他強調，年輕人出社會要成功，50％看學歷、技能，剩下50％是看工作態度，「但
+現在我們發現，年輕人他就是沒有責任感，沒有責任感就算了，他還很爛，什麼叫很爛？
+25歲剛畢業的人，最基本的word都不會，碩士畢業爛到一塌糊塗，間距只會用空格調來調
+去，一本報告看起來很醜，就算教他，回家還是不肯學。」
+
+Argus舉例，自己第一份工作是下水道設計的工程師，必須學會Auto Cad，「我以前很爛
+，是買書回家自己練習，把它搞會，我一個禮拜就變得很厲害。」他說，目前接觸到的年
+輕人卻不然，即使問了作法也是隨便弄，「如果我們要接一個1000萬的公部門案子，我就
+會問，你覺得一個人花1000萬在你身上，然後你交這種東西，過得了嗎？」
+
+Argus直言，對企業而言，年輕人的程度不好沒關係，因為公司一旦錄用員工，就有花錢
+栽培的打算，只怕員工不上進，「如果你又不學的話，那你就沒救啦，因為年輕人都覺得
+企業養自己是應該的，沒去想過這個問題。」
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="http://www.ettoday.net/news/20170528/933535.htm?from=fb_et_news" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170528/933535.htm?from=fb_et_news</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.12.38.209
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495969117.A.01A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495969117.A.01A.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: OK</span><span class="push-ipdatetime"> 05/28 18:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">noreg0393933</span><span class="f3 push-content">: 哭哭</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 只看標題我還以為是蔣友柏</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 你看人家媒體至少會排版</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 我覺得用星座挑員工的老闆比較智障</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goodtim</span><span class="f3 push-content">: 八卦魯宅 準備要連回幾十篇來回應了</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kilof</span><span class="f3 push-content">: 對 好棒棒</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yu1314</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/28 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Handway</span><span class="f3 push-content">: 內文跟標題一樣嗎</span><span class="push-ipdatetime"> 05/28 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l22573729</span><span class="f3 push-content">: 好</span><span class="push-ipdatetime"> 05/28 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">julia66</span><span class="f3 push-content">: word都不會？哪裡找的人才</span><span class="push-ipdatetime"> 05/28 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xxx60133</span><span class="f3 push-content">: 不會應徵台大畢業哦  哦對了  薪水太低</span><span class="push-ipdatetime"> 05/28 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckyBF</span><span class="f3 push-content">: 還好我有32k以上，呼</span><span class="push-ipdatetime"> 05/28 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 環工…開3萬2，要倉管、記帳、打掃、搬貨，還有去和外勞</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willschlafen</span><span class="f3 push-content">: 所以他幾歲</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyBF</span><span class="f3 push-content">: 不過講真的，真的一堆不會用word的......</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">maxsho</span><span class="f3 push-content">: 開太高嫌爛，開的不高又說開那麼低不敢用，都給他說好了</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlueBird5566</span><span class="f3 push-content">: 其實滿中肯的 真的一堆垃圾連excel都不會用</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 年薪300萬的不少？是以總人口來算嗎？還是以主管級。</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 一起住，有問題時你要處理，月休4日；你有本事做再來嗆</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">power7</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/28 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BlueBird5566</span><span class="f3 push-content">: 而且還不少交大清大台大的</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">siemenss</span><span class="f3 push-content">: 畢業季到了 打壓年輕人文章又出現了 幫QQ</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">legendrl</span><span class="f3 push-content">: 聲…地點在彰化某地</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fghj142</span><span class="f3 push-content">: 全台灣正常工時不輪班月薪超過4萬的你以為很多嗎</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: 如果你有中文名字，就堂堂正正地用</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tentaikanso</span><span class="f3 push-content">: 看到要常備役畢的就知道不用看了，當過兵是什麼能力</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chuegou</span><span class="f3 push-content">: 就4你開的薪水連會word的也找不到阿</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">teremy</span><span class="f3 push-content">: 這文真廢 到底有沒這公司 這老闆都是問題</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tentaikanso</span><span class="f3 push-content">: 保證嗎？</span><span class="push-ipdatetime"> 05/28 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 其實蠻中肯的</span><span class="push-ipdatetime"> 05/28 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chose</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/28 19:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Omara</span><span class="f3 push-content">: 奇怪，為什麼我上司都要我這個爛年輕人教怎麼用word?</span><span class="push-ipdatetime"> 05/28 19:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chocopoodle</span><span class="f3 push-content">: 好爽ㄛ</span><span class="push-ipdatetime"> 05/28 19:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tribula</span><span class="f3 push-content">: 你說會培養員工  幹嘛又嫌人不會用word</span><span class="push-ipdatetime"> 05/28 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlueBird5566</span><span class="f3 push-content">: 當兵是不用什麼能力 不過連11個月兵都要逃的確實沒</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 你覺得一個人花兩億在你身上,然後你交出夢想家,受得了嗎?</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyBF</span><span class="f3 push-content">: 一堆主管也不會用word也是事實XD</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 誰啊 不會訓練員工就說阿 哈哈 整天怪東怪西的</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pttenjk</span><span class="f3 push-content">: 台灣賤畜群幹啥 重播舊爛聞</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BlueBird5566</span><span class="f3 push-content">: 什麼能力</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LOVEEE5566</span><span class="f3 push-content">: 碩班 領38k QQ</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winglight</span><span class="f3 push-content">: 會這樣這都是老一輩教的啊</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 另外1000萬根本算小案子，cad圖在裡面，有時候開價根本一</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 大家都知道受不了,卻有人一被打臉就狂噓這篇</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arcc</span><span class="f3 push-content">: 還真敢說阿還不是你自己面進來的XDD</span><span class="push-ipdatetime"> 05/28 19:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 張才1~2000，你和我說是要做得多漂亮呀？除非專職設計，</span><span class="push-ipdatetime"> 05/28 19:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fghj142</span><span class="f3 push-content">: 當兵有用喔？我退伍出來什麼都忘光還要重學，國軍毀人不</span><span class="push-ipdatetime"> 05/28 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fghj142</span><span class="f3 push-content">: 倦</span><span class="push-ipdatetime"> 05/28 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yoyun10121</span><span class="f3 push-content">: 如果台清交學生都在練word排版, 這才叫教育爛死了</span><span class="push-ipdatetime"> 05/28 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chanel92</span><span class="f3 push-content">: 不食人間煙火</span><span class="push-ipdatetime"> 05/28 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">l75cm</span><span class="f3 push-content">: 會word能幹嘛？值錢的是腦子，不是工具</span><span class="push-ipdatetime"> 05/28 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 不然1500塊才一日薪，是希望非專職做多漂亮。</span><span class="push-ipdatetime"> 05/28 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 其實office還是有必要，但是請排在高中教程裡。</span><span class="push-ipdatetime"> 05/28 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 企業真的很多新進的人像他講的那麼爛有沒心學</span><span class="push-ipdatetime"> 05/28 19:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LOVEEE5566</span><span class="f3 push-content">: 不過你自己面進來的 怪我囉 不會找願意學的喔</span><span class="push-ipdatetime"> 05/28 19:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 態度差不願學的人比以前多也是事實</span><span class="push-ipdatetime"> 05/28 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 其實環工要求office是有必要，但是那個可以考證照，如果</span><span class="push-ipdatetime"> 05/28 19:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce2248</span><span class="f3 push-content">: 所以只請名校畢業的?</span><span class="push-ipdatetime"> 05/28 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: 一堆老人不會用電腦，怎麼算？</span><span class="push-ipdatetime"> 05/28 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 有需求，可以放在求職要求裡。cad也一樣，然後希望他們肯</span><span class="push-ipdatetime"> 05/28 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">julia66</span><span class="f3 push-content">: 這老闆也太在意排版了 叫個舊檔出來套就好了</span><span class="push-ipdatetime"> 05/28 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 出相關證照的金額，不要進去才要那些人學東學西。</span><span class="push-ipdatetime"> 05/28 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tin123210</span><span class="f3 push-content">: 沒差，愛講就講，大家一起擺爛</span><span class="push-ipdatetime"> 05/28 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LOVEEE5566</span><span class="f3 push-content">: 不過 台大三類的研究所 不ey</span><span class="push-ipdatetime"> 05/28 19:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dan5120</span><span class="f3 push-content">: 老人知道軟體一點小東西就會一直拿出來說嘴 很像很厲害</span><span class="push-ipdatetime"> 05/28 19:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">onixs</span><span class="f3 push-content">: 真的，現在年輕人一堆不會Word的！比40、50歲的還爛！</span><span class="push-ipdatetime"> 05/28 19:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dan5120</span><span class="f3 push-content">: 進職場那些文書和繪圖 大多都碼套格式</span><span class="push-ipdatetime"> 05/28 19:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Chengzer</span><span class="f3 push-content">: 抱怨東抱怨西的慣老闆。別人都能招到人才，就你招不到?</span><span class="push-ipdatetime"> 05/28 19:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Chengzer</span><span class="f3 push-content">: 這樣到底是誰的問題?</span><span class="push-ipdatetime"> 05/28 19:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sellgd</span><span class="f3 push-content">: 我看小冊子排版不是用無格線表格嗎</span><span class="push-ipdatetime"> 05/28 19:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 他只是拿word來舉例吧，主要是在批評一些人的工作心</span><span class="push-ipdatetime"> 05/28 19:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 態</span><span class="push-ipdatetime"> 05/28 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">thank005</span><span class="f3 push-content">: 噢對了，薪水才4萬不到，顆</span><span class="push-ipdatetime"> 05/28 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geesegeese</span><span class="f3 push-content">: 喔，你以為老人不會很爛？特別是老闆</span><span class="push-ipdatetime"> 05/28 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tribula</span><span class="f3 push-content">: 資訊不多 想看看公司名稱跟工作內容</span><span class="push-ipdatetime"> 05/28 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">commissar</span><span class="f3 push-content">: 他你媽雞掰不會直接講喔</span><span class="push-ipdatetime"> 05/28 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">YishengSu</span><span class="f3 push-content">: 既得利益者說話一向很有尊嚴　有錢就是大聲</span><span class="push-ipdatetime"> 05/28 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 環工大多是去做環境工程，看那1000萬的小案子就知道屬於</span><span class="push-ipdatetime"> 05/28 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tctv2002</span><span class="f3 push-content">: Word要學很快拉 他至少給一個月時間給你學了</span><span class="push-ipdatetime"> 05/28 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 工程類居多，這種常常週末加班，你不開30k起跳，沒人做的</span><span class="push-ipdatetime"> 05/28 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 下去。剩下就看他們是先老鳥帶菜鳥，還是丟菜鳥自生自滅</span><span class="push-ipdatetime"> 05/28 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 給菜鳥一台電腦，然後一個範本，叫他改個計畫書出來，這</span><span class="push-ipdatetime"> 05/28 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 種方式就算半年也學不會word。</span><span class="push-ipdatetime"> 05/28 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tctv2002</span><span class="f3 push-content">: 其實可以請老鳥教你 如果一間公司連新人都不願帶</span><span class="push-ipdatetime"> 05/28 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geesegeese</span><span class="f3 push-content">: 年輕人爛領22k,慣老闆爛給員工領22k</span><span class="push-ipdatetime"> 05/28 19:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tctv2002</span><span class="f3 push-content">: 應該也沒有存在的必要</span><span class="push-ipdatetime"> 05/28 19:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yauaia</span><span class="f3 push-content">: 你誰</span><span class="push-ipdatetime"> 05/28 19:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digimaster</span><span class="f3 push-content">: 公部門廠商的案子不都隨便做 不然常常上新聞的豆腐渣</span><span class="push-ipdatetime"> 05/28 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tribula</span><span class="f3 push-content">: 是說你覺得你公司很好子  怎麼還請不到人? 可以請熟手阿</span><span class="push-ipdatetime"> 05/28 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">digimaster</span><span class="f3 push-content">: 工程是怎麼一回事</span><span class="push-ipdatetime"> 05/28 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eemail</span><span class="f3 push-content">: 拿word看是不是人才有夠怪</span><span class="push-ipdatetime"> 05/28 19:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CO2</span><span class="f3 push-content">: 垃圾新聞</span><span class="push-ipdatetime"> 05/28 19:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loui123</span><span class="f3 push-content">: 公司連對方會不會word都不知道還錄取.....</span><span class="push-ipdatetime"> 05/28 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sat182</span><span class="f3 push-content">: 只會製造對立的垃圾新聞</span><span class="push-ipdatetime"> 05/28 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loui123</span><span class="f3 push-content">: 每個年薪百萬的人都會word?</span><span class="push-ipdatetime"> 05/28 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WANIJIMA</span><span class="f3 push-content">: 那麼多字幹嘛 不會寫報告就是爛 一行文就夠了吧</span><span class="push-ipdatetime"> 05/28 19:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jamison04</span><span class="f3 push-content">: 其他爛我是不知道啦，最爛就是這些垃圾新聞</span><span class="push-ipdatetime"> 05/28 19:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mahoro</span><span class="f3 push-content">: 其實還蠻中肯的 點出了現在年輕人的通病</span><span class="push-ipdatetime"> 05/28 19:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Biglottery</span><span class="f3 push-content">: 中肯但不中聽</span><span class="push-ipdatetime"> 05/28 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Chengzer</span><span class="f3 push-content">: 不覺得是年輕人的通病耶，倒覺得是物以類聚</span><span class="push-ipdatetime"> 05/28 19:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shyangwang</span><span class="f3 push-content">: ！</span><span class="push-ipdatetime"> 05/28 19:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IdleLife</span><span class="f3 push-content">: 滿中肯的阿</span><span class="push-ipdatetime"> 05/28 19:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 他你媽 原來現在新聞可以直接用&#34;他&#34;了喔</span><span class="push-ipdatetime"> 05/28 19:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">phaiphai</span><span class="f3 push-content">: 有種就說出公司名字 不要用化名 然後公開公司平均薪資啊</span><span class="push-ipdatetime"> 05/28 19:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dodo577</span><span class="f3 push-content">: 中肯，我親戚是一間上市大公司的人資也講過一樣的話。一</span><span class="push-ipdatetime"> 05/28 19:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dodo577</span><span class="f3 push-content">: 堆爛草莓又不承認活該領低薪</span><span class="push-ipdatetime"> 05/28 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pagan</span><span class="f3 push-content">: 物以類聚，什麼老闆吸引什麼員工，抱怨自己員工爛代表你只</span><span class="push-ipdatetime"> 05/28 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Pagan</span><span class="f3 push-content">: 能雇用到這種等級員工</span><span class="push-ipdatetime"> 05/28 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jaeomes</span><span class="f3 push-content">: 這種都假新聞</span><span class="push-ipdatetime"> 05/28 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yashiro</span><span class="f3 push-content">: 有種一點真名打出來看看是不是真的這麼屌</span><span class="push-ipdatetime"> 05/28 20:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Chengzer</span><span class="f3 push-content">: 吸引不到人才去面試的公司，早點收一收吧！</span><span class="push-ipdatetime"> 05/28 20:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jinnsei</span><span class="f3 push-content">: 這是幹嘛，刷仇恨值?</span><span class="push-ipdatetime"> 05/28 20:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">as820512</span><span class="f3 push-content">: 實話。確實很多人什麼都不會</span><span class="push-ipdatetime"> 05/28 20:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Chengzer</span><span class="f3 push-content">: 重點是，什麼都會的人，並不選擇去這樣的公司面試</span><span class="push-ipdatetime"> 05/28 20:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZC0907</span><span class="f3 push-content">: Word不會用  那是沒有打過報告？</span><span class="push-ipdatetime"> 05/28 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZC0907</span><span class="f3 push-content">: 連這個入門簡單的都不會用，</span><span class="push-ipdatetime"> 05/28 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZC0907</span><span class="f3 push-content">: 那麼Excel VBA之類的就更不用說了。</span><span class="push-ipdatetime"> 05/28 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZC0907</span><span class="f3 push-content">: 被刷掉也是理所當然了。</span><span class="push-ipdatetime"> 05/28 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CrackedVoice</span><span class="f3 push-content">: 我說對方開48k你們還收，不就你們看人也很爛？</span><span class="push-ipdatetime"> 05/28 20:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mpyhacct0443</span><span class="f3 push-content">: Word不會也不太誇張 幻想文？</span><span class="push-ipdatetime"> 05/28 21:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mix5172000</span><span class="f3 push-content">: 我覺得是實話 實話往往不好聽</span><span class="push-ipdatetime"> 06/04 06:01
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495969117.A.01A.html?cacheKey=2052-56115&offset=15435&offset-sig=1e33e52f17970ac8f7a85c2264fedf2a674d2a8a" data-longpollurl="/v1/longpoll?id=90361d85feb3982d823b02d965d3a7002b4849c0" data-offset="15435"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

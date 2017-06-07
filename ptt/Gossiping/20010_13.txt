@@ -1,0 +1,196 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494921610.A.AA7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] HTC重返榮耀 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="沒用
+第一 HTC是中國人的牌子，就是爛
+第二 HTC這種鳥規格，還賣比別人貴，就是爛
+讓我們看一下這規格有多鳥
+螢幕：Quad HD (2560x1440 畫素) Gorilla® 玻璃 5  就是爛
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] HTC重返榮耀">
+<meta property="og:description" content="沒用
+第一 HTC是中國人的牌子，就是爛
+第二 HTC這種鳥規格，還賣比別人貴，就是爛
+讓我們看一下這規格有多鳥
+螢幕：Quad HD (2560x1440 畫素) Gorilla® 玻璃 5  就是爛
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494921610.A.AA7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494921610.A.AA7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">shamanlin (佐藤必須死)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] HTC重返榮耀</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 16:00:07 2017</span></div>
+<span class="f2">※ 引述《ianmon (Martian )》之銘言：
+</span><span class="f6">: 發表新手機拿到DXO史上最高分
+</span><span class="f6">: 雖然手機大了一點
+</span><span class="f6">: 但是靠著相機世界第一有沒有辦法提升股價?
+</span>沒用
+
+第一 HTC是中國人的牌子，就是爛
+
+第二 HTC這種鳥規格，還賣比別人貴，就是爛
+
+讓我們看一下這規格有多鳥
+
+
+螢幕：Quad HD (2560x1440 畫素) Gorilla® 玻璃 5  就是爛
+
+電池：3000mAh 就是爛
+
+CPU：Snapdragon™ 835 就是爛
+
+Edge Sense 側框感應？  這三小？ 好像第一次看到？ 先說爛就對了
+
+防水：IP67 就是爛
+
+沒有耳機孔只有Type-C 這就真的爛了
+
+送主動式抗躁耳機 .......就是爛
+
+雙卡雙待 ....沒三卡就是爛
+
+背面是鏡面的 ....爛
+
+
+價格
+
+64G 居然要高達 19900........不對
+
+我剛剛去官網看一下，現在註冊會員直接送優惠卷
+
+所以64G 居然要高達 <span class="f3 hl">18,900</span> 元
+
+<a href="http://imgur.com/rFs5erD" target="_blank" rel="nofollow">http://imgur.com/rFs5erD</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="rFs5erD"><a href="//imgur.com/rFs5erD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+這規格真的是又貴又爛，果然是others
+
+台灣人趕緊來制裁他
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.51.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494921610.A.AA7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494921610.A.AA7.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kji590929</span><span class="f3 push-content">: 反串失敗</span><span class="push-ipdatetime"> 05/16 16:01
+</span></div>
+馬的誰跟你反串
+
+<a href="http://imgur.com/uX0z8kf" target="_blank" rel="nofollow">http://imgur.com/uX0z8kf</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="uX0z8kf"><a href="//imgur.com/uX0z8kf"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><a href="http://imgur.com/kEJX5P4" target="_blank" rel="nofollow">http://imgur.com/kEJX5P4</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="kEJX5P4"><a href="//imgur.com/kEJX5P4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+這種鏡面真的很醜，還我髮絲紋 or 霧面
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eatingshit</span><span class="f3 push-content">: 韓國都5G了 htㄈ還在出這種機器</span><span class="push-ipdatetime"> 05/16 16:01
+</span></div>U got it!!
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 3000mAh 哪裡爛</span><span class="push-ipdatetime"> 05/16 16:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 電池的確滿爛的～</span><span class="push-ipdatetime"> 05/16 16:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kevin10613</span><span class="f3 push-content">: 無腦黑可以滾了 要酸也有梗或講的出東西再來酸</span><span class="push-ipdatetime"> 05/16 16:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">oldzen</span><span class="f3 push-content">: 反串</span><span class="push-ipdatetime"> 05/16 16:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sean90330</span><span class="f3 push-content">: 反串失敗</span><span class="push-ipdatetime"> 05/16 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 我iPhone才1340mAh</span><span class="push-ipdatetime"> 05/16 16:03
+</span></div><span class="f2">※ 編輯: shamanlin (122.116.51.173), 05/16/2017 16:04:26
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 反串，爛到可憐</span><span class="push-ipdatetime"> 05/16 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 葉佩雯  哀  工讀生的水準真低</span><span class="push-ipdatetime"> 05/16 16:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jfw616</span><span class="f3 push-content">: 真的爛爆了..貼個蘋果就好很多了</span><span class="push-ipdatetime"> 05/16 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AirbusA350</span><span class="f3 push-content">: 除了iphone 其他都=爛 安卓就是糞</span><span class="push-ipdatetime"> 05/16 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rstaue</span><span class="f3 push-content">: 沒梗</span><span class="push-ipdatetime"> 05/16 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">davidqqq</span><span class="f3 push-content">: 公獨升</span><span class="push-ipdatetime"> 05/16 16:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e7660239</span><span class="f3 push-content">: 慘 秀下限繡成這樣qq</span><span class="push-ipdatetime"> 05/16 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winnietslock</span><span class="f3 push-content">: 花一萬九千九買一面鏡子，盤子真的很大方</span><span class="push-ipdatetime"> 05/16 16:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 是說齁 到9樓餐廳拍照發規格廢文有什麼意義？爛手機</span><span class="push-ipdatetime"> 05/16 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">b23053812</span><span class="f3 push-content">: 廢文</span><span class="push-ipdatetime"> 05/16 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Glucophage</span><span class="f3 push-content">: 真廢</span><span class="push-ipdatetime"> 05/16 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">akstyle</span><span class="f3 push-content">: 加油</span><span class="push-ipdatetime"> 05/16 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">david1230</span><span class="f3 push-content">: 電池大成這樣表示電源管理做很差</span><span class="push-ipdatetime"> 05/16 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mirror0103</span><span class="f3 push-content">: 好哦低能的文由低能的人發</span><span class="push-ipdatetime"> 05/16 19:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">episdor</span><span class="f3 push-content">: .....</span><span class="push-ipdatetime"> 05/17 10:05
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494921610.A.AA7.html?cacheKey=2052-37975227&offset=3507&offset-sig=5c4f7fe0a3813e2833e667bf32aa463cb151cc13" data-longpollurl="/v1/longpoll?id=45da304cd8ef032fb060137e552711e9df34d15d" data-offset="3507"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

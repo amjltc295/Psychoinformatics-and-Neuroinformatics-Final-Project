@@ -1,0 +1,280 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496664265.A.C8B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 2025能源 其實是綠電替代基載核電？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="→ qazsedcft: 用愛發電啦                                           06/05 19:28
+→ sligiho: 請問今夏的冷氣電夠嗎？請問台積電3奈米的電在哪？        06/05 19:35
+前一篇寫過了，摘錄如下。
+「
+很簡單，以台電的燃煤燃油燃氣核能四種發電裝置容量來說，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 2025能源 其實是綠電替代基載核電？">
+<meta property="og:description" content="→ qazsedcft: 用愛發電啦                                           06/05 19:28
+→ sligiho: 請問今夏的冷氣電夠嗎？請問台積電3奈米的電在哪？        06/05 19:35
+前一篇寫過了，摘錄如下。
+「
+很簡單，以台電的燃煤燃油燃氣核能四種發電裝置容量來說，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496664265.A.C8B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496664265.A.C8B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">xxyxx (123)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 2025能源 其實是綠電替代基載核電？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 20:04:22 2017</span></div>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazsedcft</span><span class="f3 push-content">: 用愛發電啦</span><span class="push-ipdatetime"> 06/05 19:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 請問今夏的冷氣電夠嗎？請問台積電3奈米的電在哪？</span><span class="push-ipdatetime"> 06/05 19:35
+</span></div>
+前一篇寫過了，摘錄如下。
+
+「
+很簡單，以台電的燃煤燃油燃氣核能四種發電裝置容量來說，
+台電的發電能力從民國99年之後開始不增反減，
+而這是從來沒有過的，從民國35年以來一直都是每年成長，
+但是到了99年之後開始下滑，直到105年新林口一號機上線為止。
+
+民國105年度台電這四種發電機組的裝置容量合計3520.92萬瓩，
+民國99年的時候這個數字是3586.11萬瓩，
+這六年間台電反而失去了65.19萬瓩的發電能力
+
+如果畫成圖大概會長這樣。
+
+<a href="http://i.imgur.com/HjTLlZN.jpg" target="_blank" rel="nofollow">http://i.imgur.com/HjTLlZN.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="HjTLlZN"><a href="//imgur.com/HjTLlZN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+（這張圖包含民營火力發電廠的裝置容量）
+
+這個長時間的停滯，乃至於倒退，
+才是導致這兩年來不斷出現限電危機的原因。
+
+」
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 請問前瞻大量軌道設備電在哪？</span><span class="push-ipdatetime"> 06/05 19:35
+</span></div>
+前一篇提過資料了。
+
+<a href="http://www.taipower.com.tw/content/new_info/images/c40a_img4.png" target="_blank" rel="nofollow">http://www.taipower.com.tw/content/new_info/images/c40a_img4.png</a>
+<div class="richcontent"><img src="http://www.taipower.com.tw/content/new_info/images/c40a_img4.png" alt="" /></div>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 不管在怎麼乾淨，你新蓋更多火發就是會有更多汙染，日</span><span class="push-ipdatetime"> 06/05 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 積月累下你敢保證不會有問題?</span><span class="push-ipdatetime"> 06/05 19:35
+</span></div>
+要這樣無線上綱去講也可以。
+
+一樣這張圖。
+
+<a href="http://www.taipower.com.tw/content/new_info/images/c40a_img4.png" target="_blank" rel="nofollow">http://www.taipower.com.tw/content/new_info/images/c40a_img4.png</a>
+<div class="richcontent"><img src="http://www.taipower.com.tw/content/new_info/images/c40a_img4.png" alt="" /></div>
+上面是未來幾年除役的機組，到116年一共會除役1453.6萬瓩。
+
+核四兩個機組一共只有270萬瓩。
+
+差距1183.6萬瓩。
+
+就算核一核二核三通通延役不除役，那總除役機組也有939.2萬瓩，
+假設核四真的蓋得好可以用也還差669.2萬瓩。
+
+不要火力？
+
+那這個差距怎麼處理？
+
+叫擁核的去踩腳踏車？
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 台灣核能50幾年來，死亡人數零</span><span class="push-ipdatetime"> 06/05 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 但每年上萬人因上呼吸道感染而死，pm2.5吸多了你我都折壽</span><span class="push-ipdatetime"> 06/05 19:36
+</span></div>
+不知道丟過幾次的資料。
+
+<a href="http://tpcjournal.taipower.com.tw/article/index/id/417" target="_blank" rel="nofollow">http://tpcjournal.taipower.com.tw/article/index/id/417</a>
+
+「
+依據環保署統計國內的PM2.5貢獻來源中，境外傳輸占比約43.3%、
+國內排放占比約56.7%（資料來源:行政院環保署104年12月18日於
+「台灣細懸浮微粒（PM2.5）監測與防制」研討會之簡報資料）。
+國內排放源又可細分成大貨車9.53%、餐飲業油煙排放6.13%、
+電力業5.6%、道路揚塵4.97%及自用小客車4.17%等。
+」
+
+要這樣無線上綱建議首先你不要貨車，然後不要餐飲業，接著刨除道路，
+最後消滅自小客車。
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 請問一下蓋在台北市的發電機組在哪裡，我不看蓋在苗栗的蓋</span><span class="push-ipdatetime"> 06/05 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 在桃園的蓋在新北市的，我只問蓋在台北市的發電機組在哪</span><span class="push-ipdatetime"> 06/05 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 裡?</span><span class="push-ipdatetime"> 06/05 19:37
+</span></div>
+不是整天吵都在南電北送都是中南部吸廢氣？
+
+發現其實未來新增在北部比較多之後趕快改成台北市？
+
+跟你講白的啦，真要在台北市蓋火力發電廠我也不在乎，
+不過你可以能先祈禱台電腦袋有洞才會在地價這麼高的地方蓋電廠。
+
+而且台北市其實也有發電機組，焚化爐就是了，正火力，還是燒垃圾的。
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 當別國在轉型新產業的時候，我們台灣還在煩惱岌岌可危的</span><span class="push-ipdatetime"> 06/05 19:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 備轉率</span><span class="push-ipdatetime"> 06/05 19:38
+</span></div>
+沒辦法，歐盟為首先進國家猛衝綠電，台灣一堆擁核認為綠電是屎。
+
+而且...........岌岌可危的運轉率不就是民國99年之後電力發展停頓的結果？
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cat5672</span><span class="f3 push-content">: 如果你也能用這種心態去看待核廢料就好了</span><span class="push-ipdatetime"> 06/05 19:39
+</span></div>
+早寫過了。
+
+<a href="https://www.ptt.cc/bbs/PublicIssue/M.1464875149.A.430.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/PublicIssue/M.1464875149.A.430.html</a>
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 大林就更沒有理由擴建機組，整個高雄市的空氣髒到不行，pm</span><span class="push-ipdatetime"> 06/05 19:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 2.5長年紫爆，結果還增加機組繼續增加pm2.5的總排放量只</span><span class="push-ipdatetime"> 06/05 19:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 為了非核家園?</span><span class="push-ipdatetime"> 06/05 19:43
+</span></div>
+大林是『舊機組更新』。
+
+而且更新後不管效率還是排污都有大幅改善。
+
+有時候很懶得理某些擁核就是這樣，基本資料不查光出嘴。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.230.46.40
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496664265.A.C8B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496664265.A.C8B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tryagain24</span><span class="f3 push-content">: 飯盒如果在天氣最熱的時候去遊行應該ㄅ錯ㄛ</span><span class="push-ipdatetime"> 06/05 20:13
+</span></div>
+不管氣溫幾度都辦不出遊行的在指責什麼？
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 舊機組更新還不是會有碳排放問題產生</span><span class="push-ipdatetime"> 06/05 20:14
+</span></div>
+要這樣無限上綱首先不要工業，接下來不要畜牧業，然後乾脆自殺。
+
+不過自殺後要考慮一下遺體保存問題，因為腐化也會排碳。
+<span class="f2">※ 編輯: xxyxx (61.230.46.40), 06/05/2017 20:17:33
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 104～105年增加330萬噸怎沒看你出來嘴</span><span class="push-ipdatetime"> 06/05 20:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gca00631</span><span class="f3 push-content">: 更新後污染會比較少,不至於有人連更新也反對吧?</span><span class="push-ipdatetime"> 06/05 20:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cat5672</span><span class="f3 push-content">: 核廢料相較之下是集中汙染 我意思是看待污染的心態</span><span class="push-ipdatetime"> 06/05 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 1萬3千頃的大安森林公園先生出來喔</span><span class="push-ipdatetime"> 06/05 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 在怎麼更新機組,碳排放還是無解問題</span><span class="push-ipdatetime"> 06/05 20:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winston81120</span><span class="f3 push-content">: 永和的才不會跟你上街頭感性訴求</span><span class="push-ipdatetime"> 06/05 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">seal998</span><span class="f3 push-content">: 火力的廢氣危害最好只有pm2.5，白痴</span><span class="push-ipdatetime"> 06/05 20:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 還有因應核電廠陸續除役，今台電新增五部火力發電機組，</span><span class="push-ipdatetime"> 06/05 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 燃煤機組為林口2號機、大林1號</span><span class="push-ipdatetime"> 06/05 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 機，總裝置容量160萬瓩；燃氣機組為通霄1號機、2部大潭緊</span><span class="push-ipdatetime"> 06/05 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 急發電機組，總裝置容量150</span><span class="push-ipdatetime"> 06/05 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 萬瓩。本報日前報導，上述機組滿載發電一天，就會排放456</span><span class="push-ipdatetime"> 06/05 20:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 6.24萬公斤二氧化碳。</span><span class="push-ipdatetime"> 06/05 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 哦 所以99年以後火力沒成長 那現在反核反個屁?</span><span class="push-ipdatetime"> 06/05 20:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 火力沒成長 然後要廢核 恩 很好</span><span class="push-ipdatetime"> 06/05 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 擁核≠反火 扯一起?????</span><span class="push-ipdatetime"> 06/05 20:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 無限上綱?那你怎麼不說反核吵核電廠核災是無限上綱</span><span class="push-ipdatetime"> 06/05 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fredjedi</span><span class="f3 push-content">: 反核才2年就多了1300餘棟101大小的二氧化碳~ 核廢料呢</span><span class="push-ipdatetime"> 06/05 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fredjedi</span><span class="f3 push-content">: 先進國家有陸域電網.有自產能源.我們有甚麼.你認購綠電?</span><span class="push-ipdatetime"> 06/05 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 永和並不是覺得綠電是屎，但是現實就是用綠電來取代火</span><span class="push-ipdatetime"> 06/05 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 電跟核電現階段就是不切實際的想法。你如果說政府真的</span><span class="push-ipdatetime"> 06/05 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 有認真在投資搞綠電也就算了，前瞻計畫裡面綠電能的投</span><span class="push-ipdatetime"> 06/05 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 資多少?答案是3%你覺得這能研發出什麼東西?</span><span class="push-ipdatetime"> 06/05 21:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 再來你上一篇講軍隊也很好笑。戰機電子系統不用電?戰艦</span><span class="push-ipdatetime"> 06/05 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 雷達不用電?戰車電腦瞄準不用電?基地防空雷達不用電?別</span><span class="push-ipdatetime"> 06/05 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex94539</span><span class="f3 push-content">: 鬧行不?</span><span class="push-ipdatetime"> 06/05 21:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 飯盒真的目光如豆</span><span class="push-ipdatetime"> 06/05 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 台北人要用火力發電那就用自己的地蓋電廠廢氣自己吸電費</span><span class="push-ipdatetime"> 06/05 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 自己繳，我希望的事情就那麼簡單，發電成本高地價成本高</span><span class="push-ipdatetime"> 06/05 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 那也都是台北人的事，我就是不爽中南部人幫台北那些人吸廢</span><span class="push-ipdatetime"> 06/05 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 氣，沒有發電方式是完全無害無汙染的，要用電後果就自己</span><span class="push-ipdatetime"> 06/05 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 擔</span><span class="push-ipdatetime"> 06/05 22:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 我不反核也不反火，我只希望把別人倒出來的垃圾丟回去，</span><span class="push-ipdatetime"> 06/05 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 中南部不是台北人的垃圾場，自己的垃圾自己解決，不能解決</span><span class="push-ipdatetime"> 06/05 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 就不要用電</span><span class="push-ipdatetime"> 06/05 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 等台北大限電的時候就會清塊土地出來跪求臺電來蓋電廠了，</span><span class="push-ipdatetime"> 06/05 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vm4m06</span><span class="f3 push-content">: 根本不需要臺電來幫台北人找地</span><span class="push-ipdatetime"> 06/05 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teyurd</span><span class="f3 push-content">: 全台灣幾乎每個縣市都有電廠, 就台北市沒有</span><span class="push-ipdatetime"> 06/05 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teyurd</span><span class="f3 push-content">: 他還是全台灣人均用電最高的地方</span><span class="push-ipdatetime"> 06/05 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chx64</span><span class="f3 push-content">: 我看沒幾個擁核搞懂或是清楚個大概知道&#34;大林蒲&#34;是個什麼地</span><span class="push-ipdatetime"> 06/07 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chx64</span><span class="f3 push-content">: 方什麼區域  就先噴大林電廠 頗ㄏ</span><span class="push-ipdatetime"> 06/07 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chx64</span><span class="f3 push-content">: 如果他們知道&#34;大林蒲&#34;是什麼地方 他們還有臉噴&#34;更新機組&#34;</span><span class="push-ipdatetime"> 06/07 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chx64</span><span class="f3 push-content">: 那就真的很沒良心  不過我比較覺得是沒腦就是了</span><span class="push-ipdatetime"> 06/07 02:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496664265.A.C8B.html?cacheKey=2052-2394728&offset=8737&offset-sig=0952a96e1071649c8f5f5044f84de0dd3880f4ec" data-longpollurl="/v1/longpoll?id=d0e6142846e0b0eecc9948c80d69ce7c3deb8f25" data-offset="8737"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

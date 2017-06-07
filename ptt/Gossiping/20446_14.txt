@@ -1,0 +1,185 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495206222.A.482.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 把國文科一半的時間拿來學python怎麼樣 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="  國文科
+  台灣最大主科
+  時數最長
+  從小到大 全程規劃
+  但是呢 從中學開始 就是單元劇式的教法了 可以跳著上 趴著上 沒啥銜接問題
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 把國文科一半的時間拿來學python怎麼樣">
+<meta property="og:description" content="  國文科
+  台灣最大主科
+  時數最長
+  從小到大 全程規劃
+  但是呢 從中學開始 就是單元劇式的教法了 可以跳著上 趴著上 沒啥銜接問題
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495206222.A.482.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495206222.A.482.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">gino0717 (gino0717)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 把國文科一半的時間拿來學python怎麼樣</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 23:03:40 2017</span></div>
+
+  國文科
+
+  台灣最大主科
+
+  時數最長
+
+  從小到大 全程規劃
+
+  但是呢 從中學開始 就是單元劇式的教法了 可以跳著上 趴著上 沒啥銜接問題
+
+
+  現在
+
+  說要國小納入程式語言
+
+  程式語言百百種，邏輯各不相同
+
+  叫全部的學生學C++又太那個了
+
+
+  但是呢
+
+  python
+
+  大家都愛的python
+
+  尤其是google最愛的python
+
+  好吃新奇又好玩
+
+  什麼都能寫 輕鬆簡單
+
+  把國中課的時數拿一半來上python
+
+  沒病治病 有病強身
+
+  大家說
+
+  好噗好!
+
+
+--
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ROCSimonLiu</span><span class="f3 push-content">:博士虐貓，碩士約砲，學士射精在飲料，校友正在蹲苦窯</span><span class="push-ipdatetime">05/30 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ROCSimonLiu</span><span class="f3 push-content">:教授作帳假發票，職業學生看報紙才知道。</span><span class="push-ipdatetime">05/30 00:43
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.124.96
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495206222.A.482.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495206222.A.482.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 沒用</span><span class="push-ipdatetime"> 05/19 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chouvincent</span><span class="f3 push-content">: 臭</span><span class="push-ipdatetime"> 05/19 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 我高中電腦課真的有c++</span><span class="push-ipdatetime"> 05/19 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ANiZan9991</span><span class="f3 push-content">: 上課都在連線吧，學三小</span><span class="push-ipdatetime"> 05/19 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 無聊 還不如拿去讀四書五經</span><span class="push-ipdatetime"> 05/19 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 程式學好以後至少可以當碼農  國文？我呸</span><span class="push-ipdatetime"> 05/19 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">holydc</span><span class="f3 push-content">: python 什麼垃圾，javascript 才好用</span><span class="push-ipdatetime"> 05/19 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 會語法又沒用最後還是數學</span><span class="push-ipdatetime"> 05/19 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: gdp會破3 台幣換美金1:1</span><span class="push-ipdatetime"> 05/19 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Grothendieck</span><span class="f3 push-content">: 國文能吃高中妹 python?</span><span class="push-ipdatetime"> 05/19 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffrey9120</span><span class="f3 push-content">: 一堆科目沒在用的 不就浪費時間</span><span class="push-ipdatetime"> 05/19 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: 我認為 perl 是最強的語言，其它都應該廢除。</span><span class="push-ipdatetime"> 05/19 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerrysun1107</span><span class="f3 push-content">: 高中時的電腦課在寫VB.....</span><span class="push-ipdatetime"> 05/19 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">casd82</span><span class="f3 push-content">: 邏輯各不相同？</span><span class="push-ipdatetime"> 05/19 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">filaac</span><span class="f3 push-content">: c才是最實用的</span><span class="push-ipdatetime"> 05/19 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yogurt0313</span><span class="f3 push-content">: 會一堆人在玩遊戲</span><span class="push-ipdatetime"> 05/19 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a2470abc</span><span class="f3 push-content">: scretch表示：</span><span class="push-ipdatetime"> 05/20 02:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lysimach</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/20 05:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s860134</span><span class="f3 push-content">: 食用阿</span><span class="push-ipdatetime"> 05/21 13:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bearq258</span><span class="f3 push-content">: 學中文大概就是當記者，公務人員，法官，律師之類所以台</span><span class="push-ipdatetime"> 05/21 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bearq258</span><span class="f3 push-content">: 灣生態不多說</span><span class="push-ipdatetime"> 05/21 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nges10310</span><span class="f3 push-content">: VB6.0</span><span class="push-ipdatetime"> 05/21 14:17
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495206222.A.482.html?cacheKey=2052-35586996&offset=3122&offset-sig=39f65fda3cddb5b6e1a9be0484d88eed1f9dfbb0" data-longpollurl="/v1/longpoll?id=715bc18ba32dd8bb3013db3456b7be90c47d7c70" data-offset="3122"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

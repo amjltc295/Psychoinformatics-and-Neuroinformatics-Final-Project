@@ -1,0 +1,221 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496378286.A.EA7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 核一2號機跳機 台電不排除直接停役 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+核一2號機跳機 台電不排除直接停役
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 核一2號機跳機 台電不排除直接停役">
+<meta property="og:description" content="1.媒體來源:
+中央社
+2.完整新聞標題:
+核一2號機跳機 台電不排除直接停役
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496378286.A.EA7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496378286.A.EA7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">yu1164 (鮪魚罐頭)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 核一2號機跳機 台電不排除直接停役</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 12:38:03 2017</span></div>
+
+1.媒體來源:
+
+中央社
+
+2.完整新聞標題:
+
+核一2號機跳機 台電不排除直接停役
+
+3.完整新聞內文:
+
+發稿時間：2017/06/02 12:24 最新更新：2017/06/02 12:28
+
+    基隆北海岸大豪雨造成台電1座輸電塔傾倒，連帶使得核一廠2號機電力無法輸送而跳
+機，須待天氣好轉再評估是否起動，不排除直接停役可能性。圖為台電公司第一核能發電
+廠區2號機控制室。（中央社檔案照片）
+
+   （中央社記者黃麗芸台北2日電）基隆北海岸大豪雨造成台電1座輸電塔傾倒，連帶使
+得核一廠2號機電力無法輸送而跳機，須待天氣好轉再評估是否起動，不排除直接停役可
+能性，粗估對本週供電影響不大。
+
+    中央氣象局今天上午最新天氣警報，北部大豪雨升級，基隆市與新北市有超大豪雨產
+生。台電發言人林德福受訪表示，受到新北市金山、三芝豪大雨影響，造成山坡上1座輸
+電鐵塔傾倒，進而連帶影響核一廠2號機電力無法輸送，於今早10時13分因啟動保護機制
+而自動跳機，但反應爐和發電器都安全無虞。
+
+    由於核一廠2號機目前維持75%功率運轉，預計降載運轉至6月10、11日左右，屆時將
+無燃料可燒，加上面臨燃料池爆滿情況，將停機、歲修。林德福說，目前仍無法確定「是
+否」以及「何時再啟動」核一廠2號機，必須先等天氣轉晴後，進行調查評估後再做決定
+。
+
+    外界關切後續供電狀況，林德福指出，近日都是降雨天氣，氣溫下降、用電量減少，
+核一廠2號機停機在6月11日前的供電影響不大。至於核一廠2號機是否有可能直接進入停
+役狀態？林德福說，目前仍無法定案，但不排除可能性。
+
+    台灣3座核電廠6部機組，目前僅核三廠1號機正常運轉。核一廠1號機、核二廠兩台機
+組及核三廠2號機現均處於暫停運轉狀態；降載運轉的核一廠2號機今天受豪大雨影響電塔
+倒而停機。
+
+    另外，核二廠1號機裝載池改裝案昨提出再起動臨界申請，若一切順利的話，預估6月
+中以前可併聯發電；核三廠2號機更換受損組件案也經行政院原能會審查通過，預計最快6
+月上、中旬併聯發電。1060602
+
+4.完整新聞連結:
+
+<a href="https://goo.gl/klfH2O" target="_blank" rel="nofollow">https://goo.gl/klfH2O</a>
+
+5.備註:
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.159.100.182
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496378286.A.EA7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496378286.A.EA7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jschen01711</span><span class="f3 push-content">: 用愛發電!!</span><span class="push-ipdatetime"> 06/02 12:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fishlinghu</span><span class="f3 push-content">: 1-2</span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">koxinga</span><span class="f3 push-content">: 反核:掌聲鼓勵</span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OrzOGC</span><span class="f3 push-content">: 用愛發電啦</span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 都停啊 順那些反核的意</span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">:  <a href="http://i.imgur.com/dJ8Di9R.jpg" target="_blank" rel="nofollow">http://i.imgur.com/dJ8Di9R.jpg</a></span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="dJ8Di9R"><a href="//imgur.com/dJ8Di9R"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo921080931</span><span class="f3 push-content">: 1-2</span><span class="push-ipdatetime"> 06/02 12:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Galm</span><span class="f3 push-content">: 我永和的也鼓掌啊 等著看好戲</span><span class="push-ipdatetime"> 06/02 12:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ipadmini6</span><span class="f3 push-content">: 幹！停役是想害小英嚇到漏尿嗎？</span><span class="push-ipdatetime"> 06/02 12:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 趕快停,我要看第二次大停電</span><span class="push-ipdatetime"> 06/02 12:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xcvfrd</span><span class="f3 push-content">: 核三那台順便停了吧 等著看好戲</span><span class="push-ipdatetime"> 06/02 12:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mradult</span><span class="f3 push-content">: 台灣不缺電，都停，都可以停</span><span class="push-ipdatetime"> 06/02 12:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fallheart</span><span class="f3 push-content">: 好，吹20度冷氣反核支持快停</span><span class="push-ipdatetime"> 06/02 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rossi0124</span><span class="f3 push-content">: 快限電，我要看好戲</span><span class="push-ipdatetime"> 06/02 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1277034</span><span class="f3 push-content">: 從小到大停了幾次，沒在怕的，停吧，我有滿滿的愛</span><span class="push-ipdatetime"> 06/02 12:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 沒人敢報總統府現在冷氣開幾度 我猜20</span><span class="push-ipdatetime"> 06/02 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hkai</span><span class="f3 push-content">: 停吧 快停吧 在看7、8月政府要怎麼辦</span><span class="push-ipdatetime"> 06/02 12:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 飯盒雞嘴變鴨嘴的時候到了XD</span><span class="push-ipdatetime"> 06/02 12:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bigloser5566</span><span class="f3 push-content">: 我擁核 支持快停 我要看反核限電時會怎麼說！那轉彎</span><span class="push-ipdatetime"> 06/02 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bigloser5566</span><span class="f3 push-content">: 的嘴臉一定很好笑！</span><span class="push-ipdatetime"> 06/02 12:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chuegou</span><span class="f3 push-content">: 快停 去南部蓋一堆火力電廠 增加就業機會</span><span class="push-ipdatetime"> 06/02 12:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hades80510</span><span class="f3 push-content">: 都挑在夏天反核團體都不會上街的那種時間</span><span class="push-ipdatetime"> 06/02 12:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hades80510</span><span class="f3 push-content">: 這一定是國民黨的陰謀</span><span class="push-ipdatetime"> 06/02 12:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ed78617</span><span class="f3 push-content">: 快來個黑燈吧</span><span class="push-ipdatetime"> 06/02 12:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ororzzz</span><span class="f3 push-content">: 反核高潮</span><span class="push-ipdatetime"> 06/02 12:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DudeFromMars</span><span class="f3 push-content">: 空心菜：我繼續吹冷氣，賤民們不准開，要綠能節能</span><span class="push-ipdatetime"> 06/02 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">violetking</span><span class="f3 push-content">: 蔡英文：執政後保證不缺電<a href="http://tinyurl.com/qde5u6j" target="_blank" rel="nofollow">http://tinyurl.com/qde5u6j</a></span><span class="push-ipdatetime"> 06/02 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 用愛發電，用想像力發電</span><span class="push-ipdatetime"> 06/02 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">proprome</span><span class="f3 push-content">: 台電又在威脅了</span><span class="push-ipdatetime"> 06/02 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maplefog</span><span class="f3 push-content">: 就直接停役最好</span><span class="push-ipdatetime"> 06/02 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hideho</span><span class="f3 push-content">: 我相信英文，就算雨天冷氣照開20度</span><span class="push-ipdatetime"> 06/02 12:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chunfo</span><span class="f3 push-content">: 新的不給用舊的繼續操</span><span class="push-ipdatetime"> 06/02 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 蔡英文說保證不缺電，林北冷暖氣開好開滿XD</span><span class="push-ipdatetime"> 06/02 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackie0804</span><span class="f3 push-content">: 反核高潮</span><span class="push-ipdatetime"> 06/02 12:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">erikanofann</span><span class="f3 push-content">: 覺青高潮射到台北淹大水啦</span><span class="push-ipdatetime"> 06/02 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GooglePixel</span><span class="f3 push-content">: 反核高潮 出來罵台電恐嚇</span><span class="push-ipdatetime"> 06/02 13:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andypan</span><span class="f3 push-content">: 台中火力發電髒空氣吸好吸滿</span><span class="push-ipdatetime"> 06/02 13:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rkb84</span><span class="f3 push-content">: 臺電:低調不搞智慧電網電表,轉移焦點到缺電,綠能好了也沒</span><span class="push-ipdatetime"> 06/02 13:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LianD</span><span class="f3 push-content">: 你看看 正常運轉中的才一台 還不是好好的 根本不缺電阿</span><span class="push-ipdatetime"> 06/02 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kanonehilber</span><span class="f3 push-content">: 快停 耶 反核覺青不用電</span><span class="push-ipdatetime"> 06/02 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pony666</span><span class="f3 push-content">: 編劇很符合時事耶 金鐘拿定了 有沒有考慮出電影版報個影</span><span class="push-ipdatetime"> 06/02 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 保證不缺點，就是拿人民的命開玩笑，強迫運轉對吧，呵呵</span><span class="push-ipdatetime"> 06/02 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">discoveryray</span><span class="f3 push-content">: 停 都停 都可以停</span><span class="push-ipdatetime"> 06/02 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: 看 好安全的</span><span class="push-ipdatetime"> 06/02 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gotornado</span><span class="f3 push-content">: 快點停役拉 我想看看政府反核人士如何用愛發電</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vic916</span><span class="f3 push-content">: 天灰灰 太陽能應該很少吧 核能又剩一部 但沒限電耶！</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lbowlbow</span><span class="f3 push-content">: 天氣不好的話冷氣開的少，比較沒有夏日尖峰的問題</span><span class="push-ipdatetime"> 06/02 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">weed222</span><span class="f3 push-content">: 台電又再恐嚇了</span><span class="push-ipdatetime"> 06/02 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bunnyer</span><span class="f3 push-content">: 不是可以用愛發電?</span><span class="push-ipdatetime"> 06/02 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wind18</span><span class="f3 push-content">: 停，連核三都停一停好了，反正飯盒不是說沒核電也夠用嗎?</span><span class="push-ipdatetime"> 06/02 18:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimi123467</span><span class="f3 push-content">: 立刻停掉，我要看大跳電</span><span class="push-ipdatetime"> 06/02 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 不喜歡空汙或不喜歡核廢料都應共同來發展綠電 把火力</span><span class="push-ipdatetime"> 06/03 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 核電逐步取代掉才是唯一解  ！ 這幾個id 口吻論點都相</span><span class="push-ipdatetime"> 06/03 08:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 似 每天狂發仇恨反核人士文章</span><span class="push-ipdatetime"> 06/03 08:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">revorea</span><span class="f3 push-content">: 停停停，快點停！！哈哈哈，我要看全台大跳電</span><span class="push-ipdatetime"> 06/03 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">revorea</span><span class="f3 push-content">: 核能綠能又不衝突，廢核的缺口也是火力來補，干綠能鳥事</span><span class="push-ipdatetime"> 06/03 11:50
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496378286.A.EA7.html?cacheKey=2052-1006084&offset=7616&offset-sig=3df79559f42a7a035405f3fb980ca584404bbbba" data-longpollurl="/v1/longpoll?id=b10b06bfcd2bde2868870ef568ad92e2cc269e73" data-offset="7616"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

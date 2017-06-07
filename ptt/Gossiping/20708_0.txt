@@ -1,0 +1,199 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495418148.A.44F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有哪些現象是小時候會有，但長大就沒有了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="大家不知道有沒有這種經驗
+一些在小時候會有的現象，但長大之後反倒不會出現
+我舉兩個本人的例子
+1. 大便的情況
+小時候曾經有大出一條很大的大便
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有哪些現象是小時候會有，但長大就沒有了">
+<meta property="og:description" content="大家不知道有沒有這種經驗
+一些在小時候會有的現象，但長大之後反倒不會出現
+我舉兩個本人的例子
+1. 大便的情況
+小時候曾經有大出一條很大的大便
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495418148.A.44F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495418148.A.44F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">filmystery (與524正面對決的男人)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有哪些現象是小時候會有，但長大就沒有了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 09:55:41 2017</span></div>
+大家不知道有沒有這種經驗
+一些在小時候會有的現象，但長大之後反倒不會出現
+
+我舉兩個本人的例子
+
+1. 大便的情況
+
+小時候曾經有大出一條很大的大便
+(我記憶中有兩三次)
+堵住馬桶導致馬桶不通
+(大約國中小時期)
+
+但我長大後
+反倒沒有出現過這樣的現象
+
+但是我覺得很怪
+大人拉出來的大便不應該會更大嗎?
+結果反倒沒有阻塞住馬桶??
+
+還是我的飲食習慣變好才會這樣??
+(我小時候不喜歡吃水果，現在幾乎天天一顆檸檬)
+如果是因為飲食習慣變好
+那這個現象就稱不上奇怪了
+
+
+2. 睡眠的情況
+
+我以前有過躺在床的右側
+結果隔天起來
+整個人移動到在床的另外一側
+(很明顯整個人移動了)
+
+小時候這樣的情況很多
+我記得有四五次
+
+但等我長大以後
+大概從大學之後
+(沒特別去記)
+就再也沒出現過這種大範圍位移的情況
+最多就是躺著睡，醒來變側睡的姿態
+
+
+不知道大家有沒有類似的情況??
+
+
+
+--
+川普與習大大的對談，告訴你
+對美國來說，中國跟台灣哪個比較重要
+<a href="https://youtu.be/86T5E7PDsyQ" target="_blank" rel="nofollow">https://youtu.be/86T5E7PDsyQ</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/86T5E7PDsyQ" frameborder="0" allowfullscreen></iframe></div></div></div>
+《讓子彈飛》某經典橋段完美演繹美中台三方關係
+<a href="https://www.ptt.cc/bbs/HatePolitics/M.1480754758.A.375.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/HatePolitics/M.1480754758.A.375.html</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.118.54.213
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495418148.A.44F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495418148.A.44F.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SidMax</span><span class="f3 push-content">: 小時候有跟女生講話</span><span class="push-ipdatetime"> 05/22 09:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yohooooooo</span><span class="f3 push-content">: 我本來有子宮 有一次腸胃炎拉掉了 後來開始長雞雞</span><span class="push-ipdatetime"> 05/22 09:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 小時候會勃起 掌大之後就沒有了</span><span class="push-ipdatetime"> 05/22 09:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SidMax</span><span class="f3 push-content">: 小時候看的到雞雞</span><span class="push-ipdatetime"> 05/22 09:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">balahaha</span><span class="f3 push-content">: 你的大腸通道變小了 可能有值得注意的東西</span><span class="push-ipdatetime"> 05/22 09:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 勃起</span><span class="push-ipdatetime"> 05/22 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 肥宅小時候瘦,長大就回不去了</span><span class="push-ipdatetime"> 05/22 09:57
+</span></div>
+XD，結果沒人認真回XD
+
+<span class="f2">※ 編輯: filmystery (122.118.54.213), 05/22/2017 09:57:43
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 挫青屎</span><span class="push-ipdatetime"> 05/22 09:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alwayskid</span><span class="f3 push-content">: 1樓 QQ</span><span class="push-ipdatetime"> 05/22 09:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadow0326</span><span class="f3 push-content">: 晨勃</span><span class="push-ipdatetime"> 05/22 10:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">king72433</span><span class="f3 push-content">: 國中射精距離兩公尺 現在都滴到腳</span><span class="push-ipdatetime"> 05/22 10:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lycoris1290</span><span class="f3 push-content">: 小時候不中二，長大後開始中二</span><span class="push-ipdatetime"> 05/22 10:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michellehot</span><span class="f3 push-content">: 小時候沒奶 長大變D奶肥宅</span><span class="push-ipdatetime"> 05/22 10:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kouson</span><span class="f3 push-content">: 第1點 你要多注意飲食了 是男人都該注意大腸病變</span><span class="push-ipdatetime"> 05/22 10:04
+</span></div>
+我文中的情況跟大腸病變有關??
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwvvkai</span><span class="f3 push-content">: 夢想</span><span class="push-ipdatetime"> 05/22 10:07
+</span></div>
+好哀傷的答案OTZ
+
+<span class="f2">※ 編輯: filmystery (122.118.54.213), 05/22/2017 10:08:42
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elacon</span><span class="f3 push-content">: 好時候正妹會抱你親你，長大後就別提了</span><span class="push-ipdatetime"> 05/22 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gsw1728</span><span class="f3 push-content">: 很恐怖喲，眼角飄黑影...</span><span class="push-ipdatetime"> 05/22 11:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackwula9211</span><span class="f3 push-content">: ATNR反射(？</span><span class="push-ipdatetime"> 05/22 12:54
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495418148.A.44F.html?cacheKey=2052-35727484&offset=3206&offset-sig=b03bfe8588ae568724090d69b340428bdb362198" data-longpollurl="/v1/longpoll?id=0b048eeb3829f67f1e0a81026d3c5357a064feae" data-offset="3206"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

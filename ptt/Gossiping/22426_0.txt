@@ -1,0 +1,166 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496548808.A.B30.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 豪雨強灌全台 勞動部：外送人員可拒絕外 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="https://udn.com/news/story/7269/2501661
+豪雨強灌全台 勞動部：外送人員可拒絕外送
+豪雨持續強灌全台，雲林、嘉義也已停班課，其餘尚未停班課地區，職安署提醒，依據職
+安法，勞工若發現執行勤務時，有立即危險，在不影響其他工作者安全情況下，可自先退
+避至安全場所，再向雇主報告，例如，台電、台水勞工，外送人員外出發現有危險之虞可
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 豪雨強灌全台 勞動部：外送人員可拒絕外">
+<meta property="og:description" content="https://udn.com/news/story/7269/2501661
+豪雨強灌全台 勞動部：外送人員可拒絕外送
+豪雨持續強灌全台，雲林、嘉義也已停班課，其餘尚未停班課地區，職安署提醒，依據職
+安法，勞工若發現執行勤務時，有立即危險，在不影響其他工作者安全情況下，可自先退
+避至安全場所，再向雇主報告，例如，台電、台水勞工，外送人員外出發現有危險之虞可
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496548808.A.B30.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496548808.A.B30.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">anti87 (天機老人)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 豪雨強灌全台 勞動部：外送人員可拒絕外</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 12:00:04 2017</span></div>
+<a href="https://udn.com/news/story/7269/2501661" target="_blank" rel="nofollow">https://udn.com/news/story/7269/2501661</a>
+
+豪雨強灌全台 勞動部：外送人員可拒絕外送
+
+豪雨持續強灌全台，雲林、嘉義也已停班課，其餘尚未停班課地區，職安署提醒，依據職
+安法，勞工若發現執行勤務時，有立即危險，在不影響其他工作者安全情況下，可自先退
+避至安全場所，再向雇主報告，例如，台電、台水勞工，外送人員外出發現有危險之虞可
+先行退避，不執行搶修、外送等，暫停工作期間，雇主不得扣薪、要求請假等不利處分。
+
+勞工若是上下班途中，可依據天災相關規範主張，天災導致交通受阻無法出勤，因無提供
+勞務，雇主可不給薪；勞工若已在工作，如搶修、外送等，或者準備到其他地區執行勤務
+，發現工作場所有危險之虞，職安署表示，依據職安法，勞工可不提供勞務、先行退避，
+再向雇主報備，停工期間，雇主必須給付薪資。
+
+職安署提醒，暫停有危險工作勤務期間，勞工並非就是下班，雇主可派任其他勤務，例如
+整頓貨品、行政作業等。
+
+--
+
+老闆：你可以不送，明天回家吃自己，西西
+
+--
+
+ <span class="f3 hl">吾開天眼覷紅塵，可憐身是眼中人 <a href="http://tinyurl.com/nqprycc" target="_blank" rel="nofollow">http://tinyurl.com/nqprycc</a> </span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.224.104.19
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496548808.A.B30.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496548808.A.B30.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">corlos</span><span class="f3 push-content">: 資動部又在講幹話</span><span class="push-ipdatetime"> 06/04 12:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ipadmini6</span><span class="f3 push-content">: 可以一輩子不外送</span><span class="push-ipdatetime"> 06/04 12:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dean1990</span><span class="f3 push-content">: 高招 這樣又少一個會抗議的勞工惹</span><span class="push-ipdatetime"> 06/04 12:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samgreco</span><span class="f3 push-content">: 老闆：政府管太多害企業上師競爭力</span><span class="push-ipdatetime"> 06/04 12:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">postit</span><span class="f3 push-content">: 資動部也可以不用上班，投票叫他們下來</span><span class="push-ipdatetime"> 06/04 12:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AustinRivers</span><span class="f3 push-content">: 阿不就好棒棒  用屌拒絕?</span><span class="push-ipdatetime"> 06/04 12:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Sinreigensou</span><span class="f3 push-content">: 然後就被炒了</span><span class="push-ipdatetime"> 06/04 12:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 表姐潮吹</span><span class="push-ipdatetime"> 06/04 12:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 笑惹 根本幹話</span><span class="push-ipdatetime"> 06/04 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seraphic298</span><span class="f3 push-content">: 拒絕後當下就冒雨騎車回家吃自己了</span><span class="push-ipdatetime"> 06/04 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trashpoking</span><span class="f3 push-content">: 各位觀眾..幹話王</span><span class="push-ipdatetime"> 06/04 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">countryair</span><span class="f3 push-content">: 誰不知道可以拒絕，但你的腳色呢</span><span class="push-ipdatetime"> 06/04 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yauaia</span><span class="f3 push-content">: 哈哈哈哈哈哈哈   你們選的廢物</span><span class="push-ipdatetime"> 06/04 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">z7993383</span><span class="f3 push-content">: 不知民間疾苦</span><span class="push-ipdatetime"> 06/04 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghiting76914</span><span class="f3 push-content">: 你去跟老闆說啊</span><span class="push-ipdatetime"> 06/04 12:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ja8256</span><span class="f3 push-content">: 幹有誰敢拒絕我問你</span><span class="push-ipdatetime"> 06/04 12:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mmx3259</span><span class="f3 push-content">: 拒絕上班 因為雨有一點大  幹！ 到底有沒上過班？？</span><span class="push-ipdatetime"> 06/04 12:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OAO5566</span><span class="f3 push-content">: ㄏㄏ 拒絕就明天不用上班了</span><span class="push-ipdatetime"> 06/04 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kop5236</span><span class="f3 push-content">: 改名叫資動幹話部好了</span><span class="push-ipdatetime"> 06/04 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maybetodo</span><span class="f3 push-content">: 老闆說:辭職與外送  自己選吧！</span><span class="push-ipdatetime"> 06/04 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Summer1308</span><span class="f3 push-content">: 反正都要出門的，外送或辭職自己選</span><span class="push-ipdatetime"> 06/04 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">james0146</span><span class="f3 push-content">: 資動不講幹話真厲害,現實狀況就是不去你就等著瞧吧</span><span class="push-ipdatetime"> 06/04 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 這就跟今天不加班一樣阿 主管一臉屎臉</span><span class="push-ipdatetime"> 06/04 13:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">myvoice</span><span class="f3 push-content">: 拒絕之後就沒頭路了，回家吃自己，勞動部就只會講幹話ㄚ</span><span class="push-ipdatetime"> 06/04 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wings1003</span><span class="f3 push-content">: 你們自己去跟老闆說啊</span><span class="push-ipdatetime"> 06/04 19:21
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496548808.A.B30.html?cacheKey=2052-973315&offset=3705&offset-sig=9420015463127687b7d546f497dcd986d8166e2e" data-longpollurl="/v1/longpoll?id=949e230c14c088d7a36d447e7dc0c1c4936e41b6" data-offset="3705"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

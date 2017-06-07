@@ -1,0 +1,165 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496647498.A.858.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 法官認為的資訊不對等是什麼？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="剛剛跑來問認識的法匠
+他說他也不懂為何最高法院法官認為
+醫生要自負舉證責任證明沒有過失
+就算醫審會認為醫生沒有違反醫療常規
+法院還是要醫生自己證明自己沒有醫療過失
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 法官認為的資訊不對等是什麼？">
+<meta property="og:description" content="剛剛跑來問認識的法匠
+他說他也不懂為何最高法院法官認為
+醫生要自負舉證責任證明沒有過失
+就算醫審會認為醫生沒有違反醫療常規
+法院還是要醫生自己證明自己沒有醫療過失
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496647498.A.858.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496647498.A.858.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mskk (mskk)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 法官認為的資訊不對等是什麼？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 15:24:55 2017</span></div>
+剛剛跑來問認識的法匠
+他說他也不懂為何最高法院法官認為
+醫生要自負舉證責任證明沒有過失
+就算醫審會認為醫生沒有違反醫療常規
+法院還是要醫生自己證明自己沒有醫療過失
+不然還是要賠償～
+<a href="https://is.gd/9nBCze" target="_blank" rel="nofollow">https://is.gd/9nBCze</a>
+
+照這種邏輯
+前幾天一個三寶逆向行駛
+害貨車司機撞上他 車頭全毀
+導致多天不能工作 生計嚴重受到影響
+是否也是要該名三寶自負舉證責任
+證明自己逆向行駛沒有過失？
+人家貨車司機在下暴雨天氣還要去送貨
+被一個三寶逆向行駛害到移送法辦
+不知道三寶要不要賠償貨車司機的修理費用？
+
+看來看去 各行各業都有專業 都是資訊不對等
+看來看去 各行各業都有專業 都是資訊不對等
+是否以後都要自負舉證責任證明無過失？
+那法官亂判亂說殺人犯可以教化
+寫一篇作文就把人放出來 使他再犯案
+法官也應該負舉證責任證明自己無過失才對啊
+法官到底憑什麼認為寫一篇作文就能教化人心啊？
+
+有無相關的八卦？
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 120.126.194.203
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496647498.A.858.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496647498.A.858.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 醫生沒把人救活就是有過失</span><span class="push-ipdatetime">06/05 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asdzxc8024</span><span class="f3 push-content">: 說你是你就是，自由心證</span><span class="push-ipdatetime">06/05 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: ？？？？？？？？？</span><span class="push-ipdatetime">06/05 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dou0228</span><span class="f3 push-content">: 沒有，我說兩公約就兩公約，結案。</span><span class="push-ipdatetime">06/05 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 那三寶不想賠的確要舉證自己為什麼逆向啊</span><span class="push-ipdatetime">06/05 15:27
+</span></div><span class="f2">※ 編輯: mskk (120.126.194.203), 06/05/2017 15:28:11
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paleomort</span><span class="f3 push-content">: 去找你問的那個人，他會說清楚的，這裡懶的打字。</span><span class="push-ipdatetime"> 06/05 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 全世界只有法律系才叫專業  法律系說什麼就是什麼</span><span class="push-ipdatetime"> 06/05 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">paleomort</span><span class="f3 push-content">: 他要是說不清楚，那真是不折不扣的法匠了。</span><span class="push-ipdatetime"> 06/05 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 就算有醫審會的報告 法官說你有過失就是有過失</span><span class="push-ipdatetime"> 06/05 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 要自己舉證自己沒過失  XDDDD</span><span class="push-ipdatetime"> 06/05 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EstelleRinz</span><span class="f3 push-content">: 鬼島法匠說不對等就不對等 哪輪得到刁民嘰嘰歪歪</span><span class="push-ipdatetime"> 06/05 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">F100</span><span class="f3 push-content">: 法官說你有罪就是有罪，其餘不解釋</span><span class="push-ipdatetime"> 06/05 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 不相信第三方機構的報告..難不成會反過來相信被告的舉</span><span class="push-ipdatetime"> 06/05 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 證??  這就是法律系的邏輯?? 笑死 XDDDD</span><span class="push-ipdatetime"> 06/05 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 說可教化以後如果再犯=法官過失  關一起給你慢慢教化吧</span><span class="push-ipdatetime"> 06/05 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Farjow</span><span class="f3 push-content">: 法官說了算</span><span class="push-ipdatetime"> 06/05 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a0986188522</span><span class="f3 push-content">: 法匠說可教化就是可教化</span><span class="push-ipdatetime"> 06/05 15:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496647498.A.858.html?cacheKey=2052-2065008&offset=2821&offset-sig=30776d3445ec1488c0c003e2f58da30e278cbc43" data-longpollurl="/v1/longpoll?id=5046f668fcc6204ec6d91185c382f50387c10a17" data-offset="2821"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

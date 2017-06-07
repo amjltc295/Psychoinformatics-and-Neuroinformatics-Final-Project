@@ -1,0 +1,158 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496672730.A.215.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="   想也知道這中間一定有古怪  難怪台灣民眾普遍不相信司法
+   1. 首先冤有頭債有主  要賠錢請先去找健身房好嗎
+   2. 再來 不是在幫醫生說話  但鬼島大醫院的急診真的就是很炸
+     所以  再說一次  鬼島島民們沒事別去大醫院跑急診
+           一般診所可以解決的就診所解決  可以得到最仔細的診斷
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過">
+<meta property="og:description" content="   想也知道這中間一定有古怪  難怪台灣民眾普遍不相信司法
+   1. 首先冤有頭債有主  要賠錢請先去找健身房好嗎
+   2. 再來 不是在幫醫生說話  但鬼島大醫院的急診真的就是很炸
+     所以  再說一次  鬼島島民們沒事別去大醫院跑急診
+           一般診所可以解決的就診所解決  可以得到最仔細的診斷
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496672730.A.215.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496672730.A.215.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wmigrant (migrant)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 22:25:27 2017</span></div><span class="f6">: 台灣高等法院前庭長陳貽男妻子，2007年在健身房滑倒送醫最後卻不治死亡，陳貽男認為
+</span><span class="f6">: 台大醫院未即時發現愛妻腦膜出血，致愛妻死亡，怒告台大3名醫師涉嫌業務過失傷害，
+</span><span class="f6">: 但檢察官認定罪證不足，處分不起訴，陳不服提起再議，檢察官仍做出不起訴處分。
+</span><span class="f6">: 陳貽男喪偶後，2011年為追求女法官、女職員，曾利用法官職權，2年內透過公務電腦系
+</span><span class="f6">: 統查詢女法官等10多名女子個資，事後遭懲處，目前已退休。
+</span>   想也知道這中間一定有古怪  難怪台灣民眾普遍不相信司法
+
+   1. 首先冤有頭債有主  要賠錢請先去找健身房好嗎
+   2. 再來 不是在幫醫生說話  但鬼島大醫院的急診真的就是很炸
+
+     所以  再說一次  鬼島島民們沒事別去大醫院跑急診
+           一般診所可以解決的就診所解決  可以得到最仔細的診斷
+           不放心多跑幾家  反正有健保   別烙賽小感冒也去大醫院看急診
+           貓的比你嚴重的多的事你頭髮痛也來急診幹嘛  會死喔
+
+     就是因為要應付一堆雞毛蒜皮的鳥事  去跑急診最好能得到仔細的診療
+     照個片子看個幾秒就要下決定了  病人一堆又雜七雜八  誰有空仔細看片啊
+     就因為這樣所以急診當然失誤率也相對高  搶時間啊
+     又累又麻煩誰想做啊    還會被告呢   寧可爽爽去醫美還能上節目賺通告
+
+     哪天台灣急診崩壞了別怪醫生  是台灣人自己玩壞的
+
+     另外  如果這案子還真的翻盤了
+     建議以後急診就別收法律從業人員的家屬了   這樣最省事
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.227.151
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496672730.A.215.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496672730.A.215.html</a>
+</span><span class="f2">※ 編輯: wmigrant (114.36.227.151), 06/05/2017 22:26:24
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Change1224</span><span class="f3 push-content">: 檢查作多了，健保局又會靠北靠木</span><span class="push-ipdatetime"> 06/05 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AbukumaKai</span><span class="f3 push-content">: 這案子就是大家翻一翻 發現醫院手冊上寫頭痛要做MRI</span><span class="push-ipdatetime"> 06/05 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Pictor</span><span class="f3 push-content">: 搞不好當下CT照了沒事，過了N年後得癌症跑來告醫師求償，</span><span class="push-ipdatetime"> 06/05 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Pictor</span><span class="f3 push-content">: 說讓他當年暴露在不必要的X光下，導致癌症</span><span class="push-ipdatetime"> 06/05 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AbukumaKai</span><span class="f3 push-content">: 就跟你看不懂法官在講三小一樣  法官也看不懂你這手冊</span><span class="push-ipdatetime"> 06/05 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AbukumaKai</span><span class="f3 push-content">: 寫的是不是實際做的</span><span class="push-ipdatetime"> 06/05 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omegajoker</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 找人打斷法官的狗腿幫他送一次急診免費照30次ct</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 正確來說法官是根據&#34;醫審會&#34;報告判的 所以重點在醫審會</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: lunashining這篇有比較詳細的訴訟過程啦</span><span class="push-ipdatetime"> 06/05 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AbukumaKai</span><span class="f3 push-content">: 醫審會只是講一堆幹話 事實上高院就是拿醫審會報告判</span><span class="push-ipdatetime"> 06/05 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AbukumaKai</span><span class="f3 push-content">: 決的</span><span class="push-ipdatetime"> 06/05 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 去台灣大型醫院的急診看過就知道根本就超級炸</span><span class="push-ipdatetime"> 06/05 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 誰有空幫你看個十幾分鐘片子慢慢蘑菇呢</span><span class="push-ipdatetime"> 06/05 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 那手冊我拿去問台大好幾個醫師都沒人看過！</span><span class="push-ipdatetime"> 06/06 03:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 拒收要先修法,不然法律人又要告了,很麻煩</span><span class="push-ipdatetime"> 06/06 13:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496672730.A.215.html?cacheKey=2052-2478826&offset=3138&offset-sig=eece9a1553bbd6ceff0b9c2955b2e2159d283f85" data-longpollurl="/v1/longpoll?id=3bb184b6c0bcbfe31ef48ce6451c07db028801bd" data-offset="3138"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

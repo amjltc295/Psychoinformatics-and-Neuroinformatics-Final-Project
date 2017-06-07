@@ -1,0 +1,195 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495265084.A.597.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 天才是不是認為其他人都是智障? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="台灣的天才，小時候會慢慢發現，自己跟全班完全不同
+例如大家都照老師教的複雜公式去解題，但天才能秒懂公式自創解法，
+純粹只是因為用理解的方式，所以解法每次都不同，
+老師也睜隻眼閉隻眼，因為老師其實也看不懂你寫啥但是呢，又不能承認自己不會，
+所以答案對還是給對，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 天才是不是認為其他人都是智障?">
+<meta property="og:description" content="台灣的天才，小時候會慢慢發現，自己跟全班完全不同
+例如大家都照老師教的複雜公式去解題，但天才能秒懂公式自創解法，
+純粹只是因為用理解的方式，所以解法每次都不同，
+老師也睜隻眼閉隻眼，因為老師其實也看不懂你寫啥但是呢，又不能承認自己不會，
+所以答案對還是給對，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495265084.A.597.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495265084.A.597.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">duncanga (鄧肯)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 天才是不是認為其他人都是智障?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 15:24:42 2017</span></div>
+
+
+
+
+
+台灣的天才，小時候會慢慢發現，自己跟全班完全不同
+
+例如大家都照老師教的複雜公式去解題，但天才能秒懂公式自創解法，
+
+純粹只是因為用理解的方式，所以解法每次都不同，
+
+老師也睜隻眼閉隻眼，因為老師其實也看不懂你寫啥但是呢，又不能承認自己不會，
+
+所以答案對還是給對，
+
+大家都是照著書本、老師教的在做，天才就整個藐視全班的看著窗外，
+
+心理開始想越級，但是台灣沒有這種制度，
+
+國小時去翻國中的數學課本，看不懂的，有機會就問表哥
+
+才發現原來數學原理都沒變過，就算到是高中的數學課本，也差異不大
+
+簡單說，7成的數學都是用+-去拼湊延伸的，當天才第一次聽到建構式數學
+
+立刻秒懂，幹這不就類似他的理解方式嗎
+
+台灣官方也沒菁英教育，家裡也不是名門望族，沒有一定要成功的壓力
+
+天才從小就混混的過，出一點力就跟同班同學一樣的成就
+
+時間久了，早已習慣，多的時間就打電動，
+
+有人說等到出社會，被社會種種情況，以及見到過高手後就會改觀，慢慢被社會磨平，
+
+很遺憾那只適用普通天才，
+
+天才裡的天才，依然每天混混的過，因為出了社會還是依樣沒有遇到對手
+
+其實這很痛苦，你看到很多成功人士，你很清楚怎麼做，做多長時間，
+
+中間有哪些難題，你在腦袋裡，完全清清楚楚，幾乎沒有例外的事，照做就能成為
+
+那位成功人士了，但是你整個環境就是沒有驅使你的動力，
+
+有個已故投資大師說，會發現很多投資的人其實不是想贏是想輸
+
+人性阿，成功免費送你，你會想死，就是要經歷失敗痛苦努力，才會珍惜所得
+
+那怕最終所得只是個22K，你也會覺得很珍惜
+
+這些天才很喜歡去探討，類似雙縫實驗，這種世紀難題
+
+這些東西看似需要深厚的學識，但其實全憑你得天獨厚的想像力
+
+
+
+
+<span class="f2">※ 引述《kohanchen (kohanchen)》之銘言：
+</span><span class="f6">: 大家有沒有看過真正的天才
+</span><span class="f6">: 新的課程 大家都在無颯颯
+</span><span class="f6">: 的時候 天才已經秒懂了
+</span><span class="f6">: 還可以舉一反三
+</span><span class="f6">: 一般人在他們眼裡是不是
+</span><span class="f6">: 像我們看智障一樣啊?
+</span><span class="f6">: 有卦嗎？
+</span>
+--
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.133.173.252
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495265084.A.597.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495265084.A.597.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 我最近也有點這樣</span><span class="push-ipdatetime"> 05/20 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 很煩   又沒啥動力</span><span class="push-ipdatetime"> 05/20 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 就一起混==</span><span class="push-ipdatetime"> 05/20 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 每個人都會有這種時期啊</span><span class="push-ipdatetime"> 05/20 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nevenhsu</span><span class="f3 push-content">: 自介？</span><span class="push-ipdatetime"> 05/20 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 歐巴馬不是說他年輕的時候也跑去吸大麻</span><span class="push-ipdatetime"> 05/20 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 川普好像小時候也說自己和街上的其他人不同</span><span class="push-ipdatetime"> 05/20 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ma4wanderer</span><span class="f3 push-content">: 老師看不懂是因為念糞校吧</span><span class="push-ipdatetime"> 05/20 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ma4wanderer</span><span class="f3 push-content">: 台灣也有跳級制度阿</span><span class="push-ipdatetime"> 05/20 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ma4wanderer</span><span class="f3 push-content">: 鍵盤上的天才</span><span class="push-ipdatetime"> 05/20 15:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495265084.A.597.html?cacheKey=2052-37402387&offset=2851&offset-sig=761d007aea213658a5e7a46bfbd585b35ba99a90" data-longpollurl="/v1/longpoll?id=2540355a698d5fc880d0d158ab501a5ec1d8a99a" data-offset="2851"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

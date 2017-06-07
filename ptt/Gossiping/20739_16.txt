@@ -1,0 +1,175 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495436633.A.209.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 中時記者陳志東的不自殺聲明 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="因為沒有媒體有報導，
+唯一報過的三立新聞網也刪文了，
+所以應該可以使用爆卦。
+Blog出處:https://goo.gl/fypuzc
+重點整理：（或者直接點進去看）
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 中時記者陳志東的不自殺聲明">
+<meta property="og:description" content="因為沒有媒體有報導，
+唯一報過的三立新聞網也刪文了，
+所以應該可以使用爆卦。
+Blog出處:https://goo.gl/fypuzc
+重點整理：（或者直接點進去看）
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495436633.A.209.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495436633.A.209.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">fragrace (怕冷又怕熱)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 中時記者陳志東的不自殺聲明</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 15:03:50 2017</span></div>
+<span class="f2">※註:有電視或媒體有報導者，請勿使用爆卦! </span><span class="f5 hl">未滿20字</span><span class="f1 hl"> 一行文</span> <span class="f2 hl">退文</span>
+因為沒有媒體有報導，
+唯一報過的三立新聞網也刪文了，
+所以應該可以使用爆卦。
+
+Blog出處:<a href="https://goo.gl/fypuzc" target="_blank" rel="nofollow">https://goo.gl/fypuzc</a>
+
+重點整理：（或者直接點進去看）
+之前出來講業配置入新聞的中時記者陳志東，
+這幾天果不其然被抹得黑黑的，只好出來發不自殺聲明。
+原來他是讀社工的，自稱「披著記者外衣的社工員」
+之前踢爆過教養院阻擋院童就學、精神病院苛扣餐費、抄過娼館。
+也寫過報導批評觀光局（或贊助單位）濫辦活動。
+
+「在我眼前一個更重要的目標是，不應該放任新聞置入危害社會．」
+「如果能趁著這個氣勢，讓更多人看到新聞置入的危害，
+並揪出媒體圈裡的壞份子，為什麼不做呢？我想請大家再多給我資料。」
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.227.17.221
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495436633.A.209.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495436633.A.209.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 干我屁事 自己要當狗報走狗</span><span class="push-ipdatetime"> 05/22 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k44754</span><span class="f3 push-content">: 社工有反骨精神 不適合當妓者好碑</span><span class="push-ipdatetime"> 05/22 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ra9999</span><span class="f3 push-content">: 唯一清流?</span><span class="push-ipdatetime"> 05/22 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 真死了活該 當記者不死幹嘛</span><span class="push-ipdatetime"> 05/22 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orfan</span><span class="f3 push-content">: 煤體圈裡的壞份子！？？這個人平常都沒在看新聞嗎</span><span class="push-ipdatetime"> 05/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vancepeng</span><span class="f3 push-content">: 最後良心？</span><span class="push-ipdatetime"> 05/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sonyabear</span><span class="f3 push-content">: 被新聞界封殺了幫QQ</span><span class="push-ipdatetime"> 05/22 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jason79718</span><span class="f3 push-content">: 推   有站出來就算有良心啊</span><span class="push-ipdatetime"> 05/22 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 被媒體封殺又不會怎樣，很多記者離開後不是去當政黨黨工，</span><span class="push-ipdatetime"> 05/22 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: 因為做了以後就會發生這種事啦，台灣人 懂嗎？</span><span class="push-ipdatetime"> 05/22 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">obzcat</span><span class="f3 push-content">: 良心發現給推</span><span class="push-ipdatetime"> 05/22 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 就是去當公司發言人或公關人員</span><span class="push-ipdatetime"> 05/22 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 慢走不送 反正媒體冷處理 沒用的</span><span class="push-ipdatetime"> 05/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 發這種事情根本沒有用 看看媒體直接無視就知道了 ㄏㄏ</span><span class="push-ipdatetime"> 05/22 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oldchang1205</span><span class="f3 push-content">: 跟壹電視記者的作為相比 業配根本屁點大的事</span><span class="push-ipdatetime"> 05/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 是不是要出來選民意代表? 八卦酸民也沒想理欸</span><span class="push-ipdatetime"> 05/22 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 看看他上篇推爆 這篇才幾個人...</span><span class="push-ipdatetime"> 05/22 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 要是中時變好了　DPP會很苦惱的</span><span class="push-ipdatetime"> 05/22 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 失敗主義還沒消失啊? 幫高調</span><span class="push-ipdatetime"> 05/22 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">molsmopuim</span><span class="f3 push-content">: 浪子回頭給推</span><span class="push-ipdatetime"> 05/22 15:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 他那篇文我備份了 那篇文對中國時報有傷到</span><span class="push-ipdatetime"> 05/22 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momotei</span><span class="f3 push-content">: 幫高調</span><span class="push-ipdatetime"> 05/22 15:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">impactwar</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/22 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppBOSSqq</span><span class="f3 push-content">: 勇於爆料要讚一下啊</span><span class="push-ipdatetime"> 05/22 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 內容寫的不錯啊</span><span class="push-ipdatetime"> 05/22 15:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freexyz2007</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sbtiagr</span><span class="f3 push-content">: 中時被旺旺蔡衍明搞到爛瘡 揭開來只是剛好 給推</span><span class="push-ipdatetime"> 05/22 20:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a9228097</span><span class="f3 push-content">: 各大媒體的冷處理超強..</span><span class="push-ipdatetime"> 05/22 21:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: 加油</span><span class="push-ipdatetime"> 05/22 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starz</span><span class="f3 push-content">: 幫高調 漠視有勇氣揭發惡行的 其實也是惡行的幫兇</span><span class="push-ipdatetime"> 05/22 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">webster1112</span><span class="f3 push-content">: 各家媒體發揮道德勇氣以及新聞專業倫理 不報XDD</span><span class="push-ipdatetime"> 05/22 21:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hhtj</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 22:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simple30</span><span class="f3 push-content">: 哇喔！！</span><span class="push-ipdatetime"> 05/22 23:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joanna32288</span><span class="f3 push-content">: 幫推</span><span class="push-ipdatetime"> 05/23 02:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 挑媒體圈的壞份子不如整鍋倒掉再重做比較快</span><span class="push-ipdatetime"> 05/23 09:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 他的文很清楚的講解業配文的流程及其危害,很值的看</span><span class="push-ipdatetime"> 05/23 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 文章都有附證據,不是空口說白,真記者給推</span><span class="push-ipdatetime"> 05/23 09:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 說話這文的推有點低啊, 幫高調</span><span class="push-ipdatetime"> 05/23 10:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaybe</span><span class="f3 push-content">: 高調推，酸民才該死</span><span class="push-ipdatetime"> 05/23 16:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495436633.A.209.html?cacheKey=2052-36244742&offset=4878&offset-sig=b50d3d0237234eca2e6664c321f065a34f6473af" data-longpollurl="/v1/longpoll?id=7a8fc4fe13afa15177cfccb4503268cfd11859a5" data-offset="4878"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,209 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495478861.A.DB4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 為什麼中國會突然變成世界經濟強國 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="經濟要發展有幾個要件：
+1.資本
+初期剛開放國內窮自有資本不夠，所以吸引外資，台商貢獻很多
+2.人口
+中國就是人多，這不缺
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 為什麼中國會突然變成世界經濟強國">
+<meta property="og:description" content="經濟要發展有幾個要件：
+1.資本
+初期剛開放國內窮自有資本不夠，所以吸引外資，台商貢獻很多
+2.人口
+中國就是人多，這不缺
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495478861.A.DB4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495478861.A.DB4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ilw4e (可以吃嗎？)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 為什麼中國會突然變成世界經濟強國</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 02:47:38 2017</span></div>
+<span class="f2">※ 引述《Dickens0818 (Dickens)》之銘言：
+</span><span class="f6">: 小時候一直在聽老一輩的講中國有多窮
+</span><span class="f6">: 窮到跟非洲國家一樣
+</span><span class="f6">: 然候才過十年就聽到中國經濟開始成長
+</span><span class="f6">: 但大概就像聽到某新興市場的國家在發展一樣
+</span><span class="f6">: 不覺得他會威脅得到歐美先進國家
+</span><span class="f6">: 沒想到再過一陣子竟然變成世界經濟列強了
+</span><span class="f6">: 一帶一路連俄羅斯都要聽他主導
+</span><span class="f6">: 到底為什麼中國經濟會突然暴衝起來
+</span><span class="f6">: 還暴衝得超英趕美
+</span><span class="f6">: 有沒有BG
+</span>
+經濟要發展有幾個要件：
+
+1.資本
+初期剛開放國內窮自有資本不夠，所以吸引外資，台商貢獻很多
+
+2.人口
+中國就是人多，這不缺
+
+3.技術
+靠留學生從國外學、山寨直接偷、跟外國買
+
+4.教育
+拉高知識技術人口，可以跟上產業轉型
+
+
+首先中國發展的起點沒想像中那麼低，非洲國家有些是還停在農業都不發
+達的時代，中國雖然文革搞得倒退幾十年但過去一些長期累積的基礎還是
+有，當全國不再把心力都花在造反革命，轉而發展教育發展經濟，能回到
+正軌快速趕進度成長也不算意外
+
+中國經濟起飛跟台灣當初很類似，如果有印象1960-90年代最會搞盜版偷技
+術的海盜王國正是台灣，中國這些年的山寨產業跟過去台灣87%像，以前的
+便宜劣質品代表是MIT，後來變成MIC。從出口代工起家快速累積資本也是
+跟台灣模式相像，但對岸明顯不想停留在代工產業，有了資本後所有最熱
+門的產業都想發展
+
+然後一個很重要的點是薪資快速提升。對岸人雖多，但內需市場規模要夠
+大那就得讓人民有足夠所得去消費才能支持。這點可以拿東南亞國家來比
+較，中國過去人均所得跟東南亞差不多，但成長速度夠快所以甩開這些新
+興市場國家了。而想要轉型到最前端的產業也要有足夠薪資吸引高階人才
+
+經濟發展就是基礎要件有了自然就能成長，當然極權政府執政者都想把成
+果歸功在計畫經濟，實際上政府計畫影響可能沒那麼大。但如果政策完全
+走錯方向那頗可能有負面影響，比方台灣從上到下死守代工思維不思轉型
+的苦果現在就看得到，就像玩世紀帝國你到城堡時代就說滿足了，結果別
+人升到帝王時代技術就把你甩開了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.83.66.131
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495478861.A.DB4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495478861.A.DB4.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arnold3</span><span class="f3 push-content">: 人口多的國家經濟本來就能衝很快 印度改革開放20年</span><span class="push-ipdatetime"> 05/23 02:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arnold3</span><span class="f3 push-content">: 現在經濟成長就贏中國了</span><span class="push-ipdatetime"> 05/23 02:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 人口多經濟成長快? 要不要學基本的成長理論，看看陳明</span><span class="push-ipdatetime"> 05/23 02:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 郎的書再回答==</span><span class="push-ipdatetime"> 05/23 02:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 真的 中國早期起步時期台商真的居功厥偉 中國真該</span><span class="push-ipdatetime"> 05/23 02:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arnold3</span><span class="f3 push-content">: 呵呵 你知道甚麼叫人口紅利嗎 懂?</span><span class="push-ipdatetime"> 05/23 02:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 頒個&#34;惠我良多&#34;的匾額R 很多都靠探親名義偷偷去的</span><span class="push-ipdatetime"> 05/23 02:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 小時候寄住在一個親人家 他們準備去大陸做生意</span><span class="push-ipdatetime"> 05/23 02:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 那時候常聽他們開口閉口的說中國人工資便宜 XXX之類的</span><span class="push-ipdatetime"> 05/23 02:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 沒有當初這些垃圾台商 支那今天想起來還有得等</span><span class="push-ipdatetime"> 05/23 02:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 人口是經濟成長的唯一參數? 你資本存量不看? 你人力資</span><span class="push-ipdatetime"> 05/23 03:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 本不放?  技術變量不放?  公部門效率參數不放?</span><span class="push-ipdatetime"> 05/23 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 人口紅利殺小， 鍵盤經濟學家喔</span><span class="push-ipdatetime"> 05/23 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 支那人均沒有甩開東南亞國家</span><span class="push-ipdatetime"> 05/23 03:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heci1941</span><span class="f3 push-content">: 覺青罵中國人賤畜,你覺得中國人還會感激台商嗎?</span><span class="push-ipdatetime"> 05/23 03:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aslanxxx</span><span class="f3 push-content">: 你在寫小學作文？</span><span class="push-ipdatetime"> 05/23 03:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andrew777</span><span class="f3 push-content">: 支那人均才多少 自己用幻想的喔</span><span class="push-ipdatetime"> 05/23 03:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chenweichih</span><span class="f3 push-content">: 台商固然有功勞 但也沒啥好說嘴的 台灣有今天也是</span><span class="push-ipdatetime"> 05/23 04:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenweichih</span><span class="f3 push-content">: 因為日本人 日本人有今天 也是因為美國 總結:美國</span><span class="push-ipdatetime"> 05/23 04:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenweichih</span><span class="f3 push-content">: 說的算....</span><span class="push-ipdatetime"> 05/23 04:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilyj2012</span><span class="f3 push-content">: 根據IMF的數據，大陸人均GDP  8500美元</span><span class="push-ipdatetime"> 05/23 04:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilyj2012</span><span class="f3 push-content">: 台商的作用被大家誇大了。當年台灣的投資佔比並不大</span><span class="push-ipdatetime"> 05/23 04:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 台商1979-2008雖然投資金額只占15% 就是第五大外商</span><span class="push-ipdatetime"> 05/23 06:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 這是有登記的名義上直接投資 台商用維京.開曼的名義</span><span class="push-ipdatetime"> 05/23 06:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 投資的 加總起來就是第二大外商了 僅次港澳</span><span class="push-ipdatetime"> 05/23 06:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 97前台商還很多是透過香港新加坡美國等轉投資的 台商</span><span class="push-ipdatetime"> 05/23 06:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 貢獻只有被低估的份</span><span class="push-ipdatetime"> 05/23 06:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sadbas</span><span class="f3 push-content">: 台商投資大陸是為了掙錢﹐不是去幫誰﹐世界上也不是隻有</span><span class="push-ipdatetime"> 05/23 09:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sadbas</span><span class="f3 push-content">: 台灣有資本﹐隻要大陸自身優勢在﹐你不來掙錢﹐自然有別人</span><span class="push-ipdatetime"> 05/23 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sadbas</span><span class="f3 push-content">: 來掙﹐少在那邊井蛙自大了。</span><span class="push-ipdatetime"> 05/23 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 就像前面a大說的 當年臺商到大陸有幾個是一心報效父老</span><span class="push-ipdatetime"> 05/23 14:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 做公益的？不是圖人工便宜 女人好玩 高人一等？</span><span class="push-ipdatetime"> 05/23 14:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 當年登陸的臺商 且不論經營能力如何 光當年大陸政府補貼</span><span class="push-ipdatetime"> 05/23 14:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 的工業土地就能在今天吃到飽 有何抱怨可言？</span><span class="push-ipdatetime"> 05/23 14:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 當然多少臺商在大陸不負責任玩女人 臺灣太太們不怪自己</span><span class="push-ipdatetime"> 05/23 14:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 先生風流花心 反在媒體輿論怪大陸妹狐媚勾人</span><span class="push-ipdatetime"> 05/23 14:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 當年臺商靠便宜人工高污染產業賺錢 現在大陸薪資成長 環</span><span class="push-ipdatetime"> 05/23 14:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 境法規愈加嚴厲 不反思慣老板不體恤員工 反謂之養套殺？</span><span class="push-ipdatetime"> 05/23 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 當年臺商如此吃香 今日紛紛落伍大陸與各國私企競爭之末流</span><span class="push-ipdatetime"> 05/23 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 不反思自家政策失敗 反去怪別人不感恩思德 怪別人太上進</span><span class="push-ipdatetime"> 05/23 14:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin3623</span><span class="f3 push-content">: 如此厚顏無恥之人 如此厚顏無恥之媒體真乃世間罕見！</span><span class="push-ipdatetime"> 05/23 14:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 台商本來就很糟 不入流不思進取 不過養套殺也是事實</span><span class="push-ipdatetime"> 05/23 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cindy3589</span><span class="f3 push-content">: 人治的國家不能否認這點</span><span class="push-ipdatetime"> 05/23 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">serval623</span><span class="f3 push-content">: 台商跟支那實業家比根本被屌打十條街</span><span class="push-ipdatetime"> 05/24 09:00
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495478861.A.DB4.html?cacheKey=2052-37567382&offset=6354&offset-sig=f6b923e8711da0b98f8a1bfd705e359253597ebd" data-longpollurl="/v1/longpoll?id=ca35fc95c2dbf9b9165ded31d0776bde33870444" data-offset="6354"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

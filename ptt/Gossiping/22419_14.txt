@@ -1,0 +1,221 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496545553.A.457.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 無掩護的火槍陣對幹戰術是在想啥？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="剛好我去年在八卦版回答過，啊不過爬文發現已經被洗掉了
+好險找到其他鄉民備份的，以下複製貼上
+前膛槍的關鍵性問題是一定要站著裝填
+裝填方法：從槍口倒入火藥粉、從槍口倒入鉛彈、拿一根長桿插入槍管把前兩者塞緊
+關鍵就在倒入火藥粉這個動作，槍管必須與地面垂直才有可能完成
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 無掩護的火槍陣對幹戰術是在想啥？">
+<meta property="og:description" content="剛好我去年在八卦版回答過，啊不過爬文發現已經被洗掉了
+好險找到其他鄉民備份的，以下複製貼上
+前膛槍的關鍵性問題是一定要站著裝填
+裝填方法：從槍口倒入火藥粉、從槍口倒入鉛彈、拿一根長桿插入槍管把前兩者塞緊
+關鍵就在倒入火藥粉這個動作，槍管必須與地面垂直才有可能完成
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496545553.A.457.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496545553.A.457.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">aa3ch (啥利破特)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 無掩護的火槍陣對幹戰術是在想啥？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 11:05:49 2017</span></div>
+<span class="f2">※ 引述《Sylph (仙客來)》之銘言：
+</span><span class="f6">: 無掩護的火槍陣兩排對幹戰術到19世紀都還看得到，
+</span><span class="f6">: 就算火槍再怎麼不準，人應該天生都有找掩護的本能吧？
+</span><span class="f6">: 至少火槍陣前放一排長盾兵幫忙擋一下也比完全無掩護強多了。
+</span><span class="f6">: 究竟無掩護的火槍陣對幹戰術是在想什麼？
+</span>剛好我去年在八卦版回答過，啊不過爬文發現已經被洗掉了
+
+好險找到其他鄉民備份的，以下複製貼上
+
+
+
+
+前膛槍的關鍵性問題是一定要站著裝填
+
+裝填方法：從槍口倒入火藥粉、從槍口倒入鉛彈、拿一根長桿插入槍管把前兩者塞緊
+
+關鍵就在倒入火藥粉這個動作，槍管必須與地面垂直才有可能完成
+
+偏偏當時的步槍幾乎都超過一公尺長
+
+導致以蹲姿或臥姿都不可能使槍桿與地面垂直並由槍口完成裝填再拿一根桿子塞塞塞
+
+或者勉強可以，但就是沒有站著裝填那麼順手快速
+
+你蹲著裝填，敵方站著裝填，你還沒裝完，對面就朝你開火了
+
+至於裝填完一樣排排站的原因就是其他的高手說得很清楚了
+
+槍枝精度差，而且隨時準備要衝鋒
+
+另一方面，戰場上分秒必爭，基本上裝填完就要趕緊下口令開火
+
+不可能再下一道口令要所有人蹲下或臥倒，一個連一起變換姿勢得花上好幾秒
+
+這段時間對面的敵人已經搶先開火
+
+
+
+前膛槍的關鍵挫敗，基本上就是普奧戰爭
+
+普魯士普遍配發了後膛槍以及模組化的子彈
+
+裝填時只要拉開槍膛把整個子彈塞進去就好
+
+不用拿一根桿子在那邊塞塞塞，裝填速度快了好幾倍
+
+如此一來，同樣是一個步兵，普軍的單兵實際上就有了數倍於奧軍的火力
+
+而且可以採臥姿裝填，大大降低了被彈機率
+
+這個影片不錯，可以參考一下
+
+<a href="https://www.youtube.com/watch?v=xScjkrcaAcc" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=xScjkrcaAcc</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/xScjkrcaAcc" frameborder="0" allowfullscreen></iframe></div></div></div>
+
+
+
+至於你說的為什麼不在第一排設置盾牌呢？
+
+冷兵器時代的盾牌其實是木製的，所以你會看到士兵拿著盾牌上戰場
+
+因為重量還OK
+
+但這種木盾要拿來擋子彈，基本上是不可能的事情
+
+唯一的可能是用鐵製盾牌
+
+但太重，在戰場上完全不合用
+
+你舉個半小時手就快斷了
+
+防彈盾牌在實戰上的用途也僅止於特種部隊攻堅時使用
+
+攻堅作戰的特性是空間小、時間短
+
+但是正規作戰卻需要在好幾公里的戰場上行動一整天
+
+舉那個盾牌真的不如扛一把槍
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 218.35.191.12
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496545553.A.457.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496545553.A.457.html</a>
+</span><span class="f2">※ 編輯: aa3ch (218.35.191.12), 06/04/2017 11:11:39
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">glory5566</span><span class="f3 push-content">: 推這篇 忘了講這點</span><span class="push-ipdatetime"> 06/04 11:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 那時代的火力未必能打穿木盾吧，而且沒防也比有防好吧</span><span class="push-ipdatetime"> 06/04 11:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waynefox</span><span class="f3 push-content">: 在一定距離內，木盾還是會被打穿的，而且如果是盾兵被</span><span class="push-ipdatetime"> 06/04 11:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waynefox</span><span class="f3 push-content">: 打穿，誰可以補上，還不如打了幾發後直接衝鋒。</span><span class="push-ipdatetime"> 06/04 11:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waynefox</span><span class="f3 push-content">: 衝鋒時盾兵又不知道幹嘛。</span><span class="push-ipdatetime"> 06/04 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 衝鋒時盾兵就跟著衝啊，誰規定盾兵不能帶刀？</span><span class="push-ipdatetime"> 06/04 11:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waynefox</span><span class="f3 push-content">: 衝鋒時帶刀盾兵移動肯定慢，攻擊距離又比不上槍兵，完</span><span class="push-ipdatetime"> 06/04 11:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waynefox</span><span class="f3 push-content">: 全只能當肉墊。這一定戰爭精算的結果。</span><span class="push-ipdatetime"> 06/04 11:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nightmare08</span><span class="f3 push-content">: 要打不穿的木盾就是重到靠背好嗎...</span><span class="push-ipdatetime"> 06/04 11:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 盾兵是不會棄盾衝鋒嗎？</span><span class="push-ipdatetime"> 06/04 11:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waynefox</span><span class="f3 push-content">: 棄盾衝鋒，你傻了嗎？裝備是這樣說不要就不要嗎？</span><span class="push-ipdatetime"> 06/04 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 誰說不要了？打完仗再撿呀。</span><span class="push-ipdatetime"> 06/04 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 不然你的槍兵死一堆，他們的槍是馬上撿嗎？</span><span class="push-ipdatetime"> 06/04 12:08
+</span></div>你講的都是你「想像」中的情況、你「覺得」可以怎麼做
+
+但事實就是在武器發展的過程中，盾牌不再具備防禦價值
+
+而不是你所想像的木盾可以做到火槍打不穿
+
+甚至冷兵器發展到後期的時候，鎧甲都不見得能抵禦弓箭
+
+你應該思考的是「為什麼會這樣演變」
+
+而不是以為那個年代的人沒有想過拿盾牌來防禦火槍
+<span class="f2">※ 編輯: aa3ch (218.35.191.12), 06/04/2017 19:49:55
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496545553.A.457.html?cacheKey=2052-1380496&offset=3663&offset-sig=92a7df81b0c740b033bd9182e78bd4a45161a343" data-longpollurl="/v1/longpoll?id=96a4bd9816f7e755edee282d562ac6ee6f664573" data-offset="3663"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

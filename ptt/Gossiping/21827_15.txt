@@ -1,0 +1,204 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496151664.A.1A1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 美大學學費貴 多數打工還扛學貸 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+公視新聞網
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 美大學學費貴 多數打工還扛學貸">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+公視新聞網
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496151664.A.1A1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496151664.A.1A1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">saiulbb (Becky♪＃是我的拉!)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 美大學學費貴 多數打工還扛學貸</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 21:41:02 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+公視新聞網
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+美大學學費貴 多數打工還扛學貸
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+中晝新聞 2017-05-30
+
+美國大學、學費貴，<span class="f1 hl">不過從今年秋季開始，紐約州公立大學學生，只要家庭一年收入在十
+</span><span class="f1 hl">萬美金以下、也就是新台幣304萬以下，就可以申請免學費，這也讓紐約、變成全美國、
+</span><span class="f1 hl">第一個、補助公立大學學費的州。</span>
+
+紐約市立學院的學生莎米亞阿莉，就跟大多數紐約州的大學生一樣，<span class="f2 hl">為了完成大學學位，
+</span><span class="f2 hl">課餘時間打工、背負學生貸款，賺取學費</span>，今年秋季開始，<span class="b1 hl">紐約州大約有八成跟她處境雷
+</span><span class="b1 hl">同的大學生，將不再需要為一年大約6500美元、相當於台幣19萬8000元的學費擔心。</span>
+
+==紐約市立大學學生 莎米亞阿莉==
+我覺得這不錯
+念大學一直讓我擔心
+例如學費負擔
+
+==紐約市立大學學生 查藍帕斯==
+我搭地鐵時讀到這報導
+當時就&#34;呼&#34;地鬆了一口氣
+很期待
+
+<span class="f1 hl">紐約州成為領頭羊，是全美第一個通過由政府資助公立大學學費法案的州，只要是合法身
+</span><span class="f1 hl">分、在紐約居住超過一年，家庭年收入十萬美元以下的學生，都可以申請兩年及四年制課
+</span><span class="f1 hl">程</span>，<span class="b4 hl">條件是，必須修讀全職學生的學位，一年要修滿30個學分，畢業後必須留在紐約州居
+</span><span class="b4 hl">住與工作，申請幾年，就待幾年。</span>
+
+==紐約市立大學學生 莎米亞阿莉==
+付大學學費然後變成負債
+再去學生貸款
+我寧願大學學費免費
+然後待在紐約四年
+
+<span class="f3 hl">州政府一年投資75億美元在高等教育上，全州有近八成、約94萬戶家庭受惠，預計學生畢
+</span><span class="f3 hl">業後出社會工作、開始繳稅，就會得到回報。</span>
+
+==紐約州長 古莫==
+這是改變一生的計畫
+在美國首創
+你現在會看到別州
+也會開始跟進
+因為這很聰明
+
+不過這個做法受到學者批評，<span class="b4 hl">曼哈頓學院教授埃克斯認為這只有讓負擔得起學費的家庭受
+</span><span class="b4 hl">益，最後仍由納稅人買單，而沒有將不同條件學生之間的鴻溝拉近。 </span>
+
+根據紐約州政府資料，一直到2024年，全州將有350萬份工作要求至少擁有學院畢業的學
+歷，屆時工作機會也比2014年多出約42萬個。
+
+記者 黃韻玲報導
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="http://news.pts.org.tw/article/360172" target="_blank" rel="nofollow">http://news.pts.org.tw/article/360172</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+紐約州公立大學學生可向政府申請免學費，條件是家庭年收十萬美以下，全職學生一年需
+修滿30個學分、畢業後需留在紐約州居住與工作，申請幾年就需待幾年。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.56.143.149
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496151664.A.1A1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496151664.A.1A1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyvernlee</span><span class="f3 push-content">: 甜心爹地表示：</span><span class="push-ipdatetime"> 05/30 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WhiteMage</span><span class="f3 push-content">: 台灣:看到沒有,可以漲價囉</span><span class="push-ipdatetime"> 05/30 21:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Merkle</span><span class="f3 push-content">: Sugar Daddy</span><span class="push-ipdatetime"> 05/30 21:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SAKO</span><span class="f3 push-content">: 找Surgar daddy就好啦</span><span class="push-ipdatetime"> 05/30 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SAKO</span><span class="f3 push-content">: 幹 打錯 雞掰</span><span class="push-ipdatetime"> 05/30 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a2016596</span><span class="f3 push-content">: 台灣??</span><span class="push-ipdatetime"> 05/30 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 在台灣 學生是忙著打工荒廢學業</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gn01914712</span><span class="f3 push-content">: 北七喔 美國大學學歷有用 台灣只有台大有用</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 那是因為台灣太便宜</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 整個系統都不一樣  根本沒參考價值</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 美國也很多野雞大學</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 男生可以找 sergeant daddy  中士爹地</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 以結果看 美國大學系統比臺灣有用多了</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MiamiKotori</span><span class="f3 push-content">: 五樓找甜心甲甲，用肛門換學費</span><span class="push-ipdatetime"> 05/30 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DAPAWWEN</span><span class="f3 push-content">: 這新聞一定錯了，台灣物價比美國貴多了，學費自然也....</span><span class="push-ipdatetime"> 05/30 21:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">locdan</span><span class="f3 push-content">: 州長 古阿莫？</span><span class="push-ipdatetime"> 05/30 21:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MDCCLXXVI</span><span class="f3 push-content">: 美國學歷一定有用個雕啊 台灣人根本不認識二三線的大學</span><span class="push-ipdatetime"> 05/30 21:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rhox</span><span class="f3 push-content">: 美國也一堆人被騙去念野雞大學拿文憑出來背10萬學貸</span><span class="push-ipdatetime"> 05/30 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gabbana</span><span class="f3 push-content">: 好爽</span><span class="push-ipdatetime"> 05/30 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leavefly</span><span class="f3 push-content">: 1年20W很貴嗎..台灣一狗票國中高中都不止這個價...</span><span class="push-ipdatetime"> 05/31 15:22
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496151664.A.1A1.html?cacheKey=2052-2732852&offset=4448&offset-sig=ba1f8abc817dae0ce25f513e4e13011a8b1bd0ba" data-longpollurl="/v1/longpoll?id=ac26cd85b18fcf2d951e2a861feb601f4feae359" data-offset="4448"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

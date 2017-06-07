@@ -1,0 +1,181 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494958672.A.C95.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 公司遭收購 漫威教父打造中國英雄 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="其實我覺得史丹李未免太小看文化層面這種東西。英雄的文化，光是定義，在東西方
+的觀點上就相差巨大。
+在史丹李自己的那些作品中，無論是X-Men還是Avengers還是IRONMAN....都有極其濃厚
+的自由主義意志。這些英雄人物骨子裡是根本不甩什麼政府的，而是做他們想做，他們
+覺得應做的事情，幾乎都是不卑躬屈膝，敢與帝王平起平坐的狂徒。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 公司遭收購 漫威教父打造中國英雄">
+<meta property="og:description" content="其實我覺得史丹李未免太小看文化層面這種東西。英雄的文化，光是定義，在東西方
+的觀點上就相差巨大。
+在史丹李自己的那些作品中，無論是X-Men還是Avengers還是IRONMAN....都有極其濃厚
+的自由主義意志。這些英雄人物骨子裡是根本不甩什麼政府的，而是做他們想做，他們
+覺得應做的事情，幾乎都是不卑躬屈膝，敢與帝王平起平坐的狂徒。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494958672.A.C95.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494958672.A.C95.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kapasky (偽卡巴斯基)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 公司遭收購 漫威教父打造中國英雄</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 02:17:50 2017</span></div>
+<span class="f6">: 根據新華網報導，史丹李談及與中國公司的合作時表示，由於有來自中國的資金和建議，
+</span><span class="f6">: 他們將有能力製作更多的電影，也能獲得更多的成就，「我們將關注於中國市場和亞洲市
+</span><span class="f6">: 場，增加有關中國的故事和創意，事實上我們已經開始塑造中國的超級英雄形象，包括一
+</span><span class="f6">: 名男英雄和一名女英雄，一旦創作完成，將會成為我們與中國夥伴合作計畫的一部分。」
+</span><span class="f6">: 他也以「蜘蛛人」為例，認為該角雖不是中國臉孔，但在中國和全世界都大受歡迎，因此
+</span><span class="f6">: 超級英雄的形象能否成功，不在於臉孔，而是人物個性的塑造，「我們以後一定會加入更
+</span><span class="f6">: 多中國元素，相信創造出的中國超級英雄形象一定會廣受歡迎。」
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="http://ent.ltn.com.tw/news/breakingnews/2067574" target="_blank" rel="nofollow">http://ent.ltn.com.tw/news/breakingnews/2067574</a>
+</span><span class="f6">: 5.備註:
+</span><span class="f6">: 方案1.「澤東隊長、黃巨人近平、雷神小平」？
+</span><span class="f6">: 方案2.「景甜」？
+</span>
+其實我覺得史丹李未免太小看文化層面這種東西。英雄的文化，光是定義，在東西方
+的觀點上就相差巨大。
+
+在史丹李自己的那些作品中，無論是X-Men還是Avengers還是IRONMAN....都有極其濃厚
+的自由主義意志。這些英雄人物骨子裡是根本不甩什麼政府的，而是做他們想做，他們
+覺得應做的事情，幾乎都是不卑躬屈膝，敢與帝王平起平坐的狂徒。
+
+而東方式，特別是中國式的英雄，還停留在俠之大者為國為民的概念，特別是重視為國
+(為祖國、為黨、為領土、為民族自尊) 把&#34;個人&#34;放到很小。很難想像這兩種差異這麼巨
+大概念的英雄要如何碰撞。
+
+舉美國隊長為例，雖名為&#34;美國&#34;隊長，但是劇情內的他所做的早已遠超過只以美國為考量
+而是實現美國的精神，他非常成功的塑造了不只是有美國人會喜歡美國隊長的印象。雖然
+美國隊長在政治上正確到無比傳統，但是最重要的核心是&#34;樸實、正直、良善、不為惡&#34;。
+
+好，要是打造一個中國英雄，我們就最粗製濫造，模仿美國隊長，做出一個中國隊長好了
+他會做什麼事情呢?
+
+神盾局要洞見計畫監控/事先獵殺潛在威脅目標? 太好了幹吧幹吧，我祖國就這樣幹呀!
+世界要弄蘇科維亞協議監控管制所有英雄? 太好了幹吧幹吧，我帶隊剷除反對份子呀!
+..............................
+..........................................
+.................&#34;中國式&#34;的英雄就是會為了&#34;祖國利益&#34;這樣做的，一様超政治正確。
+
+順便再加幾個打爆鬼子打爆洋人橋段，保證火紅熱辣，在中國市場可以取得巨大成功。
+但這樣的英雄，魅力又何在呢，還能叫做所謂英雄嗎?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.233.71.217
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494958672.A.C95.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494958672.A.C95.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ah937609</span><span class="f3 push-content">: 市場</span><span class="push-ipdatetime"> 05/17 02:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 你說到點了</span><span class="push-ipdatetime"> 05/17 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jeffrey9120</span><span class="f3 push-content">: 早就不吃這種了 除非老人會看超級英雄</span><span class="push-ipdatetime"> 05/17 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 他只要製作一些專殺貪官污吏惡警的中國英雄,鐵定大受</span><span class="push-ipdatetime"> 05/17 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WINDHEAD</span><span class="f3 push-content">: 歡迎, 不過也鐵定過不了廣電出版審查</span><span class="push-ipdatetime"> 05/17 02:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ispy03532003</span><span class="f3 push-content">: 應該到時就是雷峰漫威版吧，最有名的中國式英雄</span><span class="push-ipdatetime"> 05/17 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ispy03532003</span><span class="f3 push-content">: （應該說顏色最正確的）</span><span class="push-ipdatetime"> 05/17 02:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kapasky</span><span class="f3 push-content">: 四樓你說的這種早就有，不過永遠是更高的&#34;官&#34;來殺來懲罰</span><span class="push-ipdatetime"> 05/17 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kapasky</span><span class="f3 push-content">: 這些貪官汙吏惡警(就是要有更高政府權力者)  拯救大眾</span><span class="push-ipdatetime"> 05/17 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kapasky</span><span class="f3 push-content">: 絕對不可能讓你拍出一個民間英雄正義之士來殺貪官</span><span class="push-ipdatetime"> 05/17 02:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 只怕做出來以後，怎麼看都像滿大人XD</span><span class="push-ipdatetime"> 05/17 02:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EasyVinus</span><span class="f3 push-content">: 黨命是從的英雄</span><span class="push-ipdatetime"> 05/17 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kapasky</span><span class="f3 push-content">: 你看現在超紅的&#34;人民的名義&#34;主角必須是個高官  不然不行</span><span class="push-ipdatetime"> 05/17 02:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kapasky</span><span class="f3 push-content">: 你必須在這個政權底下才允許你鏟奸除惡  民間英雄? 發夢</span><span class="push-ipdatetime"> 05/17 02:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ispy03532003</span><span class="f3 push-content">: 民間對抗貪官汙吏=質疑現有政權=不受黨的控制=潛在</span><span class="push-ipdatetime"> 05/17 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ispy03532003</span><span class="f3 push-content">: 造反因子</span><span class="push-ipdatetime"> 05/17 02:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: 中國隊長1:打爆日本鬼子 中國隊長2:打爆西洋鬼子</span><span class="push-ipdatetime"> 05/17 02:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">carden31</span><span class="f3 push-content">: 中國英雄設定一出來就被中共封鎖禁止  詆毀國家公權力</span><span class="push-ipdatetime"> 05/17 02:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carden31</span><span class="f3 push-content">: 企圖顛覆政府  漫威的夜魔俠  蜘蛛人都被警察追著走</span><span class="push-ipdatetime"> 05/17 02:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carden31</span><span class="f3 push-content">: 類似設定出來  你在暗喻明喻說黨政府無能  封鎖封鎖</span><span class="push-ipdatetime"> 05/17 02:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkshit02</span><span class="f3 push-content">: 其實IRON FIST就是，可惜找了英國人來演…</span><span class="push-ipdatetime"> 05/17 03:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">khalid</span><span class="f3 push-content">: 你想太多 男的就武術高手 女的就賣弄東方女性性感..誰會</span><span class="push-ipdatetime"> 05/17 05:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">khalid</span><span class="f3 push-content">: 扯這些?</span><span class="push-ipdatetime"> 05/17 05:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 功夫熊貓：</span><span class="push-ipdatetime"> 05/17 06:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptta</span><span class="f3 push-content">: 只能創作出功夫熊貓惹</span><span class="push-ipdatetime"> 05/17 07:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494958672.A.C95.html?cacheKey=2052-38015215&offset=4764&offset-sig=2b1171fc6fdf0567a78d9f0353f42e2895b63d0a" data-longpollurl="/v1/longpoll?id=263be9b830f8177ed61e7d0f10da6bfefc34fbcc" data-offset="4764"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

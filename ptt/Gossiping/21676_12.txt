@@ -1,0 +1,188 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496057700.A.B62.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 政府可以出來獨大嗎 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="新一代的電影電視漫畫
+在台灣的舞台越來越小
+主要也是廣告收益
+但我是廣告主，我也不知道要發給誰做廣告
+新一代的人沒有健全的初級舞台
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 政府可以出來獨大嗎">
+<meta property="og:description" content="新一代的電影電視漫畫
+在台灣的舞台越來越小
+主要也是廣告收益
+但我是廣告主，我也不知道要發給誰做廣告
+新一代的人沒有健全的初級舞台
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496057700.A.B62.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496057700.A.B62.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">markmark900 (markmark900)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 政府可以出來獨大嗎</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 19:34:58 2017</span></div>
+新一代的電影電視漫畫
+
+在台灣的舞台越來越小
+
+主要也是廣告收益
+
+但我是廣告主，我也不知道要發給誰做廣告
+
+新一代的人沒有健全的初級舞台
+
+請問可以考慮政府出馬統一平台嗎
+
+
+
+電影方面，
+新電影人剛募到款，搞不好是一生一次的一搏要跟好萊塢幾十億大片打對台
+
+如果全面管制好萊塢電影，雖然大家一開始會不喜歡，一開始的國產電影也許也不會好，
+但年輕人成功會有舞台，產出神作的機率就會高
+
+
+電視方面，
+新一代的年輕人也不大愛看電視，頻道太多沒有集中力資金成本擠不出來，畢竟沒人要做
+虧本投資
+
+
+漫畫方面，
+漫畫被幾個app吃掉，但每個都很小
+
+政府是不是該把權力收回來，集中所有的力量了呢，台灣就那麼小，資源如此分散，就會
+看到很多一百萬的投資，非常少千萬與億的投資
+
+
+我在大陸一些時間，覺得他們的運作方式，除了明顯置入性廣告很不喜歡，但能成功培養
+收視群與實質廣告收入，因為大部分人現在的收視習慣已經是節目去配合人，像Netflix
+那樣，不喜歡大陸可以，但成功有效的模式我們就要虛心去學
+
+如果全台只有一個政府獨資，像騰訊那樣的頻道，網路手機電視平板都可以看，其他都要
+在它之下，這樣在首頁的廣告一定可以有龐大收益，各個節目也會有廣告收益
+
+現在大家是電視看看，看不到就去看YouTube, 錢給Google賺，Youtube點擊率再高也是那
+一點錢
+
+漫畫也是，幾個企業在那邊玩，互相競爭市場越來越小，如果政府統一規定平台只有他那
+一個，就可以集中力量與廣告收益
+
+也可以規定所有收益一定要投資在劇作或漫畫裡
+
+雖然鄉民喜歡妄自菲薄，但這方面我們是有很多很棒很棒的人才的，他們需要舞台
+
+當然會有些問題，但如果能讓智囊團動起來，真正大刀闊斧去創造一個統一平臺，對我們
+新一代的人才才能有地方發揮不是嗎
+
+
+認真誠心請教各位大大
+
+
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.14.1.65
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496057700.A.B62.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496057700.A.B62.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 要被桶了</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gankgf</span><span class="f3 push-content">: 拍一部立院人生應該不少人會買單</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazwsx0128</span><span class="f3 push-content">: 刁民：圖利特定廠商、政府搶錢、黨媒、政府沒效率、</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neverfor</span><span class="f3 push-content">: 88</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 看一下公股銀行的行動支付</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazwsx0128</span><span class="f3 push-content">: 、資源分配不均、重北輕南、...   其他自己想</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 你系在手動置底逆</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 你確定什麼都要政府來嗎？呵呵</span><span class="push-ipdatetime"> 05/29 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leon82guy</span><span class="f3 push-content">: 這應該就是資本主義盲點吧，有得有失阿</span><span class="push-ipdatetime"> 05/29 19:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackzero1</span><span class="f3 push-content">: 手動置底，而且你是想讓電影界變成垃圾箘嗎</span><span class="push-ipdatetime"> 05/29 19:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">blackzero1</span><span class="f3 push-content">: 補噓</span><span class="push-ipdatetime"> 05/29 19:50
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496057700.A.B62.html?cacheKey=2052-1986170&offset=2814&offset-sig=81b2ba640798575b6aeff2a523e3ba7c73e8e289" data-longpollurl="/v1/longpoll?id=09688da804c7aec4dbb423687a48010677c08556" data-offset="2814"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

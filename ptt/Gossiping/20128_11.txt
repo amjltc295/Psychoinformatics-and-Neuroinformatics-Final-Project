@@ -1,0 +1,257 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495003914.A.C5D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台灣機器人教育還在樂高層次 盧建邦：我 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="台灣機器人教育還在樂高層次　盧建邦：我們恐連日本高中生都打不過
+2017-05-17 快點TV
+http://gotv.ctitv.com.tw/2017/05/515002.htm
+當日本已有能力製造出Kuratas這類身高近4公尺的格鬥機器人時，台灣卻連科普教育都還有待加強。ROBOSMART機器人教室指導老師盧建邦直言，「台灣機器人教育，還停留在樂高的層次，想和其他國家競爭，我們可能連日本高中生都打不過。」
+「921地震發生時，我還在讀高中，但那時，我就希望，自己有朝一日，能做出一台搜救機器人，協助救災。」從小就是機器人迷，畢業自成大工程科學研究所的盧建邦，沒選擇「科技新貴」之路，而是順從自身興趣，走上推廣機器人教育一途，迄今已逾5年。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台灣機器人教育還在樂高層次 盧建邦：我">
+<meta property="og:description" content="台灣機器人教育還在樂高層次　盧建邦：我們恐連日本高中生都打不過
+2017-05-17 快點TV
+http://gotv.ctitv.com.tw/2017/05/515002.htm
+當日本已有能力製造出Kuratas這類身高近4公尺的格鬥機器人時，台灣卻連科普教育都還有待加強。ROBOSMART機器人教室指導老師盧建邦直言，「台灣機器人教育，還停留在樂高的層次，想和其他國家競爭，我們可能連日本高中生都打不過。」
+「921地震發生時，我還在讀高中，但那時，我就希望，自己有朝一日，能做出一台搜救機器人，協助救災。」從小就是機器人迷，畢業自成大工程科學研究所的盧建邦，沒選擇「科技新貴」之路，而是順從自身興趣，走上推廣機器人教育一途，迄今已逾5年。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495003914.A.C5D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495003914.A.C5D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">andy2011 (andy2011)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台灣機器人教育還在樂高層次 盧建邦：我</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 14:50:54 2017</span></div>
+
+台灣機器人教育還在樂高層次　盧建邦：我們恐連日本高中生都打不過
+2017-05-17 快點TV
+<a href="http://gotv.ctitv.com.tw/2017/05/515002.htm" target="_blank" rel="nofollow">http://gotv.ctitv.com.tw/2017/05/515002.htm</a>
+
+當日本已有能力製造出Kuratas這類身高近4公尺的格鬥機器人時，台灣卻連科普教育都還有待加強。ROBOSMART機器人教室指導老師盧建邦直言，「台灣機器人教育，還停留在樂高的層次，想和其他國家競爭，我們可能連日本高中生都打不過。」
+
+「921地震發生時，我還在讀高中，但那時，我就希望，自己有朝一日，能做出一台搜救機器人，協助救災。」從小就是機器人迷，畢業自成大工程科學研究所的盧建邦，沒選擇「科技新貴」之路，而是順從自身興趣，走上推廣機器人教育一途，迄今已逾5年。
+
+想做出好的搜救機器人，須先建立紮實的科普教育基礎。「當初開始做，發現投入的人不多」，但，台灣沒人做，不代表國外也沒人做；2013年，盧建邦帶著學生參加「國際智慧人形機器人競賽ROBO-ONE」，一舉奪下格鬥賽組亞軍，取得日本ROBO-ONE參賽資格，未料，去了日本才發現，台日之間實力落差之大。
+
+<a href="https://youtu.be/GDZsy2VTHNo" target="_blank" rel="nofollow">https://youtu.be/GDZsy2VTHNo</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/GDZsy2VTHNo" frameborder="0" allowfullscreen></iframe></div></div></div>▲盧建邦指導華夏科技大學學生參加機器人競賽。（影片／記者林信男攝）
+
+「日本從國中就開始接觸人形機器人，他們不是寫很簡單的程式，高中生就有能力做出類似安東尼的機器人，台灣就算是碩士生，也不見得有這能力，這讓我們很Shock！」
+
+盧建邦說，日本在國中階段，就會接觸一些機器人相關套件，高中階段，就可以實作，「他們是正式教育，很深入地去學習。」
+
+至於台灣，盧建邦感嘆，相關師資十分缺乏，且專業能力有一定門檻，「你必須懂結構、程式、電子電路，表達能力也要不錯，要能和小朋友溝通。」
+
+盧建邦形容，目前台灣機器人教育，還停留在樂高的層次，要學生自己DIY做一台人形機器人，難度很高；值得注意的是，若無法讓機器人教育向下紮根，當台灣學生要和他國人才競爭時，「我們可能連日本高中生都打不過」。
+
+過去，台灣許多家長抱持「反正考試不會考，何必學機器人」的觀念；不過，盧建邦強調，機器人是一項跨領域專業，會應用到機械、電子、電機、程式相關知識，懂機器人，可望成為搶手人才。
+
+他以ROBOFACTORY機器人教室指導老師胡哲瑋為例指出，當初胡在日本學習機器人（東京デザインテクノロジーセンター專門學校機器人設計科）時，就有許多企業積極爭取，希望胡返台後，能到公司任職。
+
+近年來，受創客（Maker）風潮影響，機器人議題開始發燒，社會大眾關心程度，也明顯提升；然而，在政策方面，盧建邦感嘆，「感覺不到國家有在重視這個事情，我們的觀念很單純，國家不做，我們自己來做。」
+▶▶文章來源：智慧機器人網
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.147.26.139
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495003914.A.C5D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495003914.A.C5D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk7763</span><span class="f3 push-content">: 在年改前瞻中，沒空</span><span class="push-ipdatetime"> 05/17 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SidMax</span><span class="f3 push-content">: 小朋友玩的那個 都套指令而已 又不是真的在搞機器人</span><span class="push-ipdatetime"> 05/17 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andyher</span><span class="f3 push-content">: 每個老師都覺得他專長那一類教育很重要，不能等……</span><span class="push-ipdatetime"> 05/17 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ru04hj4</span><span class="f3 push-content">: $$$$ 樂高機器人都要破萬了</span><span class="push-ipdatetime"> 05/17 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SidMax</span><span class="f3 push-content">: 要說能學到什麼 根本很難</span><span class="push-ipdatetime"> 05/17 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linfon00</span><span class="f3 push-content">: 樂高學的是控制</span><span class="push-ipdatetime"> 05/17 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 所以日本高中生都會寫Verilog了？</span><span class="push-ipdatetime"> 05/17 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">theeht</span><span class="f3 push-content">: 都在造鋼彈了 誰打得過</span><span class="push-ipdatetime"> 05/17 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ujay1990</span><span class="f3 push-content">: 没有好的就業出路一切免談，而且他也是靠教育謀生啊</span><span class="push-ipdatetime"> 05/17 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nerv</span><span class="f3 push-content">: 每個人都覺得自己領域很重要，但又說服不了人投錢投力加入，</span><span class="push-ipdatetime"> 05/17 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nerv</span><span class="f3 push-content">: 不是很矛盾嗎？</span><span class="push-ipdatetime"> 05/17 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yangcain</span><span class="f3 push-content">: 日本高中生整天拯救世界欸</span><span class="push-ipdatetime"> 05/17 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc1217</span><span class="f3 push-content">: 你連樂高機器人都做不好 如何做搜救機器人</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newtonyd</span><span class="f3 push-content">: 我唸國中的時候 能用卡西歐的工程計算機編程寫猜數字</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newtonyd</span><span class="f3 push-content">: 老師也沒教啊 今年初唸小四的兒子說學校老師有教一款在a</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunnywing</span><span class="f3 push-content">: 日本小學生就在開機器人保衛世界和平</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc1217</span><span class="f3 push-content">: 樂高機器人的重點在邏輯和程式控制吧</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">myloso</span><span class="f3 push-content">: 日本高中生一狗票神人，打拳的，收妖的</span><span class="push-ipdatetime"> 05/17 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newtonyd</span><span class="f3 push-content">: Android上開發的機器人套件 說要買看他也指示在電腦上</span><span class="push-ipdatetime"> 05/17 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newtonyd</span><span class="f3 push-content">: 玩玩指令 大概這就是機器人教育吧</span><span class="push-ipdatetime"> 05/17 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc1217</span><span class="f3 push-content">: 而且明明一堆高職跟科大都有組隊參加機器人比賽</span><span class="push-ipdatetime"> 05/17 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zebracoco</span><span class="f3 push-content">: 廠商：機器人都沒人買，趕快出來恐嚇一下</span><span class="push-ipdatetime"> 05/17 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newtonyd</span><span class="f3 push-content">: 反正競爭力下降就推給教改失敗就全對了</span><span class="push-ipdatetime"> 05/17 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 阿姆羅讀國中就做出哈囉了</span><span class="push-ipdatetime"> 05/17 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 拜託，別越級太多想打魔王，台灣的機器人技術連韓國都不</span><span class="push-ipdatetime"> 05/17 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 屑當對手好嗎... =&#34;=</span><span class="push-ipdatetime"> 05/17 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boardsee</span><span class="f3 push-content">: 機器人可以釋放勞力 卻是台灣勞工的敵人..</span><span class="push-ipdatetime"> 05/17 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KNVSEOC</span><span class="f3 push-content">: 日本機器人的執念很強，從很早就開始研究了，當然有很大</span><span class="push-ipdatetime"> 05/17 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KNVSEOC</span><span class="f3 push-content">: 的落差。只不過台灣的風氣就是這樣嘛，光看那些運動協會</span><span class="push-ipdatetime"> 05/17 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KNVSEOC</span><span class="f3 push-content">: 就知道了，永遠都在殺豬公，怎麼可能馬上就可以上外太空</span><span class="push-ipdatetime"> 05/17 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newtonyd</span><span class="f3 push-content">: 台灣現在就是你做什麼都反對 然後一事無成才怪東怪西</span><span class="push-ipdatetime"> 05/17 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 最近想哭蠕蟲的測試結果台商趨勢科技和各家中商一樣全被</span><span class="push-ipdatetime"> 05/17 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 美歐俄產品輕鬆打趴 -- 這還是台灣的較強項呢！</span><span class="push-ipdatetime"> 05/17 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 越來越確定台灣只剩半導體產業可以打了... QQ</span><span class="push-ipdatetime"> 05/17 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">audi1005</span><span class="f3 push-content">: 越級打怪...連樂高機器人都未必玩得好了</span><span class="push-ipdatetime"> 05/17 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 搞半天不就是為了生意嗎</span><span class="push-ipdatetime"> 05/17 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IQIQ200</span><span class="f3 push-content">: 喔~</span><span class="push-ipdatetime"> 05/17 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brke</span><span class="f3 push-content">: maker有很多小孩子擺攤展示 可是很多都買現成稍微組裝</span><span class="push-ipdatetime"> 05/17 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloud0607</span><span class="f3 push-content">: 台灣的觀念跟教育不就專門教出一堆奴工 機器人什麼的怎</span><span class="push-ipdatetime"> 05/17 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloud0607</span><span class="f3 push-content">: 麼比得上醫生律師這些高等奴呢</span><span class="push-ipdatetime"> 05/17 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vvrr</span><span class="f3 push-content">: 真的。日本連開機器人的都是國中生，更不用說高中生了</span><span class="push-ipdatetime"> 05/17 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sadmonkey</span><span class="f3 push-content">: 推廣才有話題有新聞，才能賣機器人給小朋友賺快錢</span><span class="push-ipdatetime"> 05/17 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SinPerson</span><span class="f3 push-content">: 台灣科幻作品不發達，導致對未來沒有想像與憧憬</span><span class="push-ipdatetime"> 05/17 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sadmonkey</span><span class="f3 push-content">: 做出好的搜救機器人靠的是研發專利，在技術已經落後別</span><span class="push-ipdatetime"> 05/17 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SinPerson</span><span class="f3 push-content">: 就連機器人也是世界在發展，所以不跟隨這風氣就沒前途</span><span class="push-ipdatetime"> 05/17 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LiuSky</span><span class="f3 push-content">: 怪不得某個清大退休機械系教授這麼仇日 因為太廢了</span><span class="push-ipdatetime"> 05/17 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SinPerson</span><span class="f3 push-content">: 你問年輕人想像中的機器人，說不定心中也沒有一個藍圖</span><span class="push-ipdatetime"> 05/17 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sadmonkey</span><span class="f3 push-content">: 人好幾年的情形下，要追別人產業發展本來就不是件容易</span><span class="push-ipdatetime"> 05/17 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sadmonkey</span><span class="f3 push-content">: 的事，但跟推廣機器人普及教育相關性真的不大</span><span class="push-ipdatetime"> 05/17 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ofianse</span><span class="f3 push-content">: 國高中三點下課 有時間給學生摸 你要台灣下課補習玩個屁</span><span class="push-ipdatetime"> 05/17 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flysonics</span><span class="f3 push-content">: 可望 科科 念控制的有幾個人出來真的有幸能做機器人的</span><span class="push-ipdatetime"> 05/17 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 機器人整體產業中較偏向 CS 的部分也早已被美國、德國、</span><span class="push-ipdatetime"> 05/17 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 瑞士的核心專利地圖卡死，台灣根本連髮尾都洗不下去 wwww</span><span class="push-ipdatetime"> 05/17 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bj45566</span><span class="f3 push-content">: 自控和動機方面則是更早就被德日卡死...</span><span class="push-ipdatetime"> 05/17 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">halfjustice</span><span class="f3 push-content">: 台灣都在培養新人類啊 毒物改造身體慣老闆強化心理</span><span class="push-ipdatetime"> 05/17 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mozar</span><span class="f3 push-content">: 台灣不意外</span><span class="push-ipdatetime"> 05/17 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hmchang12</span><span class="f3 push-content">: 台灣不要被東南亞超越就不錯了 還想跟日本比？</span><span class="push-ipdatetime"> 05/17 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 前瞻計畫表示軌道運輸比這些前瞻多了</span><span class="push-ipdatetime"> 05/17 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goodsnk</span><span class="f3 push-content">: 怎麼直接跟日本比啊？</span><span class="push-ipdatetime"> 05/17 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justiceyes</span><span class="f3 push-content">: 日本三十幾年前就開發出鋼彈了，誰能追得上</span><span class="push-ipdatetime"> 05/17 15:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lianginptt</span><span class="f3 push-content">: 仔細想想，台灣的義務理化教育也是都教些生活中陌生的</span><span class="push-ipdatetime"> 05/17 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lianginptt</span><span class="f3 push-content">: 原理與性質，難怪學生沒有興趣</span><span class="push-ipdatetime"> 05/17 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 台灣還是專心做美食觀光實在啦</span><span class="push-ipdatetime"> 05/17 15:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 這種人民素質超適合觀光啊 治安好對外國人又友善</span><span class="push-ipdatetime"> 05/17 15:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mingdao</span><span class="f3 push-content">: 十多年前美國的機器人格鬥真的蠻有趣的</span><span class="push-ipdatetime"> 05/17 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 半導體高科技又有污染又要耗電 覺青又討厭</span><span class="push-ipdatetime"> 05/17 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 台塑賺一堆又有分給鄰居還是牆倒眾人推</span><span class="push-ipdatetime"> 05/17 16:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kphuang</span><span class="f3 push-content">: 日本做出鋼彈我也不意外</span><span class="push-ipdatetime"> 05/17 16:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 結論就是科技業完全不適用這裡 大家一起觀光救台灣</span><span class="push-ipdatetime"> 05/17 16:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">menshuei</span><span class="f3 push-content">: 台灣理化基本功很足啊，就是站穩腳步，動手做雖也不錯，</span><span class="push-ipdatetime"> 05/17 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">menshuei</span><span class="f3 push-content">: 但是高深抽象的學理需要堅實的基礎知識，這只是取向的</span><span class="push-ipdatetime"> 05/17 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">menshuei</span><span class="f3 push-content">: 不同而已，或許日本人在機器人很利害，但台灣的優勢就是</span><span class="push-ipdatetime"> 05/17 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">menshuei</span><span class="f3 push-content">: 機器人內的專業零組件，日本只是把它拼裝起來。</span><span class="push-ipdatetime"> 05/17 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: 只是拼裝起來...</span><span class="push-ipdatetime"> 05/17 16:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">menshuei</span><span class="f3 push-content">: 不過也不用太擔心啦，政府已經成立智慧機械推動辦公室，</span><span class="push-ipdatetime"> 05/17 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">menshuei</span><span class="f3 push-content">: 以後台灣機械產業也是相當看好。</span><span class="push-ipdatetime"> 05/17 16:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">reigon1126</span><span class="f3 push-content">: 有個高中生是世界冠軍 他爸是最強生物</span><span class="push-ipdatetime"> 05/17 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Aliensoul</span><span class="f3 push-content">: 人家有自由鋼彈 怎麼比</span><span class="push-ipdatetime"> 05/17 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infor</span><span class="f3 push-content">: 台灣教育跟不上</span><span class="push-ipdatetime"> 05/17 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku11</span><span class="f3 push-content">: 人家有鋼彈誒，我們要怎麼比?</span><span class="push-ipdatetime"> 05/17 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tommy421</span><span class="f3 push-content">: 檢討家長前 先檢討前瞻計畫內 沒有機器人 你敢嘴DPP?</span><span class="push-ipdatetime"> 05/17 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tommy421</span><span class="f3 push-content">: 前瞻計畫8800億 蓋捷運 治水 你敢嘴?</span><span class="push-ipdatetime"> 05/17 16:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wlsh5701</span><span class="f3 push-content">: 日本高中生都在拯救世界 怎麼打？</span><span class="push-ipdatetime"> 05/17 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fragmentwing</span><span class="f3 push-content">: 日本的高中生都會做鋼彈了</span><span class="push-ipdatetime"> 05/17 17:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gang16</span><span class="f3 push-content">: 貓型機器人才是王道</span><span class="push-ipdatetime"> 05/17 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghrpjjh6es</span><span class="f3 push-content">: 把歷史課刪掉啊，多的時間加在專業上</span><span class="push-ipdatetime"> 05/17 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tuna0214</span><span class="f3 push-content">: 事實</span><span class="push-ipdatetime"> 05/17 17:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">phi0918</span><span class="f3 push-content">: 台灣零組件厲害，你在跟我開玩笑嗎XD</span><span class="push-ipdatetime"> 05/17 17:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">phi0918</span><span class="f3 push-content">: 厲害是厲害啦，跟日本比就差一截了，更別說德國</span><span class="push-ipdatetime"> 05/17 17:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yellowboy</span><span class="f3 push-content">: 趕快做一個太極機器人 天下無敵</span><span class="push-ipdatetime"> 05/17 17:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tin123210</span><span class="f3 push-content">: 日本高中生會開鋼彈欸，誰贏的了</span><span class="push-ipdatetime"> 05/17 17:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waiter337</span><span class="f3 push-content">: 日本鋼彈57%小學生都喜歡高達</span><span class="push-ipdatetime"> 05/17 18:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mimikillua</span><span class="f3 push-content">: 這個真的很有趣耶</span><span class="push-ipdatetime"> 05/17 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">airmike</span><span class="f3 push-content">: 總統前瞻計畫都在蓋軌道 玩湯瑪士錯了嗎?</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jimmy5670</span><span class="f3 push-content">: 很簡單，因為太多父母問說學這有啥用？又吃不飽</span><span class="push-ipdatetime"> 05/17 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jimmy5670</span><span class="f3 push-content">: 然後就變成今天這局面了</span><span class="push-ipdatetime"> 05/17 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Matsuyama</span><span class="f3 push-content">: 每個老師都覺得自己教的領域 國家一定要重視</span><span class="push-ipdatetime"> 05/17 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pipiann</span><span class="f3 push-content">: 日本高中生都在鋼彈跟EVA層次~~~</span><span class="push-ipdatetime"> 05/17 19:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">apuesto0718</span><span class="f3 push-content">: 推阿邦</span><span class="push-ipdatetime"> 05/17 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yogurt0313</span><span class="f3 push-content">: 覺得應該要成立機器人辦公室</span><span class="push-ipdatetime"> 05/17 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 拜託 日本高中生都在開鋼彈了 是要怎比</span><span class="push-ipdatetime"> 05/17 20:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 其實就單純 日本的機器人模組套件的商業市場比較大</span><span class="push-ipdatetime"> 05/17 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 就像台灣人很會組電腦一樣, 主要還是市場導向</span><span class="push-ipdatetime"> 05/17 20:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Zombieslayer</span><span class="f3 push-content">: 代工式教育</span><span class="push-ipdatetime"> 05/17 20:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/17 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a904472000</span><span class="f3 push-content">: 總之先研究破滅魔劍</span><span class="push-ipdatetime"> 05/18 01:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cyuhsuan</span><span class="f3 push-content">: 怪誰？教改？</span><span class="push-ipdatetime"> 05/18 12:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1len</span><span class="f3 push-content">: 風氣沉溺在金錢瓜分遊戲，抄襲不創造永遠落在人後</span><span class="push-ipdatetime"> 05/18 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kuokevin</span><span class="f3 push-content">: 3千萬人口不到的地方，事事要和幾億人口大國比，比的完</span><span class="push-ipdatetime"> 05/21 13:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuokevin</span><span class="f3 push-content">: 嗎?專精在部分產業不好嗎?</span><span class="push-ipdatetime"> 05/21 13:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495003914.A.C5D.html?cacheKey=2052-41878079&offset=13598&offset-sig=1fba08f3f4931048fb80d86ee271e6b50c8bc1df" data-longpollurl="/v1/longpoll?id=2626eb2dfe26a4120a0b9af4f9bab36914b2d104" data-offset="13598"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

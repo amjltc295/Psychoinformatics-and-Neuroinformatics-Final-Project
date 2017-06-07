@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495030124.A.003.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] AMD下一款處理器顯示卡 確定跨入7nm製程 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="AMD下一款處理器、顯示卡 確定跨入7nm製程
+https://udn.com/news/story/7087/2468681
+去年傳出將直接從現有14nm製程跨進7nm製程消息後，AMD在稍早舉辦的分析師日活動中，
+由技術長Mark Papermaster透露接下來推出的Zen 2、Zen 3架構處理器都將採用7nm
+FinFET製程，其中前者預計將可在2018年左右推出，而後者則預計在2019年左右推出，並
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] AMD下一款處理器顯示卡 確定跨入7nm製程">
+<meta property="og:description" content="AMD下一款處理器、顯示卡 確定跨入7nm製程
+https://udn.com/news/story/7087/2468681
+去年傳出將直接從現有14nm製程跨進7nm製程消息後，AMD在稍早舉辦的分析師日活動中，
+由技術長Mark Papermaster透露接下來推出的Zen 2、Zen 3架構處理器都將採用7nm
+FinFET製程，其中前者預計將可在2018年左右推出，而後者則預計在2019年左右推出，並
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495030124.A.003.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495030124.A.003.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">sb5471 (sb)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] AMD下一款處理器顯示卡 確定跨入7nm製程</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 22:08:38 2017</span></div>
+
+AMD下一款處理器、顯示卡 確定跨入7nm製程
+<a href="https://udn.com/news/story/7087/2468681" target="_blank" rel="nofollow">https://udn.com/news/story/7087/2468681</a>
+
+
+去年傳出將直接從現有14nm製程跨進7nm製程消息後，AMD在稍早舉辦的分析師日活動中，
+由技術長Mark Papermaster透露接下來推出的Zen 2、Zen 3架構處理器都將採用7nm
+FinFET製程，其中前者預計將可在2018年左右推出，而後者則預計在2019年左右推出，並
+且將採用改良版7nm FinFET+製程設計。
+
+另外，AMD也確認在Vega顯示架構之後，將持續推出的Navi顯示架構將採用7nm FinFET製
+程，而下一階段的顯示架構則將往7nm FinFET+製程發展。
+
+
+若沒意外的話，AMD確定將藉由直接從14nm FinFET跳轉7nm FinFET形式，藉此縮減與競爭
+對手Intel之間的市場差距。而採Zen 2架構設計的處理器代號預期為Pinnacle Ridge，將
+取代現行Summit Ridge平台。
+
+在處理器進入7nm FinFET製程發展，AMD也同步讓下一款顯示架構Navi進入7nm FinFET製
+程，同時在未來推行顯示架構更將採用7nm FinFET+製程。
+
+
+至於今年夏季推出、採16核心與32執行緒設計，同時代號Whitehaven的Threadpipper平台
+桌機款處理器，將搭配AMD X399晶片組主機板使用，預計將在今年Computex 2017期間正
+式揭曉，預期將用於對抗Intel準備公布的Skylake-X、Kaby Lake-X處理器。
+
+代號Naples，同時核心架構同樣採Zen設計的伺服器用處理器EPYC也在此次分析師日亮相
+，最高核心數量達32核，支援64執行緒、雙4通道記憶體，以及最大128條PCIe Gen 3通道
+，並且用於2U形式設計的伺服器。
+
+而鎖定筆電產品使用的Ryzen Mobile處理器，相比先前A系列APU約提昇50%處理器效能與
+40%GPU效能，同時在電力損耗更降低高達50%比例，其中GPU更導入Vega顯示架構，預計最
+快今年下半年內將先以消費機種形式進入市場，預計明年上半年才會推出商用機種。
+
+----------
+AMD $11.9751  0.7749    ↓6.08%
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.227.180.109
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495030124.A.003.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495030124.A.003.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a8330028</span><span class="f3 push-content">: 重返農藥</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thejam</span><span class="f3 push-content">: GF做得出來？</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">badbadook</span><span class="f3 push-content">:        有很屌?</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Feketerigo</span><span class="f3 push-content">: 一樣GF做喔?  那不期不待拉</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">harry3875</span><span class="f3 push-content">: Obov又虧了</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinkowa</span><span class="f3 push-content">: 沒用台G 產品GG amd  bye bye</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: obov復出遙遙無期</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">osbsd1</span><span class="f3 push-content">: obov虧大</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lucifiel1618</span><span class="f3 push-content">: 明明就復出有望啊，教主現在應該負能量很滿吧</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gary1198</span><span class="f3 push-content">: 對手是外星科技，四海遊龍啊！</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tom928</span><span class="f3 push-content">: 只有 PPT</span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: GF的7nm...量產大概2020以後了吧</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kitakami</span><span class="f3 push-content">: 繼續使用GF 繼續被NVIDIA屌打</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerry112</span><span class="f3 push-content">: 教主再戰10年</span><span class="push-ipdatetime"> 05/17 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">henrylin8086</span><span class="f3 push-content">: 重返</span><span class="push-ipdatetime"> 05/17 23:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495030124.A.003.html?cacheKey=2052-41911320&offset=3268&offset-sig=b7c4998b73d45413c2e1c9cd0ee310b8f2bcc024" data-longpollurl="/v1/longpoll?id=f2685155ca2b79abcfc27be34df13d08348b7915" data-offset="3268"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

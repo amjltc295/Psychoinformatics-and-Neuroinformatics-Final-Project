@@ -1,0 +1,216 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496331705.A.16A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 台灣半導體究竟再撐幾年的八卦？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="過去二三十年來，
+半導體業是台灣的經濟命脈。
+台灣半導體產業在世界上占有舉足輕重的地位，
+產業鍊又以GG為首，
+搭配上下游公司，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 台灣半導體究竟再撐幾年的八卦？">
+<meta property="og:description" content="過去二三十年來，
+半導體業是台灣的經濟命脈。
+台灣半導體產業在世界上占有舉足輕重的地位，
+產業鍊又以GG為首，
+搭配上下游公司，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496331705.A.16A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496331705.A.16A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">insomeday (LebnitzGauss)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 台灣半導體究竟再撐幾年的八卦？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 23:41:38 2017</span></div>
+過去二三十年來，
+
+半導體業是台灣的經濟命脈。
+
+台灣半導體產業在世界上占有舉足輕重的地位，
+
+產業鍊又以GG為首，
+
+搭配上下游公司，
+
+形成緊密的生產線。
+
+
+然而近幾年來，
+
+強國透過不斷地收購公司、竊取機密、惡意挖角、政治施壓，
+
+使得台灣的半導體業體質逐漸衰微。
+
+台灣外有強敵如三星, intel夾擊，
+
+內有滯台中國人洩漏機密給強國,
+
+處境可說是十分的艱困。
+
+目前GG在Morris帶領之下，前途還算是OK的。
+
+但除了GG之外的大部分公司IC相關公司，
+
+面對內外夾擊，
+
+狀況可說是舉步維艱。
+
+
+舉IC設計龍頭發哥為例，
+
+發哥這幾年面對中共施壓，
+
+以及隨著高通幾近殲滅的行銷策略奏效，
+
+發哥這幾年獲利大幅衰退。
+
+許多新聞都看衰發哥的未來，
+
+甚至許多人都預測發哥會步上HTC的後塵。
+
+
+有沒有台灣半導體業可以再撐多久的八卦？
+
+
+
+--
+遵胡錦濤的指令，即<span class="f3 hl">『絕不允許台灣選舉再次平穩進行』</span>,
+辛旗於<span class="f3 hl">2003年四月</span>完成<span class="f3 hl">2004台灣大選期間製造槍擊事件設計</span>。
+他將這個計畫定名為<span class="f3 hl">『燭光斧影』</span>。
+...<span class="f3 hl">『燭光斧影』</span>的政治目標在於，在世界範圍內產生
+<span class="f3 hl">『台灣的民主就等於混亂;台灣的選舉就是政客操縱的陰謀』</span>的輿論效應
+from &lt;&lt;被囚禁的台灣&gt;&gt; 袁紅冰  2012
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.97.250
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496331705.A.16A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496331705.A.16A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 看張忠謀何時退休吧</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><span class="f2">※ 編輯: insomeday (36.226.97.250), 06/01/2017 23:42:49
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 再戰87年</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elec1141</span><span class="f3 push-content">: 張忠謀死的時候</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 不出10年</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">elvic041402</span><span class="f3 push-content">: 10秒</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 兩個月</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 看強國人的肝有沒有台灣工程師的硬啊</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 台灣該轉型了</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AppleOuO</span><span class="f3 push-content">: 你也太看不起台積電</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div>
+ＧＧ還不錯，
+
+但其他的很難講。
+<span class="f2">※ 編輯: insomeday (36.226.97.250), 06/01/2017 23:48:04
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aliass</span><span class="f3 push-content">: 到時覺青得償所願可以咖啡店立國</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oaoa0123</span><span class="f3 push-content">: 百足之蟲，死而不僵</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alen0303</span><span class="f3 push-content">: 悲觀者:只剩十年  樂觀者:再戰十年</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">daywalker</span><span class="f3 push-content">: 喝地溝油的命 操中南海的心</span><span class="push-ipdatetime"> 06/01 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 覺青:快滾出臺灣，用愛發電的咖啡店才有機會</span><span class="push-ipdatetime"> 06/01 23:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Yadsmood</span><span class="f3 push-content">: 核能電廠退役時</span><span class="push-ipdatetime"> 06/01 23:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 看看南韓三星中國紅色供應鍊當初有多嗆多嘴</span><span class="push-ipdatetime"> 06/01 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FK56</span><span class="f3 push-content">: 張忠謀下台就差不多了</span><span class="push-ipdatetime"> 06/01 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nxuu3u2ye</span><span class="f3 push-content">: 文組白痴一堆</span><span class="push-ipdatetime"> 06/01 23:48
+</span></div><span class="f2">※ 編輯: insomeday (36.226.97.250), 06/01/2017 23:51:45
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Cger</span><span class="f3 push-content">: 上一個唱雖Gg的人，墓草比人高了</span><span class="push-ipdatetime"> 06/01 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: GG穩的很 但是要留意發哥</span><span class="push-ipdatetime"> 06/01 23:52
+</span></div><span class="f2">※ 編輯: insomeday (36.226.97.250), 06/01/2017 23:55:21
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stja</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/01 23:54
+</span></div><span class="f2">※ 編輯: insomeday (36.226.97.250), 06/01/2017 23:57:08
+</span><span class="f2">※ 編輯: insomeday (36.226.97.250), 06/01/2017 23:58:06
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 坦白說TSMC沒有上面整排想的樂觀</span><span class="push-ipdatetime"> 06/02 00:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 企業的命脈是人，TSMC的問題是張忠謀後的接班問題</span><span class="push-ipdatetime"> 06/02 00:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 各位真是健忘，張忠謀上次退，TSMC遇到多大危機</span><span class="push-ipdatetime"> 06/02 00:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 然後張回鍋救火之後才又解決。所以這間皇帝制的企業</span><span class="push-ipdatetime"> 06/02 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 到底能不能接棒轉骨還要觀察，絕對不是穩如泰山</span><span class="push-ipdatetime"> 06/02 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 事物具體而微，雖然這是TSMC一間公司的企業文化問題</span><span class="push-ipdatetime"> 06/02 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ZMittermeyer</span><span class="f3 push-content">: 同時也是台灣一萬間企業的共同類似問題</span><span class="push-ipdatetime"> 06/02 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenndy</span><span class="f3 push-content">: 老闆跌倒會上新聞可見大家心裡有數</span><span class="push-ipdatetime"> 06/02 01:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carryton</span><span class="f3 push-content">: 我只知道有很多炒房垃圾</span><span class="push-ipdatetime"> 06/02 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carryton</span><span class="f3 push-content">: 房仲跟直銷整天唱雖科技業啦</span><span class="push-ipdatetime"> 06/02 12:04
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496331705.A.16A.html?cacheKey=2052-12485217&offset=4816&offset-sig=528d4c33489549e0c1abd7563dba19251fc63ff5" data-longpollurl="/v1/longpoll?id=e4288d6b9eb98b4bf2bca8afc095b37ee670825c" data-offset="4816"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

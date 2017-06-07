@@ -1,0 +1,173 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495712004.A.7D4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 與AlphaGo第二戰　柯潔仍有機會獲勝 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="與AlphaGo第二戰　柯潔仍有機會獲勝
+柯潔與AlphaGo第二戰於今日（25號）上午10:30開打，柯潔是否能在剩餘的賽事中逆襲，
+備受各界關注。對此，專家指出，圍棋界普遍認為柯潔執黑棋的戰力並不如執白棋強勁，
+且柯潔還有暗藏的撒手鐧「模仿棋」未出，故外界對兩方次輪對局仍有很大期待，柯潔還
+有獲勝的機會。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 與AlphaGo第二戰　柯潔仍有機會獲勝">
+<meta property="og:description" content="與AlphaGo第二戰　柯潔仍有機會獲勝
+柯潔與AlphaGo第二戰於今日（25號）上午10:30開打，柯潔是否能在剩餘的賽事中逆襲，
+備受各界關注。對此，專家指出，圍棋界普遍認為柯潔執黑棋的戰力並不如執白棋強勁，
+且柯潔還有暗藏的撒手鐧「模仿棋」未出，故外界對兩方次輪對局仍有很大期待，柯潔還
+有獲勝的機會。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495712004.A.7D4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495712004.A.7D4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">livefishfish ((*〝︵〞*))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 與AlphaGo第二戰　柯潔仍有機會獲勝</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 19:33:19 2017</span></div>
+與AlphaGo第二戰　柯潔仍有機會獲勝
+
+柯潔與AlphaGo第二戰於今日（25號）上午10:30開打，柯潔是否能在剩餘的賽事中逆襲，
+備受各界關注。對此，專家指出，圍棋界普遍認為柯潔執黑棋的戰力並不如執白棋強勁，
+且柯潔還有暗藏的撒手鐧「模仿棋」未出，故外界對兩方次輪對局仍有很大期待，柯潔還
+有獲勝的機會。
+
+根據香港媒體《香港01》報導，韓國棋手李世石對執白旗的柯潔頗具信心。作為第一位也
+是目前唯一一位在正式對局中戰勝AlphaGo的棋手，李世石說，柯潔第二盤將會執白棋，
+想必會有更好的發揮。
+
+當初李世石本人對陣AlphaGo第四局時，便是手執白棋，在第78手下了一子妙棋，令
+AlphaGo出現bug，因而成功逆轉一盤。
+
+實際上，李世石對於柯潔執白棋的期待不無道理。作為世界第一的柯潔，無論從業界棋手
+的評價還是對弈數據上來看，確實在執白棋（後手）時勝率更高，優勢更明顯。香港01統
+計了柯潔自2016年到今年對戰AlphaGo前的109場對決，其中執黑棋的勝率為65.4%，遠低
+於執白棋的勝率77.2%。
+
+另一方面，接下來的第二盤棋，左右勝負的因素除了柯潔執白棋的戰力之外，另一個便是
+柯潔究竟會不會使出撒手鐧「模仿棋」。在首輪比賽對陣AlphaGo全盤沒有失誤，卻依舊
+難覓勝機的情況下，柯潔會不會採用「模仿棋」的下法，以期找到AI的失誤，並且尋覓到
+最終的勝機？令人期待。
+
+柯潔曾經表示過，自己應對AlphaGo的「秘密武器」是模仿棋，但是他也表示，模仿棋可
+能沒有什麼作用，自己真正下的時候，不一定會用。
+
+根據之前柯潔於微博貼出與中國AI軟體「絕藝」對弈的測試棋譜，柯潔執白棋，且始終沒
+有變招，一直模仿絕藝的棋路到底。在進行200多手之後，執黑的絕藝毫無察覺，最終由
+執白的柯潔於中盤獲勝。
+
+然而，人類棋手面對模仿棋已經有了不少經驗，也有很多克制和反克制的經典棋局；目前
+AI靠自身學會破解模仿棋可能仍十分困難，但既然柯潔之前曾放出可能會走模仿棋的豪言
+，Deepmind團隊未必沒有相關的應對之策。
+
+<a href="http://www.nownews.com/n/2017/05/25/2537006" target="_blank" rel="nofollow">http://www.nownews.com/n/2017/05/25/2537006</a>
+
+--
+                                                                    <span class="f0">▃</span><span class="f0 hl">▅</span>▇<span class="f0 b7 hl">﹦≡◢
+</span>               <span class="f1 hl">你媽知道                                           </span><span class="f0">▂</span><span class="f0 b1">▅</span><span class="f0 b7 hl">◤◢▆◣█
+</span>                  <span class="f6"> </span>                                              <span class="f0">◢</span><span class="b7"> </span><span class="f0 b7">▅▃</span><span class="f0 b7 hl">◥</span><span class="f0 b1">◣</span><span class="f1 b7">◣</span><span class="f0 b7 hl">█
+</span>                   <span class="f1 hl">你在這裡看廢文嗎？                           </span>◢<span class="f0 b7">ㄑ皿 </span>▼<span class="f0 b7 hl">◤ ◢█
+</span>                                                                <span class="f0 b7">\ </span><span class="f0 b7 hl">灬  </span><span class="f0 b7">／</span><span class="f0 b7 hl">∕◢██
+</span><span class="f0">φ                                                              </span><span class="f0 b7"> ＼</span><span class="f0 b7 hl">─ ▃▅███</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.205.189.124
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495712004.A.7D4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495712004.A.7D4.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 不要在打臉了好嗎！都哭哭了！</span><span class="push-ipdatetime"> 05/25 19:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pita30</span><span class="f3 push-content">: 千萬不要投小英                               那要投誰?</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joe19941004</span><span class="f3 push-content">: 哭哭哦人類</span><span class="push-ipdatetime"> 05/25 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pita30</span><span class="f3 push-content">: 模仿棋上次紅面棋王不就用過了?</span><span class="push-ipdatetime"> 05/25 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">degneva</span><span class="f3 push-content">: 模仿棋講的好像什麼大絕招 其實根本覺得用了也沒用吧</span><span class="push-ipdatetime"> 05/25 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggoutoutder</span><span class="f3 push-content">: 白的模仿棋跟黑的布一樣 不過柯潔應該不會用</span><span class="push-ipdatetime"> 05/25 19:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 那是中國軟體太弱才會輸好嗎</span><span class="push-ipdatetime"> 05/25 19:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HeavensFeel</span><span class="f3 push-content">: 「撒手鐧」？</span><span class="push-ipdatetime"> 05/25 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HeavensFeel</span><span class="f3 push-content">: 我本來不想用這招的......</span><span class="push-ipdatetime"> 05/25 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplebfly</span><span class="f3 push-content">: 人類的模仿棋只是電腦計算過的變化之一而已</span><span class="push-ipdatetime"> 05/25 19:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">moonblacktea</span><span class="f3 push-content">: 你那邊還來得及</span><span class="push-ipdatetime"> 05/25 20:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feywen</span><span class="f3 push-content">: 執白子不會用模仿棋吧</span><span class="push-ipdatetime"> 05/26 00:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495712004.A.7D4.html?cacheKey=2052-1376773&offset=3857&offset-sig=7d67fb62ccf8dcb0d40fdd4f028af0c1c51ea817" data-longpollurl="/v1/longpoll?id=85759e68577202126c0274cddf76bbfe77e34ce8" data-offset="3857"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

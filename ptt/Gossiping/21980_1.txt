@@ -1,0 +1,191 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496249014.A.07E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 朱立倫：雙北軌道建設絕不該受忽視 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="說到這個 想起一件事
+之前2014年 XX 策 幫神豬在批踢踢上帶風向的內容 現在網路上好像搜尋不到了耶?
+還是說是其他家公司?
+另外推文顯示IP這點 掛VPN 就解決了 可能成本比較高而已
+(當然 請來帶風向薪水大概也不高就是了 會摳門 IP這麼容易被抓到重複一堆)
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 朱立倫：雙北軌道建設絕不該受忽視">
+<meta property="og:description" content="說到這個 想起一件事
+之前2014年 XX 策 幫神豬在批踢踢上帶風向的內容 現在網路上好像搜尋不到了耶?
+還是說是其他家公司?
+另外推文顯示IP這點 掛VPN 就解決了 可能成本比較高而已
+(當然 請來帶風向薪水大概也不高就是了 會摳門 IP這麼容易被抓到重複一堆)
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496249014.A.07E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496249014.A.07E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ccl007 (.......)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 朱立倫：雙北軌道建設絕不該受忽視</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 00:43:30 2017</span></div>
+<span class="f2">※ 引述《ptt987654321 (低調)》之銘言：
+</span><span class="f6">: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496234775.A.E4F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496234775.A.E4F.html</a>
+</span><span class="f6">: 原文太多43
+</span><span class="f6">: 是說
+</span><span class="f6">: 一直都有在說
+</span><span class="f6">: 有網路行銷公司在推文帶風向
+</span><span class="f6">: 建議推文顯示IP
+</span><span class="f6">: 結果被說啥對長ID不友善
+</span><span class="f6">: 問題就是有這種人啊
+</span><span class="f6">: 躲在推文不會顯示IP在那邊帶風向啊
+</span><span class="f6">: 為了杜絕這種人
+</span>
+說到這個 想起一件事
+
+之前2014年 XX 策 幫神豬在批踢踢上帶風向的內容 現在網路上好像搜尋不到了耶?
+
+還是說是其他家公司?
+
+另外推文顯示IP這點 掛VPN 就解決了 可能成本比較高而已
+
+(當然 請來帶風向薪水大概也不高就是了 會摳門 IP這麼容易被抓到重複一堆)
+
+話說半夜兩點還要上班推文
+
+難怪有人會變柯黑 台北市勞檢這樣威猛
+
+對照 桃園市勞檢 請確實 好嗎?
+
+
+地址:桃園市中壢區環北路3XX號
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.161.147.11
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496249014.A.07E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496249014.A.07E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 唯一支持剩文</span><span class="push-ipdatetime"> 06/01 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oldchang1205</span><span class="f3 push-content">: 可問四叉貓</span><span class="push-ipdatetime"> 06/01 00:45
+</span></div>
+而且我發覺有發文 挺藍還是朱 這些ID會相對友善耶 科科
+
+還蠻溫馨的 大概會判定顏色吧! ^ ^y
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 那三個id就用跳板 不過就算同ip 反正大家都在咖啡廳</span><span class="push-ipdatetime"> 06/01 01:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 只要臉皮夠厚 沒甚麼問題 畢竟這年頭錢不好賺</span><span class="push-ipdatetime"> 06/01 01:02
+</span></div>
+之前有聽過怎麼分析去抓網路風向
+
+像是母豬教居然有女性 真的蠻令人吃驚的(女人仇視女人)
+
+也難怪之前版上某些議題 推文爆好幾篇 政府愛理不理的 XD
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HBK66</span><span class="f3 push-content">: lolivo jenlei wuayi 一人三腳 專打柯p 偶而打打國昌</span><span class="push-ipdatetime"> 06/01 01:08
+</span></div>
+這個的話 懷疑這些操作可能10年前就有了吧!
+
+如果要講盲目反到底被一堆ID圍攻 上次阿扁執政末期就莫名其妙被圍好幾次
+
+說真的政黨輪替來來去去這麼多次 人民自己心中也要對不少議題有大概意見了
+
+諸如美牛美豬 要炒作很困難就這樣
+
+我的意見是 站在資訊透明化 標示美牛 美豬 讓消費者選擇
+
+看政府可以後續說出 透過跟美國談判交換到對台灣那些有利的籌碼
+
+這段話到底算挺藍還是挺綠咧
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HBK66</span><span class="f3 push-content">: 不過也會打林淑芬就怪了...</span><span class="push-ipdatetime"> 06/01 01:09
+</span></div>
+林淑芬喔 可能在那個選區 相較之下 對2.0也是個威脅吧 誰知道
+
+我一直覺得這些行銷都有點本末倒置了
+
+搞到最後跟無老鍋還是胖達人一樣
+
+寧願看臉書追蹤上百個不同領域台派的意見
+
+批判柯或者DPP 要看那些才夠水準!
+
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 打林淑芬就是dpp內鬥 跳板幫就是所有人都挑撥除了kmt</span><span class="push-ipdatetime"> 06/01 01:10
+</span></div><span class="f2">※ 編輯: ccl007 (1.161.147.11), 06/01/2017 01:21:26
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496249014.A.07E.html?cacheKey=2052-10170881&offset=2444&offset-sig=9e62a2f69183f55fec0966760372d067789bdc0e" data-longpollurl="/v1/longpoll?id=c667cab34170c8ca5b944d0d9f0d189ae882f2fc" data-offset="2444"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

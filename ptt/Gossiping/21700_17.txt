@@ -1,0 +1,146 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496069427.A.41F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「我們知道這個案子」美國國務院回應李 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+風傳媒
+2.完整新聞標題:
+「我們知道這個案子」美國國務院回應李明哲案：鼓勵兩岸對話
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「我們知道這個案子」美國國務院回應李">
+<meta property="og:description" content="1.媒體來源:
+風傳媒
+2.完整新聞標題:
+「我們知道這個案子」美國國務院回應李明哲案：鼓勵兩岸對話
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496069427.A.41F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496069427.A.41F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">fxxkleo0804 (長澤まさみ 最高！！！)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「我們知道這個案子」美國國務院回應李</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 22:50:24 2017</span></div>
+1.媒體來源:
+風傳媒
+
+2.完整新聞標題:
+「我們知道這個案子」美國國務院回應李明哲案：鼓勵兩岸對話
+
+3.完整新聞內文:
+台灣民進黨前黨工、非政府組織工作者李明哲，在中國被失踪超過兩個多月，日前一度傳出台灣總統蔡英文曾派親信到對岸營救，不過就在李明哲的妻子李凈瑜到美國首都華盛頓來尋求援助，並前往白宮會見美方高層及出席美國國會聽證之後，中國官媒中央電視台在端午節前證實，李明哲因涉嫌顛覆國家政權罪被正式逮捕，最重可判無期徒刑，台灣方麵包括陸委會與民進當都表達了嚴正抗議，李明哲的妻子李凈瑜則是徹夜未眠、身心俱疲。
+
+美國國務院東亞局發言人白康妮（Connie Paik）在答復台灣媒體的電郵中表示，國務院知道這個案子，不便公開討論外交交涉的內容，但鼓勵北京和台北當局進行建設性對話。
+
+中華戰略學會研究員李華球在海峽論談節目中表示，北京用顛覆國家政權罪來定調李明哲案，這個罪很重，但是我認為，根據李明哲他個人過去所做的工作，應該是沒有能力去顛覆國家政權，這個罪行必須是具有某種程度的權力或資助，不是一般人能夠做得到的，因此李明哲被控顛覆國家政權罪，對兩岸關係的傷害很大。
+
+《民報》時事評論員郭寶勝認為，蔡英文處理李明哲案的做法太過軟弱低調，使得李妻不得不到美國來求援，這讓蔡英文很尷尬、很丟臉，等於是打了蔡英文一個巴掌，蔡英文在民主價值上一定要強硬，以民主自由為後台挺起腰桿去向北京要人，這應該是理直氣壯的一件事情。
+
+台灣人公共事務會政策研究員林倢表示，李凈瑜到美國來的時後有向美方高層提出，依據台灣關係法，美國有義務維護台灣的人權，李凈瑜在美國國會出席聽眾會的時候，那天的主席史密斯議員也表示，他希望川普總統和副總統親自接見李凈瑜，希望川普總統跟副總統向習近平表達抗議。
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.storm.mg/article/274196" target="_blank" rel="nofollow">http://www.storm.mg/article/274196</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 5.151.46.13
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496069427.A.41F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496069427.A.41F.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: 已讀</span><span class="push-ipdatetime"> 05/29 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limoncool</span><span class="f3 push-content">: 方麵是什麼麵</span><span class="push-ipdatetime"> 05/29 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ives20130</span><span class="f3 push-content">: 台灣方麵   記者你很餓喔</span><span class="push-ipdatetime"> 05/29 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SamWhite</span><span class="f3 push-content">: 方便麵</span><span class="push-ipdatetime"> 05/29 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 真的是已讀XDD</span><span class="push-ipdatetime"> 05/29 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">as5987</span><span class="f3 push-content">: 閱。</span><span class="push-ipdatetime"> 05/29 22:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony15899</span><span class="f3 push-content">: 朕知道了</span><span class="push-ipdatetime"> 05/29 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linchen1121</span><span class="f3 push-content">: 聽到了~可以不用那麼大聲</span><span class="push-ipdatetime"> 05/29 23:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YumingHuang</span><span class="f3 push-content">: 會診單被丟回來的感覺 ..</span><span class="push-ipdatetime"> 05/29 23:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 台灣方麵包？好吃嗎？</span><span class="push-ipdatetime"> 05/29 23:16
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496069427.A.41F.html?cacheKey=2052-2028652&offset=2797&offset-sig=46cf595b4c0b8f3b308fa6d7fba034c84223b068" data-longpollurl="/v1/longpoll?id=7fd93b9f5da5bf76f18b1a61556de68c8903749a" data-offset="2797"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

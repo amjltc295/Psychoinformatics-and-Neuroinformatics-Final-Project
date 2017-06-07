@@ -1,0 +1,577 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495201935.A.99C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 新北台中高雄債務暴增百億 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="大家好
+我是小隻釋迦
+本來我不會這麼早更新債務數據的
+只是這次飆漲的真的太誇張惹
+│六都106年3月底負債 |
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 新北台中高雄債務暴增百億">
+<meta property="og:description" content="大家好
+我是小隻釋迦
+本來我不會這麼早更新債務數據的
+只是這次飆漲的真的太誇張惹
+│六都106年3月底負債 |
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495201935.A.99C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495201935.A.99C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">aotfs2013 (超星的小隻釋迦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 新北台中高雄債務暴增百億</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 21:52:11 2017</span></div>
+大家好
+我是<span class="f5 hl">小隻釋迦</span>
+
+本來我不會這麼早更新債務數據的
+只是這次飆漲的真的太誇張惹
+
+│六都106年3月底負債 |
+╭═════════╦═════════╦════════╦════════╮
+║城市／單位：新台幣║   105年底負債    ║      增減      ║  106年3月負債  ║
+║      　億元      ║                  ║                ║                ║
+╠═════════╬═════════╬════════╬════════╣
+║      臺北市      ║      1168億      ║    增  0億     ║     1168億     ║
+╠═════════╬═════════╬════════╬════════╣
+║      新北市      ║      1367億      ║    增111億     ║     1478億     ║
+╠═════════╬═════════╬════════╬════════╣
+║      桃園市      ║      <span class="f2 hl">190億       </span>║    增 10億     ║      <span class="f2 hl">200億     </span>║
+╠═════════╬═════════╬════════╬════════╣
+║      臺中市      ║      855億       ║    <span class="f6 hl">增114億</span>     ║      969億     ║
+╠═════════╬═════════╬════════╬════════╣
+║      臺南市      ║      690億       ║    <span class="f2 hl">減  5億</span>     ║      685億     ║
+╠═════════╬═════════╬════════╬════════╣
+║      高雄市      ║      <span class="f6 hl">2546億      </span>║    增110億     ║     <span class="f6 hl">2656億     </span>║
+╰═════════╩═════════╩════════╩════════╯
+
+[ 資料來源 財政部國庫署 ]
+
+<span class="f3 hl">台中新北高雄</span>
+根本是<span class="f1 hl">井噴 井噴 井噴</span>阿!!!!
+
+
+..謝謝大家
+要幫我推推呦( ￣ c￣)y▂ξ
+
+--
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 一樓甲甲</span><span class="push-ipdatetime">01/22 01:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Expressotea</span><span class="f3 push-content">: 二樓肥宅</span><span class="push-ipdatetime">01/22 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 一樓自介</span><span class="push-ipdatetime">01/22 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">canblow</span><span class="f3 push-content">: 四樓肥宅</span><span class="push-ipdatetime"> 01/22 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watermen</span><span class="f3 push-content">: 五樓吃屎</span><span class="push-ipdatetime"> 01/22 01:17
+</span></div><a href="/bbs/Gossiping/M.1485019159.A.389.html" target="_blank" rel="nofollow">#1OWvWNE9 (Gossiping)</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.97.39
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495201935.A.99C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495201935.A.99C.html</a>
+</span><span class="f2">※ 編輯: aotfs2013 (36.228.97.39), 05/19/2017 21:52:45
+</span><span class="f2">※ 編輯: aotfs2013 (36.228.97.39), 05/19/2017 21:53:00
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 幹你娘 低能政府 亂花錢</span><span class="push-ipdatetime"> 05/19 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yangtsur</span><span class="f3 push-content">: 台中小贏. 其他縣市請多努力. 醫生組合再混啊!</span><span class="push-ipdatetime"> 05/19 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chinting</span><span class="f3 push-content">: 幸福城市</span><span class="push-ipdatetime"> 05/19 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Boasoul</span><span class="f3 push-content">: 要建設 要燒錢 大家抓穩了</span><span class="push-ipdatetime"> 05/19 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crazysinger</span><span class="f3 push-content">: 幸福城市懂不懂 藍綠幸福指數最高的</span><span class="push-ipdatetime"> 05/19 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mow1982</span><span class="f3 push-content">: 大高雄朝3000邁進。</span><span class="push-ipdatetime"> 05/19 21:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">artpower</span><span class="f3 push-content">: 問一下 桃園有一條捷運了 台中還沒有 錢是花哪?</span><span class="push-ipdatetime"> 05/19 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mack860120</span><span class="f3 push-content">: 高雄也負債太多 可是花媽怎麼在喊給高雄機會？</span><span class="push-ipdatetime"> 05/19 21:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 看桃園多利害,只增麼點債,第二條桃園捷運都要開工了</span><span class="push-ipdatetime"> 05/19 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 桃園就快要有第二條捷運了,不是只有一條</span><span class="push-ipdatetime"> 05/19 21:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ox1005</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/19 21:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiske011</span><span class="f3 push-content">: ......</span><span class="push-ipdatetime"> 05/19 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tchialen</span><span class="f3 push-content">: 台北+新北建設還沒高雄好 這錢花的值得</span><span class="push-ipdatetime"> 05/19 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rony98</span><span class="f3 push-content">: 高雄=雙北</span><span class="push-ipdatetime"> 05/19 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OneShadow</span><span class="f3 push-content">: 一個高雄就抵過大台北</span><span class="push-ipdatetime"> 05/19 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 地理位置能跟大台北做連結,這就是南部沒有的優勢</span><span class="push-ipdatetime"> 05/19 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tchialen</span><span class="f3 push-content">: 台中有BRT阿</span><span class="push-ipdatetime"> 05/19 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tiffwyetha</span><span class="f3 push-content">: 高雄不意外</span><span class="push-ipdatetime"> 05/19 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">artpower</span><span class="f3 push-content">: BRT不是廢了 還是蓋了又廢 也是一筆錢?</span><span class="push-ipdatetime"> 05/19 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ANCEE</span><span class="f3 push-content">: 柯P太強</span><span class="push-ipdatetime"> 05/19 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 機捷是中央全額支付 沒有地方配合款</span><span class="push-ipdatetime"> 05/19 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄土地多大你知道嗎?? 還雙北勒 縣市合併再說</span><span class="push-ipdatetime"> 05/19 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pray</span><span class="f3 push-content">: 高雄好狂</span><span class="push-ipdatetime"> 05/19 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 搞清楚</span><span class="push-ipdatetime"> 05/19 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acale0202</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/19 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">The5F</span><span class="f3 push-content">: 所以你沒查花在哪 ？查完再發好嗎</span><span class="push-ipdatetime"> 05/19 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄隨便一個區都比台北市還大 領的還比台北少欸</span><span class="push-ipdatetime"> 05/19 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 中捷則是地方需出地方配合款</span><span class="push-ipdatetime"> 05/19 22:00
+</span></div>根據公債法
+地方在捷運建設負擔的大宗 自償性經費
+並不納入國庫署債務統計數字
+也不受公債法規範
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Orcakaka</span><span class="f3 push-content">: 高雄愈欠愈多</span><span class="push-ipdatetime"> 05/19 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 高雄搞成這樣真的不意外,危機後面還有危機</span><span class="push-ipdatetime"> 05/19 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄港稅收有種都歸高雄阿 一年就能還2千億了拉</span><span class="push-ipdatetime"> 05/19 22:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">naly0617</span><span class="f3 push-content">: 高雄地大債也高呀.力壓雙北還嫌少嗎??</span><span class="push-ipdatetime"> 05/19 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gowang19</span><span class="f3 push-content">: 高雄負債比雙北多 真的很棒 才多少人欠那麼多</span><span class="push-ipdatetime"> 05/19 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄一個岡山區就比台北市還大了</span><span class="push-ipdatetime"> 05/19 22:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 台中也要第二條了啦 藍線自己出900億</span><span class="push-ipdatetime"> 05/19 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 反觀桃園財務好,建設陸續到位,人口移入爆發力全台第一</span><span class="push-ipdatetime"> 05/19 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: <a href="http://tinyurl.com/mmhpg7z" target="_blank" rel="nofollow">http://tinyurl.com/mmhpg7z</a></span><span class="push-ipdatetime"> 05/19 22:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">childay</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 05/19 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 只有機捷是由中央全付</span><span class="push-ipdatetime"> 05/19 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 桃園第二條捷運今年就要動工了,台中慢慢熬吧</span><span class="push-ipdatetime"> 05/19 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄港稅收一年破兆 每年才領到200多億補助zzzz</span><span class="push-ipdatetime"> 05/19 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 台中才是真正自己的捷運自己出錢蓋</span><span class="push-ipdatetime"> 05/19 22:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: (當然中央也是有補助)</span><span class="push-ipdatetime"> 05/19 22:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UniversalGod</span><span class="f3 push-content">: 高雄市www</span><span class="push-ipdatetime"> 05/19 22:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 只是不像機捷那樣由中央全付</span><span class="push-ipdatetime"> 05/19 22:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">artpower</span><span class="f3 push-content">: 這麼說台中兩條蓋下去有機會負債破2000億囉?</span><span class="push-ipdatetime"> 05/19 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 機捷中央花錢蓋的 桃園還好意思嘴砲</span><span class="push-ipdatetime"> 05/19 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 台中兩條下去 就跟高雄狀況一樣阿  還要加初期的虧損</span><span class="push-ipdatetime"> 05/19 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 唉</span><span class="push-ipdatetime"> 05/19 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">timeaftime</span><span class="f3 push-content">: 台中的兩條捷運地方政府都是要出錢的</span><span class="push-ipdatetime"> 05/19 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FFFFFFFF</span><span class="f3 push-content">: 難怪北市的藍綠億元唉唉叫  沒卡到一點油水</span><span class="push-ipdatetime"> 05/19 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cmj</span><span class="f3 push-content">: 畢竟台中餓13年了</span><span class="push-ipdatetime"> 05/19 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 哪條捷運不是虧錢？ 我知道嘴砲不用錢</span><span class="push-ipdatetime"> 05/19 22:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 睡菊:請給高雄一個(破產的)機會~~~</span><span class="push-ipdatetime"> 05/19 22:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 台北都搞幾年了 捷運本業還在虧錢</span><span class="push-ipdatetime"> 05/19 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">artpower</span><span class="f3 push-content">: 台中人次等公民? 藍線2030不知道蓋不蓋得出來? 若加上物</span><span class="push-ipdatetime"> 05/19 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter17</span><span class="f3 push-content">: 我大高雄田僑仔甚沒有的最多最好還不起</span><span class="push-ipdatetime"> 05/19 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">artpower</span><span class="f3 push-content">: 價+分油水 不知道要多少錢.......?</span><span class="push-ipdatetime"> 05/19 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ching1210</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 05/19 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ntust661</span><span class="f3 push-content">: 高雄到底在幹嘛XDDDDDDDD</span><span class="push-ipdatetime"> 05/19 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄兩條捷運+一條鐵路地下化+輕軌 都自己出錢的好嗎zzzz</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">megumirei</span><span class="f3 push-content">: 只會撈錢弄工程 年輕人走光光 失業低薪沒事還爆炸 廢菊</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CHOUHSIWEI</span><span class="f3 push-content">: 花媽不是說高雄10年沒建設了...錢花哪去了??</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">funkD</span><span class="f3 push-content">: 高雄債務=台北+新北</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 捷運越晚蓋越吃虧 北捷最早蓋最爽 原始兩線好像也是中</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skychris</span><span class="f3 push-content">: 台中捷運鬍子強就開始蓋了,又不是佳龍上才開始,某樓拿這</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 央送的</span><span class="push-ipdatetime"> 05/19 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 你娘勒 台北花兩兆蓋捷運 連環錢不用</span><span class="push-ipdatetime"> 05/19 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skychris</span><span class="f3 push-content">: 當台中債務增加的藉口也太蠢</span><span class="push-ipdatetime"> 05/19 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花兩兆蓋捷運 連一毛都不用出 當然負債低</span><span class="push-ipdatetime"> 05/19 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 認真問,陳菊的錢到底都花在哪了?除了捷運以外有什麼建</span><span class="push-ipdatetime"> 05/19 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 柯文哲你可以下台了，你知道台北市負債一千多億嗎？可恥</span><span class="push-ipdatetime"> 05/19 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 設嗎?身為高雄人完全無感</span><span class="push-ipdatetime"> 05/19 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">williamlook</span><span class="f3 push-content">: 高雄港去年稅收453億(貨物稅)</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #我們政府很有錢</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 某樓覺得藍線不用蓋 還是像台北跟中央要錢？</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄還要自己出錢蓋捷運 反觀台北花兩兆蓋都不用環</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 高雄年輕人最自豪的大高雄，完全屌打台灣任何一個直轄市!</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p123yt</span><span class="f3 push-content">: 果然是幸福城市</span><span class="push-ipdatetime"> 05/19 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 台中捷運最失敗的點 就是綠線先蓋 腦殘政策</span><span class="push-ipdatetime"> 05/19 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pipiispipi</span><span class="f3 push-content">: 台灣敗家子 幹</span><span class="push-ipdatetime"> 05/19 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 台北捷運也是有自籌款好嗎....</span><span class="push-ipdatetime"> 05/19 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunnydragon7</span><span class="f3 push-content">: 只能說我們後代很有錢啊！前人一直狂燒</span><span class="push-ipdatetime"> 05/19 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 蓋一條市民用不到 只有外縣市用到的捷運</span><span class="push-ipdatetime"> 05/19 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pipiispipi</span><span class="f3 push-content">: 高雄這垃圾地方可以直接廢掉嗎</span><span class="push-ipdatetime"> 05/19 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 別怕別怕 土地開發就解決了 台中高雄都這樣喊阿</span><span class="push-ipdatetime"> 05/19 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 以後看到豪宅 請帶著崇敬的眼神看著 那是為了城市阿</span><span class="push-ipdatetime"> 05/19 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TaiwanUp</span><span class="f3 push-content">: 就說了 大眾運輸耗能 有蓋沒人搭都陪得很慘</span><span class="push-ipdatetime"> 05/19 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 餓太久了</span><span class="push-ipdatetime"> 05/19 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">good5755</span><span class="f3 push-content">: 等等 高雄台中都蓋捷運舉債 新北也在蓋捷運喔?</span><span class="push-ipdatetime"> 05/19 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">v19791119</span><span class="f3 push-content">: 餓了很久</span><span class="push-ipdatetime"> 05/19 22:16
+</span></div><span class="f2">※ 編輯: aotfs2013 (36.228.97.39), 05/19/2017 22:17:38
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">moonlightz</span><span class="f3 push-content">: 靠邀 台中什麼時候 負債到近千億了......</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TaiwanUp</span><span class="f3 push-content">: 路上小客車趴趴走耗油 捷運沒人搭耗電 難怪低薪</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 井噴！！！</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poi96300</span><span class="f3 push-content">: 新北三環三線不是正在蓋 不用錢膩</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 紅的明顯,有人可以回答一下高雄的錢都花在哪了嗎?</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hhtj</span><span class="f3 push-content">: 很可怕......</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 高雄就綠營苗栗啊</span><span class="push-ipdatetime"> 05/19 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 高雄喔 放煙火吧</span><span class="push-ipdatetime"> 05/19 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shou0810</span><span class="f3 push-content">: 放煙火</span><span class="push-ipdatetime"> 05/19 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 台中顆顆......</span><span class="push-ipdatetime"> 05/19 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chocoball</span><span class="f3 push-content">: 高雄現在除了 鐵路地下化+輕軌 剩下就放煙火吧 我猜</span><span class="push-ipdatetime"> 05/19 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 用錢催下去就對了，我們的政府真的很有錢</span><span class="push-ipdatetime"> 05/19 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pkp</span><span class="f3 push-content">: 最會送錢給企業的政府</span><span class="push-ipdatetime"> 05/19 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovesora</span><span class="f3 push-content">: 幹你娘花錢蓋一堆垃圾全民買單</span><span class="push-ipdatetime"> 05/19 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yinaser</span><span class="f3 push-content">: 高雄明明是福利政策壓垮財政少提高捷之類建設好嗎</span><span class="push-ipdatetime"> 05/19 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 陳菊花媽到底花到哪去......負債2千6百多億...超越台北</span><span class="push-ipdatetime"> 05/19 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linwind</span><span class="f3 push-content">: 高雄主要用在亞洲新灣區的整併（工廠）拆遷</span><span class="push-ipdatetime"> 05/19 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yinaser</span><span class="f3 push-content">: 老是想比照北市發福利卻不想積極開發財源</span><span class="push-ipdatetime"> 05/19 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NT520</span><span class="f3 push-content">: 暴增百億負債，人民還是低薪，幫QQ</span><span class="push-ipdatetime"> 05/19 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asmanyasdog</span><span class="f3 push-content">: 幸福城市</span><span class="push-ipdatetime"> 05/19 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billjoe</span><span class="f3 push-content">: 臺北怎麼沒變化</span><span class="push-ipdatetime"> 05/19 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxciop741</span><span class="f3 push-content">: 不意外</span><span class="push-ipdatetime"> 05/19 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovesora</span><span class="f3 push-content">: 圖利回扣廠商資進黨笑呵呵</span><span class="push-ipdatetime"> 05/19 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: DDP沒黨產問題，因為都放........</span><span class="push-ipdatetime"> 05/19 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tiwey</span><span class="f3 push-content">: 提醒一下前瞻計畫是要舉債的唷！</span><span class="push-ipdatetime"> 05/19 22:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 覺得機捷是給桃園人搭的 要不要再去看一下機捷路線?</span><span class="push-ipdatetime"> 05/19 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omoi1988</span><span class="f3 push-content">: 桃園讚</span><span class="push-ipdatetime"> 05/19 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaletra</span><span class="f3 push-content">: 台北省高雄拿去爽 幸福城市非浪得虛名</span><span class="push-ipdatetime"> 05/19 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 還有一個問題,地方政府舉債沒有舉債上限的規定嗎?</span><span class="push-ipdatetime"> 05/19 22:27
+</span></div>地方政府也有債限
+只是我通常一年才會統計一次
+
+然後不要噓我QQ
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 只有中央政府有嗎?為什麼高雄苗栗可以舉債舉這麼爽?</span><span class="push-ipdatetime"> 05/19 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 看柯文哲的活動泳池後看看臺中高雄.....政府效能似</span><span class="push-ipdatetime"> 05/19 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 夭壽！高雄已經負債2656億了0_0！在344億就負債3000億等於</span><span class="push-ipdatetime"> 05/19 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 乎差蠻多的，台中記得之前還零負債現在竟然破800億</span><span class="push-ipdatetime"> 05/19 22:27
+</span></div>台中之前沒有零負債哦
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 快10億鎂</span><span class="push-ipdatetime"> 05/19 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">genovis</span><span class="f3 push-content">: 垃圾新北人不要一直跑來污染台北啦，滾去中國</span><span class="push-ipdatetime"> 05/19 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 後代真的會被害死</span><span class="push-ipdatetime"> 05/19 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YCLLZDBZM</span><span class="f3 push-content">: 呵呵。</span><span class="push-ipdatetime"> 05/19 22:28
+</span></div><span class="f2">※ 編輯: aotfs2013 (36.228.97.39), 05/19/2017 22:29:31
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thebestone</span><span class="f3 push-content">: 朱要拚總統，當然要多花錢建設，人民才會有感</span><span class="push-ipdatetime"> 05/19 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a8330028</span><span class="f3 push-content">: 2+3 還沒高雄借得多</span><span class="push-ipdatetime"> 05/19 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kenndy</span><span class="f3 push-content">: 別急~前瞻計畫8824.9億花下來 這些都是小case了!!!!!!!!!!</span><span class="push-ipdatetime"> 05/19 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 高雄真的很屌 人都跑光光 蓋一堆蚊子館</span><span class="push-ipdatetime"> 05/19 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckyodi</span><span class="f3 push-content">: 我們的政府很有錢啊 共同分取政府的錢啊</span><span class="push-ipdatetime"> 05/19 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinkowa</span><span class="f3 push-content">: @_@</span><span class="push-ipdatetime"> 05/19 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TryToBe</span><span class="f3 push-content">: 腦殘沒藥醫 po個廢文底下一堆沒常識的跟著高潮</span><span class="push-ipdatetime"> 05/19 22:31
+</span></div>您PO的文最U質了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 舉債上限就公債法第5條 直轄市為前三年GNP的7.65%</span><span class="push-ipdatetime"> 05/19 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 賴神減五億 柯粉倒是無視 科科</span><span class="push-ipdatetime"> 05/19 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: <a href="https://goo.gl/PkjB7Y" target="_blank" rel="nofollow">https://goo.gl/PkjB7Y</a></span><span class="push-ipdatetime"> 05/19 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 台南地下化開始動的話就知道了</span><span class="push-ipdatetime"> 05/19 22:32
+</span></div><span class="f2">※ 編輯: aotfs2013 (36.228.97.39), 05/19/2017 22:33:49
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 剛大概查一下...台中確實非零負債，不過最近增幅真</span><span class="push-ipdatetime"> 05/19 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 的很令人擔心</span><span class="push-ipdatetime"> 05/19 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milleniue</span><span class="f3 push-content">: 苗栗去年還了一些，高雄呢???</span><span class="push-ipdatetime"> 05/19 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 也沒人罵台南 是在急著出來幹嘛 台南財務狀況一直很好</span><span class="push-ipdatetime"> 05/19 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 幸福城市</span><span class="push-ipdatetime"> 05/19 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花了兩兆蓋捷運一毛都不用環 還能負債一千多億？</span><span class="push-ipdatetime"> 05/19 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 其實看各縣市舉債的剩餘額度會比較有意義</span><span class="push-ipdatetime"> 05/19 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 所以就知道兩兆 然後一毛不用還是唬爛的阿....</span><span class="push-ipdatetime"> 05/19 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 查了一下高雄的舉債上限大概3000億,這樣光前瞻建設的自</span><span class="push-ipdatetime"> 05/19 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 籌款應該就超過了,這樣高雄有辦法參與前瞻計畫嗎?</span><span class="push-ipdatetime"> 05/19 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄沒中央的補助當然負債多阿 反觀中央給台北花兩兆蓋捷運</span><span class="push-ipdatetime"> 05/19 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bitad</span><span class="f3 push-content">: 吃超飽</span><span class="push-ipdatetime"> 05/19 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: 肯刂目詹</span><span class="push-ipdatetime"> 05/19 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北捷運花兩兆都中央出錢的 自己根本沒出多少</span><span class="push-ipdatetime"> 05/19 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coldtoby</span><span class="f3 push-content">: 三環三線從我小學蓋到出社會還沒蓋完 潮厲害的</span><span class="push-ipdatetime"> 05/19 22:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 統籌款六都第二 更別說大大小小建設 中央也負擔部分</span><span class="push-ipdatetime"> 05/19 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台中一堆建設都中央100%出的 還能負債9百多怎來的??</span><span class="push-ipdatetime"> 05/19 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 要說中央沒給 那就太唬爛啦 不是說不該建設 但該要得</span><span class="push-ipdatetime"> 05/19 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rmp1103</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/19 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 效應也快點出來吧 不然真要靠土地開發還 那看到豪宅</span><span class="push-ipdatetime"> 05/19 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄每年稅收2千億 補助才2百多億 根本好笑</span><span class="push-ipdatetime"> 05/19 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hamasakino</span><span class="f3 push-content">: akway沒人罵台南  急著冠柯粉耶</span><span class="push-ipdatetime"> 05/19 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 就別罵啦 請帶著崇敬的眼神 那是要還城市的債阿</span><span class="push-ipdatetime"> 05/19 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花兩兆蓋捷運 一毛都不用出 才負債少吧 不然早就破兆了</span><span class="push-ipdatetime"> 05/19 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 阿不是之前喊很大聲說工廠在高雄 稅都繳臺北  然後強迫人家</span><span class="push-ipdatetime"> 05/19 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 公司總部要牽高雄 說會增加稅收嗎 結果勒 臺北繼續在還錢 高</span><span class="push-ipdatetime"> 05/19 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 雄繼續舉債欠錢 市長次無能 牽拖一堆</span><span class="push-ipdatetime"> 05/19 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北拿了兩兆蓋捷運不用環 當然債少阿 高雄可是自己出錢的</span><span class="push-ipdatetime"> 05/19 22:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 這就是前瞻可怕的地方 他是用&#34;特別預算&#34;繞過公債法</span><span class="push-ipdatetime"> 05/19 22:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thaleschou</span><span class="f3 push-content">: 怕.jpg</span><span class="push-ipdatetime"> 05/19 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 舉債上限的問題就可以規避掉了喔</span><span class="push-ipdatetime"> 05/19 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 嘴高雄的怎不去查一下高雄的建設自己出錢蓋 台北是中央買單</span><span class="push-ipdatetime"> 05/19 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">netio</span><span class="f3 push-content">: 幸福高雄~</span><span class="push-ipdatetime"> 05/19 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 夭壽,但是高雄捷運蓋好後的營運費用也算特別預算嗎?</span><span class="push-ipdatetime"> 05/19 22:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花兩兆蓋捷運一毛都不用環 不然負債早就破兆了好嘛zzz</span><span class="push-ipdatetime"> 05/19 22:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 不知道 要看地方政府怎麼編列</span><span class="push-ipdatetime"> 05/19 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 看報導是說高雄七年後破產,看來陳菊打定主意要讓高雄三</span><span class="push-ipdatetime"> 05/19 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 年內破產(笑)</span><span class="push-ipdatetime"> 05/19 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">toshbio</span><span class="f3 push-content">: 雙北加起來還比不上高雄的負債 真不虧是幸福城市</span><span class="push-ipdatetime"> 05/19 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 陳菊應該是希臘人吧,揮霍功力超強,連放十四天煙火,結果</span><span class="push-ipdatetime"> 05/19 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 負債多少跟市民有關係逆 炒這假議題根本好笑</span><span class="push-ipdatetime"> 05/19 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 陸客不來觀光就崩盤了</span><span class="push-ipdatetime"> 05/19 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TryToBe</span><span class="f3 push-content">: 知道自己po的是廢文就好 居然有人在3月看債增加多少的</span><span class="push-ipdatetime"> 05/19 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TryToBe</span><span class="f3 push-content">: 明明國庫署的資料就有分長短期債務 你精簡的目的是什麼??</span><span class="push-ipdatetime"> 05/19 22:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vntlu</span><span class="f3 push-content">: 高雄真幸福 負債No1</span><span class="push-ipdatetime"> 05/19 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">azt911231</span><span class="f3 push-content">: 垃圾南部幸福城，台灣的吸血蟲</span><span class="push-ipdatetime"> 05/19 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北捷運花兩兆 一毛都不用還 爽到</span><span class="push-ipdatetime"> 05/19 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TryToBe</span><span class="f3 push-content">: 騙騙不懂政府會計的而已 廢到有剩的文章</span><span class="push-ipdatetime"> 05/19 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 負債多少跟人民一點關西都沒好嗎 干我屁事</span><span class="push-ipdatetime"> 05/19 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dontcowba</span><span class="f3 push-content">: 有人一直在崩潰XD 幫QQ 自己要選不做事的 還在崩潰</span><span class="push-ipdatetime"> 05/19 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linchen1121</span><span class="f3 push-content">: 負債多跟人民有關好嗎~你的錢會變薄</span><span class="push-ipdatetime"> 05/19 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tigerzz3</span><span class="f3 push-content">: 民進黨 喝喝</span><span class="push-ipdatetime"> 05/19 22:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 怎麼會無關,地方政府破產一定先砍各種社會福利預算</span><span class="push-ipdatetime"> 05/19 22:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 支那又出來帶風向了 台北拿兩兆蓋捷運一毛都不用環 怎不說?</span><span class="push-ipdatetime"> 05/19 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy70612</span><span class="f3 push-content">: 覺青自己選的啊  還好柯P有良心  不然你的後代要當台勞</span><span class="push-ipdatetime"> 05/19 22:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vespar</span><span class="f3 push-content">: 原來桃園蓋一條綠線就算全部舉債 還是屌打高雄......</span><span class="push-ipdatetime"> 05/19 22:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xzp436</span><span class="f3 push-content">: 高雄 幸福都市</span><span class="push-ipdatetime"> 05/19 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1e</span><span class="f3 push-content">: 高雄不會朝3000億邁進的，高雄舉債最高是2700多億，所以高雄</span><span class="push-ipdatetime"> 05/19 22:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a1e</span><span class="f3 push-content">: 的財政可能明年或後年就要爆炸了</span><span class="push-ipdatetime"> 05/19 22:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PerfectID</span><span class="f3 push-content">: 樓上有人說只要編成特別預算就不受上限影響?可以繼續舉</span><span class="push-ipdatetime"> 05/19 23:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 前瞻建設的才可以用特別預算 這個是目前前瞻草案的條文</span><span class="push-ipdatetime"> 05/19 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">reaturn</span><span class="f3 push-content">: 100億啥小…</span><span class="push-ipdatetime"> 05/19 23:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsx26997785</span><span class="f3 push-content">: 靠夭勒  監獄是吃滿漢全席喔</span><span class="push-ipdatetime"> 05/19 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">appleball200</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/19 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taiwan1789</span><span class="f3 push-content">: 柯p吊打其他縣市</span><span class="push-ipdatetime"> 05/19 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 但他是給中央去用特別預算 不是地方 但舉債還是有上限</span><span class="push-ipdatetime"> 05/19 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BigDick56</span><span class="f3 push-content">: 優質陳菊最優質</span><span class="push-ipdatetime"> 05/19 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsx26997785</span><span class="f3 push-content">: 看錯 sorry 台中是蓋捷運才爆增</span><span class="push-ipdatetime"> 05/19 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 到底哪裡有證據說臺北蓋捷運花兩兆阿? google上查 就算把機</span><span class="push-ipdatetime"> 05/19 23:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 場捷運 萬大線 南北環狀 淡水輕軌 民生汐止線等所有都進去</span><span class="push-ipdatetime"> 05/19 23:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 不過就一兆兩千多億 到底兩兆哪裡來的?</span><span class="push-ipdatetime"> 05/19 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 而且哪來的全部都中央出阿...</span><span class="push-ipdatetime"> 05/19 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ox1005</span><span class="f3 push-content">: 人口老化又減少、環境污染、內政敗壞再加個天災，高雄完了</span><span class="push-ipdatetime"> 05/19 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiraayu</span><span class="f3 push-content">: 新北市剪綵王不意外</span><span class="push-ipdatetime"> 05/19 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北捷運花上兆 根本不用環 不然台北負債早就破兆了zzzz</span><span class="push-ipdatetime"> 05/19 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 還瞎扯說北市一毛不用還 要護航也不要亂瞎掰吧</span><span class="push-ipdatetime"> 05/19 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄捷運自出千億+鐵路地下化5百多億+輕軌一百多億=2千多億</span><span class="push-ipdatetime"> 05/19 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jacky5859</span><span class="f3 push-content">: 一群垃圾</span><span class="push-ipdatetime"> 05/19 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alex10282</span><span class="f3 push-content">: 顆顆+龍真的有夠廢的，花一堆錢不知道在衝三小</span><span class="push-ipdatetime"> 05/19 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花了一兆多蓋捷運 不用自己出 當然負債少阿 不然早破兆</span><span class="push-ipdatetime"> 05/19 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcc1210</span><span class="f3 push-content">: 會有人出來護航說錢都被台北拿走的緣故</span><span class="push-ipdatetime"> 05/19 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄捷運+台鐵地下化+輕軌 高雄負擔2千億當然多阿</span><span class="push-ipdatetime"> 05/19 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花了兩兆蓋捷運 一毛都不用環 才垃圾吧 不然負債早破兆</span><span class="push-ipdatetime"> 05/19 23:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: opica 你確定你的資料對嗎 維基上可是 &#34;高雄捷運初期高運量</span><span class="push-ipdatetime"> 05/19 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 系統總經費為新臺幣1813.79億元，其中政府出資83.19%（計150</span><span class="push-ipdatetime"> 05/19 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">enhyperion</span><span class="f3 push-content">: 高雄港稅收還高雄啦</span><span class="push-ipdatetime"> 05/19 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 8.89億元），民間出資16.81%（計304.9億元，其中198億元向銀</span><span class="push-ipdatetime"> 05/19 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 行團聯貸取得）。政府出資部分中央政府補助約1191億元，高雄</span><span class="push-ipdatetime"> 05/19 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 市政府（縣市改制前）負擔約286億元，而高雄縣政府（縣市改</span><span class="push-ipdatetime"> 05/19 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: 制前）負擔約32億&#34;</span><span class="push-ipdatetime"> 05/19 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sppray</span><span class="f3 push-content">: 台中之前不過三百億，現在快破千億了</span><span class="push-ipdatetime"> 05/19 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北花兩兆蓋捷運 一元買下 連還錢都不用 根本垃圾</span><span class="push-ipdatetime"> 05/19 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 都是好大喜功的城市</span><span class="push-ipdatetime"> 05/19 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lfk</span><span class="f3 push-content">: opica 要護航高雄 麻煩拿出實際的證據好嗎 以為鄉民都白痴喔</span><span class="push-ipdatetime"> 05/19 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 去看一下opica在八卦版PO的文就會知道不用跟他認真</span><span class="push-ipdatetime"> 05/19 23:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PP044666</span><span class="f3 push-content">: 台中就一直在舖路啊，可是怎麼舖都不會平</span><span class="push-ipdatetime"> 05/19 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 臺北捷運明明平均下來中央出不到六成  哪裡來的中央全出</span><span class="push-ipdatetime"> 05/19 23:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ueu966</span><span class="f3 push-content">: 錢坑計畫</span><span class="push-ipdatetime"> 05/19 23:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北一堆建設都中央100%給的 不然台北負債早破兆了</span><span class="push-ipdatetime"> 05/19 23:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 沒想到同一國不同都市之間也可以打烏賊戰</span><span class="push-ipdatetime"> 05/19 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forbake1</span><span class="f3 push-content">: 餓八年</span><span class="push-ipdatetime"> 05/19 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaga200408</span><span class="f3 push-content">: 台中花博</span><span class="push-ipdatetime"> 05/19 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chunglee</span><span class="f3 push-content">: 台北厲害都不用花錢</span><span class="push-ipdatetime"> 05/19 23:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">APC</span><span class="f3 push-content">: 蓋</span><span class="push-ipdatetime"> 05/19 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">selfloss</span><span class="f3 push-content">: 餓三小 除了台北其他縣市的公共建設都不能舉債才能做？</span><span class="push-ipdatetime"> 05/19 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lites</span><span class="f3 push-content">: 前瞻計畫 繼續舉債 打著建設地方的名號 藍綠民代搶羹喝</span><span class="push-ipdatetime"> 05/19 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">faker007</span><span class="f3 push-content">: 南部不意外 垃圾在住的</span><span class="push-ipdatetime"> 05/19 23:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cowboyz1105</span><span class="f3 push-content">: 高雄完全不意外 倒是台中也要遼下去？</span><span class="push-ipdatetime"> 05/19 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vfhiroki</span><span class="f3 push-content">: 前瞻前 這些都小事</span><span class="push-ipdatetime"> 05/19 23:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 高雄不意外阿 台中桃園台南應該之後會爆增...</span><span class="push-ipdatetime"> 05/19 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k23</span><span class="f3 push-content">: 幸福城市你敢嘴</span><span class="push-ipdatetime"> 05/19 23:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 之所以用特別預算 我看主要是因為高雄快到頂了吧</span><span class="push-ipdatetime"> 05/19 23:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 高調,錢就這樣被花掉,結果什麼成果也沒有</span><span class="push-ipdatetime"> 05/19 23:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carwho</span><span class="f3 push-content">: 自己南部人沒錢還在那邊搞捷運怪誰</span><span class="push-ipdatetime"> 05/19 23:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 台中沒辦法 中港路捷運不蓋對台中發展會比較好嗎</span><span class="push-ipdatetime"> 05/19 23:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 前瞻最讓人詬病的是 蓋一堆田埂線 高架化改地下化</span><span class="push-ipdatetime"> 05/19 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 高雄真的媽台灣毒瘤</span><span class="push-ipdatetime"> 05/19 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carwho</span><span class="f3 push-content">: 蓋了以後你們南部人也不搭 才在那邊靠北</span><span class="push-ipdatetime"> 05/19 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 拿一堆錢還負債累累 可以不要那麼爛人嗎高雄人？</span><span class="push-ipdatetime"> 05/19 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 發展還被台中屌打 薪資被新竹屌打 噁心爛地方</span><span class="push-ipdatetime"> 05/19 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 所有高雄人給我下跪啦</span><span class="push-ipdatetime"> 05/19 23:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coldtoby</span><span class="f3 push-content">: 南北戰爭要開打了嗎</span><span class="push-ipdatetime"> 05/20 00:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 狗熊人他媽給我像台中新竹全台下跪啦</span><span class="push-ipdatetime"> 05/20 00:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 整天重南輕北 .. 嘴臉難看</span><span class="push-ipdatetime"> 05/20 00:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyexers</span><span class="f3 push-content">: 幸福城市</span><span class="push-ipdatetime"> 05/20 00:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北這種垃圾盆地 花了兩兆蓋捷運 一毛都不用環 才垃圾吧</span><span class="push-ipdatetime"> 05/20 00:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gekkojam</span><span class="f3 push-content">: 推原PO整理</span><span class="push-ipdatetime"> 05/20 00:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kji590929</span><span class="f3 push-content">: 前瞻計畫 笑而不語</span><span class="push-ipdatetime"> 05/20 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derekg8</span><span class="f3 push-content">: 反正只會罵新北而已</span><span class="push-ipdatetime"> 05/20 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kji590929</span><span class="f3 push-content">: 某樓又在爆氣惹 ㄏㄏ</span><span class="push-ipdatetime"> 05/20 00:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 欠好、欠滿！</span><span class="push-ipdatetime"> 05/20 00:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryan1981</span><span class="f3 push-content">: 給北市桃市南市一個讚。</span><span class="push-ipdatetime"> 05/20 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kji590929</span><span class="f3 push-content">: 話說那個爆氣的   你從哪裡知道台北捷運花２兆的？</span><span class="push-ipdatetime"> 05/20 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">treeman47</span><span class="f3 push-content">: 錢都進去某些人口袋了</span><span class="push-ipdatetime"> 05/20 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AZBTPATONY</span><span class="f3 push-content">: 估計一年後高雄突破3000億</span><span class="push-ipdatetime"> 05/20 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AZBTPATONY</span><span class="f3 push-content">: 黑龍超廢 老胡卸任前幾乎快還光 黑龍又欠回來</span><span class="push-ipdatetime"> 05/20 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 不要覺得台南數字好看 台南距離舉債上限剩沒多少空間了</span><span class="push-ipdatetime"> 05/20 00:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 某人有在爆氣....</span><span class="push-ipdatetime"> 05/20 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 台南那個有得瞧了 單軌會很貴的</span><span class="push-ipdatetime"> 05/20 00:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yukai0919</span><span class="f3 push-content">: 最沒用的睡菊</span><span class="push-ipdatetime"> 05/20 00:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 不過就像Trytobe說的 這篇其實考慮的太少了</span><span class="push-ipdatetime"> 05/20 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">grosjeanyang</span><span class="f3 push-content">: 只有一個問題  這些錢還得完嗎</span><span class="push-ipdatetime"> 05/20 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 現在全台這六都可能還算是財務健全的地方</span><span class="push-ipdatetime"> 05/20 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 反正台灣的人口都是往六都和新竹集中...其他地方邊緣化</span><span class="push-ipdatetime"> 05/20 00:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 到現在覺得六都還是很沒必要</span><span class="push-ipdatetime"> 05/20 00:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">raikataiwan</span><span class="f3 push-content">: 結果還要舉債6千6百億搞前瞻計畫，負債計畫還差不多</span><span class="push-ipdatetime"> 05/20 00:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 樓上 是8千8百億</span><span class="push-ipdatetime"> 05/20 00:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t0kyohot</span><span class="f3 push-content">: 安啦 不是說欠銀行3000億銀行跪著求你還錢</span><span class="push-ipdatetime"> 05/20 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st2913sbck</span><span class="f3 push-content">: 一個沒市長 一個黑龍 一個擺西瓜都能上</span><span class="push-ipdatetime"> 05/20 00:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 其實新竹財務也快要達到預警值了 所以才喊輕軌沒錢蓋</span><span class="push-ipdatetime"> 05/20 00:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tongiwo</span><span class="f3 push-content">: 柯p才是最棒的</span><span class="push-ipdatetime"> 05/20 00:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t0kyohot</span><span class="f3 push-content">: 柯屁想借還借不到勒</span><span class="push-ipdatetime"> 05/20 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: <a href="https://geft.edn.udn.com/files/16-1000-4656.php" target="_blank" rel="nofollow">https://geft.edn.udn.com/files/16-1000-4656.php</a></span><span class="push-ipdatetime"> 05/20 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 台北這種垃圾盆地 花了兩兆蓋捷運 一毛都不用環 才垃圾吧</span><span class="push-ipdatetime"> 05/20 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 就垃圾不分藍綠啊。</span><span class="push-ipdatetime"> 05/20 00:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 中南部那幾個縣市倒是不感到意外...</span><span class="push-ipdatetime"> 05/20 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 花東財政那麼健康??? 真假阿??</span><span class="push-ipdatetime"> 05/20 00:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NSPS6150</span><span class="f3 push-content">: 幹肥婆亂放煙火害死人</span><span class="push-ipdatetime"> 05/20 00:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ila9970</span><span class="f3 push-content">: 看到有南部人崩潰了</span><span class="push-ipdatetime"> 05/20 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 那id 不用跟他認真</span><span class="push-ipdatetime"> 05/20 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MiamiKotori</span><span class="f3 push-content">: 南部又崩潰惹哈哈，2000多億就寫在那邊~~</span><span class="push-ipdatetime"> 05/20 00:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MiamiKotori</span><span class="f3 push-content">: 中部也要QQ了，反正都是小孩、嬰兒要還錢QQ</span><span class="push-ipdatetime"> 05/20 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6210603</span><span class="f3 push-content">: 其實桃園可能因為地下化 負債會爆增不少</span><span class="push-ipdatetime"> 05/20 01:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiutepiao</span><span class="f3 push-content">: 民進黨餓很久哦</span><span class="push-ipdatetime"> 05/20 01:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tony70017</span><span class="f3 push-content">: 南部人騎山豬就好 蓋甚麼捷運? 自以為上流上會喔?</span><span class="push-ipdatetime"> 05/20 01:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddd1935</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 05/20 01:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckTHU</span><span class="f3 push-content">: 結果我的文一堆數據... 在八卦版一樣沒人理.....</span><span class="push-ipdatetime"> 05/20 01:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckTHU</span><span class="f3 push-content">: opica 我的文數據歡迎自由使用</span><span class="push-ipdatetime"> 05/20 01:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smmaot</span><span class="f3 push-content">: 環境汙染多還能負債這麼高，到底在幹嘛....</span><span class="push-ipdatetime"> 05/20 01:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 柯屁不是減債很強嗎？減0億？</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mood10207</span><span class="f3 push-content">: 無腦政府！</span><span class="push-ipdatetime"> 05/20 02:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mood10207</span><span class="f3 push-content">: 樓上柯黑</span><span class="push-ipdatetime"> 05/20 02:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lichun1228</span><span class="f3 push-content">: 台北蓋捷運 中央補助兩兆 竟然還可以欠千億..有夠阿斗</span><span class="push-ipdatetime"> 05/20 02:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gin10791</span><span class="f3 push-content">: 看某p講高雄港能讓高雄一年還兩千億就知道滿嘴屁話了</span><span class="push-ipdatetime"> 05/20 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">waslisa1211</span><span class="f3 push-content">: 高雄超幸福</span><span class="push-ipdatetime"> 05/20 02:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peter821201</span><span class="f3 push-content">: 整天重北輕南 都快笑死</span><span class="push-ipdatetime"> 05/20 02:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jamison04</span><span class="f3 push-content">: 醫生組合真的猛</span><span class="push-ipdatetime"> 05/20 02:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WWIII</span><span class="f3 push-content">: 南部有外勞繳稅幫忙還不用怕</span><span class="push-ipdatetime"> 05/20 02:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keore</span><span class="f3 push-content">: 就一堆中北部狗要理什麼？如果我是你就不會浪費時間</span><span class="push-ipdatetime"> 05/20 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keore</span><span class="f3 push-content">: 對狗彈琴你好屌</span><span class="push-ipdatetime"> 05/20 02:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keore</span><span class="f3 push-content">: 誠心建議你安靜看就好 看看台灣中北部人的醜陋樣貌 呵呵</span><span class="push-ipdatetime"> 05/20 02:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">keore</span><span class="f3 push-content">: 千載難逢睜大眼睛 仔細看台灣是怎麼自我毀滅的</span><span class="push-ipdatetime"> 05/20 02:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunlai</span><span class="f3 push-content">: 欠錢不還才造就幸福城市</span><span class="push-ipdatetime"> 05/20 03:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 臺北捷運目前總造價八千億  居然以訛傳訛變兩兆啦</span><span class="push-ipdatetime"> 05/20 04:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 臺北捷運中央目前出四千六百億左右   而高雄捷運連前瞻計</span><span class="push-ipdatetime"> 05/20 04:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 畫三千億</span><span class="push-ipdatetime"> 05/20 04:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 三千億的中央補助相當於臺北捷運板南  淡水  文湖三線的</span><span class="push-ipdatetime"> 05/20 04:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 總補助</span><span class="push-ipdatetime"> 05/20 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pantani</span><span class="f3 push-content">: 也就是相當於民國89年以前的總造價</span><span class="push-ipdatetime"> 05/20 04:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm79227922</span><span class="f3 push-content">: 臺中蓋捷運要自己出啊 而且兩條需求性都超高</span><span class="push-ipdatetime"> 05/20 04:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm79227922</span><span class="f3 push-content">: 而且藍線是去年才審過的 胡子強年代一直不過</span><span class="push-ipdatetime"> 05/20 05:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yangnana</span><span class="f3 push-content">: 2千600億，這樣高雄人平均負債多少？</span><span class="push-ipdatetime"> 05/20 05:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 花媽不知到在幹嘛，沒什代表作債務狂增加</span><span class="push-ipdatetime"> 05/20 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imhideji</span><span class="f3 push-content">: 樓上有空來世運主場館看看</span><span class="push-ipdatetime"> 05/20 07:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">S780122</span><span class="f3 push-content">: 人家我們花媽是要建設高雄成為世界第一幸福城市你們懂屁</span><span class="push-ipdatetime"> 05/20 07:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">UMi12n3AT3I7</span><span class="f3 push-content">: 不意外、難怪幸福城市、台灣其他地方的人付錢給高雄</span><span class="push-ipdatetime"> 05/20 07:17
+</span></div><span class="f2">※ </span><span class="f2 hl">cjol</span><span class="f2">:轉錄至看板 Kaohsiung</span>                                       05/20 07:28
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BLT</span><span class="f3 push-content">: 柯P繼續還債吧，看人家井噴，突然覺得好安慰</span><span class="push-ipdatetime"> 05/20 07:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wong4407</span><span class="f3 push-content">: 高雄…</span><span class="push-ipdatetime"> 05/20 07:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dodoning</span><span class="f3 push-content">: 繳稅給人換花 科科</span><span class="push-ipdatetime"> 05/20 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TRUNKSX</span><span class="f3 push-content">: 餓太久了  趕快撈</span><span class="push-ipdatetime"> 05/20 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 台灣快要破產了，能撈就撈，現在不掏空國庫等何時</span><span class="push-ipdatetime"> 05/20 08:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">swallow510</span><span class="f3 push-content">: 陳菊朱立倫最後一屆了啊 當然能撈就撈能混就混 林佳龍</span><span class="push-ipdatetime"> 05/20 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">swallow510</span><span class="f3 push-content">: 大概覺得沒競爭對手了隨便花也不影響連任</span><span class="push-ipdatetime"> 05/20 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ilovestudykk</span><span class="f3 push-content">: 高雄真的完了</span><span class="push-ipdatetime"> 05/20 08:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 欠債一堆 中央跟一堆了 還能出來哭窮 高雄人噁心到不行</span><span class="push-ipdatetime"> 05/20 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kikadonchiu</span><span class="f3 push-content">: 全台剩柯P 跟賴神能打，醫生果然高智商</span><span class="push-ipdatetime"> 05/20 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cbr0627</span><span class="f3 push-content">: 高雄浪費太多錢了，無能市長</span><span class="push-ipdatetime"> 05/20 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assunny1012</span><span class="f3 push-content">: 再來三個醫生去幫新北台中高雄除瘤好嗎</span><span class="push-ipdatetime"> 05/20 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 民進黨完全執政  大Party  大Happy  臭了嗎?</span><span class="push-ipdatetime"> 05/20 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">redlance</span><span class="f3 push-content">: 賴神&gt;柯P&gt;周瑜&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;others</span><span class="push-ipdatetime"> 05/20 09:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 看到一堆人護航幸福城市就覺得好笑</span><span class="push-ipdatetime"> 05/20 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 根本雙重標準你他媽色盲</span><span class="push-ipdatetime"> 05/20 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CJROCK</span><span class="f3 push-content">: 別只看顏色講話 噁心</span><span class="push-ipdatetime"> 05/20 09:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">veniesbetty</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AnpingTW</span><span class="f3 push-content">: 高雄先取消鄰長每個月2000元補貼就可以省很多</span><span class="push-ipdatetime"> 05/20 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Parsons25</span><span class="f3 push-content">: 高雄根本敗家子，花這麼多錢人口還外流</span><span class="push-ipdatetime"> 05/20 09:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 說高雄港營收破兆的會不會太好笑，完全不懂裝懂</span><span class="push-ipdatetime"> 05/20 09:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 全高雄才多少個鄰長....保證一年省不到一億</span><span class="push-ipdatetime"> 05/20 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 省轄市時期的台中還有盈餘100億...怎突然花了900億</span><span class="push-ipdatetime"> 05/20 09:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">veniesbetty</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 09:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kiwibirds</span><span class="f3 push-content">: 扯</span><span class="push-ipdatetime"> 05/20 09:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kiwibirds</span><span class="f3 push-content">: 請問有機會出非bbs版嗎 這樣流痛更廣</span><span class="push-ipdatetime"> 05/20 09:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 臉書</span><span class="push-ipdatetime"> 05/20 09:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bbtbbt77</span><span class="f3 push-content">: 護航高雄的有資料來源嗎？尤其那說營收破兆的來貼啊</span><span class="push-ipdatetime"> 05/20 09:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bijala</span><span class="f3 push-content">: 高雄負債怎那麼多</span><span class="push-ipdatetime"> 05/20 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aswq17558</span><span class="f3 push-content">: 大家只能噴新北 不能噴幸福城市&gt;&lt;</span><span class="push-ipdatetime"> 05/20 09:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aswq17558</span><span class="f3 push-content">: 大家只能噴新北 不能噴幸福城市&gt;&lt;</span><span class="push-ipdatetime"> 05/20 09:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cher1</span><span class="f3 push-content">: 台中哪需要捷運,真是浪費錢,又不是像台北機車潮流滿出來</span><span class="push-ipdatetime"> 05/20 10:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 全年稅收2兆6，所得土地稅就佔60%了...關稅也才5.2%，</span><span class="push-ipdatetime"> 05/20 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 就算其他規費加起來也不可能破兆阿，一堆亂護航高雄的</span><span class="push-ipdatetime"> 05/20 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kuochieh</span><span class="f3 push-content">: 高雄這種落後工業地區也配搞啥先進建設 產業基礎都沒有</span><span class="push-ipdatetime"> 05/20 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rony98</span><span class="f3 push-content">: 剛查了一下 高雄有17343個鄰 算一下光鄰長部分一年就4億多</span><span class="push-ipdatetime"> 05/20 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rony98</span><span class="f3 push-content">: 還不算工作補貼和里長的部份...</span><span class="push-ipdatetime"> 05/20 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rony98</span><span class="f3 push-content">: <a href="http://news.ltn.com.tw/news/local/paper/988165" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/local/paper/988165</a> 大約一</span><span class="push-ipdatetime"> 05/20 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerrylin</span><span class="f3 push-content">: 餓八年了</span><span class="push-ipdatetime"> 05/20 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rony98</span><span class="f3 push-content">: 年前的新聞 數目應該相去不遠</span><span class="push-ipdatetime"> 05/20 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nicayoung</span><span class="f3 push-content">: 井噴喔！大家快撈喔！看看前瞻喔！</span><span class="push-ipdatetime"> 05/20 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sylviashy</span><span class="f3 push-content">: 怎麼回事啊 高雄加油好嗎？！</span><span class="push-ipdatetime"> 05/20 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 原來有那麼多鄰，抱歉。高雄竟然一年花四億綁樁...</span><span class="push-ipdatetime"> 05/20 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">este1a</span><span class="f3 push-content">: 廢物高雄在死肥菊帶領下浪費公帑第一</span><span class="push-ipdatetime"> 05/20 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 全台關稅收入只有1400億，還要給台中基隆等其他關分，</span><span class="push-ipdatetime"> 05/20 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iAquilani</span><span class="f3 push-content">: 不可能都是高雄關的...腦護航的真的數字隨口胡謅</span><span class="push-ipdatetime"> 05/20 11:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mega222</span><span class="f3 push-content">: 黑龍超強</span><span class="push-ipdatetime"> 05/20 11:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Liking</span><span class="f3 push-content">: 不愧是幸福城市，灑錢感覺一定很爽很幸福</span><span class="push-ipdatetime"> 05/20 11:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">polotower</span><span class="f3 push-content">: 陳菊還是別當行政院長吧</span><span class="push-ipdatetime"> 05/20 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Flyingheart</span><span class="f3 push-content">: 稅收上兆 哈哈 整個台灣一年稅收才多少 工讀生啊</span><span class="push-ipdatetime"> 05/20 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blur13</span><span class="f3 push-content">: 台中 台南 高雄 有些負債是從縣市合併 縣的負債來的</span><span class="push-ipdatetime"> 05/20 13:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blur13</span><span class="f3 push-content">: 高雄還沒合併前 人均負債就最多了 併了縣區 更加劇</span><span class="push-ipdatetime"> 05/20 13:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Crauser</span><span class="f3 push-content">: 高雄..!!??</span><span class="push-ipdatetime"> 05/20 13:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blur13</span><span class="f3 push-content">: 像台中合併 就吸收了原中縣500多億債務吧</span><span class="push-ipdatetime"> 05/20 13:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paul007</span><span class="f3 push-content">: 高雄花這麼多錢 人卻一直外流怎樣 黑人問號????</span><span class="push-ipdatetime"> 05/20 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa800129315</span><span class="f3 push-content">: 高雄到底在幹嘛......</span><span class="push-ipdatetime"> 05/20 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 負債上限一直往上調就不會破產了 傻傻的</span><span class="push-ipdatetime"> 05/20 17:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Novsup</span><span class="f3 push-content">: 老實說...以比例來講，台北負債破千億...呵呵</span><span class="push-ipdatetime"> 05/20 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Novsup</span><span class="f3 push-content">: 難怪歷任台北市長搶破頭......一丁點地 滿滿的錢</span><span class="push-ipdatetime"> 05/20 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 台中朱立倫=新北林佳龍 不是叫假的</span><span class="push-ipdatetime"> 05/20 18:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loguchon1</span><span class="f3 push-content">: 是不是高雄新建輕軌的關係</span><span class="push-ipdatetime"> 05/20 19:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vixon</span><span class="f3 push-content">: 推文裡總是看的出智商差異 刷存在感的去洗洗睡 別發言丟臉</span><span class="push-ipdatetime"> 05/20 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cary9998</span><span class="f3 push-content">: 柯P 好棒棒</span><span class="push-ipdatetime"> 05/21 00:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sding</span><span class="f3 push-content">: 高雄真是幸福城市</span><span class="push-ipdatetime"> 05/21 02:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 台中蓋捷運還算ok吧</span><span class="push-ipdatetime"> 05/21 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LeopardCAT</span><span class="f3 push-content">: 狂</span><span class="push-ipdatetime"> 05/21 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saedn</span><span class="f3 push-content">: ok啦  高雄人很有錢的!! 不怕</span><span class="push-ipdatetime"> 05/21 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy02</span><span class="f3 push-content">: 賴做的還不錯</span><span class="push-ipdatetime"> 05/22 04:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thepstar</span><span class="f3 push-content">: 花公家錢買票 花大家錢不心痛</span><span class="push-ipdatetime"> 05/22 08:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495201935.A.99C.html?cacheKey=2052-35567579&offset=44121&offset-sig=56ea72445acd32c9b4522d26cfe7079a3f561ce9" data-longpollurl="/v1/longpoll?id=401ca25ea8fdc2cb1286bd64e299395a597044a5" data-offset="44121"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

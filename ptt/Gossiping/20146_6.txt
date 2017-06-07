@@ -1,0 +1,166 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495015118.A.52A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 螺旋省電燈泡的內部構造 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我們傳統的燈泡長這樣
+http://i.imgur.com/LsYwhxm.jpg
+不過現在這種的大多已經被淘汰了
+換成這種螺旋省電型燈泡
+http://i.imgur.com/K54wyRY.jpg
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 螺旋省電燈泡的內部構造">
+<meta property="og:description" content="我們傳統的燈泡長這樣
+http://i.imgur.com/LsYwhxm.jpg
+不過現在這種的大多已經被淘汰了
+換成這種螺旋省電型燈泡
+http://i.imgur.com/K54wyRY.jpg
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495015118.A.52A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495015118.A.52A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wise2525 (Allegro)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 螺旋省電燈泡的內部構造</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 17:58:33 2017</span></div>
+
+我們傳統的燈泡長這樣
+<a href="http://i.imgur.com/LsYwhxm.jpg" target="_blank" rel="nofollow">http://i.imgur.com/LsYwhxm.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="LsYwhxm"><a href="//imgur.com/LsYwhxm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+不過現在這種的大多已經被淘汰了
+換成這種螺旋省電型燈泡
+<a href="http://i.imgur.com/K54wyRY.jpg" target="_blank" rel="nofollow">http://i.imgur.com/K54wyRY.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="K54wyRY"><a href="//imgur.com/K54wyRY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+但各位有沒有發現一個很恐怖的事
+這種燈泡，各廠商都做白色的
+沒人要做透明的
+我上網搜尋：螺旋燈泡 內部構造。螺旋燈泡 構造等等
+都找不到任何結構圖
+
+螺旋燈泡的燈管是不是藏了什麼秘密啊
+裡面到底長怎樣r???
+各位不好奇嗎？？？
+
+-----
+Sent from JPTT on my Samsung SM-N910U.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 106.1.8.36
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495015118.A.52A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495015118.A.52A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIDIMIN</span><span class="f3 push-content">: 裡面有小精靈在發光</span><span class="push-ipdatetime"> 05/17 17:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yulis</span><span class="f3 push-content">: 敲破不就知道惹…</span><span class="push-ipdatetime"> 05/17 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 有透明的阿 照個10分鐘很爽喔</span><span class="push-ipdatetime"> 05/17 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nicholassys</span><span class="f3 push-content">: 因為裡面有瑩火蟲  會被告</span><span class="push-ipdatetime"> 05/17 18:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flyvegetable</span><span class="f3 push-content">: 敲破小精靈會死 千萬不要</span><span class="push-ipdatetime"> 05/17 18:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: keyword &#34;Compact fluorescent lamp&#34;</span><span class="push-ipdatetime"> 05/17 18:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cdmlin</span><span class="f3 push-content">: 螢光粉有透明的?</span><span class="push-ipdatetime"> 05/17 18:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k03004748549</span><span class="f3 push-content">: 敲破然後深呼吸</span><span class="push-ipdatetime"> 05/17 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jyichien</span><span class="f3 push-content">: 白色就螢光漆阿  原理跟傳統T8一樣讓紫外光變可見光</span><span class="push-ipdatetime"> 05/17 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jyichien</span><span class="f3 push-content">: 有錯請指證</span><span class="push-ipdatetime"> 05/17 18:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">woofcat</span><span class="f3 push-content">: 娘子啊 來看文組鬧笑話啊</span><span class="push-ipdatetime"> 05/17 18:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">:  <a href="http://i.imgur.com/lHJC5u7.jpg" target="_blank" rel="nofollow">http://i.imgur.com/lHJC5u7.jpg</a></span><span class="push-ipdatetime"> 05/17 18:06
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="lHJC5u7"><a href="//imgur.com/lHJC5u7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>嘎！？裡面沒東西？？
+<span class="f2">※ 編輯: wise2525 (106.1.8.36), 05/17/2017 18:07:04
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">allencyh</span><span class="f3 push-content">: 同日光燈管</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">godbar</span><span class="f3 push-content">: 敲破不會?</span><span class="push-ipdatetime"> 05/17 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RLAPH</span><span class="f3 push-content">: 螺旋小精靈 千萬不要打破燈泡不然他會跑到你肛門裡開始螺</span><span class="push-ipdatetime"> 05/17 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RLAPH</span><span class="f3 push-content">: 旋之旅</span><span class="push-ipdatetime"> 05/17 18:18
+</span></div>聽起來好像不錯<a href="http://i.imgur.com/E0qKc5w.jpg" target="_blank" rel="nofollow">http://i.imgur.com/E0qKc5w.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="E0qKc5w"><a href="//imgur.com/E0qKc5w"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f2">※ 編輯: wise2525 (106.1.8.36), 05/17/2017 18:23:48
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">allyourshit</span><span class="f3 push-content">: 做透明的你就會先得皮膚癌了</span><span class="push-ipdatetime"> 05/17 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">allyourshit</span><span class="f3 push-content">: EPROM就是用透明燈管的紫外線燈下去照</span><span class="push-ipdatetime"> 05/17 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chinnez</span><span class="f3 push-content">: 啊就燈管啊，成分自己查</span><span class="push-ipdatetime"> 05/17 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">walhalla</span><span class="f3 push-content">: 螺旋型的是長管型的幼生體,老師沒跟你說嗎?</span><span class="push-ipdatetime"> 05/17 19:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dendrimer</span><span class="f3 push-content">: 透明的曬完會脫皮</span><span class="push-ipdatetime"> 05/17 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ifchen0</span><span class="f3 push-content">: 現在不都用LED了？</span><span class="push-ipdatetime"> 05/17 19:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windnia</span><span class="f3 push-content">: 要問悟飯</span><span class="push-ipdatetime"> 05/17 19:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495015118.A.52A.html?cacheKey=2052-41886721&offset=3152&offset-sig=a990fe8a88504e1c54953c4987a205a5d63825b4" data-longpollurl="/v1/longpoll?id=f0103ee752d28069c44b4214e57d8de16d004e11" data-offset="3152"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

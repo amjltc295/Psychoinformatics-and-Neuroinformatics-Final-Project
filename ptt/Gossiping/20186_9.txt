@@ -1,0 +1,206 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495034106.A.A64.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] WannaCry攻陷電表勒索? 屋主揭露真相後氣炸 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+WannaCry攻陷電表勒索? 屋主揭露真相後氣炸
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] WannaCry攻陷電表勒索? 屋主揭露真相後氣炸">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+WannaCry攻陷電表勒索? 屋主揭露真相後氣炸
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495034106.A.A64.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495034106.A.A64.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">TeacherLin (林老師)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] WannaCry攻陷電表勒索? 屋主揭露真相後氣炸</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 23:15:03 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+2.完整新聞標題:
+WannaCry攻陷電表勒索? 屋主揭露真相後氣炸
+
+3.完整新聞內文:
+
+勒索病毒WannaCry席捲全球，但連電表都會中毒？中國江蘇揚州溧陽市一個家庭突然沒電
+，並出現一張與WannaCry病毒畫面類似的紙張，表示想要復電就要付錢。結果屋主通報供
+電所人員維修，才發現原來根本是兒子想要騙錢的花招。
+
+據中國《人民網》報導，這張WannaCry通知中表示，電表電線被病毒蠕蟲咬壞了，上網一
+定找不到辦法恢復，「沒有我幫忙，你家一定會沒電！」想要復電就要透過二維碼支付費
+用，而且天黑前不付款，費用將會翻倍。
+
+供電所維修人員察看電表，發現電表開關櫃鎖被撬動過，電表開關被關閉，所以才沒電，
+根本沒有什麼病毒蠕蟲咬壞電線的情況，又透過支付帳戶發現戶名竟然就是屋主的兒子，
+才揭穿這個騙局。（即時新聞中心／綜合報導）
+
+<a href="http://i.imgur.com/oYIbb7U.jpg" target="_blank" rel="nofollow">http://i.imgur.com/oYIbb7U.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="oYIbb7U"><a href="//imgur.com/oYIbb7U"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>翻攝自《人民網》的《微博》
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/VbE0Dv" target="_blank" rel="nofollow">https://goo.gl/VbE0Dv</a>
+
+5.備註:
+想到用這招騙錢 也是挺厲害的 可惜不夠聰明 不知道電表不會中毒
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.180.228.112
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495034106.A.A64.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495034106.A.A64.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 狼性</span><span class="push-ipdatetime"> 05/17 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikemagic88</span><span class="f3 push-content">: WannaMoney</span><span class="push-ipdatetime"> 05/17 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wlsh5701</span><span class="f3 push-content">: 「病毒蠕蟲咬壞電線」 ?????????</span><span class="push-ipdatetime"> 05/17 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sexbox</span><span class="f3 push-content">: 有前途</span><span class="push-ipdatetime"> 05/17 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anper</span><span class="f3 push-content">: 電表電線被病毒蠕蟲咬壞了  靠杯阿   笑死我</span><span class="push-ipdatetime"> 05/17 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aak</span><span class="f3 push-content">: 有創意！</span><span class="push-ipdatetime"> 05/17 23:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shippai</span><span class="f3 push-content">: 其實爸媽騙更大 騙術都爸媽教的</span><span class="push-ipdatetime"> 05/17 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hayate232</span><span class="f3 push-content">: .....</span><span class="push-ipdatetime"> 05/17 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 天才</span><span class="push-ipdatetime"> 05/17 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Feketerigo</span><span class="f3 push-content">: XDDDD 這也太有創意</span><span class="push-ipdatetime"> 05/17 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">king181239</span><span class="f3 push-content">: 好聰明喔</span><span class="push-ipdatetime"> 05/17 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">popy8789</span><span class="f3 push-content">: 你可以貼給國稅局看</span><span class="push-ipdatetime"> 05/17 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 中國人的狼性，不過真他媽的有創意</span><span class="push-ipdatetime"> 05/17 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WWWWW123</span><span class="f3 push-content">: 電表什麼時候有連網</span><span class="push-ipdatetime"> 05/17 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hu7592</span><span class="f3 push-content">: .....</span><span class="push-ipdatetime"> 05/17 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithuang</span><span class="f3 push-content">: 蠕蟲咬塊電線XDDD 咬一半早被電死了,怎麼咬,哈!</span><span class="push-ipdatetime"> 05/17 23:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meowchen</span><span class="f3 push-content">: 此蟲非比蟲</span><span class="push-ipdatetime"> 05/17 23:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 電腦病毒咬電線? 是有多智障?</span><span class="push-ipdatetime"> 05/17 23:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ffaarr</span><span class="f3 push-content">: XDDDDDDDD</span><span class="push-ipdatetime"> 05/17 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 兒子滿聰明的</span><span class="push-ipdatetime"> 05/17 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 是病毒咬壞這個不成猴兒子的腦子吧</span><span class="push-ipdatetime"> 05/17 23:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: 智障..</span><span class="push-ipdatetime"> 05/17 23:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panex0845</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/17 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yuwuen</span><span class="f3 push-content">: 狼性</span><span class="push-ipdatetime"> 05/17 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yahe0526</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/17 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orzorza3r</span><span class="f3 push-content">: 有創意</span><span class="push-ipdatetime"> 05/17 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cactusman</span><span class="f3 push-content">: 太會了吧xD</span><span class="push-ipdatetime"> 05/17 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alladult</span><span class="f3 push-content">: 下次記得用人頭帳戶</span><span class="push-ipdatetime"> 05/17 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a10141013</span><span class="f3 push-content">: 蠻有創意的 腦筋動的很快</span><span class="push-ipdatetime"> 05/17 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ganganx</span><span class="f3 push-content">: 兒子留支付寶嗎</span><span class="push-ipdatetime"> 05/17 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AnnaAJ</span><span class="f3 push-content">: 這種智障騙術也只有智障才會上當</span><span class="push-ipdatetime"> 05/17 23:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rial</span><span class="f3 push-content">: 螂性</span><span class="push-ipdatetime"> 05/17 23:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wangyc</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/17 23:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JT0624</span><span class="f3 push-content">: 都實名制了還敢這樣玩 XD</span><span class="push-ipdatetime"> 05/17 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppc</span><span class="f3 push-content">: XDDD</span><span class="push-ipdatetime"> 05/17 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">doom3</span><span class="f3 push-content">: 支付寶真的很棒 XDDDD</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a25863796</span><span class="f3 push-content">: 果然是一家人，支那日常</span><span class="push-ipdatetime"> 05/17 23:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aeryzephyr</span><span class="f3 push-content">: 中國人專殺自己人</span><span class="push-ipdatetime"> 05/17 23:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ifay</span><span class="f3 push-content">: 有笑有推</span><span class="push-ipdatetime"> 05/17 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: XDDDD</span><span class="push-ipdatetime"> 05/17 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rockday</span><span class="f3 push-content">: 戶名是自己的…也太蠢</span><span class="push-ipdatetime"> 05/17 23:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mi324</span><span class="f3 push-content">: XDDDD</span><span class="push-ipdatetime"> 05/17 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">byenewth</span><span class="f3 push-content">: XDDDDD</span><span class="push-ipdatetime"> 05/17 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smhead</span><span class="f3 push-content">: 太蠢了吧</span><span class="push-ipdatetime"> 05/17 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevingginin</span><span class="f3 push-content">: XDDD</span><span class="push-ipdatetime"> 05/18 00:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: W</span><span class="push-ipdatetime"> 05/18 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tainantw</span><span class="f3 push-content">: 支那人專騙自己人</span><span class="push-ipdatetime"> 05/18 00:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 文化大革命教出來的良好國民素質啊</span><span class="push-ipdatetime"> 05/18 00:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">unicornfly</span><span class="f3 push-content">: 騙自己家人...是有病嗎？！</span><span class="push-ipdatetime"> 05/18 00:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Shermie</span><span class="f3 push-content">: 真不愧是支那人 支那人跟片子幾乎是同義詞</span><span class="push-ipdatetime"> 05/18 01:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: 文組</span><span class="push-ipdatetime"> 05/18 01:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coldtoby</span><span class="f3 push-content">: 也太蠢</span><span class="push-ipdatetime"> 05/18 01:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daihsiaoyuan</span><span class="f3 push-content">: 兒子也太會哈哈哈哈哈哈</span><span class="push-ipdatetime"> 05/18 01:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsming</span><span class="f3 push-content">: 創意狼</span><span class="push-ipdatetime"> 05/18 04:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ISDP3</span><span class="f3 push-content">: 真搞笑！</span><span class="push-ipdatetime"> 05/18 04:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dufflin</span><span class="f3 push-content">: 狂！</span><span class="push-ipdatetime"> 05/18 06:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jark41</span><span class="f3 push-content">: 病毒蠕蟲咬壞電線????????????</span><span class="push-ipdatetime"> 05/18 07:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rexx0520</span><span class="f3 push-content">: 哈哈哈哈哈哈</span><span class="push-ipdatetime"> 05/18 07:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shorty696820</span><span class="f3 push-content">: You made my day XDDDD</span><span class="push-ipdatetime"> 05/18 08:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 哪裡聰明有創意 爸媽太笨吧</span><span class="push-ipdatetime"> 05/18 11:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: .............</span><span class="push-ipdatetime"> 05/18 12:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495034106.A.A64.html?cacheKey=2052-36450976&offset=7364&offset-sig=47c4d7afd9b8c77dd60d0da886ab0c26db781535" data-longpollurl="/v1/longpoll?id=a63ee01e17ab47ae9927daf7e27b4fe84679e251" data-offset="7364"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

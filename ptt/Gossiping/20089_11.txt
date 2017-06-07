@@ -1,0 +1,169 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494982000.A.356.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] Wanna 變種!  WannaSister &#34;想要妹妹&#34; 登場 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="台灣媒體還沒有報導
+但是從33區的媒體新聞已經出現了
+勒索病毒WannaCry 3.0出來了
+名字是 WannaSister.exe
+======
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] Wanna 變種!  WannaSister &#34;想要妹妹&#34; 登場">
+<meta property="og:description" content="台灣媒體還沒有報導
+但是從33區的媒體新聞已經出現了
+勒索病毒WannaCry 3.0出來了
+名字是 WannaSister.exe
+======
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494982000.A.356.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494982000.A.356.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Vett (Vett)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] Wanna 變種!  WannaSister &#34;想要妹妹&#34; 登場</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 08:46:32 2017</span></div>
+
+台灣媒體還沒有報導
+
+但是從33區的媒體新聞已經出現了
+
+勒索病毒WannaCry 3.0出來了
+
+名字是 WannaSister.exe
+
+======
+
+不是惡搞我不信
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 124.218.24.124
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494982000.A.356.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494982000.A.356.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iPadProPlus</span><span class="f3 push-content">: Wakeupnosis</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tevye</span><span class="f3 push-content">: 這是肥宅病毒ㄅ</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ascii</span><span class="f3 push-content">: .......</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stewartqq</span><span class="f3 push-content">: 請yoyodiy大師出手~</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 妹妹</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gold97972000</span><span class="f3 push-content">: 哪個白癡鄉民弄的</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 樓下 WannaXXXXGAY</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunnywing</span><span class="f3 push-content">: 你沒有妹妹</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: HaveNoSister</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xzcb2008</span><span class="f3 push-content">: 假的</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">btohsa</span><span class="f3 push-content">: 幹 哪個肥宅那麼缺德</span><span class="push-ipdatetime"> 05/17 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: Wannaloli</span><span class="push-ipdatetime"> 05/17 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Akagi</span><span class="f3 push-content">: 一定是八卦肥宅寫的</span><span class="push-ipdatetime"> 05/17 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coyoteY</span><span class="f3 push-content">: 這時間還在版上就是中了WannaPtt啊</span><span class="push-ipdatetime"> 05/17 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GKKR</span><span class="f3 push-content">: 樓下自首</span><span class="push-ipdatetime"> 05/17 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 結果是台灣鄉民寫的XDD  難怪願意幫22K解鎖 = =</span><span class="push-ipdatetime"> 05/17 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PantheraLeo</span><span class="f3 push-content">: 幹 一定是八卦肥宅 快自首</span><span class="push-ipdatetime"> 05/17 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: MailToXXXX</span><span class="push-ipdatetime"> 05/17 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mydarkfight</span><span class="f3 push-content">: 什麼時候變種成Wannasuckdick</span><span class="push-ipdatetime"> 05/17 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nnlllnn</span><span class="f3 push-content">: WanaPenis 懶叫拿來就解鎖</span><span class="push-ipdatetime"> 05/17 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flux</span><span class="f3 push-content">: 肥宅病毒，塞爆網速</span><span class="push-ipdatetime"> 05/17 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ccjj8</span><span class="f3 push-content">: wanna噓</span><span class="push-ipdatetime"> 05/17 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SE4NLN415</span><span class="f3 push-content">: 幕後一定是鄉民</span><span class="push-ipdatetime"> 05/17 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Granatha</span><span class="f3 push-content">: 無聊</span><span class="push-ipdatetime"> 05/17 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sleepyuan</span><span class="f3 push-content">: 臭妹妹</span><span class="push-ipdatetime"> 05/17 08:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">psychopath</span><span class="f3 push-content">: 下次會不會變成 WannaGF</span><span class="push-ipdatetime"> 05/17 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 幹！妹妹文的作者先預防性雞鴨</span><span class="push-ipdatetime"> 05/17 09:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay3u7218</span><span class="f3 push-content">: 果然是肥宅製造的病毒 罪證確鑿</span><span class="push-ipdatetime"> 05/17 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: ...........................</span><span class="push-ipdatetime"> 05/17 09:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gs951117</span><span class="f3 push-content">: 一定是臭肥宅寫的</span><span class="push-ipdatetime"> 05/17 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lampapompa</span><span class="f3 push-content">: WannaInsert</span><span class="push-ipdatetime"> 05/17 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leonardodavi</span><span class="f3 push-content">: Wanna sister!</span><span class="push-ipdatetime"> 05/17 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">papaganono</span><span class="f3 push-content">: wanna+名詞也太好笑</span><span class="push-ipdatetime"> 05/17 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">papaganono</span><span class="f3 push-content">: 中文你會取名為「想要去妹妹」嗎？？</span><span class="push-ipdatetime"> 05/17 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: 這一定是臭宅開發的 噁心</span><span class="push-ipdatetime"> 05/17 09:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudin</span><span class="f3 push-content">: 哪個鄉民自己站出來喔</span><span class="push-ipdatetime"> 05/17 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waloloo</span><span class="f3 push-content">: 修女</span><span class="push-ipdatetime"> 05/17 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: .</span><span class="push-ipdatetime"> 05/17 09:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chej</span><span class="f3 push-content">: 嗆寫病毒的人啊 醒醒吧 你沒有妹妹~</span><span class="push-ipdatetime"> 05/17 09:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p9957</span><span class="f3 push-content">: 肥宅怨念~~</span><span class="push-ipdatetime"> 05/17 10:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494982000.A.356.html?cacheKey=2052-41894402&offset=4456&offset-sig=3900c5460532ed24c3bf4726a2fe92feb039c749" data-longpollurl="/v1/longpoll?id=f588b6541b5af23092a7f1532962fd2ddd0a426d" data-offset="4456"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

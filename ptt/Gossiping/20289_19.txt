@@ -1,0 +1,164 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495106313.A.70F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 烤玉米有公道價嗎? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="建議成本計算可以忽略人力和瓦斯
+就算用2X k的正職員工
+每個月不過3萬多，攤到幾千支玉米上
+也才十幾塊
+那難道老闆都在坑人？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 烤玉米有公道價嗎?">
+<meta property="og:description" content="建議成本計算可以忽略人力和瓦斯
+就算用2X k的正職員工
+每個月不過3萬多，攤到幾千支玉米上
+也才十幾塊
+那難道老闆都在坑人？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495106313.A.70F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495106313.A.70F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">shirman (幼稚小鬼)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 烤玉米有公道價嗎?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 19:18:29 2017</span></div>
+<span class="f2">※ 引述《generally (滾來滾去)》之銘言：
+</span><span class="f6">: 前幾天家人去台中夜市逛
+</span><span class="f6">: 發現有賣烤玉米的攤子，一隻才賣90元
+</span><span class="f6">: 覺得好便宜，就買了
+</span><span class="f6">: 因為之前在基隆廟口買烤玉米一隻竟然叫價180元
+</span><span class="f6">: 士林夜市也差不多
+</span><span class="f6">: 本來新北市萬里有一家在2010年時3隻烤玉米100
+</span><span class="f6">: 但後來變有名後就漲到一隻120
+</span><span class="f6">: 聽說烤玉米成本很便宜，卻可以叫價到幾十倍
+</span><span class="f6">: 在北部一隻100元以下的到底還有沒有
+</span><span class="f6">: 有沒有烤玉米公道價應該多少的掛?
+</span>
+建議成本計算可以忽略人力和瓦斯
+
+就算用2X k的正職員工
+
+每個月不過3萬多，攤到幾千支玉米上
+
+也才十幾塊
+
+那難道老闆都在坑人？
+
+非也，是房價的問題
+
+房價高，成本就高
+
+連攤位收的租金都堪比店面
+
+這樣價錢還便宜的起來？
+
+這些房東就跟吸血蟲一樣
+
+油價上漲要漲租金，攤販生意好也要漲租金
+
+明明不事生產，卻賺進大把收入
+
+吸到攤商收掉還可以怪路克不來
+
+台灣經濟就是被這些人吸死的
+
+-----
+Sent from JPTT on my Samsung SM-N910U.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.171.9
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495106313.A.70F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495106313.A.70F.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">klarc</span><span class="f3 push-content">: 現在東西昂貴的確很多是店家把房租轉嫁給消費者造成的</span><span class="push-ipdatetime"> 05/18 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ac01801640</span><span class="f3 push-content">: 非也，我曾在潮州燒冷冰那邊的路邊攤買過烤玉米，用</span><span class="push-ipdatetime"> 05/18 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ac01801640</span><span class="f3 push-content">: 秤重的，價格自認不合理就是，重點沒有店面租金成本，</span><span class="push-ipdatetime"> 05/18 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ac01801640</span><span class="f3 push-content">: 同樣的量反而在屏東夜市內，需付攤位租金的還賣的比</span><span class="push-ipdatetime"> 05/18 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ac01801640</span><span class="f3 push-content">: 較便宜。</span><span class="push-ipdatetime"> 05/18 20:40
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495106313.A.70F.html?cacheKey=2052-40104420&offset=1530&offset-sig=1f36c22f666521fc996f4632a6da1fd49a1bb1db" data-longpollurl="/v1/longpoll?id=0dbd860d4651a6f8c4d29e72d96060d01210093b" data-offset="1530"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

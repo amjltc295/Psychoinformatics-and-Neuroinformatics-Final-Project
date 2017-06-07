@@ -1,0 +1,157 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496745462.A.71B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 肥宅組電腦會買正版windows嗎? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="純就配備效能來講，筆電CP值是比較低沒錯，他就贏在省空間&amp;可以帶著走而已，其他跟桌機比都輸到脫褲
+不過根據本魯的觀察，目前PC市場是變成以筆電為主，尤其買電競筆電的不少
+大概是因為房價太貴，散甲狼只能租房子，而且房間還放不下桌機，要搬家也是筆電一蓋就可以拿走比較方便
+電競筆電則是因為強調效能，可以當桌機代替品，當然配備自己要注意
+總之就是花錢買行動性vs.不要行動性換CP值而已，倒不至於都騙人
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 肥宅組電腦會買正版windows嗎?">
+<meta property="og:description" content="純就配備效能來講，筆電CP值是比較低沒錯，他就贏在省空間&amp;可以帶著走而已，其他跟桌機比都輸到脫褲
+不過根據本魯的觀察，目前PC市場是變成以筆電為主，尤其買電競筆電的不少
+大概是因為房價太貴，散甲狼只能租房子，而且房間還放不下桌機，要搬家也是筆電一蓋就可以拿走比較方便
+電競筆電則是因為強調效能，可以當桌機代替品，當然配備自己要注意
+總之就是花錢買行動性vs.不要行動性換CP值而已，倒不至於都騙人
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496745462.A.71B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496745462.A.71B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hoopps (none)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 肥宅組電腦會買正版windows嗎?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 18:37:39 2017</span></div>
+<span class="f2">※ 引述《Nodens (Mr. Hyde)》之銘言：
+</span><span class="f6">: 如題
+</span><span class="f6">: 本魯最近買筆電
+</span><span class="f6">: 身旁的肥宅說筆電都騙人的
+</span><span class="f6">: CP 值很低  塞一些爛規格硬體給你
+</span>純就配備效能來講，筆電CP值是比較低沒錯，他就贏在省空間&amp;可以帶著走而已，其他跟桌機比都輸到脫褲
+不過根據本魯的觀察，目前PC市場是變成以筆電為主，尤其買電競筆電的不少
+大概是因為房價太貴，散甲狼只能租房子，而且房間還放不下桌機，要搬家也是筆電一蓋就可以拿走比較方便
+電競筆電則是因為強調效能，可以當桌機代替品，當然配備自己要注意
+總之就是花錢買行動性vs.不要行動性換CP值而已，倒不至於都騙人
+
+真的要省錢也可以不買電腦，每天滑手機就好
+只是手機效能跟螢幕大小都遠不如電腦，對健康的危害也比電腦大
+當然對一些輕量使用者，例如上網只是玩玩G妹的遊戲or用line傳長輩圖等等可能夠用了吧
+但真正重度網癮的肥宅就要用電腦啦，除非你想瞎掉
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 218.166.116.181
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496745462.A.71B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496745462.A.71B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xjp004123</span><span class="f3 push-content">: 我有四台電腦，兩台就是筆電</span><span class="push-ipdatetime"> 06/06 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abramtw</span><span class="f3 push-content">: 錯 用MacBook 才能抗藍光</span><span class="push-ipdatetime"> 06/06 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flashgodie</span><span class="f3 push-content">: 現在電腦普遍效能過剩 除了肥宅以外筆電甚至AIO就夠</span><span class="push-ipdatetime"> 06/06 18:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amos30627</span><span class="f3 push-content">: 筆電都要買到4.5萬才會同時有還可以的效能和輕薄度</span><span class="push-ipdatetime"> 06/06 18:40
+</span></div>應該電池續航力比較重要吧，肥宅沒在管輕薄的
+而且如果你要內建光碟機要輕薄更難
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amos30627</span><span class="f3 push-content">: 筆電真的很盤= =</span><span class="push-ipdatetime"> 06/06 18:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Nodens</span><span class="f3 push-content">: 回廢文也可以打那麼多</span><span class="push-ipdatetime"> 06/06 18:40
+</span></div>你廢文我也可以廢文阿，這邊本來就是個發廢文的地方
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oldchang1205</span><span class="f3 push-content">: 不用吧 輕薄電競機 不用四萬就有了</span><span class="push-ipdatetime"> 06/06 18:43
+</span></div>太便宜的配備根本悲劇
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">labiron</span><span class="f3 push-content">: 我都有買耶…</span><span class="push-ipdatetime"> 06/06 18:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flashgodie</span><span class="f3 push-content">: 電競筆電本身就是笑話 加上輕薄又更好笑了</span><span class="push-ipdatetime"> 06/06 18:45
+</span></div>散熱很重要所以薄不了，至於笑話很多是捨本逐末
+例如搞一堆光害配件然後給你一張文書機等級的顯卡，真的是競你老木
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waloloo</span><span class="f3 push-content">: 輕薄電競筆電經濟型</span><span class="push-ipdatetime"> 06/06 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flashgodie</span><span class="f3 push-content">:                這你敢信?</span><span class="push-ipdatetime"> 06/06 18:48
+</span></div>其實電競筆電不完全是笑話啦，他定位就是桌機替代品
+輕薄跟電競放在一起才是笑話
+真的要輕薄就買mac阿，又輕薄又潮
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bye2007</span><span class="f3 push-content">: 認同這篇 我三年前買三萬初頭的電競筆電 就覺得很夠用了</span><span class="push-ipdatetime"> 06/06 18:50
+</span></div>重點自己看配備很重要，看到那個mark就去買、配備看都不看才是盤子
+<span class="f2">※ 編輯: hoopps (218.166.116.181), 06/06/2017 18:53:45
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bye2007</span><span class="f3 push-content">: 但是買電競筆電 就不要奢求輕薄 續航力又好 除非預算很高</span><span class="push-ipdatetime"> 06/06 18:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">louise13</span><span class="f3 push-content">: 上班自帶筆電幾乎是銀行以外都這樣搞，當然買筆電</span><span class="push-ipdatetime"> 06/06 19:04
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496745462.A.71B.html?cacheKey=2052-4439620&offset=2884&offset-sig=46ae41d73174f2a2f90bf675cff1858ad12ff3e8" data-longpollurl="/v1/longpoll?id=6d4876b5680f76553fe26a0eb9b5fe2eeaf4d8d1" data-offset="2884"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

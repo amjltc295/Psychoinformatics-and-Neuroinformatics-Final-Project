@@ -1,0 +1,169 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495611522.A.09B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台中南屯路路面不平整 建設局要求重鋪 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:中時
+2.完整新聞標題:台中南屯路二段路面不平整 建設局要求重舖
+3.完整新聞內文:
+台中市南屯路二段沿線有歷史悠久的國定三級古蹟萬和宮，也是人文宗教、民眾生活動線
+的重要路段，因道路老舊且經車流輾壓，路面老化龜裂、沉陷損壞隨處可見；市府5/10日
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台中南屯路路面不平整 建設局要求重鋪">
+<meta property="og:description" content="1.媒體來源:中時
+2.完整新聞標題:台中南屯路二段路面不平整 建設局要求重舖
+3.完整新聞內文:
+台中市南屯路二段沿線有歷史悠久的國定三級古蹟萬和宮，也是人文宗教、民眾生活動線
+的重要路段，因道路老舊且經車流輾壓，路面老化龜裂、沉陷損壞隨處可見；市府5/10日
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495611522.A.09B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495611522.A.09B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Herrbart (紅塵騷客)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台中南屯路路面不平整 建設局要求重鋪</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 15:38:39 2017</span></div>
+1.媒體來源:中時
+
+
+2.完整新聞標題:台中南屯路二段路面不平整 建設局要求重舖
+
+
+3.完整新聞內文:
+台中市南屯路二段沿線有歷史悠久的國定三級古蹟萬和宮，也是人文宗教、民眾生活動線
+的重要路段，因道路老舊且經車流輾壓，路面老化龜裂、沉陷損壞隨處可見；市府5/10日
+起執行該路段路平專案，但12日查驗已完成的南屯路二段北側、從精誠路至文心南路約
+850公尺工程時，發現部分路段平整度不符規定，建設局已要求廠商刨掉重舖，改善不符
+規定的道路，經費則由廠商自行承擔，展現嚴格把關全市道路品質決心。
+
+建設局指出，全長約1.41公里的南屯路二段，東接精誠路，西連五權西路二段，此段路平
+專案經費約1,240萬元，預計6月底前完成；5月10及11日兩天，夜間施作執行南屯路二段
+北側、從精誠路至文心南路約850公尺，面積約8,000平方公尺的路平工程。
+
+<span class="f3 hl">建設局人員12日上午查檢發現部分路面不平整，並利用平坦儀檢測平坦度，確實有路面平
+</span><span class="f3 hl">整度不佳、人手孔蓋平整度不符契約要求及路面與路側銜接不平順等問題，部份路段必須
+</span><span class="f3 hl">進行改善。</span>
+
+建設局長黃玉霖表示，南屯路路平專案在市府要求監造及廠商重新檢討施工程序及缺失後
+，針對不符規定的路段重新刨除舖設；而慢車道改善長度約為380公尺，快車道約為130公
+尺，面積約2,700平方公尺，將於22日重新刨舖改善完成，<span class="f3 hl">重新刨舖費用為150萬元，由施
+</span><span class="f3 hl">工廠商自行承擔，嚴格要求路平施工品質。</span>
+
+黃玉霖強調，市府對道路工程品質的要求，絕不妥協更不讓步，堅持三級品管確保道路的
+優質，並嚴格執行道路最佳工程品質並將持續追蹤，後續南屯路路平專案將執行從文心南
+路至萬安街，約650公尺，視天候狀況持續進場刨舖，預計26日進行夜間施工刨舖，若期
+程順利，可望6月底前完成。
+
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.chinatimes.com/realtimenews/20170524003567-260407" target="_blank" rel="nofollow">http://www.chinatimes.com/realtimenews/20170524003567-260407</a>
+
+
+5.備註:
+
+廠商有點忘記換黨執政了齁。
+
+想想當年陳定南可是自己拿尺和鐵鎚到現場驗收．
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.255.50
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495611522.A.09B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495611522.A.09B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 黑龍的歌頌新聞  未看先猜中時</span><span class="push-ipdatetime"> 05/24 15:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vs3</span><span class="f3 push-content">: 媽的全台灣一堆爛路好嗎操吱八</span><span class="push-ipdatetime"> 05/24 15:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">A102</span><span class="f3 push-content">: 一堆爛路鋪了也不平的，最好都有好好查驗</span><span class="push-ipdatetime"> 05/24 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digodi</span><span class="f3 push-content">: 不是廠商會指定檢驗地點嗎？</span><span class="push-ipdatetime"> 05/24 15:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 永春南路到環中路的永春路段，去年剛鋪完..好棒喔！..</span><span class="push-ipdatetime"> 05/24 16:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">louic</span><span class="f3 push-content">: 現在去看啊...又挖了一堆了！</span><span class="push-ipdatetime"> 05/24 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digodi</span><span class="f3 push-content">: 至少五權西沒有挖。</span><span class="push-ipdatetime"> 05/24 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scz651513</span><span class="f3 push-content">: 市府建設局嚴格把關，讚喔！</span><span class="push-ipdatetime"> 05/24 20:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aitela</span><span class="f3 push-content">: 台中肺癌罹患率，及PM2.5污染度都是全國第一，好地方！</span><span class="push-ipdatetime"> 05/25 00:24
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495611522.A.09B.html?cacheKey=2052-457034&offset=2772&offset-sig=d2834ec897571143e205f3d83de6fceb744085cd" data-longpollurl="/v1/longpoll?id=4ef4b3184403335b64df357cb6ed6ba243691e24" data-offset="2772"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

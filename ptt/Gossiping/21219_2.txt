@@ -1,0 +1,142 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495730058.A.1D7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[ＦＢ] 黑嘉嘉 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="ＦＢ卦點說明：2#真的是混亂的戰局呢,原來ALPHAGO也是可以適應亂局了,進化很多了呢
+              google一定只是想要推銷TPU吧
+              當然要支持黑棋阿,誰叫我老婆也姓黑呢
+ＦＢ連結：https://goo.gl/jXvlHL
+ＦＢ內容：
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[ＦＢ] 黑嘉嘉">
+<meta property="og:description" content="ＦＢ卦點說明：2#真的是混亂的戰局呢,原來ALPHAGO也是可以適應亂局了,進化很多了呢
+              google一定只是想要推銷TPU吧
+              當然要支持黑棋阿,誰叫我老婆也姓黑呢
+ＦＢ連結：https://goo.gl/jXvlHL
+ＦＢ內容：
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495730058.A.1D7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495730058.A.1D7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">gnew (mix)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 黑嘉嘉</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 00:34:15 2017</span></div>
+ＦＢ卦點說明：2#真的是混亂的戰局呢,原來ALPHAGO也是可以適應亂局了,進化很多了呢
+              google一定只是想要推銷TPU吧
+              當然要支持黑棋阿,誰叫我老婆也姓黑呢
+
+ＦＢ連結：<a href="https://goo.gl/jXvlHL" target="_blank" rel="nofollow">https://goo.gl/jXvlHL</a>
+
+ＦＢ內容：
+
+人機大戰第二局～
+今天這盤棋是超級大混戰，現在局面形成了轉換，雙方各自做活，不過我覺得還是黑棋好
+下些
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.193.32.196
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495730058.A.1D7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495730058.A.1D7.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sakaizawa</span><span class="f3 push-content">: 推老婆</span><span class="push-ipdatetime"> 05/26 00:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">man790810</span><span class="f3 push-content">: 樓下貼白冰冰</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaodaIsHere</span><span class="f3 push-content">: 不要意淫我老婆好嗎 cd樓下幫噓</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takashi01</span><span class="f3 push-content">: 我老婆</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy02</span><span class="f3 push-content">: 我叫我老婆不要在打電腦發文好了~</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mar5566</span><span class="f3 push-content">: 佐為:我只知道我拿黑棋沒輸過...</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaodaIsHere</span><span class="f3 push-content">: 一樓你推我老婆銃殺小 信不信我揍你</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zulumin</span><span class="f3 push-content">: 老婆發文了</span><span class="push-ipdatetime"> 05/26 00:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">johnwu</span><span class="f3 push-content">: 刷存在感逆</span><span class="push-ipdatetime"> 05/26 00:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 你看~不覺得她比較適合在圍棋界當半個公眾人物嗎?</span><span class="push-ipdatetime"> 05/26 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">egg781</span><span class="f3 push-content">: 真的希望她別出唱片</span><span class="push-ipdatetime"> 05/26 00:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wtfbt</span><span class="f3 push-content">: 黑+++1</span><span class="push-ipdatetime"> 05/26 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a0921387223</span><span class="f3 push-content">: <a href="http://i.imgur.com/Sb0Xm1X.jpg" target="_blank" rel="nofollow">http://i.imgur.com/Sb0Xm1X.jpg</a></span><span class="push-ipdatetime"> 05/26 00:43
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="Sb0Xm1X"><a href="//imgur.com/Sb0Xm1X"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yiersan</span><span class="f3 push-content">: 要是++在對面 黃博士會下錯XD</span><span class="push-ipdatetime"> 05/26 01:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495730058.A.1D7.html?cacheKey=2052-1661311&offset=1958&offset-sig=4c204cd81ae8c723c09fb52116e8e4ff2be89889" data-longpollurl="/v1/longpoll?id=d328014e0ac28756a98dae3cc0d129062869e853" data-offset="1958"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

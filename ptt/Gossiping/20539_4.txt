@@ -1,0 +1,228 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495275893.A.F03.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞]HTC U11主打側框感應 卻對勞基法無感 員工 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="苦勞網
+http://www.coolloud.org.tw/node/88386
+HTC U11主打側框感應 卻對勞基法無感
+員工踢爆資方強迫「特休換廠休」
+2017/05/20 苦勞報導
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞]HTC U11主打側框感應 卻對勞基法無感 員工">
+<meta property="og:description" content="苦勞網
+http://www.coolloud.org.tw/node/88386
+HTC U11主打側框感應 卻對勞基法無感
+員工踢爆資方強迫「特休換廠休」
+2017/05/20 苦勞報導
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495275893.A.F03.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495275893.A.F03.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Lsamia (samia)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞]HTC U11主打側框感應 卻對勞基法無感 員工</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 18:24:51 2017</span></div>
+苦勞網
+<a href="http://www.coolloud.org.tw/node/88386" target="_blank" rel="nofollow">http://www.coolloud.org.tw/node/88386</a>
+
+HTC U11主打側框感應 卻對勞基法無感
+員工踢爆資方強迫「特休換廠休」
+2017/05/20 苦勞報導
+張宗坤
+苦勞網特約記者
+
+宏達電HTC剛剛發表配備側框感應（Edge Sense）功能的U11智慧型手機，引發市場話題，
+今日（5/20）熱鬧滾滾舉行「親子樂遊日」，然而桃園市電子產業工會與宏達電員工卻到
+場揭露：宏達電發表的新手機，是公司片面要求勞工「犧牲特休換廠休」所製造出來的「
+血汗手機」。
+
+
+為確保勞工能完全享有決定與利用休假日的自由，讓勞工能夠真的放得到特休，在上一次
+《勞基法》修法中，台灣參考日本《勞基法》的規定，新增「員工期日指定權」的制度，
+意思是說，原則上員工可以與資方表達在某個日期或時間內的休假意願；資方僅能在非常
+少數的特殊狀況中，強制要求勞工變更特休日期。雇主頂多只能「提醒」或「促請」勞工
+一同協商日期，但絕不能「代替」勞工決定放假時間。
+
+然而，去年（2016）年底一例一休上路後，宏達電先是強迫勞工簽署「變更薪資結構」與
+「國定假日調移」兩份同意書（相關報導），後來甚至強迫員工請掉個人的特休，以作為
+「廠區休假」（簡稱廠休）。
+
+什麼是「廠休」？
+
+廠休是電子業或製造業的常用詞彙，意思是除了法定休假外，工廠自訂的休假日。在宏達
+電的案例裡，廠休是因為適逢淡季或有哄抬股價需要而出現，而真正的問題在於強迫勞工
+以個人努力工作所換得的特休，當成名義上的「廠休」。
+桃園市電子業產業工會理事長趙健輝指出，上次兩份違法的同意書，經過工會抗議後，公
+司連忙舉行說明會進行澄清，這份「強迫同意書」也轉為不強迫員工填寫的「調查卷」。
+然而到了三、四月左右，為了營造新手機上市的股價行情，宏達電先是強迫正職勞工消耗
+個人累積的特休假，再額外聘雇大量派遣工，一方面減少人事成本支出、二方面還可以為
+新產品營造「缺工、趕貨」假象。對於不願意犧牲特休假當廠休的員工，宏達電則祭出「
+曠職」處分，讓員工不敢不從，被迫放棄休假以及休息時間的生活。
+
+「好像整個人被買走一樣」
+
+新竹到桃園一帶是台灣的科技之城，日夜不停工，生產著作為現代文明基礎的電子產品。
+高科技產業是富裕生活持續發展的象徵，吸引著拒絕青年貧窮、充滿夢想的青年世代。在
+宏達電服務四年多的廖小姐，就是在畢業後旋即進入「電子新貴」行列的一員，原先以為
+生活能就此安定下來，不料卻遭到奴隸般的對待。
+
+在她所屬的HTC Vive（由宏達電所生產的VR虛擬實境裝置）部門，有不少人和她一樣是畢
+業即就業。廖小姐估計，在這個部門裡約有100到200人左右，「幾乎每個人都經歷過不合
+理的廠休！」若照她的年資算起，廖小姐每年可以享有14天的特別休假，但光在四月淡季
+期間，就已經被公司用掉7天當作廠休，她自己真正利用到的只有3、4天左右。
+
+VR部門的廖小姐，在大學畢業後就進入宏達電工作。但工作四年來，她漸漸意識到公司的
+「廠休」根本違反勞動法令，於是選擇加入工會集體對抗宏達電資方。（攝影：張宗坤）
+VR部門的廖小姐，在大學畢業後就進入宏達電工作。但工作四年來，她漸漸意識到公司的
+「廠休」根本違反勞動法令，於是選擇加入工會集體對抗宏達電資方。（攝影：張宗坤）
+
+公司內部安排廠休的Line對話群組，可以發現明明是4/14開始的廠休，居然是在前一日的
+下班時間才臨時決定。（桃園市電子業產業工會提供）公司內部安排廠休的Line對話群組
+，可以發現明明是4/14開始的廠休，居然是在前一日的下班時間才臨時決定。（桃園市電
+子業產業工會提供）
+
+宏達電安排廠休的節奏非常不固定，從工會出示的公司內部Line群組記錄來看，公司不但
+會預先決定廠休與工作的日期，決定也往往做得非常倉促。以廖小姐為例，今日公司臨時
+要求她加班，居然是昨天（5/19）下午3點左右才提出。
+
+「連休假都不能自己排，這樣我怎麼出去休假、出國旅遊，或去經營私生活，或去看望父
+母，甚至是交男朋友、女朋友？」廖小姐激動地說：「我好像整個人被買走，整個人被賣
+給公司一樣！」在今天的記者會上，她也為了VR部門的其他同事發聲，「公司一次又一次
+剝奪我們的特休假，大家不要再私下討論，一起加入工會吧！」
+
+工會入廠屢遭拒 資方不願出面協商
+
+作為團結特定工廠、職業或產業的工會，為了爭取工人的集體勞動與經濟權益，法律上特
+別賦予「工會行動權」，讓工會可以具體發揮團結工人、集體行動對抗資方的能力。也因
+此，工會行動權——包含進入廠區，與勞工直接對話或宣傳的權利——就直接地與資方的
+財產權（包含支配土地、廠區、資產，甚至勞工的權利）發生衝突。
+
+桃園市電子業產業工會今日原本的行動規劃，一方面是主張勞工排定特休日期的權益，另
+一方面則是趁著親子日向勞工與勞工家庭進行工會宣傳活動；當資方派出保全阻擋工會入
+廠時，因為入廠權與財產權的相互衝突，勞方與保全在公司門口僵持不下。
+
+當工會以《工會法》主張要進入廠內時，保全連忙說「這是私人土地」，要「大家互相（
+體諒）」，並用身體築成人牆。工會一方雖然多次嘗試突破保全組成的防線，並質問保全
+「阻擋我們就是不當勞動行為，可以送裁決喔！」、「阻擋工會是資方指使的嗎？」但保
+全不置一詞，也不願再向公司上級回報。
+
+在最後一波衝突發生時，保全甚至將主要進攻的工會理事長趙建輝用力拉到一旁。趙建輝
+雖向一旁的警察「求救」，認為保全的行為是「強制罪的現行犯」，然而警方從頭到尾只
+是在旁維持秩序，放由保全與工會雙方爭執。剛剛才下班的宏達電夜班員工與參加親子日
+的勞工家庭，從抗爭衝突的工會魚貫走過，工會則持續發放傳單，高呼「還我特休」、「
+不要廠休」。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.141.97.63
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495275893.A.F03.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495275893.A.F03.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Redfoo</span><span class="f3 push-content">: 花式業配</span><span class="push-ipdatetime"> 05/20 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wulital</span><span class="f3 push-content">: 如果真這麼調員工的特休，真的蠻缺德的，</span><span class="push-ipdatetime"> 05/20 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">degneva</span><span class="f3 push-content">: 不支持國產閉嘴 HTC養活很多家庭</span><span class="push-ipdatetime"> 05/20 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">flyfood0</span><span class="f3 push-content">: 這兩個有什麼關聯</span><span class="push-ipdatetime"> 05/20 18:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sdd5426</span><span class="f3 push-content">: 一樓講得滿不錯的XD</span><span class="push-ipdatetime"> 05/20 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">testutw</span><span class="f3 push-content">: 垃圾資進黨胖曹豹會鳥你們?</span><span class="push-ipdatetime"> 05/20 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b162pnq5</span><span class="f3 push-content">: 民視新聞正在撥這個</span><span class="push-ipdatetime"> 05/20 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ueu966</span><span class="f3 push-content">: 亂搞</span><span class="push-ipdatetime"> 05/20 18:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">limitX</span><span class="f3 push-content">: 買一隻壓壓驚</span><span class="push-ipdatetime"> 05/20 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ccucwc</span><span class="f3 push-content">: 爛公司</span><span class="push-ipdatetime"> 05/20 18:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hero</span><span class="f3 push-content">: HTC U11是台灣製，現在哪裡買台灣製手機啊。哼！</span><span class="push-ipdatetime"> 05/20 18:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: 沒有讓員工放無薪假,老闆已經算很有良心了(連虧8季的HTC~)</span><span class="push-ipdatetime"> 05/20 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: 感覺來抗議的人士是來亂的,布條字醜就算了,還簡體字,又兇</span><span class="push-ipdatetime"> 05/20 19:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: 明明就台灣製造,怎會用簡體字的布條,難道抗議人士有大陸人</span><span class="push-ipdatetime"> 05/20 19:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: 要好好珍惜最近的加班機會,好好幹,公司不會虧待你的~</span><span class="push-ipdatetime"> 05/20 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awdxabc295</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/20 19:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">superbatman</span><span class="f3 push-content">: 桃園廠還在？</span><span class="push-ipdatetime"> 05/20 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sword790101</span><span class="f3 push-content">: 為什麼布條是簡體字</span><span class="push-ipdatetime"> 05/20 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tigershark</span><span class="f3 push-content">: 垃圾公司  但那隻狗小Na仍然衷心護主</span><span class="push-ipdatetime"> 05/20 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: 樓上這麼行,做支有創意的手機來賣,不要亂罵,小心被告~</span><span class="push-ipdatetime"> 05/21 16:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: 〈中部〉她罵人是狗 代價35000元</span><span class="push-ipdatetime"> 05/21 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex69</span><span class="f3 push-content">: <a href="http://news.ltn.com.tw/news/local/paper/485240" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/local/paper/485240</a></span><span class="push-ipdatetime"> 05/21 16:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495275893.A.F03.html?cacheKey=2052-37407659&offset=6992&offset-sig=eec24f899053fef26fdfa172971a23ac4b80d9f2" data-longpollurl="/v1/longpoll?id=30d2e75f87b0efaf6e4bbe9dbf03e8c93d89df7e" data-offset="6992"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

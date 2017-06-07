@@ -1,0 +1,274 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496576484.A.7C4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] D槽很多片子這樣算大數據嗎？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="A片在近代科技發展是有巨大貢獻的
+想當年自組電腦，聲霸卡自己來，IRQ自己跳
+是誰把一切整合？ Win OS
+它整合了 driver 概念
+一塊卡再也不能簡單的隨插即用，在 DOS 下驅動
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] D槽很多片子這樣算大數據嗎？">
+<meta property="og:description" content="A片在近代科技發展是有巨大貢獻的
+想當年自組電腦，聲霸卡自己來，IRQ自己跳
+是誰把一切整合？ Win OS
+它整合了 driver 概念
+一塊卡再也不能簡單的隨插即用，在 DOS 下驅動
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496576484.A.7C4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496576484.A.7C4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">HuangJC (吹笛牧童)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] D槽很多片子這樣算大數據嗎？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 19:41:20 2017</span></div>
+
+A片在近代科技發展是有巨大貢獻的
+
+想當年自組電腦，聲霸卡自己來，IRQ自己跳
+是誰把一切整合？ Win OS
+它整合了 driver 概念
+一塊卡再也不能簡單的隨插即用，在 DOS 下驅動
+但麻煩的安裝完後，所有硬體就在 os 的管理之下
+
+聲音先提升，再來是影像，然後就進入多媒體時代
+現在不強調多媒體了，就好像現在買車不會強調電動車窗
+但現在的電腦是多媒體規格無誤
+
+音樂 CD 也在這時發展，而一片 CD 的資料量，當初是因為貝多芬第九交響曲定義的
+一定要能完整把它播放完; 也就是 74分 42秒 以上
+
+現在一塊 SD 卡幾M幾G都不算什麼了，但其實它比我當年的硬碟還大，比光碟還大
+又快又便宜，絕對屌打光碟
+但歷史就是要慢慢進步，如果不曾有貴貴的 CD，很難一步登天到現在的 SD 卡
+
+貝多芬第九交響曲推動了 CD 規格
+而什麼推動下一步的進步呢？
+就是 AV 片
+
+---------------------
+
+音樂 CD之後，當大家還在為&#39;輕輕震動就會跳針&#39;的問題困擾時
+資訊電腦界早就瞄準它的儲存性質，想要把資料放上去，變成資料 CD
+說到&#39;輕輕震動就會跳針&#39;，後來有不少科技鎖定在這裡
+而最終的驗收環境，就是台灣的戰車級路面
+
+&#34;只要在台灣的馬路播放不會跳針，就是夠好的避震規格&#34;
+
+這點日本人也是拍馬難及的，台灣才能催生最好的避震規格
+扯遠了，回到資料 CD
+當年的軟體，一套 autocad 只要兩張軟碟片
+就算是大到誇張的套裝軟體，十片二十片在安裝的，我也有經驗
+就算你三十片好不好， 30* 1.2M = 36M
+容量極小，無法催生 CD 片的需求
+沒有量，就難以壓制價格，當年的 CD 空白片有夠貴!!
+
+電影，電影不錯吧？其實 DVD 的規格已經在思考了
+它的定義至少在&#34;一部電影&#34;，不能看完一部電影的 DVD，算什麼 DVD 嘛～
+但就算以當年較差解析度的視訊規格，都還必需要兩張光碟片才能儲存
+也就是看到一半要換片，非常不爽
+
+一片資料 CD（儲存視訊的，又叫做 VCD），能放什麼電影？
+太短了不好看，又無法刺激市場購買
+
+也就是這時，AV 片出現了～～～
+一片 AV，不必講劇情，只要女主角漂亮
+一張床，一個導演，導演自己可以兼男演員（也有的是女演員在兼）
+一個攝影師，極少的成本就可以開拍了
+然後賺多少？以 C/P來算真是海放鐵達尼那種片子！
+
+AV 片的出現，成功的補進這個產業需求空缺
+終於讓 CD 片，CD 機不斷發展，不斷降價
+
+現在 AV 片又在催生虛擬實境了
+它對產業的貢獻真是數一數二
+
+----------------------------------------
+
+離題到 音樂 CD，當年本來是音樂錄音帶，一片 120
+自 CD 出現之後，一片 300
+說真的很讓人肉痛，但因為音質不容易損壞，還是值得
+有很多人在音樂錄音帶時代，是會一次買兩片的
+一片馬上聽，一片開都不開，就收藏
+到音樂 CD 後，初期還是有很多刮傷意外，但愈來愈不容易
+燒錄機的發明，更是讓我把原版片收起來，只聽燒錄片
+
+但也因為盜拷容易，音樂產業受創極重
+唱片公司倒閉，合併的一大堆
+音樂就轉到網路，線上，數位
+
+這也是今年金曲獎的重點
+全面開放數位音樂作品
+這是什麼意思呢？
+
+從前的音樂作品，都要有實體販售
+而 CD 開模（任何要開模的成品，都會有開模費）
+聽說合理的低消是一千張
+賣不到一千張，則開模費無法吸收
+
+在從前一張專輯隨便賣就數萬，數十萬，甚至百萬張的年代
+當然沒有問題
+但盜版再加上有些人的音樂非主流，量不大
+賣一千張真的有難度，若沒有金主奧援，就只好不發行實體了
+這種音樂，還是可以在網路上（比如 kkbox, Apple Store）販售的
+
+但它就是不能報名（以前的）金曲獎！
+
+這就是規則，而今年全面開放數位音樂
+也就是今年沒有發行實體的專輯，也可以報名金曲獎了
+
+說到金曲獎，最近公佈了入圍名單
+我支持的歌手也入圍了
+就是黃妃 （撒花～）
+
+黃妃前不久問我，入圍後網路上有沒有在聊她
+我說:你都沒什麼誹聞，沒什麼好聊的，你上一篇新聞是&#39;買房&#39;
+後來我搜尋了一下板面，說:好多人台語都好爛啊，你不如來教大家台語
+於是就有了這一段錄音
+這是非常生活化的，她只是隨口聊聊
+等我要求她錄起來時，她就&#39;改姓張&#39;了
+說她會緊張 XDDDD
+
+唉，黃妃就是這樣，在地的親切，不習慣大場面
+所以大家也別怪她低調了
+
+<a href="https://www.youtube.com/watch?v=J9_9T7DHc-A" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=J9_9T7DHc-A</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/J9_9T7DHc-A" frameborder="0" allowfullscreen></iframe></div></div></div><a href="https://www.youtube.com/watch?v=kwyvqyE5Hds" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=kwyvqyE5Hds</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/kwyvqyE5Hds" frameborder="0" allowfullscreen></iframe></div></div></div>
+
+
+然後這個是未公開影片，請大家不要流傳 XD
+<a href="https://www.youtube.com/watch?v=jXiRqHKTDno" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=jXiRqHKTDno</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/jXiRqHKTDno" frameborder="0" allowfullscreen></iframe></div></div></div>我不會承認這是我恭賀黃妃入圍時，她傳給我的入圍感言 XDDDD
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.71.70.233
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496576484.A.7C4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496576484.A.7C4.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a741085</span><span class="f3 push-content">: 我印象中燒錄器剛出時一片空白CD也才18元左右  不貴阿</span><span class="push-ipdatetime"> 06/04 19:47
+</span></div>
+你什麼時候開始玩的？你這樣根本沒被貴到
+我們要多方比較，又怕燒壞心疼，電腦要很棒才能燒，只有一倍速
+這才是有被貴到的
+
+你現在是不是隨便買片，不太需要挑？那你根本沒被貴到
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oak2002</span><span class="f3 push-content">: 台語有夠道地...</span><span class="push-ipdatetime"> 06/04 19:47
+</span></div>
+朋友說我逢中必反，李婭莎得獎那次為什麼不接受，人家是來學我們的文化
+啊他就不懂啊，我投射了那麼多感情進去
+台語講不輪轉就不算啦，我管你拿什麼獎
+
+要說音樂無國界，把國語歌那邊開放就夠了
+台語歌這邊當初設獎用意，就在保護台灣本土文化，增列名額
+既然設獎用意如此，就別偏離初衷嘛
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">evilpoet</span><span class="f3 push-content">: 18元？</span><span class="push-ipdatetime"> 06/04 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JhoYng420</span><span class="f3 push-content">: 這篇會爆</span><span class="push-ipdatetime"> 06/04 19:54
+</span></div>
+不會，才五個推而已，你爆給我看
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ayanami5566</span><span class="f3 push-content">: 老妃迷？</span><span class="push-ipdatetime"> 06/04 19:54
+</span></div>
+<a href="https://www.youtube.com/watch?v=0kapqAJHL_s" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=0kapqAJHL_s</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/0kapqAJHL_s" frameborder="0" allowfullscreen></iframe></div></div></div>這我做的影片，請指教～
+<span class="f2">※ 編輯: HuangJC (111.71.70.233), 06/04/2017 19:56:26
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">happywithyou</span><span class="f3 push-content">: 專業推</span><span class="push-ipdatetime"> 06/04 19:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bustyma19</span><span class="f3 push-content">: 跪求黃妃番號！</span><span class="push-ipdatetime"> 06/04 19:58
+</span></div>
+你皮在癢了，不過激似張X妹的出現過
+我就查不到番號 XDDDD
+<span class="f2">※ 編輯: HuangJC (111.71.70.233), 06/04/2017 20:02:14
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kidjerry</span><span class="f3 push-content">: 44</span><span class="push-ipdatetime"> 06/04 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DaGarn</span><span class="f3 push-content">: 專業ㄨㄣ</span><span class="push-ipdatetime"> 06/04 20:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: 真的...以前燒一片CD要等好久</span><span class="push-ipdatetime"> 06/04 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ytpc</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/05 10:24
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496576484.A.7C4.html?cacheKey=2052-1383512&offset=5586&offset-sig=01f8a7658bd339a5b73148cefd0cf92c36a1b787" data-longpollurl="/v1/longpoll?id=d7a6e09211d79248b928cef748ca164611bb4bac" data-offset="5586"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

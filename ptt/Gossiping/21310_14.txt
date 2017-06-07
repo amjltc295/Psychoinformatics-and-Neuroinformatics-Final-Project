@@ -1,0 +1,229 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495797045.A.839.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 記者飆英文惹棋王不開心　央視小編求柯 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果
+2.完整新聞標題:
+記者飆英文惹棋王不開心　央視小編求柯潔原諒
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 記者飆英文惹棋王不開心　央視小編求柯">
+<meta property="og:description" content="1.媒體來源:
+蘋果
+2.完整新聞標題:
+記者飆英文惹棋王不開心　央視小編求柯潔原諒
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495797045.A.839.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495797045.A.839.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">stw0975 (      )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 記者飆英文惹棋王不開心　央視小編求柯</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 19:10:41 2017</span></div>
+<span class="f2">1.媒體來源:</span>
+
+蘋果
+
+<span class="f2">2.完整新聞標題:</span>
+
+<span class="b1">記者飆英文惹棋王不開心　央視小編求柯潔原諒</span>
+
+<span class="f2">3.完整新聞內文:</span>
+
+世界排名第一的中國棋王柯潔昨日再度敗給人工智慧圍棋程式AlphaGo
+但他並未輸棋不開心，反而是央視記者在賽後記者會上的提問讓棋王面露不悅。
+
+一名隸屬於央視國際台CGTN的男記者在記者會上
+<span class="f3 hl">連珠炮似的快速用英語提問，速度快到連現場翻譯都來不及跟上。</span>
+柯潔聽完他的提問後只簡單回了一句： <span class="b4">「如果你是中國人，就應該用中文向我提問。」</span>
+柯潔說完後，<span class="b1">現場立刻爆出掌聲。</span>
+該名記者則解釋說，因為英語是他工作時候的語言，所以才用英語提問。
+
+但記者的解釋似乎沒發揮功效，不但引來網友痛批
+連棋聖<span class="f2 hl">聶衛平</span>都忍不住跳出來幫柯潔說話
+稱當時這位記者英語說得超快，<span class="f3 hl">連現場口譯都跟不上
+</span><span class="f3 hl">更何況是其他英語程度不如口譯的人。</span>
+
+央視小編今日則在微博上公開向柯潔道歉，連寫了3次「求原諒！」
+並在發文中寫著：
+<span class="f3 hl">「在這裡要特別嚴肅批評一下我們的多媒體記者同志
+</span><span class="f3 hl">還是Too young…提問的語速有些快，給口譯小姐姐造成了麻煩，求小姐姐原諒
+</span><span class="f3 hl">求柯潔原諒，請喝咖啡可以嗎？」</span>
+（大陸中心／綜合外電報導）
+
+<span class="f2">4.完整新聞連結 (或短網址):</span>
+
+<a href="https://goo.gl/pCKUhb" target="_blank" rel="nofollow">https://goo.gl/pCKUhb</a>
+
+<span class="f2">5.備註:</span>
+
+支那這樣也能自慰
+
+被道歉   呵呵
+
+會不會是聽不懂？
+
+才生氣
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.227.231.188
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495797045.A.839.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495797045.A.839.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: 故意的 塑造輸了棋局贏了尊嚴</span><span class="push-ipdatetime"> 05/26 19:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 三小</span><span class="push-ipdatetime"> 05/26 19:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shadowdio</span><span class="f3 push-content">: 遷怒</span><span class="push-ipdatetime"> 05/26 19:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">njpbjp6</span><span class="f3 push-content">: 影片中真的是翻譯都傻了，就那記者講的很爽</span><span class="push-ipdatetime"> 05/26 19:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 大陸中心是三小</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">juunuon</span><span class="f3 push-content">: 原來除掉圍棋也是個憤青?</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1223356</span><span class="f3 push-content">: 這記者不愛國，已經要人間蒸發了，她在寫遺書，懂嗎？</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rr78</span><span class="f3 push-content">: 中國人不是東亞病夫</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2156700</span><span class="f3 push-content">: 連現場口譯都跟不上…</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momocom</span><span class="f3 push-content">: 好在我台灣人</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">visible</span><span class="f3 push-content">: 輸了耍任性 幼稚</span><span class="push-ipdatetime"> 05/26 19:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pttenjk</span><span class="f3 push-content">: 台灣沒棋手可以跟AI打嗎?</span><span class="push-ipdatetime"> 05/26 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bimmers0</span><span class="f3 push-content">: 中國人英語不能太強，會被原諒…</span><span class="push-ipdatetime"> 05/26 19:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc8424</span><span class="f3 push-content">: 中國記者在中國故意用飛速英文問中國棋手  很合理</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #翻譯小姐姐語無倫次惹</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bimmers0</span><span class="f3 push-content">: 這個國家處處顯示出自卑感強大</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pupss89177</span><span class="f3 push-content">: 口譯人員素質差？</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cger</span><span class="f3 push-content">: 還以為記者飆蔡總統</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bigcho</span><span class="f3 push-content">: 台灣代表坐在柯傑面前啦</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WinNOKIA</span><span class="f3 push-content">: 展現自己英文屌，如果被民族主義打臉也蠻好笑的</span><span class="push-ipdatetime"> 05/26 19:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sanchiya</span><span class="f3 push-content">: 沒錯，我過去出差時也是遇到講中文的速度超快的，聽他們</span><span class="push-ipdatetime"> 05/26 19:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sanchiya</span><span class="f3 push-content">: 介紹或簡報還需要要求放慢速度</span><span class="push-ipdatetime"> 05/26 19:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bimmers0</span><span class="f3 push-content">: 啥都要牽扯民族玻璃心</span><span class="push-ipdatetime"> 05/26 19:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">juunuon</span><span class="f3 push-content">: 提語速快也只是藉口 重點如果是這個直接說你講太快了就好</span><span class="push-ipdatetime"> 05/26 19:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bimmers0</span><span class="f3 push-content">: 叫記者說慢點即可，扯啥如果你是中國人</span><span class="push-ipdatetime"> 05/26 19:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 為啥中國人口那麼多，還一堆人喜歡取單名？</span><span class="push-ipdatetime"> 05/26 19:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Naru</span><span class="f3 push-content">: 我覺得就這點而言，柯潔是對的。</span><span class="push-ipdatetime"> 05/26 19:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LNGOGO</span><span class="f3 push-content">: 這就是自卑台灣人缺的東西 人家懂得堅持自己的民族立場</span><span class="push-ipdatetime"> 05/26 19:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LNGOGO</span><span class="f3 push-content">: 台灣人永遠舔日本舔歐美 哪個願意國際場合要求台語提問</span><span class="push-ipdatetime"> 05/26 19:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 台灣現在的官方語言不就國語</span><span class="push-ipdatetime"> 05/26 19:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 或者你要精準一點 中華民國的官方用語是國語</span><span class="push-ipdatetime"> 05/26 19:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HeavensFeel</span><span class="f3 push-content">:  哪裡請來的爛口譯啊.....</span><span class="push-ipdatetime"> 05/26 19:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 如果你的官方語是台語 要說服人用台語在國際場合 還有道理</span><span class="push-ipdatetime"> 05/26 19:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrXD</span><span class="f3 push-content">: 豚以為雪幾句英文就能脫離豚喔</span><span class="push-ipdatetime"> 05/26 19:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sky99</span><span class="f3 push-content">: 不如訪問 Alphago</span><span class="push-ipdatetime"> 05/26 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joey89116</span><span class="f3 push-content">: 不用中文本來就蠢</span><span class="push-ipdatetime"> 05/26 19:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SkySwimmer</span><span class="f3 push-content">: 不過是個輸家</span><span class="push-ipdatetime"> 05/26 19:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddabc1234</span><span class="f3 push-content">: 嗆得很厲害 輸得很難看 ，然後發泄一下也有錯嗎??</span><span class="push-ipdatetime"> 05/26 19:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roktzzt</span><span class="f3 push-content">: 你們中國人</span><span class="push-ipdatetime"> 05/26 19:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ddabc1234</span><span class="f3 push-content">: 民族???靠 。中國民族性就是叫人道歉，說實話的給我道</span><span class="push-ipdatetime"> 05/26 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ddabc1234</span><span class="f3 push-content">: 歉 說別國好話就是間諜 叛國賊!?黨要你罵那個人 一堆五</span><span class="push-ipdatetime"> 05/26 19:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ddabc1234</span><span class="f3 push-content">: 毛出來D開砲就高潮了!?</span><span class="push-ipdatetime"> 05/26 19:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 小姐姐：我要大杯的</span><span class="push-ipdatetime"> 05/26 19:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cvnn</span><span class="f3 push-content">: 輸了牽怒記者 棋王風範 還抬中國出來 可悲</span><span class="push-ipdatetime"> 05/26 19:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leamaSTC</span><span class="f3 push-content">: 這跟民族無關  是不尊重的問題 更何況是自己人</span><span class="push-ipdatetime"> 05/26 19:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leamaSTC</span><span class="f3 push-content">: 日媒訪問日本人如果也用英文  2ch大概戰到記者辭職吧</span><span class="push-ipdatetime"> 05/26 19:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Areso</span><span class="f3 push-content">: 輸到脫褲 凶屁啊</span><span class="push-ipdatetime"> 05/26 19:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yellout</span><span class="f3 push-content">: 一個被電腦打爆的垃圾也敢唱秋</span><span class="push-ipdatetime"> 05/26 19:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scu96</span><span class="f3 push-content">: 聽不懂就說聽不懂 還要酸人是不是中國人 真是死要面子 XD</span><span class="push-ipdatetime"> 05/26 19:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamfenixsc</span><span class="f3 push-content">: 中國人又在內戰了</span><span class="push-ipdatetime"> 05/26 19:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 聽不懂英文要承認</span><span class="push-ipdatetime"> 05/26 19:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mack860120</span><span class="f3 push-content">: 推柯潔 帥 霸氣</span><span class="push-ipdatetime"> 05/26 20:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunnyyoung</span><span class="f3 push-content">: 原來是同志，不顧別人感受不意外(誤)</span><span class="push-ipdatetime"> 05/26 20:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plbroum88</span><span class="f3 push-content">: 說得好 媽的低能記者</span><span class="push-ipdatetime"> 05/26 20:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yanni999</span><span class="f3 push-content">: 去你媽的台語，閩南語是大陸方言，不是台灣的</span><span class="push-ipdatetime"> 05/26 20:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LEDtorch</span><span class="f3 push-content">: too young 是英文欸...</span><span class="push-ipdatetime"> 05/26 20:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: 就這點來講柯潔是對的</span><span class="push-ipdatetime"> 05/26 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mk8257</span><span class="f3 push-content">: 柯潔是對的+1</span><span class="push-ipdatetime"> 05/26 20:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silver5566</span><span class="f3 push-content">: 本來就該用中文</span><span class="push-ipdatetime"> 05/26 20:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 這次推柯潔</span><span class="push-ipdatetime"> 05/26 20:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Czar</span><span class="f3 push-content">: 爆出掌聲XD  朝聖</span><span class="push-ipdatetime"> 05/26 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Becuzlove</span><span class="f3 push-content">: 真是太對不起了 我英文太好你們聽不懂←要這樣道歉啦</span><span class="push-ipdatetime"> 05/26 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Becuzlove</span><span class="f3 push-content">: 英文不好不可恥 可恥的是你拿來責罵人 柯傑你柯柯喔</span><span class="push-ipdatetime"> 05/26 21:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 靠背 人家英文強也要砲哦………</span><span class="push-ipdatetime"> 05/26 21:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sl11pman</span><span class="f3 push-content">: 反觀馬桶</span><span class="push-ipdatetime"> 05/26 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nineuniverse</span><span class="f3 push-content">: 只有我覺得柯潔那句話坑很大嗎 不是英文的問題</span><span class="push-ipdatetime"> 05/26 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FantasyNova</span><span class="f3 push-content">: 沒錯</span><span class="push-ipdatetime"> 05/27 02:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tomchow76</span><span class="f3 push-content">: 明明就是口譯人員程度太差...</span><span class="push-ipdatetime"> 05/27 10:54
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495797045.A.839.html?cacheKey=2052-1906212&offset=8333&offset-sig=73840262bc1f54d0b7147a632d16f7f111ef8c49" data-longpollurl="/v1/longpoll?id=17682c5b6639447434c9e921cf83dbeeb65cc3da" data-offset="8333"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

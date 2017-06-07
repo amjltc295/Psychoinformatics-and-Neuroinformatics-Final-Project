@@ -1,0 +1,144 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496219916.A.055.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 批踢踢為何不出官方的App? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="  吶吶 魯魯我很好奇欸
+ 批踢踢以前用桌機筆電
+ 現在主流是手機平板上批踢踢。
+  官方何不出個app 無廣告
+  不需付費 可收贊助 科科
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 批踢踢為何不出官方的App?">
+<meta property="og:description" content="  吶吶 魯魯我很好奇欸
+ 批踢踢以前用桌機筆電
+ 現在主流是手機平板上批踢踢。
+  官方何不出個app 無廣告
+  不需付費 可收贊助 科科
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496219916.A.055.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496219916.A.055.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">em4 (通通去吃寶路啦&gt;&lt;)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 批踢踢為何不出官方的App?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 16:38:33 2017</span></div>
+  吶吶 魯魯我很好奇欸
+
+ 批踢踢以前用桌機筆電
+ 現在主流是手機平板上批踢踢。
+
+  官方何不出個app 無廣告
+  不需付費 可收贊助 科科
+
+  相信應該會不少人願意贊助買單吧？？？
+
+    吶 有卦麼
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.204.51.50
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496219916.A.055.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496219916.A.055.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asianDUB</span><span class="f3 push-content">: 沒人會做 台大的太笨了</span><span class="push-ipdatetime"> 05/31 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neil000</span><span class="f3 push-content">: 什麼App PCMAN不會？</span><span class="push-ipdatetime"> 05/31 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roger840410</span><span class="f3 push-content">: 充值b幣大禮包 即送五樓迴避券5張</span><span class="push-ipdatetime"> 05/31 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chaosly0124</span><span class="f3 push-content">: 台大放出機會給其他人賺</span><span class="push-ipdatetime"> 05/31 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roger840410</span><span class="f3 push-content">: p幣</span><span class="push-ipdatetime"> 05/31 16:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">obdv</span><span class="f3 push-content">: 當維護簡單ㄛ  你做?</span><span class="push-ipdatetime"> 05/31 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Carol0217</span><span class="f3 push-content">: 加一，魯魯妹也會買單</span><span class="push-ipdatetime"> 05/31 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 樓下做 一個月後完成</span><span class="push-ipdatetime"> 05/31 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chuck032733</span><span class="f3 push-content">: 樓上蘆妹我老婆</span><span class="push-ipdatetime"> 05/31 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chuck032733</span><span class="f3 push-content">: 乾我不會寫程式齁</span><span class="push-ipdatetime"> 05/31 16:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lpgg33044304</span><span class="f3 push-content">: 幹嘛做？ <a href="http://i.imgur.com/OxuR5kT.jpg" target="_blank" rel="nofollow">http://i.imgur.com/OxuR5kT.jpg</a></span><span class="push-ipdatetime"> 05/31 16:44
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="OxuR5kT"><a href="//imgur.com/OxuR5kT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rofellosx</span><span class="f3 push-content">: 你認為ptt官方是誰?</span><span class="push-ipdatetime"> 05/31 16:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">opengaydoor</span><span class="f3 push-content">: 做出來浪費錢幹嘛</span><span class="push-ipdatetime"> 05/31 16:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whoisanky</span><span class="f3 push-content">: PTT有官方嗎XD 然後又不能營利 誰傻了?</span><span class="push-ipdatetime"> 05/31 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kosmosinsel</span><span class="f3 push-content">: 官方就是教育部阿教育部收贊助事情會很大條</span><span class="push-ipdatetime"> 05/31 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hu7592</span><span class="f3 push-content">: 因為不能盈利啊，你沒看到現在的APP都是滿滿的廣告嗎</span><span class="push-ipdatetime"> 05/31 17:56
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496219916.A.055.html?cacheKey=2052-2771791&offset=2055&offset-sig=ecb3991f76813fabe2e23c9974a0597cabf3452f" data-longpollurl="/v1/longpoll?id=6de073be6e3833f4f57dbbe9cc3d7fd8308f1dee" data-offset="2055"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

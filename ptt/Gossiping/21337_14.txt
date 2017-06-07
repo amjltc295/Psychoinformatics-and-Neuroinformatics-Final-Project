@@ -1,0 +1,188 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495810973.A.3A4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 公宅居民素質會影響北市房價？柯文哲：他 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+風傳媒
+2.完整新聞標題:
+公宅居民素質會影響北市房價？柯文哲：他們只是不是很有錢
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 公宅居民素質會影響北市房價？柯文哲：他">
+<meta property="og:description" content="1.媒體來源:
+風傳媒
+2.完整新聞標題:
+公宅居民素質會影響北市房價？柯文哲：他們只是不是很有錢
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495810973.A.3A4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495810973.A.3A4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">derekgao (derekgao)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 公宅居民素質會影響北市房價？柯文哲：他</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 23:02:48 2017</span></div>
+1.媒體來源:
+風傳媒
+
+
+2.完整新聞標題:
+公宅居民素質會影響北市房價？柯文哲：他們只是不是很有錢
+
+
+3.完整新聞內文:
+台北市長柯文哲今（26）日前往北投區，參加奇岩公共住宅統包工程開工典禮，為工程祈
+福順利平安，並感謝臺北市議會對建設的支持表示。柯文哲說，此案將建置在奇岩的生態
+社區，將會以最高規格標準建設，並以生態綠建築為主軸，符合綠建築、智慧建築等。
+
+記者問到有關里長認為租賃的民眾品質良莠不齊時，柯文哲回應說，很多來租的都是年輕
+人，只是剛剛出社會，不是很有錢，不覺得會有什麼問題。
+柯文哲表示，政府無法做到讓每個市民都買得起房子，但最起碼讓市民有地方可以住，所
+以只租不賣的公宅就是實現居住正義很重要的一環，並讓臺北市民有品質很好的房子可以
+住。
+
+
+柯文哲表示，臺北市公共住宅有4個目標，分別為實現居住正義、展現城市美學、推動臺
+北市智慧產業，以及引進新的社會形態。柯文哲強調，由於此案將建置在奇岩的生態社區
+，將會以最高規格標準建設，並以生態綠建築為主軸，符合綠建築、智慧建築、無障礙住
+宅及耐震標章，將會是高品質的住宅。
+
+柯文哲:公宅將有5%帶入智慧城市產業
+
+柯文哲說，智慧城市產業在臺北市是競爭力較強的產業，臺北市政府也與中央政府達成協
+議，因此公宅裡面將有5%的建造費用帶入智慧城市產業，希望由內而外、由公而私，透過
+公共住宅建設，拉動整個臺北市智慧產業，進而把這個產業在臺灣深耕。
+
+
+最後他表示，建設公共住宅需要考量整個社區的需要，例如公宅的地下停車場開放給周邊
+居民使用，再檢視社區是否缺少區民活動中心、托兒所、托嬰空間、老人共餐等社福空間
+，並加入公共住宅建設當中。
+
+有記者提到有關里長認為租賃的民眾是否有良莠不齊的問題時，柯文哲解釋，很多來租的
+都是年輕人，只是剛剛出社會，不是很有錢，不覺得他們會有什麼問題。至於管理上，市
+府會一直進步，還在思考如何管理這些公宅，可能會推出公宅管理公司。
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.storm.mg/article/273232" target="_blank" rel="nofollow">http://www.storm.mg/article/273232</a>
+
+
+5.備註:
+感覺好像包租公包租婆才是真正的大魔王啊
+
+--
+推 zergaiur: 歷史多看, 我是指曹操剛發跡,而諸葛亮第一次北伐的時代   03/10 10:45
+推 zergaiur: 沒錯啊...就是曹操剛出道的時代!!  唉..你的歷史老師..   03/10 10:49
+西元197年 曹操遷都許昌。  西元217年 劉備攻取漢中（諸葛亮留守成都）
+西元220年 曹操死，曹丕稱帝，國號魏，定都洛陽。  西元227年 諸葛亮第一次北伐
+推 zergaiur: 鬼扯....你只會舉年代而已? 你不會化整為零嗎?           03/10 11:35
+推 zergaiur: 你又錯了,沒有證據顯示諸葛亮197年沒有北伐好嗎?         03/10 11:52
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.137.252.120
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495810973.A.3A4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495810973.A.3A4.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tchialen</span><span class="f3 push-content">: 窮就是罪</span><span class="push-ipdatetime"> 05/26 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alprazolam</span><span class="f3 push-content">: 有錢等於有素質，懂</span><span class="push-ipdatetime">05/26 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pz5202</span><span class="f3 push-content">: 有錢=有素質？哈哈哈</span><span class="push-ipdatetime">05/26 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gca00631</span><span class="f3 push-content">: 公宅管理公司?委外經營嗎?</span><span class="push-ipdatetime">05/26 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kazekaze</span><span class="f3 push-content">: 嗯</span><span class="push-ipdatetime">05/26 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QQ101</span><span class="f3 push-content">: 簽名檔好白癡</span><span class="push-ipdatetime">05/26 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 根本是種笑貧不笑娼的概念</span><span class="push-ipdatetime">05/26 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jfcjjl</span><span class="f3 push-content">: 當然阿，出社會，女生看身高，有錢的可以錢會變+10增高墊</span><span class="push-ipdatetime">05/26 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takashi01</span><span class="f3 push-content">: 對拉窮人就是不該出生 幹</span><span class="push-ipdatetime">05/26 23:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hw1</span><span class="f3 push-content">: 原來諸葛亮197年可能有北伐</span><span class="push-ipdatetime">05/26 23:08
+</span></div>西元207冬～208春 劉備三顧茅廬
+<span class="f2">※ 編輯: derekgao (42.73.186.0), 05/26/2017 23:19:14
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xx49874039</span><span class="f3 push-content">: 台灣的有錢人呵呵</span><span class="push-ipdatetime"> 05/27 08:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taisam23</span><span class="f3 push-content">: 有錢人我看多了  素質爛的野一堆啦</span><span class="push-ipdatetime"> 05/27 09:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BJkiN</span><span class="f3 push-content">: 南部上去的</span><span class="push-ipdatetime"> 05/27 09:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckprinciple</span><span class="f3 push-content">: 支持柯P</span><span class="push-ipdatetime"> 05/27 10:47
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495810973.A.3A4.html?cacheKey=2052-1976982&offset=3938&offset-sig=1bf739cacba2f4552f209aa73941e4d6d18b506f" data-longpollurl="/v1/longpoll?id=ca9fdfee6bae97d3c2dbece911b95d69fe265ee1" data-offset="3938"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

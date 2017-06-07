@@ -1,0 +1,205 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495466775.A.C2A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 勞基法要修了！商總：有點訝異但肯定 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="說站在勞工這邊
+結果場地、人都是自己的
+修完不只勞工不滿意，還打算一段時間以後再修的讓金主滿意？
+wtf？
+某林大代表整天在那說，成本多10%，公司會撐不下去
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 勞基法要修了！商總：有點訝異但肯定">
+<meta property="og:description" content="說站在勞工這邊
+結果場地、人都是自己的
+修完不只勞工不滿意，還打算一段時間以後再修的讓金主滿意？
+wtf？
+某林大代表整天在那說，成本多10%，公司會撐不下去
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495466775.A.C2A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495466775.A.C2A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">nocesst (肥宅魔導師ﾍ(･_|)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 勞基法要修了！商總：有點訝異但肯定</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 23:26:10 2017</span></div>
+<span class="f2">※ 引述《whiteadam (blue eyes blue)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: 自由
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: 勞基法要修了！商總：有點訝異但肯定
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 2017-05-22  17:22
+</span><span class="f6">: 〔記者羅倩宜／台北報導〕喧騰一年多的勞基法，綠委終於提案準備修改，對此工總、商
+</span><span class="f6">: 總、工商協進會均表示肯定，但呼籲「要修，就一次修得符合現實」，建議加班工時每月
+</span><span class="f6">: 提高至 54小時，同時加班費一律以2倍計算，「讓公司付得起，勞工拿得到」。
+</span><span class="f6">: 多名綠委今宣佈提案修改勞基法，修法重點包括：一、休息日加班工時核實計算，不再以
+</span><span class="f6">: 4或 8小時為單位； 二、每月加班工時46小時不變，但採三個月總量管制，單月不逾56小
+</span><span class="f6">: 時；三、特休假可延至下年度或改發工資。
+</span><span class="f6">: 對此商總理事長賴正鎰表示，綠委突然提出修法，雖然有點訝異，但商總相當肯定。他戲
+</span><span class="f6">: 稱，可能是看到國民黨的黨主席選舉一切平靜，沒有繼續亂下去，因而産生危機意識。
+</span><span class="f6">: 商總指出，綠委提案修法的重點都符合工商界期待的方向，但力度不夠。在每月加班時數
+</span><span class="f6">: 上限，賴正鎰認為，綠委提案維持每月46小時不變，採三個月總量管制；「對服務業來説
+</span><span class="f6">: 不夠，碰到暑假旺季，忙起來可能超過三個月。」商總建議每月加班工時提高至54小時，
+</span><span class="f6">: 並以六個月總量管制。
+</span><span class="f6">: 代表製造業的工總理事長許勝雄認為，政黨政治還是台灣永續發展很重要一環，執政黨的
+</span><span class="f6">: 政策若不被認同，竸爭政黨就可能取而代之，可發揮鞭策政府的作用。「很多困難的事情
+</span><span class="f6">: ，須要時間才能見效，例如年金改革，這個工商界可以理解並支持。但去年通過的勞基法
+</span><span class="f6">: 並不是長期有利台灣的政策，反而造成了勞資及政府的三輸。」
+</span><span class="f6">: 工總認為，休息日加班工時核實計算，這個修改方向值得肯定。但建議每月加班工時從46
+</span><span class="f6">: 増至50小時，以四個月總量管制，單月不超過60小時，才符合旺季和歲修的需求。
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="http://news.ltn.com.tw/news/politics/breakingnews/2075568" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/politics/breakingnews/2075568</a>
+</span><span class="f6">: 5.備註:
+</span><span class="f6">: ※ 一個人一天只能張貼一則新聞，被刪或自刪也算額度內，超貼者水桶，請注意
+</span>
+
+說站在勞工這邊
+結果場地、人都是自己的
+修完不只勞工不滿意，還打算一段時間以後再修的讓金主滿意？
+
+wtf？
+
+某林大代表整天在那說，成本多10%，公司會撐不下去
+結果看看公司財報，大幅虧損都是因為投資中國
+
+如果不投資的話，那些獲益放在人事成本上面
+可能加50%都還有剩
+
+
+
+
+勞工要的很簡單，正常的休假、正常的工資、正常的加班（費）
+真的很難做到嗎？
+還是只是不敢得罪金主罷了？
+
+
+
+
+-----
+Sent from JPTT on my Sony F8132.
+
+--
+→ lucky1lk: 你不知道 五樓把四樓膜弄破以後 就生出三樓了            05/12 20:49
+→ Originalvoid: 二樓見證了這一切                                  05/12 20:59
+推 windswith68: &lt;(★v★)/我愛把拔、我愛馬麻                        05/12 21:21
+推 Kristoflower: 五樓你說我是把拔還是馬麻                          05/12 21:24
+→ ciscoboy604: 樓上是把拔                                         05/12 21:29
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.160.81
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495466775.A.C2A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495466775.A.C2A.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eddisontw</span><span class="f3 push-content">: 心中最軟的一塊 軟土深掘阿</span><span class="push-ipdatetime"> 05/22 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 那些立委 一定要施壓 會提早流出消息來就是在測風向</span><span class="push-ipdatetime"> 05/22 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 如果測出來發現勞工反彈不大 就會直接推下去了</span><span class="push-ipdatetime"> 05/22 23:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomjanyan</span><span class="f3 push-content">: 垃圾民進黨</span><span class="push-ipdatetime"> 05/22 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snider</span><span class="f3 push-content">: DPP的樣子越來越像KMT</span><span class="push-ipdatetime"> 05/22 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">milkQ</span><span class="f3 push-content">: 推!真的只要正常!但現在不正常都成為常態= =</span><span class="push-ipdatetime"> 05/22 23:29
+</span></div>勞工要的正常變要求太多，不正常反而變成正常
+勞工的悲歌
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">toudanlong</span><span class="f3 push-content">: 說得好!!不過沒人會鳥你...個個自掃門前雪..</span><span class="push-ipdatetime"> 05/22 23:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ddfg</span><span class="f3 push-content">: 簡單的話 你就不會當鄉民 別人當官</span><span class="push-ipdatetime"> 05/22 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ddfg</span><span class="f3 push-content">: 短期做太多改變是不可能 只能靠長期慢慢修到雙方能接受</span><span class="push-ipdatetime"> 05/22 23:33
+</span></div>我沒有說簡單，但絕對沒有這麼難
+慢慢修法當然可以
+但不是修了再來放消息看能不能退後
+這完全就是亂搞
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d8711013</span><span class="f3 push-content">: 心中最軟的一塊</span><span class="push-ipdatetime"> 05/22 23:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ueewen</span><span class="f3 push-content">: 慢慢改變到資方愈來愈爽的狀態？！</span><span class="push-ipdatetime"> 05/22 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ueewen</span><span class="f3 push-content">: 爽到必須裝傻，裝不知道！</span><span class="push-ipdatetime"> 05/22 23:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Myfun</span><span class="f3 push-content">: 這樣改是要比爛的就對了！</span><span class="push-ipdatetime"> 05/22 23:39
+</span></div><span class="f2">※ 編輯: nocesst (101.15.160.81), 05/22/2017 23:39:23
+</span><span class="f2">※ 編輯: nocesst (101.15.160.81), 05/22/2017 23:40:00
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kklighter</span><span class="f3 push-content">: 我宣布，加班無上限，強制責任制，發不發自由心證!</span><span class="push-ipdatetime"> 05/23 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rehtra</span><span class="f3 push-content">: 你現在才發現？</span><span class="push-ipdatetime"> 05/23 02:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptrex</span><span class="f3 push-content">: 老闆法要修了 難怪緊張</span><span class="push-ipdatetime"> 05/23 04:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamcoonie</span><span class="f3 push-content">: 得罪金主很難做到，反正台灣勞工不團結又健忘，從勞工</span><span class="push-ipdatetime"> 05/23 09:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iamcoonie</span><span class="f3 push-content">: 身上削最容易了</span><span class="push-ipdatetime"> 05/23 09:47
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495466775.A.C2A.html?cacheKey=2052-37199640&offset=4813&offset-sig=3fbba469b9a1583b77338f269668428d70f634e5" data-longpollurl="/v1/longpoll?id=d5d6d43e34e37599b2f31b5ead4e66eff1c96172" data-offset="4813"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

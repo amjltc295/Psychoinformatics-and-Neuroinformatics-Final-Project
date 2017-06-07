@@ -1,0 +1,291 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495474197.A.F48.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 民進黨立委提案 減少加班費 調高加班時數 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="其實我覺得第二點問題在勞檢 不在法律  會給加班費的話 根本不是問題
+或許真的有人想賺加班費 規定可以多加一點 也未嘗不可
+當然也可能把你薪水砍了再給你加班費 總薪不變 時數增加
+但這應該是少數吧 而且這種表示這種還願意假掰守法一下
+其實第一點假議題 真正問題是.......
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 民進黨立委提案 減少加班費 調高加班時數">
+<meta property="og:description" content="其實我覺得第二點問題在勞檢 不在法律  會給加班費的話 根本不是問題
+或許真的有人想賺加班費 規定可以多加一點 也未嘗不可
+當然也可能把你薪水砍了再給你加班費 總薪不變 時數增加
+但這應該是少數吧 而且這種表示這種還願意假掰守法一下
+其實第一點假議題 真正問題是.......
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495474197.A.F48.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495474197.A.F48.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">valender (槍在手)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 民進黨立委提案 減少加班費 調高加班時數</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 01:29:55 2017</span></div>
+<span class="f2">※ 引述《joel1129 (腐腐)》之銘言：
+</span><span class="f6">: ※註:有電視或媒體有報導者，請勿使用爆卦! 未滿20字 一行文 退文
+</span><span class="f6">: 1.勞基法目前規定，休息日 加班 0~4小時以4小時計算、4~8小時以8小時計算、
+</span><span class="f6">:   8~12小時以12小時計算。
+</span><span class="f6">:   民進黨立委提案修正為：依照實際的加班時數 來給付加班費用
+</span><span class="f6">:   譬如說如果是加班1個小時，依照目前規定，老闆應給付4小時加班費
+</span><span class="f6">:   但修法後變成只能領1個小時的加班費
+</span><span class="f6">: 2.目前規定勞工一個月加班上限為46個小時
+</span><span class="f6">:   民進黨提案修正為54個小時
+</span><span class="f6">: 【提案修法減少加班費、增加勞工加班時數－立委名單】
+</span><span class="f6">: 【提案人】：何欣純（民進黨藉，臺中市第七選區）、
+</span><span class="f6">:             許智傑（民進黨籍， 高雄市第八選區）、
+</span><span class="f6">:             邱議瑩（民進黨藉，高雄市第一選區）、
+</span><span class="f6">:             陳賴素美（民進黨籍，桃園市第二選區）、
+</span><span class="f6">:             江永昌（民進黨籍，新北市第八選區）、
+</span><span class="f6">:             張廖萬堅（民進黨籍，臺中市第四選區）、
+</span><span class="f6">:             陳素月（民進黨籍，彰化縣第四選區）、
+</span><span class="f6">:             莊瑞雄（民進黨籍，屏東縣第三選區）、
+</span><span class="f6">:             黃國書（民進黨籍，臺中市第六選區）、
+</span><span class="f6">:             黃秀芳（民進黨籍，彰化縣第二選區）
+</span><span class="f6">: 【連署人】：邱志偉（民進黨籍，高雄市第二選區）、
+</span><span class="f6">:             林俊憲（民進黨籍，臺南市第四選區）、
+</span><span class="f6">:             鄭運鵬（民進黨籍，桃園市第一選區）、
+</span><span class="f6">:             劉世芳（民進黨籍，高雄市第三選區）、
+</span><span class="f6">:             劉櫂豪（民進黨籍，臺東縣選區）、
+</span><span class="f6">:             吳焜裕（民進黨籍，全國不分區第一名）、
+</span><span class="f6">:             鄭寶清（民進黨籍，桃園市第四選區）、
+</span><span class="f6">:             趙正宇（無黨籍，桃園市第六選區）、
+</span><span class="f6">:             羅致政（民進黨籍，新北市第七選區）、
+</span><span class="f6">:             洪宗熠（民進黨籍，彰化縣第三選區）、
+</span><span class="f6">:             陳明文（民進黨籍，嘉義縣第二選區）
+</span><span class="f6">: <a href="http://imgur.com/a/Dr1qO" target="_blank" rel="nofollow">http://imgur.com/a/Dr1qO</a>
+</span><span class="f6">: 請大家用推的
+</span><span class="f6">: 讓這篇爆!
+</span>
+
+其實我覺得第二點問題在勞檢 不在法律  會給加班費的話 根本不是問題
+
+或許真的有人想賺加班費 規定可以多加一點 也未嘗不可
+
+當然也可能把你薪水砍了再給你加班費 總薪不變 時數增加
+
+但這應該是少數吧 而且這種表示這種還願意假掰守法一下
+
+
+其實第一點假議題 真正問題是.......
+
+根本不給你報XD 上限幾小時沒差都責任制
+
+所以立委大人給你加沒關係啦 你法律上要怎麼強姦勞工我們都認了
+
+你只要答應我一件事情就好 就做要求企業&#34;守法&#34;
+
+但我估計你不敢啦
+
+因為&#34;守法&#34;有害公司經營 &#34;守法&#34; 不利經濟發展 &#34;守法&#34;需考量台灣國情與外國不同
+
+都幫你想好了啦 幹
+
+
+
+
+但第一點比較有問題
+
+很多工作 請問不用通勤哦 來回可能一個超過一小時
+
+加上本來時間可以完整利用 為了跑你公司一個小時 我整個完整休息時間都沒了
+
+工作一小時算四小時的錢 我覺得很合理
+
+因為你本來就不該為了一小時叫員工上班呀
+
+那麼急還不是為了賺錢 幹少賺一點會死哦
+
+別人難得休假要休息或出去玩 還給你卡一個小時 這叫周休二日哦
+
+周末加班本來就是 精神力耗損+通勤時間 這些才是重點
+
+你以為上一小時班只有付出一小時精力嗎?
+
+真正的精力是通勤
+
+還有 &#34;你他媽的假日我還要卡一件事情沒做完壓力還沒解除不能好好放鬆&#34;的精神疲憊
+
+還真有人以為一小時工作就該算一小時才算合理
+
+
+民進黨最假掰的就是形式法律治國 不看社會實際現象
+
+一小時就要算一小時 算四小時太多 聽起來很公平呀
+
+政府不要公雞變飼主 勞資自行磋商才能滿足彼此需求 聽起來很公平呀
+
+砍七天假換假日少加班 總工時不變 聽起來很公平呀
+
+但實際運行結果勒
+
+不用我多講吧
+
+形式上的假掰公平 實質上的嚴重不公平
+
+就是DPP最會搞得 給你套看似合理的說詞
+
+現實操作的結果早就財團笑呵呵
+
+最後變成 對公眾 就有頭頭是道的一套 說很合理呀
+
+私下又對金主有交代
+
+不愧DPP 婊子還要立貞節坊 面子裡子都要
+
+不過我猜最後繼續淚投DPP啦 反正K更爛 為了滅K一定含淚投D
+
+所以結論就是
+
+賤民滾啦 乖乖上班 不要想些有的沒的
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.250.218.250
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495474197.A.F48.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495474197.A.F48.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flashgodie</span><span class="f3 push-content">: 勞檢都還沒落實 就急著修法替資方解套 唉</span><span class="push-ipdatetime"> 05/23 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 你的第二段 南投縣長都親自示範過了XD</span><span class="push-ipdatetime"> 05/23 01:32
+</span></div><span class="f2">※ 編輯: valender (111.250.218.250), 05/23/2017 01:34:09
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gn00295120</span><span class="f3 push-content">: 南科一堆多上一天班，薪水一部分變加班費的喔</span><span class="push-ipdatetime"> 05/23 01:33
+</span></div>我知道啦 我不是說這種現象不存在 我要講得重點只是黑工時&gt;&gt;&gt;制度改變的問題
+當然制度要捍衛啦
+<span class="f2">※ 編輯: valender (111.250.218.250), 05/23/2017 01:35:56
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ggttoo</span><span class="f3 push-content">: 唉...走了一個放火的來了一個搶劫的= =</span><span class="push-ipdatetime"> 05/23 01:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 什縻東西 小說迷講什麼只想2</span><span class="push-ipdatetime"> 05/23 01:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 你也可以忽視現實 不用唸書都pass啊</span><span class="push-ipdatetime"> 05/23 01:41
+</span></div>哩底工三小
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abcdegf34</span><span class="f3 push-content">: 覺得勞權意識也很重要</span><span class="push-ipdatetime"> 05/23 01:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccvs</span><span class="f3 push-content">: 推 很少聽到沒付加班費 就是因為都沒勞檢啊 幹</span><span class="push-ipdatetime"> 05/23 01:45
+</span></div><span class="f2">※ 編輯: valender (111.250.218.250), 05/23/2017 01:45:41
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">facefear</span><span class="f3 push-content">: 沒勞檢+1</span><span class="push-ipdatetime"> 05/23 01:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 勞檢員為了業績 專挑軟的微型企業 小企業吃啊哪有空</span><span class="push-ipdatetime"> 05/23 01:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 按個2需要共三小</span><span class="push-ipdatetime"> 05/23 01:47
+</span></div>那根不用讀書就pass有啥關係 誰看得懂 說工三小剛好呀
+<span class="f2">※ 編輯: valender (111.250.218.250), 05/23/2017 01:50:40
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 哦</span><span class="push-ipdatetime"> 05/23 01:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 我這邊就講 玉山銀上星期登峰叫人被自願進去 誰敢說不</span><span class="push-ipdatetime"> 05/23 01:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 勞檢啊 然後咧 人家法務發張紙叫你簽名說自願的</span><span class="push-ipdatetime"> 05/23 01:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 接下來到六月底還有兩週 都是員工自願 出來都哭了自願屁</span><span class="push-ipdatetime"> 05/23 01:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 光這些特許事業在那作威作福就飽了</span><span class="push-ipdatetime"> 05/23 01:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 北韓金胖子支持度99.xx% 這是常識可以理解的事？</span><span class="push-ipdatetime"> 05/23 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 什麼是現實 這就是社會現實 特許的在爽 獨占的5鎂</span><span class="push-ipdatetime"> 05/23 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 啊看半天不回哦？陳星你看小說批起來不是虎虎生風？</span><span class="push-ipdatetime"> 05/23 02:04
+</span></div>沙小 所以你講的跟我衝突在哪 你要講的不就是 現實就是無法勞檢嗎
+所以就吞下去?
+你可不可講具體點呀
+然後要講小說哦 我是覺得法盲要有自知啦
+精神科紀錄 不管啦小說辦案
+家屬轉述生前證言 不管啦小說辦案
+朋友轉述生前證言 不管啦小說辦案
+日記採訪 不管啦小說辦案
+遺言 遺書 不管啦小說辦案
+大概這素質
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">windlande</span><span class="f3 push-content">: 看到在那邊算通勤就笑了，哪個行業不用通勤？</span><span class="push-ipdatetime"> 05/23 02:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windlande</span><span class="f3 push-content">: 你以為除了你大家都住上班地點嗎？</span><span class="push-ipdatetime"> 05/23 02:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windlande</span><span class="f3 push-content">: 通勤也要算上班時間　做少少領飽飽阿</span><span class="push-ipdatetime"> 05/23 02:13
+</span></div>數學有問題 請問你八小時通勤一個半小時
+跟一個小時通勤一個半小時
+可以等價來看?笑了
+<span class="f2">※ 編輯: valender (111.250.218.250), 05/23/2017 02:19:22
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">windlande</span><span class="f3 push-content">: 你自己要通勤這麼遠怪我囉？我祝玉山通勤要一天</span><span class="push-ipdatetime"> 05/23 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windlande</span><span class="f3 push-content">: 要不要叫顧主讓我算往返交通周休四日阿？過太爽</span><span class="push-ipdatetime"> 05/23 02:31
+</span></div>真棒 所以住不起北市通勤的活該 誰叫你住不起北市
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/23 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6525480</span><span class="f3 push-content">: 哈哈他字哈哈</span><span class="push-ipdatetime"> 05/23 02:32
+</span></div>(呵欠
+我上述說的都是有證據能力的 六七樣有 一項沒有
+一直跳針那一樣不不就無法客觀看事情的酸民
+像我就承認小說可能沒有證據能力 但是有人卻只會跳針小說辦案 不看其他 不就酸民素質
+
+<span class="f2">※ 編輯: valender (111.250.218.250), 05/23/2017 03:04:51
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">basicnet</span><span class="f3 push-content">: 何欣純的母親曾是國民黨籍市議員</span><span class="push-ipdatetime"> 05/23 07:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">basicnet</span><span class="f3 push-content">: 基本上台灣政治的根 被污染太嚴重了</span><span class="push-ipdatetime"> 05/23 07:55
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495474197.A.F48.html?cacheKey=2052-37600127&offset=7425&offset-sig=5e098bf208528759231bcee338d5f03bc3776c9d" data-longpollurl="/v1/longpoll?id=6560ec8b89c1676ff961a57a7c75104c96849590" data-offset="7425"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

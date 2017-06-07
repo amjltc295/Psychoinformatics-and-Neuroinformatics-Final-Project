@@ -1,0 +1,197 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495035196.A.34A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [爆卦] 核二廠燃料隔架！ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="你說缺電就缺電？
+拜託喔
+台電每年都在說缺電，結果還不是每年都不缺電
+說缺電不就是要騙
+騙什麼？騙那些無知民眾，要脅民眾說沒核電就缺電
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [爆卦] 核二廠燃料隔架！">
+<meta property="og:description" content="你說缺電就缺電？
+拜託喔
+台電每年都在說缺電，結果還不是每年都不缺電
+說缺電不就是要騙
+騙什麼？騙那些無知民眾，要脅民眾說沒核電就缺電
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495035196.A.34A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495035196.A.34A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hoshi1992 (YAYAUUU)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [爆卦] 核二廠燃料隔架！</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 23:33:14 2017</span></div>
+<span class="f2">※《Meerz (猴吃蕉，剛好。)》的觀察啦：</span>
+<span class="f6">: 　</span>
+<span class="f6">: 　</span>
+<span class="f6">: 爆個卦</span>
+<span class="f6">: 隔架已經在檢測階段了</span>
+<span class="f6">: 看來改裝工程非常順利</span>
+<span class="f6">: 　</span>
+<span class="f6">: 恭喜核二廠重啟之路...</span>
+<span class="f6">: 還很遙遠，可能趕不及520發電</span>
+<span class="f6">: 本來說520啦，要給總統一點面子</span>
+<span class="f6">: 備轉不會太難看</span>
+<span class="f6">: 不過被飯盒和立委一鬧，現在要等立法院XD</span>
+<span class="f6">: 看立法院給不給總統面子囉XD</span>
+<span class="f6">: 哈哈，看x咬x真爽。咬完再來叫台電。</span>
+<span class="f6">: 　</span>
+<span class="f6">: 　</span>
+<span class="f6">: 只能說這個夏天</span>
+<span class="f6">: 大家要相信台電缺電</span>
+<span class="f6">: 不要相信政府說不會缺電</span>
+<span class="f6">: 　</span>
+<span class="f6">: 這個夏天缺電。非。常。嚴。重</span>
+<span class="f6">: 　</span>
+<span class="f6">: 嚴重到董仔已經準備好要回去教學生做電鍋了</span>
+<span class="f6">: 　</span>
+<span class="f6">: 台x電新廠大概也已經準備好逃離台灣了</span>
+<span class="f6">: 恭喜！祝福！</span>
+<span class="f6">: 　</span>
+<span class="f6">: 這夏天請飯盒出來用愛發電</span>
+<span class="f6">: 阿，不，這個過時了，不潮了</span>
+<span class="f6">: 現在用[想像力發電]比較潮</span>
+<span class="f6">: 　</span>
+<span class="f6">: 飯盒真的很多豬隊友</span>
+<span class="f6">: 豬隊友就算了，還拼命雷隊友</span>
+<span class="f6">: 這種的怎麼還有人要跟他們組隊</span>
+<span class="f6">: 原來這叫同類相聚XD</span>
+<span class="f6">: 　</span>
+
+你說缺電就缺電？
+
+拜託喔
+
+台電每年都在說缺電，結果還不是每年都不缺電
+
+說缺電不就是要騙
+
+騙什麼？騙那些無知民眾，要脅民眾說沒核電就缺電
+
+然後擁核還拿假消息出來喜孜孜的以為抓到把柄
+
+拿謊言當寶的，我看只有擁核方了
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.216.242.212</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1495035196.A.34A.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1495035196.A.34A.html</span></a>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 是說你知道現在是蔡英文當政嗎？</span><span class="push-ipdatetime">05/17 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 所以你說蔡政府在放假消息？</span><span class="push-ipdatetime">05/17 23:33
+</span></div>台電肥貓阿
+遲早要拔掉的既得利益者
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 這麼辛苦 11點30了還要上班回文喔 這政府真血汗</span><span class="push-ipdatetime">05/17 23:34
+</span></div><span class="f2">※ 編輯: hoshi1992 (49.216.242.212), 05/17/2017 23:35:35</span>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 我等著看限電就好了XD</span><span class="push-ipdatetime">05/17 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 哈哈，肥貓XD在哪啊？有就快點抓一抓</span><span class="push-ipdatetime">05/17 23:36
+</span></div>你上班還發廢文
+也是肥貓之一。
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ed78617</span><span class="f3 push-content">: 你知道火力電廠延役的事嗎</span><span class="push-ipdatetime">05/17 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenbo</span><span class="f3 push-content">: 有沒有限電就知道了</span><span class="push-ipdatetime">05/17 23:36
+</span></div><span class="f2">※ 編輯: hoshi1992 (49.216.242.212), 05/17/2017 23:38:18</span>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 台電肥貓，台電董座朱文成是林全任命</span><span class="push-ipdatetime">05/17 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 所以你hoshi1992指名道姓說朱文成是肥貓嗎？</span><span class="push-ipdatetime">05/17 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 鍵盤員工你敢嘴？</span><span class="push-ipdatetime"> 05/17 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChangWufei</span><span class="f3 push-content">: 都搞需量競價了 代表實際上就缺阿</span><span class="push-ipdatetime">05/17 23:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 肥貓藏電論又來了 來點有證據的論點好嗎?</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div>全台灣都知道的事實就擁核不知道，我也沒辦法
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sevenw</span><span class="f3 push-content">: ㄎㄎˉ</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><span class="f2">※ 編輯: hoshi1992 (49.216.242.212), 05/17/2017 23:44:20
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">q14721472</span><span class="f3 push-content">: 不缺電很好啊 那趕快停核電</span><span class="push-ipdatetime"> 05/17 23:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Angelstudent</span><span class="f3 push-content">: 沒證據藏電論講到爛了，飯盒可以來點新的嗎？</span><span class="push-ipdatetime"> 05/17 23:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 台電肥貓還是林全任命,要不要把林全算下去當肥貓</span><span class="push-ipdatetime"> 05/18 00:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wind18</span><span class="f3 push-content">: 奇怪，這個董座不是因為電業法而小英政府指派的嗎? 好肥阿</span><span class="push-ipdatetime"> 05/18 00:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">revorea</span><span class="f3 push-content">: 全台灣都知道喊著肥貓卻沒有證據</span><span class="push-ipdatetime"> 05/18 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fredjedi</span><span class="f3 push-content">: 不見棺材不掉淚</span><span class="push-ipdatetime"> 05/18 07:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">renu186667</span><span class="f3 push-content">: 朱董身材是蠻...嗯XD</span><span class="push-ipdatetime"> 05/18 16:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">renu186667</span><span class="f3 push-content">: 另外雇員不難考啊，高中程度而已，快去報名啊考上也</span><span class="push-ipdatetime"> 05/18 16:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">renu186667</span><span class="f3 push-content">: 能加入既得利益者的行列唷~揪咪</span><span class="push-ipdatetime"> 05/18 16:37
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495035196.A.34A.html?cacheKey=2052-36451033&offset=4427&offset-sig=673f2baeac92e72d346ea357b8ccf3af57b9d267" data-longpollurl="/v1/longpoll?id=cfce8fa3982199a2051c8bc96054a452b0ad5c45" data-offset="4427"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

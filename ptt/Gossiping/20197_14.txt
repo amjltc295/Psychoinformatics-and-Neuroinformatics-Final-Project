@@ -1,0 +1,207 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495038584.A.2E0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 一例一休的低薪悲歌 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:聯合報
+2.完整新聞標題:一例一休的低薪悲歌
+3.完整新聞內文:
+林俊梧／南投縣政府社會及勞動處長（南投市）
+日昨以勞工主管身分，往彰化某大醫院探望車禍住院年輕媽媽勞工，她因騎車趕兼差工作
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 一例一休的低薪悲歌">
+<meta property="og:description" content="1.媒體來源:聯合報
+2.完整新聞標題:一例一休的低薪悲歌
+3.完整新聞內文:
+林俊梧／南投縣政府社會及勞動處長（南投市）
+日昨以勞工主管身分，往彰化某大醫院探望車禍住院年輕媽媽勞工，她因騎車趕兼差工作
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495038584.A.2E0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495038584.A.2E0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">stuck (  )</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 一例一休的低薪悲歌</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 00:29:41 2017</span></div>
+1.媒體來源:聯合報
+
+2.完整新聞標題:一例一休的低薪悲歌
+
+3.完整新聞內文:
+林俊梧／南投縣政府社會及勞動處長（南投市）
+日昨以勞工主管身分，往彰化某大醫院探望車禍住院年輕媽媽勞工，她因騎車趕兼差工作
+途中車禍重傷轉院急救。她告訴我，在旅宿業上八點至下午四點班，下班後騎廿分趕至另
+家餐廳上五至九點班，途中與一轎車擦撞多處受創，只好在醫院中度過蒼白傷痛母親節。
+
+問她為何要這樣趕路兼差，她告訴我月生活費要三萬二，而月薪約二萬六，以前靠加班可
+多領五六千。現因一例一休勞基法修訂後，公司怕超時受罰不讓多加班，加班收入頓少了
+約三千，不得不另兼第二份工作。經了解，下班後跑夜班、一例一休的「休息日」跑鐘點
+班，這狀況在餐飲旅宿及部分製造業為數不少。
+
+一例一休之修訂後，據某人力銀行調查，有百分之六十五點五的企業雇主表示，人力成本
+增高故近期無加薪規畫，可預見台灣超過三百萬月薪三萬以下之低薪勞工，年內加薪無望
+。政府修法以強制手段讓勞工減工時多休假之時，可否想到低薪勞工卻必須以時間換取金
+錢。現一方面政府不准企業超時加班、一方面雇主又不滿新修法令不打算加薪，低薪勞工
+受雙面夾擊毫無選擇，只能在法令夾縫中拚生活。
+
+離開醫院前，她滿臉無助地說：我體力沒問題，能不能讓我在公司多加班，我語塞不知如
+何回答，只能祝福她母親節快樂，尷尬苦笑離開。回程一路心情低落，心想一個讓人民十
+四年來薪資停滯，甚至倒退的政府，憑什麼訂出此不適之法，替廣大低薪勞工抉擇，而我
+—就在政府中。
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/7339/2462777" target="_blank" rel="nofollow">https://udn.com/news/story/7339/2462777</a>
+
+5.備註:
+月薪26000元
+要賺到6000元的加班費
+該怎麼處理？
+月薪26000元除每月30天=867元/日薪
+867元除每天8小時=108元/時薪
+以現行加班費規定，就算都用前2小時（加給1又1/3）來算
+每小時加班費為144元/時
+要加班幾小時能賺6000元加班費呢？
+6000除144=41.6
+所以加班41.6小時，至少就能賺6000元加班費
+現在勞基法一個月加班上限46小時
+表示還能再加4.4小時才到上限
+跟本沒有超時受罰的問題阿！
+而且哦，「一例一休勞基法修訂」也沒修加班時數上限
+一個月加班上限46小時都數十年前到現在了
+為什麼加班收入頓少了約三千？？
+是不是老闆都沒照規定給加班費？
+
+滿臉無助地說：我體力沒問題，能不能讓我在公司多加班？？
+如果我是那個媽媽，我應該會說：我體力沒問題，我都有加班，能不能讓我領到該有的加班費，才不用騎車趕兼差還車禍。
+
+有沒有月薪26000元，賺加班費6000元，如何超時的掛？
+對了，加班時數上限（勞基法第32條）跟這次一例一休（勞基法第36條）好像沒關係
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.82.7.204
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495038584.A.2E0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495038584.A.2E0.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 低薪怪加班費太少，這邏輯我跟不上</span><span class="push-ipdatetime"> 05/18 00:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmk</span><span class="f3 push-content">: 再講下就會被人叫去領500</span><span class="push-ipdatetime"> 05/18 00:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hayate232</span><span class="f3 push-content">: 薪水高低一回事 工時高又是一回事</span><span class="push-ipdatetime"> 05/18 00:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 有嗎？ 很多人說賺爽爽啊</span><span class="push-ipdatetime"> 05/18 00:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">conanan</span><span class="f3 push-content">: 我身邊也有像這樣的案例 哀 套小英的話 去跟你們老闆說</span><span class="push-ipdatetime"> 05/18 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hunlantin</span><span class="f3 push-content">: 簡單一個重點:資方貪得無厭給低新害人活不下去就這樣!</span><span class="push-ipdatetime"> 05/18 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolod546</span><span class="f3 push-content">: 公司怕超時受罰??不是當事人被騙 就是重工正常發揮</span><span class="push-ipdatetime"> 05/18 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hayate232</span><span class="f3 push-content">: 台灣勞工  每日工時 10小時起跳 有段時間還是全球第一</span><span class="push-ipdatetime"> 05/18 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">conanan</span><span class="f3 push-content">: 但老闆為省成本 不給加班 = =</span><span class="push-ipdatetime"> 05/18 00:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 有誰10小時起跳的？ 我看5點下班明明一堆人</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yongguo</span><span class="f3 push-content">: 政府該做的是，把勞檢員擴編。然後一個個查，以及通暢申</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yongguo</span><span class="f3 push-content">: 訴管道及落實案件辦理確實</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">great007</span><span class="f3 push-content">: 民進黨的金主中小企業老闆(違章工廠)不想讓員工週休2日</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">great007</span><span class="f3 push-content">: 蔡英文和民進黨已經讓違章工廠就地合法化 !</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">great007</span><span class="f3 push-content">: 蔡英文和民進黨收了多少違章工廠的政治獻金 ?</span><span class="push-ipdatetime"> 05/18 00:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">great007</span><span class="f3 push-content">: 林佳龍要包庇太平區仁和街違章電鍍工廠到何時 ?</span><span class="push-ipdatetime"> 05/18 00:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kolod546</span><span class="f3 push-content">: 一下子說台灣過勞 一下子又說不給加班 到底是哪樣阿?</span><span class="push-ipdatetime"> 05/18 00:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 台灣過勞沒錯,不給加班就是慣老闆省成本,不然就外勞</span><span class="push-ipdatetime"> 05/18 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">King510</span><span class="f3 push-content">: 其實一例一休對勞工還不錯啊，是好政策!休息日加班費變多</span><span class="push-ipdatetime"> 05/18 00:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">King510</span><span class="f3 push-content">: 以前太多雇主不守法，現在一例一休修法後，更多人正視勞</span><span class="push-ipdatetime"> 05/18 00:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">King510</span><span class="f3 push-content">: 基法!但要雇主完全遵守勞基法好像要他們的命一樣!</span><span class="push-ipdatetime"> 05/18 00:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 8.7蠢吱 快護駕 對了最近景氣很差 我認為跟這個無關 台灣</span><span class="push-ipdatetime"> 05/18 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 人忍一忍 雖然會苦到難以想像 在三年兩黨就可以走入歷史</span><span class="push-ipdatetime"> 05/18 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 了</span><span class="push-ipdatetime"> 05/18 00:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TIC05</span><span class="f3 push-content">: 爛霉體又再帶風向</span><span class="push-ipdatetime"> 05/18 00:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TIC05</span><span class="f3 push-content">: 幫你推回來</span><span class="push-ipdatetime"> 05/18 00:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TIC05</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/18 01:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 台灣缺電，所以企業不投資，工作少，求職者多，所以薪水</span><span class="push-ipdatetime"> 05/18 01:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 低!你不做，慣老闆可以請別人</span><span class="push-ipdatetime"> 05/18 01:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 要是台灣備轉容量率學德國，企業就會來投資，台灣條件好</span><span class="push-ipdatetime"> 05/18 01:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: ，人力便宜，只要工作一多，低薪是請不到人的</span><span class="push-ipdatetime"> 05/18 01:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 狗屁不通，底薪夠的話誰想加班</span><span class="push-ipdatetime"> 05/18 01:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deegs10221</span><span class="f3 push-content">: 一例一休出發點是好的，但是實際執行卻是狂幫資方開後</span><span class="push-ipdatetime"> 05/18 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deegs10221</span><span class="f3 push-content">: 門，搞的勞工薪水變少工時還不見得變少，甚至賠上七天</span><span class="push-ipdatetime"> 05/18 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deegs10221</span><span class="f3 push-content">: 假</span><span class="push-ipdatetime"> 05/18 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trashpoking</span><span class="f3 push-content">: 推樓上.</span><span class="push-ipdatetime"> 05/18 08:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495038584.A.2E0.html?cacheKey=2052-36464592&offset=6020&offset-sig=4b820e7a29053b684d735f507ac96ba370ea4b06" data-longpollurl="/v1/longpoll?id=bf6327718609208a625a4e39d903a26d6c572634" data-offset="6020"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,191 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495178726.A.0D0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 凱達格蘭餐會破200桌　扁擬直播向支持者 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+蘋果日報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 凱達格蘭餐會破200桌　扁擬直播向支持者">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+蘋果日報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495178726.A.0D0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495178726.A.0D0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">yahe0526 (有一種預感 發廢文好難)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 凱達格蘭餐會破200桌　扁擬直播向支持者</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 15:25:22 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+蘋果日報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+凱達格蘭餐會破200桌　扁擬直播向支持者道謝
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+前總統陳水扁創辦的凱達格蘭基金會，今晚間將舉辦12周年感恩募款餐會。《蘋果》率先
+直擊餐會現場佈置，六樓主舞台區架有陳水扁圖像的背景，上面寫著「<span class="b2 hl">相信台灣、歡喜承
+</span><span class="b2 hl">擔</span>」的標題，主桌餐巾紅色，其餘為橘色，而這次募款餐會的桌次已<span class="f6 hl">破200桌</span>。綠委蔡易
+餘說，陳水扁晚上可能會用直播的方式，來跟大家感謝。
+
+餐會無台背景右方有7行文字，印著「因為有眾人的情義扶持，回家的最後一哩在各雪消
+融後春花開綻；因為有您們的剖腹相挺，平反的月在鐵柵欄重鎮下才有可能勇敢空雲撥霧
+；無情政治有情天，相信台灣人的尊嚴公義；歡喜承擔、逼陣守護，咱的愛、咱的夢、咱
+的母親台灣」。
+
+這次募款餐會還是在大直典華飯店舉行，活動將由民進黨立委陳亭妃、政論節目主持人彭
+文正主持。前副總統呂秀蓮去年並未出席參加，但今年將出席相挺並上台致詞，而陳水扁
+預計停留約1小時。（政治中心／台北報導）
+
+<a href="http://imgur.com/4LtwX5N.jpg" target="_blank" rel="nofollow">http://imgur.com/4LtwX5N.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="4LtwX5N"><a href="//imgur.com/4LtwX5N"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>凱達格蘭基金會募款餐會現場佈置。田裕華攝
+
+<a href="http://imgur.com/sMslJr1.jpg" target="_blank" rel="nofollow">http://imgur.com/sMslJr1.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="sMslJr1"><a href="//imgur.com/sMslJr1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>凱達格蘭基金會募款餐會現場佈置。田裕華攝
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="https://goo.gl/cVHOQj" target="_blank" rel="nofollow">https://goo.gl/cVHOQj</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+
+
+         每一個<span class="f3 hl">支那人</span>都有一顆<span class="b6 hl">玻璃心</span>
+
+         差別在於會不會很常<span class="b1 hl">碎掉</span>而已
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 140.112.44.51
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495178726.A.0D0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495178726.A.0D0.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jennykam</span><span class="f3 push-content">: 趕快抓回去阿</span><span class="push-ipdatetime"> 05/19 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">highyes</span><span class="f3 push-content">: 建國基金呢？  你全家吃香喝辣   貪污硬扯建國？</span><span class="push-ipdatetime"> 05/19 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">k44754</span><span class="f3 push-content">: 年度綠吱取暖大會</span><span class="push-ipdatetime"> 05/19 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 都是柯建民去喬</span><span class="push-ipdatetime"> 05/19 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rriver</span><span class="f3 push-content">: 阿扁抓去關</span><span class="push-ipdatetime"> 05/19 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwer0916</span><span class="f3 push-content">: 可以讓阿扁這樣糟蹋法律，是因為有少數的台灣人無恥相挺</span><span class="push-ipdatetime"> 05/19 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 本來扁要上台講話，柯去高雄硬喬變成只可以直播</span><span class="push-ipdatetime"> 05/19 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwer0916</span><span class="f3 push-content">: 在歷史上記錄的不是阿扁，而是有少數台灣人道德如此低落</span><span class="push-ipdatetime"> 05/19 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">danorken</span><span class="f3 push-content">: 阿扁萬歲</span><span class="push-ipdatetime"> 05/19 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bluesky2</span><span class="f3 push-content">: 好棒喔 貪汙重刑犯 可以到處帕帕造 還可以玩直播喔</span><span class="push-ipdatetime"> 05/19 15:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 全台灣只有二個可以叫柯賤民去扁家，不是法務部長就是蔡</span><span class="push-ipdatetime"> 05/19 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 英文</span><span class="push-ipdatetime"> 05/19 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bruce1119</span><span class="f3 push-content">: 爛</span><span class="push-ipdatetime"> 05/19 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 轉職網紅  youtuber</span><span class="push-ipdatetime"> 05/19 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 害怕扁搶小英520政績風頭</span><span class="push-ipdatetime"> 05/19 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">clock0220</span><span class="f3 push-content">: 操你媽的垃圾 爛人</span><span class="push-ipdatetime"> 05/19 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">clock0220</span><span class="f3 push-content">: 殺人免死 貪污免關 幹你娘垃圾</span><span class="push-ipdatetime"> 05/19 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CenaC</span><span class="f3 push-content">: 台獨份子對貪污總統還真友善  看來拿到他的錢的可真不少</span><span class="push-ipdatetime"> 05/19 15:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dostey</span><span class="f3 push-content">: 阿扁QQ 被換法官 用實質影響力判刑 亂搞亂搞亂亂亂搞 QQQQ</span><span class="push-ipdatetime"> 05/19 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aitela</span><span class="f3 push-content">: 換法官的垃圾法院</span><span class="push-ipdatetime"> 05/19 15:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SilentBob</span><span class="f3 push-content">: 白癡 怎麼還活著</span><span class="push-ipdatetime"> 05/19 15:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hunterh01</span><span class="f3 push-content">: 要不要開斗內好好的再噱一筆啊？</span><span class="push-ipdatetime"> 05/19 15:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 扁已經沒影響力了 但低能兒的民調這麼低 就又難說了 唉...</span><span class="push-ipdatetime"> 05/19 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 總比上台好一點啦 不過小英還是別拖啦</span><span class="push-ipdatetime"> 05/19 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ben811018</span><span class="f3 push-content">: 有考慮IG嗎</span><span class="push-ipdatetime"> 05/19 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 扁辦還滿厲害的，用個人頭就可以騙到錢</span><span class="push-ipdatetime"> 05/19 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guanaco</span><span class="f3 push-content">: 猛，不愧台灣之子！</span><span class="push-ipdatetime"> 05/19 16:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Myfun</span><span class="f3 push-content">: 阿扁，加油！</span><span class="push-ipdatetime"> 05/19 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">clotilde</span><span class="f3 push-content">: 貪污費參加募款餐會 真是諷刺</span><span class="push-ipdatetime"> 05/19 16:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">querencia</span><span class="f3 push-content">: 阿扁加油！</span><span class="push-ipdatetime"> 05/19 19:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Joey818</span><span class="f3 push-content">:  閩南人真的很棒</span><span class="push-ipdatetime"> 05/19 21:08
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495178726.A.0D0.html?cacheKey=2052-35473275&offset=4902&offset-sig=a847b8642a3eec321a5f887501155831fc7238d3" data-longpollurl="/v1/longpoll?id=46486fa42796049acde4c7a3dbdb005518e1c9cf" data-offset="4902"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

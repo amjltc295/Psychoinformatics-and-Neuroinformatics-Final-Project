@@ -1,0 +1,161 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495619545.A.892.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 驚呆了 擊敗柯潔的AlphaGo是單機版 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="平心而論, 計算能力就像人有昏庸聰敏之別, 不能以此認為不公
+這場對奕最嚴重的不公平之處是有傀儡代替阿法狗落子
+真正平等的古法對奕, 應該要自己落子, 落子也是圍棋很重要的一環
+允許阿法狗結合機械手臂, 環境辨識將棋子方在棋盤上
+你說下太慢、下錯地方、不小心移動到別人的棋子怎麼辦?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 驚呆了 擊敗柯潔的AlphaGo是單機版">
+<meta property="og:description" content="平心而論, 計算能力就像人有昏庸聰敏之別, 不能以此認為不公
+這場對奕最嚴重的不公平之處是有傀儡代替阿法狗落子
+真正平等的古法對奕, 應該要自己落子, 落子也是圍棋很重要的一環
+允許阿法狗結合機械手臂, 環境辨識將棋子方在棋盤上
+你說下太慢、下錯地方、不小心移動到別人的棋子怎麼辦?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495619545.A.892.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495619545.A.892.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PUTOUCHANG (自己的廢文自己發)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 驚呆了 擊敗柯潔的AlphaGo是單機版</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 17:52:23 2017</span></div>
+<span class="f2">※ 引述《Vett (Vett)》之銘言：
+</span><span class="f6">: ※ 引述《id520 (選對比努力重要千萬倍)》之銘言：
+</span><span class="f6">: :   這麼說吧 阿發狗現在肯定仍有單機版跟分散式版本兩種
+</span><span class="f6">: :   今天為何只派出單機版對戰中國圍棋第一高手柯潔
+</span><span class="f6">: :   不得而知 比較可能是機密安全問題
+</span><span class="f6">: 機你個投　　密你個頭
+</span><span class="f6">: 所謂的單機  還是在 Google Cloud 上  一樣走網路的
+</span><span class="f6">: 只是這裡的機器不是常見的 x86 混血
+</span><span class="f6">: 而是為了ML開發的Cloud TPU
+</span><span class="f6">:  一片提供的計算能力是 180 teraflops
+</span><span class="f6">: 屌壓 x86 混血分散式處理
+</span><span class="f6">: 單就ML計算能力強到你不要不要的好嗎
+</span>
+平心而論, 計算能力就像人有昏庸聰敏之別, 不能以此認為不公
+
+這場對奕最嚴重的不公平之處是有傀儡代替阿法狗落子
+
+真正平等的古法對奕, 應該要自己落子, 落子也是圍棋很重要的一環
+
+允許阿法狗結合機械手臂, 環境辨識將棋子方在棋盤上
+
+你說下太慢、下錯地方、不小心移動到別人的棋子怎麼辦?
+
+那是阿發狗自己要負責的事
+
+共勉之
+
+--
+Sent from JPTT on my Nokia 33l0.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.34.3.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495619545.A.892.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495619545.A.892.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eric999</span><span class="f3 push-content">: 這篇很搞笑。</span><span class="push-ipdatetime"> 05/24 17:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 連整地都不會...</span><span class="push-ipdatetime"> 05/24 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dklash</span><span class="f3 push-content">: 講真的 那個跟要下贏人類比 根本輕輕鬆鬆</span><span class="push-ipdatetime"> 05/24 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryrp</span><span class="f3 push-content">: 你以為弄個機械手臂是很難的事嗎</span><span class="push-ipdatetime"> 05/24 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eric999</span><span class="f3 push-content">: 機器手臂精確落子的技術力比阿發狗低階太多了，只是沒必</span><span class="push-ipdatetime"> 05/24 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pttenjk</span><span class="f3 push-content">: 說得也是 一堆台灣賤狗複製貼上是不行的</span><span class="push-ipdatetime"> 05/24 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eric999</span><span class="f3 push-content">: 要而已。</span><span class="push-ipdatetime"> 05/24 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kamichu</span><span class="f3 push-content">: 何不用vr</span><span class="push-ipdatetime"> 05/24 17:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 也不能接網路 柯潔對戰時又沒有打電話問棋路</span><span class="push-ipdatetime"> 05/24 17:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 還要規定不准插電 只能吃漢堡滷肉飯</span><span class="push-ipdatetime"> 05/24 17:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">getwild</span><span class="f3 push-content">: 連轉珠遊戲都有物理外掛，你說的太小兒科</span><span class="push-ipdatetime"> 05/24 18:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddak47</span><span class="f3 push-content">: 用吸盤不會嗎？</span><span class="push-ipdatetime"> 05/24 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">resudi</span><span class="f3 push-content">: 你乾脆說電腦要自己插插頭好了</span><span class="push-ipdatetime"> 05/24 18:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cccon1ine</span><span class="f3 push-content">: <a href="https://youtu.be/b5b9BIBuOd4" target="_blank" rel="nofollow">https://youtu.be/b5b9BIBuOd4</a></span><span class="push-ipdatetime"> 05/24 22:03
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/b5b9BIBuOd4" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bub</span><span class="f3 push-content">: 所以他化身成為MASTER在網路上教訓大家</span><span class="push-ipdatetime"> 05/25 01:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495619545.A.892.html?cacheKey=2052-957646&offset=2599&offset-sig=9d71f5b48a3e596b66a92ecb921cc9af8e09b73a" data-longpollurl="/v1/longpoll?id=9ebce704d4cce1644de79d6d6bd0fe18224f73e9" data-offset="2599"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

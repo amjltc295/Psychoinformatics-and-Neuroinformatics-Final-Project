@@ -1,0 +1,466 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496600549.A.825.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 馬克祖克柏對2017哈佛畢業生演講全文 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://www.storm.mg/lifestyle/273179
+馬克祖克柏對2017哈佛畢業生演講全文：創造出每個人都擁有使命感的世界
+美國波士頓時間5月25日的下午，哈佛大學舉辦了2017年的學生畢業典禮，由Facebook創
+辦人馬克‧祖克柏進行畢業典禮的演講。事實上，祖克柏也是哈佛的學生，但他為了專心
+發展事業，不到一個學期便輟學了。因為Facebook的成功而獲得巨大的名望與財富，這位
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 馬克祖克柏對2017哈佛畢業生演講全文">
+<meta property="og:description" content="http://www.storm.mg/lifestyle/273179
+馬克祖克柏對2017哈佛畢業生演講全文：創造出每個人都擁有使命感的世界
+美國波士頓時間5月25日的下午，哈佛大學舉辦了2017年的學生畢業典禮，由Facebook創
+辦人馬克‧祖克柏進行畢業典禮的演講。事實上，祖克柏也是哈佛的學生，但他為了專心
+發展事業，不到一個學期便輟學了。因為Facebook的成功而獲得巨大的名望與財富，這位
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496600549.A.825.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496600549.A.825.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Mastermind02 ((≧&lt;&gt;≦))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 馬克祖克柏對2017哈佛畢業生演講全文</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 02:22:16 2017</span></div>
+<a href="http://www.storm.mg/lifestyle/273179" target="_blank" rel="nofollow">http://www.storm.mg/lifestyle/273179</a>
+
+馬克祖克柏對2017哈佛畢業生演講全文：創造出每個人都擁有使命感的世界
+
+
+美國波士頓時間5月25日的下午，哈佛大學舉辦了2017年的學生畢業典禮，由Facebook創
+辦人馬克‧祖克柏進行畢業典禮的演講。事實上，祖克柏也是哈佛的學生，但他為了專心
+發展事業，不到一個學期便輟學了。因為Facebook的成功而獲得巨大的名望與財富，這位
+著名的哈佛肄業生終於在5月25日被授予了榮譽法學博士的學位。
+
+祖克柏的演講以「目標（使命）」為主題，提醒畢業生<span class="f3 hl">身為千禧一代，只是找到目標是不</span>
+<span class="f3 hl">夠的，這個世代最大的挑戰是要創造一個每個人都擁有使命感的世界。這是通向真正幸福</span>
+<span class="f3 hl">的關鍵，也是讓社會持續進步的唯一途徑。</span>
+
+<span class="f3 b6 hl">Facebook創辦人馬克·祖克柏2017哈佛畢業演講全文：（文末有影片）</span>
+
+Faust校長、校委員會、老師、校友、朋友、自豪的家長們、管理委員會的委員，以及全
+世界最偉大的大學的畢業生們。
+
+我非常榮幸今天能在這裡和你們在一起，因為你們完成了一件我永遠無法完成的事。如果
+我今天完成這個演講，這將會是我首次在哈佛完成一件事（註：美國大學中有為畢業典禮
+演講嘉賓頒贈榮譽學位的傳統慣例）。
+
+2017年的畢業同學們，恭喜！
+
+我是個不太靠譜的演講者。不只是因為我輟學，也因為嚴格來講我們算是同一個世代的人
+。我們都走在這個校園之中，中間只差了不到十年的時間。我們學習過同樣的知識，也一
+樣在 EC10的課堂上打瞌睡。我們可能透過不同的方式來到這裡，尤其那些來自Quad園區
+的同學，但今天我想和你們分享的是，我對我們這個世代，以及我們正在合力建設的這個
+世界的一些想法。
+但首先，過去的這幾天讓我想起了很多美好的回憶。
+
+有多少人記得當你收到通知你將進入哈佛就讀的電子郵件時，你正在做什麼？ 我正在玩
+《文明帝國》，我跑到樓下找我的爸爸，接著由於某種原因，他的反應是錄影紀錄我打開
+電子郵件的過程。那可能是一個令人難過的視頻。我發誓要進入哈佛仍然是我父母為我感
+到最驕傲的事情。
+你們在哈佛上的第一堂課怎麼樣呢？我上的是超棒的Harry Lewis老師教的計算機科學121
+。當時我要遲到了，於是抓了件T恤就套在身上，結果後來才發現我把它前後、裡外都穿
+反了，商標露在胸前。我不懂怎麼都沒人跟我說話，除了一個人，KX Jin，他沒有在意這
+件事。之後我們開始共同解決難題，現在，他負責Facebook很大的一塊業務。因此，
+2017 的畢業生們，這就是為什麼你們應該對別人更友善。
+
+但是我在哈佛最美好的回憶，是我遇見了 Priscilla（祖克柏的妻子）。當時我剛把惡作
+劇網站 Facemash上線，然後管理委員會表示要「見我」，所有人都認為我要被趕走了。
+我的父母來幫我打包行李，我的朋友們幫我辦了餞別派對。幸運的是，Priscilla也和她
+的朋友參加了派對。我們在Pfoho Belltower的化妝室排隊時遇見了；然後，這肯定是有
+史以來最浪漫的招數之一－我說：「我在三天之內就會被趕出學校，所以我們需要盡快開
+始約會。」
+
+事實上，你們每個人都可以用這招。
+
+我最終並沒有被學校趕出來－我自己想辦法留下了。Priscilla 開始和我約會。你們知道
+的，那部電影（指電影《社群網站》）讓Facemash對創造 Facebook好像很重要。事實並
+非如此。但要是沒有Facemash的話，我就不會跟Priscilla相遇，而她是我生命中最重要
+的人，所以你的確可以說Facemash是我人生中做出的最重要的一樣東西。
+
+我們都在這裡開始結交一生的摯友，甚至有的以後還成為了家人。這就是為什麼我對這裡
+如此感激的原因。謝謝你，哈佛！
+
+今天我想來談談「目標（使命）」。但我來不是要給你們一個制式化的畢業演說、告訴你
+們如何去發現你的目標。<span class="f3 hl">我們是千禧世代的人，我們會本能地去發現自己的目標。相反地</span>
+<span class="f3 hl">，我來這裡是要告訴你們，僅僅是發現目標還不夠。我們這代人面臨的挑戰是要創造一個</span>
+<span class="f3 hl">人人都能有使命感的世界。</span>
+
+我最喜歡的一個故事，是John F Kennedy造訪 NASA 時，看到了一個拿著掃帚的門警。於
+是他走過去問這個人他在做什麼。門警回答說：「總統先生，我正在協助把一個人送往月
+球呢。」
+
+<span class="f3 hl">使命感就是我們意識到，我們是某個比自己更偉大的事物的一部分，是我們被需要的、我</span>
+<span class="f3 hl">們必須更為之努力的事物。使命感能創造真正的快樂。</span>
+
+你們在特別重要的時期畢業了。當你的父母畢業的時候，目標有很大程度地來自於你的工
+作、你的教會、你的社群。但是今天，科技和自動化正在淘汰很多的工作，社群的人數也
+在下降。許多人感到沮喪與隔閡，努力想去填補空白。
+
+當我在各地旅行的時候，我曾和許多被羈押、藥物成癮的孩子們坐在一起，他們告訴我如
+果他們有事情可以做、能參加課後活動或者有地方可去，他們的人生就會變得完全不一樣
+。我也遇過很多工廠的工人，他們知道自己之前做的工作不會再有了，所以正在嘗試找到
+自己的容身之處。
+
+為了讓我們的社會持續進步，我們背負著我們這一代的挑戰——不僅僅是創造新的工作，
+還要創造新的使命感。
+
+我還記得在Kirkland House的小宿舍中創造Facebook的那一個晚上。我和我的朋友KX去了
+Noch。我記得我告訴他，我很開心能把哈佛的社群連接起來，而總有一天，有人會把整個
+世界都連接起來。
+
+事實是，我完全沒有料想到「有人」會是我們。當時我們只是大學生，對這件事完全不瞭
+解。所有大型科技公司都有資源，我只是假設它們其中一個會做到這件事。但是，這個概
+念對我們來說非常明確——所有人都想和彼此連結。所以我們不斷朝這個方向前進，一天
+又一天。
+
+我知道在你們其中很多人也會有類似的故事。<span class="f3 hl">有一個能夠改變世界的明確概念，你覺得其</span>
+<span class="f3 hl">他人會去實踐。但是他們並沒有，而你會。</span>
+
+但是，<span class="f3 hl">光有自己的目標還不夠。你必須創造對他人的使命感。</span>
+
+我發現意識到這點非常困難。你看，我的願望從來不是創立一間公司，而是對世界產生影
+響力。當越來越多的人加入我們，我假設他們跟我關心的是同樣的事，所以我從來沒解釋
+過我到底希望建立什麼。
+
+幾年來，一些大公司想要買下我們。但我不想賣。我想知道我們是否能夠連結更多的人。
+當時我們正在建立第一個News Feed（註：動態消息，會依據你的喜好、親疏遠近的關係
+以及該訊息的熱門程度，篩選出「值得你一看」的新聞消息），當時我想，如果我們能做
+到這一點，它可能會改變我們學習這個世界的方式。
+
+幾乎所有人都想要把公司賣了。沒有更高遠的使命感，這個新創公司不可能夢想成真。它
+撕裂了我們的公司。在一次激烈的爭論後，一位顧問跟我說，如果我不同意賣掉公司，我
+會後悔一輩子。夥伴間的關係如此的損毀，導致一年左右的時間裡，當時的管理層幾乎都
+走光了。
+
+那是我在領導 Facebook 期間最艱難的時期。我相信我們在做的事，但是我感到孤獨。更
+糟糕的是，這是我的錯。我在想自己是不是做錯了，我是一個名不符實的騙子，一個連世
+界是怎麼運轉都不知道的22歲小孩。
+
+多年以後的今天，我終於明白了那是因為沒有更高遠的目標才造成的。是否要創造它取決
+於我們，我們都能一起往前邁進。
+
+今天我想談談創造出每個人都有使命感的世界的三種方法：<span class="f3 hl">一起進行一個有重大意義的計</span>
+<span class="f3 hl">畫；重新定義平等，使每個人都有追求目標的自由；建立一個橫跨全世界的社群。</span>
+
+首先，讓我們來說說有意義的計畫。
+
+我們這一代必須面對數千萬的工作被機器取代的情況，比如說自動駕駛。但我們擁有一起
+去完成更多事的潛力。
+
+<span class="f3 hl">每一個世代都有屬於自己的使命。比如有超過30萬人一起努力把人類送上月球——包括那</span>
+<span class="f3 hl">個門警；數百萬的志工為世界各地的小兒麻痺症患者打疫苗；比數百萬更多的人為建立胡</span>
+<span class="f3 hl">佛水壩和其他偉大的計畫貢獻了自己的力量。</span>
+
+這些計畫不僅僅是為人們提供了使命，也讓整個國家都驕傲於我們可以做一些偉大的事情
+。
+
+現在輪到我們來做偉大的事情了。我知道，你可能會想：我不知道如何建造大壩，或者如
+何讓一百萬人一起參與任何事。
+
+但讓我告訴你一個秘密：沒有人在一開始就知道怎麼做。想法不會在最初就完全形成。只
+有當你為想法而努力時，它們才會逐漸清晰。你需要做的就只是開始。
+
+如果在開始之前我就必須清楚了解「如何讓人們產生連結」，那麼我可能就不會創辦
+ Facebook 了。
+
+電影和流行文化總是讓事情被誤導。「想法在某一個時刻會突然靈光乍現」這個概念其實
+是一個危險的謊言。這會讓我們覺得自己不足，因為我們沒有靈光乍現的時刻。它會阻止
+那些擁有好想法雛形的人去開始。對了，你知道電影當中還有什麼是對創新的誤導嗎？那
+就是，沒有人會在玻璃上寫數學公式。那不是真的。
+
+理想主義是好事，但你要做好被誤解的準備。任何為了龐大願景而努力的人可能會被稱為
+瘋子，即使你最終獲得成功；任何為了複雜問題而努力的人都會被指責並不全面瞭解挑戰
+，即使你本來就不可能事先瞭解一切；任何率先行動的人都會因為步調太快而受到批評，
+因為總是有人想讓你慢下來。
+
+在我們的社會裡，我們通常不做大事。因為我們太害怕犯錯，以至於我們忽視了今天所有
+錯誤的事，什麼都不做。事實是，我們所做的任何事情將來都會產生問題。但這不能阻止
+我們開始。
+
+所以我們還在等什麼？現在輪到我們去實踐這世代所定義的公共事務了。像是在地球被類
+摧毀之前阻止氣候變遷並讓數百萬人願意參與製造和安裝太陽能電池板；像是治療所有的
+疾病並招集志工追蹤健康數據、分享他們的基因。今天我們花上超過50倍的代價去治療病
+人，而不是致力於找到一種讓人類在最開始就不會染上疾病的方法。這並不合理，我們可
+以解決這個問題。或者像是讓民主現代化、使每個人都能在網路上投票，並讓教育客製化
+來使每個人都能學習。
+
+這些成就在我們的能力範圍內，讓我們一起讓每個人在社會中發揮應有的作用來達成這些
+事情。讓我們做一些偉大的事情，不僅是要創造進步，而是要創造使命。
+
+所以說，為了創造一個每個人都擁有使命感的世界，我們可以做的第一件事就是，開始一
+項有重大意義的計畫。
+
+<span class="f3 hl">第二件事是，重新定義平等，讓每個人都有追求目標的自由。</span>
+
+我們大部分人的父母在他們的整個職業生涯中都有穩定的工作。但是現在，我們這一代的
+人都是創業者，無論我們是剛開始一些計畫、仍在尋找、或是已經扮演著這個角色。這很
+棒，我們的創業文化就是導致我們創造這麼多進步的原因。
+
+現在，當嘗試新想法變得容易，創業文化就會蓬勃發展。Facebook並不是我做的第一件事
+。我還做過遊戲、聊天系統、學習工具和音樂播放器。我並不孤獨。JK 羅琳在出版《哈
+利波特》之前被拒絕了 12 次，即使是碧昂絲也寫了數百首的歌曲才有了今天Halo這首歌
+的成就。最棒的成功來自於享有失敗的自由。
+
+然而今天，<span class="f3 hl">財富的不均等讓每個人都受到傷害</span>。當你沒有把你的想法變成歷史性企業的自
+由，我們就都輸了。現在，<span class="f3 hl">我們的社會太過於看重成功後的回報，而對於去讓每個人都有</span>
+<span class="f3 hl">機會嘗試，我們做的並不夠多。</span>
+
+讓我們面對它吧。當我可以離開學校、在10年內賺上數十億元時，幾百萬的學生還不起他
+們的學貸，更何況是開啟他們的事業。我們的社會系統顯然出了問題。
+
+聽著，我認識很多企業家，而他們之中沒有一個人會因為賺不到夠多的錢而放棄開創他們
+的事業。但我卻知道<span class="f3 hl">很多人因為在失敗時沒有能夠依靠的後盾，而不敢追逐夢想。</span>
+
+我們都知道，只是有個好想法或努力工作不一定會讓我們成功。我們會成功，也是因為幸
+運。如果我必須支撐家庭的經濟而不能有時間寫程式；如果我不知道在FACEBOOK失敗時我
+還有其他退路，那麼我今天不會站在這裡。我們必須承認，<span class="f3 hl">我們是多麼地幸運。</span>
+
+每個世代都在不斷延伸「平等」的定義。之前的世代為了投票權和公民權奮戰，他們得到
+了「新政」和「大社會計畫」。現在輪到我們為這個世代去定義新的社會契約了。
+
+<span class="f3 hl">我們應該有一個不只是用GDP之類的經濟指標來衡量進步的社會，取而代之的，應該是我</span>
+<span class="f3 hl">們之中有多少人找到屬於自己的、有意義的角色。我們應該探索像是「保障最低收入」的</span>
+<span class="f3 hl">概念，讓每個人都有機會嘗試新的事物</span>。我們可能會不斷換工作，因此我們需要人人都能
+負擔得起的兒童照護服務才能無負擔地去上班，以及不和一家特定公司綁定的健保福利。
+我們都會犯錯，因此我們需要一個不再如此約束、汙名化我們的社會。另外，由於科技不
+斷改變，我們必須也要更重視我們的終身學習。
+
+是的，讓每個人都有追求失敗的自由是必須付出代價的。像我這樣的人必須為此付出，你
+們之中的許多人也會成功、也該這麼作。
+
+這就是為什麼Priscilla和我成立了Chan Zuckerberg 基金會，將我們的財富致力於創造
+平等的機會。這是我們這個世代所重視的價值。問題不在於我們要不要去做，而是在於什
+麼時候要去做。
+
+千禧世代已經是最願意作公益的世代之一了。一年之內，有四分之三的千禧世代美國人有
+捐款，十分之七為公益組織進行募款過。
+
+不局限於付出金錢，你也可以付出時間。我保證，只要你一週花上1或2個小時，就能夠真
+正幫助到某人，幫助他們發揮他們的潛力。
+
+或許你認為那要花太多時間，我也曾經這麼想。Priscilla從哈佛畢業後成了一位老師，
+在她和我一起進行教育工作之前，她要我教一個班級。我抱怨：「我很忙，我在經營一間
+公司。」但她堅持，因此我在地方的Boys and Girls Club教了一門關於創業的中學課程
+。
+
+我教他們關於產品開發和行銷，他們則教我當種族被針對，以及有家人在監獄裡是什麼樣
+的感覺。我和他們分享我在學校的時光，他們則和我分享他們希望有一天能夠上大學的希
+望。五年來，我每個月都和這些孩子吃晚餐。其中一個孩子為我和Priscilla舉辦了第一
+個產前派對。而明年，他們都要上大學了，每一個人都是。他們是家庭中第一個上大學的
+人。
+
+<span class="f3 hl">我們都可以騰出時間來幫助別人，讓我們一起讓每個人都有自由去追求他們的目標──不</span>
+<span class="f3 hl">只是因為這是對的事，更是因為，當有更多人能將他們的夢想變成偉大的事時，所有人都</span>
+<span class="f3 hl">能因此受益。</span>
+
+目標不僅僅來自於工作。實現讓每個人都有使命感的第三種方式是：<span class="f3 hl">建立社群。而當我們</span>
+<span class="f3 hl">這一代人說「每個人」的時候，我們指的是世界上的每一個人。</span>
+
+現在快速地調查一下，你們中有多少人來自其他國家？又有多少人和這些人是朋友？這就
+是我們現在要說的，我們都連結在一起。
+
+在一項調查世界各地的千禧世代是如何看待自己身份的研究中，最熱門的答案不是國籍、
+宗教或種族，而是「世界公民」，這很重要。
+
+<span class="f3 hl">每個世代對「我們自己人」的定義都在不斷擴張。對我們來說，現在它涵蓋了整個世界。</span>
+
+<span class="f3 hl">我們瞭解漫長的歷史軌跡裡，人們終會歸向於組成更大的群體。從部落、城市、到國家，</span>
+<span class="f3 hl">去完成我們自己所無法完成的事。</span>
+
+<span class="f3 hl">我們現在最大的機會是全球性的──我們可以是終結貧窮的世代，可以是終結疾病的世代</span>
+。同時我們也意識到我們面臨的巨大挑戰需要全球性的合作，沒有一個國家可以獨自對抗
+氣候變遷或防治疾病。現在，進步不能只是來自城市或國家，而是要來自全球構成的社群
+。
+
+<span class="f3 hl">然而，我們生活在不穩定的時代，世界各地都有被全球化拋下的人。而我們很難在對自身</span>
+<span class="f3 hl">環境不滿的情況下，還去關心世界其他角落的人，因為有內在的壓力。</span>
+
+<span class="f3 hl">這是我們這個時代的掙扎。自由的力量、開放與全球社群對上獨裁、孤立和種族主義，知</span>
+<span class="f3 hl">識、商業和移民的流動對上想要讓他們慢下來的力量。這不是國家的戰爭，而是思想之間</span>
+<span class="f3 hl">的戰爭。每個國家都有支持和反對全球化的人。</span>
+
+這也不是聯合國所能決定的。它將會從小地方開始發生，當足夠多的人瞭解到使命感的重
+要、生活足夠穩定去保持開放態度，並能夠開始去關心其他人。最好的方式就是從現在開
+始打造屬於當地人們的社群。
+
+我們都可以從這些社群中獲得意義。不管這些社群是家族或是運動社團，教會或是樂團。
+社群讓我們感到歸屬於群體的一部份、我們不是孤單一人，也給了我們擴大視野的力量。
+
+這就是為什麼這幾十年來各類團體的會員人數下降了四分之一這件事，是多麼地需要被關
+注！現在很多人都需要在別的地方尋找目標。
+
+但我知道，我們可以重建這些社群並開始新的社群，因為你們之中許多人已經這麼做了。
+
+我碰到Agnes Igoye，今天的畢業生，你在哪Agnes？她在烏干達的衝突區度過童年，現在
+她訓練數以千計的執法人員去維護當地社群的安全。
+
+我碰到Kayla Oakley和Niha Jain，也是今天畢業，請站起來。Kayla和niha創立了一個非
+營利組織去連結那些受疾病所苦的人以及社群內願意伸出援手的人。
+
+我碰到David Razu Aznar，今天從Kennedy School畢業。David，請站起來。他之前是個
+市議員，成功地讓墨西哥市成為拉丁美洲第一個通過婚姻平權法的城市，甚至比舊金山還
+早。
+
+這也是我自己的故事。一個宅在宿舍的學生，把一個社群連結了起來，然後始終維護著它
+，直到有一天我們連結了整個世界。
+
+改變從小地方開始。即使是全球性的改變也是從微小的地方開始──像我們一樣的人。在
+我們的世代中，我們是否能進行更多的連結、我們是否能把握我們最大的機會，全都取決
+於──你是否有創造社群的能力、創造一個每個人都有使命感的社會。
+
+2017年的畢業生們，你們畢業後將投入一個需要使命感的世界，而如何塑造它取決於你們
+。
+
+現在你可能在想：我真的能做到嗎？
+
+還記得前面我提到在Boys and Girls Club教授的課程嗎？有一天下課後，我正和他們談
+論著大學，其中一個優秀的學生舉手說道，他並不確定自己是否可以上大學。因為他沒有
+證件，他不知道大學會不會批准他入學。
+
+去年，我帶他去吃早餐以慶祝他的生日。我想給他一個禮物，所以我問他想要什麼，他開
+始談論他看到那些在為上大學而掙扎的學生們，然後說：「你知道的，我就想要一本關於
+社會正義的書。」
+
+我完全被震撼到了。這個年輕人完全有理由對這個世界憤世嫉俗。他不知道他視為家的這
+個國家──同時也是他唯一知道的國家──是否會拒絕他上大學的夢想。但他不因此為自
+己感到遺憾，他甚至沒在思考他個人的事。他有更宏大的使命感，而且他想帶著其他人跟
+自己一起前進。
+
+現在的情況讓我甚至連他的名字都不能提到，因為我不想讓他陷入危險之中。但如果連一
+個未來會怎樣都不知道的高中生，都能夠盡自己的力量讓世界更好，那我們也有我們應該
+對世界盡的一份責任。
+
+在你們最後一次走出校門之前，當我們正坐在這座Memorial Church前的時候，我想起了
+一段禱告。Mi Shebeirach，每當我面對挑戰時都會說，當我把女兒放進嬰兒床裡、想像
+著她的未來時都會唱到的：
+
+&#34;May the source of strength, who blessed the ones before us, help us *find
+the courage* to make our lives a blessing.&#34;
+
+我希望你們都可以找到勇氣，使你們的生命成為一個祝福。
+
+恭喜你們，2017年的畢業生們！祝你們好運！
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.205.188.113
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496600549.A.825.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496600549.A.825.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wtfbt</span><span class="f3 push-content">: 五樓認真肛六樓，肛出自己的一片天</span><span class="push-ipdatetime"> 06/05 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: ……到底在工三小</span><span class="push-ipdatetime"> 06/05 02:23
+</span></div><span class="f2">※ 編輯: Mastermind02 (123.205.188.113), 06/05/2017 02:24:46
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 是幹話大王</span><span class="push-ipdatetime"> 06/05 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 使命感</span><span class="push-ipdatetime"> 06/05 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 看完之後還是覺得都是幹話</span><span class="push-ipdatetime"> 06/05 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 翻譯：老子有錢</span><span class="push-ipdatetime"> 06/05 02:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sinreigensou</span><span class="f3 push-content">: 未看先猜有END</span><span class="push-ipdatetime"> 06/05 02:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BuildMan</span><span class="f3 push-content">: 那些是講給高材生聽得 版上魯蛇乖乖做好自己工作就好</span><span class="push-ipdatetime"> 06/05 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 從頭到尾都在講Priscilla  其他夥伴都沒提</span><span class="push-ipdatetime"> 06/05 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 有錢人說什麼都是佳句</span><span class="push-ipdatetime"> 06/05 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 真的是個ass hole無誤  那部電影說的沒錯</span><span class="push-ipdatetime"> 06/05 02:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 他是說給哈佛聽的 不是一般人的等級</span><span class="push-ipdatetime"> 06/05 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">togmogo</span><span class="f3 push-content">: 一般人做好本份就行了</span><span class="push-ipdatetime"> 06/05 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">heat0204</span><span class="f3 push-content">: 空話</span><span class="push-ipdatetime"> 06/05 02:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DanGong5566</span><span class="f3 push-content">: 跟台灣那些快退休的老人企業家差多了</span><span class="push-ipdatetime"> 06/05 02:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Pegasus170</span><span class="f3 push-content">: 先說明一下自己的海外帳戶跟國籍吧！</span><span class="push-ipdatetime"> 06/05 02:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">love12548</span><span class="f3 push-content">: 這邊不是哈佛魯蛇安靜好嗎 人家說給菁英聽</span><span class="push-ipdatetime"> 06/05 02:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 有錢讀哈佛就表示一切了</span><span class="push-ipdatetime"> 06/05 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bearq258</span><span class="f3 push-content">: 念心理與電腦、卻被頒發法學博士　難道專長是法律嗎？</span><span class="push-ipdatetime"> 06/05 02:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 講得頗好。被頒法學博士很怪</span><span class="push-ipdatetime"> 06/05 03:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Ashuya</span><span class="f3 push-content">: 通篇廢話也可以講那麼久</span><span class="push-ipdatetime"> 06/05 03:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ncturw</span><span class="f3 push-content">: 講得蠻好的啊 雖然我討厭fb</span><span class="push-ipdatetime"> 06/05 03:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">funxi56</span><span class="f3 push-content">: U文給推</span><span class="push-ipdatetime"> 06/05 05:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sionxp</span><span class="f3 push-content">: 運氣好</span><span class="push-ipdatetime"> 06/05 06:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 白話：老子早期有人贊助現在老子超有錢</span><span class="push-ipdatetime"> 06/05 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 他就有錢 如果沒錢 他說的再好你都當屁話</span><span class="push-ipdatetime"> 06/05 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wantshithole</span><span class="f3 push-content">: Jobs講的比較好</span><span class="push-ipdatetime"> 06/05 08:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bomda</span><span class="f3 push-content">: 還不是去舔共 哈哈 北京空氣很好不是</span><span class="push-ipdatetime"> 06/05 11:40
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496600549.A.825.html?cacheKey=2052-1959959&offset=18460&offset-sig=96fca6417c97873cd54ec26c4f388cfef463f0a5" data-longpollurl="/v1/longpoll?id=904b9b8ed82a339fd8614b0572ac106b874ce6bf" data-offset="18460"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

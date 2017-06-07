@@ -1,0 +1,190 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495430001.A.A3A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 金融業到底有什麼實質產能??? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="我就直說了，甚麼經濟成長，
+貨幣制度都是假的。
+存錢可以生利息，那麼…
+存石油可以生石油嗎?
+存房子可以生房子嗎?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 金融業到底有什麼實質產能???">
+<meta property="og:description" content="我就直說了，甚麼經濟成長，
+貨幣制度都是假的。
+存錢可以生利息，那麼…
+存石油可以生石油嗎?
+存房子可以生房子嗎?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495430001.A.A3A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495430001.A.A3A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lolylolyosu (3-1次元)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 金融業到底有什麼實質產能???</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 13:13:18 2017</span></div>
+<span class="f2">※ 引述《lovepork (我愛豬肉不愛牛肉)》之銘言：
+</span><span class="f6">: ※ 引述《ss910126 (Yukino my wife)》之銘言：
+</span><span class="f6">: : 版上已經有幾篇回復，我再來補充一些
+</span><span class="f6">: : 金融業的最大價值應該是為市場提共了豐沛的資金，而這個遊戲規則
+</span><span class="f6">: : 就是由一個叫做&#34;銀行存款準備金比率&#34;所創造出的大量貨幣供給
+</span><span class="f6">: : 簡單來講準備金的定義就是:為保障存款人的利益，銀行機構不能將吸
+</span><span class="f6">: : 納的存款全部用於發放貸款或者是進行炒股票等金融投資，必須保留一
+</span><span class="f6">: : 定的資金，存放在銀行內（如美國）或繳存在中央銀行（如臺灣）
+</span><span class="f6">: : ，以備客戶提款的需要，這部分的存款就叫做存款準備金。
+</span><span class="f6">: : 然後我們來分析這個準備金的遊戲規則到底可以創造出多少資金
+</span><span class="f6">: : 比如說政府規定10趴的準備金，今天一個肥宅去銀行存100元
+</span><span class="f6">: : 這樣子銀行只要有10元的準備金，剩下的90元可以借出去賺取利息，
+</span><span class="f6">: : 假如銀行A借 銀行B 90元，銀行B只需要準備9元，剩下的81元可借給
+</span><span class="f6">: : 另一間銀行，如此計算下去，這個肥宅所存的100元可以創造出1000元
+</span><span class="f6">: : 的資金。就是這樣越滾越多，市場的龐大現金就是這樣創造而來
+</span><span class="f6">: : 你要買房，買車的貸款大概都是這樣滾出來的
+</span><span class="f6">: : 以上是我的補充，歡迎批評與指教，感謝老師林明仁的教導
+</span><span class="f6">: 我認為金融業的概念很簡單啊
+</span><span class="f6">: 那就是與其把你的錢放家裡 不如 你拿到銀行讓銀行幫你保管兼投資
+</span><span class="f6">: 銀行不但不收你手續費還能幫你生利息
+</span><span class="f6">: 光是這兩點這就非常有產能了好嗎~~
+</span><span class="f6">: 因為你的錢放家裡不但不會生利息 還有可能會被蛀蟲啃光的風險
+</span><span class="f6">: 而金融業者因為有了處理龐大現金和投資的眾多經驗
+</span><span class="f6">: 他們已經發展出非常良善的處理錢的制度和各種投資的模式
+</span><span class="f6">: 可以合法快速的用錢滾錢
+</span><span class="f6">: 這些製造出來的利潤當然是產能
+</span><span class="f6">: 如果這不是產能 什麼是產能啊???
+</span><span class="f6">: 現在問題是 你製造出來的利潤 分給原始把錢給你的人是合理的趴數嗎?
+</span><span class="f6">: 這之中有沒有利潤是被你們自己吃掉呢?
+</span><span class="f6">: 另外如果投資過程賠錢了 風險是你們金融業者自行吸收? 還是轉嫁給全體國民??
+</span><span class="f6">: 這些議題才是我們關心和非常重視的
+</span><span class="f6">: 從來沒人懷疑金融業是有產能的
+</span><span class="f6">: 因為金融業能滾出利息出來 就是有產能的啊 只是多或少而已
+</span>我就直說了，甚麼經濟成長，
+貨幣制度都是假的。
+
+存錢可以生利息，那麼…
+存石油可以生石油嗎?
+存房子可以生房子嗎?
+存食物可以生食物嗎?
+存電可以生電嗎?
+
+如果可以，今天我們還怕物價上漲嗎?
+
+
+今天如果所有人都開銀行，
+互相借錢滾利息，
+所有人都是有錢人，就沒人挨餓了嗎?
+
+並不會，只會四萬換一塊而已。
+
+
+錢買不到的東西才有價值，
+就像去年荔枝大減，有錢也買不到。
+
+
+錢買不到的東西有一大堆:
+時光機，外星人的飛碟，與小舞一抱抱?
+日本首相的大位，日文速成，
+與聲優結婚，進入二次元，健康快樂等…
+
+這些東西你說值多少錢，是根本買不到。
+
+
+錢算甚麼東西，愛才是王道。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.205.31.230
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495430001.A.A3A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495430001.A.A3A.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FanFan123</span><span class="f3 push-content">: 結論 用愛發電</span><span class="push-ipdatetime"> 05/22 13:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">akira0127</span><span class="f3 push-content">: 私人借貸容易倒帳，會借多少錢給好朋友呢？直接請客容</span><span class="push-ipdatetime"> 05/22 13:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Zeroyeu</span><span class="f3 push-content">: 唉 又一個財經盲</span><span class="push-ipdatetime"> 05/22 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">WERGGC</span><span class="f3 push-content">: 法律也是假的 跟貨幣制度一樣都是訂定出來的 這樣滿意嗎</span><span class="push-ipdatetime"> 05/22 19:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x123456789xx</span><span class="f3 push-content">: 不真正懂財金的就知道  他講的是真的 真理!! 給推</span><span class="push-ipdatetime"> 05/23 20:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x123456789xx</span><span class="f3 push-content">: 一堆怕別人的財金盲 才真的是財金盲</span><span class="push-ipdatetime"> 05/23 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x123456789xx</span><span class="f3 push-content">: 一堆沒良心的財金惡魔利用漏洞來˙壓榨別人勞力付出</span><span class="push-ipdatetime"> 05/23 20:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x123456789xx</span><span class="f3 push-content">: 辛苦的果實!</span><span class="push-ipdatetime"> 05/23 20:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495430001.A.A3A.html?cacheKey=2052-36120013&offset=3315&offset-sig=f03c66a295db08c20fcc30babaacf59f2a482b31" data-longpollurl="/v1/longpoll?id=43f820943449ffbf6ff0f4315a0a1ee80af306ac" data-offset="3315"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

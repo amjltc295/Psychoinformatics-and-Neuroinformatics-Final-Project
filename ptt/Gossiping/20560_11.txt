@@ -1,0 +1,251 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495285606.A.002.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 獨／員工月薪28K被降為26K　老闆：因應 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+三立
+2.完整新聞標題:
+獨／員工月薪28K被降為26K　老闆：因應一例一休
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 獨／員工月薪28K被降為26K　老闆：因應">
+<meta property="og:description" content="1.媒體來源:
+三立
+2.完整新聞標題:
+獨／員工月薪28K被降為26K　老闆：因應一例一休
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495285606.A.002.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495285606.A.002.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">blueskymaple (☆大谷翔平我老公☆)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 獨／員工月薪28K被降為26K　老闆：因應</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 21:06:43 2017</span></div>
+1.媒體來源:
+三立
+
+
+2.完整新聞標題:
+獨／員工月薪28K被降為26K　老闆：因應一例一休
+
+3.完整新聞內文:
+記者王韻筑、鄭凱中、鄭遠龍／台北報導
+
+一例一休上路，不少業者對多出來的人力成本也是想盡辦法。<span class="f6 hl">台北市</span>陳先生投訴，他到一
+間居酒屋上班，本來說好本薪是2萬8，沒想到快領薪水時，老闆說為了<span class="f6 hl">一例一休</span>要調降為
+2萬6。主要是周六的休息日加班未滿8小時，仍以8小時計算，業者怎把成本轉嫁員工身上
+？讓陳先生無法接受，事後<span class="f6 hl">雙方已經達成和解</span>。
+
+「我等於我做的時間一樣，我領的錢沒變，那政府推出這個政策要幹嘛？」陳先生氣憤難
+耐，好不容易挨到領薪水卻莫名被降薪。
+
+陳先生：「一開始跟我說我的薪水就是2萬8，發薪水前2天突然說，因應一例一休，他要
+調降我的底薪，那數字可能一個月就差了3、4千吧。」
+
+說好的28K怎麼會變成26K？看看薪資明細的本薪處確實變成26000元，關鍵就在圈起來的
+這一項「休假日加班費」。
+
+居酒屋業者：「那個薪水都是含禮拜六要上班的，理論上他們說，現在禮拜六叫你們一定
+要給你們放假，那照道理講，薪水是不是應該要降才對。」
+
+店家爭辯降薪合理，原來周六營業時間從下午5點到晚上10點，員工等於加班5小時，但是
+新制規定，休息日加班超過4小時、不到8小時，都得以8小時計算，店家划不來只好縮減
+本薪。
+
+投訴人陳先生：「這邊全部都堆了垃圾，然後架子。」
+
+離職員工爆料的居酒屋就在台北市松江路，居酒屋的物品貨架擺滿滿，這條路居然是店家
+旁的防火巷，陳先生<span class="f6 hl">加碼爆料</span>，店家堵死防火巷違規占用，甚至還排放汙水。
+
+投訴人陳先生：「這是從後面排出來的汙水。」
+
+事後店家與陳先生達成和解，補上減少的本薪，針對事件沒有回應，政府推勞工政策，店
+家反將人事成本轉嫁到員工身上，恐怕誰都無法服氣。（整理：實習編輯廖俐惠）
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://www.setn.com/News.aspx?NewsID=254597" target="_blank" rel="nofollow">http://www.setn.com/News.aspx?NewsID=254597</a>
+
+5.備註:
+南部慣老闆...誒？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.242.130
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495285606.A.002.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495285606.A.002.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 台北的居酒屋都賣超貴的 員工薪水才這麼一點= =</span><span class="push-ipdatetime"> 05/20 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">grayoasis</span><span class="f3 push-content">: 回去跟你老闆說！</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonder007</span><span class="f3 push-content">: 南部26k算很高了</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 低能政策，蔡英文無能</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 還好是在台北 不然會被暗殺吧</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Cha23Cha</span><span class="f3 push-content">: 廢物政府搞什麼一例一休</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tv5566</span><span class="f3 push-content">: 南部？ 難怪沒捷運 呵</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KerryKing</span><span class="f3 push-content">: 一例一休，薪水被修</span><span class="push-ipdatetime"> 05/20 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 廢物老闆</span><span class="push-ipdatetime"> 05/20 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 我以為天龍國至少都有30k起跳欸</span><span class="push-ipdatetime"> 05/20 21:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hosen</span><span class="f3 push-content">: 月休四天，底薪28000；月休八天，底薪當然會變</span><span class="push-ipdatetime"> 05/20 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ev331</span><span class="f3 push-content">: 2000元也要省</span><span class="push-ipdatetime"> 05/20 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 正常，這種事一定很多</span><span class="push-ipdatetime"> 05/20 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 慣老闆藉口一堆</span><span class="push-ipdatetime"> 05/20 21:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uack73907</span><span class="f3 push-content">: 不是聽障不能說歧視QQ</span><span class="push-ipdatetime"> 05/20 21:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">x6urvery</span><span class="f3 push-content">: 慣老闆藉口一堆 還有人幫護航 ㄏㄏ</span><span class="push-ipdatetime"> 05/20 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NSKB</span><span class="f3 push-content">: 空心菜：怪我咧，去找你老闆啦！</span><span class="push-ipdatetime"> 05/20 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ert0700</span><span class="f3 push-content">: 慘 28000竟然還是加六日加班費</span><span class="push-ipdatetime"> 05/20 21:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xyz168</span><span class="f3 push-content">: 一個月一個員工省兩千，五個才省一萬..這個老闆有沒有這麼</span><span class="push-ipdatetime"> 05/20 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sorrywow</span><span class="f3 push-content">: 報名字阿</span><span class="push-ipdatetime"> 05/20 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xyz168</span><span class="f3 push-content">: 窮啊，乾脆別做生意了吧..老闆店關一關算了</span><span class="push-ipdatetime"> 05/20 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 我的天，這不就剛好在地人有房子，不然假日加班兩萬八，扣</span><span class="push-ipdatetime"> 05/20 21:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 都五月了 還在鬼扯一例一休</span><span class="push-ipdatetime"> 05/20 21:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dlevel</span><span class="f3 push-content">: 掉住屋費一萬二，要怎麼活</span><span class="push-ipdatetime"> 05/20 21:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sleepcat612</span><span class="f3 push-content">: 反正不爽就換公司，店家徵不到人自然得調薪，不必對</span><span class="push-ipdatetime"> 05/20 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sleepcat612</span><span class="f3 push-content">: 市場機制大驚小怪。</span><span class="push-ipdatetime"> 05/20 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 明明就是陸客不來害的</span><span class="push-ipdatetime"> 05/20 21:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwe20145</span><span class="f3 push-content">: 垃圾老闆</span><span class="push-ipdatetime"> 05/20 21:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dsgfuy</span><span class="f3 push-content">: 這種爛工作還是有人低著頭去做才是慣壞老闆的主因</span><span class="push-ipdatetime"> 05/20 21:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 上有政策，下有對策</span><span class="push-ipdatetime"> 05/20 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">linqqq007</span><span class="f3 push-content">: 老闆不能沒告知就降薪，真的把員工當白痴喔</span><span class="push-ipdatetime"> 05/20 21:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tipsofwarren</span><span class="f3 push-content">: 爽！矽賀</span><span class="push-ipdatetime"> 05/20 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 26K ??</span><span class="push-ipdatetime"> 05/20 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">netsphere</span><span class="f3 push-content">: 工時沒變，薪水變少</span><span class="push-ipdatetime"> 05/20 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aids893001</span><span class="f3 push-content">: 廢老闆</span><span class="push-ipdatetime"> 05/20 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wowpoqwow</span><span class="f3 push-content">: 我只請願意降底薪的</span><span class="push-ipdatetime"> 05/20 21:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">st2913sbck</span><span class="f3 push-content">: 哈哈 一例一休 哈哈</span><span class="push-ipdatetime"> 05/20 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Matamune</span><span class="f3 push-content">: 記得之前好像有講這樣違法</span><span class="push-ipdatetime"> 05/20 21:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meta41110</span><span class="f3 push-content">: 天龍國~~~薪資根本過譽了不意外</span><span class="push-ipdatetime"> 05/20 21:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CenaC</span><span class="f3 push-content">: 台北的居酒屋很多都年輕人當老闆啊</span><span class="push-ipdatetime"> 05/20 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: 幸福城市</span><span class="push-ipdatetime"> 05/20 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fhill12</span><span class="f3 push-content">: 蔡英文要勞工「自立自強」</span><span class="push-ipdatetime"> 05/20 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Eric0204</span><span class="f3 push-content">: 自己跟老闆講囉</span><span class="push-ipdatetime"> 05/20 22:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkman321</span><span class="f3 push-content">: 老闆沒錢本來就要共體時艱 不然要舉債發薪水?</span><span class="push-ipdatetime"> 05/20 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkman321</span><span class="f3 push-content">: 勞工的薪水是老闆給的 老闆要砍就砍啊 套句鄉民愛說的</span><span class="push-ipdatetime"> 05/20 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winger</span><span class="f3 push-content">: @sleepcat612 最近老闆開始喊放寬外勞額</span><span class="push-ipdatetime"> 05/20 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wugi</span><span class="f3 push-content">: 公雞變飼主</span><span class="push-ipdatetime"> 05/20 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">QQ101</span><span class="f3 push-content">:  雇主片面調減勞工薪資，損害勞工之權益，違反勞動基準法</span><span class="push-ipdatetime"> 05/21 02:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QQ101</span><span class="f3 push-content">: 跟一例一休沒關係 純粹雇主違法</span><span class="push-ipdatetime"> 05/21 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">babyseason</span><span class="f3 push-content">: 爛死了！</span><span class="push-ipdatetime"> 05/21 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DarkIllusion</span><span class="f3 push-content">: 蔡：去跟你們老闆說，別讓公雞變飼主</span><span class="push-ipdatetime"> 05/21 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pttboy99</span><span class="f3 push-content">: 謝謝你 資進黨</span><span class="push-ipdatetime"> 05/21 02:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 真不好意思  剛剛放個屁讓你老闆決定要扣薪水</span><span class="push-ipdatetime"> 05/21 02:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 台北居酒屋月薪26K?????</span><span class="push-ipdatetime"> 05/21 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 某樓，別說台北了，現在中南部很多年輕人當老闆開店，分店</span><span class="push-ipdatetime"> 05/21 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 一間間開，但薪水給得很小氣，像台南安平某間有名的，內檯</span><span class="push-ipdatetime"> 05/21 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 咖啡吧檯人員，薪水給25K</span><span class="push-ipdatetime"> 05/21 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 賣得東西價格跟台北差不多，薪水倒是南部價。</span><span class="push-ipdatetime"> 05/21 02:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paris0826</span><span class="f3 push-content">: 重點是防火巷要處理啊  垃圾台灣人選出來的蔡英文</span><span class="push-ipdatetime"> 05/21 02:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rezero</span><span class="f3 push-content">: 年初有家頗具規模的清潔公司也減員工本薪,員工打去問會計</span><span class="push-ipdatetime"> 05/21 02:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rezero</span><span class="f3 push-content">: 會計回答他們一個月加上加班費後領到的錢和原本差不多,真</span><span class="push-ipdatetime"> 05/21 02:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rezero</span><span class="f3 push-content">: 是把員工當白痴...</span><span class="push-ipdatetime"> 05/21 02:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steelheart3</span><span class="f3 push-content">: 說好的薪水還可以在領薪時候改 不罵雇主罵政府?</span><span class="push-ipdatetime"> 05/21 03:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mpyhacct0443</span><span class="f3 push-content">: 垃圾老闆</span><span class="push-ipdatetime"> 05/21 04:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ASDF0714</span><span class="f3 push-content">: 幫低調</span><span class="push-ipdatetime"> 05/21 14:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knives</span><span class="f3 push-content">: 去跟老闆講不要跟政府講</span><span class="push-ipdatetime"> 05/21 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">anper</span><span class="f3 push-content">: 看起來跟一例一休沒有關係阿  片不懂得 像是這篇的幾個推文</span><span class="push-ipdatetime"> 05/21 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">anper</span><span class="f3 push-content">: 看起來就跟那些白癡一樣</span><span class="push-ipdatetime"> 05/21 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">abcdegf34</span><span class="f3 push-content">: 雇主想要違法 有沒有一例一休都一樣吧??</span><span class="push-ipdatetime"> 05/21 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ilwe106</span><span class="f3 push-content">: 一例一休像是面照妖鏡 一堆冠老闆都現行</span><span class="push-ipdatetime"> 05/21 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BlueBird5566</span><span class="f3 push-content">: 記得蒐證一下有沒有用過期食材  檢舉後有獎金拿</span><span class="push-ipdatetime"> 05/21 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BlackBass</span><span class="f3 push-content">: 黨工加油點</span><span class="push-ipdatetime"> 05/21 14:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PietroConti</span><span class="f3 push-content">: 鬼扯，又沒說一定要休週六</span><span class="push-ipdatetime"> 05/21 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 快寫一下居酒屋老闆ID  搞死他</span><span class="push-ipdatetime"> 05/21 14:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 照道理薪水該降? 降你老木 那你賺錢每個月要不要分紅</span><span class="push-ipdatetime"> 05/21 14:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">halflord</span><span class="f3 push-content">: 這老闆一定資進黨垃圾</span><span class="push-ipdatetime"> 05/21 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ffaatt</span><span class="f3 push-content">: 那消費者付帳時能不能說一例一休 給少一點</span><span class="push-ipdatetime"> 05/21 14:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kk8921647</span><span class="f3 push-content">: 一例一休，爛透了星期五寄掛號星期二才能收到，靠</span><span class="push-ipdatetime"> 05/21 14:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kk8921647</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/21 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sl9800998</span><span class="f3 push-content">: 薪資老闆說的算 英文表示找你老闆談 別找她</span><span class="push-ipdatetime"> 05/21 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LianD</span><span class="f3 push-content">: 台北28k怎麼活</span><span class="push-ipdatetime"> 05/21 14:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b2202761</span><span class="f3 push-content">: 每月2K 12個月2.4萬 從年終獎金扣就好,勞基法沒規定</span><span class="push-ipdatetime"> 05/21 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b2202761</span><span class="f3 push-content">: 年終獎金要給多少</span><span class="push-ipdatetime"> 05/21 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b2202761</span><span class="f3 push-content">: 隨便扣本薪違反勞基法,員工也可以利用這點要資遣費</span><span class="push-ipdatetime"> 05/21 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">reaturn</span><span class="f3 push-content">: 薪水降了，售價變高；理由：一例一休 人力調漲</span><span class="push-ipdatetime"> 05/21 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deegs10221</span><span class="f3 push-content">: 早就說了不信，7天價被白砍了QQ</span><span class="push-ipdatetime"> 05/21 19:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gtapassioner</span><span class="f3 push-content">: 慣老闆</span><span class="push-ipdatetime"> 05/22 02:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495285606.A.002.html?cacheKey=2052-37419984&offset=10758&offset-sig=b31fe8739a048d94f426fc91bdadfe0f71dccfcb" data-longpollurl="/v1/longpoll?id=198a8afc21a0e49c4ce8a52fcdff657e9e86918d" data-offset="10758"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,271 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495790136.A.422.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 在哪種電玩遊戲下 人是可以贏AI的 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content=":
+: --
+: ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.108.236
+: ※ 文章網址: https://www.ptt.cc/bbs/Gossiping/M.1495781717.A.7EC.html
+: 推 yongb: 色情遊戲                                                 05/26 14:55
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 在哪種電玩遊戲下 人是可以贏AI的">
+<meta property="og:description" content=":
+: --
+: ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.108.236
+: ※ 文章網址: https://www.ptt.cc/bbs/Gossiping/M.1495781717.A.7EC.html
+: 推 yongb: 色情遊戲                                                 05/26 14:55
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495790136.A.422.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495790136.A.422.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">reigon1126 (登入送永久廢文)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 在哪種電玩遊戲下 人是可以贏AI的</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 17:15:35 2017</span></div>
+<span class="f2">※ 引述《howshue (阿斯斯)》之銘言：
+</span><span class="f6">: FPS：
+</span><span class="f6">: 直接準心鎖定頭部
+</span><span class="f6">: 計算彈道預判落點
+</span><span class="f6">: 格鬥遊戲：
+</span><span class="f6">: 計算攻擊距離
+</span><span class="f6">: 有效範圍直接輸出連段公式
+</span><span class="f6">: 戰略遊戲：
+</span><span class="f6">: 每個單位獨立命令
+</span><span class="f6">: 好像都贏不了…
+</span>:
+<span class="f6">: --
+</span><span class="f6">: ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.108.236
+</span><span class="f6">: ※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495781717.A.7EC.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495781717.A.7EC.html</a>
+</span><span class="f6">: 推 yongb: 色情遊戲                                                 05/26 14:55
+</span><span class="f6">: → may40510: 皮卡丘打排球                                          05/26 14:55
+</span><span class="f6">: → kingrichman:  要邏輯思維的都贏不了                              05/26 14:55
+</span><span class="f6">: → tony84590: 皮卡丘打排球                                         05/26 14:55
+</span><span class="f6">: 推 funkD: 爐石阿 運氣遊戲                                          05/26 14:55
+</span><span class="f6">: → a741085: LOL阿   我還可以一個幹五個電腦                         05/26 14:55
+</span><span class="f6">: → Leo4891: 井字遊戲至少可以打平                                   05/26 14:55
+</span><span class="f6">: → s505015: 5子棋 圈圈叉叉                                         05/26 14:55
+</span><span class="f6">: → hamasakiayu: 有必勝法的遊戲                                     05/26 14:56
+</span><span class="f6">: → kingrichman:  但電腦沒有懶覺可以尻槍                            05/26 14:56
+</span><span class="f6">: 推 BWhite245: 跑跑卡丁車                                           05/26 14:56
+</span><span class="f6">: 推 ambitious: ai沒你想的那麼強                                     05/26 14:56
+</span><span class="f6">: 推 Lebaldshames: ptt阿                                             05/26 14:56
+</span><span class="f6">: → event1408472: 運氣遊戲可以                                      05/26 14:56
+</span><span class="f6">: → fuhaho: 戀愛遊戲                                                05/26 14:56
+</span><span class="f6">: → cytotoxic: 世紀帝國                                             05/26 14:56
+</span><span class="f6">: 噓 Mesenne: 戰女                                                   05/26 14:56
+</span><span class="f6">: → Diaw01: 首先要有一個人寫出一個強AI                              05/26 14:56
+</span><span class="f6">: 推 cul287: 與左手瘋狂做愛                                          05/26 14:57
+</span><span class="f6">: 推 words2012: 有 團體道具 跑跑卡丁車 我上次打敗阿魯軍團            05/26 14:57
+</span><span class="f6">: → arnold3: 世紀帝國之類的 可以運用孫子兵法打贏電腦                05/26 14:57
+</span><span class="f6">: 推 JOGIBA: 大富翁這種靠機率的有機會贏                              05/26 14:57
+</span><span class="f6">: → shcjosh: 認圖片的遊戲 ai輸很大                                  05/26 14:57
+</span><span class="f6">: → arnold3: 如果手速慢就玩文明帝國CK2那些也能                      05/26 14:57
+</span><span class="f6">: 推 archon: 射擊遊戲用 AI 判斷是一回事，好歹鍵盤滑鼠要用機器手臂吧  05/26 14:58
+</span><span class="f6">: 老實說 上述太多例子 是為了玩家而降低難度 我才不信lol ai完全計算 人可以贏
+</span><span class="f6">: → arnold3: 我用七成功力可以輕鬆打贏英霸電腦                       05/26 14:58
+</span><span class="f6">: 推 ckshchen: NBA啊，電腦的76人贏不了我                             05/26 14:58
+</span><span class="f6">: 推 Diaw01: 還有對事情的愛跟熱情                                    05/26 14:59
+</span><span class="f6">: → archon: 跳過鍵盤滑鼠直接用 API 控制的話，不就是外掛程式 -_-     05/26 14:59
+</span><span class="f6">: 推 a77942002: 課金遊戲~~                                           05/26 14:59
+</span><span class="f6">: → archon: 即時戰略也是，比的不只是策略，還有手速跟手腦協調度啊    05/26 15:00
+</span><span class="f6">: 推 bluegold: 圈圈叉叉                                              05/26 15:00
+</span><span class="f6">: 推 aCCQ: 剪刀石頭布                                                05/26 15:00
+</span><span class="f6">: → shcjosh: 機械手臂又牽涉到機械相關的精準度                       05/26 15:00
+</span><span class="f6">: ※ 編輯: howshue (114.137.108.236), 05/26/2017 15:00:42
+</span><span class="f6">: → aCCQ: 德州撲克呢?                                               05/26 15:00
+</span><span class="f6">: 推 tim111444: 對手是kisuna ai                                      05/26 15:01
+</span><span class="f6">: → aCCQ: 麻將                                                      05/26 15:01
+</span><span class="f6">: → hh800315: 世紀帝國ㄚ 被我打爆好幾次了                           05/26 15:01
+</span><span class="f6">: → tim111444: kitsuna                                              05/26 15:01
+</span><span class="f6">: 推 andy16532: 推皮卡丘排球                                         05/26 15:01
+</span><span class="f6">: 推 sole772pk37: Hgame                                              05/26 15:01
+</span><span class="f6">: 推 hw1: 大富翁                                                     05/26 15:02
+</span><span class="f6">: 推 guiltyboa: 卡牌遊戲吧 計算機率後基本上還是得靠運氣XD            05/26 15:02
+</span><span class="f6">: 推 ccyaztfe: 你那個不叫ai  叫做外掛好嗎？                          05/26 15:02
+</span><span class="f6">: 推 huckebein12: AI與機械手臂是兩回事吧…                           05/26 15:03
+</span><span class="f6">: 推 archon: 人類在操作滑鼠都會有物理上的限制，移動滑鼠也需要時間，  05/26 15:03
+</span><span class="f6">: → archon: AI來算射擊遊戲直接下座標，要射哪裡就射哪裡，這樣嗎？    05/26 15:03
+</span><span class="f6">: 推 tomzakeru: 卡牌遊戲/運氣遊戲玩多了一定還是AI贏                  05/26 15:04
+</span><span class="f6">: 推 greenery17: 小朋友齊打交                                        05/26 15:04
+</span><span class="f6">: → huckebein12: 外掛自瞄開火本來就是一種AI                         05/26 15:04
+</span><span class="f6">: → people010203: 魂系列的遊戲，AI都被高手電                        05/26 15:04
+</span><span class="f6">: 推 DevilEnvy: 爆爆王直接強制911阿 看電腦怎麼防                     05/26 15:05
+</span><span class="f6">: → linbasohigh: 歷咕歷咕裡面的 美國麻將～莊家有權再換一次牌～      05/26 15:07
+</span><span class="f6">: 推 royfw: 有運氣成分的遊戲都可以吧                                 05/26 15:07
+</span><span class="f6">: 推 nakibasara: 馬力歐賽車                                          05/26 15:07
+</span><span class="f6">: 推 erickruklin: 美少女夢工廠啊，AI應該跟不上肥宅意淫的極限         05/26 15:07
+</span><span class="f6">: 推 Jimmyc: 爐石                                                    05/26 15:08
+</span><span class="f6">: 推 schumi7401: 明星三缺一                                          05/26 15:08
+</span><span class="f6">: 推 liujd: 我LoL是直接把AI打爆的啦 場場神裝虐泉                     05/26 15:09
+</span><span class="f6">: 推 awdxabc295: LF2 屌打                                            05/26 15:09
+</span><span class="f6">: 推 s3561151: SAO啊 連GM都屌打                                      05/26 15:10
+</span><span class="f6">: → j147589: 抽一張比大                                             05/26 15:10
+</span><span class="f6">: → sesfan: 等AI聰明到會故意輸人類時，我們就要害怕了                05/26 15:11
+</span><span class="f6">: 推 mdkn35: 切他電路不會?                                           05/26 15:14
+</span><span class="f6">: 推 ashburr: 等到人類可以進化到直接連結全球人類頭腦，世界統一，就   05/26 15:14
+</span><span class="f6">: → ashburr: 不可能贏人類。                                         05/26 15:14
+</span><span class="f6">: 推 qaz12wsx45: 圈圈叉叉只會玩到合局啦 誰都不能贏                   05/26 15:18
+</span><span class="f6">: 推 loki08957: 即時戰略要贏ai超難吧 一個多線推加微操 打個毛         05/26 15:18
+</span><span class="f6">: 推 ssabjm: lol裝個外掛就飛天了，不設限的AI人類怎麼可能贏           05/26 15:18
+</span><span class="f6">: → Alphaz: 皮卡丘打排球不算AI 根本不會學習 哪來的人工智慧          05/26 15:19
+</span><span class="f6">: 推 necrophagist: 爐石 頂尖傳說玩家勝率也60%上下 人人有賽有機會     05/26 15:21
+</span><span class="f6">: 推 richard0617: 兩津裡面的把妹遊戲                                 05/26 15:25
+</span><span class="f6">: → arcanite: 遊戲王 牌組本身劣勢AI再神也贏不了                     05/26 15:25
+</span><span class="f6">: 推 Ericz7000: 開腳本啊                                             05/26 15:25
+</span><span class="f6">: 推 tomzakeru: AI會組勝率最高的排組                                 05/26 15:27
+</span><span class="f6">: 推 Jlee5566: 這個問題不就是問人類在什麼運動中可以贏過機器人        05/26 15:29
+</span><span class="f6">: → Jlee5566: 只要不限制要當代的科技   答案一定是不可能贏呀         05/26 15:29
+</span><span class="f6">: → mikepopkimo: 所有AI都會被人類破                                 05/26 15:30
+</span><span class="f6">: 推 zxcv3147: 格鬥遊戲應該可以贏吧                                  05/26 15:32
+</span><span class="f6">: 推 neilisme: 爐石阿 就靠賽而已                                     05/26 15:33
+</span><span class="f6">: → silstone: 天蠶變                                                05/26 15:38
+</span><span class="f6">: 推 monkeyii: 猜拳？                                                05/26 15:43
+</span><span class="f6">: 推 Loserme5566: 憑運氣的遊戲                                       05/26 15:51
+</span><span class="f6">: 推 ccucwc: 抽一張比大啊！                                          05/26 15:51
+</span><span class="f6">: 推 teddy: 井字遊戲 一定打平手                                      05/26 15:51
+</span><span class="f6">: 推 a067891450: 靠賽遊戲                                            05/26 15:53
+</span><span class="f6">: 推 howdiee: 之前玩過一款射擊AI被改超強，但是太不知變通             05/26 15:54
+</span><span class="f6">: 推 howdiee: 像不會向煙霧彈掃射或掩護射擊之類的 因此還是能贏        05/26 15:55
+</span><span class="f6">: 推 howdiee: 當然要是你的AI是直接可以從底層撈座標的 那應該無解      05/26 15:55
+</span><span class="f6">: 推 howdiee: 立足點完全不一樣 算作弊了                              05/26 15:56
+</span><span class="f6">: → cloudin: 游戲王啊 全給他攻擊力800以下無效果怪獸 看他怎麼打      05/26 15:59
+</span><span class="f6">: 推 wasitora: 世紀帝國電腦單挑要贏人類高手應該蠻難的                05/26 16:04
+</span><span class="f6">: 推 greedypeople: 猜拳                                              05/26 16:08
+</span><span class="f6">: 推 jeffrey40504: 以上都不太算ai… 沒有什麼自我學習的能力           05/26 16:09
+</span><span class="f6">: 推 ksxo: 井字遊戲 人類玩兩百場可能就會輸了 因為人會累阿            05/26 16:10
+</span><span class="f6">: 推 shinrei: 了不起，拔線！                                         05/26 16:10
+</span><span class="f6">: 推 JameC: 叫AI來GTA 公開戰局單挑，包準贏不了                       05/26 16:13
+</span><span class="f6">: → bladeX: 皮卡丘打排球被鎖鍵盤就GG惹                              05/26 16:14
+</span><span class="f6">: 推 luxaky: LOL是降低難度好嗎? 認真搞可以讓你指向技全空             05/26 16:18
+</span><span class="f6">: 推 lianginptt: 沒錯，色情遊戲！要怎樣才不會bad end，不了解人類語   05/26 16:18
+</span><span class="f6">: → lianginptt: 言和感情是辦不到滴                                  05/26 16:18
+</span><span class="f6">: 推 SkySwimmer: LOL你看開外掛的就知道  電腦對線一定比較強           05/26 16:23
+</span><span class="f6">: → SkySwimmer: 但其他情報電腦不一定知道  像是轉線  入侵野區等等    05/26 16:24
+</span><span class="f6">: 推 ccjj8: 文明帝國 AI有夠爛                                        05/26 16:24
+</span><span class="f6">: 推 helsman: 國軍online啊，沒有畫面                                 05/26 16:24
+</span><span class="f6">: 推 ohmylove347: 簡單，真實開車遊戲                                 05/26 16:28
+</span><span class="f6">: 推 Wi11iam: 賽車GAME，電腦只能做到最佳路線但最快還是人腦           05/26 16:41
+</span><span class="f6">: 推 NowLoading: HGame                                               05/26 16:41
+</span><span class="f6">: 推 ray221740718: 爐石戰記                                          05/26 16:48
+</span><span class="f6">: → Yao910336: 三國志                                               05/26 16:51
+</span><span class="f6">: 推 slimu0001: 尾行                                                 05/26 16:51
+</span><span class="f6">: 噓 ukalm: 種人叫什麼？你也是嗎？                                   05/26 17:01
+</span><span class="f6">: → xgodtw: 爐石啊 他媽的超靠賽                                     05/26 17:05
+</span><span class="f6">: 推 wbt77hsy: 機率game                                              05/26 17:07
+</span>hi 又是我 雷公
+
+在youtube 你可以搜尋遊戲名稱
+
+後面在加個TAS 你就能看到它殘虐電腦AI的影片
+
+無傷快速過關 bug過關都難不倒他
+
+他是目前看過最強的”玩家“了
+
+<a href="https://youtu.be/VYwOtfenoBI" target="_blank" rel="nofollow">https://youtu.be/VYwOtfenoBI</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/VYwOtfenoBI" frameborder="0" allowfullscreen></iframe></div></div></div>
+IGAAAAAAAAAAA
+
+
+--
+<span class="f0 hl">posted from</span> <span class="hl">bbs reader hybrid</span><span class="f0 hl"> on my </span><span class="hl">OPPO X9079</span>
+
+--
+<a href="http://i.imgur.com/yC4pBnn.jpg" target="_blank" rel="nofollow">http://i.imgur.com/yC4pBnn.jpg</a> 我老婆
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="yC4pBnn"><a href="//imgur.com/yC4pBnn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.246.226.233
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495790136.A.422.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495790136.A.422.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mahoro</span><span class="f3 push-content">: TAS是指開外掛好嗎</span><span class="push-ipdatetime"> 05/26 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujioqq</span><span class="f3 push-content">: 這明明就是作弊</span><span class="push-ipdatetime"> 05/26 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bitcch</span><span class="f3 push-content">: TSA是玩家用frame time的速度來玩遊戲</span><span class="push-ipdatetime"> 05/26 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 不知道是認真還是反串</span><span class="push-ipdatetime"> 05/26 17:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495790136.A.422.html?cacheKey=2052-1868649&offset=10681&offset-sig=d7e19fa118fd6127a4092a27165c2708f2d6f044" data-longpollurl="/v1/longpoll?id=253796e09918f15aecda17ff05306ceea8ed1377" data-offset="10681"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

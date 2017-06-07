@@ -1,0 +1,176 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495475145.A.BD3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 綠島後年地熱發電 一度電成本降9元 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+新唐人
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 綠島後年地熱發電 一度電成本降9元">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+新唐人
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495475145.A.BD3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495475145.A.BD3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">superflyy (flyy)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 綠島後年地熱發電 一度電成本降9元</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 01:45:43 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+新唐人
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+綠島後年地熱發電 一度電成本降9元
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+【新唐人亞太台 2017 年 05 月 21 日訊】綠島的「朝日溫泉」，即將被利用來發電了！
+因為在夏天觀光旺季，綠島1天會湧進4千人次，但舉凡颱風停電，電力都會不足，為了解
+決供電問題，現在台電將在綠島開發溫泉地熱發電，最快2019年就能供電。
+
+溫泉伴著水蒸氣，不斷從井裡冒出，沸騰的熱水，不但可以煮出好吃的料理，也可以讓民
+眾享受泡湯的樂趣。
+
+這麼豐富的地熱資源，現在被台電看中，要在世界三大溫泉之一的台東綠島「朝日溫泉」
+，開發地熱發電，減少碳排放。
+
+綠島居民 謝先生：「我們綠島有很乾淨的海水，有很新鮮的空氣，現在能用我們綠島海
+底溫泉來替代，我們的火力發電，這是最美的。」
+
+綠島鄉長 鄭文仁：「因為綠島有得天獨厚的一個海底溫泉，從這個月(5月)開始陸續遊客
+相當多，那我也希望政府重視離島。」
+
+聽見綠島要發展地熱發電，當地居民非常支持。因為島上目前只靠1座火力發電，供應全
+島1千多戶的用電量，但每到旅遊旺季，每天都有將近4千名的遊客湧入，用電十分吃緊，
+加上颱風來襲，常常會有停電狀況。如果地熱發電開發成功，綠島夏季缺電問題，就可以
+解決。
+
+台電再生能源處副處長 李文彬：「離島的供電成本很高，那如果能夠利用地熱發電，講
+起來成本會比我們柴油發電的成本還要低，所以可以降低這個供電的成本，對於這個供電
+的可靠性也能夠提高。」
+
+4年前，台電就看見朝日溫泉的潛能，目前正在進行探勘，鑽井試驗，一旦地熱發電運轉
+成功，不但可以提供綠島一半的電力，也將是全國第一個使用地熱發電的地區。1度電的
+成本，也將從13元，降到4元，最快108年(2019年)就可以發電，供給綠島2000萬千瓦的電
+力。
+
+新唐人亞太電視 綜合報導
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.51.144
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495475145.A.BD3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495475145.A.BD3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nivose13</span><span class="f3 push-content">: s=vt</span><span class="push-ipdatetime"> 05/23 01:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UniversalGod</span><span class="f3 push-content">: f=ma</span><span class="push-ipdatetime"> 05/23 01:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blackzero1</span><span class="f3 push-content">: e=月經*月經</span><span class="push-ipdatetime"> 05/23 01:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eris231</span><span class="f3 push-content">: AV=AIR</span><span class="push-ipdatetime"> 05/23 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eehunglun</span><span class="f3 push-content">: 2000萬千瓦?? 有這麼高?</span><span class="push-ipdatetime"> 05/23 06:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 不錯耶，到四元~~</span><span class="push-ipdatetime"> 05/23 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LODAM</span><span class="f3 push-content">: 高成炎的利澤要哭死了，台電根本不想管那邊XD</span><span class="push-ipdatetime"> 05/23 11:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495475145.A.BD3.html?cacheKey=2052-37554144&offset=2768&offset-sig=778070e7ad936fdd5c139460c1267764b8a02600" data-longpollurl="/v1/longpoll?id=decca664ee234e2f200dbbef98a8910e013cacb1" data-offset="2768"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

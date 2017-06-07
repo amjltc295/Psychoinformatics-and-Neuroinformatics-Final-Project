@@ -1,0 +1,180 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496018481.A.715.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 黃士傑：AlphaGo很多棋步我也不懂 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="只覺得AlphaGo就這樣收起來很可惜，
+當初不是說要讓AlphaGo變成一個幫助人類
+在圍棋之路上走得更長長更遠嗎？
+結果現在贏了就打算收起來，
+正確的作法是開個網站給全世界的圍棋好手
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 黃士傑：AlphaGo很多棋步我也不懂">
+<meta property="og:description" content="只覺得AlphaGo就這樣收起來很可惜，
+當初不是說要讓AlphaGo變成一個幫助人類
+在圍棋之路上走得更長長更遠嗎？
+結果現在贏了就打算收起來，
+正確的作法是開個網站給全世界的圍棋好手
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496018481.A.715.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496018481.A.715.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">smallchocho (smallchocho)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 黃士傑：AlphaGo很多棋步我也不懂</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 08:41:16 2017</span></div>
+<span class="f2">※ 引述《leemz ()》之銘言：
+</span><span class="f6">: <a href="http://www.cna.com.tw/news/ahel/201705280197-1.aspx" target="_blank" rel="nofollow">http://www.cna.com.tw/news/ahel/201705280197-1.aspx</a>
+</span><span class="f6">: （中央社台北28日電）谷歌電腦演繹人工智慧（AI）系統AlphaGo幕後推手黃士傑表示，
+</span><span class="f6">: 即使有數據，AlphaGo很多棋步他還是不懂，但他覺得AlphaGo很多棋步很像有「昭和棋聖
+</span><span class="f6">: 」之稱的職業棋士吳清源提倡的下法。
+</span><span class="f6">: AlphaGo的開發商昨天說，AlphaGo完勝世界排名第一的中國大陸職業圍棋棋士柯潔九段後
+</span><span class="f6">: 將急流勇退，不再與人類對弈。
+</span><span class="f6">: 出身台灣的黃士傑日前接受中國大陸圍棋媒體訪問表示，AlphaGo不會說話，很多棋步「
+</span><span class="f6">: 我還是不懂」，即使有數據，還是不懂。看勝率、看數據，還是不知為什麼下在那裡，可
+</span><span class="f6">: 能知道這步好、這步不好，但不知好在哪？職業棋士的專業解說還是很重要。
+</span><span class="f6">: 不過，他說，他覺得AlphaGo很多棋步很像吳清源提倡的下法，只是實戰上的實踐棋手不
+</span><span class="f6">: 多，但由科學力量證明這是好下法，這就是藉AlphaGo自我學習、慢慢進步的力量，探索
+</span><span class="f6">: 圍棋真理。
+</span><span class="f6">: 黃士傑表示，希望AlphaGo做到幫人類探索圍棋的工具與手段，而不是對手。
+</span><span class="f6">: 至於曾代AlphaGo落子對戰韓國職業圍棋棋士李世石九段與柯潔，有業餘實力的黃士傑棋
+</span><span class="f6">: 力是否進步？他笑說，有進步，但實際上可能是自我感覺良好。1060528
+</span>
+只覺得AlphaGo就這樣收起來很可惜，
+當初不是說要讓AlphaGo變成一個幫助人類
+在圍棋之路上走得更長長更遠嗎？
+結果現在贏了就打算收起來，
+正確的作法是開個網站給全世界的圍棋好手
+來挑戰AlphaGo才對棋界有幫助吧？
+
+就算採資格認證（段數跟實績）者才能
+登入約戰也沒關係吧？相信還是有人
+趨之若鶩，反正AlphaGo也不用靠人來
+提升實力了，關掉下棋的學習機制就不會
+被人海影響AlphaGo的學習，
+
+來提升一下人類實力不好嗎？
+
+-----
+Sent from JPTT on my iPhone
+
+--
+<span class="f3 hl">如果香港注定要被中國強姦，那為何不趁這個機會享受一下？</span>
+       <span class="f1 hl">-----鄔維庸 香港香港特別行政區全國人民代表大會代表</span>
+<span class="f3 hl">說台灣是國家中國就會打過來，那幹嘛不裝作自己是中國人多賺一點錢？</span>
+       <span class="f6 hl">-----KMTers  中國國民黨支持者們</span>
+<span class="f5 hl">評審講評：兩者間有9成像，個人覺得87分，等其他評審意見</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.115.243
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496018481.A.715.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496018481.A.715.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sam85sam22</span><span class="f3 push-content">: 等他公布論文，中國的絕藝應該也能達到差不多的水準ㄅ</span><span class="push-ipdatetime"> 05/29 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toomtoom</span><span class="f3 push-content">: 提升人類實力有意義嗎</span><span class="push-ipdatetime"> 05/29 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">legendsleep</span><span class="f3 push-content">: 全球最大圍棋對奕網上線囉</span><span class="push-ipdatetime"> 05/29 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BLABLA007</span><span class="f3 push-content">: 不是已經燒光300億美金?</span><span class="push-ipdatetime"> 05/29 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BLABLA007</span><span class="f3 push-content">: 很明顯估狗打算把成本轉嫁給他人了  不玩圍棋了</span><span class="push-ipdatetime"> 05/29 08:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">great5566</span><span class="f3 push-content">: 我比較想要alphgo分析哪檔股票可以買</span><span class="push-ipdatetime"> 05/29 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">biaw</span><span class="f3 push-content">: 圍棋規則固定 股票規則被操控 你玩不贏莊家的</span><span class="push-ipdatetime"> 05/29 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">visible</span><span class="f3 push-content">: 見好就收</span><span class="push-ipdatetime"> 05/29 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: 股票....美股已經變成機器人大戰很久了你不知道嗎?</span><span class="push-ipdatetime"> 05/29 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: 還有人自鋪專用線路只為了快0.01秒下單</span><span class="push-ipdatetime"> 05/29 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aqualan</span><span class="f3 push-content">: 圍棋規則固定，演算法寫好就是一直做反覆判斷而已，股票</span><span class="push-ipdatetime"> 05/29 09:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aqualan</span><span class="f3 push-content">: 有這麼簡單就好</span><span class="push-ipdatetime"> 05/29 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mightymouse</span><span class="f3 push-content">: 電腦下單再強也強不過內線交易啦</span><span class="push-ipdatetime"> 05/29 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 中國人哦，論文聽聽就好嚕。台灣or日本人，中國人只能吃</span><span class="push-ipdatetime"> 05/29 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 屎了，真的我坦白</span><span class="push-ipdatetime"> 05/29 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyo0325</span><span class="f3 push-content">: 中國人不是聽共產黨最會，會怕觸犯國家智障法律耶</span><span class="push-ipdatetime"> 05/29 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Feketerigo</span><span class="f3 push-content">: 等等  不是說好打星海?</span><span class="push-ipdatetime"> 05/29 09:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akiue</span><span class="f3 push-content">: 有需要的只有世界第一，對其他人只是浪費。</span><span class="push-ipdatetime"> 05/29 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kevincfvgb</span><span class="f3 push-content">: 只會讓一堆人想黑進去</span><span class="push-ipdatetime"> 05/29 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justice0926</span><span class="f3 push-content">: 誰知道是不是中國被屌虐之後就派人買下來了</span><span class="push-ipdatetime"> 05/29 10:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justice0926</span><span class="f3 push-content">: 然後對外說不再跟人類對弈 然後私下不知道幹嘛去</span><span class="push-ipdatetime"> 05/29 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">krousxchen</span><span class="f3 push-content">: 現在Google TPU能量產，以後就到處都有AlphaGO</span><span class="push-ipdatetime"> 05/29 11:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496018481.A.715.html?cacheKey=2052-1723940&offset=4270&offset-sig=3feee825de44fd1b284700ae94f578cbfd71a0fa" data-longpollurl="/v1/longpoll?id=8eea9f3442fd1217abcce96fda10c60c52537b15" data-offset="4270"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+page 20420
+/bbs/Gossiping/M.1495192111.A.B3F.html download to ptt/Gossiping/20420_0.txt, time: 8.240000
+/bbs/Gossiping/M.1495192146.A.4B3.html download to ptt/Gossiping/20420_1.txt, time: 4.020000
+/bbs/Gossiping/M.1495192165.A.7C1.html download to ptt/Gossiping/20420_2.txt, time: 4.560000
+/bbs/Gossiping/M.1495192178.A.16F.html download to ptt/Gossiping/20420_3.txt, time: 4.560000
+/bbs/Gossiping/M.1495192187.A.429.html download to ptt/Gossiping/20420_4.txt, time: 3.190000
+/bbs/Gossiping/M.1495192194.A.D76.html download to ptt/Gossiping/20420_5.txt, time: 4.540000
+/bbs/Gossiping/M.1495192196.A.522.html download to ptt/Gossiping/20420_6.txt, time: 7.550000
+/bbs/Gossiping/M.1495192204.A.79B.html download to ptt/Gossiping/20420_7.txt, time: 6.450000
+/bbs/Gossiping/M.1495192211.A.BD5.html download to ptt/Gossiping/20420_8.txt, time: 5.810000
+/bbs/Gossiping/M.1495192295.A.D81.html download to ptt/Gossiping/20420_9.txt, time: 3.440000
+/bbs/Gossiping/M.1495192338.A.77B.html download to ptt/Gossiping/20420_10.txt, time: 3.670000
+/bbs/Gossiping/M.1495192396.A.4E1.html download to ptt/Gossiping/20420_11.txt, time: 5.080000
+/bbs/Gossiping/M.1495192397.A.E95.html download to ptt/Gossiping/20420_12.txt, time: 4.940000
+/bbs/Gossiping/M.1495192398.A.540.html download to ptt/Gossiping/20420_13.txt, time: 5.770000
+/bbs/Gossiping/M.1495192427.A.ECD.html download to ptt/Gossiping/20420_14.txt, time: 3.530000
+/bbs/Gossiping/M.1495192432.A.D54.html download to ptt/Gossiping/20420_15.txt, time: 4.560000
+/bbs/Gossiping/M.1495192473.A.435.html download to ptt/Gossiping/20420_16.txt, time: 5.890000
+/bbs/Gossiping/M.1495192485.A.175.html download to ptt/Gossiping/20420_17.txt, time: 4.660000
+/bbs/Gossiping/M.1495192583.A.0F4.html download to ptt/Gossiping/20420_18.txt, time: 6.470000
+/bbs/Gossiping/M.1495192618.A.020.html download to ptt/Gossiping/20420_19.txt, time: 4.230000
+page 20419
+/bbs/Gossiping/M.1495191480.A.0B2.html download to ptt/Gossiping/20419_0.txt, time: 4.290000
+/bbs/Gossiping/M.1495191492.A.A8F.html download to ptt/Gossiping/20419_1.txt, time: 5.020000
+/bbs/Gossiping/M.1495191494.A.834.html download to ptt/Gossiping/20419_2.txt, time: 3.710000
+/bbs/Gossiping/M.1495191497.A.58F.html download to ptt/Gossiping/20419_3.txt, time: 3.910000
+/bbs/Gossiping/M.1495191500.A.D82.html download to ptt/Gossiping/20419_4.txt, time: 5.020000
+/bbs/Gossiping/M.1495191543.A.B02.html download to ptt/Gossiping/20419_5.txt, time: 5.030000
+/bbs/Gossiping/M.1495191546.A.B29.html download to ptt/Gossiping/20419_6.txt, time: 5.840000
+/bbs/Gossiping/M.1495191554.A.531.html download to ptt/Gossiping/20419_7.txt, time: 4.720000
+/bbs/Gossiping/M.1495191593.A.370.html download to ptt/Gossiping/20419_8.txt, time: 5.800000
+/bbs/Gossiping/M.1495191628.A.29F.html download to ptt/Gossiping/20419_9.txt, time: 4.430000
+/bbs/Gossiping/M.1495191629.A.D70.html download to ptt/Gossiping/20419_10.txt, time: 6.060000
+/bbs/Gossiping/M.1495191663.A.E14.html download to ptt/Gossiping/20419_11.txt, time: 4.250000
+/bbs/Gossiping/M.1495191692.A.265.html download to ptt/Gossiping/20419_12.txt, time: 4.380000
+/bbs/Gossiping/M.1495191693.A.1AD.html download to ptt/Gossiping/20419_13.txt, time: 9.660000
+/bbs/Gossiping/M.1495191695.A.0ED.html download to ptt/Gossiping/20419_14.txt, time: 8.200000
+/bbs/Gossiping/M.1495191750.A.1F5.html download to ptt/Gossiping/20419_15.txt, time: 4.550000
+/bbs/Gossiping/M.1495191764.A.1B0.htmlTraceback (most recent call last):
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 386, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 382, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/studentyl/anaconda3/lib/python3.6/http/client.py", line 1331, in getresponse
+    response.begin()
+  File "/home/studentyl/anaconda3/lib/python3.6/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/home/studentyl/anaconda3/lib/python3.6/http/client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/adapters.py", line 438, in send
+    timeout=timeout
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/packages/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 386, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 382, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/studentyl/anaconda3/lib/python3.6/http/client.py", line 1331, in getresponse
+    response.begin()
+  File "/home/studentyl/anaconda3/lib/python3.6/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/home/studentyl/anaconda3/lib/python3.6/http/client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+requests.packages.urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./crawler.py", line 177, in <module>
+    main(sys.argv[1:])
+  File "./crawler.py", line 158, in main
+    downloadForum(forumName, startPage, pages)
+  File "./crawler.py", line 140, in downloadForum
+    downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
+  File "./crawler.py", line 82, in downloadPage
+    pageText = getPageText(link)
+  File "./crawler.py", line 13, in getPageText
+    pageText=requests.get(link, cookies={'over18':'1'}).text
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/api.py", line 72, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/sessions.py", line 518, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/sessions.py", line 639, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/studentyl/anaconda3/lib/python3.6/site-packages/requests/adapters.py", line 488, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))

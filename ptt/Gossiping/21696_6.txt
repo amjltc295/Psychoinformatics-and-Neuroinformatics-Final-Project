@@ -1,0 +1,202 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496067588.A.ECB.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 智力和「聰明基因」有關 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自冉時報
+2.完整新聞標題:
+《中英對照讀新聞》Intelligence Linked to ’Smart Genes’ 智力和「聰明基因」有
+關
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 智力和「聰明基因」有關">
+<meta property="og:description" content="1.媒體來源:
+自冉時報
+2.完整新聞標題:
+《中英對照讀新聞》Intelligence Linked to ’Smart Genes’ 智力和「聰明基因」有
+關
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496067588.A.ECB.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496067588.A.ECB.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ed78617 (雞爪)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 智力和「聰明基因」有關</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 22:19:43 2017</span></div>
+1.媒體來源:
+自冉時報
+
+2.完整新聞標題:
+《中英對照讀新聞》Intelligence Linked to ’Smart Genes’ 智力和「聰明基因」有
+關
+
+3.完整新聞內文:
+
+A group of geneticists from around the world have teamed up to analyze 13
+studies with extensive genetic profiles. They also studied IQ test results
+for nearly 80,000 individuals with European descent. Their work was recently
+published in the popular journal Nature Genetics.
+
+一群來自世界各地的遺傳學者，聯手分析13份包含大量遺傳分析的研究。他們也研究近8
+萬名歐洲裔人士的智力測驗結果。他們的著作最近刊登在廣受歡迎的「自然遺傳學」期刊
+。
+
+The research team found 52 gene variants tied to intelligence. 40 of these
+variants were not accounted for in previous studies. The 40 new genes they
+pinpointed were involved in neuron differentiation and the creation of
+synapses that lead to comparably high intelligence.
+
+該研究團隊發現52處基因變異和智力有關。其中40處變異在過去的研究中未曾被記錄。這
+40個新基因被鑑定出涉及神經元分化和突觸的形成，導致相對較高的智力。
+
+Danielle Posthuma reports the findings are important as it is the first time
+a considerable number of genetic effects in human intelligence have been
+pinpointed. Posthuma states that there are thousands of genes involved in
+human intelligence. Yet her team has identified the 52 genes.
+
+丹尼爾．帕斯蒂瑪指出，這些發現的重要性在於它是首次鑑定出相當數量的、影響人類智
+力的基因。帕斯蒂瑪表示，數以千計的基因與人類智力有關。迄今，她的團隊已鑑定出52
+個基因。
+
+Geneticists have estimated that about half of measured intelligence is
+determined by genetics. It is interesting to note that individuals with the
+so-called “smart genes” were much more likely to spend more time in school.
+These individuals were also more likely to be taller and have a larger
+cranium in infancy. They were also more likely to be autistic.
+
+遺傳學者估計，大約一半的智力程度由遺傳學決定。有趣的是，擁有所謂「聰明基因」的
+人更可能花較多時間求學。這些人也更可能較高大、在嬰兒時期擁有較大的頭蓋骨。他們
+也更可能罹患自閉症。
+
+新聞辭典
+
+intelligence：名詞，聰明、智力、情報、情報機關。例句：Betty has intelligence
+beyond the ordinary.（貝蒂聰明過人。）
+
+geneticist：名詞，遺傳學者。例句：The geneticists were interested in
+particular genes.（遺傳學者們對特定基因感興趣。）
+
+neuron：名詞，神經元、神經細胞。例句：Neurons are the basic structural of the
+nervous system .（神經元是神經系統的基本結構。）
+
+4.完整新聞連結 (或短網址):
+<a href="https://tinyurl.com/y7nkdspb" target="_blank" rel="nofollow">https://tinyurl.com/y7nkdspb</a>
+
+5.備註:
+
+不知道最後一句的翻譯得恰不恰當，autistic不一定指的是自閉症，可能只是個性較封閉
+
+--
+　　 　 　 　 　 　  　／￣￣￣ ㄟ        |　　    ｜
+　　　　　　　　　　 ／　　 　    ㄟ      |　　　　｜
+　 　 　 　 　 　 　 |　　 （&gt; )（ &lt;）   ＜  XD　　｜
+　 　 　　　　　　　 |   <span class="f1 hl">///</span> （_人_）     |　　　　｜
+　　　　　　　　　　 |　　　   \__/ !     |　　　　｜
+　 　 　 　　　　　  |　　　　　    ㄟ    \＿＿＿＿|
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.170.63.231
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496067588.A.ECB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496067588.A.ECB.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghgn</span><span class="f3 push-content">: 五樓沒有 真可憐</span><span class="push-ipdatetime"> 05/29 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LoveMoon</span><span class="f3 push-content">: 下一步就是調整者出現了</span><span class="push-ipdatetime"> 05/29 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flux</span><span class="f3 push-content">: 肥宅和肥胖基因有關</span><span class="push-ipdatetime"> 05/29 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kingrichman</span><span class="f3 push-content">:  這部分如果可調整，會產生新人類</span><span class="push-ipdatetime"> 05/29 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alen0303</span><span class="f3 push-content">: 五樓奈米屌基因 幫QQ</span><span class="push-ipdatetime"> 05/29 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kingrichman</span><span class="f3 push-content">:  簡單來講就是人類扮演上帝捏出新的人種</span><span class="push-ipdatetime"> 05/29 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heavensun</span><span class="f3 push-content">: 新人類後來當上統治者 開始種族岐視  把人分4等</span><span class="push-ipdatetime"> 05/29 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roe1986630</span><span class="f3 push-content">: 翻譯:內向邊緣人</span><span class="push-ipdatetime"> 05/29 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">heavensun</span><span class="f3 push-content">: 新人類  正妹  普男  肥宅   不同等禁止通婚</span><span class="push-ipdatetime"> 05/29 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bathilda</span><span class="f3 push-content">: 自閉症、肥胖，好像肥宅</span><span class="push-ipdatetime"> 05/29 22:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">panda816</span><span class="f3 push-content">: 好 幫五樓QQ</span><span class="push-ipdatetime"> 05/29 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkIllusion</span><span class="f3 push-content">: 我只有智障基因</span><span class="push-ipdatetime"> 05/29 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rrr518</span><span class="f3 push-content">: 是自閉沒錯</span><span class="push-ipdatetime"> 05/29 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MinaseNayuki</span><span class="f3 push-content">: 嗆我嗆夠了沒</span><span class="push-ipdatetime"> 05/29 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AUwalker</span><span class="f3 push-content">: 可是我爸媽很聰明，為什麼我只分到智障基因？</span><span class="push-ipdatetime"> 05/30 08:51
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496067588.A.ECB.html?cacheKey=2052-2023527&offset=4614&offset-sig=e6ae37eeed9013f827f3f18a324c3da82635d3d5" data-longpollurl="/v1/longpoll?id=7286d9a619e56b918e3210983c2f17a94245b55a" data-offset="4614"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

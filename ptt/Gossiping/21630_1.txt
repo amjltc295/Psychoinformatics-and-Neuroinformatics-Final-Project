@@ -1,0 +1,183 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496031156.A.BDB.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 國人不敢投資、不敢消費...... 超額儲蓄 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="有另一種看法認為
+超額儲蓄並不是因為民眾的消費和投資偏好改變了
+而是民眾的消費和投資不變或變動不大的情況下 貨幣供給過剩了
+貨幣供給過剩 -&gt; 消費和投資刺激無效 -&gt; GDP增幅跟不上貨幣供給增幅
+-&gt; 貨幣流動速度變慢 -&gt; 超額儲蓄率上升
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 國人不敢投資、不敢消費...... 超額儲蓄">
+<meta property="og:description" content="有另一種看法認為
+超額儲蓄並不是因為民眾的消費和投資偏好改變了
+而是民眾的消費和投資不變或變動不大的情況下 貨幣供給過剩了
+貨幣供給過剩 -&gt; 消費和投資刺激無效 -&gt; GDP增幅跟不上貨幣供給增幅
+-&gt; 貨幣流動速度變慢 -&gt; 超額儲蓄率上升
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496031156.A.BDB.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496031156.A.BDB.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">eb5137d (eb5137b)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 國人不敢投資、不敢消費...... 超額儲蓄</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 12:12:33 2017</span></div>
+<span class="f2">※ 引述《KanoEikou (A MAN B MAN イケMAN)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: 中時電子報
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: 國人不敢投資、不敢消費...... 超額儲蓄率連5年逾10％
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 2017年05月29日 04:10 于國欽／台北報導
+</span><span class="f6">: 行政院主計總處甫完成的預測顯示，今年我國超額儲蓄率連續第五年逾一成、高達13.0％
+</span><span class="f6">: ，五年累計超額儲蓄近11兆，顯示閒置資金過多，若不引導至民間投資、公共建設，而使
+</span><span class="f6">: 其流入資本市場炒房、炒股，將不利台灣經濟穩定發展。
+</span><span class="f6">: 主計總處官員表示，國民可支配所得減掉消費就是儲蓄，由於消費動能趨弱，今年國民儲
+</span><span class="f6">: 蓄毛額仍近6兆元，占國民所得毛額達33.6％（儲蓄率），這已是連續第四年逾33％。
+</span><span class="f6">: 若儲蓄能被引導到民間投資、公共建設，則有利於國家經濟的發展，但近年由於投資一直
+</span><span class="f6">: 起不來，併計民間投資、公共建設的投資毛額估計今年也僅3.6兆元，投資率僅20.6％，
+</span><span class="f6">: 較金融海嘯前的23％以上，明顯下滑。
+</span><span class="f6">: 國發會表示，近年台灣投資率確實偏低，甚至低於日、韓、港、星，也因此政府所提出的
+</span><span class="f6">: 八年八千億的前瞻基礎建設，正是希望藉此激勵民間投資。
+</span><span class="f6">: 然而，主計總處甫完成的這份預測，雖然上修今年民間投資成長率至1.95％，但是這一成
+</span><span class="f6">: 長率依舊是近五年最低，龐大的儲蓄依舊難以導入投資，因此「超額儲蓄」高達2.3兆元
+</span><span class="f6">: ，這已經是連續第四年超過2兆，近五年累計的超額儲蓄已將近11兆，國內閒置資金快速
+</span><span class="f6">: 增加。
+</span><span class="f6">: 主計總處官員表示，這些閒置的資金如果沒有導入投資、建設，極可能會流入房市、股市
+</span><span class="f6">: 炒高房價、股價，對台灣經濟帶來更大的風險。
+</span><span class="f6">: 國發會主委陳添枝對此也表示，國內金融機構一大堆爛頭寸想貸出去，而風力發電等綠色
+</span><span class="f6">: 產業也想向銀行貸款進行投資，但礙於銀行無法評估風電等綠色產業的投資風險，使得儲
+</span><span class="f6">: 蓄難以導入投資，這個結構上的問題使得超額儲蓄持續升高。
+</span><span class="f6">: 陳添枝表示，為解決這個結構問題，金管會正與銀行業者洽談規劃「綠色金融保證機制」
+</span><span class="f6">: ，這有點類似中小企業信保基金，但不是由政府拿錢出來百分之百承擔風險，未來這個機
+</span><span class="f6">: 制一旦建立，錢就可以導入投資，如此一來即可以紓解閒置資金過多的問題。
+</span><span class="f6">: (工商時報)
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="http://www.chinatimes.com/newspapers/20170529000696-260202" target="_blank" rel="nofollow">http://www.chinatimes.com/newspapers/20170529000696-260202</a>
+</span><span class="f6">: 5.備註:
+</span><span class="f6">: 所以政府在做的 就是知道閒錢很多 卻又不作為 讓房市和股市不斷被炒作
+</span>有另一種看法認為
+超額儲蓄並不是因為民眾的消費和投資偏好改變了
+而是民眾的消費和投資不變或變動不大的情況下 貨幣供給過剩了
+
+貨幣供給過剩 -&gt; 消費和投資刺激無效 -&gt; GDP增幅跟不上貨幣供給增幅
+-&gt; 貨幣流動速度變慢 -&gt; 超額儲蓄率上升
+
+其中貨幣流動速度的公式 V = PY/M   PY=GDP=國內生產毛額  M=貨幣供給總量
+PY增加個 2%， M卻增加10%， 那 V 當然是下修啊
+
+從這個角度來看，超額儲蓄完全不是民眾不投資不消費，
+而是貨幣超發的速度快過經濟成長太多，
+或者說，用超發貨幣來影響(刺激)消費、投資的嘗試失敗了。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.16.29
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496031156.A.BDB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496031156.A.BDB.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: Good 好解釋</span><span class="push-ipdatetime"> 05/29 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 對，就是貨幣過多</span><span class="push-ipdatetime"> 05/29 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EXIONG</span><span class="f3 push-content">: 簡單說有錢人沒地方花錢</span><span class="push-ipdatetime"> 05/29 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Allen2013</span><span class="f3 push-content">: 推認真</span><span class="push-ipdatetime"> 05/29 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 你這樣電資的看不懂</span><span class="push-ipdatetime"> 05/29 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzro</span><span class="f3 push-content">: 超發貨幣通常是政府發包工程給企業嗎?</span><span class="push-ipdatetime"> 05/29 12:15
+</span></div>無關。你說的是財政政策。貨幣供給是貨幣政策在管制的。
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzro</span><span class="f3 push-content">: 然後信仰著涓滴效應 結果企業都把錢自己收著這樣</span><span class="push-ipdatetime"> 05/29 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 就綁樁計畫r</span><span class="push-ipdatetime"> 05/29 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 利率太低，</span><span class="push-ipdatetime"> 05/29 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seiya2000</span><span class="f3 push-content">: 舉債發軍公教退休金吧</span><span class="push-ipdatetime"> 05/29 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerrylin</span><span class="f3 push-content">: 超發貨幣的就是央行啊  強迫台幣貶值</span><span class="push-ipdatetime"> 05/29 12:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">robert7066</span><span class="f3 push-content">: 根本是沒錢消費吧平行時空？</span><span class="push-ipdatetime"> 05/29 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alphaz</span><span class="f3 push-content">: DPP隨便喊喊幾千億就蹦出來惹</span><span class="push-ipdatetime"> 05/29 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wadeabc</span><span class="f3 push-content">: 贊同，你說得沒錯</span><span class="push-ipdatetime"> 05/29 12:25
+</span></div><span class="f2">※ 編輯: eb5137d (111.240.16.29), 05/29/2017 12:37:03
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">violetking</span><span class="f3 push-content">: 消費和投資減縮也牽扯到預期收入的不穩定~~~</span><span class="push-ipdatetime"> 05/29 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 全世界都在寬鬆貨幣</span><span class="push-ipdatetime"> 05/29 13:03
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496031156.A.BDB.html?cacheKey=2052-1842328&offset=4401&offset-sig=ee2f6d4cb8e0e34ad36ecc60bfc0e10e7adcd152" data-longpollurl="/v1/longpoll?id=c7e99a0a38b72b95463bf305545830a649b942a8" data-offset="4401"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

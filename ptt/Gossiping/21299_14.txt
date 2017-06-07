@@ -1,0 +1,218 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495791355.A.DC3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 家用主機已亡？數據顯示遊戲主機恐將減 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="媒體來源:流動日報
+　家用主機至今已推出第八世代，包含了 Wii U、PS4、Xbox One 等主機，不過遊戲主機
+的時代或許沒有想像中樂觀。因為如果我們把時間往前推移，就會發現即使 PS4、Xbox
+One 銷售之初仍引起了不小的迴響，但是卻很難回到過去家用主機的輝煌時代
+　根據 finder.com.au 的統計，第八世代的家用主機銷量在 2016 年就已經快速下滑，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 家用主機已亡？數據顯示遊戲主機恐將減">
+<meta property="og:description" content="媒體來源:流動日報
+　家用主機至今已推出第八世代，包含了 Wii U、PS4、Xbox One 等主機，不過遊戲主機
+的時代或許沒有想像中樂觀。因為如果我們把時間往前推移，就會發現即使 PS4、Xbox
+One 銷售之初仍引起了不小的迴響，但是卻很難回到過去家用主機的輝煌時代
+　根據 finder.com.au 的統計，第八世代的家用主機銷量在 2016 年就已經快速下滑，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495791355.A.DC3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495791355.A.DC3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kernalooo (0.8奈米)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 家用主機已亡？數據顯示遊戲主機恐將減</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 17:35:38 2017</span></div>
+媒體來源:流動日報
+
+　家用主機至今已推出第八世代，包含了 Wii U、PS4、Xbox One 等主機，不過遊戲主機
+的時代或許沒有想像中樂觀。因為如果我們把時間往前推移，就會發現即使 PS4、Xbox
+One 銷售之初仍引起了不小的迴響，但是卻很難回到過去家用主機的輝煌時代
+
+　根據 finder.com.au 的統計，第八世代的家用主機銷量在 2016 年就已經快速下滑，
+相比過去的第七世代主機而言，可以說是消亡地非常快速，顯示玩家對於家用主機的熱衷
+程度不如以往。
+
+就第七世代而言，Wii 在 2009 年的銷量才逐漸下滑，而 PS4 與 Xbox 360 的銷量雖然
+沒有 Wii 來得驚人，但銷售量至 2011 年都還有所成長。
+
+將兩個世代的統計結合之後，更可發現家用主機逐漸沒落的趨勢。儘管在第八世代，PS4
+可說是締造了讓許多人跌破眼鏡的紀錄，但在其銷售成績最佳的 2015 年，也未超過
+Wii 曾經寫下的紀錄。並且在 2016 年開始，所有的第八世代遊戲主機銷售量就開始下滑
+
+而掌上遊戲機也面臨著同樣的危機，甚至更為慘淡。從現在的 PS Vita 以及 3DS 來看，
+完全無法和過去 PSP 與 DS 的時代相比擬。
+
+該網站根據第八世代主機的銷售成績做出預測，倘若第八世代的家用主機銷量在未來持續
+以這樣的趨勢下滑的話，那麼最後第八世代主機的總銷量可能會落在 1 億 4,600 萬台左
+右。比起第七世代，大約少了 1 億 2,800 萬台。
+
+從第八世代主機的數據，不難看出為何大多數分析家會認為第八世代將是最後一個遊戲主
+機世代。不過家用主機現在也正在開創全新的市場，例如 PS VR，而任天堂則打出了結合
+家用主機與掌上遊戲機特點的 Nintendo Switch。至於能不能挽救家用主機的衰敗頹勢？
+就只有時間能告訴我們答案了。
+
+<a href="https://goo.gl/UiSdSI" target="_blank" rel="nofollow">https://goo.gl/UiSdSI</a>
+
+
+
+
+finder.com.au 這個網站的公信度?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.8.227.90
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495791355.A.DC3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495791355.A.DC3.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tw3002</span><span class="f3 push-content">: 根本笑話</span><span class="push-ipdatetime"> 05/26 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uhmeiouramu</span><span class="f3 push-content">: 網路太發達</span><span class="push-ipdatetime"> 05/26 17:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 10年前就在喊島了</span><span class="push-ipdatetime"> 05/26 17:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: PS3末期就這樣講了啦</span><span class="push-ipdatetime"> 05/26 17:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tyrande</span><span class="f3 push-content">: 我已將13年沒玩過家用主機</span><span class="push-ipdatetime"> 05/26 17:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 每年也都有人說PC要完 喊幾年了</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sonota</span><span class="f3 push-content">: 就部份市場被手機吃了 還是有它的市場只是變小了</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 放屁</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 媽的MHXX要在SWITCH上出，害我還買3DS 幹</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 有手機幹嘛還要掌上遊戲機</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asiaking5566</span><span class="f3 push-content">: 以前要買WII+PS+兇盒  現在買一台PS就夠了</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">VL</span><span class="f3 push-content">: 幹話一堆</span><span class="push-ipdatetime"> 05/26 17:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 桌機永垂不朽</span><span class="push-ipdatetime"> 05/26 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">miss32</span><span class="f3 push-content">: 用大電視打電動就是爽爽der</span><span class="push-ipdatetime"> 05/26 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 幹看錯了，不是桌機</span><span class="push-ipdatetime"> 05/26 17:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oibmk</span><span class="f3 push-content">: 廢文報導</span><span class="push-ipdatetime"> 05/26 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wsxujmyhn</span><span class="f3 push-content">: 記者無腦 不要講幹話</span><span class="push-ipdatetime"> 05/26 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Nikon610</span><span class="f3 push-content">: 講多久了</span><span class="push-ipdatetime"> 05/26 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">syldsk</span><span class="f3 push-content">: 2011買得到PS4喔幹</span><span class="push-ipdatetime"> 05/26 17:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aq981334</span><span class="f3 push-content">: Switch未來是主流 可以當掌機也能當遊戲主機</span><span class="push-ipdatetime"> 05/26 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">magician5566</span><span class="f3 push-content">: 你才亡 你全家都亡啦</span><span class="push-ipdatetime"> 05/26 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Nicehb</span><span class="f3 push-content">: 那\公家單位的桌機要汰換根本天方夜譚</span><span class="push-ipdatetime"> 05/26 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxxzxcvb</span><span class="f3 push-content">: 有獨佔和盜版少要消失很難 單機遊戲主力都是家用</span><span class="push-ipdatetime"> 05/26 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sdd5426</span><span class="f3 push-content">: 一定島</span><span class="push-ipdatetime"> 05/26 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: 規模慢慢變小是一定的趨勢，掌機已經被手機打敗了</span><span class="push-ipdatetime"> 05/26 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Diaw01</span><span class="f3 push-content">: 開放盜版阿</span><span class="push-ipdatetime"> 05/26 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mn435</span><span class="f3 push-content">: 電視還活著主機就不會亡了</span><span class="push-ipdatetime"> 05/26 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: VITA應該是SONY末代掌機，只剩任任在撐</span><span class="push-ipdatetime"> 05/26 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">w1989666</span><span class="f3 push-content">: 其實現在因為手機出來很多人用電腦更少 要玩遊戲好一點</span><span class="push-ipdatetime"> 05/26 17:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w1989666</span><span class="f3 push-content">: 不如花不到10000買主機就好</span><span class="push-ipdatetime"> 05/26 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xex999</span><span class="f3 push-content">: xx要出在ns上了</span><span class="push-ipdatetime"> 05/26 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">torukumato</span><span class="f3 push-content">: 機車 到現在switch在日本也是大缺貨</span><span class="push-ipdatetime"> 05/26 17:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nzxc</span><span class="f3 push-content">: 噓智障記者 恐你老木</span><span class="push-ipdatetime"> 05/26 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frfreedom</span><span class="f3 push-content">: 真是笑話 家用主機一直是遊戲界的領頭羊，沒有家機貢獻</span><span class="push-ipdatetime"> 05/26 18:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frfreedom</span><span class="f3 push-content">: 的營收根本沒有廠商願意開發3A級遊戲</span><span class="push-ipdatetime"> 05/26 18:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leafall</span><span class="f3 push-content">: 讓我想起以前NB出現時,一直喊PC會消失的鳥話</span><span class="push-ipdatetime"> 05/26 18:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leafall</span><span class="f3 push-content">: 平板出現,NB會消失,現在PC還活得好好的,更不用說NB了</span><span class="push-ipdatetime"> 05/26 18:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alwen</span><span class="f3 push-content">: 比較危險的是掌機，被家機跟手機夾殺，定位太模糊</span><span class="push-ipdatetime"> 05/26 18:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 不知道為啥要拿wii這種垃圾出來比</span><span class="push-ipdatetime"> 05/26 18:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 今天他家遊戲如果跨平台根本剩死粉會買而已</span><span class="push-ipdatetime"> 05/26 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">murosaora</span><span class="f3 push-content">: 笑話 這家報社還比較可能先滅亡</span><span class="push-ipdatetime"> 05/26 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alan0204</span><span class="f3 push-content">: 喊家用主機滅亡喊了十年 啊是滅亡了沒啊</span><span class="push-ipdatetime"> 05/26 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alan0204</span><span class="f3 push-content">: 流動日報還真沒聽過 是哪家小報的糞報導</span><span class="push-ipdatetime"> 05/26 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 暴雪在出魔獸世界時就說過家用主機滅亡論了，魔獸世界出</span><span class="push-ipdatetime"> 05/26 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 幾年了？</span><span class="push-ipdatetime"> 05/26 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alan0204</span><span class="f3 push-content">: gta5家機版賣多好知道嗎 我猜小報記者大概連gta是什麼</span><span class="push-ipdatetime"> 05/26 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alan0204</span><span class="f3 push-content">: 都不知道</span><span class="push-ipdatetime"> 05/26 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">esp0122</span><span class="f3 push-content">: 亡的是遊戲 不是遊戲機</span><span class="push-ipdatetime"> 05/26 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikepopkimo</span><span class="f3 push-content">: 我笑了，一堆人狂換新顯卡跟買ps4 pro</span><span class="push-ipdatetime"> 05/26 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YZUndead</span><span class="f3 push-content">: sream!</span><span class="push-ipdatetime"> 05/26 18:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YZUndead</span><span class="f3 push-content">: steam打錯</span><span class="push-ipdatetime"> 05/26 18:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 現在我只玩手機的遊戲了 那根本就已玩不完了</span><span class="push-ipdatetime"> 05/26 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goenitzx</span><span class="f3 push-content">: PC遊戲才是王道啦</span><span class="push-ipdatetime"> 05/26 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">roson1208</span><span class="f3 push-content">: 電玩就是要有大螢幕4k高畫質環繞音響其他都是低頭自虐</span><span class="push-ipdatetime"> 05/26 19:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudin</span><span class="f3 push-content">: 手機遊戲真的自虐</span><span class="push-ipdatetime"> 05/26 20:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iWatch5566</span><span class="f3 push-content">: 這是什麼不知名媒體？</span><span class="push-ipdatetime"> 05/26 20:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kid566</span><span class="f3 push-content">: 恐</span><span class="push-ipdatetime"> 05/26 20:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">linfon00</span><span class="f3 push-content">: 這記者的智商有量測過？</span><span class="push-ipdatetime"> 05/26 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m4tl6</span><span class="f3 push-content">: 盜版遊戲被壓制當然會如此…想想ps3以前的年代</span><span class="push-ipdatetime"> 05/26 22:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rogerlarger</span><span class="f3 push-content">: ps4超好玩的，血源詛咒超好玩的</span><span class="push-ipdatetime"> 05/27 00:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jerico</span><span class="f3 push-content">: 鬼扯，最好家用主機會死</span><span class="push-ipdatetime"> 05/27 10:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerico</span><span class="f3 push-content">: 這是因為盜版減少的關係。有人就是不玩要錢的</span><span class="push-ipdatetime"> 05/27 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerico</span><span class="f3 push-content">: 會玩家用主機的，很少很少會轉手遊，差太遠了！</span><span class="push-ipdatetime"> 05/27 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kernalooo</span><span class="f3 push-content">: 還好有網路技術的加持，盜版問題可以解決，但也因為有</span><span class="push-ipdatetime"> 05/27 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kernalooo</span><span class="f3 push-content">: 網路，造成很多人跑去玩課金遊戲，這種情況比盜版問題</span><span class="push-ipdatetime"> 05/27 12:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kernalooo</span><span class="f3 push-content">: 還嚴重</span><span class="push-ipdatetime"> 05/27 12:21
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495791355.A.DC3.html?cacheKey=2052-1868751&offset=8412&offset-sig=f61fd00599a1a841a6d742071b93ab765f5dded9" data-longpollurl="/v1/longpoll?id=27bd0d67ff8a8b6ad5b8aa6c7ea21d844fc6659e" data-offset="8412"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

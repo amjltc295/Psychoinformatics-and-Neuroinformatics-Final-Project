@@ -1,0 +1,192 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495861592.A.4F5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Fw: [新聞] 華碩組織改革 主管年輕化、成立電競事業 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="作者: Daron309 (大榮蟲) 看板: Tech_Job
+標題: [新聞] 華碩組織改革 主管年輕化、成立電競事業
+時間: Fri May 26 19:39:04 2017
+http://news.ltn.com.tw/news/business/breakingnews/2080434
+華碩組織改革 主管年輕化、成立電競事業群
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Fw: [新聞] 華碩組織改革 主管年輕化、成立電競事業">
+<meta property="og:description" content="作者: Daron309 (大榮蟲) 看板: Tech_Job
+標題: [新聞] 華碩組織改革 主管年輕化、成立電競事業
+時間: Fri May 26 19:39:04 2017
+http://news.ltn.com.tw/news/business/breakingnews/2080434
+華碩組織改革 主管年輕化、成立電競事業群
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495861592.A.4F5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495861592.A.4F5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">MaligB (穿低腰束褲吃蓮霧)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Fw: [新聞] 華碩組織改革 主管年輕化、成立電競事業</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 13:06:31 2017</span></div>
+<span class="f2">※ [本文轉錄自 <a href="/bbs/Tech_Job/M.1495798748.A.901.html" target="_blank" rel="nofollow">Tech_Job 看板 #1PA1FSa1</a> ]
+</span>
+作者: Daron309 (大榮蟲) 看板: Tech_Job
+標題: [新聞] 華碩組織改革 主管年輕化、成立電競事業
+時間: Fri May 26 19:39:04 2017
+
+<a href="http://news.ltn.com.tw/news/business/breakingnews/2080434" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/business/breakingnews/2080434</a>
+
+華碩組織改革 主管年輕化、成立電競事業群
+
+〔記者陳柔蓁／台北報導〕電腦大廠華碩（2357）今日宣佈啟動組織改革，以Time to
+Volume（創新產品量產）為重要營運目標，部門用事業群劃分，並新成立電競、行動運算
+、電腦三大事業群強化品牌定位，各事業群也啟用年輕主管管理。
+
+華碩董事長施崇棠規劃，由執行長沈振來佈達，即日將內部相關部門整合至各產品事業群
+。在系統產品事業群之中，將新成立電競電腦事業群（Gaming BU），由張仰光擔任事業
+群負責人，行動運算產品事業群（Mobile BU）負責人由張凱舜擔任，電腦事業群（PC
+BU）則續由許先越負責。
+
+華碩認為，透過此次整合內部組織團隊，可達成產品創新及強化品牌定位的營運策略。據
+悉，後續將晉用更多年輕人才擔任要職。
+
+(自由時報 2017/05/26)
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.162.88.220
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Tech_Job/M.1495798748.A.901.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Tech_Job/M.1495798748.A.901.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aidsnichael</span><span class="f3 push-content">: 哈哈哈哈哈哈</span><span class="push-ipdatetime"> 05/26 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cplusplus426</span><span class="f3 push-content">: 年輕化  那老人去哪</span><span class="push-ipdatetime"> 05/26 20:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">feng77</span><span class="f3 push-content">: 原來5, 60的叫年輕人</span><span class="push-ipdatetime"> 05/26 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fg008kimo</span><span class="f3 push-content">: 難怪50歲都能自稱女孩</span><span class="push-ipdatetime"> 05/26 20:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yyy8167</span><span class="f3 push-content">: 以卵擊石</span><span class="push-ipdatetime"> 05/26 20:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">penguinlove</span><span class="f3 push-content">: 台灣現在真的很可悲 可悲的不是年輕人 可悲的是老人</span><span class="push-ipdatetime"> 05/26 20:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">penguinlove</span><span class="f3 push-content">: 不知道自己很老了</span><span class="push-ipdatetime"> 05/26 20:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james0146</span><span class="f3 push-content">: 60歲應該還年輕吧</span><span class="push-ipdatetime"> 05/26 20:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shengforum</span><span class="f3 push-content">: 該給的加班費發一發 一個狠凹年青人的老人公司</span><span class="push-ipdatetime"> 05/26 20:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nemies</span><span class="f3 push-content">: 哈哈，因為生主管可以順理成章變責任制不給加班費</span><span class="push-ipdatetime"> 05/26 20:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nemies</span><span class="f3 push-content">: 然後進來三個月每個年輕人都是主管</span><span class="push-ipdatetime"> 05/26 20:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rogergon</span><span class="f3 push-content">: 跟Morris 比都是小孩</span><span class="push-ipdatetime"> 05/26 20:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">penguinlove</span><span class="f3 push-content">: 為什麼大家都誤解責任制不用給加班費 不是這樣規定</span><span class="push-ipdatetime"> 05/26 20:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">penguinlove</span><span class="f3 push-content">: 啊</span><span class="push-ipdatetime"> 05/26 20:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Roderickey</span><span class="f3 push-content">: 核實給加班費 eps會變多少?</span><span class="push-ipdatetime"> 05/26 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Roderickey</span><span class="f3 push-content">: 2017 Q1 +4.92 如果發加班費會變負的嗎?</span><span class="push-ipdatetime"> 05/26 20:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lucky1lk</span><span class="f3 push-content">: 高層年輕化 沒錯阿</span><span class="push-ipdatetime"> 05/26 20:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 給加班費的話年中年終應該會歸零XD</span><span class="push-ipdatetime"> 05/26 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whitedanube</span><span class="f3 push-content">: <a href="http://imgur.com/a/cLkDk" target="_blank" rel="nofollow">http://imgur.com/a/cLkDk</a></span><span class="push-ipdatetime"> 05/26 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GiantChicken</span><span class="f3 push-content">: 哈哈哈哈 這並不好笑嘛</span><span class="push-ipdatetime"> 05/26 21:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">y331752001</span><span class="f3 push-content">: 5,60算年輕唷 那之前是多老</span><span class="push-ipdatetime"> 05/26 21:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miler22020</span><span class="f3 push-content">: 聽說人事凍結 是真的嗎？</span><span class="push-ipdatetime"> 05/26 21:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">osuv</span><span class="f3 push-content">: 哈哈哈哈哈 我笑了</span><span class="push-ipdatetime"> 05/26 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h2526bc</span><span class="f3 push-content">: 連路人都聽不下去</span><span class="push-ipdatetime"> 05/26 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whipzj</span><span class="f3 push-content">: 重新定義50歲還年輕的概念</span><span class="push-ipdatetime"> 05/26 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yolasiku</span><span class="f3 push-content">: 華獸2019關渡新大樓落成 照慣例新大樓營運崩盤</span><span class="push-ipdatetime"> 05/26 23:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">godzillabox</span><span class="f3 push-content">: 用年輕人當主管，決策權還是在老人手上，笑死</span><span class="push-ipdatetime"> 05/26 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptta</span><span class="f3 push-content">: 太誇張了吧，五十歲了還硬要說年輕化</span><span class="push-ipdatetime"> 05/26 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samtony</span><span class="f3 push-content">: 先給加班費 再來談改革啦</span><span class="push-ipdatetime"> 05/27 00:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yamax</span><span class="f3 push-content">: PC拼來拼去,大風吹弄新聞就成功?看微星先有產品還先有組織!</span><span class="push-ipdatetime"> 05/27 00:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ruthertw</span><span class="f3 push-content">: 60歲&#34;年輕人&#34;:大家抓好了,A牌要起飛了!!!</span><span class="push-ipdatetime"> 05/27 00:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yawg</span><span class="f3 push-content">: 50歲年輕人？那請他們娶50歲的年輕妹好了</span><span class="push-ipdatetime"> 05/27 02:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lantimes</span><span class="f3 push-content">: 哥哥</span><span class="push-ipdatetime"> 05/27 05:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taretare</span><span class="f3 push-content">: 跟40歲女孩兒的概念有87%像</span><span class="push-ipdatetime"> 05/27 06:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k0030</span><span class="f3 push-content">: 65歲退休，60歲算年輕？那要幾歲退休？</span><span class="push-ipdatetime"> 05/27 09:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">QQ308</span><span class="f3 push-content">: 台女跟台老不能嘴好嗎</span><span class="push-ipdatetime"> 05/27 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">garnettooo</span><span class="f3 push-content">: 有種加班費先給再說啦 裡面一堆吃白食不做事</span><span class="push-ipdatetime"> 05/27 09:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doranako</span><span class="f3 push-content">: 現在才想跟msi打電競這塊嗎</span><span class="push-ipdatetime"> 05/27 10:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">redpapa</span><span class="f3 push-content">: 系統廠談創新？是不是自己公司的人都沒搞清楚自己公司的</span><span class="push-ipdatetime"> 05/27 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">redpapa</span><span class="f3 push-content">: 定位啊</span><span class="push-ipdatetime"> 05/27 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">redpapa</span><span class="f3 push-content">: 決策權在老人手上XDDD找年輕人當主管根本替死鬼呵呵</span><span class="push-ipdatetime"> 05/27 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rocky5566</span><span class="f3 push-content">: 好奇zenbo zenwatch這種產品真的有人會買嗎</span><span class="push-ipdatetime"> 05/27 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">y331752001</span><span class="f3 push-content">: 50歲年輕 那不要再對3，40求職者年齡歧視</span><span class="push-ipdatetime"> 05/27 12:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckp4131025</span><span class="f3 push-content">: zenwatch賣太差，已經要砍了</span><span class="push-ipdatetime"> 05/27 12:42
+</span></div>
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc)
+</span><span class="f2">※ 轉錄者: MaligB (36.229.130.79), 05/27/2017 13:06:31
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smartid</span><span class="f3 push-content">: 要把老人Fire的意思？</span><span class="push-ipdatetime"> 05/27 13:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sa080691</span><span class="f3 push-content">: 六十歲的年輕人要起飛啦</span><span class="push-ipdatetime"> 05/27 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">madden</span><span class="f3 push-content">: 佑在唬爛了</span><span class="push-ipdatetime"> 05/27 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">b19900127</span><span class="f3 push-content">: 創意市場，35歲都快死老頭了，還找50的</span><span class="push-ipdatetime"> 05/27 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 上面有老人幫你扛責任還不好ㄏㄏ</span><span class="push-ipdatetime"> 05/27 15:23
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495861592.A.4F5.html?cacheKey=2052-2032384&offset=6221&offset-sig=a515c0c6890ea310075c6927a311a826208b661a" data-longpollurl="/v1/longpoll?id=973ac13e427b42d967e3ddbcc088a0706c37abd0" data-offset="6221"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

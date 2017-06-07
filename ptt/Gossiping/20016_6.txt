@@ -1,0 +1,204 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494925794.A.310.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 柯P遇到蛋就完蛋」? 北藝流標2次難善後 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+風傳媒
+2.完整新聞標題:
+「柯P遇到蛋就完蛋」? 北藝流標2次難善後 分包採購問題多
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 柯P遇到蛋就完蛋」? 北藝流標2次難善後">
+<meta property="og:description" content="1.媒體來源:
+風傳媒
+2.完整新聞標題:
+「柯P遇到蛋就完蛋」? 北藝流標2次難善後 分包採購問題多
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494925794.A.310.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494925794.A.310.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wuayi (很恐怖不要問)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 柯P遇到蛋就完蛋」? 北藝流標2次難善後</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 17:09:51 2017</span></div>
+1.媒體來源:
+風傳媒
+
+
+2.完整新聞標題:
+「柯P遇到蛋就完蛋」? 北藝流標2次難善後 分包採購問題多
+
+
+3.完整新聞內文:
+台北市議會教育文化委員會16日上午視察持續無法動工的台北藝術中心。該建案原定於20
+16年底完工，卻因主體施工廠商理成營造破產倒閉，又經歷2次對外招標而「流標」收場
+。<span class="f3 hl">目前，約30%的外牆建築工程，市府分由捷運局與工務局以「分標發包」且「限制性招
+</span><span class="f3 hl">標」辦理。然而，市議員紛紛批「分包」的問題多，屆時各包整合起來一定會有介面銜接
+</span><span class="f3 hl">的問題，讓廠商的責任不明，也變相引誘廠分食政府標案。</span>另有市府人員猜測，廠商講好
+一致行動不要投標，意在施壓政府提高標金，增加接標的有利籌碼。
+
+原定於2016年底要完工的北藝工程，由文化局主辦，捷運局東工處代辦工程，該工程分成
+3個部分，對外發包，其一，連續壁、基樁工程，費用1億1588萬，由幸邑營造施做，目前
+已完工。其二，理成營造施做北藝主體工程及細部裝修，費用38億3304萬元，現卻因理成
+破產倒閉，市政府於2016年11月14日與其終止契約，並扣押履約保證金3億元，理成應負
+責的工程進度為74%，複雜的S型玻璃外牆也完成9成安裝；其三，由亞翔工程施工的劇場
+、舞台、燈光、音響等設備，費用11億3744萬元，目前施工進度為50%，持續施工中。
+
+<span class="f3 hl">理成倒閉，後續沒有廠商投票</span>
+
+捷運局東工處表示，目前，因理成倒閉，由柯文哲主持相關因應會議，且由副市長林欽榮
+召開後續招標策略會議，<span class="f3 hl">提出以一標發包辦理，如流標2次，才啟動「分標發包」，後經
+</span><span class="f3 hl">柯文哲拍板，以「限制性招標」的邀標及「同質採購最低價標」來做。</span>
+
+然而，<span class="f3 hl">東工處2次以18億邀請市府評估信譽、財務、實績良好的18家廠商施做，2次都沒有
+</span><span class="f3 hl">任何一家廠商來投標，以流標結尾。</span>文化局對此表示，在開標前，由於是採「最低標」處
+理，因此，文化局僅能尋訪營建材料的當前市價，為廠商估算成本與合理利潤，得出底價
+為18億的數字，並不能事先以18億詢問廠商是否有意願投標，以免洩漏底價，但2次流標
+收場，因此，接下來將啟動「分標」方式辦理。
+
+<span class="f3 hl">對於沒有廠商願意投標的真正理由，有市府人員私下懷疑，恐是廠商間私下協議一致行動
+</span><span class="f3 hl">，不參與投標，希望能一次又一次提高政府開價，或增加有利的得標條件</span>，因此，市政府
+為破除此業界陋習，才選擇以「分包」的方式，嘗試破除業界的潛規則。
+
+<span class="f3 hl">李慶元:分包責任歸屬難釐清</span>
+
+對於東工處有意以「分包」作為後續處理，<span class="f3 hl">市議員李慶元提出質疑，他認為，分包將產生
+</span><span class="f3 hl">很多問題，包括A廠商施做的甲，與B廠商施做的乙，A與B所做的甲與乙，未來都需要介面
+</span><span class="f3 hl">銜接與整合，若因此產生問題，則責任歸屬很難釐清，懷疑市政府在協助廠商尋找灰色地
+</span><span class="f3 hl">帶。</span>此外，市府事先擬好的「先統包2次，再走分包」策略，是在引導廠商前2次統包都不
+要來投標，最後再來「分食」政府標案，且風險也可以分攤，不贊成分包處理。
+
+<span class="f3 hl">市議員汪志冰則笑稱，市長柯文哲的命格就是遇到「蛋」就「完蛋」，不論是大巨蛋，還
+</span><span class="f3 hl">是北藝中心的小蛋。</span>她表示，議員關心的是，北藝究竟在理成營造倒閉後重新招標，需要
+多出多少預算？工程品質會不會受影響？預估時程還要延宕多久？文化局長鍾永豐今日僅
+表示，希望能在原定的預算範圍內處理完畢，不要走追加預算，但現在還沒法給出確切的
+答案，仍需視現行分包的市場訪價來評估標金多寡。
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="http://www.storm.mg/article/267221" target="_blank" rel="nofollow">http://www.storm.mg/article/267221</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 128.199.249.246
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494925794.A.310.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494925794.A.310.html</a>
+</span><span class="f2">※ 編輯: wuayi (128.199.249.246), 05/16/2017 17:13:44
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bob120400</span><span class="f3 push-content">: 未看先猜風傳媒</span><span class="push-ipdatetime"> 05/16 17:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AAQQUUAA</span><span class="f3 push-content">: 啊不就郝冰冰那半顆水煮蛋+芝麻豆腐</span><span class="push-ipdatetime"> 05/16 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 北七才去標這個工程</span><span class="push-ipdatetime"> 05/16 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 沒上色喔</span><span class="push-ipdatetime"> 05/16 17:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 不素用切的 偶們洗翻...砸蛋</span><span class="push-ipdatetime"> 05/16 17:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sc77</span><span class="f3 push-content">: 呵呵,看看柯P踩前人埋的雷就好得意啊</span><span class="push-ipdatetime"> 05/16 17:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 不知道都是誰留下來的屎尿？</span><span class="push-ipdatetime"> 05/16 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nakayamayyt</span><span class="f3 push-content">: 有補上色呢  真是認真</span><span class="push-ipdatetime"> 05/16 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghostforever</span><span class="f3 push-content">: 要叫新廠商來收爛攤還不想增加預算 科科</span><span class="push-ipdatetime"> 05/16 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kathypig</span><span class="f3 push-content">: 柯粉集資來標，救救主子</span><span class="push-ipdatetime"> 05/16 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iSad5566</span><span class="f3 push-content">: 柯P真的很可憐 明明就郝天兵和馬狗的爛攤子 卻是柯P被罵</span><span class="push-ipdatetime"> 05/16 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">elacon</span><span class="f3 push-content">: 汪志冰真是北投士林智商在後半段的人選出的寶呀！</span><span class="push-ipdatetime"> 05/16 17:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">konichiwaman</span><span class="f3 push-content">: 不是靠爸留下來的爛攤子嗎</span><span class="push-ipdatetime"> 05/16 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saisai34</span><span class="f3 push-content">: 重新設計比較實在,找比較靠譜能實作的設計</span><span class="push-ipdatetime"> 05/16 17:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">YCLLZDBZM</span><span class="f3 push-content">: 噓 標題。</span><span class="push-ipdatetime"> 05/16 17:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gotfree</span><span class="f3 push-content">: 那顆貢丸真的有夠醜</span><span class="push-ipdatetime"> 05/16 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taiwan1789</span><span class="f3 push-content">: 郝大兵留下的懶蛋 郝粉無視</span><span class="push-ipdatetime"> 05/16 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orinsinal</span><span class="f3 push-content">: 柯粉快來幫柯屁推責 都是郝的問題！</span><span class="push-ipdatetime"> 05/16 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zebra7</span><span class="f3 push-content">: 汪痔冰是神經病嗎？這種咖當利痿</span><span class="push-ipdatetime"> 05/16 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">apexclimber</span><span class="f3 push-content">: 柯屁 一事無成</span><span class="push-ipdatetime"> 05/16 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">capirex</span><span class="f3 push-content">: 親KMT的建商跑了 KMT還敢廢話</span><span class="push-ipdatetime"> 05/16 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qoo74119</span><span class="f3 push-content">: 不知道是誰搞出來的！柯p無奈呀</span><span class="push-ipdatetime"> 05/16 17:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 9.2 : 現在市長是誰就是誰的錯啦</span><span class="push-ipdatetime"> 05/16 17:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">berice152233</span><span class="f3 push-content">: 李慶元講得還算是一個屁，王志冰說的話連個屁都不</span><span class="push-ipdatetime"> 05/16 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">berice152233</span><span class="f3 push-content">: 是</span><span class="push-ipdatetime"> 05/16 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sleepsnow</span><span class="f3 push-content">: 無言</span><span class="push-ipdatetime"> 05/16 20:09
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494925794.A.310.html?cacheKey=2052-37980280&offset=5961&offset-sig=535bf5b495f7058a3c0fc9d7811854a11050c934" data-longpollurl="/v1/longpoll?id=7156d85e58fcf7e91b2f91bf8ce5e2675172bc05" data-offset="5961"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

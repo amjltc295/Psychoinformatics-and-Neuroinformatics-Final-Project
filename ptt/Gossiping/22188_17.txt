@@ -1,0 +1,231 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496391962.A.FF6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 總統：前瞻建設是針對未來20年發展所設計 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:奇摩
+2.完整新聞標題:總統：前瞻建設是針對未來20年發展所設計
+3.完整新聞內文:
+朱蒲青/綜合報導
+民報2017年6月2日 上午 11:59
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 總統：前瞻建設是針對未來20年發展所設計">
+<meta property="og:description" content="1.媒體來源:奇摩
+2.完整新聞標題:總統：前瞻建設是針對未來20年發展所設計
+3.完整新聞內文:
+朱蒲青/綜合報導
+民報2017年6月2日 上午 11:59
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496391962.A.FF6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496391962.A.FF6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">JAL96 (JAL96)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 總統：前瞻建設是針對未來20年發展所設計</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 16:25:59 2017</span></div>
+1.媒體來源:奇摩
+
+
+2.完整新聞標題:總統：前瞻建設是針對未來20年發展所設計
+
+
+3.完整新聞內文:
+
+朱蒲青/綜合報導
+民報2017年6月2日 上午 11:59
+
+總統蔡英文今天上午出席「台中樂成宮」揭匾儀式，她向在場人士保證，前瞻基礎建設是
+針對未來二十年，台灣每一個地方的需求，以及國家整體的發展性，做出來的設計。無論
+是建設的內容、財務的規劃，都是面面俱到。
+
+總統說，今天真歡喜，來到咱旱溪樂成宮。有一句話說：「旱溪媽祖蔭外庄」，意思只要
+心誠、慈悲，不論你是什麼人，不論你是庄內還是庄外的信眾，媽祖都會照顧大家。政府
+也是一樣。政府不可以偏心，每個地方，每一個人，都要照顧到。所以，我們才來推動「
+前瞻基礎建設」，讓全台灣每個縣市，能有公平的發展。
+
+她舉例說，台中的山手線、會展中心，還有捷運綠線延伸到彰化等等建設，都是為了讓中
+台灣更繁華，年輕人好找頭路，老人生活更加舒適。
+
+在計畫推出之前，中央單位已經做過研究，也跟台中市長林佳龍共同討論規劃。所以，「
+我們每一塊錢，都會發揮好幾塊的效果。」現在景氣慢慢變好，我們的腳步就要更快，來
+投資台灣，把希望留給子孫、把建設留給未來。
+
+她強調，台灣正在進步，政府投入的改革，經過一年的時間，不管是年金、長照2.0、不
+當黨產的處理、經濟的轉型、綠色能源的推動，都會慢慢看到成果。
+
+
+4.完整新聞連結 (或短網址):<a href="https://tw.news.yahoo.com/20-035908687.html" target="_blank" rel="nofollow">https://tw.news.yahoo.com/20-035908687.html</a>
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.12.157
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496391962.A.FF6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496391962.A.FF6.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oldchang1205</span><span class="f3 push-content">: 鬼扯</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hugh509</span><span class="f3 push-content">: WHAT???</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">elec1141</span><span class="f3 push-content">: 吃屎啦幹 連現在的事都做不好了</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flavorBZ</span><span class="f3 push-content">: 20年收入所設計</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 前瞻就前瞻 基礎就基礎 綁在一起？</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lamerbleue</span><span class="f3 push-content">: 放屁</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Freeven</span><span class="f3 push-content">: 沒錯啊，撈完可以爽至少二十年</span><span class="push-ipdatetime"> 06/02 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flavorBZ</span><span class="f3 push-content">: 三年不開張,開張吃三年的概念</span><span class="push-ipdatetime"> 06/02 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sayt5943</span><span class="f3 push-content">: 馬郝16年國民黨執政 貧民窟保證</span><span class="push-ipdatetime"> 06/02 16:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qsxwdc</span><span class="f3 push-content">: 意思是可吃20年，餓8年嚇到了！</span><span class="push-ipdatetime"> 06/02 16:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 你可以規劃100年後的設計,但問題是中間99年要怎麼過</span><span class="push-ipdatetime"> 06/02 16:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 現在人頂多等你4~8年</span><span class="push-ipdatetime"> 06/02 16:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Alphaz</span><span class="f3 push-content">: 文組只會講空話 之後再投文組剁ㄐㄐ</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ej2000</span><span class="f3 push-content">: 2025非核家園  2016+20=2036前瞻家園  XDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coollfd</span><span class="f3 push-content">: 翻譯：DPP可以吃飽20年</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 看不出來，人口成長才有用，如果是老齡化社會做那些</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 有個屁用</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 台中除了KMT還有人反對嗎？</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 大批軌道24小時營運，夜間保養都要用電，吹冷氣都快不夠</span><span class="push-ipdatetime"> 06/02 16:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sligiho</span><span class="f3 push-content">: 了，電在哪？</span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 把20年份一次貪完？</span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bigstone</span><span class="f3 push-content">: 翻譯：DPP可以吃飽20年</span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 20年前有tesla電動車?有iphone APP? 現在就在替20年後</span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 要做20年計畫可以,但是人民在問你近年計畫呢?</span><span class="push-ipdatetime"> 06/02 16:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 規劃，三小白癡想法?當科技都不會進步的?</span><span class="push-ipdatetime"> 06/02 16:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 要看中長期建設可以比照看看阿共的x5計畫</span><span class="push-ipdatetime"> 06/02 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 樓上提到的也是很有道哩,現在科技變化太快,前瞻計畫有</span><span class="push-ipdatetime"> 06/02 16:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 辦法搭上車嗎</span><span class="push-ipdatetime"> 06/02 16:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 現在蔡要搞的是阿共80年代要做的事</span><span class="push-ipdatetime"> 06/02 16:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 一個細節都沒有.首長隨便要求的計畫.說可以用到20年???</span><span class="push-ipdatetime"> 06/02 16:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ej2000</span><span class="f3 push-content">: 翻譯蒟蒻: 選舉前瞻計畫  $$綁樁20年</span><span class="push-ipdatetime"> 06/02 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 大舉修建基礎建設對現在的台灣不見得是好事</span><span class="push-ipdatetime"> 06/02 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ej2000</span><span class="f3 push-content">: #KMT不倒 台灣不會好</span><span class="push-ipdatetime"> 06/02 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 台灣基礎建設其實很夠了</span><span class="push-ipdatetime"> 06/02 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 搞不好10年後就有更方便的交通工具，結果因為10年前的</span><span class="push-ipdatetime"> 06/02 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 但是政府只會用同一招,經濟不好就舉債大福建設</span><span class="push-ipdatetime"> 06/02 16:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 前瞻計畫，軌道都已經蓋一半，只好繼續用傳統交通工具</span><span class="push-ipdatetime"> 06/02 16:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 人口擴張期間是可以,而且當時基件很缺乏,現在人口直直</span><span class="push-ipdatetime"> 06/02 16:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 落,廠廠</span><span class="push-ipdatetime"> 06/02 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dctmax</span><span class="f3 push-content">: 語畢</span><span class="push-ipdatetime"> 06/02 16:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 結果20年後軌道蓋好了，可是當地人口老化只剩一堆老人</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 不會啦,真的有八成就會被停了,軌道建設大概就前幾個衰</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">welen</span><span class="f3 push-content">: 亂吹牛, 有錢亂花不會先把綠電做起來喔</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 小準備賠錢</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 那軌道是有屁用</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dostey</span><span class="f3 push-content">: 馬英九8年愛台12花掉 3兆9千億 v.s. 蔡英文8年0.8兆</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dostey</span><span class="f3 push-content">: 馬英九8年愛台12花掉 3兆9千億 v.s. 蔡英文8年0.8兆</span><span class="push-ipdatetime"> 06/02 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 建議小英可以先在藍八縣作軌道建設XD</span><span class="push-ipdatetime"> 06/02 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">: 20年後的政府自己小心, 到是收了爛攤子還要給吱障黨消</span><span class="push-ipdatetime"> 06/02 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">: 費</span><span class="push-ipdatetime"> 06/02 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dostey</span><span class="f3 push-content">: 到底快4兆的錢花去哪裡了????</span><span class="push-ipdatetime"> 06/02 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samuelcdf</span><span class="f3 push-content">:                       到時</span><span class="push-ipdatetime"> 06/02 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sayt5943</span><span class="f3 push-content">: 支那崩潰</span><span class="push-ipdatetime"> 06/02 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">matto</span><span class="f3 push-content">: 亂花錢</span><span class="push-ipdatetime"> 06/02 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 愛台12花在哪我不清楚,你可以去查,至少軌道這個根本廠</span><span class="push-ipdatetime"> 06/02 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttrackhwang</span><span class="f3 push-content">: 只會鬥爭</span><span class="push-ipdatetime"> 06/02 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dahlia7357</span><span class="f3 push-content">: 機捷也是前瞻 瞻了快二十年才好</span><span class="push-ipdatetime"> 06/02 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LaughPoint</span><span class="f3 push-content">: 台灣未來20年 妳年就想透了 厲害 厲害!!</span><span class="push-ipdatetime"> 06/02 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wayhowhown</span><span class="f3 push-content">: 台灣正在進步？？？！</span><span class="push-ipdatetime"> 06/02 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rockyegg</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 06/02 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qlinyuhn</span><span class="f3 push-content">: 老人有遠見別說笑了   一堆癡肥落後垃圾</span><span class="push-ipdatetime"> 06/02 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mayjan</span><span class="f3 push-content">: 狗前擔</span><span class="push-ipdatetime"> 06/02 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">weiyumystery</span><span class="f3 push-content">: 8800/20 一年可以吃四百億 母豬會不會吃到吐啊 一</span><span class="push-ipdatetime"> 06/02 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">weiyumystery</span><span class="f3 push-content">: 天超過一億</span><span class="push-ipdatetime"> 06/02 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sean3378</span><span class="f3 push-content">: fk</span><span class="push-ipdatetime"> 06/02 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 嘛，都說2025年要非核家園了</span><span class="push-ipdatetime"> 06/02 16:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shineline</span><span class="f3 push-content">: 當初愛台12項建設之帳怎麼靠杯靠木的 吱帳就是貪汙啦</span><span class="push-ipdatetime"> 06/02 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aitela</span><span class="f3 push-content">: 所以竹縣一毛都沒有的意思是？</span><span class="push-ipdatetime"> 06/02 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aitela</span><span class="f3 push-content">: 幹你媽的垃圾！柯P快選總統啦！台灣需要會做事的人</span><span class="push-ipdatetime"> 06/02 17:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qsxwdc</span><span class="f3 push-content">: 幹?餓八年 你們大聲什麼啦！</span><span class="push-ipdatetime"> 06/02 17:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Myfun</span><span class="f3 push-content">: <a href="/bbs/Gossiping/M.1496234775.A.E4F.html" target="_blank" rel="nofollow">#1PBhiNvF</a>  巨網資訊好棒棒!!朱立倫好棒棒!!</span><span class="push-ipdatetime"> 06/02 17:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s10910chris</span><span class="f3 push-content">: 房子在炒上去連十年都沒有</span><span class="push-ipdatetime"> 06/02 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">heidy8</span><span class="f3 push-content">: 前瞻呵呵 一半以上的經費都在蓋軌道</span><span class="push-ipdatetime"> 06/02 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yangweiisi</span><span class="f3 push-content">: 除了空心想不到什麼詞可以形容空心蔡了</span><span class="push-ipdatetime"> 06/02 17:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PttWaHaha</span><span class="f3 push-content">: 顏色對！ 給推！</span><span class="push-ipdatetime"> 06/02 17:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tai0913</span><span class="f3 push-content">: 哎</span><span class="push-ipdatetime"> 06/02 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">scoop</span><span class="f3 push-content">: 蓋完就花20年了</span><span class="push-ipdatetime"> 06/02 18:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerrychuang</span><span class="f3 push-content">: 屁啦,10年後就自駕車了,誰跟你玩軌道,好好學習新知識</span><span class="push-ipdatetime"> 06/02 19:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LisivoNCTU</span><span class="f3 push-content">: 她說沒錯，過了錢沾她可以吃二十年的法國菜</span><span class="push-ipdatetime"> 06/02 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 先上車後補票</span><span class="push-ipdatetime"> 06/03 14:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496391962.A.FF6.html?cacheKey=2052-58234&offset=9577&offset-sig=bcb34e4d2d2d94f90b0bc3b7be2c5af7f0d65cc1" data-longpollurl="/v1/longpoll?id=d0f7c20cc19f9605fab4a8093d75a63e62d22744" data-offset="9577"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

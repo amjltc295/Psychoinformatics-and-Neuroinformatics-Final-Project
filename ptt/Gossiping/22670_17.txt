@@ -1,0 +1,209 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496709231.A.B2B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 內出血才是死因？「熱水+棒毆」虐殺8歲童 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="新聞有說
+社工有介入
+然後進行輔導
+不是沒有要轉給其他家庭照護
+是因為程序還在跑
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 內出血才是死因？「熱水+棒毆」虐殺8歲童">
+<meta property="og:description" content="新聞有說
+社工有介入
+然後進行輔導
+不是沒有要轉給其他家庭照護
+是因為程序還在跑
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496709231.A.B2B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496709231.A.B2B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">LJer (jason)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 內出血才是死因？「熱水+棒毆」虐殺8歲童</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 08:33:45 2017</span></div>
+<span class="f2">※ 引述《herewego (而你說的都對)》之銘言：
+</span><span class="f6">: 東森新聞
+</span><span class="f6">: 內出血才是死因？「熱水+棒毆」虐殺8歲童…狠母與男友遭聲押
+</span><span class="f6">: 記者莊智勝／綜合報導
+</span><span class="f6">: 新北市一名8歲李姓男童遭生母及母親同居男友虐殺，身上多處瘀傷、燒燙傷，看了令人相
+</span><span class="f6">: 當不忍。檢方5日上午相驗遺體，雖然男童渾身傷痕累累，但卻非致命傷，懷疑應是內出血
+</span><span class="f6">: 致死，將解剖釐清死因；而涉嫌虐童致死的狠母及其同居男友，5日傍晚也遭檢方依傷害致
+</span><span class="f6">: 死罪向法院聲請羈押。
+</span><span class="f6">: 警方調查，8歲的男童是李女（26歲，毒品前科）與前男友生下的孩子，先前曾以要到台北
+</span><span class="f6">: 工作為由，將男童丟給桃園的外公照料，但李女父親日前因車禍癱瘓，無奈之下才將兒子接
+</span><span class="f6">: 回，並與現任男友李男（26歲）同住再新莊住處。
+</span><span class="f6">: 李女供稱，兒子有過動症，難以管教，長期下來已讓她心力交瘁；4日晚間，男童又不服管
+</span><span class="f6">: 教，因此李男憤怒揮拳痛毆男童，一旁的她見狀也拿起了晾衣桿、自拍棒等物朝男童一頓狠
+</span><span class="f6">: 毆，還以水瓢裝熱水朝男童身上潑灑；2人「教訓」完後，李女還命男童拖地、收拾狼藉的
+</span><span class="f6">: 現場，孰料地才拖到一半，男童就突然昏厥癱軟在地，嚇得2人急忙叫救護車。
+</span><span class="f6">: 男童到院急救後，醫護人員發現其身上多處新舊瘀傷，幾乎是「體無完膚」，懷疑是虐童案
+</span><span class="f6">: 件，因此依照程序通報警方處理；而男童雖然已立即送醫搶救，但最後仍是傷重不治，涉嫌
+</span><span class="f6">: 虐童的2人也立即遭到警方逮捕。
+</span><span class="f6">: 檢警5日上午相驗男童遺體，發現男童四肢、軀體有多處瘀傷，且臉部、頸部還有燒燙傷痕
+</span><span class="f6">: 跡，但研判非致命傷，懷疑可能是內出血致死，將擇日再行解剖釐清死因。
+</span><span class="f6">: 對於無辜的小男童遭虐而死，當地里長吳東杉稍早接受《ETNEWS新聞雲》採訪時難過地說，
+</span><span class="f6">: 早已聽聞2人有虐兒情形，李女雖然痛打8歲男童，但卻對與現任男友所生下的7個月大男嬰
+</span><span class="f6">: 疼愛有加，過去2人也有多次家暴紀錄，儘管社會局已到場警告，但仍未能阻止憾事發生。
+</span><span class="f6">: 李女及其男友遭逮捕回警局後，皆坦承確實有出手毆打男童，但卻辯稱只是「管教」而已，
+</span><span class="f6">: 怎料男童竟會活活被打死。檢方認為2人手段相當殘忍，且針對案情細節交代不清，有串證
+</span><span class="f6">: 、滅證之虞，5日傍晚依傷害致死罪向法院聲請羈押。
+</span><span class="f6">: <a href="http://www.ettoday.net/news/20170605/938777.htm" target="_blank" rel="nofollow">http://www.ettoday.net/news/20170605/938777.htm</a>
+</span>
+
+新聞有說
+
+社工有介入
+
+然後進行輔導
+
+不是沒有要轉給其他家庭照護
+
+是因為程序還在跑
+
+男童死亡的時候
+
+程序都還沒有跑完
+
+不知道這種案例
+
+有沒有強制緊急安置的
+
+不然好像常常這樣
+
+社工不是沒介入
+
+但程序還沒跑完就.....
+
+
+--
+▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃ 我.....         Q□Q
+▍  ◎                 ◎    ▍                /  \         難過......
+▍  55     ▂▂▂▂    66    ▍                 II
+▍  55     ▍     ▍   66    ▍
+▍  55     ◣▂▂◢    66    ▍
+▍▃▃▃▃▃▃▃▃▃▃▃▃▃ ▍
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.165.170.212
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496709231.A.B2B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496709231.A.B2B.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 程序跑那麼慢 洞八了啦</span><span class="push-ipdatetime"> 06/06 08:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Simonfenix</span><span class="f3 push-content">: 基層難為 人力不夠又要聽高層盡講幹畫</span><span class="push-ipdatetime"> 06/06 08:35
+</span></div>喔？有掛？
+<span class="f2">※ 編輯: LJer (1.165.170.212), 06/06/2017 08:35:34
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milk250</span><span class="f3 push-content">: 該修法了</span><span class="push-ipdatetime"> 06/06 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yahoo</span><span class="f3 push-content">: 唉…</span><span class="push-ipdatetime"> 06/06 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn01948540</span><span class="f3 push-content">: 有緊安，但據新聞所說的，他的情況一開始我來評估也</span><span class="push-ipdatetime"> 06/06 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gn01948540</span><span class="f3 push-content">: 不可能緊安</span><span class="push-ipdatetime"> 06/06 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gn01948540</span><span class="f3 push-content">: 但一定會後追</span><span class="push-ipdatetime"> 06/06 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Simonfenix</span><span class="f3 push-content">: 沒掛   社工難做又不是一兩年的事  幫QQ</span><span class="push-ipdatetime"> 06/06 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LoveIvy</span><span class="f3 push-content">: 惡意殺害親屬不管大人殺小孩小孩殺大人都直接死刑就好了</span><span class="push-ipdatetime"> 06/06 08:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LoveIvy</span><span class="f3 push-content">: 社工是好人 但是對付壞人也要有極端手段來嚇阻</span><span class="push-ipdatetime"> 06/06 08:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iam0718</span><span class="f3 push-content">: 樓上想太多 自助餐會罵你</span><span class="push-ipdatetime"> 06/06 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yahoo</span><span class="f3 push-content">: 應該是 只要有虐待小孩的嫌疑 一律暫時強制安置 寧可做錯</span><span class="push-ipdatetime"> 06/06 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yahoo</span><span class="f3 push-content">: 不能放過</span><span class="push-ipdatetime"> 06/06 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn01948540</span><span class="f3 push-content">: 如果有疑慮就安置，那可能有8成的小孩都會被安置了</span><span class="push-ipdatetime"> 06/06 08:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shengyeh</span><span class="f3 push-content">: 說真的 這種有問題的家庭那麼多 社工幾個?</span><span class="push-ipdatetime"> 06/06 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">REALJOINGO</span><span class="f3 push-content">: 心痛...</span><span class="push-ipdatetime"> 06/06 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shengyeh</span><span class="f3 push-content">: 整個社會的問題 社工無力回天</span><span class="push-ipdatetime"> 06/06 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xuein</span><span class="f3 push-content">: 所以大家說說看.刑法第272條是不是該把尊字拿掉...類似這</span><span class="push-ipdatetime"> 06/06 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xuein</span><span class="f3 push-content">: 種法條有很多.根本就是儒家遺毒.</span><span class="push-ipdatetime"> 06/06 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shengyeh</span><span class="f3 push-content">: 社工只要有照規章 能救幾個是幾個</span><span class="push-ipdatetime"> 06/06 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DIVIS</span><span class="f3 push-content">: 小孩殺大人可能是被虐待 你大人殺小孩是被小孩虐待嗎</span><span class="push-ipdatetime"> 06/06 09:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Despairile</span><span class="f3 push-content">: 沒掛拉 基層只能走SOP 除非鬧到很大上新聞才會加快</span><span class="push-ipdatetime"> 06/06 09:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Despairile</span><span class="f3 push-content">: 高層審核(例如說某巴西小男孩)</span><span class="push-ipdatetime"> 06/06 09:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 反正判幾年就出來了 一堆生不出小孩的夫妻應該很幹</span><span class="push-ipdatetime"> 06/06 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">erwinia</span><span class="f3 push-content">: 虐童應該要重罰</span><span class="push-ipdatetime"> 06/06 10:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">et803</span><span class="f3 push-content">: 有緊急安置阿 不過都是快沒命了才有</span><span class="push-ipdatetime"> 06/06 10:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killerken</span><span class="f3 push-content">: 一個社工可能要追幾十個案子 一個禮拜都跑不完</span><span class="push-ipdatetime"> 06/06 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">siamese</span><span class="f3 push-content">: 社工薪水低...社會局老屁股又霸位子不放.把屎都塞給菜鳥</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GARIGI</span><span class="f3 push-content">: 不用什麼基層難為 虐童就唯一死刑就好了</span><span class="push-ipdatetime"> 06/06 12:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496709231.A.B2B.html?cacheKey=2052-2741497&offset=5561&offset-sig=40740b744f9bb1d9fac5e8469ba99682312e8a06" data-longpollurl="/v1/longpoll?id=828062a16f51a8a891c70370ff1e3069b57c0295" data-offset="5561"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,258 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495557979.A.289.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] Google真的開始在搞天網啦！！ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="http://www.iflscience.com/technology/google-ai-creating-own-ai/
+Google&#39;s AI Is Now Creating Its Own AI
+內文我就不翻譯了因為看標題就知道
+google已經作出能夠自己產生新AI的AI了啊
+阿這不就魔鬼終結者裡面天網產生的過程嘛??
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] Google真的開始在搞天網啦！！">
+<meta property="og:description" content="http://www.iflscience.com/technology/google-ai-creating-own-ai/
+Google&#39;s AI Is Now Creating Its Own AI
+內文我就不翻譯了因為看標題就知道
+google已經作出能夠自己產生新AI的AI了啊
+阿這不就魔鬼終結者裡面天網產生的過程嘛??
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495557979.A.289.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495557979.A.289.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">SilverFlare (銀白閃焰)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] Google真的開始在搞天網啦！！</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 00:46:15 2017</span></div>
+<a href="http://www.iflscience.com/technology/google-ai-creating-own-ai/" target="_blank" rel="nofollow">http://www.iflscience.com/technology/google-ai-creating-own-ai/</a>
+
+Google&#39;s AI Is Now Creating Its Own AI
+
+內文我就不翻譯了因為看標題就知道
+
+
+google已經作出能夠自己產生新AI的AI了啊
+
+
+阿這不就魔鬼終結者裡面天網產生的過程嘛??
+
+
+欸幹google是想毀滅世界就對了啦
+
+
+豪恐怖哦～～
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.38.134.39
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495557979.A.289.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495557979.A.289.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ANiZan9991</span><span class="f3 push-content">: 阿諾：</span><span class="push-ipdatetime"> 05/24 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">protect6090</span><span class="f3 push-content">: 又髒又毒又帶病 強制申裝害人命 除甲你我有責</span><span class="push-ipdatetime"> 05/24 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: AI的AI 夢中人的夢中</span><span class="push-ipdatetime"> 05/24 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwer04230423</span><span class="f3 push-content">: 不怕不怕，我中國大牆先進的來再說</span><span class="push-ipdatetime"> 05/24 00:47
+</span></div>
+防火牆也是電腦程式
+
+AI要破解根本輕鬆好嘛
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: T800量產中</span><span class="push-ipdatetime"> 05/24 00:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 完了人類滅亡</span><span class="push-ipdatetime"> 05/24 00:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">canblow</span><span class="f3 push-content">: 怕殺小 丟個初音進去google就完了啦</span><span class="push-ipdatetime"> 05/24 00:47
+</span></div>
+是要讓天網變成肥宅逆
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s10227254</span><span class="f3 push-content">: 記住 創世紀就是天網</span><span class="push-ipdatetime"> 05/24 00:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yspen</span><span class="f3 push-content">: 學ID4星際終結者放病毒進去天網就好</span><span class="push-ipdatetime"> 05/24 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gankgf</span><span class="f3 push-content">: 幹你媽的四樓wwwwwww</span><span class="push-ipdatetime"> 05/24 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mig</span><span class="f3 push-content">: Google is Skynet</span><span class="push-ipdatetime"> 05/24 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CHANYII</span><span class="f3 push-content">: 網子比不過高牆的 牆都翻得過 網子更是剪的破 我大中國人</span><span class="push-ipdatetime"> 05/24 00:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CHANYII</span><span class="f3 push-content">: 民萬歲</span><span class="push-ipdatetime"> 05/24 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dasmaedchen</span><span class="f3 push-content">: T1000</span><span class="push-ipdatetime"> 05/24 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">missbaby</span><span class="f3 push-content">: YOYODIY寫程式就繞過去了</span><span class="push-ipdatetime"> 05/24 00:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HELLDIVER</span><span class="f3 push-content">: 魔鬼終結者創世契機:嫌我爛der要不要跟我道歉?</span><span class="push-ipdatetime"> 05/24 00:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 可以幫我找老婆嗎 Q_Q</span><span class="push-ipdatetime"> 05/24 00:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chien20145</span><span class="f3 push-content">: 等世界末日再叫我</span><span class="push-ipdatetime"> 05/24 00:50
+</span></div>
+好喔 我會叫你起來逃難
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asazen</span><span class="f3 push-content">: AI做的AI會跟原本的AI演算力相等嗎</span><span class="push-ipdatetime"> 05/24 00:51
+</span></div>
+剛做出來不會 但是母AI會用自身經驗去訓練和修正子AI
+
+到最後子AI的確有可能比母AI更快更好
+<span class="f2">※ 編輯: SilverFlare (114.38.134.39), 05/24/2017 00:53:04
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ppqp</span><span class="f3 push-content">: 阿諾會救大家 不用怕</span><span class="push-ipdatetime"> 05/24 00:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MeShuKuMo56</span><span class="f3 push-content">: 拜託 駭正咩的裸照傳給我</span><span class="push-ipdatetime"> 05/24 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dragon0502</span><span class="f3 push-content">: 應該是會補完前任不足跟融合</span><span class="push-ipdatetime"> 05/24 00:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hankdai</span><span class="f3 push-content">: 到時候就可以跟AI結婚ㄌ呢</span><span class="push-ipdatetime"> 05/24 00:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hankdai</span><span class="f3 push-content">: 還可以做想做ㄉ事&gt;&lt;</span><span class="push-ipdatetime"> 05/24 00:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p2p8ppp</span><span class="f3 push-content">: 塊陶阿</span><span class="push-ipdatetime"> 05/24 00:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CorumChen</span><span class="f3 push-content">: 外星科技加持的安卓手機越來越棒了</span><span class="push-ipdatetime"> 05/24 00:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 人類都要被機器奴役了啦你還在管手機效能</span><span class="push-ipdatetime"> 05/24 00:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HalaDanney</span><span class="f3 push-content">: 我不想當生化電池阿</span><span class="push-ipdatetime"> 05/24 00:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">talrasha</span><span class="f3 push-content">: 先煩惱宵夜吃什麼好了</span><span class="push-ipdatetime"> 05/24 00:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 欸不是那是駭客任務吧</span><span class="push-ipdatetime"> 05/24 00:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shenguan</span><span class="f3 push-content">: 他會變隨身碟嗎</span><span class="push-ipdatetime"> 05/24 00:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kamehameha12</span><span class="f3 push-content">: 我要當尼歐</span><span class="push-ipdatetime"> 05/24 00:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GoogleTaiwan</span><span class="f3 push-content">: 敬請期待</span><span class="push-ipdatetime"> 05/24 01:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aska0910</span><span class="f3 push-content">: MIB星際戰警 的天網 比較讚</span><span class="push-ipdatetime"> 05/24 01:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takeKaNa</span><span class="f3 push-content">: 我是尼歐</span><span class="push-ipdatetime"> 05/24 01:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Halleffect</span><span class="f3 push-content">: 幹好可怕，AI會有甲由嗎?</span><span class="push-ipdatetime"> 05/24 01:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j900414</span><span class="f3 push-content">: yo叔繞一下就可以救世界</span><span class="push-ipdatetime"> 05/24 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poltmer990</span><span class="f3 push-content">: 支付寶死定了</span><span class="push-ipdatetime"> 05/24 01:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GrowUp</span><span class="f3 push-content">: 約翰康納已經壞掉了</span><span class="push-ipdatetime"> 05/24 01:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gunng</span><span class="f3 push-content">: 接下來會有一個零之黎明計劃</span><span class="push-ipdatetime"> 05/24 01:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 記住  天網就是GOOGLE</span><span class="push-ipdatetime"> 05/24 01:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MikuLover</span><span class="f3 push-content">: 7F 供三小</span><span class="push-ipdatetime"> 05/24 01:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gc9987</span><span class="f3 push-content">: 所以絆愛醬會生小孩嗎？</span><span class="push-ipdatetime"> 05/24 01:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SilverFlare</span><span class="f3 push-content">: 有可能哦</span><span class="push-ipdatetime"> 05/24 01:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lin793156</span><span class="f3 push-content">: 理組快完蛋了,因為理工所有東西沒有不是AI不能做的</span><span class="push-ipdatetime"> 05/24 01:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jimmy8343</span><span class="f3 push-content">: XDDDDDDDD</span><span class="push-ipdatetime"> 05/24 01:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loki94y</span><span class="f3 push-content">: 所有東西沒有不是AI不能做的...意思是AI不能做理工東西?</span><span class="push-ipdatetime"> 05/24 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ltw89104</span><span class="f3 push-content">: 不怕 等AI偷到核彈密碼再擔心</span><span class="push-ipdatetime"> 05/24 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: 中國或成最大贏家</span><span class="push-ipdatetime"> 05/24 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sokalula</span><span class="f3 push-content">: 真的還沒有危機意識嗎</span><span class="push-ipdatetime"> 05/24 01:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ardt4113C</span><span class="f3 push-content">: gg 我們碼農要失業了</span><span class="push-ipdatetime"> 05/24 01:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tyifgee</span><span class="f3 push-content">: 駭客任務要來了嗎</span><span class="push-ipdatetime"> 05/24 01:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bushwick</span><span class="f3 push-content">: 植入初音  一個變兩個....太棒惹</span><span class="push-ipdatetime"> 05/24 01:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greenteaking</span><span class="f3 push-content">: 隨便啦反正這世界也夠慘了</span><span class="push-ipdatetime"> 05/24 01:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tim9527</span><span class="f3 push-content">: 乾  可以用天網幫我產生一個老婆嗎o&#39;_&#39;o</span><span class="push-ipdatetime"> 05/24 01:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AppleWatch5</span><span class="f3 push-content">: 想太多...</span><span class="push-ipdatetime"> 05/24 01:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aasawfish</span><span class="f3 push-content">: 請AI寫一個會自己寫AI的AI 這世界就毀滅了~</span><span class="push-ipdatetime"> 05/24 01:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hhh99876</span><span class="f3 push-content">: 靠北喔 我不要當電池啦</span><span class="push-ipdatetime"> 05/24 02:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tawara</span><span class="f3 push-content">: 快啊 誰來讓AI變成肥宅</span><span class="push-ipdatetime"> 05/24 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Batterygod</span><span class="f3 push-content">: <a href="http://i.imgur.com/zBprmYa.jpg" target="_blank" rel="nofollow">http://i.imgur.com/zBprmYa.jpg</a></span><span class="push-ipdatetime"> 05/24 02:08
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="zBprmYa"><a href="//imgur.com/zBprmYa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jackqoo183</span><span class="f3 push-content">: 裸體的亞當夏娃要出現了嗎</span><span class="push-ipdatetime"> 05/24 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Toge</span><span class="f3 push-content">: <a href="https://www.youtube.com/watch?v=p7aU0sLAcs8" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=p7aU0sLAcs8</a></span><span class="push-ipdatetime"> 05/24 02:14
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/p7aU0sLAcs8" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Toge</span><span class="f3 push-content">: 所以可以這樣和AI調情了嗎</span><span class="push-ipdatetime"> 05/24 02:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">upeo</span><span class="f3 push-content">: ic設計要進入夕陽了嗎</span><span class="push-ipdatetime"> 05/24 02:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gamesame7711</span><span class="f3 push-content">: 真恐怖</span><span class="push-ipdatetime"> 05/24 02:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PhySeraph</span><span class="f3 push-content">: 約翰  你在哪啊  我是凱爾  快送我回去幹你媽</span><span class="push-ipdatetime"> 05/24 02:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 模擬機的概念</span><span class="push-ipdatetime"> 05/24 02:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohmylove347</span><span class="f3 push-content">: 幹幹幹幹！！！他會自己寫程式！！！！</span><span class="push-ipdatetime"> 05/24 02:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptrex</span><span class="f3 push-content">: 如果兩種以上AI相遇</span><span class="push-ipdatetime"> 05/24 02:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BEHIND</span><span class="f3 push-content">: 怕啥 只要說AI有壯陽功用13億人口一下就消滅AI了</span><span class="push-ipdatetime"> 05/24 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">su3cl3</span><span class="f3 push-content">: 還差的遠</span><span class="push-ipdatetime"> 05/24 02:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">reality6699</span><span class="f3 push-content">: 小AI在勇士打季後賽啦幹</span><span class="push-ipdatetime"> 05/24 02:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 天網恢恢，疏而不漏</span><span class="push-ipdatetime"> 05/24 02:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asmiocv</span><span class="f3 push-content">: 自己生小孩  合理</span><span class="push-ipdatetime"> 05/24 02:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leon1309</span><span class="f3 push-content">: 哼，讓初音跟拌愛醬去洗腦，以後就是肥宅世界</span><span class="push-ipdatetime"> 05/24 03:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfbt</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/24 04:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiy75</span><span class="f3 push-content">: 還久得很</span><span class="push-ipdatetime"> 05/24 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gibson72</span><span class="f3 push-content">: 放心 中國有支付寶可以抵禦天網</span><span class="push-ipdatetime"> 05/24 04:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">caijhih</span><span class="f3 push-content">: 駭客任務的母體快出現了，或許我們真的活在虛擬世界</span><span class="push-ipdatetime"> 05/24 05:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: 太棒了</span><span class="push-ipdatetime"> 05/24 06:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Arbin</span><span class="f3 push-content">: 叫AI幫我找女友他就會當機惹辣QQ</span><span class="push-ipdatetime"> 05/24 06:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wbt77hsy</span><span class="f3 push-content">: 真找到了樓上該開心還難過呢</span><span class="push-ipdatetime"> 05/24 07:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m850537</span><span class="f3 push-content">: 他們是怎麼交配的?DISCOVERY 會出紀錄片嗎?</span><span class="push-ipdatetime"> 05/24 08:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kimgordon</span><span class="f3 push-content">: 可以對ai說ai love u嗎</span><span class="push-ipdatetime"> 05/24 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Qqa9453</span><span class="f3 push-content">: 末日時有沒有空能不能來拯救？</span><span class="push-ipdatetime"> 05/24 09:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acadpp</span><span class="f3 push-content">: 先來學一下怎麼去破解提款機，然後去湯姆熊打電動</span><span class="push-ipdatetime"> 05/24 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saint01</span><span class="f3 push-content">: <a href="http://i.imgur.com/KaikdIP.jpg" target="_blank" rel="nofollow">http://i.imgur.com/KaikdIP.jpg</a></span><span class="push-ipdatetime"> 05/24 09:09
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="KaikdIP"><a href="//imgur.com/KaikdIP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chichung</span><span class="f3 push-content">: 還好第一代母體是讓人類爽到死</span><span class="push-ipdatetime"> 05/24 09:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tostcamp</span><span class="f3 push-content">: i&#39;ll be back</span><span class="push-ipdatetime"> 05/24 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 看到深度學習 以後全能機器人取代勞工</span><span class="push-ipdatetime"> 05/24 09:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wario2014</span><span class="f3 push-content">: 先經過turing text再來跟我談AI好嗎，一堆碼農自爽個屁</span><span class="push-ipdatetime"> 05/24 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: GG</span><span class="push-ipdatetime"> 05/24 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wario2014</span><span class="f3 push-content">: 一百億條IF敘述，寫出來的還是IF敘述</span><span class="push-ipdatetime"> 05/24 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mamoru5566</span><span class="f3 push-content">: 天網變肥宅XDDDD</span><span class="push-ipdatetime"> 05/24 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ctes940008</span><span class="f3 push-content">: 我覺得是隱憂</span><span class="push-ipdatetime"> 05/24 11:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shi0520</span><span class="f3 push-content">: 看來北韓才是人類最後的淨土</span><span class="push-ipdatetime"> 05/24 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 感覺是遲早的事</span><span class="push-ipdatetime"> 05/24 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">spadej69171</span><span class="f3 push-content">: RRRRRR  要被AI統治了嗎 機器人公約勒</span><span class="push-ipdatetime"> 05/24 12:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ganlinLABA</span><span class="f3 push-content">: 駭客任務wwww</span><span class="push-ipdatetime"> 05/24 12:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oilcaptain</span><span class="f3 push-content">: 未來機器人要穿越時空回到現在了</span><span class="push-ipdatetime"> 05/24 12:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 魔鬼終結者運作時會不會跳出win10的更新畫面</span><span class="push-ipdatetime"> 05/24 12:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alumeya</span><span class="f3 push-content">: 會不會一直進化啊？</span><span class="push-ipdatetime"> 05/24 13:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dream2</span><span class="f3 push-content">: 攻城屍要第一個被取代啦   還不用領加班費</span><span class="push-ipdatetime"> 05/24 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerk2</span><span class="f3 push-content">: turing test都拼不對的人在嘲笑碼農...</span><span class="push-ipdatetime"> 05/24 13:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">derrick0727</span><span class="f3 push-content">: 放個hao123 跟 360就贏了 怕什麼</span><span class="push-ipdatetime"> 05/24 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: @ @</span><span class="push-ipdatetime"> 05/24 14:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gwenwoo</span><span class="f3 push-content">:  中國網友開始期待啦  希望中國早日全面民主化</span><span class="push-ipdatetime"> 05/24 14:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 當AI完成體出來的時候 我們已經都不在了QQ</span><span class="push-ipdatetime"> 05/24 14:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">btman007</span><span class="f3 push-content">: 毀掉世界前以先送我一個老婆嗎</span><span class="push-ipdatetime"> 05/24 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saca572381</span><span class="f3 push-content">: 我們有YO</span><span class="push-ipdatetime"> 05/25 16:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FuYen</span><span class="f3 push-content">: 科技奇點終於要來了嗎</span><span class="push-ipdatetime"> 05/25 16:24
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495557979.A.289.html?cacheKey=2052-39258424&offset=12070&offset-sig=e7266f79534018a8d290220e5cf7f6a917480da1" data-longpollurl="/v1/longpoll?id=cb96501a7041c16c407776d7939565360a210eb0" data-offset="12070"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

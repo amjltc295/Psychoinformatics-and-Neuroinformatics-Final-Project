@@ -1,0 +1,167 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495724665.A.605.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 難道沒人覺得統測章程很不公不義嗎？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="肥宅高中生啦
+今天統測成績出來了 幾家歡樂幾家愁，我應該是卡在中間偏愁的那部分。
+不過不管這個，像國文考科的作文
+或像肥宅的設計群專業科目二
+這種超主觀的評分，評審說一就一說二就二
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 難道沒人覺得統測章程很不公不義嗎？">
+<meta property="og:description" content="肥宅高中生啦
+今天統測成績出來了 幾家歡樂幾家愁，我應該是卡在中間偏愁的那部分。
+不過不管這個，像國文考科的作文
+或像肥宅的設計群專業科目二
+這種超主觀的評分，評審說一就一說二就二
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495724665.A.605.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495724665.A.605.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">brokenlin (brokenlin)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 難道沒人覺得統測章程很不公不義嗎？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 23:04:23 2017</span></div>
+肥宅高中生啦
+
+今天統測成績出來了 幾家歡樂幾家愁，我應該是卡在中間偏愁的那部分。
+
+不過不管這個，像國文考科的作文
+或像肥宅的設計群專業科目二
+這種超主觀的評分，評審說一就一說二就二
+
+如果今天評審正好気持ち差到爆，或是前一份試卷資質太好造成過大的反差，自由心證的
+結果造成分數的高低太誇張
+
+在一試定終生的大考試被打成低分的人不就很雖洨
+
+重點是就算申請複查也不能重新批改太過離譜的分數，頂多請個工讀生把試卷調出來看成
+績有沒有被ki錯
+
+先不論都已經在技職體系了幹嘛還把考試的比重放得這麼重，這種超容易黑箱的流程難道
+不該被檢視一下嗎
+
+統測好歹是台灣參加人數第二多的考試項目餒
+
+如果全國十幾萬考生都要求更改流程的話應該會造成的國家一點負擔ㄅ
+
+一考生一投訴到公共政策平台有沒有搞頭
+
+有掛否？
+<a href="http://i.imgur.com/t1aLcEy.jpg" target="_blank" rel="nofollow">http://i.imgur.com/t1aLcEy.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="t1aLcEy"><a href="//imgur.com/t1aLcEy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.39.22.31
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495724665.A.605.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495724665.A.605.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iPadProPlus</span><span class="f3 push-content">: 文組課就這樣啊</span><span class="push-ipdatetime">05/25 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 統測是什麼</span><span class="push-ipdatetime">05/25 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">x04nonesuchx</span><span class="f3 push-content">: 文組科目</span><span class="push-ipdatetime">05/25 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whathefuc</span><span class="f3 push-content">: 你是考多差？</span><span class="push-ipdatetime">05/25 23:05
+</span></div>48級分，肥宅幫朋友問的
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alwayskid</span><span class="f3 push-content">: 不知道  我又不是高職生</span><span class="push-ipdatetime">05/25 23:05
+</span></div><span class="f2">※ 編輯: brokenlin (114.39.22.31), 05/25/2017 23:06:39
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">unilions0104</span><span class="f3 push-content">: 統測是什麼?我只知道學測和指考</span><span class="push-ipdatetime"> 05/25 23:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Spinner3</span><span class="f3 push-content">: 不公不義是那些沒實力在講的</span><span class="push-ipdatetime">05/25 23:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guohuo</span><span class="f3 push-content">: 現在這個年代還有人考統測喔</span><span class="push-ipdatetime">05/25 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 你乾脆說考英文更沒用 台灣又不講</span><span class="push-ipdatetime">05/25 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Noizaoba</span><span class="f3 push-content">: 高職生都不被重視la QQ</span><span class="push-ipdatetime">05/25 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TolerTSAI</span><span class="f3 push-content">: 國考更誇張阿 光是作文就佔60分以上了</span><span class="push-ipdatetime">05/25 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">i5lo</span><span class="f3 push-content">: 我記得應該有分項目評分，而且現在有圖學不是嗎？</span><span class="push-ipdatetime">05/25 23:07
+</span></div>圖學的給分不及繪畫
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TolerTSAI</span><span class="f3 push-content">: 而且國考作文是分數直接砍半來改 能40分的就很強了</span><span class="push-ipdatetime">05/25 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h2243398</span><span class="f3 push-content">: 關我屁事</span><span class="push-ipdatetime">05/25 23:08
+</span></div>然後你回了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mochi79726</span><span class="f3 push-content">: 沒能讀國立科大 你打算怎摸辦</span><span class="push-ipdatetime">05/25 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 考差哭哭喔 以前考64x 研所洗115路過~</span><span class="push-ipdatetime">05/25 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onbed007</span><span class="f3 push-content">: 沒人在意高職生啦</span><span class="push-ipdatetime">05/25 23:10
+</span></div><span class="f2">※ 編輯: brokenlin (114.39.22.31), 05/25/2017 23:18:02
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dendrimer</span><span class="f3 push-content">: 隨便考都有學校讀 有差嗎</span><span class="push-ipdatetime"> 05/25 23:23
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495724665.A.605.html?cacheKey=2052-1612217&offset=2975&offset-sig=42f238adebb10aa8ec5b9c042de77979e0ad641c" data-longpollurl="/v1/longpoll?id=6804f18e639ae89d0de29509b1dae80a1a4727a9" data-offset="2975"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

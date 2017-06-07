@@ -1,0 +1,189 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496370027.A.92F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] Pentium 4當年有多強? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="想當年還是屁孩的時代
+各種網路遊戲戰略遊戲天堂暗黑世紀CS
+當其他人還在Pentium 2 Pentium 3
+搭配撥接網路還在lag時
+靠一台Pentium 4電腦什麼都能玩
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] Pentium 4當年有多強?">
+<meta property="og:description" content="想當年還是屁孩的時代
+各種網路遊戲戰略遊戲天堂暗黑世紀CS
+當其他人還在Pentium 2 Pentium 3
+搭配撥接網路還在lag時
+靠一台Pentium 4電腦什麼都能玩
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496370027.A.92F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496370027.A.92F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ComeThrough (☁)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] Pentium 4當年有多強?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 10:20:25 2017</span></div>
+
+想當年還是屁孩的時代
+
+各種網路遊戲戰略遊戲天堂暗黑世紀CS
+
+當其他人還在Pentium 2 Pentium 3
+
+搭配撥接網路還在lag時
+
+靠一台Pentium 4電腦什麼都能玩
+
+開機速度又快 稱霸全班
+
+有沒有當年Pentium 4有多強的八卦？？
+
+為什麼intel沒有繼續出Pentium 5？
+
+
+
+
+
+
+
+-----
+Sent from JPTT on my HTC_M10h.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.8.228.112
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496370027.A.92F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496370027.A.92F.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Silent</span><span class="f3 push-content">: 等    等等等等</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hunt5566</span><span class="f3 push-content">: 但是沒人跟你玩</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #過氣</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">melissalewis</span><span class="f3 push-content">: 超強，跟五樓肛門被肛到爛一樣強</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 弱爆了好嗎 燙得要死一堆熱當機 被AMD超車intel失落的十年</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 很熱 噴火龍</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: 4也有很多代 你講哪代</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">melissalewis</span><span class="f3 push-content">: 蓋</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jhbgybj123</span><span class="f3 push-content">: 有後續機制阿= =</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LianD</span><span class="f3 push-content">: 很爛好嗎</span><span class="push-ipdatetime"> 06/02 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qekezfeed</span><span class="f3 push-content">: P4 五木 2.53H</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qekezfeed</span><span class="f3 push-content">: G</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ePaper</span><span class="f3 push-content">: 潘婷</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">v5270</span><span class="f3 push-content">: 很廢，被AMD屌打的年代，c2d時才一雪恥辱。</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: intel到centrino才逐漸站穩腳步 P4根本是黑歷史</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lannjm</span><span class="f3 push-content">: 我都用愛速龍+威盛南北橋，intel閃邊站</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tsukasa107</span><span class="f3 push-content">: 後面幾代用RAMBUS被AMD電到哭</span><span class="push-ipdatetime"> 06/02 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qekezfeed</span><span class="f3 push-content">: 改個全銅散熱片 就可以壓在560度</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: 北木還可以 prescott就噴火了</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crescentbell</span><span class="f3 push-content">: 你說那個暖爐喔？</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 我 PetiumⅢ866跳PetiumⅣ2.8G跳E5200跳E3-1231v3</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eva19452002</span><span class="f3 push-content">: 我怎麼覺得p3才是黑歷史？</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: p4拿年代被amd慘電不是嗎</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 前面少個80486</span><span class="push-ipdatetime"> 06/02 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yanli2</span><span class="f3 push-content">: AMD 巴頓將軍 用鉛筆就能超頻 屌打intel</span><span class="push-ipdatetime"> 06/02 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nimaj</span><span class="f3 push-content">: 你在說啥?? Pentium 4是intel歷代最弱的主軸CPU捏！</span><span class="push-ipdatetime"> 06/02 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jhbgybj123</span><span class="f3 push-content">: p3才是被k8屌打的年代</span><span class="push-ipdatetime"> 06/02 10:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 用鉛筆畫線那個真的夠經典</span><span class="push-ipdatetime"> 06/02 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nimaj</span><span class="f3 push-content">: 最弱 當然也不值得被說嘴</span><span class="push-ipdatetime"> 06/02 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RealGeforce</span><span class="f3 push-content">: 初代Pentium4被K7屌打好嗎</span><span class="push-ipdatetime"> 06/02 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: P4配win98或win2Kprosp4開機蠻快的,也很省資源</span><span class="push-ipdatetime"> 06/02 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bcw1218</span><span class="f3 push-content">: 那顆噴火龍被嫌到臭頭 當初還出一堆巨型散熱塔+雙風扇...</span><span class="push-ipdatetime"> 06/02 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: p3才是神u吧</span><span class="push-ipdatetime"> 06/02 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ariadne</span><span class="f3 push-content">: 婊醬 P4噴火龍開創現在的大散熱器時代 之前都只用官方扇</span><span class="push-ipdatetime"> 06/02 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nimaj</span><span class="f3 push-content">: P3跟K8沒重疊啊 P3的主要對手是K7 後期頻率拉不上來 才生P4</span><span class="push-ipdatetime"> 06/02 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nimaj</span><span class="f3 push-content">: 結果P4除了頻率以外 其他一無是處....</span><span class="push-ipdatetime"> 06/02 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wirefu</span><span class="f3 push-content">: 8086才是史上最棒cpu</span><span class="push-ipdatetime"> 06/02 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CamryHybridQ</span><span class="f3 push-content">: 當年被amd虐到不要不要，真的笑死</span><span class="push-ipdatetime"> 06/02 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx6107</span><span class="f3 push-content">: 天堂雙開</span><span class="push-ipdatetime"> 06/02 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 我家p4開HT超頻到3.4G裝8600GT可以玩天二哩,反觀散步龍</span><span class="push-ipdatetime"> 06/02 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 嫌熱就塗散熱膏裝個散熱器並讓它待在空調房</span><span class="push-ipdatetime"> 06/02 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: Intel有一陣子就是太貴,加上AMD推了不錯的多核心系列</span><span class="push-ipdatetime"> 06/02 10:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 到出I3,I5,I7時就又屌打AMD了</span><span class="push-ipdatetime"> 06/02 10:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">moneydream</span><span class="f3 push-content">: 狀況外就不要裝老</span><span class="push-ipdatetime"> 06/02 10:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watched</span><span class="f3 push-content">: 釣出一堆老人</span><span class="push-ipdatetime"> 06/02 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wiabc</span><span class="f3 push-content">: P4大概只有P4B後期到P4C有跟上AMD，P4E基本被屌打</span><span class="push-ipdatetime"> 06/02 13:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kraven</span><span class="f3 push-content">: P4 超廢</span><span class="push-ipdatetime"> 06/02 13:15
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496370027.A.92F.html?cacheKey=2052-729947&offset=5308&offset-sig=88d65f5c67a48c67a231d89a2c72b12c504cac8b" data-longpollurl="/v1/longpoll?id=83044e776e071af9e191c8fe3d55da04c37eecf3" data-offset="5308"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

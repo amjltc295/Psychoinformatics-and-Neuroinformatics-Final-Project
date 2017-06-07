@@ -1,0 +1,164 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495983868.A.314.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 美國土安全部長：飛美航班考慮全面禁筆電 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+美國土安全部長：飛美航班考慮全面禁筆電
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 美國土安全部長：飛美航班考慮全面禁筆電">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+美國土安全部長：飛美航班考慮全面禁筆電
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495983868.A.314.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495983868.A.314.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PttCastro (卡斯楚)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 美國土安全部長：飛美航班考慮全面禁筆電</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 23:04:25 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+2.完整新聞標題:
+美國土安全部長：飛美航班考慮全面禁筆電
+
+3.完整新聞內文:
+美國國土安全部長凱利表示，他正在考慮來往美國的國際線班機，是否要全面禁止攜帶筆
+電、平板電腦上飛機，擴大先前針對中東北非數個機場的禁令。
+
+凱利今天接受美國福斯新聞台訪問時，被問到是否要擴大全面實施筆電禁令，他說：「我
+可能會。」凱利說：「外面有真正的威脅，無數針對航空的威脅。」他表示，恐怖份子非
+常著迷要「把飛機打下來」，尤其是美國的航班。
+
+美國3月21日宣布對開羅、伊斯坦堡、杜拜、阿布達比、科威特、杜哈、卡薩布蘭卡、安
+曼、利雅德與吉達10個機場往來美國的班機，禁止乘客隨身攜帶筆記型電腦、平板電腦等
+比手機大的電子產品上飛機。先前已有消息指出美國可能擴大禁令。
+
+美國總統川普據傳本月稍早在接見俄國外長與大使的時候，洩露恐怖份子可能用電子產品
+炸毀班機的情資，情資來源是以色列當局。
+
+（國際中心／綜合外電報導）
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/g7EYIH" target="_blank" rel="nofollow">https://goo.gl/g7EYIH</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.27.206.112
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495983868.A.314.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495983868.A.314.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infoman</span><span class="f3 push-content">: 快要禁帶人了 再等等</span><span class="push-ipdatetime"> 05/28 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iiooiioou</span><span class="f3 push-content">: 顆顆</span><span class="push-ipdatetime"> 05/28 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lucifiel1618</span><span class="f3 push-content">: 師爺你給翻譯翻譯什麼叫比手機大的電子產品</span><span class="push-ipdatetime"> 05/28 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joumay</span><span class="f3 push-content">: 在那之前 可以先禁用三星電池的任何電子產品嗎???</span><span class="push-ipdatetime"> 05/28 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kingsinger</span><span class="f3 push-content">: 川普需要透過俄國大使來得知情資？ 這好像怪怪的...</span><span class="push-ipdatetime"> 05/28 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">etiennechiu</span><span class="f3 push-content">: 只是禁隨身行李，託運行李還是可以吧</span><span class="push-ipdatetime"> 05/28 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 超巨大手機要起飛了？</span><span class="push-ipdatetime"> 05/28 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lucifiel1618</span><span class="f3 push-content">: 換個Raspberry Pi還不是可以炸你全家，大小是重點嗎</span><span class="push-ipdatetime"> 05/28 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 手機怎麼沒禁止</span><span class="push-ipdatetime"> 05/28 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 一堆手機五六吋</span><span class="push-ipdatetime"> 05/28 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 不知道這個禁令是啥</span><span class="push-ipdatetime"> 05/28 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alomar2000</span><span class="f3 push-content">: 能炸開機艙窗戶就夠了</span><span class="push-ipdatetime"> 05/28 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccs9031030</span><span class="f3 push-content">: 電池換成C4</span><span class="push-ipdatetime"> 05/28 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MDCCLXXVI</span><span class="f3 push-content">: 筆電不能託運...  以後去美國開會都不用帶電腦了XD</span><span class="push-ipdatetime"> 05/28 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cwet</span><span class="f3 push-content">: 商務人士不用去美國了</span><span class="push-ipdatetime"> 05/28 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ffaatt</span><span class="f3 push-content">: 這安檢不出來嗎</span><span class="push-ipdatetime"> 05/28 23:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 也太扯</span><span class="push-ipdatetime"> 05/29 00:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tctv2002</span><span class="f3 push-content">: 手機也會洩漏阿</span><span class="push-ipdatetime"> 05/29 00:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piadora</span><span class="f3 push-content">: 手機大小的爆裂物也可以讓恐攻實現...</span><span class="push-ipdatetime"> 05/29 00:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495983868.A.314.html?cacheKey=2052-1374365&offset=3162&offset-sig=26633da2d0c9ce75f48cfd5d268bc002a32e241d" data-longpollurl="/v1/longpoll?id=ad09a3b359ab6c371bda76af0dee3f470246dcb9" data-offset="3162"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

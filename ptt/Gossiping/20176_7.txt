@@ -1,0 +1,602 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495030135.A.EC2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[參選] XXXXGAY - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.參選理由、參選期望
+這次只有一個多月的任期，就來當個代班吉祥物，
+也期望八卦版可以越來越好．
+2.預計採用的管理方式、競選政見
+謙卑、謙卑、再謙卑．
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[參選] XXXXGAY">
+<meta property="og:description" content="1.參選理由、參選期望
+這次只有一個多月的任期，就來當個代班吉祥物，
+也期望八卦版可以越來越好．
+2.預計採用的管理方式、競選政見
+謙卑、謙卑、再謙卑．
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495030135.A.EC2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495030135.A.EC2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">XXXXGAY (ＯＬ打雜小妹)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[參選] XXXXGAY</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 22:08:51 2017</span></div>
+<span class="f3 hl">1.參選理由、參選期望
+</span>
+這次只有一個多月的任期，就來當個代班吉祥物，
+
+也期望八卦版可以越來越好．
+
+
+<span class="f3 hl">2.預計採用的管理方式、競選政見
+</span>
+謙卑、謙卑、再謙卑．
+
+
+<span class="f3 hl">3.曾任本板板主者請務必列出在任時間與政績供板友參考
+</span>
+<span class="f6 hl">在任時間：
+</span>2012年12月12日～2013年05月03日
+2013年05月31日～2013年07月01日
+2013年09月12日～2013年11月08日
+2014年11月01日～2015年06月30日
+2016年04月10日～2016年07月01日
+
+<span class="f6 hl">政績：
+</span>當稱職的吉祥物（？）
+
+
+<span class="f3 hl">4.每週可以管理看板的時間
+</span>
+只要打完ＬＯＬ首勝，Ｐ＆Ｄ刷完體力，ＷＯＷ解完每日後就會開始管板．
+
+
+<span class="f3 hl">5.其他補充，如認為自己適合擔任板主的優勢
+</span>
+愛滾動，心機重，會裝可愛，有傳說中的死亡之合照技能．
+　
+
+--
+<span class="f6 b5 hl">維護愛與正義</span>       　　 　 <span class="hl">我們要代替</span><span class="f3 hl">月亮</span><span class="hl">懲罰你！            </span><span class="f3 b1 hl">保護帥哥安全</span>
+<span class="f5 hl">               </span><span class="f3 hl">●</span><span class="hl"> </span><span class="f5 hl">                ～</span><span class="f6">●</span><span class="f5 hl">～              </span><span class="f3">＼●                 </span><span class="b4 hl">美</span>
+<span class="f3">     </span><span class="f4 hl">●</span><span class="f3">      </span><span class="f3 hl">￣█▽</span><span class="hl">      </span><span class="f6 hl"> ●∕</span><span class="hl">   </span><span class="f5 hl"> </span><span class="hl">＜</span><span class="f1 hl">喵</span><span class="hl">＞</span>   <span class="f2"> ╲●</span><span class="f3"> </span><span class="f4 hl">       </span><span class="f3">◎＼</span>      <span class="f1 hl">●</span>       <span class="b4 hl">少</span>
+<span class="hl">   </span><span class="f4 hl">～★ˇ</span><span class="hl">    </span> <span class="f3 hl">∠﹨</span><span class="hl">      </span><span class="f6 hl">￣⊙ </span>   <span class="f5 hl">   </span><span class="f2 hl">∕﹨</span><span class="f6 hl"> </span>      <span class="f2">▼—</span><span class="f4 hl">      </span><span class="f3">＞﹨</span>    <span class="f1 hl">╱Θ—     </span><span class="b4 hl">女</span>
+    <span class="f4 hl">（﹨</span>    <span class="f3 hl">金星仙子</span>    <span class="f6 hl"> ∕╰</span><span class="f5 hl">    貓咪仙子</span><span class="f6 hl">   </span><span class="f2"> √﹨</span><span class="f4 hl">     </span><span class="f3">土星仙子</span><span class="f4 hl"> </span>  <span class="f1 hl">＜ ＼     </span><span class="b4 hl">戰</span>
+   <span class="f4 hl">水星仙子</span>            <span class="f6 hl">月光仙子</span>             <span class="f2">木星仙子</span>            <span class="f1 hl">火星仙子   </span><span class="b4 hl">士</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.225.121.228
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495030135.A.EC2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495030135.A.EC2.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">as451412</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ku51655165</span><span class="f3 push-content">: 噓</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sclbtlove</span><span class="f3 push-content">: 給錢</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OGCOGCOGCOGC</span><span class="f3 push-content">: 可憐</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 噁</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samggyy</span><span class="f3 push-content">: 給我吹</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tify0217</span><span class="f3 push-content">: 女神 XD</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Feketerigo</span><span class="f3 push-content">: 你不是在女板當版主? 還有時間管八卦?</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 幫推</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 可悲，權力慾望如此</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mews</span><span class="f3 push-content">: 你是不是暗戀我 想要右肩</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">diabolica</span><span class="f3 push-content">: 發錢</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Oilboy</span><span class="f3 push-content">: 幫我吹</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuke</span><span class="f3 push-content">: 幹 你又不做事</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PONANZA</span><span class="f3 push-content">: 四叉加我pad好友就投給你 站內id</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">secret1414</span><span class="f3 push-content">: 我有前幾天抽到立花跟阿市 棒不棒</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: 過7</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cpz</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MEVIUS</span><span class="f3 push-content">: 甲甲文字獄又要來囉</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">samggyy</span><span class="f3 push-content">: 登入次數4444</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brian0611</span><span class="f3 push-content">: 是4xxxx</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">harry3875</span><span class="f3 push-content">: 鬧</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cherry1002tw</span><span class="f3 push-content">: 女神～</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">starfishkira</span><span class="f3 push-content">: 噓你吃垮基督教</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iverlung</span><span class="f3 push-content">: 幫我吹</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Sony2470GM</span><span class="f3 push-content">: 喔喔  當長期的啦</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">go371211</span><span class="f3 push-content">: 唯一支持</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 過氣神主牌</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aires317</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">oibmk</span><span class="f3 push-content">: 4x</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Athly</span><span class="f3 push-content">: 想請問4X LOL都用誰啊?</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a6234709</span><span class="f3 push-content">: 4X!!</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 戰國策要來八卦帶風向囉</span><span class="push-ipdatetime"> 05/17 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xlaws</span><span class="f3 push-content">: 你過氣了啦</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PttCraft</span><span class="f3 push-content">: 如果這樣的政見能當選，難怪台灣選出來的政客都是垃圾</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dean1990</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gogobar</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">timove</span><span class="f3 push-content">: 女神~~~~</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pokemonya</span><span class="f3 push-content">: 樓下想約</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: 你屁啦 現在wow每日是甚麼 世界任務吧</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">takashi01</span><span class="f3 push-content">: 錢幹</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Qoo20811</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">plzza0cats</span><span class="f3 push-content">: …</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kiuyeah</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">oftisa</span><span class="f3 push-content">: 我還以為四叉貓消失了，怎麼又出現了？</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nojydia</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simon860730</span><span class="f3 push-content">: 4X女神~~</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">G8PIG</span><span class="f3 push-content">: 呵</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s820912gmail</span><span class="f3 push-content">: 同性戀滾啦</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: pokemonya 我一定肛</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a10141013</span><span class="f3 push-content">: 都當五次了 是想當幾次？</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CS5566</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 不做事還出來選，為了那些狂甲嗎</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">northz</span><span class="f3 push-content">: 881</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OGCOGCOGCOGC</span><span class="f3 push-content">: 快滾吧</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Colantoni</span><span class="f3 push-content">: 你想幹嘛</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 哈哈 戰國策的員工還真悠閒</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkkk666</span><span class="f3 push-content">: 過氣</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Liquid</span><span class="f3 push-content">: 把八卦版弄的又臭甲味又濃</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: ㄎ 老屁眼果然是想回鍋阿 難怪一直刷存在感</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Xhocer</span><span class="f3 push-content">: 你夠紅了不用再出來了吧...</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ioupoiu</span><span class="f3 push-content">: 滾啦 黑成這樣還想怎樣？</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 甲甲滾出八卦版啦</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g6m3kimo5566</span><span class="f3 push-content">: ㄎㄎ 比一堆蔡比八好多了</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jior</span><span class="f3 push-content">: 去甲板喇</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArcueidY</span><span class="f3 push-content">: 4X~4X~我們肛你</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #滾</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 又想搞文字獄喔</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lturtsamuel</span><span class="f3 push-content">: 又是你 幹</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: 女神</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hiphopboy7</span><span class="f3 push-content">: 離開 你離開</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zxzxcv</span><span class="f3 push-content">: 老屁眼還來,偷拍還嫌不夠黑嗎</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Aaronko</span><span class="f3 push-content">: 發錢就投你</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ckkpolice</span><span class="f3 push-content">: 發錢</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">redspeed</span><span class="f3 push-content">: 歐</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joe19941004</span><span class="f3 push-content">: 重量級參戰</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">d8888872002</span><span class="f3 push-content">: 選了又辭辭了又選 你要怎樣 你在女版根本沒做什麼事</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FAYeeeeeeee</span><span class="f3 push-content">: 善甲給推</span><span class="push-ipdatetime"> 05/17 22:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">d8888872002</span><span class="f3 push-content">: 好嗎</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iWatch2</span><span class="f3 push-content">: 那永遠打不贏首勝怎辦?</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Riya520</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 八卦版文字獄始祖</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m810415</span><span class="f3 push-content">: ☺</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xx60824xx</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 選了又不做事 不要浪費名額</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzing</span><span class="f3 push-content">: 來喔</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toudanlong</span><span class="f3 push-content">: 有錢人的生活...窮酸宅不推嗎?</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 讓同性戀汙染八卦版 廣開文字獄的始祖</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">leamaSTC</span><span class="f3 push-content">: 滾啦 之前文森黃事件裝死  這輩子別想選了</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pokemonya</span><span class="f3 push-content">: Rrrxddd 屁股才洗乾淨啦</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: K少 四X 就你們了</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aotfs2013</span><span class="f3 push-content">: QQ這樣我要怎麼選啦</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a3340597</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: 女神耶!</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MayorKoWenJe</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/17 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">G888888</span><span class="f3 push-content">: 這種政見都能上我就...</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 投你跟海洋五六看大戰好了wwwwww</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iamgyfan</span><span class="f3 push-content">: ??</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">balahaha</span><span class="f3 push-content">: 幹 我也抽到阿市 噓文給我4起來!!!!!!!!!</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Allen0315</span><span class="f3 push-content">:     呵呵</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fishing</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nobody741</span><span class="f3 push-content">: XDDD 女神</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DevilEnvy</span><span class="f3 push-content">: 甲勢力滾出八卦！</span><span class="push-ipdatetime"> 05/17 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 還是會上</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 又來代班！我還能不投嗎！</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asdfgh0920</span><span class="f3 push-content">: 政見內容是來亂的嗎 當初在女板選上就神隱</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 不用公布自己有多少錢？</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><span class="f2">※ 編輯: XXXXGAY (36.225.121.228), 05/17/2017 22:14:26
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 因為海洋56反應好，所以趕快出來選喔？</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pete0328</span><span class="f3 push-content">: 不作事還想選幾次?</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">POPunk</span><span class="f3 push-content">: 女神</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guitar0225</span><span class="f3 push-content">: 加油～</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 這種政見內容 大家看清楚這個人啊</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mengche</span><span class="f3 push-content">: 圖勒</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dogkorea5566</span><span class="f3 push-content">: 滿口胡言</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 四叉選得上 以後八卦版沒資格酸9.2%了 因為在幹一樣的事</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 你跟海洋都上 應該很精采吧</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andychen0727</span><span class="f3 push-content">: 哈哈</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dyps</span><span class="f3 push-content">: 4444</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wangray1769</span><span class="f3 push-content">: 滾啦臭甲 已經黑掉就不要再出來刷存在感了</span><span class="push-ipdatetime"> 05/17 22:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">john91018</span><span class="f3 push-content">: 你誰亂么吉</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 言而無信，不是說這陣子不會選</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fengweikang</span><span class="f3 push-content">: 去你媽的 傻逼 嘩眾取寵</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: blaz力挺呢 果然是同一號人物</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nicolaschen2</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">b6543212</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">income19</span><span class="f3 push-content">: 怎麼被噓成這樣？</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secret1414</span><span class="f3 push-content">: 慘了 海洋這次搞不好會上</span><span class="push-ipdatetime"> 05/17 22:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Ptte</span><span class="f3 push-content">: 人氣下降來博版面，又想靠按讚賺獎品嗎?</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 看到blaz 只能噓了</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Morning5566</span><span class="f3 push-content">: 死肥婆</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wangray1769</span><span class="f3 push-content">: 4444出來選不怕遇到劫數?<a href="http://i.imgur.com/AuSxVXH" target="_blank" rel="nofollow">http://i.imgur.com/AuSxVXH</a></span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zsazsazsu</span><span class="f3 push-content">: 好可愛XD</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 要八卦更好，你就不要發文啊</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s820912gmail</span><span class="f3 push-content">: 同性戀</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skhten</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">opica</span><span class="f3 push-content">: 高雄之恥</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EX37</span><span class="f3 push-content">: 4444</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wahahaflower</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 看到恐同噓就要推，文字獄又怎麼樣，行得正坐的端，</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 懂得尊重同志不要罵同志，哪會擔心有文字獄</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cabron</span><span class="f3 push-content">: 推推！</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XXXXGAY</span><span class="f3 push-content">: ......竟然上站4444次，幹！也太不吉利惹　ＱＱ</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mack860120</span><span class="f3 push-content">: 黑掉了？</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">manpower1216</span><span class="f3 push-content">: 你誰啊</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ruei18</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 推 Newtype：blaz力挺呢 果然是同一號人物</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">loveyoucheng</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 吉祥三小 拜託妳以後不要再FB自稱PTT女神</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 任何敢罵同志的恐同言論本來就應該要水桶</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KISS1979</span><span class="f3 push-content">: 甲版</span><span class="push-ipdatetime"> 05/17 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 把同性戀毒趴當廣告文砍的前版主呢</span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wangray1769</span><span class="f3 push-content">: 4444就快滾<a href="http://i.imgur.com/KoDcs2J.jpg" target="_blank" rel="nofollow">http://i.imgur.com/KoDcs2J.jpg</a></span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="KoDcs2J"><a href="//imgur.com/KoDcs2J"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">balahaha</span><span class="f3 push-content">: 噓說文字獄又怎樣 CD樓下幫</span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: <a href="https://goo.gl/mdOZIg" target="_blank" rel="nofollow">https://goo.gl/mdOZIg</a></span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 恐甲互推留言，真慘 XD</span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: Ibaka上來沒桶過任何一個甲甲引戰 四叉的過往如何</span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ghostrick</span><span class="f3 push-content">: 選女版版主不做事</span><span class="push-ipdatetime"> 05/17 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 對阿 怕選出個會滾動的blaz阿 r</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 我想各位有眼睛該如何判斷自有選擇</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hedgehong</span><span class="f3 push-content">: 女神</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bravo223999</span><span class="f3 push-content">: 文字獄時代</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GreatHong</span><span class="f3 push-content">: 壓力測試</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bravo223999</span><span class="f3 push-content">: CD樓下幫</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tony900735</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 大鼻孔還敢出來喔 要不是程序問題 你早比staff被罷免</span><span class="push-ipdatetime"> 05/17 22:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 誰叫你要跟自己合照，黑掉了吼？</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 挖~好會護航喔 blaz是不是想交男朋友?XDDDDDDDDDD</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 會怕文字獄的根本都是恐同，懂得尊重同志的人根本不</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 反觀blaz和四叉 科科科</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 用擔心任何文字獄</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ss910126</span><span class="f3 push-content">: 滾，文字獄，還有你不是女神，噁心</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay3u7218</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">k33536</span><span class="f3 push-content">: 噁甲又出來刷存在感惹。</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a22300206</span><span class="f3 push-content">: 來點認真的吧 那麼隨便</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo921080931</span><span class="f3 push-content">: 一定選貓貓</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 我也想娶有錢老婆</span><span class="push-ipdatetime"> 05/17 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 588票罷免的blaz力挺的XXXXGAY 又要出來殘害八卦版啦~</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wableHD</span><span class="f3 push-content">: 不行</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hahaccu</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 這種政見，會投的人大概都北七</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cul287</span><span class="f3 push-content">: ㄏㄏ 風向變了</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuzu</span><span class="f3 push-content">: 耶</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: <a href="/bbs/LifeRecallBM/M.1464683122.A.2E4.html" target="_blank" rel="nofollow">#1NJKfoBa (LifeRecallBM)</a> 史上最高罷免票數的blaz力挺</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: 甲甲到底多想永遠操控八卦版啊？？？</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 好多恐同出來崩潰，幫女神推推，趕快桶死那些恐同，</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s820912gmail</span><span class="f3 push-content">: 甲</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 八卦版是同志友善的地方，不容許任何恐同言論</span><span class="push-ipdatetime"> 05/17 22:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">farseer7</span><span class="f3 push-content">: 哈哈</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 同志友善個頭 不要來汙染八卦</span><span class="push-ipdatetime"> 05/17 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">justice0926</span><span class="f3 push-content">: .</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 給別人機會</span><span class="push-ipdatetime"> 05/17 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 桶阿 讓全PTT看看連同性戀愛滋毒趴都能當廣告文砍的版主</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crazyke313</span><span class="f3 push-content">: 推～</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">apteekki</span><span class="f3 push-content">: 加油</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">malaman</span><span class="f3 push-content">: 。</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YCLLZDBZM</span><span class="f3 push-content">: 推。</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 你高興就好</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ihsun</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JamesForrest</span><span class="f3 push-content">: 大概是吃過虧的黨工惱羞跳針黑</span><span class="push-ipdatetime"> 05/17 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JamesForrest</span><span class="f3 push-content">: 多黑幾句啊，讓大家笑一笑</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 樓上那還算客氣 有人只是投票文亂留言罵到甲也要被桶</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eayterrr</span><span class="f3 push-content">: 上站4444</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a741085</span><span class="f3 push-content">: 不知道為什麼  我還是覺得妳躺著選都選得上....</span><span class="push-ipdatetime"> 05/17 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 不趕快砍掉，難道要留著給恐同做文章嗎!恐同都只會趁</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 要不是靠小圈圈能當上活動站長喔? 把20年站慶搞爛</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 機抹黑，這個處理本來就做得非常好</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">petodog</span><span class="f3 push-content">: 你的政見政績是在供三？</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamcute</span><span class="f3 push-content">: 恐甲集體出籠</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 他就沒政見阿</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 幹，噁心，給這貨選上以後都不能說甲甲怎樣了</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 聽說你當活動站長搞爛20周年站慶引咎下台喔</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Golbeza</span><span class="f3 push-content">: ????</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 你們到底是覺得你們憑什麼有資格罵同志，覺得異性戀</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 比較優越嗎？敢罵同志本來就要水桶</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aids893001</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 這裡不是甲板 覺得罵同志有問題該滾回去甲板</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 肥貓選上板主除了河蟹甲甲負面新聞之外有什麼作為嗎</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 不管甚麼版都不准罵同志，現在是同志友善的時代</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loveian16</span><span class="f3 push-content">: 聊天室4444444444444起來</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kerkerInc</span><span class="f3 push-content">: 之前他很紅啊，大家都很友善，現在怎麼這樣</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dogkorea5566</span><span class="f3 push-content">: 你選上會先清屎渣嗎</span><span class="push-ipdatetime"> 05/17 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">InfocusM510</span><span class="f3 push-content">: 幫補</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stw0975</span><span class="f3 push-content">: 啊！</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 會紅是因為把反對派都水桶了阿 當然安靜</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">purplebfly</span><span class="f3 push-content">: 名利二字很讓人放不下是吧</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gh34163</span><span class="f3 push-content">: &lt;3</span><span class="push-ipdatetime"> 05/17 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 選一個散佈舔假屌，露屁圖的甲甲當版主能作啥</span><span class="push-ipdatetime"> 05/17 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iSkycc</span><span class="f3 push-content">: Lol 問個問題被捅10年</span><span class="push-ipdatetime"> 05/17 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 戰國策的工作業務有包含選板主嗎</span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">senstivewu</span><span class="f3 push-content">: 女神XDDDDD</span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MEVIUS</span><span class="f3 push-content">: 甲甲文字獄又回來囉 完全不能批評高貴的甲甲 ㄏㄏ</span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a824</span><span class="f3 push-content">: 不要起爭議</span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamcute</span><span class="f3 push-content">: 看到有人噓了又噓真有趣</span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EggAcme</span><span class="f3 push-content">: <a href="https://goo.gl/M57e7u" target="_blank" rel="nofollow">https://goo.gl/M57e7u</a> 是是是 仇甲的最沒雙重標準了</span><span class="push-ipdatetime"> 05/17 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 是不是同性婚姻平權釋憲日期快到了，所以準備上台河</span><span class="push-ipdatetime"> 05/17 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 蟹負面言論了</span><span class="push-ipdatetime"> 05/17 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cul287</span><span class="f3 push-content">: 其實你都當了五屆板主跟站長了 這樣還不夠?</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wertabcmk</span><span class="f3 push-content">: 幫補血</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angell543</span><span class="f3 push-content">: ?? 怎麼噓的比止兀多?</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">danorken</span><span class="f3 push-content">: ZZZZZ</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">geroge0820</span><span class="f3 push-content">: 八卦女神&gt;///&lt;</span><span class="push-ipdatetime"> 05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">denyy555</span><span class="f3 push-content">: 幫補血..</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casman</span><span class="f3 push-content">: 推女神~~~</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onbed007</span><span class="f3 push-content">: 原來4X也有玩PAD喔</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sj08301</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 甲甲有比較潮嗎？</span><span class="push-ipdatetime"> 05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: IB學猛甲噓文，這樣就叫雙重標準喔XDD</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LaplaceDemon</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Chiehx</span><span class="f3 push-content">: 沒作為，回想你在女板時在幹嘛</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 我還以為是什麼雙重標準 只桶甲不桶反甲才叫雙重標準</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">S780122</span><span class="f3 push-content">: 你誰?</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 笑死人，再次驗證權力的誘惑</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Lorazin</span><span class="f3 push-content">: 過氣</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dogkorea5566</span><span class="f3 push-content">: 念在你一代名甲  你自肛吧 記得洗乾淨</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 當初甲甲毒趴新聞被當成廣告文劣退真的很雞巴</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">girl55665566</span><span class="f3 push-content">: blaz力挺的xxxxgay QQ</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 叫肥貓出來解釋，結果還是裝皮皮，甲甲護衛隊噓不得</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamcute</span><span class="f3 push-content">: 呵Ibaka這種雙重標準每天在八卦版帶風向的早該滾了</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 講的好像劉宇席沒帶風向</span><span class="push-ipdatetime"> 05/17 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MayorKoWenJe</span><span class="f3 push-content">: 喜氣</span><span class="push-ipdatetime"> 05/17 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: ibaka唯一有在做事的 你看看另一個只會上色的甲板主</span><span class="push-ipdatetime"> 05/17 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 幾天沒做事了?</span><span class="push-ipdatetime"> 05/17 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">skoyeee</span><span class="f3 push-content">: 呵</span><span class="push-ipdatetime"> 05/17 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eterbless</span><span class="f3 push-content">: 偽物滾</span><span class="push-ipdatetime"> 05/17 22:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cococooo</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 22:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 媽的，肥貓當版主時直接把逆風的全桶了，更屌</span><span class="push-ipdatetime"> 05/17 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mikocwd</span><span class="f3 push-content">: 可以</span><span class="push-ipdatetime"> 05/17 22:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 那個時候很多鄉民問為什麼八卦版變成甲二版了，廢話</span><span class="push-ipdatetime"> 05/17 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 4X參選竟然那麼多噓...以前是宣布即當選的說</span><span class="push-ipdatetime"> 05/17 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: ，有個亂桶人的甲甲版主誰敢對甲不友善</span><span class="push-ipdatetime"> 05/17 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wangray1769</span><span class="f3 push-content">: 他早就黑掉了</span><span class="push-ipdatetime"> 05/17 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tristanh</span><span class="f3 push-content">: 吉祥物快來</span><span class="push-ipdatetime"> 05/17 22:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MJdavid</span><span class="f3 push-content">: 來看看這次海普跟席拉蕊誰會贏</span><span class="push-ipdatetime"> 05/17 22:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 就算申訴成功，讓你被桶個幾天肥貓的目的也達到了</span><span class="push-ipdatetime"> 05/17 22:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dogkorea5566</span><span class="f3 push-content">: 洨滴出來了擦一下</span><span class="push-ipdatetime"> 05/17 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 只能說讓心眼比屁眼小的人掌權真的很恐怖</span><span class="push-ipdatetime"> 05/17 22:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 推回來</span><span class="push-ipdatetime"> 05/17 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">evan1004</span><span class="f3 push-content">: 呵呵</span><span class="push-ipdatetime"> 05/17 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 看看肥貓挑釁滿天星，還上網裝無辜討拍就覺得噁心</span><span class="push-ipdatetime"> 05/17 22:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwer1988</span><span class="f3 push-content">: 超爛</span><span class="push-ipdatetime"> 05/17 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 甲甲如果覺得委屈 應該問你們家kasion為何不處理吧</span><span class="push-ipdatetime"> 05/17 22:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nbg23456</span><span class="f3 push-content">: 壓力測試...幹，沒用</span><span class="push-ipdatetime"> 05/17 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 甲甲計畫好5/24要大鬧一場了吧，鄉民別只會甲甲只會</span><span class="push-ipdatetime"> 05/17 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 搞肛，收集小感冒而已，其實精明的很</span><span class="push-ipdatetime"> 05/17 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ej83bp6</span><span class="f3 push-content">: 看到恐同捧自己ibak是最會做事的真好笑XD</span><span class="push-ipdatetime"> 05/17 22:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 只覺得</span><span class="push-ipdatetime"> 05/17 22:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 你們這些恐同繼續掙扎噓吧，反正等下晚一點我們就會</span><span class="push-ipdatetime"> 05/17 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amilkamilk</span><span class="f3 push-content">: 派大軍推回來了</span><span class="push-ipdatetime"> 05/17 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 看到甲甲力捧無能肥貓才讓人覺得噁心</span><span class="push-ipdatetime"> 05/17 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">stupideric</span><span class="f3 push-content">: 不要刷存在感</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 唉唷 你們有kasion自己人不處理怪我們喔</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jerry112</span><span class="f3 push-content">: 大便的地方你醬弄，弄壞惹你跟我說醬正常?!</span><span class="push-ipdatetime"> 05/17 22:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sargasso</span><span class="f3 push-content">: 燻雞fat pork</span><span class="push-ipdatetime"> 05/17 22:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 甲甲要call 47噓來救援了嗎</span><span class="push-ipdatetime"> 05/17 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Carfish</span><span class="f3 push-content">: 女神回來惹~~~~</span><span class="push-ipdatetime"> 05/17 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamcute</span><span class="f3 push-content">: 呵 恐甲的邏輯就是反恐甲的人都是甲甲</span><span class="push-ipdatetime"> 05/17 22:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chochosan</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 甲甲的邏輯就是反同的人是隱性甲甲</span><span class="push-ipdatetime"> 05/17 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miler22020</span><span class="f3 push-content">: 甲神~~~~</span><span class="push-ipdatetime"> 05/17 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CalciumPlus</span><span class="f3 push-content">: 四叉我也要加你PAD好友~~~~</span><span class="push-ipdatetime"> 05/17 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jmangeL44</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 噓起來</span><span class="push-ipdatetime"> 05/17 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pixiv</span><span class="f3 push-content">: 好幾個ID瘋狂連噓 真恐怖QQ</span><span class="push-ipdatetime"> 05/17 23:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrAB</span><span class="f3 push-content">: 認真問 為什麼要噓?</span><span class="push-ipdatetime"> 05/17 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sougetu</span><span class="f3 push-content">: 挖靠，你竟然還有在玩PAD</span><span class="push-ipdatetime"> 05/17 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: Q</span><span class="push-ipdatetime"> 05/17 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 擅長文字獄的前版主，不噓嗎？</span><span class="push-ipdatetime"> 05/17 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st9760916</span><span class="f3 push-content">: 哇賽 怎麼黑惹 求解</span><span class="push-ipdatetime"> 05/17 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sargasso</span><span class="f3 push-content">: 揭發同志毒趴用廣告文桶 這邏輯你敢讓他當版主</span><span class="push-ipdatetime"> 05/17 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billykin</span><span class="f3 push-content">: 補血</span><span class="push-ipdatetime"> 05/17 23:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">simpleplanya</span><span class="f3 push-content">: ..................</span><span class="push-ipdatetime"> 05/17 23:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">legendary85</span><span class="f3 push-content">: 邊自拍邊管板</span><span class="push-ipdatetime"> 05/17 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casman</span><span class="f3 push-content">: 女神參選, 一定支持</span><span class="push-ipdatetime"> 05/17 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: ===以上噓文者已列入裝甲中心&#34;已知帶風向ID&#34;名單===</span><span class="push-ipdatetime"> 05/17 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taotzu</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">legendary85</span><span class="f3 push-content">: 毒趴等於廣告文的文字獄，滾去甲板</span><span class="push-ipdatetime"> 05/17 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ej83bp6</span><span class="f3 push-content">: 恐同很想發甲文...有甲版啊XDDDDDDD</span><span class="push-ipdatetime"> 05/17 23:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">simpleplanya</span><span class="f3 push-content">: 晚安</span><span class="push-ipdatetime"> 05/17 23:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 支持</span><span class="push-ipdatetime"> 05/17 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SonyXperiaZ3</span><span class="f3 push-content">: 恐甲的還真多 哇</span><span class="push-ipdatetime"> 05/17 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smartging</span><span class="f3 push-content">: 恐同都來噓</span><span class="push-ipdatetime"> 05/17 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">r30385</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 23:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">i689tw</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ku51655165</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/17 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shutout5566</span><span class="f3 push-content">: 推女神～～</span><span class="push-ipdatetime"> 05/17 23:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DALLEN</span><span class="f3 push-content">: 小喬女神X D DD</span><span class="push-ipdatetime"> 05/17 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YuenYang5566</span><span class="f3 push-content">: e04 那你就是沒時間管阿</span><span class="push-ipdatetime"> 05/17 23:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CREA</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/18 00:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tonyfenny321</span><span class="f3 push-content">: 發陪睡卷啦</span><span class="push-ipdatetime"> 05/18 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PTTakatsuki</span><span class="f3 push-content">: 吉祥物</span><span class="push-ipdatetime"> 05/18 00:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lam1217a</span><span class="f3 push-content">: ?</span><span class="push-ipdatetime"> 05/18 00:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: 噓</span><span class="push-ipdatetime"> 05/18 00:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">x747</span><span class="f3 push-content">: 文字獄可憐人</span><span class="push-ipdatetime"> 05/18 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ttlmos</span><span class="f3 push-content">: 有沒有污衊甲古文的一率水桶灌屁眼的可能性 ?</span><span class="push-ipdatetime"> 05/18 01:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">weboau</span><span class="f3 push-content">: 又是你XDDDDDDD</span><span class="push-ipdatetime"> 05/18 01:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: .</span><span class="push-ipdatetime"> 05/18 01:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kiminocodo</span><span class="f3 push-content">: 朝聖滾</span><span class="push-ipdatetime"> 05/18 01:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hunfu</span><span class="f3 push-content">: 全力支持XDDD</span><span class="push-ipdatetime"> 05/18 02:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lunqun35</span><span class="f3 push-content">: 4X最後還是黑了 (菸</span><span class="push-ipdatetime"> 05/18 02:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kiminocodo</span><span class="f3 push-content">: 噓是一種尊重</span><span class="push-ipdatetime"> 05/18 03:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">horseface</span><span class="f3 push-content">: 顛倒是非的人，滾</span><span class="push-ipdatetime"> 05/18 03:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 希望八卦更好的人就用力噓吧</span><span class="push-ipdatetime"> 05/18 04:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantasibear</span><span class="f3 push-content">: 可愛</span><span class="push-ipdatetime"> 05/18 05:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">go80329</span><span class="f3 push-content">: 有露奶照就選</span><span class="push-ipdatetime"> 05/18 05:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mancer</span><span class="f3 push-content">: 仇恨犯罪該入刑法了。</span><span class="push-ipdatetime"> 05/18 06:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">diablo5566</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/18 07:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neptunium</span><span class="f3 push-content">: 絕對讓你落選！</span><span class="push-ipdatetime"> 05/18 08:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mohism</span><span class="f3 push-content">: 這政見來亂的</span><span class="push-ipdatetime"> 05/18 08:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ioupoiu</span><span class="f3 push-content">: 誇張 這種政見是當大家北七就對了？</span><span class="push-ipdatetime"> 05/18 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Moscato</span><span class="f3 push-content">: 4X你要當版主 政見認真點能嗎</span><span class="push-ipdatetime"> 05/18 09:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dkchronos</span><span class="f3 push-content">: XDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 05/18 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NuClei</span><span class="f3 push-content">: 是覺得自己贏定就試了?</span><span class="push-ipdatetime"> 05/18 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 文字獄滾蛋</span><span class="push-ipdatetime"> 05/18 11:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 毒+甲+性病那篇文章等肥貓上台就要被當廣告文劣退了</span><span class="push-ipdatetime"> 05/18 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 噁心</span><span class="push-ipdatetime"> 05/18 12:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goldenfire</span><span class="f3 push-content">: 我支持四叉貓</span><span class="push-ipdatetime"> 05/18 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">casman</span><span class="f3 push-content">: 比一堆垃圾好</span><span class="push-ipdatetime"> 05/18 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nonocom</span><span class="f3 push-content">: 喵喵必上</span><span class="push-ipdatetime"> 05/18 13:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mohism</span><span class="f3 push-content">: 搞爛Ptt20周年活動...被站方趕下台....</span><span class="push-ipdatetime"> 05/18 13:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 支持貓貓</span><span class="push-ipdatetime"> 05/18 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">miler22020</span><span class="f3 push-content">: 有人自介喔</span><span class="push-ipdatetime"> 05/18 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">covenant</span><span class="f3 push-content">: 幫補血，不知道在黑什麼，風吹起來一堆人就跟著高潮。</span><span class="push-ipdatetime"> 05/18 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">angel07</span><span class="f3 push-content">: 每次都掛名不做事</span><span class="push-ipdatetime"> 05/18 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mohism</span><span class="f3 push-content">: 一堆推的真的都是亂挺 這政見你也挺 根本來亂</span><span class="push-ipdatetime"> 05/18 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">vi000246</span><span class="f3 push-content">: 會滾動有屁用 麻煩滾遠一點好嗎</span><span class="push-ipdatetime"> 05/18 16:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">paca0713</span><span class="f3 push-content">: 被噓的好慘</span><span class="push-ipdatetime"> 05/18 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SmilingMan</span><span class="f3 push-content">: 又來參選版主幫忙吸人氣按讚來賺錢哦？</span><span class="push-ipdatetime"> 05/18 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SmilingMan</span><span class="f3 push-content">: 跟板皇blaz同一時期，也不見你有啥作為抑制他亂政，就</span><span class="push-ipdatetime"> 05/18 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SmilingMan</span><span class="f3 push-content">: 只是隻吉祥物沒屁用，屁精包庇屁精，兩隻屁精當板主肯</span><span class="push-ipdatetime"> 05/18 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SmilingMan</span><span class="f3 push-content">: 定沒好事</span><span class="push-ipdatetime"> 05/18 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chancing</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/18 19:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack801016</span><span class="f3 push-content">: 補血</span><span class="push-ipdatetime"> 05/18 19:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">coon182</span><span class="f3 push-content">: 沒差啦，反正這種咖再怎麼樣還是穩上</span><span class="push-ipdatetime"> 05/18 19:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">toshbio</span><span class="f3 push-content">: 保安~~可以讓人辭了又選 選了又辭的嗎</span><span class="push-ipdatetime"> 05/18 20:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eatk</span><span class="f3 push-content">: 去直播啦</span><span class="push-ipdatetime"> 05/18 21:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 想想八卦以前曾有三隻屁精管板的時代 沒倒真是奇蹟</span><span class="push-ipdatetime"> 05/18 21:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lewlewbo</span><span class="f3 push-content">: XDDDD   還是這麼有人氣耶~~~</span><span class="push-ipdatetime"> 05/18 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lewlewbo</span><span class="f3 push-content">: 八卦要重返農藥惹~~~~~</span><span class="push-ipdatetime"> 05/18 21:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gwenwoo</span><span class="f3 push-content">:  有貓給推</span><span class="push-ipdatetime"> 05/18 22:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">barlin</span><span class="f3 push-content">: 掛一個月然後甚麼都不做嗎ㄏㄏ</span><span class="push-ipdatetime"> 05/18 23:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TrollPtt</span><span class="f3 push-content">: 鬧場造謠討人氣賺錢噁爛死精</span><span class="push-ipdatetime"> 05/18 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">playbigGG</span><span class="f3 push-content">: 甲甲滾出台灣</span><span class="push-ipdatetime"> 05/19 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snailpon</span><span class="f3 push-content">: 唯一支持</span><span class="push-ipdatetime"> 05/19 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tc800627</span><span class="f3 push-content">: 愛你~~~~~</span><span class="push-ipdatetime"> 05/19 15:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MrDino</span><span class="f3 push-content">: 哈哈哈哈啊哈</span><span class="push-ipdatetime"> 05/19 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mazda6680</span><span class="f3 push-content">: 滾啦</span><span class="push-ipdatetime"> 05/19 19:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Yuwuen</span><span class="f3 push-content">: ADSL這種小感冒不要用健保補助</span><span class="push-ipdatetime"> 05/19 19:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">surferblue</span><span class="f3 push-content">: 滾吧</span><span class="push-ipdatetime"> 05/19 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aquaunder</span><span class="f3 push-content">: 什麼白爛政見</span><span class="push-ipdatetime"> 05/20 01:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sinreigensou</span><span class="f3 push-content">: 路過噓</span><span class="push-ipdatetime"> 05/20 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 有的人話說的真的很難聽</span><span class="push-ipdatetime"> 05/20 06:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 說話一直滾動的更噁心</span><span class="push-ipdatetime"> 05/20 08:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fk47826</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/20 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GGrunrunder</span><span class="f3 push-content">: 過氣滾</span><span class="push-ipdatetime"> 05/20 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qaz155196</span><span class="f3 push-content">: 補血</span><span class="push-ipdatetime"> 05/20 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">morrischen2</span><span class="f3 push-content">: ++我的菜 我戀愛惹</span><span class="push-ipdatetime"> 05/20 18:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzzzjjlee</span><span class="f3 push-content">: 噁心，滾。</span><span class="push-ipdatetime"> 05/20 20:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wahdee</span><span class="f3 push-content">: 屁眼大心眼小噁爛愛滋菜花屎眼請去死好嗎?</span><span class="push-ipdatetime"> 05/20 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shiro0701</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/21 01:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">swow</span><span class="f3 push-content">: 恐同崩潰就要推!!!</span><span class="push-ipdatetime"> 05/21 13:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dolana181</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 18:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deltarobot</span><span class="f3 push-content">: 甲甲不意外</span><span class="push-ipdatetime"> 05/22 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mastermind02</span><span class="f3 push-content">: 滾啦</span><span class="push-ipdatetime"> 05/22 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jjkk119</span><span class="f3 push-content">: 噁心 出去! 現在!</span><span class="push-ipdatetime"> 05/22 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">app325</span><span class="f3 push-content">: 快去解釋</span><span class="push-ipdatetime"> 05/22 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunnybody907</span><span class="f3 push-content">: 滾 噁屁精</span><span class="push-ipdatetime"> 05/22 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shinkiro</span><span class="f3 push-content">: 規則不會玩就該多用點腦子，輸了在那邊哭夭還黑人</span><span class="push-ipdatetime"> 05/22 23:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">allyourshit</span><span class="f3 push-content">: 顆顆 看你竄紅又看你倒台 人生不過如此 爽</span><span class="push-ipdatetime"> 05/23 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GPX2000</span><span class="f3 push-content">: 人紅了，我看人也變了，沒啥資格當版主</span><span class="push-ipdatetime"> 05/23 01:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">go80329</span><span class="f3 push-content">: 可憐 搞成這樣]</span><span class="push-ipdatetime"> 05/23 07:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">daoqu</span><span class="f3 push-content">: 來了</span><span class="push-ipdatetime"> 05/23 07:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qnismine</span><span class="f3 push-content">: 絕對不會投你</span><span class="push-ipdatetime"> 05/23 09:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">w9</span><span class="f3 push-content">: 朝聖</span><span class="push-ipdatetime"> 05/23 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 你還來亂啊 滾吧你</span><span class="push-ipdatetime"> 05/23 11:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eternal1120</span><span class="f3 push-content">: 朝聖.......你的人格只值幾千元???</span><span class="push-ipdatetime"> 05/23 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">imega</span><span class="f3 push-content">: 噁心</span><span class="push-ipdatetime"> 05/23 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chean1020</span><span class="f3 push-content">: 黑了，只投了溫馨哥</span><span class="push-ipdatetime"> 05/23 12:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g007</span><span class="f3 push-content">: 特地回來噓，你真的蠻噁心的。只會讓別人越來越覺得同志很噁</span><span class="push-ipdatetime"> 05/23 12:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g007</span><span class="f3 push-content">: 心又做作。</span><span class="push-ipdatetime"> 05/23 12:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">g007</span><span class="f3 push-content">: 嫌活動爛，有骨氣一點就拒絕領獎。給完一星還去領獎，只會讓</span><span class="push-ipdatetime"> 05/23 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g007</span><span class="f3 push-content">: 人覺得沒骨氣。</span><span class="push-ipdatetime"> 05/23 12:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">app325</span><span class="f3 push-content">: 補</span><span class="push-ipdatetime"> 05/23 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ab2326764</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/23 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GGinin0614</span><span class="f3 push-content">: z</span><span class="push-ipdatetime"> 05/23 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EGMMA</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/23 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jerry55667h</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/23 15:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PlayPtt</span><span class="f3 push-content">: 選上後若有罷免案 必有我一票</span><span class="push-ipdatetime"> 05/23 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cryy</span><span class="f3 push-content">: 你是自大高傲狂妄吧 謙卑在哪</span><span class="push-ipdatetime"> 05/23 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hulan5566</span><span class="f3 push-content">: 噁</span><span class="push-ipdatetime"> 05/24 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aswin12000</span><span class="f3 push-content">: 甲甲不意外 這種政見也能上</span><span class="push-ipdatetime"> 05/24 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aswin12000</span><span class="f3 push-content">: 灌票輸別人 就抹黑店家 超級謙卑的</span><span class="push-ipdatetime"> 05/24 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">imega</span><span class="f3 push-content">: 噁心</span><span class="push-ipdatetime"> 05/24 03:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">seraph9408</span><span class="f3 push-content">: 讚</span><span class="push-ipdatetime"> 05/24 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">allyourshit</span><span class="f3 push-content">: 8000甲 你只值這個價</span><span class="push-ipdatetime"> 05/24 20:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ChicagoFire</span><span class="f3 push-content">: 4X2000貓</span><span class="push-ipdatetime"> 05/26 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neptunium</span><span class="f3 push-content">: 再噓</span><span class="push-ipdatetime"> 05/28 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">uafone</span><span class="f3 push-content">: 人紅了 當初的和善謙卑風格已經蕩然無存</span><span class="push-ipdatetime"> 05/28 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ptt80357</span><span class="f3 push-content">: <a href="http://i.imgur.com/OF2cNR9.jpg" target="_blank" rel="nofollow">http://i.imgur.com/OF2cNR9.jpg</a></span><span class="push-ipdatetime"> 05/28 21:39
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="OF2cNR9"><a href="//imgur.com/OF2cNR9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nocrazim8205</span><span class="f3 push-content">: 呵呵呵呵呵呵呵呵呵呵呵~~甲甲之恥</span><span class="push-ipdatetime"> 05/28 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">neverwakeupf</span><span class="f3 push-content">: 甲上</span><span class="push-ipdatetime"> 06/03 13:21
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495030135.A.EC2.html?cacheKey=2052-41911323&offset=47068&offset-sig=6d654037a965e8a0c2d9cabdcfa7808e9aa6a795" data-longpollurl="/v1/longpoll?id=8c249bf91563998597546ebb86519ef3f3e2b104" data-offset="47068"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

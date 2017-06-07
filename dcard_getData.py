@@ -121,7 +121,7 @@ class DcardWrapper:
                         wordInTitles = re.findall(eachWord, eachPost['title'])
                     except:
                         print ("")
-                        print ("Error key title", eachPost)
+                        print ("Error key title: ", eachPost)
                         continue
                     else:
                     #if wordInTitles:
@@ -134,14 +134,14 @@ class DcardWrapper:
                                 wordResultWrapper.fromFemale += len(wordInTitles)
                         except:
                             print ("")
-                            print ("Error in title",  eachPost['title'])
+                            print ("Error in title: ",  eachPost['title'])
                             continue
 
                     try:
                         wordInContent = re.findall(eachWord, eachPost['content'])
                     except:
                         print ("")
-                        print ("Error key content", eachPost)
+                        print ("Error key content: ", eachPost)
                         continue
 
                     if wordInContent:
@@ -169,8 +169,7 @@ class DcardWrapper:
                                         wordResultWrapper.fromFemale += len(wordInComment)
                         except:
                             print ("")
-                            print ("Error in eachComment", eachComment)
-                            print ("")
+                            print ("Error in eachComment: ", eachComment)
 
                 print ("Searching %s in %s ...  %d / %d               " % (eachWord, forumName, self.searching_num, self.searching_num))
                 typeResultWrapper.addWord(wordResultWrapper)

@@ -1,0 +1,159 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495700506.A.CFD.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 工程師被軟禁　用「程式語言」求救　同 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content=" 要想到這麼遠也太腦補了吧?
+ 他檔案專案的資料夾應該是
+ Src/Ordercenter/Service/test.js
+ 問題是他媽要知道傳SOS 至少要有柯南智商等級
+ 還有甚麼 &#34;二級制&#34; = =&#34;
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 工程師被軟禁　用「程式語言」求救　同">
+<meta property="og:description" content=" 要想到這麼遠也太腦補了吧?
+ 他檔案專案的資料夾應該是
+ Src/Ordercenter/Service/test.js
+ 問題是他媽要知道傳SOS 至少要有柯南智商等級
+ 還有甚麼 &#34;二級制&#34; = =&#34;
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495700506.A.CFD.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495700506.A.CFD.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wa007123456 (大笨羊)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 工程師被軟禁　用「程式語言」求救　同</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 16:21:43 2017</span></div>
+<span class="f6">: srcordercenterservice」的一個testjs，其中還提及「控制類」的字樣，「表面上是在
+</span><span class="f6">: 說工作的事情，但我一聽就知道不對勁，因為那個代碼早就已經上線，路徑順序也不是小
+</span><span class="f6">: 張說的那樣，且測試根本不會影響到生產系統。」
+</span><span class="f6">: 發現異狀的老喻也沒揭穿，配合的演戲，並立刻向公司的管理團隊通知此事，出動所有工
+</span><span class="f6">: 程師一起推敲，終於發現小張故意把代碼順序說錯其實是要傳遞「SOS」的訊息，而「控
+</span><span class="f6">: 制類」指的就是他被人控制了！
+</span><span class="f6">: 接著老喻馬上回撥電話，並傳了一段代碼給小張，其中還有6這個數字，並著重提到「轉
+</span><span class="f6">: 換」這個字眼，小張推敲以後想到，編程用的是二進制，數字6轉換成二級制就是「110」
+</span><span class="f6">: ，代表公司已經知道他想傳遞的求救訊息！
+</span><span class="f6">: 在解出求救訊息以後，公司迅速集結一支10多人的救援小隊，有的人負責到天津報警，有
+</span><span class="f6">: 的人負責和小張的家人取得聯繫，也有人負責找出求救信號的發出地點，鎖定小張被困的
+</span><span class="f6">: 方圓5公里，在警方的協助下，在監視畫面找出小張的所在地，成功將他救出！
+</span>
+
+ 要想到這麼遠也太腦補了吧?
+
+ 他檔案專案的資料夾應該是
+
+ Src/Ordercenter/Service/test.js
+
+ 問題是他媽要知道傳SOS 至少要有柯南智商等級
+
+ 還有甚麼 &#34;二級制&#34; = =&#34;
+
+ 明明二進位(Binary Digit)....
+
+  110 =1*2^2+1*2^1+0*2^0
+
+ 真是....傳奇故事啊.....
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.163.199.186
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495700506.A.CFD.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495700506.A.CFD.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #厲害</span><span class="push-ipdatetime"> 05/25 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesenne</span><span class="f3 push-content">: 記者編故事錯了嗎？</span><span class="push-ipdatetime"> 05/25 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: 記者文組</span><span class="push-ipdatetime"> 05/25 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newways</span><span class="f3 push-content">: 二進制的用法沒問題吧</span><span class="push-ipdatetime"> 05/25 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ttQoQ</span><span class="f3 push-content">: 打錯字吧 前面那句說二進制 後面打成二級制</span><span class="push-ipdatetime"> 05/25 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 目錄錯-&gt;ＳOS ６個字-&gt;１10,對岸肥宅碼農的水準就這麼高</span><span class="push-ipdatetime"> 05/25 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pierreqq</span><span class="f3 push-content">: 整篇根本在是文組在污辱碼農的邏輯觀</span><span class="push-ipdatetime"> 05/25 16:27
+</span></div><span class="f2">※ 編輯: wa007123456 (118.163.199.186), 05/25/2017 16:28:42
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 肥宅被軟禁，如何用鄉民語言求救？</span><span class="push-ipdatetime"> 05/25 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bootstoasses</span><span class="f3 push-content">: 樓上 呼叫海德格阿</span><span class="push-ipdatetime"> 05/25 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cadia</span><span class="f3 push-content">: [爆掛] 我被軟禁了                              還要我教</span><span class="push-ipdatetime"> 05/25 16:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 這樣會被歹徒發現</span><span class="push-ipdatetime"> 05/25 16:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495700506.A.CFD.html?cacheKey=2052-1322088&offset=2520&offset-sig=8026c31dcfcbebc95ababd4f6ed3b74db16f433d" data-longpollurl="/v1/longpoll?id=46c8d452f50fe072248ec6918c618f972145241f" data-offset="2520"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

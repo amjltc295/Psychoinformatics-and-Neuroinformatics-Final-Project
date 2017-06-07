@@ -1,0 +1,196 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496725126.A.AF0.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 蘋果設計師是怎麼了? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="看完wwdc懶人包
+iOS哪個控制中心也太慘了
+醜到讓人想罵髒話耶
+長這屌樣...
+https://goo.gl/NYFZIW
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 蘋果設計師是怎麼了?">
+<meta property="og:description" content="看完wwdc懶人包
+iOS哪個控制中心也太慘了
+醜到讓人想罵髒話耶
+長這屌樣...
+https://goo.gl/NYFZIW
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496725126.A.AF0.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496725126.A.AF0.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hugh509 ((0_ 0))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 蘋果設計師是怎麼了?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 12:58:43 2017</span></div>
+看完wwdc懶人包
+iOS哪個控制中心也太慘了
+醜到讓人想罵髒話耶
+
+長這屌樣...
+<a href="https://goo.gl/NYFZIW" target="_blank" rel="nofollow">https://goo.gl/NYFZIW</a>
+
+蘋果設計師是怎樣?
+分紅太少，所以很賭爛亂做?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.118.184.253
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496725126.A.AF0.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496725126.A.AF0.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ANiZan9991</span><span class="f3 push-content">: 水水崩潰護航</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noodlesnice</span><span class="f3 push-content">: 比還是屌打安卓</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wuyiulin</span><span class="f3 push-content">: 崩潰</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SonyXperiaZ3</span><span class="f3 push-content">: 應該是一例一休害的</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nacy204327</span><span class="f3 push-content">: 真的蠻醜的 好像散落的文具</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">netccl</span><span class="f3 push-content">: 排成一直線可以消掉一行</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovepork</span><span class="f3 push-content">: i dont car</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pc0805</span><span class="f3 push-content">: 彥州出來講啊</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Yadsmood</span><span class="f3 push-content">: 水果行不賣垃圾</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tiffcmh</span><span class="f3 push-content">: 覺得醜是信仰問題</span><span class="push-ipdatetime"> 06/06 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 抄window app版面吧</span><span class="push-ipdatetime"> 06/06 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 2樓不要公然自慰 很難看</span><span class="push-ipdatetime"> 06/06 13:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">if2</span><span class="f3 push-content">: 我覺得windows的metro style很好看  可惜手機太糞了</span><span class="push-ipdatetime"> 06/06 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ERQQ</span><span class="f3 push-content">: 還不錯阿  醜在哪</span><span class="push-ipdatetime"> 06/06 13:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">force5566</span><span class="f3 push-content">: 靈感來自battle</span><span class="push-ipdatetime"> 06/06 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 反正你也不會買</span><span class="push-ipdatetime"> 06/06 13:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DALLEN</span><span class="f3 push-content">: 彥州呢？只會嘴</span><span class="push-ipdatetime"> 06/06 13:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deltarobot</span><span class="f3 push-content">: 反正看久就習慣了</span><span class="push-ipdatetime"> 06/06 13:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 抄wp的。。。。。</span><span class="push-ipdatetime"> 06/06 13:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XXXXSOW</span><span class="f3 push-content">: 水果行就是潮 你懂嗎？</span><span class="push-ipdatetime"> 06/06 13:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 除了邊框多圓角，其餘跟windows phone完全一樣。</span><span class="push-ipdatetime"> 06/06 13:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kingofknife</span><span class="f3 push-content">: 有很醜嗎....只是不習慣就說醜的人多數吧</span><span class="push-ipdatetime"> 06/06 13:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZNDL</span><span class="f3 push-content">: 你確定是真的嗎</span><span class="push-ipdatetime"> 06/06 13:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">i7851</span><span class="f3 push-content">: 做成圓角超北七的，說硬要用自己的習慣做flat design</span><span class="push-ipdatetime"> 06/06 13:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LucAngel</span><span class="f3 push-content">: 重新定義控制中心不行嗎？</span><span class="push-ipdatetime"> 06/06 13:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abc55322</span><span class="f3 push-content">: 這不是win10手機？</span><span class="push-ipdatetime"> 06/06 13:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomzakeru</span><span class="f3 push-content">: 覺得還好啊,實用就好</span><span class="push-ipdatetime"> 06/06 13:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeay</span><span class="f3 push-content">: 這只證明你沒信仰，假果粉，會被唾棄，呸！</span><span class="push-ipdatetime"> 06/06 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alau</span><span class="f3 push-content">: 你懂？</span><span class="push-ipdatetime"> 06/06 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">krousxchen</span><span class="f3 push-content">: 之前罵不能自定義，現在可以自定義就罵它醜lol</span><span class="push-ipdatetime"> 06/06 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">braai</span><span class="f3 push-content">: 明明就是你的問題 請閱讀賈伯斯傳3遍 增加信仰</span><span class="push-ipdatetime"> 06/06 13:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sdflskj</span><span class="f3 push-content">: 庫克就老狗變不出新把戲阿</span><span class="push-ipdatetime"> 06/06 13:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Grothendieck</span><span class="f3 push-content">: 代表你不適合用蘋果 滾</span><span class="push-ipdatetime"> 06/06 13:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rock0807</span><span class="f3 push-content">: 重新定義介面  信仰不足請自行檢討</span><span class="push-ipdatetime"> 06/06 13:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piqidibi</span><span class="f3 push-content">: 蘋果UI美感一向都這樣。覺得醜請習慣他</span><span class="push-ipdatetime"> 06/06 13:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joyca</span><span class="f3 push-content">:  <a href="http://i.imgur.com/PrnYtpO.jpg" target="_blank" rel="nofollow">http://i.imgur.com/PrnYtpO.jpg</a></span><span class="push-ipdatetime"> 06/06 13:15
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="PrnYtpO"><a href="//imgur.com/PrnYtpO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a6dddd</span><span class="f3 push-content">: 教主負責</span><span class="push-ipdatetime"> 06/06 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a87569650</span><span class="f3 push-content">: 拉屎都有人吃 真好賺</span><span class="push-ipdatetime"> 06/06 13:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDD</span><span class="f3 push-content">: 審美觀每人不同, android那個叫雜亂</span><span class="push-ipdatetime"> 06/06 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aegisWIsL</span><span class="f3 push-content">: 有信仰就夠了</span><span class="push-ipdatetime"> 06/06 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 跟我唸一遍 哇歐~ Amazing! 再看一次 是不是變美了呀 ^_&lt;</span><span class="push-ipdatetime"> 06/06 13:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rasaze</span><span class="f3 push-content">: 這設計師是從wp團隊資源回收的吧？</span><span class="push-ipdatetime"> 06/06 13:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">h8565656p</span><span class="f3 push-content">: 你不夠潮，結案</span><span class="push-ipdatetime"> 06/06 13:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SolidSnake</span><span class="f3 push-content">: 非ui design專業的廢宅就別出來秀下限了八</span><span class="push-ipdatetime"> 06/06 13:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tyifgee</span><span class="f3 push-content">: 超醜 有失蘋果水準</span><span class="push-ipdatetime"> 06/06 13:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sin17</span><span class="f3 push-content">: 潮</span><span class="push-ipdatetime"> 06/06 13:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">THKLuga</span><span class="f3 push-content">: 你看螢幕幹什麼？重點在背後的logo懂不懂？</span><span class="push-ipdatetime"> 06/06 13:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 反正再爛果粉還是掏錢買帳，有差嗎？</span><span class="push-ipdatetime"> 06/06 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 還好</span><span class="push-ipdatetime"> 06/06 13:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cardemily</span><span class="f3 push-content">: 真的很醜...</span><span class="push-ipdatetime"> 06/06 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">salvador1988</span><span class="f3 push-content">: WP界面好看不只十倍 只是系統沒人用QQ</span><span class="push-ipdatetime"> 06/06 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mathrew</span><span class="f3 push-content">: WP 的好看多了</span><span class="push-ipdatetime"> 06/06 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dic1911</span><span class="f3 push-content">: 蘋果就電子垃圾 不服來辯</span><span class="push-ipdatetime"> 06/06 13:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ciiiwa</span><span class="f3 push-content">: 怎麼看都還是比windows好看阿 只有我這樣嗎</span><span class="push-ipdatetime"> 06/06 13:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gdtg10900</span><span class="f3 push-content">: 每年都被嫌醜阿還沒習慣喔</span><span class="push-ipdatetime"> 06/06 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toypoodle007</span><span class="f3 push-content">: 水果行開始改賣垃圾了</span><span class="push-ipdatetime"> 06/06 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gdtg10900</span><span class="f3 push-content">: 比鐵皮屋跟醜招牌國家有設計感多了</span><span class="push-ipdatetime"> 06/06 14:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Argos</span><span class="f3 push-content">: 是很醜沒錯 安卓更醜 windows那跟台灣街上招牌差不多</span><span class="push-ipdatetime"> 06/06 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tuna0214</span><span class="f3 push-content">: 反指標</span><span class="push-ipdatetime"> 06/06 14:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">n0029480300</span><span class="f3 push-content">: windows的介面都還比這好看</span><span class="push-ipdatetime"> 06/06 14:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric112</span><span class="f3 push-content">: 每況愈下，但還是贏安卓一大截難怪蘋果還可以囂張</span><span class="push-ipdatetime"> 06/06 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YALEMY</span><span class="f3 push-content">: 沒了賈就什麼也創新不出來的一家公司</span><span class="push-ipdatetime"> 06/06 14:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">modkk</span><span class="f3 push-content">: 賈伯斯死後，我就很少用iPhone了，家裡給我i7，我用也覺得</span><span class="push-ipdatetime"> 06/06 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">modkk</span><span class="f3 push-content">: 一般</span><span class="push-ipdatetime"> 06/06 14:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">noodlesnice</span><span class="f3 push-content">: 公然自慰？看看那悲哀安卓系統汰換率</span><span class="push-ipdatetime"> 06/06 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digger5566</span><span class="f3 push-content">: 覺得醜就是信仰不夠 請充值</span><span class="push-ipdatetime"> 06/06 15:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">huabandd</span><span class="f3 push-content">: 做成一頁方便多了</span><span class="push-ipdatetime"> 06/06 15:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SelfishGene</span><span class="f3 push-content">: 蘋果真正設計師是賈伯斯 他掛了之後 蘋果就無美感了</span><span class="push-ipdatetime"> 06/06 19:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 票釀</span><span class="push-ipdatetime"> 06/06 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">enim</span><span class="f3 push-content">: 最強的死了，其他都平凡人</span><span class="push-ipdatetime"> 06/07 11:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496725126.A.AF0.html?cacheKey=2052-2752719&offset=7511&offset-sig=aefdce5a2448486deadb13e79bbfaf231257c6e3" data-longpollurl="/v1/longpoll?id=77a5615eab72f642385466046e3cdaeb1eb9429f" data-offset="7511"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

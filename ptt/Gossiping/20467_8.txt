@@ -1,0 +1,161 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495214749.A.26B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 長野農協因金針菇有金屬片自主回收 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+NHK
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 長野農協因金針菇有金屬片自主回收">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+NHK
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495214749.A.26B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495214749.A.26B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">nonnon (にゃんぱすー)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 長野農協因金針菇有金屬片自主回收</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 01:25:41 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+NHK
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+エノキダケに金属片 「ＪＡながの」が９万袋余を自主回収
+
+
+長野市的「長野農協」因為疑似出產的金針菇中混入金屬片而將9萬餘袋該樣商品自主回收。
+回收的是由「長野農協」的農業合作法人「志賀高原培養中心生產組合」生產的金針菇，
+合計9萬1350袋。
+
+根據農協表示，18日上午進行金針菇出貨前檢查後，發現其中有10袋混入了金屬片。
+現場發現製作過程中的一部機器的鋼絲因為鏽化而造成部分脫落，農協研判金屬片應該是
+脫落鋼絲的部分。
+
+製造過程經過這部機器的金針菇，從這個月15日到18日共送至含長野縣11個都道府縣，
+但到目前為止尚未出現確認的被害個案。
+
+農協表示除了將該商品全數回收下架之外，已經被消費者購買的該商品也開放退貨。
+長野農協表示針對本次的事件對流通業者及消費者造成困擾感到非常抱歉。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="https://goo.gl/fa3G1L" target="_blank" rel="nofollow">https://goo.gl/fa3G1L</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+
+
+<a href="http://nyanpass.com/" target="_blank" rel="nofollow">http://nyanpass.com/</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.118.185
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495214749.A.26B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495214749.A.26B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gigi030507</span><span class="f3 push-content">: 反觀</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilovedandan</span><span class="f3 push-content">:    盲腸</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fonghai</span><span class="f3 push-content">: 五樓屁眼</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 金屬片？是有裝RFIDㄇXD</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><span class="f2">※ 編輯: nonnon (114.36.118.185), 05/20/2017 01:27:30
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 台灣廠商會屎臉換一包給你</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leamaSTC</span><span class="f3 push-content">: 台灣應該是有立委會要求國賠吧</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leamaSTC</span><span class="f3 push-content">: 消費者買到=&gt;國賠  沒人買到=&gt;國賠給農夫</span><span class="push-ipdatetime"> 05/20 01:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tadshift2</span><span class="f3 push-content">: 害臺灣人吃到黑心治癌，十萬交保。</span><span class="push-ipdatetime"> 05/20 01:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">webster1112</span><span class="f3 push-content">: 台灣業者回收改標加價:高鐵高鈣多工法 反映成本 XD</span><span class="push-ipdatetime"> 05/20 01:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495214749.A.26B.html?cacheKey=2052-35637668&offset=2255&offset-sig=59ec64d47aed851839446d29802f718495ce7e6a" data-longpollurl="/v1/longpoll?id=32f3797c5dbfd3218498a5a182c9fdce2f452cc5" data-offset="2255"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

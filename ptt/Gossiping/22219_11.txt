@@ -1,0 +1,179 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496408525.A.B67.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 高考一級新制 第二試人數將減少 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="高考一級新制 第二試人數將減少
+新聞網址:http://tinyurl.com/yafr47hf
+2017-06-02 16:16聯合報 記者呂思逸╱即時報導
+限定博士生報考的高考一級考試將有新制，考試院本周通過高考考試規則修正案，未來進
+入高考一級第二試人數將減少，口試方式也改由典試委員依據用人機關需求，決議個別口
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 高考一級新制 第二試人數將減少">
+<meta property="og:description" content="高考一級新制 第二試人數將減少
+新聞網址:http://tinyurl.com/yafr47hf
+2017-06-02 16:16聯合報 記者呂思逸╱即時報導
+限定博士生報考的高考一級考試將有新制，考試院本周通過高考考試規則修正案，未來進
+入高考一級第二試人數將減少，口試方式也改由典試委員依據用人機關需求，決議個別口
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496408525.A.B67.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496408525.A.B67.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">cy4750 (CY)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 高考一級新制 第二試人數將減少</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 21:02:01 2017</span></div>
+
+
+高考一級新制 第二試人數將減少
+
+新聞網址:<a href="http://tinyurl.com/yafr47hf" target="_blank" rel="nofollow">http://tinyurl.com/yafr47hf</a>
+
+2017-06-02 16:16聯合報 記者呂思逸╱即時報導
+
+限定博士生報考的高考一級考試將有新制，考試院本周通過高考考試規則修正案，未來進
+入高考一級第二試人數將減少，口試方式也改由典試委員依據用人機關需求，決議個別口
+試或團體討論獲併計，新制最快今年上路。
+
+高考一級考試總計三試，第一試為筆試、第二試為著作或發明成績、第三試為口試，再以
+三位審查委員評分總和、平均成績。
+
+依據現行規範，前百分之十五到考者都能進入第二試，若人數若未達需用名額三倍，第二
+試名額提高制需用名額三倍。
+
+考選部解說，高考一級限定博士生報考，凡錄取者皆為儲備幹部，「需用名額少」，現行
+規範讓許多應考者都進入第二試、參與口試，影響審查著作或發明的品質與效率，也浪費
+行政資源，修正案提議改由典試委員依據該類科口試形式，決議第二試錄取名額。
+
+高考一級口試方式也將修改，現行規範口試採團體討論，若到考人數不足五人者，採個別
+口試，未來將改為典試委員可依據用人機關需求，決議個別口試或團體討論或兩者併試。
+
+考選部指出，團體討論、個別口試評估應考者不同，個別口試評量儀態、溝通能力、人格
+特質、才識、應變能力，團體討論主持會議、組織與分析能力、團體適應力、壓力忍受性
+等，未來將由典試委員評估決議口試方式，或者兩者併用。
+
+另外，高級一級考試規範也修正，應考資格限定，舉凡褫奪公權、仍在服刑者、曾貪汙遭
+判刑等皆不得應考。
+
+
+--
+詐騙素質:<a href="http://tinyurl.com/q7r3t2u" target="_blank" rel="nofollow">http://tinyurl.com/q7r3t2u</a>
+
+文章代碼(AID): <a href="/bbs/joke/M.1396964664.A.101.html" target="_blank" rel="nofollow">#1JG_qu41 (joke)</a>
+
+文章網址: <a href="http://www.ptt.cc/bbs/joke/M.1396964664.A.101.html" target="_blank" rel="nofollow">http://www.ptt.cc/bbs/joke/M.1396964664.A.101.html</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 124.11.243.171
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496408525.A.B67.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496408525.A.B67.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 以前還有甲等特考呢  馬英九</span><span class="push-ipdatetime"> 06/02 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovechen239</span><span class="f3 push-content">: 高考一級是薦8嗎？</span><span class="push-ipdatetime"> 06/02 21:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 以前是簡十  現在剩薦九</span><span class="push-ipdatetime"> 06/02 21:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ds1999h</span><span class="f3 push-content">: 九等到頂也沒十萬的工作還是算了吧…  台積新人薪水屌打</span><span class="push-ipdatetime"> 06/02 21:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ds1999h</span><span class="f3 push-content">: 版上大推的高考調查局警特</span><span class="push-ipdatetime"> 06/02 21:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 本來就該全面簡化了 畢竟薪水又不是很高</span><span class="push-ipdatetime"> 06/02 21:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ds1999h</span><span class="f3 push-content">: 一堆公職的井底之蛙還活在自己的世界  以為所有工作就公</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ds1999h</span><span class="f3 push-content">: 職最好  外面的工作都很差</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazwsx0128</span><span class="f3 push-content">: 殺小，不是鄉民說所有工作就公職最爽嗎？這風向變太快</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ds1999h</span><span class="f3 push-content">: 每天就只會簽簽簽  久了就沒競爭力了</span><span class="push-ipdatetime"> 06/02 21:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 外面工作本來就很好了 有誰說差？</span><span class="push-ipdatetime"> 06/02 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 博士才能考的高考一級 結果只能當薦九的課長</span><span class="push-ipdatetime"> 06/02 21:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovechen239</span><span class="f3 push-content">: 公職要看什麼公職啊 如果是議員立委當然爽啊</span><span class="push-ipdatetime"> 06/02 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cliffx</span><span class="f3 push-content">: 板上友人大推? 你活在哪個平行世界</span><span class="push-ipdatetime"> 06/02 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ds1999h</span><span class="f3 push-content">: 高考一級九等都是中央的專員缺啦</span><span class="push-ipdatetime"> 06/02 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kutkin</span><span class="f3 push-content">: 整天台積電....</span><span class="push-ipdatetime"> 06/02 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cliffx</span><span class="f3 push-content">:    有</span><span class="push-ipdatetime"> 06/02 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ams9</span><span class="f3 push-content">: 乾脆將台積電收歸國有 公開招考算了</span><span class="push-ipdatetime"> 06/02 21:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hhtj</span><span class="f3 push-content">: 不錯不錯</span><span class="push-ipdatetime"> 06/02 21:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinuhata</span><span class="f3 push-content">: 外面工作好 怎麼還一堆人在眼紅說公務員過太爽XD 鄉民能</span><span class="push-ipdatetime"> 06/02 21:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinuhata</span><span class="f3 push-content">: 不能不要一天到晚打自己臉</span><span class="push-ipdatetime"> 06/02 21:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">syc0222</span><span class="f3 push-content">: 能酸就酸，酸好酸滿，廠廠</span><span class="push-ipdatetime"> 06/02 21:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">squard</span><span class="f3 push-content">: 不然要去鴻海、華碩、台積電、聯電沒日沒夜的嗎</span><span class="push-ipdatetime"> 06/03 00:02
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496408525.A.B67.html?cacheKey=2052-1383284&offset=3954&offset-sig=e01d6f6c1f53863036a9cdca25f3380ba95cb06f" data-longpollurl="/v1/longpoll?id=6f6ba63789db4476dd15a273ee5e173ac8547613" data-offset="3954"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,205 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495591592.A.504.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 不只吳念真！台灣妖怪村曾提告被指「想占 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:UDN
+2.完整新聞標題:
+不只吳念真！台灣妖怪村曾提告被指「想占全聯便宜」
+3.完整新聞內文:
+2017-05-24 08:07聯合報 記者雷光涵╱即時報導
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 不只吳念真！台灣妖怪村曾提告被指「想占">
+<meta property="og:description" content="1.媒體來源:UDN
+2.完整新聞標題:
+不只吳念真！台灣妖怪村曾提告被指「想占全聯便宜」
+3.完整新聞內文:
+2017-05-24 08:07聯合報 記者雷光涵╱即時報導
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495591592.A.504.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495591592.A.504.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">JimOBrien (family man)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 不只吳念真！台灣妖怪村曾提告被指「想占</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 10:06:16 2017</span></div>
+<span class="f0 hl">1.媒體來源:</span><span class="hl">UDN</span>
+
+<span class="f0 hl">2.完整新聞標題:</span>
+<span class="f3 hl">不只吳念真！台灣妖怪村曾提告被指「想占全聯便宜」</span>
+
+<span class="f0 hl">3.完整新聞內文:</span>
+<span class="f0 hl">2017-05-24 08:07聯合報 記者雷光涵╱即時報導</span>
+全聯福利中心爆出未經授權、使用導演吳念真照片放在全聯《生活誌》
+上的事件，而全聯疑使用他人未經授權的肖像、商標，似乎並非第一次！
+
+<span class="f6 hl">鬼才設計師「牛哥」曾俊琳</span>具名「台灣妖怪村設計總監牛哥」，在知名
+導演吳念真的臉書留言，指<span class="f5 hl">全聯用他們的眼球商標辦妖怪音樂季</span>，他們
+提告，<span class="f5 hl">法院判決卻指「</span><span class="f2 hl">他們是不小心的，無犯罪意圖</span><span class="f5 hl">」，連續使用兩個</span>
+<span class="f5 hl">商標都</span><span class="f3 hl">沒事</span><span class="f5 hl">。</span>
+<a href="http://i.imgur.com/Cupa09n.jpg" target="_blank" rel="nofollow"><span class="f0 hl">http://i.imgur.com/Cupa09n.jpg</span></a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="Cupa09n"><a href="//imgur.com/Cupa09n"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>他說，台灣人喜愛的吳導，「他們用您的照片哪需要您同意，因為他們
+<span class="f1 hl">已經把防火牆做好了</span>」。
+
+曾俊琳表示，全聯混淆他們的商標辦音樂季買門票一張<span class="f3 hl">750到1200元</span>，
+妖怪村發存證信函連理都不理，開庭時律師當著法官的面說，<span class="f6 hl">全聯用妖</span>
+<span class="f6 hl">怪商標來辦活動是</span><span class="f3 hl">為妖怪村好</span><span class="f6 hl">，因為他們有800萬會員可以跟妖怪村搭</span>
+<span class="f6 hl">配活動。</span>
+
+他說，法官要他們私下協調的時候，對方律師<span class="f2 hl">揶揄台灣妖怪村台不上國</span>
+<span class="f2 hl">際舞台，還不是模仿日本鬼太郎。</span>但幾年前日本鬼太郎來台灣辦展覽還
+派人跟妖怪村授權，留言者說，<span class="f6 hl">全聯律師還拍桌子說訴訟是為了占他們</span>
+<span class="f6 hl">便宜，什麼無恥不要臉的……為了覬覦他們800萬會員</span>，才會用訴訟來
+達成自己的目的。「那時和全聯的訴訟事件，我深深體會，全聯……不
+是我想像和全聯先生憨厚實在的樣子」。
+<a href="http://i.imgur.com/1GBPMF7.jpg" target="_blank" rel="nofollow"><span class="f0 hl">http://i.imgur.com/1GBPMF7.jpg</span></a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="1GBPMF7"><a href="//imgur.com/1GBPMF7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>文末並強調「以上所言如有不實，本人願負所有法律責任」。
+<a href="http://i.imgur.com/hrxd04S.jpg" target="_blank" rel="nofollow"><span class="f0 hl">http://i.imgur.com/hrxd04S.jpg</span></a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="hrxd04S"><a href="//imgur.com/hrxd04S"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f0 hl">鬼才設計師「牛哥」曾俊琳具名「台灣妖怪村設計總監牛哥」，在知名</span>
+<span class="f0 hl">導演吳念真的臉書留言，指全聯用他們的眼球商標辦妖怪音樂季，他們</span>
+<span class="f0 hl">提告，法院判決卻指「他們是不小心的，無犯罪意圖」，連續使用兩個</span>
+<span class="f0 hl">商標都沒事。圖／翻攝自吳念真臉書</span>
+
+<span class="f0 hl">4.完整新聞連結 (或短網址):</span>
+<a href="https://udn.com/news/story/6656/2481463" target="_blank" rel="nofollow">https://udn.com/news/story/6656/2481463</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+律師團很強大
+下面留言請小心囉~
+
+--
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimgordon</span><span class="f3 push-content">:我台灣政權 都不放台灣憲法跟國名 改放舊中國憲法跟國號</span><span class="push-ipdatetime">09/05 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimgordon</span><span class="f3 push-content">:這兩個配起來非常棒 最好再實行大中國課綱</span><span class="push-ipdatetime">09/05 15:47
+</span></div><span class="hl">推</span><span class="f3 hl"> justjihyun</span><span class="f3">:那就是外來政權了吧..                                 </span>09/05 15:48
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kimgordon</span><span class="f3 push-content">:不是外來政權 這個台灣政權 治理起來跟中國政權90%很像</span><span class="push-ipdatetime">09/05 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pusufu</span><span class="f3 push-content">:那就是中國政權阿幹</span><span class="push-ipdatetime">09/05 15:50
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.137.128.149
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495591592.A.504.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495591592.A.504.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 收割了</span><span class="push-ipdatetime"> 05/24 10:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 嘿嘿嘿</span><span class="push-ipdatetime"> 05/24 10:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 妖怪村就抄襲日本的盜版還敢靠夭歐</span><span class="push-ipdatetime"> 05/24 10:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AUwalker</span><span class="f3 push-content">: 公布法官姓名，不然就是造謠</span><span class="push-ipdatetime"> 05/24 10:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miacp</span><span class="f3 push-content">: 目前全聯就是逆風，看有沒有請工讀生來帶風向囉。</span><span class="push-ipdatetime"> 05/24 10:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 台灣妖怪村設計總監要不要解釋鬼太郎有授權嗎</span><span class="push-ipdatetime"> 05/24 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 妖怪村說全聯抄襲???XDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 05/24 10:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sofaly</span><span class="f3 push-content">: 靠我要剪卡</span><span class="push-ipdatetime"> 05/24 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc1217</span><span class="f3 push-content">: 今天我要說一個互相抄襲的故事</span><span class="push-ipdatetime"> 05/24 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">applez</span><span class="f3 push-content">: 沒穿褲子的笑別人沒穿褲子</span><span class="push-ipdatetime"> 05/24 10:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 噁心 台灣果然是二創天堂 無罪 無罪</span><span class="push-ipdatetime"> 05/24 10:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 笑死</span><span class="push-ipdatetime"> 05/24 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 三創跟二創 吵架 剛好悲哀</span><span class="push-ipdatetime"> 05/24 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hugh509</span><span class="f3 push-content">: XDDDDDDDDDDDDDDD妖怪村說日本找他們要授權?  要授權???</span><span class="push-ipdatetime"> 05/24 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dreamnook</span><span class="f3 push-content">: 開始洗白做業績囉wwwwww</span><span class="push-ipdatetime"> 05/24 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ZXCWS</span><span class="f3 push-content">: 哈哈 妖怪村笑全聯</span><span class="push-ipdatetime"> 05/24 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gg7965977</span><span class="f3 push-content">: 幹抄襲罵抄襲</span><span class="push-ipdatetime"> 05/24 10:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 好像沒看到鬼太郎了</span><span class="push-ipdatetime"> 05/24 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kaito1209</span><span class="f3 push-content">: 妖怪村wwwwwwwwwww</span><span class="push-ipdatetime"> 05/24 10:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mesa5566</span><span class="f3 push-content">: 妖怪村XDDDDDD</span><span class="push-ipdatetime"> 05/24 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skizard</span><span class="f3 push-content">: 原來是鬼太郎抄襲妖怪村 嚇死了</span><span class="push-ipdatetime"> 05/24 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dbjdx</span><span class="f3 push-content">: 鬼太郎是你畫的???</span><span class="push-ipdatetime"> 05/24 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray90910</span><span class="f3 push-content">: 抄襲內鬥，爽</span><span class="push-ipdatetime"> 05/24 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwejoezxc33</span><span class="f3 push-content">: 偷東西阿</span><span class="push-ipdatetime"> 05/24 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pigfist1113</span><span class="f3 push-content">: 是只有我看到日方有跟妖怪村談授權嗎？</span><span class="push-ipdatetime"> 05/24 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tanyuki</span><span class="f3 push-content">: 原來妖怪村有跟鬼太郎談版權欸..</span><span class="push-ipdatetime"> 05/24 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YuenYang5566</span><span class="f3 push-content">: 鬼太郎來授權給妖怪村，是哪個字看不懂？</span><span class="push-ipdatetime"> 05/24 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kw003266</span><span class="f3 push-content">: 上面有些人是沒看文就開始噴？文裡跟fb不是有說有取得授</span><span class="push-ipdatetime"> 05/24 10:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kw003266</span><span class="f3 push-content">: 權了 這樣到底哪裡不對？</span><span class="push-ipdatetime"> 05/24 10:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lisoukou</span><span class="f3 push-content">: 推文有人亂帶風向  合理懷疑是全聯的工讀生喔....</span><span class="push-ipdatetime"> 05/24 10:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">UEIRUN</span><span class="f3 push-content">:  人家妖怪村有取得授權，肯付費取授權給推，反觀全聯什麼</span><span class="push-ipdatetime"> 05/24 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">UEIRUN</span><span class="f3 push-content">: 嘴臉</span><span class="push-ipdatetime"> 05/24 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mizzy646</span><span class="f3 push-content">: 全聯那麼有本錢 還抄襲別人的 被告也只是剛剛好</span><span class="push-ipdatetime"> 05/24 10:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SDKSDKSDK</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/24 11:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rosemoli</span><span class="f3 push-content">: 全聯真是丟人現眼 錢多就可以藐視法治嗎</span><span class="push-ipdatetime"> 05/24 11:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">barca10</span><span class="f3 push-content">: <a href="http://i.imgur.com/H7flJOZ.jpg" target="_blank" rel="nofollow">http://i.imgur.com/H7flJOZ.jpg</a></span><span class="push-ipdatetime"> 05/24 13:05
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="H7flJOZ"><a href="//imgur.com/H7flJOZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vora</span><span class="f3 push-content">: 這則新聞被刪除了耶，財團好大好怕喔</span><span class="push-ipdatetime"> 05/24 23:47
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495591592.A.504.html?cacheKey=2052-573202&offset=6544&offset-sig=d8c81830732fe06a6ca46e610ee581060e7da279" data-longpollurl="/v1/longpoll?id=f43c5df5ab72439321e1a47f0793f9fc351d5019" data-offset="6544"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

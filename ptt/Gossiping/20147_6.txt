@@ -1,0 +1,364 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495015656.A.1C3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 補足核電缺口 經長:3年後燃煤占比達50% - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+公視
+2.完整新聞標題:
+補足核電缺口 經長:3年後燃煤占比達50%
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 補足核電缺口 經長:3年後燃煤占比達50%">
+<meta property="og:description" content="1.媒體來源:
+公視
+2.完整新聞標題:
+補足核電缺口 經長:3年後燃煤占比達50%
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495015656.A.1C3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495015656.A.1C3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lamarsh (lamarsh)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 補足核電缺口 經長:3年後燃煤占比達50%</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 18:07:33 2017</span></div>
+1.媒體來源:
+公視
+
+2.完整新聞標題:
+補足核電缺口 經長:3年後燃煤占比達50%
+
+3.完整新聞內文:
+核四封存明年屆滿三年期限，為了配合2025非核家園政策，經濟部長李世光表示，將以燃
+煤發電補足核電電力缺口。台電則表示，正在尋求國外買家，將核四的燃料棒賣出，也<span class="f3 hl">考
+</span><span class="f3 hl">慮將核四空地，改蓋火力發電廠。</span>
+
+前年7月開始進入封存的核四廠，明年將屆滿3年期限，未來將繼續封存還是廢止？經濟部
+長李世光雖然說還要再研議，但台電已經打算尋求國外買家，採購核四的燃料棒，並且不
+排除，未來核四空地，改建為火力發電廠。
+
+==台電發言人 林德福==
+地方要不要規劃成電力設施
+譬如說燒天然氣 燒煤等等
+那個也不排除
+正在做一些內部的評估
+
+為了配合2025非核家園目標，經濟部已經確定，會以燃煤發電，作為補足核電缺口的主要
+方式，根據經濟部規畫的能源轉型配比，2025年我國的燃煤發電，將占30%、天然氣50%、
+再生能源20%。但其中再生能源和天然氣，在核能機組除役之前，燃煤發電將在2020年，
+佔比提高到50%，2025才會再降到30%。<span class="f3 hl">雖然非核家園可望實現，但反核人士和貢寮居民，
+</span><span class="f3 hl">也不樂見走了核四，卻來了火力發電汙染空氣。</span>
+
+==台灣環境輻射走調團召集人 林瑞珠==
+如果真的要發展的話
+應該要發展替代能源 再生能源
+<span class="f3 hl">那邊因為靠近海邊
+</span><span class="f3 hl">它的陽光 日照 風力
+</span><span class="f3 hl">還有潮汐這些資源
+</span><span class="f3 hl">天然資源都很豐富
+</span><span class="f3 hl">台電實在是應該要有
+</span><span class="f3 hl">豐富一點的想像力</span>
+
+反核人士則認為，核四若要轉型，應該朝向再生能源發展，別再走火力發電這條回頭路。
+台電回應，東北角雨天多於晴天，是否能作為太陽能等綠能發電，則需要再研議。
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.pts.org.tw/article/358819" target="_blank" rel="nofollow">http://news.pts.org.tw/article/358819</a>
+
+5.備註:
+反核的大概連什麼是基載什麼是尖載都不知道，才會有這種啼笑皆非的建議
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.71.126.79
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495015656.A.1C3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495015656.A.1C3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: 多辦幾次路跑拜託</span><span class="push-ipdatetime"> 05/17 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 3年後PM2.5多50%</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ballby</span><span class="f3 push-content">: 一種有飯不吃 吃屎的概念</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gay7788</span><span class="f3 push-content">: 5樓用肛門發電</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill1478963</span><span class="f3 push-content">: 把總統府拆掉改建火力發電廠</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Fuuuck</span><span class="f3 push-content">:                    燒炭家園?</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 不是說用愛發電技術會進步</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 阿扁德政</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 反核趕緊多吸幾口</span><span class="push-ipdatetime"> 05/17 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Zeropapa</span><span class="f3 push-content">: 就是白癡阿，天阿台灣有如斯蠢貨，何需共產黨</span><span class="push-ipdatetime"> 05/17 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">howow</span><span class="f3 push-content">: 白痴</span><span class="push-ipdatetime"> 05/17 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trywish</span><span class="f3 push-content">: 想像力嗎？想像一塊海岸地插了一堆風車，然後被罵。</span><span class="push-ipdatetime"> 05/17 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snowduke</span><span class="f3 push-content">:  用想像力發電，台灣獨步全球</span><span class="push-ipdatetime"> 05/17 18:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">richjf</span><span class="f3 push-content">: 火力發好發滿    空污死的不會上街抗議啦</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DASHOCK</span><span class="f3 push-content">: 吸一吸就飽了</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈哈</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duo0518</span><span class="f3 push-content">: 豐富的想像力 XDDDDDDD</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzxcasd</span><span class="f3 push-content">: 智障政府</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cat5672</span><span class="f3 push-content">: 儲能技術如果成長不夠快 綠能就是一灘死水</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james732</span><span class="f3 push-content">: 想像力發電</span><span class="push-ipdatetime"> 05/17 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zzxcasd</span><span class="f3 push-content">: 最乾淨的核電不用  整天用嘴巴發電  幹</span><span class="push-ipdatetime"> 05/17 18:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 再蓋火電要幹嘛 不如乾脆核四就啟動了阿</span><span class="push-ipdatetime"> 05/17 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yeti</span><span class="f3 push-content">: 空污是對岸害的,你們這些9.2不要沒有常識好不好?</span><span class="push-ipdatetime"> 05/17 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 如果真要擇一 在目前狀況 可能核四啟動還比較省事</span><span class="push-ipdatetime"> 05/17 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cat5672</span><span class="f3 push-content">: 光是突然進步的一百倍還不夠 起碼要能每年持續下去才夠看</span><span class="push-ipdatetime"> 05/17 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 反正大不了台北市房價跌回三十年前</span><span class="push-ipdatetime"> 05/17 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">omx</span><span class="f3 push-content">: \想像力發電/</span><span class="push-ipdatetime"> 05/17 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">verydolungbe</span><span class="f3 push-content">: 讚啊！我反核 核四改成火力發電很好啊 ！</span><span class="push-ipdatetime"> 05/17 18:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kid725</span><span class="f3 push-content">: 政府跟飯盒都是智障</span><span class="push-ipdatetime"> 05/17 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 台灣政府決定要向中國政府看齊，創造台灣人民自己的霧霾!</span><span class="push-ipdatetime"> 05/17 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Zeropapa</span><span class="f3 push-content">: 台積電都放棄太陽能這塊了，這政府還幫它們收尾。</span><span class="push-ipdatetime"> 05/17 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gk1329</span><span class="f3 push-content">: 想像力個屌 發電用想像力就能發喔 何不找外星人來發電...</span><span class="push-ipdatetime"> 05/17 18:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purpleforest</span><span class="f3 push-content">: 豐富想像力XDDD</span><span class="push-ipdatetime"> 05/17 18:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yamhome</span><span class="f3 push-content">: 連韓國都不用核電了，擁核現在很孤單</span><span class="push-ipdatetime"> 05/17 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 低能反核吃屎</span><span class="push-ipdatetime"> 05/17 18:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gk1329</span><span class="f3 push-content">: 還是去未來找多啦A夢發電好了 台電真沒想像力</span><span class="push-ipdatetime"> 05/17 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">friedpig</span><span class="f3 push-content">: 你們這些想像力貧弱的傢伙  用愛發電的創意都沒有嗎</span><span class="push-ipdatetime"> 05/17 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Halu5566</span><span class="f3 push-content">: 不錯阿 想像力發電感覺比用愛發電有fu多了</span><span class="push-ipdatetime"> 05/17 18:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mustwin</span><span class="f3 push-content">: 滿滿DER PM2.5吸到飽</span><span class="push-ipdatetime"> 05/17 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Eumenes30</span><span class="f3 push-content">: 你他媽給我住發電廠吸到死</span><span class="push-ipdatetime"> 05/17 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: 韓國哪來不用核電啊，是不用火電吧？</span><span class="push-ipdatetime"> 05/17 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mack860120</span><span class="f3 push-content">: 讚 吸飽吸滿</span><span class="push-ipdatetime"> 05/17 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IcJack</span><span class="f3 push-content">: 想像力發電阿!! 人家都提示了!!</span><span class="push-ipdatetime"> 05/17 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wadeabc</span><span class="f3 push-content">: 核四改火力發電太好了，天龍多吹點冷氣</span><span class="push-ipdatetime"> 05/17 18:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tattoo</span><span class="f3 push-content">: 反核的去住發電廠旁邊啊</span><span class="push-ipdatetime"> 05/17 18:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IcJack</span><span class="f3 push-content">: 要怎麼有電是你家的事 我只管不是核能就好!!</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 台中真的都在養台北人 真爽</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">happiness23</span><span class="f3 push-content">: 是覺得空氣污染霧霾還不夠嚴重就對了</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: 2014年底，韓國一共擁有23座核電機組，數量世界第五。</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 台中火力發電 台北用電量高反而不蓋電廠</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cpz</span><span class="f3 push-content">: 爽～～～　　台北多Ｃ點</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: 2013年，核能在韓國總發電量的比例為27.6%。</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shrigo</span><span class="f3 push-content">: 用愛發電啊？？！！</span><span class="push-ipdatetime"> 05/17 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imba789</span><span class="f3 push-content">: 反核然後用愛發電啊</span><span class="push-ipdatetime"> 05/17 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 台中空氣要更差了 幫哭哭 花錢住台中等於吸廢氣</span><span class="push-ipdatetime"> 05/17 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">signm</span><span class="f3 push-content">: 現在是改靠想像力發電了嗎</span><span class="push-ipdatetime"> 05/17 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">funkD</span><span class="f3 push-content">: 幫高調  文組誤國的典範</span><span class="push-ipdatetime"> 05/17 18:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyprayer</span><span class="f3 push-content">: 恥力無窮 或許也可以用恥力發電</span><span class="push-ipdatetime"> 05/17 18:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orinsinal</span><span class="f3 push-content">: 哈哈 反核的科普知識就是笑話 標準的我反對 問題你解決</span><span class="push-ipdatetime"> 05/17 18:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sazdj</span><span class="f3 push-content">: 說好的天然氣又要轉彎了</span><span class="push-ipdatetime"> 05/17 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 台中人幫台北人反核 結果台北人給台中更多空氣污染</span><span class="push-ipdatetime"> 05/17 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 慘到不行呼吸</span><span class="push-ipdatetime"> 05/17 18:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 做愛發電早就不潮了，現在是想像力發電的時代</span><span class="push-ipdatetime"> 05/17 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: 你們這些人想像力太貧乏！發電要有創意，我將發展鍵盤發電</span><span class="push-ipdatetime"> 05/17 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeumax</span><span class="f3 push-content">: `嘴砲發電、幸福發電、正能量發電</span><span class="push-ipdatetime"> 05/17 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chris44099</span><span class="f3 push-content">: 豐富想像力發電法</span><span class="push-ipdatetime"> 05/17 18:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dai26</span><span class="f3 push-content">: 支持核四改火力</span><span class="push-ipdatetime"> 05/17 18:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyrie</span><span class="f3 push-content">: 低能 幹</span><span class="push-ipdatetime"> 05/17 18:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">btman007</span><span class="f3 push-content">: 快研發想像力發電</span><span class="push-ipdatetime"> 05/17 18:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: 豐富一點的想像力發電 XDDDD</span><span class="push-ipdatetime"> 05/17 18:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derekg8</span><span class="f3 push-content">: 吸飽吸滿</span><span class="push-ipdatetime"> 05/17 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyrie</span><span class="f3 push-content">: 真他媽白癡</span><span class="push-ipdatetime"> 05/17 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zore14563</span><span class="f3 push-content">: 看來環團接下來要抗議空污了</span><span class="push-ipdatetime"> 05/17 18:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyrie</span><span class="f3 push-content">: 幹 看了越來越氣 操</span><span class="push-ipdatetime"> 05/17 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: 爽喔 再來一個火力  空氣汙染吸好吸滿</span><span class="push-ipdatetime"> 05/17 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arod0807</span><span class="f3 push-content">: 靠想像力發電 完蛋惹</span><span class="push-ipdatetime"> 05/17 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Laleh</span><span class="f3 push-content">: 台中好慘 哭哭</span><span class="push-ipdatetime"> 05/17 18:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nifocy</span><span class="f3 push-content">: 走了非核家園 來了 空汙家園，PM 起飛囉</span><span class="push-ipdatetime"> 05/17 18:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ggyygirl</span><span class="f3 push-content">: 有這種政府還需要敵人嗎</span><span class="push-ipdatetime"> 05/17 18:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chasegirl</span><span class="f3 push-content">: 用想像力發電 想好吸滿</span><span class="push-ipdatetime"> 05/17 18:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nifocy</span><span class="f3 push-content">: 反核人士的錢一定很多，可以買很多口罩了</span><span class="push-ipdatetime"> 05/17 18:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bndan</span><span class="f3 push-content">: 支持核四轉火還要運煤 台北港插大火力發電廠比較快啦</span><span class="push-ipdatetime"> 05/17 18:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">st2913sbck</span><span class="f3 push-content">: 反核反到反智</span><span class="push-ipdatetime"> 05/17 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bndan</span><span class="f3 push-content">: 這火力發電廠開始營運後 遷都抗力保證大降XD</span><span class="push-ipdatetime"> 05/17 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GooglePixel</span><span class="f3 push-content">: 水喔 以後去貢寮pm2.5吸好吸滿</span><span class="push-ipdatetime"> 05/17 18:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GooglePixel</span><span class="f3 push-content">: 全球暖化是什麼鬼啦 用愛發電比較重要</span><span class="push-ipdatetime"> 05/17 18:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iphyf</span><span class="f3 push-content">: 排碳量？</span><span class="push-ipdatetime"> 05/17 18:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">weiran1201</span><span class="f3 push-content">: 贊成改火力，就多一些慢性病和肺癌而已，沒甚麼好怕的</span><span class="push-ipdatetime"> 05/17 18:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KenWang42</span><span class="f3 push-content">: 想像力發電 讚喔</span><span class="push-ipdatetime"> 05/17 18:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzro</span><span class="f3 push-content">: 核四改蓋火力 完全贊成! 這大概是蔡政府最好的政見了</span><span class="push-ipdatetime"> 05/17 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WLR</span><span class="f3 push-content">: 不用核能就燒煤，很正常</span><span class="push-ipdatetime"> 05/17 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiball</span><span class="f3 push-content">: 哈哈，三年後送蔡下臺</span><span class="push-ipdatetime"> 05/17 18:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyexers</span><span class="f3 push-content">: 智障政府</span><span class="push-ipdatetime"> 05/17 18:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WLR</span><span class="f3 push-content">: 不想核能毒害台灣土地，自然剩選擇火力毒害台灣人民肺部</span><span class="push-ipdatetime"> 05/17 18:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dcdc0810</span><span class="f3 push-content">: 台中空污是不夠嚴重嗎？核四改三小火力發電啦</span><span class="push-ipdatetime"> 05/17 18:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: 不是建燃氣?????</span><span class="push-ipdatetime"> 05/17 18:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 假的吧?! 要搞也是應該搞天然氣 怎會弄燃煤 是嫌空氣</span><span class="push-ipdatetime"> 05/17 18:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 品質太好是吧?!</span><span class="push-ipdatetime"> 05/17 18:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">StormyScream</span><span class="f3 push-content">: 幹你媽的 會哭核廢料放你家的 火力發電廠怎不蓋你家</span><span class="push-ipdatetime"> 05/17 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awpex127</span><span class="f3 push-content">: 爽 我反反核 冷氣都開24HR</span><span class="push-ipdatetime"> 05/17 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ekud</span><span class="f3 push-content">: 反核反到大家吸空污，還要拿稅金付違約金！</span><span class="push-ipdatetime"> 05/17 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sslover</span><span class="f3 push-content">: 火力好棒棒 空污世界排名第一</span><span class="push-ipdatetime"> 05/17 18:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ComeThrough</span><span class="f3 push-content">: pm2.5放你家</span><span class="push-ipdatetime"> 05/17 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 連南韓都知到停燃煤改增加天燃氣比例以降低空污, 別跟</span><span class="push-ipdatetime"> 05/17 18:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 我說台灣官員不知</span><span class="push-ipdatetime"> 05/17 18:47
+</span></div>1.天然氣發電成本很高，可以漲電價嗎？
+2.儲存倉庫有限，如果要搞天然氣發電，不知道幾天就要一艘貨船，還有哪裡可以擺天然
+氣儲存槽？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">trchen</span><span class="f3 push-content">: 國家能源政策用&#39;想像力&#39;？台灣真的沒有專業考量 只有政治</span><span class="push-ipdatetime"> 05/17 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">trchen</span><span class="f3 push-content">: 考量！台灣現在就像鐵達尼一路往冰山開 但船長卻搞不清楚</span><span class="push-ipdatetime"> 05/17 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kolinru</span><span class="f3 push-content">: 台灣有那個錢去用天然氣嗎?</span><span class="push-ipdatetime"> 05/17 18:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">trchen</span><span class="f3 push-content">: 狀況 乘客只能乾著急</span><span class="push-ipdatetime"> 05/17 18:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darKyle</span><span class="f3 push-content">: 用電的自己吸好吸滿不債留子孫  了不起 負責</span><span class="push-ipdatetime"> 05/17 18:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">williexdgc77</span><span class="f3 push-content">: 完蛋了 白癡文組幹嘛反核我操 麻煩去當人體空氣清淨</span><span class="push-ipdatetime"> 05/17 18:51
+</span></div><span class="f2">※ 編輯: lamarsh (111.71.126.79), 05/17/2017 18:54:26
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eayterrr</span><span class="f3 push-content">: 哈哈哈哈</span><span class="push-ipdatetime"> 05/17 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r7698</span><span class="f3 push-content">: 空污真好，每天大家一起慢性自殺</span><span class="push-ipdatetime"> 05/17 18:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tokeep</span><span class="f3 push-content">: 不會用愛發電唷，低能兒</span><span class="push-ipdatetime"> 05/17 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 貴也得用啊 總比空污吸到爽好 漲價? 大英明政府很厲害地</span><span class="push-ipdatetime"> 05/17 18:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eDrifter</span><span class="f3 push-content">: 絕對不會 我相信 (嘻嘻)</span><span class="push-ipdatetime"> 05/17 18:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akira00150</span><span class="f3 push-content">: 天然氣危險又貴 就算不看價錢 還是沒人想家旁是天然氣</span><span class="push-ipdatetime"> 05/17 19:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bndan</span><span class="f3 push-content">: 海島國家燒天燃氣 XD 要接管逆? 不然靠船運費用重外..量還</span><span class="push-ipdatetime"> 05/17 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bndan</span><span class="f3 push-content">: 不一定夠用..(如果台灣經濟是往資訊發展的話)</span><span class="push-ipdatetime"> 05/17 19:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bndan</span><span class="f3 push-content">: 想要爽爽台GG稅收 往高科技/資訊爽爽發展.然後又不想核 那</span><span class="push-ipdatetime"> 05/17 19:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">davi0621</span><span class="f3 push-content">: 傻眼 果然是未開化島</span><span class="push-ipdatetime"> 05/17 19:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bndan</span><span class="f3 push-content">: 短期就只剩就只剩火力(煤)了阿...</span><span class="push-ipdatetime"> 05/17 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ScHT</span><span class="f3 push-content">: 他都說要多點想像力了</span><span class="push-ipdatetime"> 05/17 19:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cp62k794</span><span class="f3 push-content">: 北部天氣差發展燃煤，南部天氣好發展綠能，最符合效益</span><span class="push-ipdatetime"> 05/17 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LEBR0NJAMES6</span><span class="f3 push-content">: 飯盒低能兒害大家吸pm2.5 嘻嘻</span><span class="push-ipdatetime"> 05/17 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 讚讚 南部人的肺不用錢</span><span class="push-ipdatetime"> 05/17 19:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtf426</span><span class="f3 push-content">: 以後我決定要當胸外去南部切肺了嘻嘻</span><span class="push-ipdatetime"> 05/17 19:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daniel229</span><span class="f3 push-content">: 想像力發電！果然空心</span><span class="push-ipdatetime"> 05/17 19:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">B0924</span><span class="f3 push-content">: 智障飯盒</span><span class="push-ipdatetime"> 05/17 19:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">muserFW</span><span class="f3 push-content">: 反核的到底是不是反串啊超智障發言</span><span class="push-ipdatetime"> 05/17 19:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SeTeVen</span><span class="f3 push-content">: 那你們到底想怎樣，幹</span><span class="push-ipdatetime"> 05/17 19:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jksen</span><span class="f3 push-content">: 基載只能火力或核能二選一，其他的都不成熟或有風險如地熱</span><span class="push-ipdatetime"> 05/17 19:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ch1260358</span><span class="f3 push-content">: 反核真的超他媽智障 不聽專家意見只會推廣汙染也超高的</span><span class="push-ipdatetime"> 05/17 19:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ch1260358</span><span class="f3 push-content">: 風力太陽能</span><span class="push-ipdatetime"> 05/17 19:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dahlia7357</span><span class="f3 push-content">: 笑死，pm家園</span><span class="push-ipdatetime"> 05/17 19:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GX90160SS</span><span class="f3 push-content">: 想像力發電</span><span class="push-ipdatetime"> 05/17 19:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">packing33</span><span class="f3 push-content">: 要不要火車也都改成蒸氣的</span><span class="push-ipdatetime"> 05/17 19:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seal998</span><span class="f3 push-content">: 如果愚蠢有質量，臺灣的飯盒足以形成黑洞</span><span class="push-ipdatetime"> 05/17 19:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xmoonlight</span><span class="f3 push-content">: 永和人用恨發電</span><span class="push-ipdatetime"> 05/17 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dacun10045</span><span class="f3 push-content">: 傻眼，可以不要讓空氣變差嗎</span><span class="push-ipdatetime"> 05/17 19:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">w20533469</span><span class="f3 push-content">: 低能  想像力發電</span><span class="push-ipdatetime"> 05/17 19:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ltw89104</span><span class="f3 push-content">: 蠢 沒有比這個更蠢的政策</span><span class="push-ipdatetime"> 05/17 19:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sam1sam2sam3</span><span class="f3 push-content">: 用愛發電==&gt;用想像力發電</span><span class="push-ipdatetime"> 05/17 19:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 另外一提，核四現有發電機組是無法改成用燃氣燃煤發</span><span class="push-ipdatetime"> 05/17 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 看來台灣得肺癌的人 又要創新高惹</span><span class="push-ipdatetime"> 05/17 19:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 電，也就是除了核四那塊地之外，沒其他可用的</span><span class="push-ipdatetime"> 05/17 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starjojo</span><span class="f3 push-content">: 想像力發電XDDDD</span><span class="push-ipdatetime"> 05/17 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jehow</span><span class="f3 push-content">: 台北要跟台中一樣陷入空汙陰霾囉 被那群人害死</span><span class="push-ipdatetime"> 05/17 20:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hank11235813</span><span class="f3 push-content">: 反核這麼愛潮汐跟太陽發電 那就這讓他家通這些電 看</span><span class="push-ipdatetime"> 05/17 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank11235813</span><span class="f3 push-content">: 你們怎麼活</span><span class="push-ipdatetime"> 05/17 20:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cry102836</span><span class="f3 push-content">: 廢核人士去用那些再生能源阿，看你夏天怎爽爽吹冷氣</span><span class="push-ipdatetime"> 05/17 20:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cry102836</span><span class="f3 push-content">: 不想用核電那就吸廢氣吸到爽吧</span><span class="push-ipdatetime"> 05/17 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jessica5230</span><span class="f3 push-content">: 想像力發電XDDDDD</span><span class="push-ipdatetime"> 05/17 20:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">uuuu120</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 05/17 20:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LucAngel</span><span class="f3 push-content">: 都雨天多於晴天了，還在陽光，日照等天然資源很豐富</span><span class="push-ipdatetime"> 05/17 20:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">craig</span><span class="f3 push-content">: PM2.5要起飛了，天天破百不是夢</span><span class="push-ipdatetime"> 05/17 20:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">o760823</span><span class="f3 push-content">: 想像力發電</span><span class="push-ipdatetime"> 05/17 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">franknba12</span><span class="f3 push-content">: 台灣獨步全球從城堡時代退回已知用火，偉哉</span><span class="push-ipdatetime"> 05/17 20:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t2e0r4y6</span><span class="f3 push-content">: 蔣幹話</span><span class="push-ipdatetime"> 05/17 20:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a79796814</span><span class="f3 push-content">: 幫高調</span><span class="push-ipdatetime"> 05/17 21:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flyover01</span><span class="f3 push-content">: 貢寮反核卅年，結果pm2.5吸飽飽。爽！</span><span class="push-ipdatetime"> 05/17 21:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gygg543</span><span class="f3 push-content">: 又是文組</span><span class="push-ipdatetime"> 05/17 21:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">herbi</span><span class="f3 push-content">: 用愛發動拉 乾</span><span class="push-ipdatetime"> 05/17 21:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">appleball200</span><span class="f3 push-content">: 推想像力發電</span><span class="push-ipdatetime"> 05/17 21:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gs051233</span><span class="f3 push-content">: 用嘴的科技就會進步喔www</span><span class="push-ipdatetime"> 05/17 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">see00797</span><span class="f3 push-content">: 火力發電是創造台灣的霧霾嗎</span><span class="push-ipdatetime"> 05/17 21:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ghamu</span><span class="f3 push-content">: 有沒有核電本來就佔比最多 再多些沒關係</span><span class="push-ipdatetime"> 05/17 21:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hideho</span><span class="f3 push-content">: 我想林瑞珠是在說：有風就能風力發電；有太陽就可太陽能發</span><span class="push-ipdatetime"> 05/17 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hideho</span><span class="f3 push-content">: 電；潮汐就可潮汐能發電。乖乖不得了，請問她哪裡畢業的？</span><span class="push-ipdatetime"> 05/17 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccdoggy</span><span class="f3 push-content">: 台灣電便宜就是因爲核能發電，目前是最有效率的發電方式.</span><span class="push-ipdatetime"> 05/17 21:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nobody741</span><span class="f3 push-content">: 世界潮流  想像力發電 你敢嘴!!!!!!!!</span><span class="push-ipdatetime"> 05/17 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waddler</span><span class="f3 push-content">: 貢寮鄉親放心 黃國師會擋下火電提案  電力缺口? 管他去死</span><span class="push-ipdatetime"> 05/17 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">klodcherry</span><span class="f3 push-content">: 小英政府應該會被林義雄拖垮，正確應該說他做的這些是</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">klodcherry</span><span class="f3 push-content">: 無益於台灣成長反而持續陷入開發中國家的泥沼，老實說</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">klodcherry</span><span class="f3 push-content">: 在這樣下去會看不到對岸的車尾燈！</span><span class="push-ipdatetime"> 05/17 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">beefer6282</span><span class="f3 push-content">: 北七 幹</span><span class="push-ipdatetime"> 05/17 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">roc0212777</span><span class="f3 push-content">: 之前看到不過笑笑，現在看到會怕了…不要亂搞拜託</span><span class="push-ipdatetime"> 05/17 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Darkblues</span><span class="f3 push-content">: 有這種隊友 何需敵人</span><span class="push-ipdatetime"> 05/17 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn02118620</span><span class="f3 push-content">: 用愛發電不潮了 現在潮的是想像力發電</span><span class="push-ipdatetime"> 05/17 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gk524</span><span class="f3 push-content">: 台灣真的被低能文組弄到亡國  大家一起得肺癌</span><span class="push-ipdatetime"> 05/17 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">noking7</span><span class="f3 push-content">: 還只會禁止二行程</span><span class="push-ipdatetime"> 05/17 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yukai0919</span><span class="f3 push-content">: 白癡反核</span><span class="push-ipdatetime"> 05/17 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ksvsyuki</span><span class="f3 push-content">: 蓋火力發電廠讚喔</span><span class="push-ipdatetime"> 05/18 01:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kingkuo</span><span class="f3 push-content">: 吸好吸滿</span><span class="push-ipdatetime"> 05/18 01:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soaringwings</span><span class="f3 push-content">: 燃煤 在北海岸 ？ 瘋了？</span><span class="push-ipdatetime"> 05/18 02:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenichisun</span><span class="f3 push-content">: 南部鄉親多吸點</span><span class="push-ipdatetime"> 05/18 02:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kazimir</span><span class="f3 push-content">: 想像力就是你的超能力 發電囉</span><span class="push-ipdatetime"> 05/18 02:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AppleWatch5</span><span class="f3 push-content">: 你他媽智障政府幹</span><span class="push-ipdatetime"> 05/18 03:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Louis5213</span><span class="f3 push-content">: 爽。 我大力支持</span><span class="push-ipdatetime"> 05/18 05:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uice</span><span class="f3 push-content">: 反核智障......另，智障們永遠搞不懂，反核四不等於反核。</span><span class="push-ipdatetime"> 05/18 08:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LA24</span><span class="f3 push-content">: 空汙起飛</span><span class="push-ipdatetime"> 05/18 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mj2124</span><span class="f3 push-content">: 霾霧化的台灣</span><span class="push-ipdatetime"> 05/18 11:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunandmoonof</span><span class="f3 push-content">: 不管 明天就要好</span><span class="push-ipdatetime"> 05/18 11:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lites</span><span class="f3 push-content">: 火力發電 汙染空氣嚴重 反核人士用愛發電</span><span class="push-ipdatetime"> 05/19 20:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hn15835163</span><span class="f3 push-content">: 虛明顯 韓國核能都占他們發電量45%了 不用核能?</span><span class="push-ipdatetime"> 05/20 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sky3399</span><span class="f3 push-content">: 想像力，就是全部半導體產業關廠謝謝</span><span class="push-ipdatetime"> 05/22 01:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 原來火力是綠能，哈哈哈</span><span class="push-ipdatetime"> 05/30 19:27
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495015656.A.1C3.html?cacheKey=2052-41886742&offset=21983&offset-sig=5d5a374fce76b0561ce36c370d62d1f563a2f5d6" data-longpollurl="/v1/longpoll?id=0f04d80230289936c0091a04813eb480095b4a14" data-offset="21983"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

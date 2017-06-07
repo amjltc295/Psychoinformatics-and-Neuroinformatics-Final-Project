@@ -1,0 +1,269 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495994732.A.84A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 愛滋甲一年花了多少錢 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="  目前最新的統計是至少20901人 不包含在不詳和吸食毒品得病的甲甲
+  如果加起來 估計大約25000人
+: 一個月三萬一年三十六萬
+: 總共要花8.625*36億=310.5億
+  25000的話扣掉死掉的 算2萬吧
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 愛滋甲一年花了多少錢">
+<meta property="og:description" content="  目前最新的統計是至少20901人 不包含在不詳和吸食毒品得病的甲甲
+  如果加起來 估計大約25000人
+: 一個月三萬一年三十六萬
+: 總共要花8.625*36億=310.5億
+  25000的話扣掉死掉的 算2萬吧
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495994732.A.84A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495994732.A.84A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Mayinggo (戰國策劉副理)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 愛滋甲一年花了多少錢</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 02:05:29 2017</span></div>
+<span class="f2">※ 引述《godofptt (PTT戰神超級幹架王)》之銘言：
+</span><span class="f6">: 臺灣有2300萬人
+</span><span class="f6">: 如果男生一半 1150萬
+</span><span class="f6">: 甲甲5-10% 算7.5%
+</span><span class="f6">: 愛滋甲佔甲甲10%
+</span><span class="f6">: 所以愛滋甲人數是1150*0.075*0.1=8.625
+</span>
+  目前最新的統計是至少20901人 不包含在不詳和吸食毒品得病的甲甲
+
+  如果加起來 估計大約25000人
+
+<span class="f6">: 一個月三萬一年三十六萬
+</span><span class="f6">: 總共要花8.625*36億=310.5億
+</span>
+  25000的話扣掉死掉的 算2萬吧
+
+  大約一年是36萬*2萬=72億吧
+
+<span class="f6">: 臺灣去年總稅收2.1兆
+</span><span class="f6">: 愛滋甲共花費了310.5/21000=1.48%
+</span>
+  72/21000=0.34%
+
+<span class="f6">: 前幾天聽到我媽在靠腰說繳稅繳一百萬
+</span><span class="f6">: 所以我家一年捐了1.48萬給愛滋甲
+</span>
+  1000000*0.34%=3400元
+
+<span class="f6">: 就因為他們不帶套愛雜交ㄇ
+</span><span class="f6">: 一萬五可以全家去吃一餐大餐了耶QQ
+</span><span class="f6">: 愛滋甲真的心安理得嗎...
+</span><span class="f6">: 還是實際上我們真的應該因為3.75%的人其實蠻多的所以要把愛滋視為一種因為不是故意
+</span><span class="f6">: 得的病是甲甲容易得，是的話我真的沒意見。但明明不是啊
+</span>
+  為何會有很多人會吵要取消補助
+
+  因為很多人都知道有戴有保庇 卻還是得了 就是故意阿
+
+--
+--
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 甲甲遊行一定要奇裝異服??             </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span><a href="/bbs/Gossiping/M.1480375407.A.2D3.html" target="_blank" rel="nofollow"><span class="b4">#1OFBnlBJ</span></a>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">obov</span><span class="f3 push-content">: 桶肛已經很奇怪惹   奇裝異服還好喇</span><span class="push-ipdatetime">11/29 07:24
+</span></div><span class="f4 b7"> 標題 </span><span class="b4"> Re: [問卦] 甲甲遊行一定要奇裝異服??         </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span><a href="/bbs/Gossiping/M.1480377862.A.6A0.html" target="_blank" rel="nofollow"><span class="b4">#1OFCO6QW</span></a>
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">obov</span><span class="f3 push-content">: 捅到鬆掉的我爸看過很多惹</span><span class="push-ipdatetime">11/29 08:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">obov</span><span class="f3 push-content">: 大便的地方你這樣弄  弄到壞掉惹你跟我說正常</span><span class="push-ipdatetime">11/29 08:07
+</span></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.33.254.238
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495994732.A.84A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495994732.A.84A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dreamer48763</span><span class="f3 push-content">: 1樓帥哥</span><span class="push-ipdatetime"> 05/29 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tony84590</span><span class="f3 push-content">: 20億</span><span class="push-ipdatetime"> 05/29 02:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yang421</span><span class="f3 push-content">: 所以呢？同志沒有繳健保費嗎？感冒可以補助愛滋不能補助?</span><span class="push-ipdatetime"> 05/29 02:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sealdoom</span><span class="f3 push-content">: 一樓自肥</span><span class="push-ipdatetime"> 05/29 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PanzerVOR</span><span class="f3 push-content">: 很明顯可以避免的，來跟大家吵你們也有付錢那不是犯X嗎</span><span class="push-ipdatetime"> 05/29 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PanzerVOR</span><span class="f3 push-content">: ，操</span><span class="push-ipdatetime"> 05/29 02:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SamWhite</span><span class="f3 push-content">: 歪曲什麼 事實就是可以避免的 想爽 得病就自己付錢啦</span><span class="push-ipdatetime"> 05/29 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">av08</span><span class="f3 push-content">: 臭甲幹</span><span class="push-ipdatetime"> 05/29 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 狂甲在那邊扯半天  也沒辦法改變台甲愛滋率高過日韓</span><span class="push-ipdatetime"> 05/29 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 這葛事實</span><span class="push-ipdatetime"> 05/29 02:09
+</span></div>
+教主推我文 甚感榮幸 想必教主已經知道板主選舉結果
+<span class="f2">※ 編輯: Mayinggo (114.33.254.238), 05/29/2017 02:10:40
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 感冒又不需要花到3萬塊, 而且感冒又不像愛滋一樣吃終身的</span><span class="push-ipdatetime"> 05/29 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 我覺得二樓那種話去跟醫生講八</span><span class="push-ipdatetime"> 05/29 02:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">malaman</span><span class="f3 push-content">: 十甲一愛滋  遠離甲甲  遠離愛滋病</span><span class="push-ipdatetime"> 05/29 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 去跟日子苦哈哈的醫療人員講八</span><span class="push-ipdatetime"> 05/29 02:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 44人眾要加油  得失心不要太重</span><span class="push-ipdatetime"> 05/29 02:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 以狂甲現在的狀況   他悶能依靠的大概就4x一人而已</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 這次版主也就一葛多月   44人眾可以擬定更狂的計畫</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 感冒看醫生吃個藥三天就好, 你愛滋去吃藥看看能不能三天就</span><span class="push-ipdatetime"> 05/29 02:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 好</span><span class="push-ipdatetime"> 05/29 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 現實就是狂甲開人出來灌票   你悶就要灌更兇</span><span class="push-ipdatetime"> 05/29 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 咦，可是女神剛選上版主捏？反同人真的那麼多連個版主</span><span class="push-ipdatetime"> 05/29 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 都選不上噢？？？</span><span class="push-ipdatetime"> 05/29 02:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 基本上我的策略已經成功讓善甲狂甲分裂</span><span class="push-ipdatetime"> 05/29 02:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 44人眾幹什麼吃的，連個4X都打不贏，該解散嘍啾咪。</span><span class="push-ipdatetime"> 05/29 02:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 分裂soooo?照樣讓個甲選上啊哈哈哈哈哈。</span><span class="push-ipdatetime"> 05/29 02:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 我不知道4x跟狂甲背後到底有多少灌票力</span><span class="push-ipdatetime"> 05/29 02:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 不過就過去女版經驗來看  44人眾可以去跟邊緣版結盟</span><span class="push-ipdatetime"> 05/29 02:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 邊緣版全開大概有兩百票左右的戰力</span><span class="push-ipdatetime"> 05/29 02:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 貴爲教主應該更有所作爲啊，不是自以爲讓甲分裂然後還</span><span class="push-ipdatetime"> 05/29 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 讓甲選上吧？</span><span class="push-ipdatetime"> 05/29 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 欸可是反同大將海洋兄還差700多票捏...</span><span class="push-ipdatetime"> 05/29 02:18
+</span></div>
+差560票 你算數不好?
+<span class="f2">※ 編輯: Mayinggo (114.33.254.238), 05/29/2017 02:18:44
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 對我來講k少上也沒比較差</span><span class="push-ipdatetime"> 05/29 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">remarque</span><span class="f3 push-content">: 早晚會針對特定族群調整健保費用</span><span class="push-ipdatetime"> 05/29 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nonocom</span><span class="f3 push-content">: 教主爆氣惹</span><span class="push-ipdatetime"> 05/29 02:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenzo1212</span><span class="f3 push-content">: 有幸見證過「西甲大戰」，沒想到剛剛一上西斯版，又看</span><span class="push-ipdatetime"> 05/29 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenzo1212</span><span class="f3 push-content">: 到有甲甲貼肛文..........幹破你娘</span><span class="push-ipdatetime"> 05/29 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 唉呀教主真抱歉，差太多了我隨便亂算而已，差560票不是7</span><span class="push-ipdatetime"> 05/29 02:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 00多票sooooo?再給你兩百票ㄧ樣落選啊哭哭</span><span class="push-ipdatetime"> 05/29 02:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 是我操盤的畫一定灌給k少   別傻惹</span><span class="push-ipdatetime"> 05/29 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 是在嗆什麼 本來就不覺得會贏啊 這個海洋早在板上</span><span class="push-ipdatetime"> 05/29 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 講過很多次了 第一天看板？我44人啦怎樣</span><span class="push-ipdatetime"> 05/29 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 你自己都講44人 44人當不上很正常啊 44要怎樣&gt;1000?</span><span class="push-ipdatetime"> 05/29 02:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 那就下次好好努力選上嘍，啾咪。</span><span class="push-ipdatetime"> 05/29 02:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 你先努力你的數學啦，一下減法不好，一下不會比大小</span><span class="push-ipdatetime"> 05/29 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 反同都44人害的，800多票都被44人眾操控腦波，反同</span><span class="push-ipdatetime"> 05/29 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 都萌萌9.2基督徒，你就繼續這樣想就好</span><span class="push-ipdatetime"> 05/29 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 4X贏很得意嗎？IBB贏的時候我們也沒那麼無聊到處嗆</span><span class="push-ipdatetime"> 05/29 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 臉書灌票看不下去也不是只有44人，自己蒐文章就有</span><span class="push-ipdatetime"> 05/29 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 至少不會像有人輸了就去鬧店家啦</span><span class="push-ipdatetime"> 05/29 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 沒選上就是沒選上啊，我數學不好sooooooo???</span><span class="push-ipdatetime"> 05/29 02:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: IBB贏的時候很低調喔 只有我拿甲板一篇來酸而已</span><span class="push-ipdatetime"> 05/29 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 而且他自己也很低調的謝票</span><span class="push-ipdatetime"> 05/29 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 鬧店家sooooo????這麼不堪還輸？該自我檢討嘍，下次努力</span><span class="push-ipdatetime"> 05/29 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 選上在這森77於事無補噢啾咪。</span><span class="push-ipdatetime"> 05/29 02:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 你悶44人眾要多跟IBB學</span><span class="push-ipdatetime"> 05/29 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 大丈夫能屈能伸   成大事者當知理賢下士</span><span class="push-ipdatetime"> 05/29 02:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 4X選上怎有人高潮成那樣? 選上了又沒怎樣, 他若要搞彩虹恐</span><span class="push-ipdatetime"> 05/29 02:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 怖式管板我很期待呀~ 反正他做其他板的板主也沒做好過, 連</span><span class="push-ipdatetime"> 05/29 02:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 前甲板板主都認證他是割稻尾刷存在感 等著看他怎麼管板</span><span class="push-ipdatetime"> 05/29 02:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 說實在話   我是不太擔心4x會怎樣惹</span><span class="push-ipdatetime"> 05/29 02:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 他以前對我悶聖教也沒下殺手</span><span class="push-ipdatetime"> 05/29 02:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 不怎樣啊，只是教主跟仇甲44人眾忙了個半天只是在自嗨</span><span class="push-ipdatetime"> 05/29 02:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 還是讓個甲選上版主，怎麼？不能笑？</span><span class="push-ipdatetime"> 05/29 02:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 沒自嗨，本來就覺得不會上，講很久了，平常不看板的</span><span class="push-ipdatetime"> 05/29 02:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 跑來高潮嗆人很好笑而已。還是你說那些噓4X的都自</span><span class="push-ipdatetime"> 05/29 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 嗨？甲板前板主自嗨桶刀？</span><span class="push-ipdatetime"> 05/29 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 你知道四叉FB 有很多人連投票都要人教嗎 不知道能手機</span><span class="push-ipdatetime"> 05/29 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 投票嗎 甚至有些平常不會上八卦板 只因為八卦板門檻太低</span><span class="push-ipdatetime"> 05/29 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Mayinggo</span><span class="f3 push-content">: 導致 人家一喊就傻傻的來投</span><span class="push-ipdatetime"> 05/29 02:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 咦？所以？門檻低不是對支持四叉的人吧？反四叉的人門檻</span><span class="push-ipdatetime"> 05/29 02:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 也低啊？輸了就下次好好努力不是在那邊森77檢討勝者吧？</span><span class="push-ipdatetime"> 05/29 02:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h821231</span><span class="f3 push-content">: 這篇整個歪 教主今天很閒r</span><span class="push-ipdatetime"> 05/29 03:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 沒 本來就不抱希望 海洋也說要休息了 你平常根本沒</span><span class="push-ipdatetime"> 05/29 03:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 在看板吧？就要休息了是要努力什麼？</span><span class="push-ipdatetime"> 05/29 03:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 誰跟你森77 有沒有森77都給你講就好</span><span class="push-ipdatetime"> 05/29 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 所以要休息了還出來選？怎麼？淡水阿媽叫海洋出來的？</span><span class="push-ipdatetime"> 05/29 03:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 我以為這世上有種東西叫退選耶？</span><span class="push-ipdatetime"> 05/29 03:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 我只看到海洋跟44人還有教主忙半天還是輸給4X而已？怎</span><span class="push-ipdatetime"> 05/29 03:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 麼？不是事實？我看不看版對這件事實有影響？都給你講就</span><span class="push-ipdatetime"> 05/29 03:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 好。</span><span class="push-ipdatetime"> 05/29 03:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 現在是感染率降不下來</span><span class="push-ipdatetime"> 05/29 03:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 有啊 就平常不看板才以為44人很失落爽嗆一番啊</span><span class="push-ipdatetime"> 05/29 03:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 如果濫交，一個人是綁肉粽，有機率傳給很多人</span><span class="push-ipdatetime"> 05/29 03:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 早就說不會上不知道幾次了 休息是這次選完之後啊</span><span class="push-ipdatetime"> 05/29 03:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 難道要20萬人感染嗎</span><span class="push-ipdatetime"> 05/29 03:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 20萬人就有機會五十萬人</span><span class="push-ipdatetime"> 05/29 03:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 到底台灣出了什麼問題</span><span class="push-ipdatetime"> 05/29 03:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 你平常有看就不會在那邊什麼淡水啊嬤了</span><span class="push-ipdatetime"> 05/29 03:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 還有吸毒，也與日遽增</span><span class="push-ipdatetime"> 05/29 03:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 那台灣以後怎麼辦</span><span class="push-ipdatetime"> 05/29 03:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 奇怪耶，好像很平常的樣子</span><span class="push-ipdatetime"> 05/29 03:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 這是嚴重的問題耶</span><span class="push-ipdatetime"> 05/29 03:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: <a href="https://goo.gl/8jYVTi" target="_blank" rel="nofollow">https://goo.gl/8jYVTi</a></span><span class="push-ipdatetime"> 05/29 03:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 台灣。泰國。快傻傻的搞不清。</span><span class="push-ipdatetime"> 05/29 03:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 咦？你們覺得他不會上跟他選完這次才要休息 sooooo? 我</span><span class="push-ipdatetime"> 05/29 03:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 就是看到他出來選44人又忙半天還是讓個甲選上啊？跟我</span><span class="push-ipdatetime"> 05/29 03:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 看不看版還有你們覺得他會不會上到底有什麼關係？</span><span class="push-ipdatetime"> 05/29 03:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frankieW</span><span class="f3 push-content">: 邏輯要加強噢。</span><span class="push-ipdatetime"> 05/29 03:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: frankieW要回就發一篇來駁 一直在底下吵是哭爽沒?</span><span class="push-ipdatetime"> 05/29 04:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dendrimer</span><span class="f3 push-content">: 浪費資源</span><span class="push-ipdatetime"> 05/29 06:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miler22020</span><span class="f3 push-content">: 標準噁甲吵架法</span><span class="push-ipdatetime"> 05/30 03:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495994732.A.84A.html?cacheKey=2052-1668162&offset=12122&offset-sig=957c748f37a5c9b0075b86316063b2fbfe4ac167" data-longpollurl="/v1/longpoll?id=7005094e963372d2297a452e19c1fb608f21704e" data-offset="12122"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

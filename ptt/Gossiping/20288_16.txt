@@ -1,0 +1,149 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495105664.A.599.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 銀行是87嗎？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="今天去用定存啦
+銀行姊姊跟我縮利率是1.060
+來 這邊教大家怎麼算期滿可以領多少
+假設我每個月存10000
+第一個月加上利息 就是10160
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 銀行是87嗎？">
+<meta property="og:description" content="今天去用定存啦
+銀行姊姊跟我縮利率是1.060
+來 這邊教大家怎麼算期滿可以領多少
+假設我每個月存10000
+第一個月加上利息 就是10160
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495105664.A.599.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495105664.A.599.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">crr122oe (醉劍)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 銀行是87嗎？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 19:07:42 2017</span></div>
+今天去用定存啦
+銀行姊姊跟我縮利率是1.060
+來 這邊教大家怎麼算期滿可以領多少
+假設我每個月存10000
+第一個月加上利息 就是10160
+第二個月加上去  就是10160+10000+第二個月的利息=20319
+第三個月 20319+10000+第三個月利息=30640
+有沒有這麼爽 更何況一個不止存一萬
+爽 肥宅們 你們繼續啃老吧 我要去發達了
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.247.231.231
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495105664.A.599.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495105664.A.599.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gogobar</span><span class="f3 push-content">: 那是年息</span><span class="push-ipdatetime"> 05/18 19:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 你慢慢算 我先直接去用試算表</span><span class="push-ipdatetime"> 05/18 19:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">serding</span><span class="f3 push-content">: 想太多 不然幹嘛靠北利率低 算法也錯zz</span><span class="push-ipdatetime"> 05/18 19:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 我去玩0050投報率都還比較高</span><span class="push-ipdatetime"> 05/18 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">enzowalker</span><span class="f3 push-content">: 廢到笑XDDD</span><span class="push-ipdatetime"> 05/18 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joe19941004</span><span class="f3 push-content">: 年利率</span><span class="push-ipdatetime"> 05/18 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mkt5225</span><span class="f3 push-content">: 天上一天，地上一年的概念…</span><span class="push-ipdatetime"> 05/18 19:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gigi030507</span><span class="f3 push-content">: 你好聰明喔</span><span class="push-ipdatetime"> 05/18 19:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">geniushowie</span><span class="f3 push-content">: 就算是月息  你也算錯了</span><span class="push-ipdatetime"> 05/18 19:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">galleon2000</span><span class="f3 push-content">: 快去吧~</span><span class="push-ipdatetime"> 05/18 19:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ntnuepc5566</span><span class="f3 push-content">: 好棒棒</span><span class="push-ipdatetime"> 05/18 19:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CYL009</span><span class="f3 push-content">: 幹 都沒想到 看來我要讓腎了</span><span class="push-ipdatetime"> 05/18 19:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ROTFL</span><span class="f3 push-content">: 數學老師哭惹</span><span class="push-ipdatetime"> 05/18 19:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jotxup</span><span class="f3 push-content">: 複利去算</span><span class="push-ipdatetime"> 05/18 19:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ionchips</span><span class="f3 push-content">: ....</span><span class="push-ipdatetime"> 05/18 19:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EXIONG</span><span class="f3 push-content">: 話術~利率要問清楚是幾年 有可能5年5%利  不可能月利率</span><span class="push-ipdatetime"> 05/18 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">suhaw</span><span class="f3 push-content">: 恩...</span><span class="push-ipdatetime"> 05/18 19:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zy116pj</span><span class="f3 push-content">: 數學不好還是邏輯不好?沒學過會計也知道不是這樣算</span><span class="push-ipdatetime"> 05/18 19:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BMWAUDI</span><span class="f3 push-content">: 建議你去當舖走走</span><span class="push-ipdatetime"> 05/18 19:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">trueno8686</span><span class="f3 push-content">: 秀下限？</span><span class="push-ipdatetime"> 05/18 19:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">csshs</span><span class="f3 push-content">: 文組沒教年化利率?</span><span class="push-ipdatetime"> 05/18 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yaguara</span><span class="f3 push-content">: 加油 成功了再來炫耀</span><span class="push-ipdatetime"> 05/18 21:53
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495105664.A.599.html?cacheKey=2052-40104394&offset=2756&offset-sig=f1b63bad4b611dee053a1575ee910a2a09fa84a3" data-longpollurl="/v1/longpoll?id=bfb189960af27cdace3bf6b005b9012370e5b6d0" data-offset="2756"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

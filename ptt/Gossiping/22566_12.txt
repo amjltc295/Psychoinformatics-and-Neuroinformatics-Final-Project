@@ -1,0 +1,163 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496640756.A.4A1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有沒有一例一休違反質量守恆定律的掛？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="根據愛因斯坦質量守恆定律，一年52周數不變，理論上從原本勞工每週一休改成一例一休
+後(週休二日？)，放假天數理論上應該要多的，但實際卻減少？
+2017年連結六次共117天，實施前
+2018年連假五次共115天，實施後
+似乎違背質量守恆定律，所以在此可以驗證出愛因斯坦錯了？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有沒有一例一休違反質量守恆定律的掛？">
+<meta property="og:description" content="根據愛因斯坦質量守恆定律，一年52周數不變，理論上從原本勞工每週一休改成一例一休
+後(週休二日？)，放假天數理論上應該要多的，但實際卻減少？
+2017年連結六次共117天，實施前
+2018年連假五次共115天，實施後
+似乎違背質量守恆定律，所以在此可以驗證出愛因斯坦錯了？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496640756.A.4A1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496640756.A.4A1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">b777300 (su35s)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有沒有一例一休違反質量守恆定律的掛？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 13:32:34 2017</span></div>
+根據愛因斯坦質量守恆定律，一年52周數不變，理論上從原本勞工每週一休改成一例一休
+後(週休二日？)，放假天數理論上應該要多的，但實際卻減少？
+
+2017年連結六次共117天，實施前
+2018年連假五次共115天，實施後
+
+似乎違背質量守恆定律，所以在此可以驗證出愛因斯坦錯了？
+
+18cm我能不能用『質量守恆違反一例一休』寫一篇論文發表上國際科學期刊Nature？會不
+會下一位奧斯卡金像獎最佳騙票獎得主就是我？
+
+喔對了，少的那個連假是勞工節。
+…………………………………………………………………
+備註：
+新世紀治國語錄：
+
+勞工本來就是我們心裡最軟的那塊。
+
+「物質不滅定律」形容，勞工的工資、工時跟企業的獲利加起來一定是得到一個共同數字
+。
+
+休息就不算工時，自由支配這段時間就叫做休息。
+
+「你不要跟我說，你去跟你老闆說啊！台灣就是這樣勞方都不自己去跟資方說，都是來跟
+政府抗議，這個政府公親變事主你們要自立自強啊~」「你們為什麼都沒聲音了呢？」
+
+<span class="f2">※ 八卦板務請到 GossipPicket 檢舉板詢問</span>
+<span class="f2">※ a.張貼問卦請注意，充實文章內容、</span><span class="f3 hl">是否有專板</span><span class="f2">，</span><span class="f5 hl">本板並非萬能問板</span><span class="f2">。</span>
+<span class="f2">※ b.一天只能張貼 &#34;</span><span class="f3 hl">兩則</span><span class="f2">&#34; 問卦，</span><span class="f6 hl">自刪及被刪也算兩篇之內</span><span class="f2">，</span>
+<span class="f2">※   超貼者將被水桶，請注意!</span>
+<span class="f2">※ c.</span><span class="f3 b4 hl">本看板嚴格禁止政治問卦</span><span class="f2">，</span><span class="f6 b1 hl">發文問卦前請先仔細閱讀相關板規</span><span class="f2">。</span>
+<span class="f2">※ d.</span><span class="f3 b1 hl">一行文</span><span class="f2">、</span><span class="b1 hl">未滿20字視同鬧板</span><span class="f2">，請注意！</span>
+<span class="f2">※ (↑看完提醒請刪除ctrl + y)</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.95.8
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496640756.A.4A1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496640756.A.4A1.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 吱吱.DPP.蔡英文：就說勞工的假太多了！</span><span class="push-ipdatetime">06/05 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q76211635</span><span class="f3 push-content">: 鬼島的自然法則真的很不一樣!</span><span class="push-ipdatetime">06/05 13:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Nevhir</span><span class="f3 push-content">: 沒違反 勞工117天假+老闆的保時捷=勞工115天假+老闆法拉利</span><span class="push-ipdatetime">06/05 13:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snow3804</span><span class="f3 push-content">: 勞工口袋減少的 = 老闆口袋增加的  守恆阿</span><span class="push-ipdatetime"> 06/05 13:36
+</span></div><span class="f2">※ 編輯: b777300 (223.136.95.8), 06/05/2017 13:40:34
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NCKU</span><span class="f3 push-content">: 2017 117天有算勞動節 2018 115天公家單位當然沒勞動節</span><span class="push-ipdatetime"> 06/05 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NCKU</span><span class="f3 push-content">: 然後2017比2018多一天禮拜日</span><span class="push-ipdatetime"> 06/05 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NCKU</span><span class="f3 push-content">: 你要用勞工基準就是2017 117天，2018 116天</span><span class="push-ipdatetime"> 06/05 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tllpp</span><span class="f3 push-content">: 菜陰娘的德政捏</span><span class="push-ipdatetime"> 06/05 13:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">helphhh</span><span class="f3 push-content">: 365天是52周多一天，多的那天是六日就多一天假，所以用5</span><span class="push-ipdatetime"> 06/05 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">helphhh</span><span class="f3 push-content">: 2周算是有問題的，有的人就是不懂裝懂，看到黑影就開槍</span><span class="push-ipdatetime"> 06/05 14:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">i9100</span><span class="f3 push-content">: 愛因斯坦質量守恆定律?  偽科學別再假冒科學名義了啦</span><span class="push-ipdatetime"> 06/05 14:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">i9100</span><span class="f3 push-content">: 能量守衡是基本定律,  質能互換是愛因斯坦公式之一</span><span class="push-ipdatetime"> 06/05 14:11
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496640756.A.4A1.html?cacheKey=2052-2041647&offset=2865&offset-sig=b29a6717323669706f139b25a8581a85c0cf2fff" data-longpollurl="/v1/longpoll?id=4be5979b92464db246ec744cae595a5d77286b61" data-offset="2865"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

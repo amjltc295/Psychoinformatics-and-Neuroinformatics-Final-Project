@@ -1,0 +1,488 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495214673.A.4A9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 哪些公式是過了十年沒用卻還記得的？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="每個人  從小的學習  都有他辛苦的一面  尤其是需要被到公式的時候
+所以很多人不管是有興趣  還是被功課逼著
+一定或多或少有些許公式  是在離開學校之後
+過了十年沒用卻還記得的
+一輩子都記得公式通常是重大發現/重要基礎原理
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 哪些公式是過了十年沒用卻還記得的？">
+<meta property="og:description" content="每個人  從小的學習  都有他辛苦的一面  尤其是需要被到公式的時候
+所以很多人不管是有興趣  還是被功課逼著
+一定或多或少有些許公式  是在離開學校之後
+過了十年沒用卻還記得的
+一輩子都記得公式通常是重大發現/重要基礎原理
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495214673.A.4A9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495214673.A.4A9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">harry901 (harry901)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 哪些公式是過了十年沒用卻還記得的？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 01:24:31 2017</span></div>
+每個人  從小的學習  都有他辛苦的一面  尤其是需要被到公式的時候
+
+所以很多人不管是有興趣  還是被功課逼著
+一定或多或少有些許公式  是在離開學校之後
+過了十年沒用卻還記得的
+
+一輩子都記得公式通常是重大發現/重要基礎原理
+比方牛頓運動定律/歐姆定律/平方和展開/一元二次公式解
+
+除了重大發現的公式因為很基本很深耕的原因
+
+有什麼公式是過了十年不會忘的？  還是鄉民都還給老師了？
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.36.62.69
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495214673.A.4A9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495214673.A.4A9.html</a>
+</span><span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:24:43
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Rrrxddd</span><span class="f3 push-content">: F=ma</span><span class="push-ipdatetime"> 05/20 01:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gigi030507</span><span class="f3 push-content">: PV=NRT</span><span class="push-ipdatetime"> 05/20 01:24
+</span></div>這個真的很討厭  會背  都記得  但是要用的時候  就不會了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilovedandan</span><span class="f3 push-content">: E=mc</span><span class="push-ipdatetime"> 05/20 01:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s655131</span><span class="f3 push-content">: 5F=30cm</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holydc</span><span class="f3 push-content">: PV=NTR</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 非A即B 受用無窮</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GGrunrundela</span><span class="f3 push-content">: 1+1=87</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm023347599</span><span class="f3 push-content">: I=VR</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Gosssiping</span><span class="f3 push-content">: 8====3</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ariel780102</span><span class="f3 push-content">: E=mc平方</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:26:54
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">khsa3200</span><span class="f3 push-content">: 不會寫的就猜C</span><span class="push-ipdatetime"> 05/20 01:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">swilly0906</span><span class="f3 push-content">: E最好=mc...</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ariel780102</span><span class="f3 push-content">: 平方啦</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skypush</span><span class="f3 push-content">: Fuck=make love 出生到現在還沒用過</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Neil0503</span><span class="f3 push-content">: 絕對是二乘二等於四</span><span class="push-ipdatetime"> 05/20 01:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ma4wanderer</span><span class="f3 push-content">: 呂秀蓮共同姦淫她</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XWSL</span><span class="f3 push-content">: 3=8    轉彎</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alexscafe</span><span class="f3 push-content">: Z&gt;B</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mylo</span><span class="f3 push-content">: 二ㄟ分之負屄正負根號屄平方減飼ㄟ吸</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Elsmos</span><span class="f3 push-content">: {-b+-(b^2-4a.c.)^.5}/2a</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FUNovo</span><span class="f3 push-content">: 8+9=17</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iioo</span><span class="f3 push-content">: 上底加下底乘高除二阿...</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">estupid</span><span class="f3 push-content">: 車+帥=馬+砲</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PSP156</span><span class="f3 push-content">: 九九乘法表</span><span class="push-ipdatetime"> 05/20 01:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ariel780102</span><span class="f3 push-content">: r平方分之GmM</span><span class="push-ipdatetime"> 05/20 01:28
+</span></div>喔這個要說清楚  是什麼東西等於那個
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:29:10
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charliechao</span><span class="f3 push-content">: udv=uv-vdu</span><span class="push-ipdatetime"> 05/20 01:29
+</span></div>再加個瘦瘦的S就變工市了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">O10lOl01O</span><span class="f3 push-content">: PV=NRT 你連這都記不起來的話 化學就根本不用玩</span><span class="push-ipdatetime"> 05/20 01:29
+</span></div>不是學化學的  這個真的很討厭  一顆氣球壓下去體積變化  溫度變化很好解
+但是氣球放氣到另一顆氣球  算另一顆氣球的什麼挖溝的  就不會用了
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:30:50
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">grant790110</span><span class="f3 push-content">: 甲那蓋美女</span><span class="push-ipdatetime"> 05/20 01:29
+</span></div>探心鐵親簽同今
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">O10lOl01O</span><span class="f3 push-content">: 而且也不甚難記</span><span class="push-ipdatetime"> 05/20 01:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">L4D3</span><span class="f3 push-content">: V=V0t+1/2at^2</span><span class="push-ipdatetime"> 05/20 01:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">grant790110</span><span class="f3 push-content">: 輕里那甲如色法</span><span class="push-ipdatetime"> 05/20 01:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">grant790110</span><span class="f3 push-content">: MD 樓下連t=t+1都搞不懂</span><span class="push-ipdatetime"> 05/20 01:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jily</span><span class="f3 push-content">: e^(i*pi)+1=0</span><span class="push-ipdatetime"> 05/20 01:30
+</span></div>這看不懂  尤拉公式嗎?
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 一元二次方程式公式解</span><span class="push-ipdatetime"> 05/20 01:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkIllusion</span><span class="f3 push-content">: 海龍公式</span><span class="push-ipdatetime"> 05/20 01:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: v=v0+at</span><span class="push-ipdatetime"> 05/20 01:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cosy</span><span class="f3 push-content">: (a+b)^2</span><span class="push-ipdatetime"> 05/20 01:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hancao0816</span><span class="f3 push-content">: 沈澱表</span><span class="push-ipdatetime"> 05/20 01:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzxx1322</span><span class="f3 push-content">: 3363=8300萬</span><span class="push-ipdatetime"> 05/20 01:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">popeyewowo</span><span class="f3 push-content">: 人帥真好，人醜性騷擾</span><span class="push-ipdatetime"> 05/20 01:32
+</span></div>這是國文系經典公式
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">killerchi</span><span class="f3 push-content">: 上上下下左左右右BA</span><span class="push-ipdatetime"> 05/20 01:32
+</span></div>太過分了喔  生命無限齁
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 二欸分之負逼加減根號逼平方減四欸吸</span><span class="push-ipdatetime"> 05/20 01:33
+</span></div><span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:33:28
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 衫褲褲衫</span><span class="push-ipdatetime"> 05/20 01:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 褲褲衫衫</span><span class="push-ipdatetime"> 05/20 01:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simara</span><span class="f3 push-content">: 上上下下左左右右AABB</span><span class="push-ipdatetime"> 05/20 01:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rchih</span><span class="f3 push-content">: 呂秀蓮</span><span class="push-ipdatetime"> 05/20 01:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">v7q4</span><span class="f3 push-content">: 2A分之負B加減根號B平方減4AC</span><span class="push-ipdatetime"> 05/20 01:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hancao0816</span><span class="f3 push-content">: 陰氫陽氧</span><span class="push-ipdatetime"> 05/20 01:34
+</span></div>電解？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Csy065</span><span class="f3 push-content">: sin^2+cos^2=1</span><span class="push-ipdatetime"> 05/20 01:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StockVirtual</span><span class="f3 push-content">: PV=nRT 但不知道代表什麼</span><span class="push-ipdatetime"> 05/20 01:35
+</span></div>看吧  果然一堆人會背這個公式  但卻...
+臺灣的教育  到底怎麼了XDDDDD
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:36:11
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a27588679</span><span class="f3 push-content">: 1+1=2</span><span class="push-ipdatetime"> 05/20 01:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cubegaga</span><span class="f3 push-content">: 由拉公式阿</span><span class="push-ipdatetime"> 05/20 01:36
+</span></div>那個我是記定義  e^iz=cosX+isinX
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cy4750</span><span class="f3 push-content">: 海龍公式超好用</span><span class="push-ipdatetime"> 05/20 01:36
+</span></div>但是又臭又長
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">slipper123</span><span class="f3 push-content">: A=L+E</span><span class="push-ipdatetime"> 05/20 01:37
+</span></div>不知道是？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">selvester</span><span class="f3 push-content">: 柯西不等式 冷次</span><span class="push-ipdatetime"> 05/20 01:37
+</span></div>柯西二維還好  冷次的話十年後沒碰相關科系相關產業還記得的我就佩服您了
+冷次不好理解記憶公式
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">organ63521</span><span class="f3 push-content">: 竟然沒有. V=IR.  P=IV</span><span class="push-ipdatetime"> 05/20 01:37
+</span></div>因為這是基礎公式
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r1an27</span><span class="f3 push-content">: U=-GMm/r</span><span class="push-ipdatetime"> 05/20 01:37
+</span></div>為什麼有負號
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NotLuo</span><span class="f3 push-content">: 兩性元素：嬉皮哥屢遷新家</span><span class="push-ipdatetime"> 05/20 01:37
+</span></div>色色der
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:39:43
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gary21</span><span class="f3 push-content">: abbaab右右左</span><span class="push-ipdatetime"> 05/20 01:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jark41</span><span class="f3 push-content">: a2+b2=c2</span><span class="push-ipdatetime"> 05/20 01:38
+</span></div>這個畢氏定理  到現在才有人提出  好邊緣阿  畢氏定理再各領域都有應用說
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PttXiangMing</span><span class="f3 push-content">: PV=NTR</span><span class="push-ipdatetime"> 05/20 01:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steve1012</span><span class="f3 push-content">: 連pv=nrt都不會用根本自己問題</span><span class="push-ipdatetime"> 05/20 01:39
+</span></div>這東西很有趣的  不是相關科系的  十年後還會用？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">op840906</span><span class="f3 push-content">: Sin平方+cos平方=1</span><span class="push-ipdatetime"> 05/20 01:39
+</span></div><span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:41:16
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">krisher</span><span class="f3 push-content">: 圓面積公式</span><span class="push-ipdatetime"> 05/20 01:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spandala</span><span class="f3 push-content">: (上底加下底)蚾金2</span><span class="push-ipdatetime"> 05/20 01:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">victoryman</span><span class="f3 push-content">: 上底+下底*高/2</span><span class="push-ipdatetime"> 05/20 01:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oaoa0123</span><span class="f3 push-content">: U=-GMm/r有負號是很合理的，因為無窮遠處位能為零，重力</span><span class="push-ipdatetime"> 05/20 01:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oaoa0123</span><span class="f3 push-content">: (保守內力)作功會使得位能下降變為負值</span><span class="push-ipdatetime"> 05/20 01:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooo79113</span><span class="f3 push-content">: how do you turn this on</span><span class="push-ipdatetime"> 05/20 01:44
+</span></div>這是英文系的公式   下一位：歷史系
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:44:37
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roger840410</span><span class="f3 push-content">: 三長一短選最短 三段一長選最長 兩長兩短就選B 長短</span><span class="push-ipdatetime"> 05/20 01:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roger840410</span><span class="f3 push-content">: 不一就選D</span><span class="push-ipdatetime"> 05/20 01:46
+</span></div>不懂？  連桿?
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Joe79v6</span><span class="f3 push-content">: 理想氣體方程</span><span class="push-ipdatetime"> 05/20 01:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: -gMm/r我以前想超久到高三才搞懂</span><span class="push-ipdatetime"> 05/20 01:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxp86312</span><span class="f3 push-content">: 餓得話每日熬ㄧ鷹</span><span class="push-ipdatetime"> 05/20 01:47
+</span></div>太神啦  這個我記得  居然是歷史系的公式
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:48:15
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">baseballkan</span><span class="f3 push-content">: 畢式定理吧</span><span class="push-ipdatetime"> 05/20 01:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Maplelatte</span><span class="f3 push-content">: x=2a分之-b+-根號b^2-4ac 雖然忘了幹嘛用的了</span><span class="push-ipdatetime"> 05/20 01:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Maplelatte</span><span class="f3 push-content">: 像詛咒一樣一直在腦海裡RRRRR</span><span class="push-ipdatetime"> 05/20 01:48
+</span></div>突然想到英文  I saw a saw saw a saw.....
+這好像也是公式
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:49:47
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuyun0724</span><span class="f3 push-content">: H=MS delta T</span><span class="push-ipdatetime"> 05/20 01:50
+</span></div>這個在我國中  一直以為那個三角形是一個亂碼  不知道意思
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:51:12
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spartaucs896</span><span class="f3 push-content">: how do you turn this on</span><span class="push-ipdatetime"> 05/20 01:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruce20053</span><span class="f3 push-content">: a^=b^+c^</span><span class="push-ipdatetime"> 05/20 01:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tsubasa1008</span><span class="f3 push-content">: show me the money</span><span class="push-ipdatetime"> 05/20 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k167943005</span><span class="f3 push-content">: PV=NTR</span><span class="push-ipdatetime"> 05/20 01:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asdf6630</span><span class="f3 push-content">: 圈圈圓圓圈圈</span><span class="push-ipdatetime"> 05/20 01:53
+</span></div>...
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kensues</span><span class="f3 push-content">: PV=nRT就理想氣體方程式咩</span><span class="push-ipdatetime"> 05/20 01:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuyun0724</span><span class="f3 push-content">: 形氣水土生 人經交聚政</span><span class="push-ipdatetime"> 05/20 01:55
+</span></div>易經？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cubegaga</span><span class="f3 push-content">: 納維爾史托克方程 念過流力的應該都不會忘記</span><span class="push-ipdatetime"> 05/20 01:55
+</span></div>這個會忘吧  頂多記得有個慣性力這項  十年後沒碰會全忘
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: 地理系公式嗎</span><span class="push-ipdatetime"> 05/20 01:55
+</span></div>有嗎?
+<span class="f2">※ 編輯: harry901 (114.36.62.69), 05/20/2017 01:56:55
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: PV=nRT</span><span class="push-ipdatetime"> 05/20 01:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 面積等於長乘寬</span><span class="push-ipdatetime"> 05/20 01:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuyun0724</span><span class="f3 push-content">: 那個是地理總則的縮寫，地形 氣候 水文etc</span><span class="push-ipdatetime"> 05/20 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">harry901</span><span class="f3 push-content">: 地理那個也太奇怪了</span><span class="push-ipdatetime"> 05/20 01:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">curlymonkey</span><span class="f3 push-content">: $$$$$$$$$$$</span><span class="push-ipdatetime"> 05/20 01:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuyun0724</span><span class="f3 push-content">: 以前還流行什麼二硫碘化鉀=kiss之類的中二寫法</span><span class="push-ipdatetime"> 05/20 01:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TobyH4cker</span><span class="f3 push-content">: 人生七十古來稀 PC=nRT</span><span class="push-ipdatetime"> 05/20 01:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TobyH4cker</span><span class="f3 push-content">: V</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuyun0724</span><span class="f3 push-content">: 那大概這個背法不有名吧</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chenglin0978</span><span class="f3 push-content">: 哈哈文組哈哈</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yahe0526</span><span class="f3 push-content">: Z&gt;B</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oo2751394</span><span class="f3 push-content">: 133221333123111</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bahamutuh</span><span class="f3 push-content">: 沙摳摳沙 摳摳沙沙</span><span class="push-ipdatetime"> 05/20 02:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 陽氧陰氫</span><span class="push-ipdatetime"> 05/20 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: (v^2)/r 電學 力學都有</span><span class="push-ipdatetime"> 05/20 02:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttassassin</span><span class="f3 push-content">: i = i  + 1</span><span class="push-ipdatetime"> 05/20 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jewish123</span><span class="f3 push-content">: Id = 1/2 unCox W/L (Vgs-Vth)^2</span><span class="push-ipdatetime"> 05/20 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vi000246</span><span class="f3 push-content">: 8+9=17</span><span class="push-ipdatetime"> 05/20 02:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Thamia</span><span class="f3 push-content">: 向心力是mv平方除以R，是MR喔眉尬平方，是mr四拍平方除以T</span><span class="push-ipdatetime"> 05/20 02:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: 社會學公式:好好幹，以後經理就是你了！</span><span class="push-ipdatetime"> 05/20 02:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Thamia</span><span class="f3 push-content">: 平方</span><span class="push-ipdatetime"> 05/20 02:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gy55662008</span><span class="f3 push-content">: 甲+弱勢族群+法學助理=政治正確=無敵星星</span><span class="push-ipdatetime"> 05/20 02:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AlexMorsh</span><span class="f3 push-content">: 好吧 運動學跟電功率公式</span><span class="push-ipdatetime"> 05/20 02:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keydiablo</span><span class="f3 push-content">: v=IR</span><span class="push-ipdatetime"> 05/20 02:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GivemeApen</span><span class="f3 push-content">: 你如假設倍思幹</span><span class="push-ipdatetime"> 05/20 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">malindorothy</span><span class="f3 push-content">: 二A分之負B加減根號B平方減四AC</span><span class="push-ipdatetime"> 05/20 02:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asdf6630</span><span class="f3 push-content">: 被獅幹</span><span class="push-ipdatetime"> 05/20 02:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ak77now</span><span class="f3 push-content">: 九淺一深</span><span class="push-ipdatetime"> 05/20 02:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WERGGC</span><span class="f3 push-content">: how do you turn this on</span><span class="push-ipdatetime"> 05/20 02:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">atsyuan4700</span><span class="f3 push-content">: 1+2=3</span><span class="push-ipdatetime"> 05/20 02:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack0216</span><span class="f3 push-content">: (P+a/V2)(V-b)=RT</span><span class="push-ipdatetime"> 05/20 02:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jack0216</span><span class="f3 push-content">: 凡德瓦氣體方程式</span><span class="push-ipdatetime"> 05/20 02:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s860134</span><span class="f3 push-content">: W=Sam</span><span class="push-ipdatetime"> 05/20 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PumaFoxTz</span><span class="f3 push-content">: ..</span><span class="push-ipdatetime"> 05/20 02:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d60917</span><span class="f3 push-content">: 不當得利民法179侵權行為損害賠償184所有物返還請求權767</span><span class="push-ipdatetime"> 05/20 02:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cuba391156</span><span class="f3 push-content">: PV=NKT</span><span class="push-ipdatetime"> 05/20 02:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sh053394</span><span class="f3 push-content">: Friis eqn</span><span class="push-ipdatetime"> 05/20 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hhhhh848688</span><span class="f3 push-content">: 乘法公式全都還記得</span><span class="push-ipdatetime"> 05/20 02:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ambitious</span><span class="f3 push-content">: N=No*e^-λt</span><span class="push-ipdatetime"> 05/20 02:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Amushroom</span><span class="f3 push-content">: int main(){int i;for(i=0;i!=87;I++)printf(&#34;%d&#34;,I);</span><span class="push-ipdatetime"> 05/20 02:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oaoa0123</span><span class="f3 push-content">: 凡德瓦的方程式是V-nb</span><span class="push-ipdatetime"> 05/20 02:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">final951753</span><span class="f3 push-content">: dU = TdS–PdV+μdN</span><span class="push-ipdatetime"> 05/20 02:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e821017</span><span class="f3 push-content">: V=IR</span><span class="push-ipdatetime"> 05/20 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">x12304589</span><span class="f3 push-content">: 克普勒行星</span><span class="push-ipdatetime"> 05/20 02:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forangel</span><span class="f3 push-content">: 防下功防上跳防前跳防下跳防上功</span><span class="push-ipdatetime"> 05/20 03:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyjy12</span><span class="f3 push-content">: 山上富士山 sin3x = 3sinx - 4(sin3x)^3</span><span class="push-ipdatetime"> 05/20 03:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">batbruce00</span><span class="f3 push-content">: F=mv^2/R</span><span class="push-ipdatetime"> 05/20 03:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jainsin</span><span class="f3 push-content">: 1+1=2</span><span class="push-ipdatetime"> 05/20 03:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dwatau</span><span class="f3 push-content">: 87+87=174</span><span class="push-ipdatetime"> 05/20 03:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cycwtu</span><span class="f3 push-content">: 猛心若鐵姑爺    嗨奶仔克山東</span><span class="push-ipdatetime"> 05/20 03:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DoraPtt</span><span class="f3 push-content">: PC=nrt</span><span class="push-ipdatetime"> 05/20 03:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chinesebruce</span><span class="f3 push-content">: AV=AIR</span><span class="push-ipdatetime"> 05/20 03:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VIGUTA</span><span class="f3 push-content">: AV=NTR</span><span class="push-ipdatetime"> 05/20 03:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluewhale97</span><span class="f3 push-content">: 69式</span><span class="push-ipdatetime"> 05/20 03:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc87428</span><span class="f3 push-content">: 8+9=17</span><span class="push-ipdatetime"> 05/20 04:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">duetobe</span><span class="f3 push-content">: 3.14159265358979323846</span><span class="push-ipdatetime"> 05/20 04:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">duetobe</span><span class="f3 push-content">: 2^100=1267650600228229401496703205376</span><span class="push-ipdatetime"> 05/20 04:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">grace00912</span><span class="f3 push-content">: ㄜ 元素表......  ((文組</span><span class="push-ipdatetime"> 05/20 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uar9590</span><span class="f3 push-content">: 夏商周秦漢 魏晉南北朝 隋唐五代 宋元明清</span><span class="push-ipdatetime"> 05/20 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EarthLegacy</span><span class="f3 push-content">: 拉者公式。</span><span class="push-ipdatetime"> 05/20 04:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: P=NP</span><span class="push-ipdatetime"> 05/20 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HowLeeHi</span><span class="f3 push-content">: MR=MC</span><span class="push-ipdatetime"> 05/20 04:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptrex</span><span class="f3 push-content">: 某層偽魂斗羅。左右左右BA啦</span><span class="push-ipdatetime"> 05/20 05:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptrex</span><span class="f3 push-content">: 電阻色碼</span><span class="push-ipdatetime"> 05/20 05:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptrex</span><span class="f3 push-content">: 波長公式</span><span class="push-ipdatetime"> 05/20 05:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: pv=nrt</span><span class="push-ipdatetime"> 05/20 05:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantasy2600</span><span class="f3 push-content">: V=IR，前面出現I=VR是怎麼回事</span><span class="push-ipdatetime"> 05/20 05:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xyz1010</span><span class="f3 push-content">: 開根號乘以十</span><span class="push-ipdatetime"> 05/20 05:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">germun</span><span class="f3 push-content">: 乾 看到I=VR還以為我記錯</span><span class="push-ipdatetime"> 05/20 05:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn00063172</span><span class="f3 push-content">: 二ㄟ分之負逼加減根號逼平方減四ㄟ西</span><span class="push-ipdatetime"> 05/20 06:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wizardtime</span><span class="f3 push-content">: V=V0+at</span><span class="push-ipdatetime"> 05/20 06:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lamu</span><span class="f3 push-content">: 一嗅二視三動眼四滑五叉六外旋七顏八聽九舌咽十迷走來十一副</span><span class="push-ipdatetime"> 05/20 06:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lamu</span><span class="f3 push-content">: 十二舌下神經束</span><span class="push-ipdatetime"> 05/20 06:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cytc</span><span class="f3 push-content">: 大大武花大武花</span><span class="push-ipdatetime"> 05/20 06:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mhmichelle</span><span class="f3 push-content">: 只記得理想氣體方程式了，真是太洗腦了</span><span class="push-ipdatetime"> 05/20 06:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IsaacJJWang</span><span class="f3 push-content">: 界門綱目科屬種</span><span class="push-ipdatetime"> 05/20 06:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IsaacJJWang</span><span class="f3 push-content">: 衝脫泡蓋爽</span><span class="push-ipdatetime"> 05/20 06:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2945874624</span><span class="f3 push-content">: m=bd</span><span class="push-ipdatetime"> 05/20 06:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Shadouie</span><span class="f3 push-content">: 23樓笑了 給推</span><span class="push-ipdatetime"> 05/20 06:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Shadouie</span><span class="f3 push-content">: 話說這篇一堆看不懂 根本沒學過= =</span><span class="push-ipdatetime"> 05/20 07:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kg9101266</span><span class="f3 push-content">: m1v1=m2v2</span><span class="push-ipdatetime"> 05/20 07:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sicqq233</span><span class="f3 push-content">: 上底加下底乘於高除於二</span><span class="push-ipdatetime"> 05/20 07:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Magiclover</span><span class="f3 push-content">: （3/4）*拍*G*R*肉</span><span class="push-ipdatetime"> 05/20 07:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ivan901010</span><span class="f3 push-content">: 粒線體是細胞的發電廠</span><span class="push-ipdatetime"> 05/20 07:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">moneygg</span><span class="f3 push-content">: 明明就 是 V=IR</span><span class="push-ipdatetime"> 05/20 07:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x94m405109</span><span class="f3 push-content">: AV=AIR 色即是空</span><span class="push-ipdatetime"> 05/20 07:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nrxadsl</span><span class="f3 push-content">: 高斯</span><span class="push-ipdatetime"> 05/20 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">karta2164480</span><span class="f3 push-content">: 人口成長=出生-死亡+移入-移出</span><span class="push-ipdatetime"> 05/20 07:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t123910</span><span class="f3 push-content">: 2a分之-b+- 根號b平方-4ac</span><span class="push-ipdatetime"> 05/20 08:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">j5201121</span><span class="f3 push-content">: 阿公式</span><span class="push-ipdatetime"> 05/20 08:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aaaa714714</span><span class="f3 push-content">: 犯罪成立要件=構成要件該當+違法性+有責性</span><span class="push-ipdatetime"> 05/20 08:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">madslee</span><span class="f3 push-content">: 10!=1024</span><span class="push-ipdatetime"> 05/20 08:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckysummer</span><span class="f3 push-content">: C=I</span><span class="push-ipdatetime"> 05/20 08:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jhnny97</span><span class="f3 push-content">: Rμν-迷μνR+Λgμν=8GpiTμν/c^4</span><span class="push-ipdatetime"> 05/20 08:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jhnny97</span><span class="f3 push-content">: Rμν-gμνR/2+Λgμν=8GpiTμν/c^4</span><span class="push-ipdatetime"> 05/20 08:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jhnny97</span><span class="f3 push-content">: 1/2符號ptt不給用</span><span class="push-ipdatetime"> 05/20 08:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b81314</span><span class="f3 push-content">: 的撐高</span><span class="push-ipdatetime"> 05/20 08:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asmiocv</span><span class="f3 push-content">: PV=NTR</span><span class="push-ipdatetime"> 05/20 08:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gohp</span><span class="f3 push-content">: TE29L</span><span class="push-ipdatetime"> 05/20 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">beatmania</span><span class="f3 push-content">: 人生七十古來稀  PV=NRT</span><span class="push-ipdatetime"> 05/20 08:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oopalmoo</span><span class="f3 push-content">: V=IR, P=VI, 現在每天用就跟呼吸樣一樣</span><span class="push-ipdatetime"> 05/20 08:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TRUNKSX</span><span class="f3 push-content">: 1+1=2</span><span class="push-ipdatetime"> 05/20 08:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jonesyou</span><span class="f3 push-content">: A=L+E</span><span class="push-ipdatetime"> 05/20 08:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s4300026</span><span class="f3 push-content">: Y=C+I+G+X-M</span><span class="push-ipdatetime"> 05/20 08:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AirLee</span><span class="f3 push-content">: F=AMA 每天在用啊</span><span class="push-ipdatetime"> 05/20 08:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hayasui</span><span class="f3 push-content">: F=ma=m*v2/r=mω2r=m4拍平方r/T2</span><span class="push-ipdatetime"> 05/20 08:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">citymax</span><span class="f3 push-content">: 薛丁格波動方程式</span><span class="push-ipdatetime"> 05/20 08:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ylinky</span><span class="f3 push-content">: 爸爸+媽媽=我</span><span class="push-ipdatetime"> 05/20 09:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FuwafuwaCAT</span><span class="f3 push-content">: Q=AV</span><span class="push-ipdatetime"> 05/20 09:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">noko</span><span class="f3 push-content">: ID=1/2UnCoxW/L(VGS-VT)^2</span><span class="push-ipdatetime"> 05/20 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SKL</span><span class="f3 push-content">: 有 PV=nRT 怎麼沒有順便 PM=dRT</span><span class="push-ipdatetime"> 05/20 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ringohejia</span><span class="f3 push-content">: GB=KMT</span><span class="push-ipdatetime"> 05/20 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ila9970</span><span class="f3 push-content">: a+b=c</span><span class="push-ipdatetime"> 05/20 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">manforwan</span><span class="f3 push-content">: 四摳三減三摳，山上富士山上</span><span class="push-ipdatetime"> 05/20 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robobo</span><span class="f3 push-content">: 韓柳歐曾三蘇王安石</span><span class="push-ipdatetime"> 05/20 09:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jumbomirror</span><span class="f3 push-content">: 海龍公式</span><span class="push-ipdatetime"> 05/20 09:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abby50066</span><span class="f3 push-content">: 這個不會考</span><span class="push-ipdatetime"> 05/20 09:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VirgilAeneid</span><span class="f3 push-content">: e^(-i*Pi)+1=0</span><span class="push-ipdatetime"> 05/20 09:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 1+1</span><span class="push-ipdatetime"> 05/20 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cs9850712</span><span class="f3 push-content">: 不打勤不打懶專打不長眼</span><span class="push-ipdatetime"> 05/20 09:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TitanEric</span><span class="f3 push-content">: 二元一次方程式解</span><span class="push-ipdatetime"> 05/20 09:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fffffff4</span><span class="f3 push-content">: How do you turn this on</span><span class="push-ipdatetime"> 05/20 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">swjlsc</span><span class="f3 push-content">: 褲+褲=褲褲，褲-褲=沒褲剩衫 那隻跑出來</span><span class="push-ipdatetime"> 05/20 09:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mave0</span><span class="f3 push-content">: MR=MC</span><span class="push-ipdatetime"> 05/20 09:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waune</span><span class="f3 push-content">: LF2.NET</span><span class="push-ipdatetime"> 05/20 09:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leoc554</span><span class="f3 push-content">: Pv=nrt</span><span class="push-ipdatetime"> 05/20 09:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guyguy2</span><span class="f3 push-content">: P=&gt;Q iff -Q=&gt;-P</span><span class="push-ipdatetime"> 05/20 10:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DDDDCE</span><span class="f3 push-content">: 當然是99乘法表！！！</span><span class="push-ipdatetime"> 05/20 10:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sapii</span><span class="f3 push-content">: 上底+下底*高÷2</span><span class="push-ipdatetime"> 05/20 10:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KZsmith</span><span class="f3 push-content">: pv就是ntr</span><span class="push-ipdatetime"> 05/20 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wendyruwei</span><span class="f3 push-content">: 口口減賽賽</span><span class="push-ipdatetime"> 05/20 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lemon81824</span><span class="f3 push-content">: delta G=delta H- T delta S</span><span class="push-ipdatetime"> 05/20 10:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyjay</span><span class="f3 push-content">: 一減添添 添加添</span><span class="push-ipdatetime"> 05/20 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waterpure</span><span class="f3 push-content">: 133 221 333 123 111</span><span class="push-ipdatetime"> 05/20 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">helsman</span><span class="f3 push-content">: 36+45=79 不是唯一解</span><span class="push-ipdatetime"> 05/20 10:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">trchen</span><span class="f3 push-content">: 餓的話每日熬ㄧ鷹</span><span class="push-ipdatetime"> 05/20 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">katana22</span><span class="f3 push-content">: 1 .0</span><span class="push-ipdatetime"> 05/20 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TSENG940373</span><span class="f3 push-content">: 87=KMT</span><span class="push-ipdatetime"> 05/20 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">solu731</span><span class="f3 push-content">: 2A分之負B加減根號...（略</span><span class="push-ipdatetime"> 05/20 10:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edaw</span><span class="f3 push-content">: V=IR  (好像算有用到啦  XD</span><span class="push-ipdatetime"> 05/20 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LDhemon</span><span class="f3 push-content">: 3X7=21</span><span class="push-ipdatetime"> 05/20 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">comp6118</span><span class="f3 push-content">: PV=NRT  現在不會用但是公式超熟</span><span class="push-ipdatetime"> 05/20 11:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tarantula610</span><span class="f3 push-content">: b平方—4ac 檢定拋物線開口是否向上</span><span class="push-ipdatetime"> 05/20 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ninakuan</span><span class="f3 push-content">: 上底加下底括號乘以高除以二</span><span class="push-ipdatetime"> 05/20 11:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GodTone</span><span class="f3 push-content">: 海臭蟲公式</span><span class="push-ipdatetime"> 05/20 11:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SiLeNcePINK</span><span class="f3 push-content">: 白痴喔 8+9=17阿</span><span class="push-ipdatetime"> 05/20 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a5245242003</span><span class="f3 push-content">: 二分之一mv平方</span><span class="push-ipdatetime"> 05/20 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">phate06</span><span class="f3 push-content">: av=gm X ro</span><span class="push-ipdatetime"> 05/20 12:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e0471</span><span class="f3 push-content">: 俄德法美日奧義英</span><span class="push-ipdatetime"> 05/20 12:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nicoleshen</span><span class="f3 push-content">: (上底+下底)*高/2</span><span class="push-ipdatetime"> 05/20 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plipala</span><span class="f3 push-content">: 文組只記得F=ma 啦QQQQ 喔幹還沒十年</span><span class="push-ipdatetime"> 05/20 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">supermmi</span><span class="f3 push-content">: 黃帝夏商周二漢三國晉宋齊梁陳隨唐宋元明清</span><span class="push-ipdatetime"> 05/20 12:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluenile</span><span class="f3 push-content">: B2+C+Ca</span><span class="push-ipdatetime"> 05/20 12:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PumaFoxTz</span><span class="f3 push-content">: op</span><span class="push-ipdatetime"> 05/20 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PumaFoxTz</span><span class="f3 push-content">: 滾</span><span class="push-ipdatetime"> 05/20 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jimabc</span><span class="f3 push-content">: V=IR</span><span class="push-ipdatetime"> 05/20 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PumaFoxTz</span><span class="f3 push-content">: no</span><span class="push-ipdatetime"> 05/20 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jimabc</span><span class="f3 push-content">: P=IV</span><span class="push-ipdatetime"> 05/20 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kumasa</span><span class="f3 push-content">: 133221333123111</span><span class="push-ipdatetime"> 05/20 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jimabc</span><span class="f3 push-content">: print(&#34;hello world&#34;);</span><span class="push-ipdatetime"> 05/20 12:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ljsnonocat</span><span class="f3 push-content">: 沒在硬背  你如果自己推導過  自然就會記得</span><span class="push-ipdatetime"> 05/20 13:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imjun</span><span class="f3 push-content">: 尊嚴=$$</span><span class="push-ipdatetime"> 05/20 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mynewid</span><span class="f3 push-content">: (a+b)^2=c^2</span><span class="push-ipdatetime"> 05/20 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">segga</span><span class="f3 push-content">: sin(A+B)=sinAcosB+cosAsinB</span><span class="push-ipdatetime"> 05/20 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cwuwang</span><span class="f3 push-content">: Z&gt;B.   8=3</span><span class="push-ipdatetime"> 05/20 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andyssfresh</span><span class="f3 push-content">: P=IV V=IR</span><span class="push-ipdatetime"> 05/20 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shanshuivick</span><span class="f3 push-content">: 底乘高除2</span><span class="push-ipdatetime"> 05/20 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FrienDx</span><span class="f3 push-content">: B4定理</span><span class="push-ipdatetime"> 05/20 13:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x80307</span><span class="f3 push-content">: 430 430 430 230</span><span class="push-ipdatetime"> 05/20 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PeikangShin</span><span class="f3 push-content">: 成績=開根號*10</span><span class="push-ipdatetime"> 05/20 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiauji</span><span class="f3 push-content">: H \psi = E \psi</span><span class="push-ipdatetime"> 05/20 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">doubleperson</span><span class="f3 push-content">: 海龍公式</span><span class="push-ipdatetime"> 05/20 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yongsyuan</span><span class="f3 push-content">: D=M/V  密度=質量/體積→因為寫成分數像嘴唇XD</span><span class="push-ipdatetime"> 05/20 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttkobe5566</span><span class="f3 push-content">: 8+9=17</span><span class="push-ipdatetime"> 05/20 16:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ing50606</span><span class="f3 push-content">: Lf2.net</span><span class="push-ipdatetime"> 05/20 16:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">logspiderman</span><span class="f3 push-content">: 共同兼淫呂秀蓮</span><span class="push-ipdatetime"> 05/20 16:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiuyeah</span><span class="f3 push-content">: 6.02*10^23</span><span class="push-ipdatetime"> 05/20 17:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kiuyeah</span><span class="f3 push-content">: 683T人渣賤狗</span><span class="push-ipdatetime"> 05/20 17:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q10242</span><span class="f3 push-content">: 勾股定理</span><span class="push-ipdatetime"> 05/20 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linzero</span><span class="f3 push-content">: 氫鋰鈉鉀銣銫鍅 鈹鎂鈣鍶鋇鐳  然後忘了</span><span class="push-ipdatetime"> 05/20 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kyou135</span><span class="f3 push-content">: 一吋光陰一寸金 PV等於NRT</span><span class="push-ipdatetime"> 05/20 17:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SLAC</span><span class="f3 push-content">: MV=PY GDP=C+G+I+(X-M)</span><span class="push-ipdatetime"> 05/20 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aquarius126</span><span class="f3 push-content">: LF2.NET</span><span class="push-ipdatetime"> 05/20 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joshualiu</span><span class="f3 push-content">: Navier stoke equation</span><span class="push-ipdatetime"> 05/20 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mcps5601</span><span class="f3 push-content">: 一嗅二視三動眼</span><span class="push-ipdatetime"> 05/20 20:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">souljye</span><span class="f3 push-content">: T=Asfy</span><span class="push-ipdatetime"> 05/20 20:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alansyue</span><span class="f3 push-content">: 麥葡葡蔗葡果乳葡半</span><span class="push-ipdatetime"> 05/20 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">collco</span><span class="f3 push-content">: CO=HR x SV</span><span class="push-ipdatetime"> 05/20 20:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whathefuc</span><span class="f3 push-content">: 背PV=NRT根本不對 N是分子數 應該是nRT 或NkT</span><span class="push-ipdatetime"> 05/20 20:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gldoetwecbb</span><span class="f3 push-content">: δ=PL/AE</span><span class="push-ipdatetime"> 05/20 20:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nyc212</span><span class="f3 push-content">: 雙層純牛肉</span><span class="push-ipdatetime"> 05/20 21:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nyc212</span><span class="f3 push-content">: 吉士洋蔥酸黃瓜</span><span class="push-ipdatetime"> 05/20 21:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pingming</span><span class="f3 push-content">: 平平仄仄平平仄</span><span class="push-ipdatetime"> 05/20 21:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NEJAN9</span><span class="f3 push-content">: how do you turn this on</span><span class="push-ipdatetime"> 05/20 21:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smliu2000</span><span class="f3 push-content">: B2+C+鈣</span><span class="push-ipdatetime"> 05/20 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ftiger21</span><span class="f3 push-content">: 上底加下底乘高除以2</span><span class="push-ipdatetime"> 05/20 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knchocho</span><span class="f3 push-content">: 上底加下底乘高除以2 跟樓上一樣</span><span class="push-ipdatetime"> 05/20 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gaching</span><span class="f3 push-content">: 吋x吋x吋/1728/35.315=CBM</span><span class="push-ipdatetime"> 05/20 22:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wei5730</span><span class="f3 push-content">: Printf(&#34;Hello world&#34;);</span><span class="push-ipdatetime"> 05/20 22:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wi77777</span><span class="f3 push-content">: C(n,k)p^k(1-p)^n-k</span><span class="push-ipdatetime"> 05/20 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">airrooco</span><span class="f3 push-content">: 居然沒有畢氏定理 XD</span><span class="push-ipdatetime"> 05/20 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azz778888</span><span class="f3 push-content">: L2.net</span><span class="push-ipdatetime"> 05/21 00:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leegogo</span><span class="f3 push-content">: 必歐沙伐定律</span><span class="push-ipdatetime"> 05/21 00:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">faiyce</span><span class="f3 push-content">: Sin的兩倍角是兩倍sincos</span><span class="push-ipdatetime"> 05/21 01:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ts02026755</span><span class="f3 push-content">: lf2.net</span><span class="push-ipdatetime"> 05/21 01:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goldlipe</span><span class="f3 push-content">: 畢氏定理，想忘都忘不了QQ</span><span class="push-ipdatetime"> 05/21 01:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ibook0102</span><span class="f3 push-content">: R=V/I</span><span class="push-ipdatetime"> 05/21 01:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ibook0102</span><span class="f3 push-content">: I最好=VR，幹連背都背錯</span><span class="push-ipdatetime"> 05/21 01:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">charlie4588</span><span class="f3 push-content">: 拉普拉斯   不記得公式但是記得名字的公式</span><span class="push-ipdatetime"> 05/21 01:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">accle7905231</span><span class="f3 push-content">: Xmap=p(r|x)p(x)</span><span class="push-ipdatetime"> 05/21 01:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sam88264</span><span class="f3 push-content">: t平方分之4拍平方r</span><span class="push-ipdatetime"> 05/21 02:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GhostIlander</span><span class="f3 push-content">: I&#39;m = I am</span><span class="push-ipdatetime"> 05/21 02:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">simon2358</span><span class="f3 push-content">: LF2.NET</span><span class="push-ipdatetime"> 05/21 13:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kt406332012</span><span class="f3 push-content">: 先乘除後加減</span><span class="push-ipdatetime"> 05/21 15:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeross</span><span class="f3 push-content">: Y=c+i+g+(x-m)</span><span class="push-ipdatetime"> 05/21 16:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">weisuika</span><span class="f3 push-content">: 俄德法美日奧義英</span><span class="push-ipdatetime"> 05/21 16:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomsawyer</span><span class="f3 push-content">: 惡的話每日吃一鷹</span><span class="push-ipdatetime"> 05/21 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomsawyer</span><span class="f3 push-content">: 打錯...</span><span class="push-ipdatetime"> 05/21 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomsawyer</span><span class="f3 push-content">: 惡的話每日熬一鷹</span><span class="push-ipdatetime"> 05/21 16:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zaqmkovfr</span><span class="f3 push-content">: 瓦力公式</span><span class="push-ipdatetime"> 05/21 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ssd860505da</span><span class="f3 push-content">: H=ms溜滑梯</span><span class="push-ipdatetime"> 05/22 01:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kobesoul5566</span><span class="f3 push-content">: Pv=nrt</span><span class="push-ipdatetime"> 05/22 09:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TMDTMD2487</span><span class="f3 push-content">: ID等於ㄇㄧㄨnC啊克骰長寬比VGS減Vth乘上VDS減去2分</span><span class="push-ipdatetime"> 05/22 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TMDTMD2487</span><span class="f3 push-content">: 之VDS平方</span><span class="push-ipdatetime"> 05/22 10:36
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495214673.A.4A9.html?cacheKey=2052-35637658&offset=34004&offset-sig=cd63186394ebe6cd5cb13ec5dcc9b8b9a6403087" data-longpollurl="/v1/longpoll?id=de065921b7f9e67bd1fecd4a0820508a60057e1c" data-offset="34004"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

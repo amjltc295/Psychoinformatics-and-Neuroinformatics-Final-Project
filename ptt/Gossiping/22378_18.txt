@@ -1,0 +1,269 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496506558.A.648.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 有反核人士認為火力發電很乾淨的卦？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="看吧，對這個中文老師講過N次了他還是堆砌一堆廢話繼續跳針如果有第一時間廢爐。
+: 我國有斷然處置措施
+對啊，馬英九還認為這東西可以摧毀核電廠所以不會有核災。
+難怪會去擁核。
+: 當然，你也可以無責任的說
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 有反核人士認為火力發電很乾淨的卦？">
+<meta property="og:description" content="看吧，對這個中文老師講過N次了他還是堆砌一堆廢話繼續跳針如果有第一時間廢爐。
+: 我國有斷然處置措施
+對啊，馬英九還認為這東西可以摧毀核電廠所以不會有核災。
+難怪會去擁核。
+: 當然，你也可以無責任的說
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496506558.A.648.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496506558.A.648.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">xxyxx (123)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 有反核人士認為火力發電很乾淨的卦？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun Jun  4 00:15:55 2017</span></div>
+<span class="f2">※ 引述《hamasakiayu (ayumi)》之銘言：
+</span><span class="f6">: ※ 引述《xxyxx (123)》之銘言：
+</span><span class="f6">: : 推 jia926: 請教一下原po 福島核電廠內部電源如果第一時間就用於灌水   06/03 22:01
+</span><span class="f6">: : → jia926: 是否可行?                                               06/03 22:01
+</span><span class="f6">: : → jia926: 還是控制系統直接設定連鎖 當內部電源剩多少時 直接灌水    06/03 22:02
+</span><span class="f6">: : → jia926: 就不用東電人為判斷?                                     06/03 22:03
+</span><span class="f6">: : 真的放棄正常的冷卻系統改用灌水的話必須持續不停的灌水，
+</span><span class="f6">: : 或者至少要灌到冷卻系統復舊完成接手為止。
+</span><span class="f6">: : 不然只要停止灌水，衰變熱無法去除繼續累積，一樣完蛋。
+</span><span class="f6">: : 這又是很多擁核的盲點，他們大概只能思考到，萬歲，水灌進去了～～～～
+</span><span class="f6">: : 然後就沒了。
+</span><span class="f6">: : 就繼續拿福島當例子，就算是已經氫爆，爐心溶解之後，
+</span><span class="f6">: : 還是必須不斷的灌水，而灌進去的水經過燃料棒後就變成被污染的輻射污水....
+</span><span class="f6">: 是說灌水進去爭取到時間
+</span><span class="f6">: 開始進行復電→狀況解除
+</span><span class="f6">: 復電有困難
+</span><span class="f6">: 那就增加外部水源後爭取更多時間復電→狀況解除
+</span><span class="f6">: 是說你想到的，全世界核電廠已經都想到囉
+</span><span class="f6">: 東電福島是沒有第一時間廢爐搞到爐心熔解
+</span>
+看吧，對這個中文老師講過N次了他還是堆砌一堆廢話繼續跳針如果有第一時間廢爐。
+
+<span class="f6">: 我國有斷然處置措施
+</span>
+對啊，馬英九還認為這東西可以摧毀核電廠所以不會有核災。
+
+難怪會去擁核。
+
+<span class="f6">: 當然，你也可以無責任的說
+</span><span class="f6">: 反正斷然處置就是不會發生效用
+</span><span class="f6">: 我這邊對於這種言論
+</span><span class="f6">: 必須要誠實的說的確不是完全零可能
+</span><span class="f6">: 1.發生核電廠承受範圍以上的災變導致電廠全黑
+</span><span class="f6">: 2.所有廠內緊急備援電力都因為不明原因失效
+</span><span class="f6">: 3.獨立自動應變系統(印象中至少三個)也全部不能作動
+</span><span class="f6">: 4.斷然處置措施完全失效導致爐心融毀核災發生
+</span><span class="f6">: 5.到核災發生後還不肯放生水池水爭取時間
+</span><span class="f6">: 6.外部水源也不肯進場爭取恢復電力時間
+</span><span class="f6">: 7.最後福島核災在台灣重現
+</span>
+喔，不繼續跳針可以摧毀核電廠的天災會先摧毀台灣了喔？
+
+現實擺在眼前，一切都需要電力，電力或來自於外部或來自於內部，
+外部電源就是電塔串出來的，剛好昨天倒了一個電塔，就倒在核電廠裡面。
+
+內部電源就是死命的增加柴油發電機，
+然後祈禱用光柴油之前外部電源復歸。
+
+要這樣祈禱你家的事，我沒興趣陪你。
+
+<span class="f6">: : 推 kuninaka: 蓋滿火力又沒關係，都已經七成了                        06/03 22:03
+</span><span class="f6">: : 推 togmogo: 擁核的人好像很喜歡把反核的都當成文組  扣帽子一流       06/03 22:04
+</span><span class="f6">: : → litcurler: 第一時間灌水就能救爐子阿                             06/03 22:04
+</span><span class="f6">: : 噓 zzzaaa119: 再多個一成 我也大力同意                              06/03 22:04
+</span><span class="f6">: : 推 ss59418ss: 看來下次台電要辦火電的公聽會時，最該擔心的是永和人   06/03 22:11
+</span><span class="f6">: : 推 togmogo: 現在核能占發電總量一成 火力占七成  如果要環保電力那要  06/03 22:14
+</span><span class="f6">: : → togmogo: 蓋幾座核電廠？蓋在那？災難應變措施？醫院sop人口疏散安  06/03 22:14
+</span><span class="f6">: : → togmogo: 置sop這些都弄好嗎                                      06/03 22:14
+</span><span class="f6">: : <a href="http://img.ltn.com.tw/2012/new/apr/20/images/bigPic/600_126.jpg" target="_blank" rel="nofollow">http://img.ltn.com.tw/2012/new/apr/20/images/bigPic/600_126.jpg</a>
+</span><div class="richcontent"><img src="http://img.ltn.com.tw/2012/new/apr/20/images/bigPic/600_126.jpg" alt="" /></div><span class="f6">: : 怎麼可能寫得出災難應變措施或者疏散計畫這種東西。
+</span><span class="f6">: : 這還只是三十公里，如果學美國說半徑八十公里..............
+</span><span class="f6">: : <a href="http://www.appledaily.com.tw/appledaily/article/headline/20110318/33256741/" target="_blank" rel="nofollow">http://www.appledaily.com.tw/appledaily/article/headline/20110318/33256741/</a>
+</span><span class="f6">: : 『
+</span><span class="f6">: : 美國稍早已通令日本境內所有美國人，應撤離福島第一核電廠方圓80公里的地區
+</span><span class="f6">: : 』
+</span><span class="f6">: : 台灣一旦發生核電廠事故，真的離滅亡不遠。
+</span><span class="f6">: 先不說提這東西的人在美國自己也被人批得亂七八糟
+</span>
+所以現在美國NRC改口了嗎？
+
+既然沒有，所謂提這東西的人在美國自己也被人批得亂七八糟是批到哪裡去？
+
+<span class="f6">: 我想請問一下
+</span><span class="f6">: 日本實際上只有撤離到20KM
+</span><span class="f6">: 到30KM是呼籲撤離，並非強制(20 至30 公里的居民則採室內掩蔽或自願疏散)
+</span>
+教過你幾次了還在硬凹，你們這些擁核的實在很糟糕。
+
+<a href="http://www.ptt.cc/bbs/PublicIssue/M.1411741275.A.DF3.html" target="_blank" rel="nofollow">http://www.ptt.cc/bbs/PublicIssue/M.1411741275.A.DF3.html</a>
+
+這篇文章還是2014年的，那麼久以前就打過你的臉了你還不斷重複跳針，煩。
+
+<span class="f6">: 那麼我想請問
+</span><span class="f6">: 方圓80KM，面積是200,96平方公里
+</span><span class="f6">: 而福島縣總面積為13,783平方公里
+</span><span class="f6">: 換言之，差不多是整個福島縣兩倍面積
+</span><span class="f6">: 約莫是整個新北市的面積2,053 平方公里
+</span><span class="f6">: 下面是福島核災5年避免指示區圖(有方圓20KM範圍)
+</span><span class="f6">: <a href="http://img.ltn.com.tw/Upload/talk/page/800/2016/03/17/phpCGRhy6.jpg" target="_blank" rel="nofollow">http://img.ltn.com.tw/Upload/talk/page/800/2016/03/17/phpCGRhy6.jpg</a>
+</span><div class="richcontent"><img src="http://img.ltn.com.tw/Upload/talk/page/800/2016/03/17/phpCGRhy6.jpg" alt="" /></div><span class="f6">: 福島行政區劃
+</span><span class="f6">: <a href="https://goo.gl/zQQcaF" target="_blank" rel="nofollow">https://goo.gl/zQQcaF</a>
+</span><span class="f6">: 可以看得出來福島縣還是有很大面積不在撤離範圍之中
+</span><span class="f6">: 而這個撤離範圍隨著核災發生日期日漸遠離
+</span><span class="f6">: 限制區越來越小(當然這是跟一開始比較，實際上範圍還是滿大的)
+</span><span class="f6">: 我想問
+</span><span class="f6">: 如果撤離80KM是正確的
+</span><span class="f6">: 為什麼在國際組織進入長期調查之後
+</span><span class="f6">: 反而是越來越縮小
+</span>
+很簡單，因為人家除污有成。
+
+人家呢，把污染區域內所有的表土、灰塵、乃至於遺骸，
+一點一滴的收集起來，裝袋帶走，於是完成除污的區域自然可以開放。
+
+而，除下來的污不會消失，所以現在他們畫了幾個區域儲放。
+
+<a href="http://bstxinc.sakura.ne.jp/wp2/wp-content/uploads/2015/10/osen.jpg" target="_blank" rel="nofollow">http://bstxinc.sakura.ne.jp/wp2/wp-content/uploads/2015/10/osen.jpg</a>
+<div class="richcontent"><img src="http://bstxinc.sakura.ne.jp/wp2/wp-content/uploads/2015/10/osen.jpg" alt="" /></div>
+我想你這中文系的應該不知道那裡面黑色的小東西是太空包，
+一種一公尺立方的袋子。
+
+你可以試著數看看光這張相片裡面有幾個太空包。
+
+<a href="http://www.japantimes.co.jp/wp-content/uploads/2014/09/n-fyi-a-20140923.jpg" target="_blank" rel="nofollow">http://www.japantimes.co.jp/wp-content/uploads/2014/09/n-fyi-a-20140923.jpg</a>
+<div class="richcontent"><img src="http://www.japantimes.co.jp/wp-content/uploads/2014/09/n-fyi-a-20140923.jpg" alt="" /></div>
+這東西近拍長這樣。
+
+然後，麻煩你不要老是寫一堆廢話就忘掉一件事。
+
+『現在』日本規定的疏散半徑還是三十公里，NRC講的還是八十公里。
+
+下面廢話，略。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.228.215.185
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496506558.A.648.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496506558.A.648.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluebugi</span><span class="f3 push-content">: 專業 打臉擁核工讀生</span><span class="push-ipdatetime"> 06/04 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 講這麼多  一堆人還是寧願選擇不要火電2.5拉 風向變了</span><span class="push-ipdatetime"> 06/04 00:18
+</span></div>
+還在跳針PM2.5。
+
+那我也只好繼續回應：
+
+台電說台灣電力業產生的PM2.5約為總數的5.6％。
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bigloser5566</span><span class="f3 push-content">: 欸欸 所以你支持火力發電廠蓋在台北市嗎</span><span class="push-ipdatetime"> 06/04 00:19
+</span></div>
+我無所謂，符合環保法規你要蓋請便。
+<span class="f2">※ 編輯: xxyxx (61.228.215.185), 06/04/2017 00:21:10
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: pm2.5的危害遠遠大過核電</span><span class="push-ipdatetime"> 06/04 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: ＰＴＴ風向早就倒向擁核了 還在硬撐</span><span class="push-ipdatetime"> 06/04 00:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aidrux</span><span class="f3 push-content">: 支持蓋在台北啊 關渡就一大片土地了</span><span class="push-ipdatetime"> 06/04 00:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: ptt的風向？啊哈哈哈 看到朱跟kmt還有對岸有網軍操</span><span class="push-ipdatetime"> 06/04 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 作 我就不再只信風向惹 把台灣人當笨蛋用假帳號操作</span><span class="push-ipdatetime"> 06/04 00:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 的風向誰要信啊？台電幫的擁核派狂挺核能 也要說成</span><span class="push-ipdatetime"> 06/04 00:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 剩下日本核災能嘴了，可惜的是...台灣核電廠不會有日本福島</span><span class="push-ipdatetime"> 06/04 00:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 般的核災，幫反核qq推XD</span><span class="push-ipdatetime"> 06/04 00:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 是ptt都挺？核能好棒棒為何沒有擁核的政黨？啊不是</span><span class="push-ipdatetime"> 06/04 00:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HappyboyEric</span><span class="f3 push-content">: 都挺？你跟我活在同一個台灣嗎？</span><span class="push-ipdatetime"> 06/04 00:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 講的核電再慘再難救，台灣都不會發生這種等級的災害，好可</span><span class="push-ipdatetime"> 06/04 00:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 惜喔XD反核等一輩子也等不到核災了，哈哈。</span><span class="push-ipdatetime"> 06/04 00:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wunhong</span><span class="f3 push-content">: 把ptt肥宅集合起來踩發電腳踏車啊~瓦力一定高過牛肉麵~</span><span class="push-ipdatetime"> 06/04 00:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 06/04 00:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">superflyy</span><span class="f3 push-content">: 台灣也有義核團 ！</span><span class="push-ipdatetime"> 06/04 00:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">t72312</span><span class="f3 push-content">: 怪了 這時候又相信台電了</span><span class="push-ipdatetime"> 06/04 00:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">c41231717</span><span class="f3 push-content">: 來台中吸看看 我覺得gg的空氣濾網應該常在換</span><span class="push-ipdatetime"> 06/04 00:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496506558.A.648.html?cacheKey=2052-20607875&offset=6972&offset-sig=89a8fd1ed571a82ad8fac84be1527c6d4a039179" data-longpollurl="/v1/longpoll?id=cc00d8cb5d0d1c700c7ab9f350c0f97c5203d839" data-offset="6972"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

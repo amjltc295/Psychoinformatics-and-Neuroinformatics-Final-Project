@@ -1,0 +1,179 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495701365.A.DC1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 3.67％ 失業率降至23個月最低 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+中時
+2.完整新聞標題:
+3.67％ 失業率降至23個月最低
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 3.67％ 失業率降至23個月最低">
+<meta property="og:description" content="1.媒體來源:
+中時
+2.完整新聞標題:
+3.67％ 失業率降至23個月最低
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495701365.A.DC1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495701365.A.DC1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lapetos (latt)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 3.67％ 失業率降至23個月最低</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 16:36:02 2017</span></div>
+1.媒體來源:
+中時
+2.完整新聞標題:
+
+
+<span class="f3 hl">3.67％ 失業率降至23個月最低</span>
+
+3.完整新聞內文:
+
+行政院主計總處昨（22）日發布就業調查指出，受景氣回升影響，4月失業率降至3.67％
+，為近23個月最低。不過，首季實質總薪資仍低於民國89年同期的水準，形同倒退17年。
+
+
+主計總處指出，4月失業人數減1萬多人，失業率降至3.67％，創104年6月以來最低，失業
+情勢穩定。不過，值得注意的是，就業人數雖然隨景氣回升而成長，惟1～4月就業人數年
+增率僅0.69％，創近8年同期次低，顯示就業成長速度緩慢。
+
+
+國勢普查處副處長潘寧馨表示，綜合4月就業統計顯示我國失業情勢穩定，排除季節因素
+的季調失業率3.78％，也創下近20個月的最低紀錄。
+
+
+依主計總處蒐集的各國統計，4月我國季調後的失業率3.78％，較南韓4.0％來得低，但若
+以今年首季而言，我國3.84％，仍是亞洲四小龍最高，韓、港、星分別是3.77％、3.27％
+與3.2％。
+
+
+就年輕族群及高學歷者觀察，1～4月15～24歲者的青年失業率11.96％，仍高於去年同期
+，為近3年最高；25～44歲、45～64歲這兩個年齡層則已較去年同期改善。至於大學及以
+上程度失業率1～4月為4.64％，雖然比其他學歷來得高，但也已較去年同期改善。
+
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/IWKjKX" target="_blank" rel="nofollow">https://goo.gl/IWKjKX</a>
+
+5.備註:
+豬油不可信
+一定是路克不來害的
+資進黨的假數據不意外
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.138.199.237
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495701365.A.DC1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495701365.A.DC1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">louis10452</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 05/25 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 黨工崩潰</span><span class="push-ipdatetime"> 05/25 16:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gogobar</span><span class="f3 push-content">: 一堆22K ,有夠可悲的,幹你娘母豬蔡英文</span><span class="push-ipdatetime">05/25 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chu122408</span><span class="f3 push-content">: 豬油又在造謠了</span><span class="push-ipdatetime">05/25 16:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 天搖地動沒有發生 9.2大崩潰</span><span class="push-ipdatetime">05/25 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">madden</span><span class="f3 push-content">: 比馬英9還好,給推</span><span class="push-ipdatetime"> 05/25 16:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ltjfw2012</span><span class="f3 push-content">: 民退黨製造出來的假數字 不可信</span><span class="push-ipdatetime"> 05/25 16:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xul4m4vu6666</span><span class="f3 push-content">: 一例一休害的啊 約聘免洗大增</span><span class="push-ipdatetime"> 05/25 16:38
+</span></div><span class="f2">※ 編輯: lapetos (223.138.199.237), 05/25/2017 16:38:48
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k44754</span><span class="f3 push-content">: 假數據</span><span class="push-ipdatetime"> 05/25 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">neofish</span><span class="f3 push-content">: 約聘不算失業，部份工時也不算</span><span class="push-ipdatetime"> 05/25 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hoberg</span><span class="f3 push-content">: 又是數字治國..青年失業率也公布一下</span><span class="push-ipdatetime"> 05/25 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivan1408</span><span class="f3 push-content">: 一粒一修拉，不能加班只能多請人，所以失業率下降</span><span class="push-ipdatetime"> 05/25 16:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 這個要看公式 馬19時期好像改過公式所以讓數字漂亮</span><span class="push-ipdatetime"> 05/25 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 不少</span><span class="push-ipdatetime"> 05/25 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mauga</span><span class="f3 push-content">: 主計處也說台灣受雇平均月薪6萬   你信?</span><span class="push-ipdatetime"> 05/25 16:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shamus0309</span><span class="f3 push-content">: 業障重</span><span class="push-ipdatetime"> 05/25 16:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samarium</span><span class="f3 push-content">: 一例一休</span><span class="push-ipdatetime"> 05/25 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">petand86</span><span class="f3 push-content">: 平均月薪6萬我信呀，收入在金字塔頂多的大幅拉高平均</span><span class="push-ipdatetime"> 05/25 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">petand86</span><span class="f3 push-content">:                           端</span><span class="push-ipdatetime"> 05/25 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuromai</span><span class="f3 push-content">: 說幾次都可以，派遣派遣派遣</span><span class="push-ipdatetime"> 05/25 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikepopkimo</span><span class="f3 push-content">: 約聘，派遣，臨時工都不算失業</span><span class="push-ipdatetime"> 05/25 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spider2</span><span class="f3 push-content">: 一定是一例一休害的</span><span class="push-ipdatetime"> 05/25 18:25
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495701365.A.DC1.html?cacheKey=2052-1327624&offset=3658&offset-sig=249ae91f2875d7b4d8dbe6f40893b5716b347324" data-longpollurl="/v1/longpoll?id=911526e8b49072e151d1e53fd253201328e6fbef" data-offset="3658"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

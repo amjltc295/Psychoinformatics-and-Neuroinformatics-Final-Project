@@ -1,0 +1,212 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496773051.A.5B3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 法官控醫疏失害妻亡　最高院創新解：台大 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="為甚麼坊間有那麼多關於醫療糾紛的法律書?
+為甚麼相較於其他職業
+就醫療業的法律問題會得到那麼多的關注?
+為甚麼其他人可以平等地在法律下被檢視
+而醫療行為卻偏想要搞特別法
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 法官控醫疏失害妻亡　最高院創新解：台大">
+<meta property="og:description" content="為甚麼坊間有那麼多關於醫療糾紛的法律書?
+為甚麼相較於其他職業
+就醫療業的法律問題會得到那麼多的關注?
+為甚麼其他人可以平等地在法律下被檢視
+而醫療行為卻偏想要搞特別法
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496773051.A.5B3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496773051.A.5B3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">trohlens (SOSO)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 法官控醫疏失害妻亡　最高院創新解：台大</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed Jun  7 02:17:27 2017</span></div>
+
+為甚麼坊間有那麼多關於醫療糾紛的法律書?
+
+為甚麼相較於其他職業
+
+就醫療業的法律問題會得到那麼多的關注?
+
+為甚麼其他人可以平等地在法律下被檢視
+
+而醫療行為卻偏想要搞特別法
+(醫療糾紛處理及醫療事故補償法)
+
+甚至還想醫療行為除罪化?
+
+很簡單
+
+因為醫生的毛比較多
+
+本人曾參加過臺北醫法論壇
+
+被K、被攻擊的永遠是學法律的
+
+那些醫生囂張的態度　真讓人印象深刻
+
+好像會有醫療糾紛　都是法律不懂得尊重高貴的醫事職業
+
+都是法律原理有問題　錯都在法律似的
+
+試問　提起訴訟難道不是人民的基本權利嗎？
+
+難道醫生有高尚到可以繞過法律程序？
+
+如果認為醫療行為本身具有風險存在
+
+為甚麼願意保醫療職業險的那麼少人？
+
+全台醫生完整修過法律課程的至少上百人
+
+這些人腦袋都裝大便？　想不出一點有用的法子解決醫糾的法律問題？
+
+
+事實就是：法律根本沒有問題
+
+有問題的是濫訴的民眾和驕傲但無知的醫師　還有不嚴謹的醫療行為
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.225.51.150
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496773051.A.5B3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496773051.A.5B3.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 好的</span><span class="push-ipdatetime"> 06/07 02:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 正解 但是醬料分數超高 才不願放下身段跟文組溝通</span><span class="push-ipdatetime"> 06/07 02:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ms8706616</span><span class="f3 push-content">: 法律沒問題??我問一下特偵組或是一堆恐龍法官~~</span><span class="push-ipdatetime"> 06/07 02:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">paul2884247</span><span class="f3 push-content">: 人救回來-&gt;嚴謹  費盡心思救不回來--&gt;不嚴謹</span><span class="push-ipdatetime"> 06/07 02:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ms8706616</span><span class="f3 push-content">: 我覺得律師頭殼ㄉㄟ塞的比率遠遠高於醫生!黨國司法!哈</span><span class="push-ipdatetime"> 06/07 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wilsonchen26</span><span class="f3 push-content">: 本篇完美解釋法律人的高傲與民眾的距離</span><span class="push-ipdatetime"> 06/07 02:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Saaski</span><span class="f3 push-content">: 醬料你敢嘴</span><span class="push-ipdatetime"> 06/07 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CKExpress</span><span class="f3 push-content">: 兩個比起來我比較相信醫師</span><span class="push-ipdatetime"> 06/07 02:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Theddy</span><span class="f3 push-content">: 法律當然沒有問題 好多以刑帶民的訴訟 律師才有飯吃啊</span><span class="push-ipdatetime"> 06/07 02:24
+</span></div>
+我知道醫療糾紛繞過法律或在訴訟程序前就解決可以省去很多麻煩
+但我不了解這樣對真正受到損害的一般民眾
+會更有保障嗎?
+<span class="f2">※ 編輯: trohlens (36.225.51.150), 06/07/2017 02:28:18
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Theddy</span><span class="f3 push-content">: 法律是用來解決問題而非避免問題 全台糾紛案件只增不減呢</span><span class="push-ipdatetime"> 06/07 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 因為考大學時後分數高阿 你他媽文組有我懂?</span><span class="push-ipdatetime"> 06/07 02:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 律師吃個屁飯 告醫生根本贏不了 是要賺個毛</span><span class="push-ipdatetime"> 06/07 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 同樣時間去搞遺產搞離婚 都賺多了</span><span class="push-ipdatetime"> 06/07 02:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">plus203ft</span><span class="f3 push-content">: 真有醫療疏失一般民眾哪看得出來，告醫師還要被當刁民</span><span class="push-ipdatetime"> 06/07 02:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 醫師起訴率世界一 誰搞的？</span><span class="push-ipdatetime"> 06/07 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 醫生就覺得自己在做善事 你死了是因為生病 你活了是我強</span><span class="push-ipdatetime"> 06/07 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 法院是可以自己起訴醫生嗎？　這樣也要怪法院喔？</span><span class="push-ipdatetime"> 06/07 02:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ms8706616</span><span class="f3 push-content">: 真有醫療疏失就先看受害者背景阿!法律跟醫權都是有錢勝</span><span class="push-ipdatetime"> 06/07 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 起訴率世界第一 勝訴率世界倒數 這樣還要幹法律人?</span><span class="push-ipdatetime"> 06/07 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 檢察官可以依職權不起訴...謝謝</span><span class="push-ipdatetime"> 06/07 02:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 起訴率高當然勝訴率就低啊...</span><span class="push-ipdatetime"> 06/07 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ms8706616</span><span class="f3 push-content">: 世界前五的醫療水平卻是起訴率第一!法律養刁民阿~~!!</span><span class="push-ipdatetime"> 06/07 02:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 不過我同意j大說的 告醫師真的賺不到錢，我建議j大轉幫</span><span class="push-ipdatetime"> 06/07 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 醫師打官司 可能會賺不少喔</span><span class="push-ipdatetime"> 06/07 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Theddy</span><span class="f3 push-content">: 醫審會算是審核並保護民眾的組織了吧 換美國就是高額醫險</span><span class="push-ipdatetime"> 06/07 02:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 看來你根本不知道我國的刑事有罪率有多高</span><span class="push-ipdatetime"> 06/07 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Theddy</span><span class="f3 push-content">: 某人愛提的美國推行全民健保很失敗呢 所以各種醫療險大賺~</span><span class="push-ipdatetime"> 06/07 02:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 濫起訴造成有罪率異常低=法院對醫師寬容？</span><span class="push-ipdatetime"> 06/07 02:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 法院刻意護航被你說成檢察官濫行起訴 lol</span><span class="push-ipdatetime"> 06/07 02:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 也是啦 法律怎麼沒替醫生通通免責呢 當然是法律的錯</span><span class="push-ipdatetime"> 06/07 02:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EVEREVER</span><span class="f3 push-content">: 西西 推文亂挺醫生的遇到醫療糾紛記得今天的話唷</span><span class="push-ipdatetime"> 06/07 02:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 假設有問題有3件，檢察官依職權只起訴30件跟檢察官通通</span><span class="push-ipdatetime"> 06/07 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">playtrunk</span><span class="f3 push-content">: 起訴3000件。j大這麼優秀人才，應該知道問題在哪邊</span><span class="push-ipdatetime"> 06/07 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Fenoxycarb</span><span class="f3 push-content">: 法律人跟現實脫節囉</span><span class="push-ipdatetime"> 06/07 03:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steelheart3</span><span class="f3 push-content">: 學法的貢獻有學醫的大?  少說笑了  擾亂社會秩序你</span><span class="push-ipdatetime"> 06/07 03:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">steelheart3</span><span class="f3 push-content">: 們有缺席?</span><span class="push-ipdatetime"> 06/07 03:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shiriri</span><span class="f3 push-content">: 你的毛更多</span><span class="push-ipdatetime"> 06/07 07:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JerryHu</span><span class="f3 push-content">: 法律人不愧空口說幹話就能賺錢</span><span class="push-ipdatetime"> 06/07 08:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jeanstorm</span><span class="f3 push-content">: 法律人的嘴臉跟醫師比 呵呵</span><span class="push-ipdatetime"> 06/07 08:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linchiai</span><span class="f3 push-content">: 為什麼你要假設民眾有損失，而不是民眾濫訴</span><span class="push-ipdatetime"> 06/07 09:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Beakhsu</span><span class="f3 push-content">: 法律從來沒問題啊，有問題的都是法律人，這樣有爽嗎？</span><span class="push-ipdatetime"> 06/07 09:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">b24222001</span><span class="f3 push-content">: 謝謝原po讓我們了解尊爵不凡，絕對正義的法律人思維</span><span class="push-ipdatetime"> 06/07 09:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ian41360</span><span class="f3 push-content">: 噓法律人的文會被告嗎？</span><span class="push-ipdatetime"> 06/07 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Daedolon</span><span class="f3 push-content">: 尊絕不凡法律人</span><span class="push-ipdatetime"> 06/07 12:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TED781120</span><span class="f3 push-content">: 法律人就是低能。</span><span class="push-ipdatetime"> 06/07 12:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newsmaker</span><span class="f3 push-content">: 不具備醫學背景的民眾 怎麼跟無良醫生抗衡???</span><span class="push-ipdatetime"> 06/07 16:15
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496773051.A.5B3.html?cacheKey=2052-11610000&offset=5885&offset-sig=a179e50d121fc255a809cf1311061e353fef1c5e" data-longpollurl="/v1/longpoll?id=c3e5b77dee982fbe45f47a7acff51360b42b004f" data-offset="5885"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

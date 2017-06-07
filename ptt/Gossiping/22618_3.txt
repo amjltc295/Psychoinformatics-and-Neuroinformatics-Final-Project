@@ -1,0 +1,326 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496669179.A.9E1.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="問一下
+如果專業人員 在民事訴訟
+有舉證責任倒置的義務
+不知道是不是這樣說的
+那為什麼
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過">
+<meta property="og:description" content="問一下
+如果專業人員 在民事訴訟
+有舉證責任倒置的義務
+不知道是不是這樣說的
+那為什麼
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496669179.A.9E1.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496669179.A.9E1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">yamakazi (大安吳彥祖)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 台大涉醫療疏失 最高院：醫師須自證無過</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Jun  5 21:26:14 2017</span></div>
+問一下
+
+如果專業人員 在民事訴訟
+
+有舉證責任倒置的義務
+
+不知道是不是這樣說的
+
+那為什麼
+
+消費者在告頂新時
+
+法官要消費者自己證明喝廢油會危害身體阿
+
+而不是要頂新證明廢油很安全
+
+我法盲
+
+可以請法匠解釋一下嗎
+-----
+Sent from JPTT on my iPhone
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 210.142.96.129
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496669179.A.9E1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496669179.A.9E1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 你好，我也是法盲，只不過我知道一件事</span><span class="push-ipdatetime"> 06/05 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 台灣腦殘很多就是</span><span class="push-ipdatetime"> 06/05 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 民事分配舉證責任 在我國一直都很不被重視阿</span><span class="push-ipdatetime"> 06/05 21:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsairay</span><span class="f3 push-content">: 因為你不是尊貴的法律貴族啊</span><span class="push-ipdatetime"> 06/05 21:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 近年來才比較多人在談 頂新案不合理 不代表本案不合理</span><span class="push-ipdatetime"> 06/05 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 法律通常會看到是誰而轉彎或修法</span><span class="push-ipdatetime"> 06/05 21:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 舉證責任轉換不是義務 是個案去看有沒有必要轉換</span><span class="push-ipdatetime"> 06/05 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 像是頂新案 的確應該要舉證責任轉換沒錯</span><span class="push-ipdatetime"> 06/05 21:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 而那個「誰」在台灣是很重要的差別</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 你老公不是法官啊</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 另外 你也要區分刑事民事 刑事舉證責任基本不能轉換的</span><span class="push-ipdatetime"> 06/05 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 如果相關資料證據集中在對方那邊 就要轉換舉證責任</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 今天不管當事人是不是前法官 重點在這個判決是好的</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 鄉民酸得很沒道理 因為這個判決是有道理 保護人民的</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snow3804</span><span class="f3 push-content">: 頂新是弱勢</span><span class="push-ipdatetime"> 06/05 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 要陰謀論的說什麼因為是前庭長 差別待遇也沒差</span><span class="push-ipdatetime"> 06/05 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 重點是這個判決 會讓下級審以後比較大膽轉換舉證責任</span><span class="push-ipdatetime"> 06/05 21:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 而且這個影響 是好的 是對人民有利的 這樣還不夠?</span><span class="push-ipdatetime"> 06/05 21:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wands</span><span class="f3 push-content">: 民事舉證責任的倒置  對一般民眾是有利的 鄉民只會亂噴</span><span class="push-ipdatetime"> 06/05 21:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goal56</span><span class="f3 push-content">: 推56</span><span class="push-ipdatetime"> 06/05 21:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 跟醫療一樣要個案判斷呢 只是差別是醫療判斷錯誤會被告</span><span class="push-ipdatetime"> 06/05 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 法官判斷錯誤..就錯囉未來有進步就好</span><span class="push-ipdatetime"> 06/05 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 樓上 法官過失也要負責阿?到底有誰說過法官不用負責的?</span><span class="push-ipdatetime"> 06/05 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whynotwhy</span><span class="f3 push-content">: 頂新是弱勢 XDDDD</span><span class="push-ipdatetime"> 06/05 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 但法官跟醫生很像 當下做的判斷往往都只有片面資訊</span><span class="push-ipdatetime"> 06/05 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 所以你很難判斷到底有沒有過失 這樣懂嗎?</span><span class="push-ipdatetime"> 06/05 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 民視跟刑事的啊差別</span><span class="push-ipdatetime"> 06/05 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 這樣會讓以後醫師更保護自己而防禦性醫療,不見得好</span><span class="push-ipdatetime"> 06/05 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 請問法官錯判要負什麼責任  比例會低也會重嗎??</span><span class="push-ipdatetime"> 06/05 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 而且常常一案審結果不同,請問那幹嘛要兩審</span><span class="push-ipdatetime"> 06/05 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 而且根最終結果不同的那審法官也不用負責</span><span class="push-ipdatetime"> 06/05 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 法院設立審級制度 本來就容許一定程度的裁判差異阿?</span><span class="push-ipdatetime"> 06/05 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 講最簡單的 手斷一隻要賠多少? 100萬還是200萬?</span><span class="push-ipdatetime"> 06/05 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 一審說200 二審說100 你會說有哪一審「一定錯嗎」</span><span class="push-ipdatetime"> 06/05 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 至於你說的「判錯」　那是另外一個問題</span><span class="push-ipdatetime"> 06/05 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 你說的防衛性醫療 法院也不是沒考慮好嗎</span><span class="push-ipdatetime"> 06/05 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 不然你以為為什麼法院對醫生都那麼容忍?</span><span class="push-ipdatetime"> 06/05 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 現在真實的問題是 法院幾乎100%相信醫生醫審會</span><span class="push-ipdatetime"> 06/05 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mastoid</span><span class="f3 push-content">: 本案跟防衛性醫療 根本沒關係</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 導致所有醫療訴訟 幾乎不用打就知道一定輸 這才是問題</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 在這種情況下 還要說法院對待醫生很苛刻嗎?</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 好多急診醫師都去做醫美  風險沒比較高  輕鬆錢多</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 不要看新聞偶爾要醫生賠錢 就以為法院都故意整醫生</span><span class="push-ipdatetime"> 06/05 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 事實上就是 醫生在法院打官司 要輸的可能性根本極低</span><span class="push-ipdatetime"> 06/05 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 防禦性醫療一直在加深啊</span><span class="push-ipdatetime"> 06/05 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 走醫美 最主要是工作報酬與勞務不成正比吧? 又扯到法院?</span><span class="push-ipdatetime"> 06/05 21:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 醫生有疏失自己就會和解惹</span><span class="push-ipdatetime"> 06/05 21:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 一般人往往不知道法官其實超相信醫療鑑定的可靠性</span><span class="push-ipdatetime"> 06/05 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watameki</span><span class="f3 push-content">: 哪怕醫療鑑定根本已經涉及法律見解 一堆法官也全盤採納</span><span class="push-ipdatetime"> 06/05 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 醫生每天都在哭被告 實際上有誰真的輸了要賠錢的?</span><span class="push-ipdatetime"> 06/05 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 而且說真的啦 這個舉證是有多難? 倒頭來還是丟給醫審會</span><span class="push-ipdatetime"> 06/05 21:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 然後法官又100%採信醫審會 實際上有差嗎?</span><span class="push-ipdatetime"> 06/05 21:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paunch</span><span class="f3 push-content">: 法官100%採信醫審會？</span><span class="push-ipdatetime"> 06/05 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenned</span><span class="f3 push-content">: 走醫美應該是本來正統環境惡化  不如歸去吧</span><span class="push-ipdatetime"> 06/05 21:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 所以有哪個法官真的判錯要賠錢的嗎</span><span class="push-ipdatetime"> 06/05 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 因為刑事上有無罪推定，要檢察官舉證有害才能判有罪啊，</span><span class="push-ipdatetime"> 06/05 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 但本案是民事所以沒有啊XD</span><span class="push-ipdatetime"> 06/05 21:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hekui</span><span class="f3 push-content">: 只有我覺得，一審二審都沒說是醫院醫師的錯，醫療官司判決</span><span class="push-ipdatetime"> 06/05 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 醫審會都是醫師，當然多認定為醫師無過失啊，所以法官才</span><span class="push-ipdatetime"> 06/05 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hekui</span><span class="f3 push-content">: ，原則上都會要補償給原告，一審判金額不高，而且醫審會，</span><span class="push-ipdatetime"> 06/05 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 要保護被害者病患啊，讓有專業知識的醫師在醫療舉證上多</span><span class="push-ipdatetime"> 06/05 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Edifiel</span><span class="f3 push-content">: 負一些舉證責任。</span><span class="push-ipdatetime"> 06/05 21:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hekui</span><span class="f3 push-content">: 我只能說ㄏㄏ，聽過太多神奇的事了</span><span class="push-ipdatetime"> 06/05 21:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 之前不是有法官因為枉法裁判被關11年嗎?</span><span class="push-ipdatetime"> 06/05 21:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 會關11年一定是收賄還是什麼故意的吧</span><span class="push-ipdatetime"> 06/05 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arcanite</span><span class="f3 push-content">: 惡魔的證明？</span><span class="push-ipdatetime"> 06/05 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 我想知道的是有沒有非故意過失仍然負上責任的</span><span class="push-ipdatetime"> 06/05 22:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 非故意過失 怎麼可能請求賠償 那就是危險責任了</span><span class="push-ipdatetime"> 06/05 22:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 只是要回應你上面說的啊 我說醫療過失會被告</span><span class="push-ipdatetime"> 06/05 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 你說法官過失也要負責 所以具體是要負什麼責</span><span class="push-ipdatetime"> 06/05 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: <a href="http://bit.ly/2s8Y2DE" target="_blank" rel="nofollow">http://bit.ly/2s8Y2DE</a></span><span class="push-ipdatetime"> 06/05 22:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 我其實不太懂你想主張什麼? 醫生難不能過失不用負責?</span><span class="push-ipdatetime"> 06/05 22:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 當然要啊 所以才知道法官是不是也一樣</span><span class="push-ipdatetime"> 06/05 22:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">freef1y3</span><span class="f3 push-content">: 才想知道</span><span class="push-ipdatetime"> 06/05 22:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 應然面來說 法官如果故意過失誤判 那當然要負責</span><span class="push-ipdatetime"> 06/05 22:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 但實然面來說 法官是否有故意過失 非常難判斷舉證</span><span class="push-ipdatetime"> 06/05 22:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 簡單來說民眾常常以高道德水準要求醫師 動不動用醫</span><span class="push-ipdatetime"> 06/05 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 但你不能說 法官亂判都不用負責 這樣OK?</span><span class="push-ipdatetime"> 06/05 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 德逼人 法官也常被罵恐龍 半斤八兩</span><span class="push-ipdatetime"> 06/05 22:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 然後我只能再次提醒你 台灣法院對醫生非常非常寬容</span><span class="push-ipdatetime"> 06/05 22:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 不要被偶爾報章雜誌的少數案件煽動了</span><span class="push-ipdatetime"> 06/05 22:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 那其他國家法院對醫生的態度是怎麼樣的呢？</span><span class="push-ipdatetime"> 06/05 22:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 要求醫療訴訟舉證責任轉換 不是什麼特例 各國都有</span><span class="push-ipdatetime"> 06/05 22:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 2017年台灣最高院才明白說了這麼一次 以前都沒轉換的</span><span class="push-ipdatetime"> 06/05 22:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 你說呢?</span><span class="push-ipdatetime"> 06/05 22:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 看看一二審判決完全不同時 有多少比例的法官負責就知道啦</span><span class="push-ipdatetime"> 06/05 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 像是扣薪啊 或是任何有承擔責任的處分</span><span class="push-ipdatetime"> 06/05 22:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 然後我們再看看 有多少醫生進入司法體系後 不是完全無罪的</span><span class="push-ipdatetime"> 06/05 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 比例</span><span class="push-ipdatetime"> 06/05 22:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 法官如果故意過失誤判才要負責  非故意過失就不用負責?</span><span class="push-ipdatetime"> 06/05 22:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 難不成每個醫生都是故意過失誤判?麻煩用同樣標準好嗎?</span><span class="push-ipdatetime"> 06/05 22:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 樓上 醫生沒有無過失責任 醫療法明定的 一直都是這樣</span><span class="push-ipdatetime"> 06/05 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 舉證責任分配 跟主觀歸責作為要件 是兩回事</span><span class="push-ipdatetime"> 06/05 22:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 不可能無責任 只是當你身陷其中當然覺得這樣不好</span><span class="push-ipdatetime"> 06/05 22:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 明明我是對我的病人好 明明我這樣做沒錯 他們幹嘛告</span><span class="push-ipdatetime"> 06/05 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 我是指&#34;故意&#34; 所以法官如果非故意但是判錯 不就沒責任</span><span class="push-ipdatetime"> 06/05 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 我 這種感覺沒人喜歡</span><span class="push-ipdatetime"> 06/05 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 事實上就是法律系無法了解醫療不確定性 所以才沒感覺</span><span class="push-ipdatetime"> 06/05 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 過失判錯也要負責阿 誰跟你說不用的? 只是過失很難證明</span><span class="push-ipdatetime"> 06/05 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 對嘛 所以法官基本上毫無責任 因為&#34;很難舉證&#34;</span><span class="push-ipdatetime"> 06/05 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 醫生也是這樣阿 很難舉證 不然你以為為啥要轉換舉證責</span><span class="push-ipdatetime"> 06/05 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thomaschion</span><span class="f3 push-content">: 法官判錯？怎麼可能</span><span class="push-ipdatetime"> 06/05 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 醫生那裡很難舉證 醫審會就已經舉證啦 還要被告舉證?</span><span class="push-ipdatetime"> 06/05 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 講難聽點 民5法官對於要求重新舉證的那段話 足以證明</span><span class="push-ipdatetime"> 06/05 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 1.醫審會是鑑定 不是舉證 2.醫審會通常都認為無過失</span><span class="push-ipdatetime"> 06/05 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 法官對醫療不確定性不僅完全不懂  其邏輯更是奇差無比</span><span class="push-ipdatetime"> 06/05 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 或是說法官過失跟醫生過失 懲罰不平衡 不過這就是另</span><span class="push-ipdatetime"> 06/05 22:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 一回事 法律上的懲罰本來就難量化</span><span class="push-ipdatetime"> 06/05 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 所以一年有那麼多案件 一二審不同調的法官有多少比例負責</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 病人意識清楚 民5法官說病歷沒有記載昏迷指數??</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 呢？ 浪費的成本可以由一審法官負擔嗎？</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 所以你認為基於醫療不確定性 醫生應該完全不負責任囉?</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 人死了就醫生的錯啊</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 醫療不確定性 可以用來決定過失的有無 而不是不負責</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 沒人說完全不用負責  但是本案例就是民5法官邏輯有問題</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 不知道這樣講 你有沒有聽懂?</span><span class="push-ipdatetime"> 06/05 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 醫審會認為無過失 那法官怎麼覺得還要舉證無過失？</span><span class="push-ipdatetime"> 06/05 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 所以法官還是不太相信醫審？</span><span class="push-ipdatetime"> 06/05 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 文組邏輯</span><span class="push-ipdatetime"> 06/05 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 最高院不是認為有過失所以重判 而是說你整個程序是錯的</span><span class="push-ipdatetime"> 06/05 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 看來文組還是不懂不確定性...很難溝通阿</span><span class="push-ipdatetime"> 06/05 22:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 所以高院要重新審理 這樣OK嗎?</span><span class="push-ipdatetime"> 06/05 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 說醫療難舉證所以要轉換  誤判也難舉證法官怎麼就不用自舉</span><span class="push-ipdatetime"> 06/05 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 證沒有判錯</span><span class="push-ipdatetime"> 06/05 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 樓上說的對 同邏輯 告法官應該也要舉證責任轉換</span><span class="push-ipdatetime"> 06/05 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 對醫生的標準也要套用在法官身上的意思？</span><span class="push-ipdatetime"> 06/05 22:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 之前記得一個交通的一審連監視器都沒看 二審看了大更改</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 這種規則會有白紙黑字的規定嗎</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 這樣一審有沒有過失</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 證據偏在 專業程度差距 這些都足夠舉證責任轉換了</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 原新聞最後一段就是法律系不懂醫療不確定性的很好例子</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 我說舉證比例或轉換</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 反正一審法官判錯 還有二審嘛  一審判錯有責任嗎?</span><span class="push-ipdatetime"> 06/05 22:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 民事訴訟法277條可以當概括規定 可以個案轉換</span><span class="push-ipdatetime"> 06/05 22:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 謝謝</span><span class="push-ipdatetime"> 06/05 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 找到了<a href="/bbs/Gossiping/M.1494991889.A.F99.html" target="_blank" rel="nofollow">#1P6yGH-P (Gossiping)</a>  jazz大認為一審連監視器都沒</span><span class="push-ipdatetime"> 06/05 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 看有過失嗎</span><span class="push-ipdatetime"> 06/05 22:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 我不知道 我沒看過卷 我哪知道? 新聞都能判案就不法院了</span><span class="push-ipdatetime"> 06/05 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 但我可以分享一個例子給你聽 有一次某檢偵查某案時候</span><span class="push-ipdatetime"> 06/05 22:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 曾經要求該轄區警察去把監視器錄影拿出來當證據</span><span class="push-ipdatetime"> 06/05 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 後來警察回說 那個區域沒有監視器 所以不能調</span><span class="push-ipdatetime"> 06/05 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 打到二審的時候 法官突然說要親自到現場勘驗</span><span class="push-ipdatetime"> 06/05 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 去了之後才發現 案發現場 頭上就掛著一根監視器lol</span><span class="push-ipdatetime"> 06/05 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 那在這個例子裏面 你覺得是一審錯判是誰的過失?</span><span class="push-ipdatetime"> 06/05 22:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 一審法官應該舉證他有跟警察要過監視器？不過後來因</span><span class="push-ipdatetime"> 06/05 22:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orion1991830</span><span class="f3 push-content">: 應注意未注意而懲罰嗎？</span><span class="push-ipdatetime"> 06/05 22:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">koster</span><span class="f3 push-content">: 例子很單純啊 一審法官舉證自己當初沒拿到帶子就好</span><span class="push-ipdatetime"> 06/05 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MrBushido</span><span class="f3 push-content">: 例子很簡單啊 法官應注意而未注意嘛 這不是法律系邏輯?</span><span class="push-ipdatetime"> 06/05 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppegg</span><span class="f3 push-content">: 醫師會&#34;故意&#34;誤診嗎？ 人死是醫師害的嗎？</span><span class="push-ipdatetime"> 06/05 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppegg</span><span class="f3 push-content">: 顱內出血死亡是醫師的造成的嗎？還是病人跌倒造成的？</span><span class="push-ipdatetime"> 06/05 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppegg</span><span class="f3 push-content">: 患者原本就會死，醫師若即時發現則患者&#34;可能&#34;不會死</span><span class="push-ipdatetime"> 06/05 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppegg</span><span class="f3 push-content">: 以結果論，本案中病人不是醫師醫死的，只是醫術不佳沒即時</span><span class="push-ipdatetime"> 06/05 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ppegg</span><span class="f3 push-content">: 診斷，有沒有罪？</span><span class="push-ipdatetime"> 06/05 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 過失還有最後一個要件 能注意 更何況應注意就是說有義務</span><span class="push-ipdatetime"> 06/05 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 你要先找到那個義務規範 而不是你覺得「應注意」就可以</span><span class="push-ipdatetime"> 06/05 23:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 這就是為什麼法院都喜歡用醫療常規的原因　</span><span class="push-ipdatetime"> 06/05 23:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 樓上p大講的則是　不作為的問題</span><span class="push-ipdatetime"> 06/05 23:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 法律不只處理行為造成的結果　也處理「不行為」的問題</span><span class="push-ipdatetime"> 06/05 23:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 至於那個例子　老實說我也不知道後續結論lol 純分享</span><span class="push-ipdatetime"> 06/05 23:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 對了 我想補充一下 我剛看完判決內容 我發現標題亂下阿</span><span class="push-ipdatetime"> 06/06 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 判決哪有說要舉證無過失了= =亂扯</span><span class="push-ipdatetime"> 06/06 00:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fv</span><span class="f3 push-content">: 你老公不是法官啊 結案</span><span class="push-ipdatetime"> 06/06 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">killerken</span><span class="f3 push-content">: 頂新有錢啊</span><span class="push-ipdatetime"> 06/06 00:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 法官妻法官妻</span><span class="push-ipdatetime"> 06/06 00:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: jazz大大以為沒賠錢沒敗訴就是醫師沒輸？賠上的下班休息時</span><span class="push-ipdatetime"> 06/06 00:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 間，賠上的生涯規劃，賠上與律師討論，賠上的自己蒐證，賠</span><span class="push-ipdatetime"> 06/06 00:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 上的情緒，法院對醫師寬容？我笑死了</span><span class="push-ipdatetime"> 06/06 00:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: jazz大可以參考內湖診所胸腔科那個案子，當事者醫師賠上了</span><span class="push-ipdatetime"> 06/06 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 10年的光陰，不敢離職，不能回家，與家人分隔兩地。只為了</span><span class="push-ipdatetime"> 06/06 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 醫師沒有幫忙叫救護車？問題是本來就沒有法律規定醫師應付</span><span class="push-ipdatetime"> 06/06 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 轉診方式之義務，本來診所叫救護車救護車還不會來勒，這個</span><span class="push-ipdatetime"> 06/06 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 案例一出，我還看到公文轉彎以後可以配合出救護車...法院</span><span class="push-ipdatetime"> 06/06 01:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 對醫師寬容？jaz大哪裡來的自信？</span><span class="push-ipdatetime"> 06/06 01:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xifaka</span><span class="f3 push-content">: 法匠又來護航了 還亂拿胡景彬收賄才被判枉法裁判的事情出</span><span class="push-ipdatetime"> 06/06 01:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 我只能說 不是只有醫生的時間才是時間 訴訟就是這樣</span><span class="push-ipdatetime"> 06/06 02:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 醫生覺得自己很衰小的時候 別忘了別人家裡死了人</span><span class="push-ipdatetime"> 06/06 02:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jazz5566</span><span class="f3 push-content">: 民事糾紛 本來就沒有一方是快樂的</span><span class="push-ipdatetime"> 06/06 02:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">spector66</span><span class="f3 push-content">: 法條後段不會自己看嗎</span><span class="push-ipdatetime"> 06/06 08:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">terminator3</span><span class="f3 push-content">: 法匠呵呵呵</span><span class="push-ipdatetime"> 06/06 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: jazz大 醫師的時間拿來救人跟休息的，尤其是會遇到死人的</span><span class="push-ipdatetime"> 06/06 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 五大皆空科，病人會死通常都不是醫師害死的，本案就是其中</span><span class="push-ipdatetime"> 06/06 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 一個，會死是健身房場地或者病人本身身體因素導致重心不穩</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: ...拿台大糾纏10年真是笑死人，本身都沒責任，今天醫界或</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 民眾會反感不是沒道理，就像上次腦袋有洞幫朋友開醫美刀開</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 死人的理事長，醫界有人幫說話嗎？法界就是這樣，比例原則</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 講得頭頭是道，搞不清真理是什麼...</span><span class="push-ipdatetime"> 06/06 11:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">minigg</span><span class="f3 push-content">: 醫界這20年來已經自省很多了，反觀法界...</span><span class="push-ipdatetime"> 06/06 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 推你,法官這時又會有新的說法了</span><span class="push-ipdatetime"> 06/06 13:31
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496669179.A.9E1.html?cacheKey=2052-2439734&offset=19671&offset-sig=be0aaae251689a923d8a3ec8e730d581be56ce21" data-longpollurl="/v1/longpoll?id=b61c60a67e5f04f764314cf8f7aefd2e0ec459a0" data-offset="19671"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

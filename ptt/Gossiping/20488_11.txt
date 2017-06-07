@@ -1,0 +1,160 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495245012.A.93A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 缺乏軟實力！李開復：台灣根本沒機會發展 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="   其實還ok阿
+   (1) 歐巴馬一上台就狂推 coding
+   (2) 阿發狗的發展,... 真的讓人見識到人工智慧的恐怖,
+       連柯潔都被打爆 (這在卡斯帕洛夫時代是很難想像的)
+    李開復這樣講: 你投入資源, 都不一定能贏,... 更何況你一毛錢都不投入?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 缺乏軟實力！李開復：台灣根本沒機會發展">
+<meta property="og:description" content="   其實還ok阿
+   (1) 歐巴馬一上台就狂推 coding
+   (2) 阿發狗的發展,... 真的讓人見識到人工智慧的恐怖,
+       連柯潔都被打爆 (這在卡斯帕洛夫時代是很難想像的)
+    李開復這樣講: 你投入資源, 都不一定能贏,... 更何況你一毛錢都不投入?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495245012.A.93A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495245012.A.93A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hrma (資深象迷)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 缺乏軟實力！李開復：台灣根本沒機會發展</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 09:50:09 2017</span></div>
+
+
+   其實還ok阿
+
+   (1) 歐巴馬一上台就狂推 coding
+   (2) 阿發狗的發展,... 真的讓人見識到人工智慧的恐怖,
+       連柯潔都被打爆 (這在卡斯帕洛夫時代是很難想像的)
+
+
+    李開復這樣講: 你投入資源, 都不一定能贏,... 更何況你一毛錢都不投入?
+
+
+
+    資工軟體, 應該是下一波的救贖,...
+
+    空心菜竟然把錢拿去上一世代的 軌道(絕對打不贏日法德),
+
+    不然就是虛無飄渺的綠能,... 這個pu真的會害慘呆頑
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.64.108.100
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495245012.A.93A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495245012.A.93A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 幾個選民懂人工智慧的　少在那邊打高空</span><span class="push-ipdatetime"> 05/20 09:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">li118</span><span class="f3 push-content">: 軌道建設的主要目的不是研發軌道技術吧</span><span class="push-ipdatetime"> 05/20 09:52
+</span></div>   對,... 她是做那個最低端的,... 死pu
+
+   後續的維護,... 會讓歪國賺爽爽
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">twflash</span><span class="f3 push-content">: 蔡英文               就是豬隊友</span><span class="push-ipdatetime"> 05/20 09:53
+</span></div><span class="f2">※ 編輯: hrma (61.64.108.100), 05/20/2017 09:54:08
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aliass</span><span class="f3 push-content">: 前瞻有水資源項目那也是各國在發展的啊</span><span class="push-ipdatetime"> 05/20 09:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 講的好像大學沒在研究沒教授開課沒學生選課</span><span class="push-ipdatetime"> 05/20 09:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">squallhung</span><span class="f3 push-content">: 拿2500萬 比 14億，台灣是小國</span><span class="push-ipdatetime"> 05/20 09:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 李開復就是郁慕明水準，舔共嘴砲</span><span class="push-ipdatetime"> 05/20 09:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flavorBZ</span><span class="f3 push-content">: 臺灣一堆9.2在扯後腿,怎麼發展?</span><span class="push-ipdatetime"> 05/20 10:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">squallhung</span><span class="f3 push-content">: 韓國人口多少？日本人口多少？瑞典人口多少？瑞士？</span><span class="push-ipdatetime"> 05/20 10:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">squallhung</span><span class="f3 push-content">: 挪威？那些國家靠什麼生存？AI？軟體？代工？</span><span class="push-ipdatetime"> 05/20 10:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JPChinbotsu</span><span class="f3 push-content">: 我是覺得高職程度的意見不要超越自己的知識界線</span><span class="push-ipdatetime"> 05/20 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Iamidiots</span><span class="f3 push-content">: 推，軟體早就應該是21世紀發展的主力</span><span class="push-ipdatetime"> 05/20 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jerry0715no1</span><span class="f3 push-content">: 上次看過他講uber之後就知道他的水準在哪了呵呵</span><span class="push-ipdatetime"> 05/20 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Iamidiots</span><span class="f3 push-content">: 其實也不能全怪蔡英文，整個台灣根本還停留在20世紀</span><span class="push-ipdatetime"> 05/20 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heci1941</span><span class="f3 push-content">: 所以,某樓網友,李開復的水準到底在哪啊？說清楚一點啊</span><span class="push-ipdatetime"> 05/20 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">heci1941</span><span class="f3 push-content">: 幹！什麼都能扯到9.2</span><span class="push-ipdatetime"> 05/20 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wdz660918</span><span class="f3 push-content">: 沒遠見錢亂灑只想搞ㄧ些工程讓包商賺，包商背後都是政</span><span class="push-ipdatetime"> 05/20 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wdz660918</span><span class="f3 push-content">: 治人物入股</span><span class="push-ipdatetime"> 05/20 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 笑死人 他講uber完全沒錯 我根本不care你有沒有繳稅</span><span class="push-ipdatetime"> 05/20 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">previa</span><span class="f3 push-content">: 一堆人還糾結在這點 根本無Ｘ</span><span class="push-ipdatetime"> 05/20 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">koehie</span><span class="f3 push-content">: 你聽他的話 就輸了</span><span class="push-ipdatetime"> 05/23 19:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495245012.A.93A.html?cacheKey=2052-37391960&offset=2901&offset-sig=47905bee77ba1e8d30bc2538ef89444046037810" data-longpollurl="/v1/longpoll?id=3cbc7f0b11ec979f13aea18a3bd0a51f0a9abc1a" data-offset="2901"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

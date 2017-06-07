@@ -1,0 +1,177 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495258031.A.AF4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 天堂全盛時期？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這遊戲大概是傳說了吧，影響度很深，能夠讓
+除了青少年以外的族群沈迷的遊戲，他應該算
+是第一，當時連一堆四五十歲的人都出現在網
+咖練等，還不分男女，可以看到不同年齡的人
+在互相交流，這在現在還真的看不到，而且它
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 天堂全盛時期？">
+<meta property="og:description" content="這遊戲大概是傳說了吧，影響度很深，能夠讓
+除了青少年以外的族群沈迷的遊戲，他應該算
+是第一，當時連一堆四五十歲的人都出現在網
+咖練等，還不分男女，可以看到不同年齡的人
+在互相交流，這在現在還真的看不到，而且它
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495258031.A.AF4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495258031.A.AF4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">killergo2005 (HardCore)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 天堂全盛時期？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 13:27:08 2017</span></div>
+<span class="f2">※ 引述《XXXXGAY (ＯＬ打雜小妹)》之銘言：
+</span><span class="f6">: ※ 引述《Hakan (夫人，我說不要)》之銘言：
+</span><span class="f6">: : 鈦尬後！
+</span><span class="f6">: : 天堂1我沒玩過
+</span><span class="f6">: : 等開始有玩已經到第二代了
+</span><span class="f6">: : 有人當初玩天堂1的致富嗎？
+</span><span class="f6">: : 全盛時期是怎樣的一個情況啊？
+</span><span class="f6">: 當年天堂致富方式：
+</span><span class="f6">: 1.稅收
+</span><span class="f6">: 當上城主後靠稅收賺天幣，靠血盟小屋賺房租，
+</span><span class="f6">: （我之前當侏儒城主每四天稅收2500萬左右）
+</span><span class="f6">: 靠城堡內專屬的BOSS(大巴,反王,魔女...等)賺稀有道具，
+</span><span class="f6">: 2.衝裝備
+</span><span class="f6">: 天堂武器防具提升能力時有機會爆掉（消失）
+</span><span class="f6">: 所以高等稀有武器價值十分昂貴（+7力套,+10細劍之類）
+</span><span class="f6">: 如果你運氣好衝裝備必過，保證能一晚致富．
+</span><span class="f6">: 3.低收高賣商人
+</span><span class="f6">: 眼光精準，熟悉改版情報，知道改版前要先收啥材料，
+</span><span class="f6">: 有些商人在黑妖剛開放時就懂得練一隻精黑妖，
+</span><span class="f6">: 黑魔石提煉率超高，狂賺一筆改版財．
+</span><span class="f6">: 4.Ｆ４
+</span><span class="f6">: 天堂角色在死亡時有機率掉落身上的裝備，
+</span><span class="f6">: F4鍵則是拾取快速鍵，當別人死亡時靠近按下Ｆ４，
+</span><span class="f6">: 極有可能剪取對方掉落的昂貴裝備．
+</span><span class="f6">: 5.包場／搶BOSS
+</span><span class="f6">: 頭目級怪物會掉落極稀有的昂貴裝備（例如隱身斗篷，曾經喊到20萬台幣）
+</span><span class="f6">: 所以搶殺BOSS也是致富關鍵．
+</span><span class="f6">: 6.使用BUG
+</span><span class="f6">: 不知道為什麼，只要我在哪個伺服器玩耍，
+</span><span class="f6">: 那個伺服器就會發生奇妙的BUG，
+</span><span class="f6">: 例如我在半人馬伺服器時就發生了盟屋洗錢事件，
+</span><span class="f6">: 一晚洗了數億天幣出來．
+</span><span class="f6">: 大概就這樣了吧，當時整整玩了七年，不過也快十年沒碰囉．
+</span>
+
+
+這遊戲大概是傳說了吧，影響度很深，能夠讓
+
+除了青少年以外的族群沈迷的遊戲，他應該算
+
+是第一，當時連一堆四五十歲的人都出現在網
+
+咖練等，還不分男女，可以看到不同年齡的人
+
+在互相交流，這在現在還真的看不到，而且它
+
+也是帶起當初網咖經濟的先驅，可以說是沒天
+
+堂就沒網咖，順帶一提當時網咖也造就各種
+
+亂象，除了盟戰打到真人械鬥，還有網咖老闆
+
+在冷氣孔放k毒要留住客人的....！
+
+
+個人一公測我就有玩，幾個月後打到了一張武
+
+捲，拿去點紅騎士之劍，配一隻23級男騎士
+
+賣了1300台幣，當初是1:150的時代。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.82.97.155
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495258031.A.AF4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495258031.A.AF4.html</a>
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495258031.A.AF4.html?cacheKey=2052-37399155&offset=1868&offset-sig=dbd08587528289c2340a1992b91301438d86ee42" data-longpollurl="/v1/longpoll?id=00202c80c59303ff4ed3a063e2ef03f465f50739" data-offset="1868"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

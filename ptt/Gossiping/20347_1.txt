@@ -1,0 +1,155 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495142766.A.CD6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 健保具名審查醫師壓力大 擬改為團體審查 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+健保具名審查醫師壓力大 擬改為團體審查
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 健保具名審查醫師壓力大 擬改為團體審查">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+健保具名審查醫師壓力大 擬改為團體審查
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495142766.A.CD6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495142766.A.CD6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mitim (mitim)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 健保具名審查醫師壓力大 擬改為團體審查</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 05:26:03 2017</span></div>
+1.媒體來源:
+蘋果日報
+
+2.完整新聞標題:
+健保具名審查醫師壓力大 擬改為團體審查
+
+3.完整新聞內文:
+健保匿名核刪屢遭基層醫界批評黑箱，中央健保署去年10月起陸續針對小兒科、婦產科、
+耳鼻喉等7科別試辦公開具名核刪與雙審新制，但卻面臨核刪率低、審查醫師愈來愈難聘
+的狀況。衛福部長陳時中今表示，未來擬改採「團體」或「組織」具名審查方式試辦。
+
+立法院社會福利及衛生環境委員會今邀請衛福部長陳時中針對「健保審查透明化與標準明
+確化（如具名審查、審查標準之一致與可預見），及回推放大核刪妥當性之檢討」報告。
+中央健保署副署長李丞華說，目前試辦公開具名核刪的小兒科、婦產科、耳鼻喉科、眼科
+、神經科、精神科、泌尿科等科別，除神經科、精神科外應都會續辦，但因「具名」壓力
+讓審查醫師人數愈來愈難找。陳時中坦言，無論是否具名，審查醫師都難聘，為了減輕壓
+力，讓審查的品質更好，朝向改採「團體具名」或「組織具名」的方式來做修訂，是未來
+繼續試辦的考慮方向之一。外界質疑審查效率是否變差，陳時中認為沒有這麼悲觀，因專
+業核刪是最後守門人，仍可透過其他審查指標來補強。（江慧珺／台北報導）
+
+4.完整新聞連結 (或短網址):
+<a href="http://m.appledaily.com.tw/realtimenews/article/new/20170518/1121057/" target="_blank" rel="nofollow">http://m.appledaily.com.tw/realtimenews/article/new/20170518/1121057/</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.138.160.211
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495142766.A.CD6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495142766.A.CD6.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 有種亂砍沒種具名</span><span class="push-ipdatetime"> 05/19 05:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lien</span><span class="f3 push-content">: 審查的也知道自己亂砍喔</span><span class="push-ipdatetime"> 05/19 05:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blaz</span><span class="f3 push-content">: 以後還想學記者都變成 XX 中心刪除</span><span class="push-ipdatetime"> 05/19 05:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bigmango</span><span class="f3 push-content">: 具名真的是讓各行各業廢物現形的最好方法</span><span class="push-ipdatetime"> 05/19 05:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wild2012</span><span class="f3 push-content">: 擋人財路 還要人家具名? 根本是找死阿!</span><span class="push-ipdatetime"> 05/19 05:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lien</span><span class="f3 push-content">: 不是擋人財路 是以前一堆刪的太莫名奇妙</span><span class="push-ipdatetime"> 05/19 05:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">drlin84265</span><span class="f3 push-content">: 不能請工讀生刪效率當然變差啦~</span><span class="push-ipdatetime"> 05/19 05:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmcharvard</span><span class="f3 push-content">: 因為有業績呀...不刪到特定扣達讓健保省錢，審查醫會</span><span class="push-ipdatetime"> 05/19 06:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tmcharvard</span><span class="f3 push-content">: 被掛上黑名單，自己被審時會被放大檢視被更亂核刪，也</span><span class="push-ipdatetime"> 05/19 06:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tmcharvard</span><span class="f3 push-content">: 就這樣惡性循環大家都亂核刪，反正只要自己不死就好</span><span class="push-ipdatetime"> 05/19 06:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tmcharvard</span><span class="f3 push-content">: 最後自相殘殺，肥了健保局的人坐領乾高薪與高額年終</span><span class="push-ipdatetime"> 05/19 06:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tmcharvard</span><span class="f3 push-content">: 多花錢在非醫療上...這種三輸卻肥了官僚的爛制度就是</span><span class="push-ipdatetime"> 05/19 06:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tmcharvard</span><span class="f3 push-content">: 咱們台灣的健保...</span><span class="push-ipdatetime"> 05/19 06:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">firecrest</span><span class="f3 push-content">: 團體具名係三小 難道要寫草帽海賊團嗎</span><span class="push-ipdatetime"> 05/19 07:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tatata</span><span class="f3 push-content">: 核刪大隊</span><span class="push-ipdatetime"> 05/19 07:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skuderic</span><span class="f3 push-content">: 核刪這種行為真的最噁心那種  台灣醫療沒救了</span><span class="push-ipdatetime"> 05/19 09:14
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495142766.A.CD6.html?cacheKey=2052-35360931&offset=2928&offset-sig=e813836d665e8ae87f7335b7a9fde8df96373deb" data-longpollurl="/v1/longpoll?id=7a82b71d6d457e7e5c9ae94f213d8757f86f1c85" data-offset="2928"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

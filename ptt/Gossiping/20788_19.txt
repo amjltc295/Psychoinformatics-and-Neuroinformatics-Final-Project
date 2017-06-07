@@ -1,0 +1,214 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495462683.A.103.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 甜粽，參戰！ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="每次看到臺灣人戰南北就覺得搞笑  記住 你們都是南方
+粽子也是吃的南方粽子
+下面是采集南京大學學生統計出來的中國粽子地圖
+http://i.imgur.com/cR1sMzq.jpg
+中間那條綠色的帶是中國南北自然分界帶
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 甜粽，參戰！">
+<meta property="og:description" content="每次看到臺灣人戰南北就覺得搞笑  記住 你們都是南方
+粽子也是吃的南方粽子
+下面是采集南京大學學生統計出來的中國粽子地圖
+http://i.imgur.com/cR1sMzq.jpg
+中間那條綠色的帶是中國南北自然分界帶
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495462683.A.103.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495462683.A.103.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">qwxr (keke)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 甜粽，參戰！</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 22:18:00 2017</span></div>
+每次看到臺灣人戰南北就覺得搞笑  記住 你們都是南方
+粽子也是吃的南方粽子
+
+下面是采集南京大學學生統計出來的中國粽子地圖
+<a href="http://i.imgur.com/cR1sMzq.jpg" target="_blank" rel="nofollow">http://i.imgur.com/cR1sMzq.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="cR1sMzq"><a href="//imgur.com/cR1sMzq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>中間那條綠色的帶是中國南北自然分界帶
+對數據的處理方法是，把“白粽蘸糖”以甜黨的0.5權重計，
+“白粽裸吃”“白粽其他吃法”不計入甜咸，“其他粽子”
+計入咸粽。對甜粽/6和咸粽/5相減，差值除以二者件較小的
+那一個值。將得出的比值減去白粽裸吃除以總投票數。得出
+的比值就是紅藍填色時顏色的純度。
+
+<a href="http://i.imgur.com/o1NXvGd.jpg" target="_blank" rel="nofollow">http://i.imgur.com/o1NXvGd.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="o1NXvGd"><a href="//imgur.com/o1NXvGd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>這是直接使用(甜粽/6-咸粽/5)/min(甜粽/6,咸粽/5)生成的
+圖。我覺得不太科學，所以進行了上述的數據修正。
+
+最後結論是
+ 這是總體的粽子單品偏好原始數據，最后白粽蘸糖以微弱優勢反
+逆轉蜜棗粽奪取桿位，豬肉粽其后，蜜棗豆沙再次，然后是蛋黃粽。
+因為參與調查的各省份人數極不均衡，這個結果需要進行處理。
+
+下面給出簡單的分省描述：
+
+占樣本數量33.81%的江蘇人對于粽子口味的偏好突出一個亂字，
+畢竟是跨越我國南北自然分界線秦嶺淮河一線的省份。如果問卷
+設計了“您在江蘇哪個市”的選項，可以進行更進一步的分析，可惜沒有。
+
+在A站甜咸大戰中堅挺到最后的甜黨陣地——山東，結果呈現出明顯的
+一邊倒態勢。(可見相比于江蘇，樣本數量還是太少了，不過這個結果應該是有效的)
+
+來自海外地區的同學填的三份問卷，在豬肉粽上達成了共鳴。
+只回收到兩份海南同學的問卷，沒什么參考價值…
+山城重慶局勢很不明朗，只有白粽蘸糖勉強取得半數支持。因為蛋黃粽和
+其他咸粽的存在，兩黨勢力大體均衡。
+
+四川與重慶相若，甜黨占據一定優勢。
+貴州，甜黨占優，咸黨作為少數派存在
+云南，咸粽頭頂青天。
+天津，雖然樣本不足但是形勢很明了，零封。
+北京，甜黨的碾壓。值得注意的是，豆沙粽占據了主導地位，與總體上蜜棗粽
+的強勢不同。
+甘肅，很好奇30%的人選擇的“白粽，其他吃法”究竟是什么吃法。當然，這里屬于甜粽。
+青海，只有兩份樣本，這個結果能否解讀為是甜粽占優呢？私以為是可以的。
+寧夏， 繼天津之后又一個甜粽對咸粽的零封。
+江西，在咸粽占據壓倒性優勢的基礎上，貌似算是喜歡八寶粽的比例挺高的一個省份。
+河南，中原腹地是甜粽的天下，蜜棗粽尤受歡迎。
+湖北，甜粽的領地。
+隔了洪湖洞庭湖，湖南湖北呈現出迥然不同的局面，咸粽似乎成為主流，甜粽退居次席。
+福建，咸粽的福地。
+安徽，百粽繚亂。怒秀存在感的秦嶺淮河一線。
+浙江，以咸粽為主流，甜粽也被一部分人接受或者青睞著。
+上海，換了山河。豬肉粽賽高，不過甜粽仍有一席之地。
+吉林，白兔蘸糖和紅棗粽領先。當然因為樣本少，不必糾結與具體的比例。
+黑龍江，蜜棗粽一枝獨秀。東三省在“甜”的基礎上還是呈現出了一定差異
+廣西呈現出豬肉粽和蜂蜜涼粽并駕齊驅的獨特態勢。“其他粽子”的比例也很高。
+420份樣本中4人選擇了白粽蘸醬油，兩人出自廣東。對豬肉粽也是鐘情。
+只有兩名港人參與調查，結果與常識相符。
+遼寧 ，受狂熱追捧的白粽蘸糖之后是豆沙蜜棗紅棗三駕馬車。
+經典的北方省份山西，結果一目了然。
+作為遷入人口較多的省份，內蒙的結果相當離散，只有紅棗粽獲得了半數以上人
+的青睞。(當然這個樣本的確太少了)
+河北，和臨近的北京對豆沙粽的偏愛不同，蜜棗紅棗更受歡迎，而且不少人喜歡裸吃白粽
+新疆，只有三個人參與了調查，甜粽大勝利。全國各地去支援新疆建設的人比較多，
+這個結果僅供參考。
+與江蘇同跨秦嶺淮河一線的陜西的結果。同樣因為沒有對具體所在區域進行調查
+而且樣本太少，這個結果很難進行進一步的分析。陜西關中人對蜂蜜涼粽情有獨鐘。
+有4位來自灣灣的小伙伴參加了調查，咸粽肉粽其他粽！
+
+上面絕大多數文字來自百度貼吧南京大學
+<a href="http://tieba.baidu.com/p/3087785087" target="_blank" rel="nofollow">http://tieba.baidu.com/p/3087785087</a>
+歡迎轉載和引用，不過請注明原作者(我)和出處(南京大學吧)。
+作者id：v浮蕓v
+
+ps臺灣討論南北其實很搞笑  整個臺灣都屬于南部 吃的粽子也是南方粽子
+本文高屋建瓴地從全中國分析了各地粽子口味最重要的差異 即甜咸差異
+對你們提升眼界有一定地幫助  免得你們在爭論哪些細枝末節中誤入魔道
+<span class="f2">※ 引述《coastq22889 (chi_square)》之銘言：
+</span><span class="f6">: 大家好，隨著端午佳節的到來
+</span><span class="f6">: 南北粽子戰爭即將開打
+</span><span class="f6">: 我在這裡大聲宣布
+</span><span class="f6">: 甜粽才是最強的粽子
+</span><span class="f6">: <a href="http://i.imgur.com/mlbJWRt.jpg" target="_blank" rel="nofollow">http://i.imgur.com/mlbJWRt.jpg</a>
+</span><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="mlbJWRt"><a href="//imgur.com/mlbJWRt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f6">: 除了甜粽之外，其他的粽子都是垃圾
+</span><span class="f6">: 不服，來辯。
+</span><span class="f6">: -----
+</span><span class="f6">: Sent from JPTT on my Samsung SM-J700F.
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 58.196.148.5
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495462683.A.103.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495462683.A.103.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">momoispig</span><span class="f3 push-content">: 唯一支持北部粽!!!!!!!!</span><span class="push-ipdatetime"> 05/22 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zxc70227</span><span class="f3 push-content">: 你要不要來試試中部粽?</span><span class="push-ipdatetime"> 05/22 22:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zainlove</span><span class="f3 push-content">: 奇怪ㄟ台灣人爭論南北干你們中國人屁事</span><span class="push-ipdatetime"> 05/22 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infoman</span><span class="f3 push-content">: 先別說那麼多 告訴我哪裡買得到 我想吃</span><span class="push-ipdatetime"> 05/22 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">infoman</span><span class="f3 push-content">: 不要叫跑遍大江南北去買粽子啊 我又不是粽子狂</span><span class="push-ipdatetime"> 05/22 22:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SONYPS5</span><span class="f3 push-content">: 操你媽支那粽</span><span class="push-ipdatetime"> 05/22 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">feit</span><span class="f3 push-content">: 別人在討論台灣你扯外國  按你的邏輯不是應該討論全地球</span><span class="push-ipdatetime"> 05/22 22:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">butmyass</span><span class="f3 push-content">: 南部裡再分南北還要你同意嗎?</span><span class="push-ipdatetime"> 05/22 22:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rythem</span><span class="f3 push-content">: 殘體字改一下好嗎？</span><span class="push-ipdatetime"> 05/22 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mmx3259</span><span class="f3 push-content">: 應該叫 鹼粽吧</span><span class="push-ipdatetime"> 05/22 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a2603</span><span class="f3 push-content">: 台灣人鬧著玩中國人刷存在感阿</span><span class="push-ipdatetime"> 05/22 23:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495462683.A.103.html?cacheKey=2052-37014208&offset=4919&offset-sig=81699cbb079c66f89f84a895066b6dafcbd8f49b" data-longpollurl="/v1/longpoll?id=59f0a2b6247379c22f67229370007ba3f6acbeab" data-offset="4919"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,156 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495270845.A.582.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 華碩攜IBM 強化雲端服務 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="華碩攜IBM 強化雲端服務
+華碩旗下「華碩雲端」宣布與IBM結盟，導入IBM的Watson認知運算技術到旗下儲存雲、健
+康雲等，等於為雲端服務裝上人工智慧（AI）大腦，預計今年下半年推出「Healthbot」
+照護機器人，成軍九年的華碩雲端力拚今年轉盈。
+華碩雲端總經理吳漢章表示，華碩雲端這幾年深耕智慧教育、智慧健康、智慧醫療等智慧
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 華碩攜IBM 強化雲端服務">
+<meta property="og:description" content="華碩攜IBM 強化雲端服務
+華碩旗下「華碩雲端」宣布與IBM結盟，導入IBM的Watson認知運算技術到旗下儲存雲、健
+康雲等，等於為雲端服務裝上人工智慧（AI）大腦，預計今年下半年推出「Healthbot」
+照護機器人，成軍九年的華碩雲端力拚今年轉盈。
+華碩雲端總經理吳漢章表示，華碩雲端這幾年深耕智慧教育、智慧健康、智慧醫療等智慧
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495270845.A.582.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495270845.A.582.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">lazy321 ()</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 華碩攜IBM 強化雲端服務</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 17:00:42 2017</span></div>
+華碩攜IBM 強化雲端服務
+
+華碩旗下「華碩雲端」宣布與IBM結盟，導入IBM的Watson認知運算技術到旗下儲存雲、健
+康雲等，等於為雲端服務裝上人工智慧（AI）大腦，預計今年下半年推出「Healthbot」
+照護機器人，成軍九年的華碩雲端力拚今年轉盈。
+
+華碩雲端總經理吳漢章表示，華碩雲端這幾年深耕智慧教育、智慧健康、智慧醫療等智慧
+城市相關服務，累積大量數據，隨著新的人工智慧發展愈來愈成熟，希望透過AI技術的導
+入，創造更大可能性，並提供更完整的全新體驗。
+
+「華碩雲端」的前身是華碩轉投資的子公司全球聯迅，主要提供私有雲儲存解決方案，
+2011年更名「華碩雲端」，正式納入華碩麾下，業務也拓展到教育雲、健康雲等更多雲端
+服務。
+
+華碩雲端近日宣布與IBM合作，導入IBM的Watson認知運算技術，第一階段先採用華生的「
+對談」功能（Conversation frame）API，例如華碩的雲端儲存服務，可利用IBM的AI技術
+在Line、臉書（FB）上智慧查找檔案資料，化身智慧客服，相關服務預計下季推出。
+
+另外，華碩也會在旗下醫療雲導入IBM的AI技術，預計第4季推出「Healthbot」照護機器
+人，協助醫院提供諮詢、量測、衛教等服務，與華碩合作密切的秀傳醫院確定年底前優先
+導入。
+
+IBM雲端事業部門副總經理許仲言表示，IBM與華碩雲端的合作只是第一步，除了華碩先導
+入Watson的「對談」功能。其實IBM已將華生AI技術，包裝成許多不同功能的API，方便合
+作夥伴導入各種應用。包括情緒分析API、語義分析API等，將是雙方下一步合作方向。
+
+華碩雲端因持續投資開發新領域，目前營運仍處於虧損，吳漢章表示，今年案子不少，最
+近剛拿到彰化的一個智慧校園標案，加上與IBM合作的AI服務陸續推出，今年有機會賺錢
+。
+
+<a href="https://udn.com/news/story/7240/2473613" target="_blank" rel="nofollow">https://udn.com/news/story/7240/2473613</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.231.62.235
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495270845.A.582.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495270845.A.582.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwww</span><span class="f3 push-content">: 神機禪3</span><span class="push-ipdatetime"> 05/20 17:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyodiy</span><span class="f3 push-content">: IBM連notebook 電腦部門都賣聯想了還有什麼東西能賺錢</span><span class="push-ipdatetime"> 05/20 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yoyodiy</span><span class="f3 push-content">: 華碩真的不再考慮一下?</span><span class="push-ipdatetime"> 05/20 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">acgotaku</span><span class="f3 push-content">: IBM預知硬體瓶頸賣掉NB部門  轉型企業服務成功根本天才</span><span class="push-ipdatetime"> 05/20 17:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knives</span><span class="f3 push-content">: 跟不對的人合作，不知道在想什麼</span><span class="push-ipdatetime"> 05/20 17:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gon182001</span><span class="f3 push-content">: 二樓可以多讀點書</span><span class="push-ipdatetime"> 05/20 17:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tedium</span><span class="f3 push-content">: IBM能走到今天就是把筆電賣了轉型，二樓搞錯方向了吧</span><span class="push-ipdatetime"> 05/20 17:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 一堆被yo叔釣到</span><span class="push-ipdatetime"> 05/20 19:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495270845.A.582.html?cacheKey=2052-37404670&offset=2475&offset-sig=0c0eb4264445adff8a95233a1f7fb2fc6c97d961" data-longpollurl="/v1/longpoll?id=666d992d4b91b2b67a25012b5e2421b9ffa8504d" data-offset="2475"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

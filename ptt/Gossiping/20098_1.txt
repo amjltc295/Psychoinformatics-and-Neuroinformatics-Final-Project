@@ -1,0 +1,474 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494987288.A.1DF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「買不起股票可玩期貨」　網友：留條活 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+「買不起股票可玩期貨」　網友：留條活路行不行
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「買不起股票可玩期貨」　網友：留條活">
+<meta property="og:description" content="1.媒體來源:
+蘋果日報
+2.完整新聞標題:
+「買不起股票可玩期貨」　網友：留條活路行不行
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494987288.A.1DF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494987288.A.1DF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Joseph5566 (約瑟夫5566)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「買不起股票可玩期貨」　網友：留條活</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 10:14:44 2017</span></div>
+1.媒體來源:
+
+蘋果日報
+
+
+2.完整新聞標題:
+
+「買不起股票可玩期貨」　網友：留條活路行不行
+
+
+3.完整新聞內文:
+
+金管會副主委鄭貞茂昨示警，年輕人不買股，是資本市場危機，在PTT上招來一片罵聲，
+群益期貨董事長孫天山出席同場論壇時幫忙緩頰，這可能是受低薪影響，但期貨市場進入
+門檻低，建議年輕人或許可參與期貨投資，一席話讓網友跪了，哀求前輩們留條活路行不
+行。
+
+對孫天山的談話，網友在PTT發表心得：「這個論壇如果蔣幹有去，應該可以拿冠軍。從
+上到下，不只要把股民榨乾，還要弄成灰。」
+
+許多網友呼應，「有必要這樣能撈則撈嗎？給年輕人一條活口吧！」、「玩期貨，真的是
+要把年輕人吃乾淨」、「真的是別人的囝死不完」、「可憐的台灣年輕人，22k努力存了
+10來萬，買到樂陞就歸零，連給年輕人存錢的機會都沒有，哀」。
+
+還有網友狂酸：「新鮮人當然是直接簽現沖下去玩啊，直接500額度，2根漲停就一桶金囉
+！」其他網友幫腔，「恩恩 兩根跌停 就不見一桶金」、「年輕人空期貨會被軋爆」、「
+100個進去死80個，台灣出生率很低，別鬧了」、「看起來台灣根本是間大型恐怖旅舍」
+。（財經中心／綜合報導）
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="https://goo.gl/VCORi2" target="_blank" rel="nofollow">https://goo.gl/VCORi2</a>
+
+5.備註:
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.136.215.176
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494987288.A.1DF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494987288.A.1DF.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xzcb2008</span><span class="f3 push-content">: 那個金正恩身影</span><span class="push-ipdatetime"> 05/17 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 一個是音速賠錢  一個是光速賠錢</span><span class="push-ipdatetime"> 05/17 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GoldenWasabi</span><span class="f3 push-content">: 那就不要整天靠么錢被外資賺走啊</span><span class="push-ipdatetime"> 05/17 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeremylin556</span><span class="f3 push-content">: 想坑年輕人就直接說吧，反正已經很多人在坑了</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 期貨比股票玩更大，難道他不知道嗎？</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nacy204327</span><span class="f3 push-content">: 為什麼是金正恩的照片</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brandx</span><span class="f3 push-content">: 散戶銳減 幫忙一下啦</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GoldenWasabi</span><span class="f3 push-content">: 上萬點~&gt;還不就漲權值股而已 啊你知道怎麼不買權值?</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 還是你想開莊吃定手續費是不是？</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 期貨可以槓桿放超低去玩   只是這樣還不如玩0050之類的</span><span class="push-ipdatetime"> 05/17 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArgusX</span><span class="f3 push-content">: 人類的歷史就是老的壓榨菜的</span><span class="push-ipdatetime"> 05/17 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beartsubaki</span><span class="f3 push-content">: 要說進入門檻 你不如說選擇權的買權 至少頂多賠100%</span><span class="push-ipdatetime"> 05/17 10:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 期貨做錯方向賠很快，一下就暴倉</span><span class="push-ipdatetime"> 05/17 10:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Louis0712</span><span class="f3 push-content">: 老闆:年輕人都不努力不吃苦 只想要高薪又不肯花錢</span><span class="push-ipdatetime"> 05/17 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 小台一點賠50</span><span class="push-ipdatetime"> 05/17 10:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 果然這些人業障重啊...</span><span class="push-ipdatetime"> 05/17 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: 不如去買比特幣</span><span class="push-ipdatetime"> 05/17 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 期貨是老手在玩的</span><span class="push-ipdatetime"> 05/17 10:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 老人幹話越來越會講了，現代技能沒學到，這技能到top了</span><span class="push-ipdatetime"> 05/17 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 都老董了還想騙錢@@</span><span class="push-ipdatetime"> 05/17 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">v7q4</span><span class="f3 push-content">: 期貨只做一口 當沖不留倉 賠也不會賠多少</span><span class="push-ipdatetime"> 05/17 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyodio</span><span class="f3 push-content">: 老人真的很78</span><span class="push-ipdatetime"> 05/17 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 靠北 期交所有開放機房給散戶掛Server嗎? 群益那根本就坑</span><span class="push-ipdatetime"> 05/17 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">segio</span><span class="f3 push-content">: 請研議發放期貨券.開放年輕人自選..</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beartsubaki</span><span class="f3 push-content">: 可惜人性在面對輸錢的時候 是很複雜的 停損停利說來</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">funkD</span><span class="f3 push-content">: 記住  在窮也要買個股票等套牢</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay3u7218</span><span class="f3 push-content">: 房子套不夠 叫你玩股票 股票套不夠 叫你玩期貨</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 殺散戶的心態!</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jay3u7218</span><span class="f3 push-content">: 玩了期貨 就跳樓了 GG</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ueu72312</span><span class="f3 push-content">: .................玩期貨可能30秒就破產好嗎?</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 騙外行的的幹話連珠砲</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghgn</span><span class="f3 push-content">: 國中講到投資都說 期貨比股票危險 這官員國中有畢業?</span><span class="push-ipdatetime"> 05/17 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 遇到震盪   點數起伏不大時，扣掉手續費就賠錢了</span><span class="push-ipdatetime"> 05/17 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eva19452002</span><span class="f3 push-content">: 股票至少還會跌停，期貨可是無下限</span><span class="push-ipdatetime"> 05/17 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">narutodante</span><span class="f3 push-content">: 期貨........</span><span class="push-ipdatetime"> 05/17 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ok5566</span><span class="f3 push-content">: 何不食肉糜XD</span><span class="push-ipdatetime"> 05/17 10:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beartsubaki</span><span class="f3 push-content">: 簡單 能準確執行的還是很少數 當然程式停也是方法 但</span><span class="push-ipdatetime"> 05/17 10:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forest6601</span><span class="f3 push-content">: 真的是何不食肉糜 想坑人錢就說 垃圾</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beartsubaki</span><span class="f3 push-content">: 新手????</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: 股票都買不起了叫人買期貨，你是要叫年輕人跳樓是不是?</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2603</span><span class="f3 push-content">: 根本狂新聞</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plumeriaho</span><span class="f3 push-content">: 期貨更危險吧 這是要叫年輕人去死嗎</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 門檻低死更慘，你穩賺這三小</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hooz</span><span class="f3 push-content">: 唉～ 政府跟老人只會殘害年輕人</span><span class="push-ipdatetime"> 05/17 10:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">st2913sbck</span><span class="f3 push-content">: ... 神邏輯欸</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 按照這些老闆的邏輯，選擇權門檻更低</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">THANN</span><span class="f3 push-content">: 鄭貞茂 自己買多一點阿</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Amara</span><span class="f3 push-content">: 這種人也能當官</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kaet</span><span class="f3 push-content">: 台灣的官員很多都這樣  難怪台灣現在這麼慘</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Virness</span><span class="f3 push-content">: 不食人間煙火 錢集中在老人那找22k出來坦</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cores</span><span class="f3 push-content">: 蔣幹再世：群益期貨董事長孫天山</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerrypan1</span><span class="f3 push-content">: 期貨風險更大 這講話的有腦袋嗎</span><span class="push-ipdatetime"> 05/17 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pftmax</span><span class="f3 push-content">: 好棒的官  蔡英文最愛這款的</span><span class="push-ipdatetime"> 05/17 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TianBonBon</span><span class="f3 push-content">: 吃不起飯可以吃肉</span><span class="push-ipdatetime"> 05/17 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hn880265</span><span class="f3 push-content">: 0050一張八萬有找 假如8萬玩1口小台?跌個1千2就掰</span><span class="push-ipdatetime"> 05/17 10:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hn880265</span><span class="f3 push-content">: 開了槓桿我都不覺得是投資</span><span class="push-ipdatetime"> 05/17 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TianBonBon</span><span class="f3 push-content">: 一個吃不飽吃兩個</span><span class="push-ipdatetime"> 05/17 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">max9527</span><span class="f3 push-content">: 這個跳樓更快...</span><span class="push-ipdatetime"> 05/17 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">parislove3</span><span class="f3 push-content">: 玩不起期貨 你還有權證啊XDDDD</span><span class="push-ipdatetime"> 05/17 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hn880265</span><span class="f3 push-content">: 買0050還有配息 不用換倉 十年不管都行</span><span class="push-ipdatetime"> 05/17 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolic</span><span class="f3 push-content">: 講幹話第一名</span><span class="push-ipdatetime"> 05/17 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dslite</span><span class="f3 push-content">: 但是也光速賺錢啊</span><span class="push-ipdatetime"> 05/17 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 期貨...........我可以罵髒話嗎 哈哈</span><span class="push-ipdatetime"> 05/17 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asdfgh0920</span><span class="f3 push-content">: 哇 怎麼這麼會說幹話呀～～～</span><span class="push-ipdatetime"> 05/17 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hateson</span><span class="f3 push-content">: 我只玩0050</span><span class="push-ipdatetime"> 05/17 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 玩期貨是想讓年輕人跳樓嗎XDDD</span><span class="push-ipdatetime"> 05/17 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rocksolid</span><span class="f3 push-content">: 年輕人死光沒? 還沒? 那來玩個期貨吧，會死快一點~~</span><span class="push-ipdatetime"> 05/17 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 要沒競爭力的 早死早投胎的概念嗎?</span><span class="push-ipdatetime"> 05/17 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">powernba</span><span class="f3 push-content">: 現在的官員都要會講幹話是不是.....</span><span class="push-ipdatetime"> 05/17 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nosay</span><span class="f3 push-content">: 玩期貨不如買樂透</span><span class="push-ipdatetime"> 05/17 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ar0sdtmi</span><span class="f3 push-content">: 這已經不是沒有麵包就吃蛋糕了 瑪麗皇后2.0再現？</span><span class="push-ipdatetime"> 05/17 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crazylin924</span><span class="f3 push-content">: 為什麼都是低能兒在統治我們？</span><span class="push-ipdatetime"> 05/17 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaceda</span><span class="f3 push-content">: 幹你媽的,期貨???爛到笑 XDDD</span><span class="push-ipdatetime"> 05/17 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">area41gold</span><span class="f3 push-content">: 我沒玩股票都知道期貨風險更大</span><span class="push-ipdatetime"> 05/17 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">spyair</span><span class="f3 push-content">: 我真的笑了</span><span class="push-ipdatetime"> 05/17 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudia9859</span><span class="f3 push-content">: 期貨欸!!! 期貨別說年輕人，中年人敢隨便玩嗎!?</span><span class="push-ipdatetime"> 05/17 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkcake</span><span class="f3 push-content">: 期貨可以買阿 選錯遇漲停跌停就知道了 選錯就買炭</span><span class="push-ipdatetime"> 05/17 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 樂陞落伍了，必翔正夯，把員工一起拖下去死</span><span class="push-ipdatetime"> 05/17 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 股票輸了，頂多脫一半褲子</span><span class="push-ipdatetime"> 05/17 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VOLK11</span><span class="f3 push-content">: 期貨可以全脫耶</span><span class="push-ipdatetime"> 05/17 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 官員不是白癡，他們只想從年輕人撈錢，吃人不吐骨頭</span><span class="push-ipdatetime"> 05/17 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gueese</span><span class="f3 push-content">: 怎麼不辦個全國成年禮,送年輕人去賭場賭一趟</span><span class="push-ipdatetime"> 05/17 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cher1</span><span class="f3 push-content">: 買樂透不如買4點選擇權賭賭看</span><span class="push-ipdatetime"> 05/17 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rucarl</span><span class="f3 push-content">: 吃一個便當吃不飽，不會吃兩個嗎？</span><span class="push-ipdatetime"> 05/17 10:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doom3</span><span class="f3 push-content">: 董ㄟ缺業績?</span><span class="push-ipdatetime"> 05/17 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yabeeboo</span><span class="f3 push-content">: 你再騙阿</span><span class="push-ipdatetime"> 05/17 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 剝削薪資還不夠，連剩下的都想啃光...</span><span class="push-ipdatetime"> 05/17 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 買股票至少還有股利可以拿</span><span class="push-ipdatetime"> 05/17 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 期貨可以狂吃歸零膏</span><span class="push-ipdatetime"> 05/17 10:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 豬隊友可以少講幾句話嗎？。。。</span><span class="push-ipdatetime"> 05/17 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: 這真的是要把人吃到骨頭都不剩，這種幹話都說得出來</span><span class="push-ipdatetime"> 05/17 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GPX2000</span><span class="f3 push-content">: 真的是幹話王耶</span><span class="push-ipdatetime"> 05/17 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 一句幹話就夠了，又有隊友幫緩頰（再次幹話...）</span><span class="push-ipdatetime"> 05/17 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wombat121</span><span class="f3 push-content">: 期貨 教授有膽子玩的都沒幾個</span><span class="push-ipdatetime"> 05/17 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 官員不食人間煙火真的是丘西狼</span><span class="push-ipdatetime"> 05/17 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 期貨要盯盤很累</span><span class="push-ipdatetime"> 05/17 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wombat121</span><span class="f3 push-content">: 樓上 這又不是官員說的是期貨公司董仔說的</span><span class="push-ipdatetime"> 05/17 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Moscato</span><span class="f3 push-content">: 馬的 玩期貨 高槓桿想坑殺人就說一聲</span><span class="push-ipdatetime"> 05/17 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 表示有人過太爽囉XDD</span><span class="push-ipdatetime"> 05/17 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Moscato</span><span class="f3 push-content">: 幹話一堆</span><span class="push-ipdatetime"> 05/17 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Workforme</span><span class="f3 push-content">: 光壓榨給低薪不夠 還要吸你血吃你肉抽你骨髓 好棒棒</span><span class="push-ipdatetime"> 05/17 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">night957</span><span class="f3 push-content">: 非得要榨乾年輕人不可？！股票都玩不贏了還玩期貨？是要</span><span class="push-ipdatetime"> 05/17 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">night957</span><span class="f3 push-content">: 讓人家破人亡？講的好像賺好多你還上什麼班</span><span class="push-ipdatetime"> 05/17 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Moscato</span><span class="f3 push-content">: 買股票至少還有股利 沒股利至少還有股東紀念品 沒紀念品</span><span class="push-ipdatetime"> 05/17 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Moscato</span><span class="f3 push-content">: 至少還有壁紙 期貨真的就是買空氣</span><span class="push-ipdatetime"> 05/17 10:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asiu</span><span class="f3 push-content">: 官員蔣幹話冠軍</span><span class="push-ipdatetime"> 05/17 10:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bill0205</span><span class="f3 push-content">: 一群腦殘是沒有小魚可以吃了是不是</span><span class="push-ipdatetime"> 05/17 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill0205</span><span class="f3 push-content">: 乾脆叫年輕人都去死不是比較快?</span><span class="push-ipdatetime"> 05/17 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clotilde</span><span class="f3 push-content">: 期貨是熟手玩的，新手進去根本99%被殺</span><span class="push-ipdatetime"> 05/17 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bah</span><span class="f3 push-content">: 不玩股票期貨? 那你有存款吧? 去領出來給我</span><span class="push-ipdatetime"> 05/17 10:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lansonbar</span><span class="f3 push-content">: <a href="http://i.imgur.com/hRhrFKN.jpg" target="_blank" rel="nofollow">http://i.imgur.com/hRhrFKN.jpg</a></span><span class="push-ipdatetime"> 05/17 10:44
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="hRhrFKN"><a href="//imgur.com/hRhrFKN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wheat1130</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 05/17 10:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fragmentwing</span><span class="f3 push-content">: 講幹話</span><span class="push-ipdatetime"> 05/17 10:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 小台一點50   大台一點200   高風險高利潤</span><span class="push-ipdatetime"> 05/17 10:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dufflin</span><span class="f3 push-content">: 最可怕 那些毒蛇猛獸 吃盡了我們的血肉</span><span class="push-ipdatetime"> 05/17 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rommel1</span><span class="f3 push-content">: 年輕人要上班，根本沒時間盯盤，會死更快</span><span class="push-ipdatetime"> 05/17 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">z84326</span><span class="f3 push-content">: 買CALL PUT 來賭比較好玩</span><span class="push-ipdatetime"> 05/17 10:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zoids0308</span><span class="f3 push-content">: 買樂透也是必輸 台灣還有什麼能買的嗎</span><span class="push-ipdatetime"> 05/17 10:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BleuSaphir</span><span class="f3 push-content">: 這句有夠幹話</span><span class="push-ipdatetime"> 05/17 10:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">li143</span><span class="f3 push-content">: 年輕人不買房、不買車、不買股票，還有什麼該買不買的一次</span><span class="push-ipdatetime"> 05/17 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Taiwanpoker</span><span class="f3 push-content">: 說得出口我也醉了</span><span class="push-ipdatetime"> 05/17 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">li143</span><span class="f3 push-content">: 講完行不</span><span class="push-ipdatetime"> 05/17 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hu7592</span><span class="f3 push-content">: 幹話</span><span class="push-ipdatetime"> 05/17 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mynewid</span><span class="f3 push-content">: 我說那個樂X</span><span class="push-ipdatetime"> 05/17 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doodad</span><span class="f3 push-content">: 可以呀，錢給我我保證全部拿去玩</span><span class="push-ipdatetime"> 05/17 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hddd5566</span><span class="f3 push-content">: 期貨.......</span><span class="push-ipdatetime"> 05/17 10:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">supremexiii</span><span class="f3 push-content">: 期貨死更快</span><span class="push-ipdatetime"> 05/17 10:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lumbereddy</span><span class="f3 push-content">: 我朋友股票賺的 拿去期貨那邊 結果就沒了 呵呵 呵呵</span><span class="push-ipdatetime"> 05/17 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makki</span><span class="f3 push-content">: 錢給我幫你玩</span><span class="push-ipdatetime"> 05/17 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm79227922</span><span class="f3 push-content">: 一口遇到黑天鵝也能玩死你</span><span class="push-ipdatetime"> 05/17 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freemind19</span><span class="f3 push-content">: 吃人不吐骨頭...</span><span class="push-ipdatetime"> 05/17 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gm79227922</span><span class="f3 push-content">: 還不如玩單日低價選擇權 當樂透</span><span class="push-ipdatetime"> 05/17 11:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deltarobot</span><span class="f3 push-content">: 87</span><span class="push-ipdatetime"> 05/17 11:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vespar</span><span class="f3 push-content">: 薪水就在低了還玩期貨 是叫人家直接跳海吧</span><span class="push-ipdatetime"> 05/17 11:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iphone911</span><span class="f3 push-content">: <a href="http://i.imgur.com/qX9IoHm.jpg" target="_blank" rel="nofollow">http://i.imgur.com/qX9IoHm.jpg</a></span><span class="push-ipdatetime"> 05/17 11:02
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="qX9IoHm"><a href="//imgur.com/qX9IoHm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">piece1</span><span class="f3 push-content">: 沒錢去玩期貨?</span><span class="push-ipdatetime"> 05/17 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 期貨XD</span><span class="push-ipdatetime"> 05/17 11:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ballby</span><span class="f3 push-content">: 股票還能等，期貨時間到就GG了</span><span class="push-ipdatetime"> 05/17 11:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckyodi</span><span class="f3 push-content">: 幹你老師咧 期貨以為在賭大小喔 丟硬幣贏的機率還比較高</span><span class="push-ipdatetime"> 05/17 11:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 這些老人真她娘的可愛 這麼好賺他們自己不玩叫我們玩</span><span class="push-ipdatetime"> 05/17 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: 乾 期貨是人殺人 可沒股票那麼輕鬆啊</span><span class="push-ipdatetime"> 05/17 11:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 聽這種屁話給他們一根中指已經很客氣了</span><span class="push-ipdatetime"> 05/17 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">randy061</span><span class="f3 push-content">: 果然民間無疾苦… 都死光惹</span><span class="push-ipdatetime"> 05/17 11:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 有病啊！要人玩期貨就是開槓桿，看錯死更快</span><span class="push-ipdatetime"> 05/17 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 要是年輕人跳樓，這些狗官要不要切腹？</span><span class="push-ipdatetime"> 05/17 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">web946719</span><span class="f3 push-content">: 何不食肉糜</span><span class="push-ipdatetime"> 05/17 11:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willion003</span><span class="f3 push-content">: 賠不夠快，你可以直接丟水溝的意思嗎？</span><span class="push-ipdatetime"> 05/17 11:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">scum5566</span><span class="f3 push-content">: 媽的，這群金融幫的老屁孩真的要詐乾年輕人</span><span class="push-ipdatetime"> 05/17 11:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 早說台灣金融的小圈子渣到有剩 比華爾街的肥貓相去不遠</span><span class="push-ipdatetime"> 05/17 11:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andyxstussy</span><span class="f3 push-content">: 來阿 互相傷害</span><span class="push-ipdatetime"> 05/17 11:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fit8590</span><span class="f3 push-content">: 有一種沒錢玩，去錢莊借錢來玩啊 的感覺</span><span class="push-ipdatetime"> 05/17 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jevoling</span><span class="f3 push-content">: 這裡有批牛肉好便宜啊，有需要打這支電話</span><span class="push-ipdatetime"> 05/17 11:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hamasakiayu</span><span class="f3 push-content">: 年輕人，你不覺得腎有兩顆很多餘嗎？</span><span class="push-ipdatetime"> 05/17 11:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fjuting</span><span class="f3 push-content">: 真的幹話王，你他媽的台灣期貨黑到靠腰你叫年輕人玩</span><span class="push-ipdatetime"> 05/17 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aussielover</span><span class="f3 push-content">: 原來是金正恩啊 還以為是肥宅</span><span class="push-ipdatetime"> 05/17 11:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BAR21</span><span class="f3 push-content">: 老人閉嘴乖乖曬太陽</span><span class="push-ipdatetime"> 05/17 11:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">armygame</span><span class="f3 push-content">: 靠北 這是想要趕盡殺絕喔，活下來的人就贏了</span><span class="push-ipdatetime"> 05/17 11:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jonwei</span><span class="f3 push-content">: 期貨門檻低...但是死得更快啊啊！</span><span class="push-ipdatetime"> 05/17 11:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j53815102</span><span class="f3 push-content">: 幹你娘這在共殺小 期你啊罵啦</span><span class="push-ipdatetime"> 05/17 11:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yutakasnow</span><span class="f3 push-content">: 老人以為大環境都沒改變</span><span class="push-ipdatetime"> 05/17 11:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jk01</span><span class="f3 push-content">: 選擇權嘞</span><span class="push-ipdatetime"> 05/17 11:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiyobu</span><span class="f3 push-content">: 跳下去轉生到異世界的門檻比較低</span><span class="push-ipdatetime"> 05/17 11:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dinel7821967</span><span class="f3 push-content">: 沒人可以坑殺了 快進來拜託球球泥</span><span class="push-ipdatetime"> 05/17 11:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">des1267</span><span class="f3 push-content">: 坑殺完中年人換坑殺年輕人 吃人不吐骨的畜生</span><span class="push-ipdatetime"> 05/17 11:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">THBouz</span><span class="f3 push-content">: 幹話連篇，94狂</span><span class="push-ipdatetime"> 05/17 11:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fishfi</span><span class="f3 push-content">: 玩你媽</span><span class="push-ipdatetime"> 05/17 11:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aalex1112</span><span class="f3 push-content">: 期貨遇到國際大盤的小震盪</span><span class="push-ipdatetime"> 05/17 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aalex1112</span><span class="f3 push-content">: 補不到點就炸了這時你的人生就整褲屎了賣腎都不夠陪</span><span class="push-ipdatetime"> 05/17 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SeTeVen</span><span class="f3 push-content">: 噁心的腦殘垃圾話</span><span class="push-ipdatetime"> 05/17 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 期貨不會玩不要碰 很容易自殺的</span><span class="push-ipdatetime"> 05/17 11:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gairion</span><span class="f3 push-content">: 這席話簡直是恐怖攻擊</span><span class="push-ipdatetime"> 05/17 11:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ytkuang</span><span class="f3 push-content">: 狂新聞有超越第一名的實力  簡直就是超越蔣幹畫的人</span><span class="push-ipdatetime"> 05/17 11:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f8954017</span><span class="f3 push-content">: 去澳門賭還比較有機會賺</span><span class="push-ipdatetime"> 05/17 11:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">div8125</span><span class="f3 push-content">: 工幹話</span><span class="push-ipdatetime"> 05/17 11:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dragoni</span><span class="f3 push-content">: 笑惹 XD</span><span class="push-ipdatetime"> 05/17 11:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HCG10G8bear</span><span class="f3 push-content">: 垃圾政府</span><span class="push-ipdatetime"> 05/17 11:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank11235813</span><span class="f3 push-content">: 何不食肉糜</span><span class="push-ipdatetime"> 05/17 11:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aalex1112</span><span class="f3 push-content">: 樓樓樓樓上  會玩的只是會叫你集資讓他操作補點  然後</span><span class="push-ipdatetime"> 05/17 11:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aalex1112</span><span class="f3 push-content">: 他一毛都不用付 這就是台灣的期貨商  很黑的</span><span class="push-ipdatetime"> 05/17 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">selfhu</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/17 11:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">versace</span><span class="f3 push-content">: 玩不起股票，玩期貨？！這是說買不起腳踏車買保時捷的概</span><span class="push-ipdatetime"> 05/17 11:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">versace</span><span class="f3 push-content">: 念嗎？XD</span><span class="push-ipdatetime"> 05/17 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yukinoba</span><span class="f3 push-content">: 翻譯：大魚跟內線表示散戶小魚不夠吃了，我還很餓啊～</span><span class="push-ipdatetime"> 05/17 11:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImMACACO</span><span class="f3 push-content">: 真的是奇文共賞  這群老人就是國家亂源</span><span class="push-ipdatetime"> 05/17 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">luckymore</span><span class="f3 push-content">: 幹話講一句不夠可以講第二句</span><span class="push-ipdatetime"> 05/17 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackaLMeI</span><span class="f3 push-content">: 老人蔣幹化</span><span class="push-ipdatetime"> 05/17 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zenuo</span><span class="f3 push-content">: 沒散戶坑 開始抱怨了</span><span class="push-ipdatetime"> 05/17 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daviddwlee84</span><span class="f3 push-content">: 吃不起麥當勞可以吃王品啊^^</span><span class="push-ipdatetime"> 05/17 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Eric0204</span><span class="f3 push-content">: 老人：請給我黃金</span><span class="push-ipdatetime"> 05/17 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uafone</span><span class="f3 push-content">: 之前不是版上有人百萬存款玩期貨還是權指 一不小心賠光</span><span class="push-ipdatetime"> 05/17 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zenuo</span><span class="f3 push-content">: 應該這樣比喻買不起汽車 你可以買機票當交通工具</span><span class="push-ipdatetime"> 05/17 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeldo</span><span class="f3 push-content">: 期貨耶，有病是不是？</span><span class="push-ipdatetime"> 05/17 11:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hankQuQ</span><span class="f3 push-content">: 外豬下不了車 年輕人幫幫忙</span><span class="push-ipdatetime"> 05/17 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Captain5566</span><span class="f3 push-content">: 馬總統任內還可能賺錢 現在根本別想..</span><span class="push-ipdatetime"> 05/17 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kennetharies</span><span class="f3 push-content">: 路有凍死股啊大哥～</span><span class="push-ipdatetime"> 05/17 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">susuqi</span><span class="f3 push-content">: 期貨 哈哈哈哈 幹 趕盡殺絕耶</span><span class="push-ipdatetime"> 05/17 11:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chanollili</span><span class="f3 push-content">: 金管會全名是啥該做的不做只會講幹話</span><span class="push-ipdatetime"> 05/17 11:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlueString</span><span class="f3 push-content">: 有錢老頭去買比特幣啊  或是花100萬來買我家的貓大便</span><span class="push-ipdatetime"> 05/17 11:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudpart2</span><span class="f3 push-content">: 叫那些既得利益者把錢吐出來！</span><span class="push-ipdatetime"> 05/17 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Usos5566</span><span class="f3 push-content">: 一群有錢有閒老廢物，整天講幹話剝削年輕人，操</span><span class="push-ipdatetime"> 05/17 11:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DUKEYANG</span><span class="f3 push-content">: 買不起房子  至少可以買車啊  吃不起王品  可以吃陶板屋</span><span class="push-ipdatetime"> 05/17 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DUKEYANG</span><span class="f3 push-content">: 什麼  你連陶板屋也吃不起  可以吃石二鍋啊</span><span class="push-ipdatetime"> 05/17 11:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gundam0613</span><span class="f3 push-content">: 期權市場一百個只有一個獲利</span><span class="push-ipdatetime"> 05/17 11:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DUKEYANG</span><span class="f3 push-content">: 如果石二鍋也吃不起  那就去益品書店喝飲料打卡裝潮啊</span><span class="push-ipdatetime"> 05/17 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DUKEYANG</span><span class="f3 push-content">: 你說啥  連100元的書店都沒錢進場  不會跟爸媽借錢嗎</span><span class="push-ipdatetime"> 05/17 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p123yt</span><span class="f3 push-content">: 一堆噁心老人</span><span class="push-ipdatetime"> 05/17 11:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">matlab1106</span><span class="f3 push-content">: 現在利息那麼低 可以融資阿</span><span class="push-ipdatetime"> 05/17 12:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ararthur</span><span class="f3 push-content">: XDDDD</span><span class="push-ipdatetime"> 05/17 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TMG5566</span><span class="f3 push-content">: 如果他是我爸，我賠錢他來頂，我一定立刻全職玩</span><span class="push-ipdatetime"> 05/17 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack0216</span><span class="f3 push-content">: 幹你娘到底在幹嘛</span><span class="push-ipdatetime"> 05/17 12:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzziii</span><span class="f3 push-content">: ……</span><span class="push-ipdatetime"> 05/17 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TMG5566</span><span class="f3 push-content">: 以前我家還是貧戶的時候，我的指導老師和我說：人讀書，</span><span class="push-ipdatetime"> 05/17 12:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 這混蛋應該立即解職 蔡政府真誇張 用這種放任金融秩序亂的</span><span class="push-ipdatetime"> 05/17 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TMG5566</span><span class="f3 push-content">: 頭腦也要跟著靈活點，你沒錢出國留學，可以跟你爸媽借錢</span><span class="push-ipdatetime"> 05/17 12:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kc</span><span class="f3 push-content">: 噁心死了一堆廢物老人</span><span class="push-ipdatetime"> 05/17 12:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TMG5566</span><span class="f3 push-content">: 你爸媽沒錢，可以和你其他親戚借啊 你腦筋真死板^.&lt;*</span><span class="push-ipdatetime"> 05/17 12:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">idlewolf</span><span class="f3 push-content">: 沒人想買股票...所以叫人買期貨??? 這個還不開除嗎...</span><span class="push-ipdatetime"> 05/17 12:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TMG5566</span><span class="f3 push-content">: 「年輕人要懂得低頭，跟爸媽借個幾十萬並不丟臉」</span><span class="push-ipdatetime"> 05/17 12:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TMG5566</span><span class="f3 push-content">: 「要懂得活用人脈，你同學XX創業的200萬就是和爺爺借的」</span><span class="push-ipdatetime"> 05/17 12:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hmcedamon</span><span class="f3 push-content">: 開除誰  酸民想開除群益老董XDDDDD</span><span class="push-ipdatetime"> 05/17 12:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">applejone</span><span class="f3 push-content">: ......</span><span class="push-ipdatetime"> 05/17 12:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sazdj</span><span class="f3 push-content">: 買期貨跟股票根本垃圾 對國家有幫助的投資是消費和科技研發</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sazdj</span><span class="f3 push-content">: 好嘛</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yukinoba</span><span class="f3 push-content">: to TMG5566, 借錢讀書跟借錢創業是一回事，借錢餵鯊魚就</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nicehb</span><span class="f3 push-content">: 題外問一下 買0050算買股票嗎?</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukinoba</span><span class="f3 push-content">: 以前台灣金融沒那麼多鯊魚，而且大家都吃得飽，和平相處</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukinoba</span><span class="f3 push-content">: 現在的生態圈根本就只剩下大欺小、少欺多、詐術橫行</span><span class="push-ipdatetime"> 05/17 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 何不食肉糜</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukinoba</span><span class="f3 push-content">: 買這些東西就只是在比誰情報多誰就贏而已，玩得過內線嗎</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">azcooper</span><span class="f3 push-content">: 他是要年輕人人生從來，下輩子記得投靠到連家</span><span class="push-ipdatetime"> 05/17 12:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yukinoba</span><span class="f3 push-content">: 金管會還是先想想怎麼解決以前那些大條經濟犯的問題吧</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dos1019</span><span class="f3 push-content">: 新版何不食肉糜 厲害</span><span class="push-ipdatetime"> 05/17 12:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">taidocky</span><span class="f3 push-content">: 再吵下去年輕人只能買碳了啦</span><span class="push-ipdatetime"> 05/17 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alan0204</span><span class="f3 push-content">: 選出這種官 叫智力測驗過關XD</span><span class="push-ipdatetime"> 05/17 12:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tinlans</span><span class="f3 push-content">: 下一篇，不如上澳門神話大賭場賭博</span><span class="push-ipdatetime"> 05/17 12:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 孫天山講那什麼鬼話，期貨比股票風險還大</span><span class="push-ipdatetime"> 05/17 12:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 幹恁娘 媽的垃圾 鼓勵年輕人都去玩期貨 幹嘛不開賭場算了</span><span class="push-ipdatetime"> 05/17 12:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuki2474</span><span class="f3 push-content">: 薪資低落玩你媽雞巴毛啊</span><span class="push-ipdatetime"> 05/17 12:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tony20095</span><span class="f3 push-content">: 不想跳樓？可以改燒炭啊～真是草莓</span><span class="push-ipdatetime"> 05/17 12:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fifi0828</span><span class="f3 push-content">: 嫌股票輸得不夠快你可以考慮期貨XD</span><span class="push-ipdatetime"> 05/17 12:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king22649</span><span class="f3 push-content">: 看來政府是嫌台灣自殺率太低了xddddddddd</span><span class="push-ipdatetime"> 05/17 12:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">charmingpink</span><span class="f3 push-content">: 期貨超可怕</span><span class="push-ipdatetime"> 05/17 12:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fujimoto</span><span class="f3 push-content">: 超白痴</span><span class="push-ipdatetime"> 05/17 12:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twen215</span><span class="f3 push-content">: 玩期貨?想害死人也不是這樣</span><span class="push-ipdatetime"> 05/17 12:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">camellia250</span><span class="f3 push-content">: 那麼好賺自己悶聲賺豈不美滋滋 講出來擺明就是要坑</span><span class="push-ipdatetime"> 05/17 12:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coolda</span><span class="f3 push-content">: 退休金一堆死抱不動產不處理 找年輕人要錢 呵呵</span><span class="push-ipdatetime"> 05/17 12:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex9708hero</span><span class="f3 push-content">: 這發言...</span><span class="push-ipdatetime"> 05/17 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chasegirl</span><span class="f3 push-content">: 傻眼 這金管會到底想讓年輕人死還活</span><span class="push-ipdatetime"> 05/17 13:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">K0F</span><span class="f3 push-content">: 不要啊～這樣太危險~~~</span><span class="push-ipdatetime"> 05/17 13:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 翻譯: 年輕人玩股票, 政府才能再剝一層皮下來</span><span class="push-ipdatetime"> 05/17 13:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 現階段只要知道這個政府想要錢時第一個都先想到死老百姓</span><span class="push-ipdatetime"> 05/17 13:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laechan</span><span class="f3 push-content">: 就會知道他的任何發言或政策,大多都不脫離這個中心本質</span><span class="push-ipdatetime"> 05/17 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">askatow</span><span class="f3 push-content">: 投資市場破產三部曲，股票&gt;期貨&gt;選擇權</span><span class="push-ipdatetime"> 05/17 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">murosaora</span><span class="f3 push-content">: 老人要倒貨 沒年輕人接 森氣氣了</span><span class="push-ipdatetime"> 05/17 13:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: 鄭：年輕人快進場當替死鬼</span><span class="push-ipdatetime"> 05/17 13:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">carlos159357</span><span class="f3 push-content">: @@”？！黑人問號，期貨死人就一眨眼，一個要年輕人</span><span class="push-ipdatetime"> 05/17 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">carlos159357</span><span class="f3 push-content">: 死得乾脆一點的概念？！</span><span class="push-ipdatetime"> 05/17 13:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">N48212</span><span class="f3 push-content">: 玩死你</span><span class="push-ipdatetime"> 05/17 13:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkyIsCat</span><span class="f3 push-content">: 老人:反正年輕人錢再賺就有辣</span><span class="push-ipdatetime"> 05/17 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GGylin</span><span class="f3 push-content">: 投資公司有分析數據 想從他們手中賺錢？不如拿去投角子老</span><span class="push-ipdatetime"> 05/17 13:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GGylin</span><span class="f3 push-content">: 虎</span><span class="push-ipdatetime"> 05/17 13:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peiring</span><span class="f3 push-content">: 新手不要玩期貨、不要玩融資</span><span class="push-ipdatetime"> 05/17 13:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cloudpart2</span><span class="f3 push-content">: 翻譯：台灣年輕人太多了，要想辦法讓他們自殺，我們老</span><span class="push-ipdatetime"> 05/17 13:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudpart2</span><span class="f3 push-content">: 人才能繼續統治台灣</span><span class="push-ipdatetime"> 05/17 13:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rukawajay</span><span class="f3 push-content">: 你知道有個東西叫做倖存者偏差嗎?</span><span class="push-ipdatetime"> 05/17 13:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">antiyahoo</span><span class="f3 push-content">: 我幹破牠們老母的爛臭機掰</span><span class="push-ipdatetime"> 05/17 13:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">icps</span><span class="f3 push-content">: 那我還寧願半年買一張樂透</span><span class="push-ipdatetime"> 05/17 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alonso110</span><span class="f3 push-content">: 生意人不意外</span><span class="push-ipdatetime"> 05/17 13:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gghost1002</span><span class="f3 push-content">: 幹你娘能撈就撈</span><span class="push-ipdatetime"> 05/17 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 文組治國 天崩地裂 財經肯定文組</span><span class="push-ipdatetime"> 05/17 13:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeh0416</span><span class="f3 push-content">: 可是年輕人死光對他們沒好處吧? 以後沒人養他們</span><span class="push-ipdatetime"> 05/17 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">christos1989</span><span class="f3 push-content">: 加速鬼島青年online登出率也不錯</span><span class="push-ipdatetime"> 05/17 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anutnut</span><span class="f3 push-content">: 這些人到底有什麼實質生產力，幹</span><span class="push-ipdatetime"> 05/17 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NewPassat</span><span class="f3 push-content">: 滿18就趕快玩當沖，贏了拿一桶金繼續挑戰，輸了趕緊燒</span><span class="push-ipdatetime"> 05/17 14:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">NewPassat</span><span class="f3 push-content">: 炭再等18年！</span><span class="push-ipdatetime"> 05/17 14:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">owLyc</span><span class="f3 push-content">: 期貨風險更高...</span><span class="push-ipdatetime"> 05/17 14:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a0913</span><span class="f3 push-content">: 幹 我就是買到樂陞</span><span class="push-ipdatetime"> 05/17 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ly1752</span><span class="f3 push-content">: 他們那群垃圾才不會在意你年輕人死活</span><span class="push-ipdatetime"> 05/17 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">reaturn</span><span class="f3 push-content">: 不是富二代玩個屁…</span><span class="push-ipdatetime"> 05/17 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">palina</span><span class="f3 push-content">: 還沒七月就想抓交替？</span><span class="push-ipdatetime"> 05/17 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">uno48</span><span class="f3 push-content">: 這發言真的很沒肩膀</span><span class="push-ipdatetime"> 05/17 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">umano</span><span class="f3 push-content">: 玩啊 玩啊$$$$$$$$$$$$$$$$$$$$$$$</span><span class="push-ipdatetime"> 05/17 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f8954017</span><span class="f3 push-content">: 就嫌吸血太慢，鼓勵自殺，撿屍比較快</span><span class="push-ipdatetime"> 05/17 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wutumi</span><span class="f3 push-content">: 一個現在衝首抽，下一輪等18年的概念…</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d55032574</span><span class="f3 push-content">: 玩不起期貨再玩選擇權啊</span><span class="push-ipdatetime"> 05/17 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Balthier</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 05/17 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 捷運還大打權證廣告 :D</span><span class="push-ipdatetime"> 05/17 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">o760823</span><span class="f3 push-content">: 這種官員...</span><span class="push-ipdatetime"> 05/17 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lolicone</span><span class="f3 push-content">: 嫌年輕人這樣那樣 馬的什麼都怪年輕人自己都不反省留了</span><span class="push-ipdatetime"> 05/17 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lolicone</span><span class="f3 push-content">: 什麼東西給年輕人  說幹話最會</span><span class="push-ipdatetime"> 05/17 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zillzill</span><span class="f3 push-content">: 真的是講屁話想害人死</span><span class="push-ipdatetime"> 05/17 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sspider0829</span><span class="f3 push-content">: 錢在哪  賠了你要付嗎  乾話說一堆</span><span class="push-ipdatetime"> 05/17 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orzorza3r</span><span class="f3 push-content">: 呵呵 我買機票去國外合法賭場搞不好還比較有機會賺</span><span class="push-ipdatetime"> 05/17 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DAPHNEWAN</span><span class="f3 push-content">: 爛透了！</span><span class="push-ipdatetime"> 05/17 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sousake</span><span class="f3 push-content">: 幹妳娘財經幫</span><span class="push-ipdatetime"> 05/17 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tenshouw</span><span class="f3 push-content">: 偉哉英文</span><span class="push-ipdatetime"> 05/17 16:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z3728</span><span class="f3 push-content">: 想玩期貨，可以先試試看選擇權，老是看歪方向的就買現貨啦</span><span class="push-ipdatetime"> 05/17 16:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mixegg</span><span class="f3 push-content">: 害人精</span><span class="push-ipdatetime"> 05/17 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gihunter</span><span class="f3 push-content">: 期貨風險不是比股票還高嗎</span><span class="push-ipdatetime"> 05/17 17:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyexers</span><span class="f3 push-content">: 垃圾政府一直想誘姦人民的財產</span><span class="push-ipdatetime"> 05/17 18:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallter</span><span class="f3 push-content">: 金管會真的沒救了，都出這種垃圾</span><span class="push-ipdatetime"> 05/17 18:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">capcombio</span><span class="f3 push-content">: 期貨死更快</span><span class="push-ipdatetime"> 05/17 18:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TysonRoss</span><span class="f3 push-content">: 不如買份保險 受益人寫父母 然後去死</span><span class="push-ipdatetime"> 05/17 19:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">doranako</span><span class="f3 push-content">: 期貨風險高槓桿率大</span><span class="push-ipdatetime"> 05/17 19:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Becuzlove</span><span class="f3 push-content">: 他們身上一定有屎</span><span class="push-ipdatetime"> 05/17 19:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vast</span><span class="f3 push-content">: 他講的是股票期貨 跟股票連動的 有上下限 保證金是股票13.5%</span><span class="push-ipdatetime"> 05/17 20:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nyctifalcon</span><span class="f3 push-content">: 買期貨這屁話都說出來了</span><span class="push-ipdatetime"> 05/17 20:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nasvacta</span><span class="f3 push-content">: 年輕人不爭氣</span><span class="push-ipdatetime"> 05/17 20:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akay08</span><span class="f3 push-content">: 垃圾老人</span><span class="push-ipdatetime"> 05/17 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jason613</span><span class="f3 push-content">: 散戶賠光了找新的死散戶</span><span class="push-ipdatetime"> 05/17 23:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soyjay</span><span class="f3 push-content">: 幹我居然投給這種白痴政府 真是造孽啊造孽</span><span class="push-ipdatetime"> 05/18 00:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyjay</span><span class="f3 push-content">: 我還以為曾銘X是拉激 結果這個講屁話更拉激</span><span class="push-ipdatetime"> 05/18 00:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">brownbear</span><span class="f3 push-content">: 這些老人不如閉嘴</span><span class="push-ipdatetime"> 05/18 03:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JQK2</span><span class="f3 push-content">: 期貨更恐怖XDDDDD</span><span class="push-ipdatetime"> 05/18 03:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JQK2</span><span class="f3 push-content">: 期貨這種一輸可能會跑路的標的都敢說orz</span><span class="push-ipdatetime"> 05/18 03:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">C8C8DHC</span><span class="f3 push-content">: 什麼東西嘛！</span><span class="push-ipdatetime"> 05/18 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">C8C8DHC</span><span class="f3 push-content">: 機八的壞心老人可以快去ㄊㄧㄠˋㄌㄡ嗎？</span><span class="push-ipdatetime"> 05/18 09:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adifdtd</span><span class="f3 push-content">: 明天就會變選擇權，要你押身家</span><span class="push-ipdatetime"> 05/18 10:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Fuuka</span><span class="f3 push-content">: 腦子是很好的東西，我希望每個人都有一個</span><span class="push-ipdatetime"> 05/18 12:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cvnn</span><span class="f3 push-content">: 好像一定贏的概念 輸家超過9成耶</span><span class="push-ipdatetime"> 05/18 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">max5566</span><span class="f3 push-content">: 幹 一堆在上位的吸血鬼 引人入坑</span><span class="push-ipdatetime"> 05/19 00:22
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494987288.A.1DF.html?cacheKey=2052-49327647&offset=34006&offset-sig=a39b911bdf3f5703e319b96a53433bb95ac8723d" data-longpollurl="/v1/longpoll?id=c55c6c9198a22a7eb9a2e23fdd617fa3ab8a39d0" data-offset="34006"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

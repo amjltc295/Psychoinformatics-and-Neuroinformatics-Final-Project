@@ -1,0 +1,384 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496384650.A.73C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[公告] 水桶 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="06/02/2017 14:07:48 IbakaBlock 暫停 smith56 發言，期限為 7 天
+  理由: 板規十四，多篇與文章無關之推文，第一次警告
+06/02/2017 14:12:21 IbakaBlock 暫停 mywu06413 發言，期限為 14 天
+  理由: 板規三，中港澳新聞
+06/02/2017 14:15:54 IbakaBlock 暫停 Zphoenix 發言，期限為 90 天
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[公告] 水桶">
+<meta property="og:description" content="06/02/2017 14:07:48 IbakaBlock 暫停 smith56 發言，期限為 7 天
+  理由: 板規十四，多篇與文章無關之推文，第一次警告
+06/02/2017 14:12:21 IbakaBlock 暫停 mywu06413 發言，期限為 14 天
+  理由: 板規三，中港澳新聞
+06/02/2017 14:15:54 IbakaBlock 暫停 Zphoenix 發言，期限為 90 天
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496384650.A.73C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496384650.A.73C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">IbakaBlock (肛甲集團首腦)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[公告] 水桶</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 14:24:07 2017</span></div>
+<span class="hl">06/02/2017 14:07:48 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">smith56 </span>發言，期限為 7 天
+  理由: 板規十四，多篇與文章無關之推文，第一次警告
+<span class="hl">06/02/2017 14:12:21 </span><span class="f3 hl">IbakaBlock</span> 暫停 <span class="f1 hl">mywu06413 </span>發言，期限為 14 天
+  理由: 板規三，中港澳新聞
+<span class="hl">06/02/2017 14:15:54 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">Zphoenix </span>發言，期限為 90 天
+  理由: 板規四，政治問卦
+<span class="hl">06/02/2017 14:17:54 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">a055035 </span>發言，期限為 7 天
+  理由: 板規九，未滿二十繁體中文字鬧板，警告一次
+<span class="hl">06/02/2017 14:19:10 </span><span class="f3 hl">IbakaBlock</span> 暫停 <span class="f1 hl">alanchi</span> 發言，期限為 90 天
+  理由: 板規四，政治問卦
+<span class="hl">06/02/2017 14:20:27 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">HMTking </span>發言，期限為 90 天
+  理由: 板規四，政治問卦
+<span class="hl">06/02/2017 14:23:12 </span><span class="f3 hl">IbakaBlock </span>暫停 <span class="f1 hl">DA5566 </span>發言，期限為 90 天
+  理由: 板規四，政治問卦
+
+
+smith56 板規十四，單篇多次或多篇與文章無關之推/噓文/→，第一次警告，水桶7日
+
+
+<a href="/bbs/Gossiping/M.1496224247.A.2F9.html" target="_blank" rel="nofollow">#1PBf7tBv (Gossiping)</a>
+
+<a href="/bbs/Gossiping/M.1496224308.A.B61.html" target="_blank" rel="nofollow">#1PBf8qjX (Gossiping)</a>
+
+<a href="/bbs/Gossiping/M.1496224385.A.6A6.html" target="_blank" rel="nofollow">#1PBfA1Qc (Gossiping)</a>
+
+族繁不及備載......
+
+
+mywu06413 板規三，中港澳新聞，水桶14日、原文刪除
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> mywu06413 (快爆王)                                    </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [新聞] 蔡錦隆：國民黨別落到民眾不諒解、陸不信                          </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Thu Jun  1 11:06:23 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+1.媒體來源:
+中評社台中6月1日電（記者　林谷隆）
+
+2.完整新聞標題:
+蔡錦隆：國民黨別落到民眾不諒解、陸不信任
+
+3.完整新聞內文:
+前國民黨台中市黨部主委、前國民黨“立委”蔡錦隆接受中評社訪問表示，吳敦義想穩住
+藍軍氣勢跟團結，就必須從中間路線出發。吳掌國民黨的難題，也包括兩岸關係，大陸的
+態度是沒有九二共識兩岸也不用談，吳如果沒有掌握兩岸互動的核心價值、國民黨如果沒
+把方向路線弄清楚，最終可能會走回到民眾不諒解，大陸不信任的情境，這都是需要認真
+看待。
+
+　　蔡錦隆，1958年生，曾連任三屆“立委”、三屆國民黨中常委、國民黨“立法院”黨
+團書記長、國民黨台中市黨部主委、台中市議員暨黨團副書記長等職。2015年公開支持力
+拼“破磚條款”的洪秀柱代表國民黨參與2016大選，被視為是挺柱大將，12月13日請辭國
+民黨台中市黨部主委，宣布角逐2018台中市長。
+
+　　對於最近黨主席選後吳系與洪系角力狀況，為何吳要提早接任黨主席？蔡錦隆表示，
+洪秀柱為何不想要提早交棒，就是為了捍衛中央委員的提名權。相同的道理，吳敦義想提
+早交接，目的也是為了提早控制黨的機器，但是按國民黨的黨章規定，原本就是黨主席改
+選後的三個月才能舉行“全國”黨代表大會，所以制度上是洪秀柱站得住腳。
+
+　　蔡錦隆提到，但因為吳敦義大獲全勝，吳陣營也找到一個條例，來要求黨主席提早交
+接，但是新的黨代表尚未就職，黨中央卻有新主席，就會變成一種羅生門的感覺。這也代
+表吳敦義當選後，國民黨還是沒有整合好，新的黨主席黨選後，第一要務應該先整合黨內
+的山頭，而不是先到各地慶功。
+
+　　至於吳敦義陣營與洪秀柱領導的黨中央在選後還是角力不斷，未來吳擔任黨主席後，
+挺洪陣營是否會出走？
+
+　　蔡錦隆回答，國民黨沒有“全國性”的次團，只有各縣市的地方派系，所以黨主席選
+舉糾紛還不足以會造成黨分裂，尤其看到民進黨執政一直爛下去，藍軍期待國民黨有整合
+的力量，這是不允許分裂的氛圍。
+
+　　吳敦義主席上任應該要整合各派系，特別是挺洪這一派，應該利用黨主席改選後、新
+主席上任前來彌補過去選舉時還沒彌補的誤會，吳敦義必須要深入跟洪秀柱溝通，但是顯
+然現在兩個陣營都為了接下來中央委員、中常委的佈局僵持不下。
+
+蔡錦隆告訴中評社，如果吳陣營一直堅持吳敦義是新的黨主席，洪陣營如果還是堅持制度
+，雙方陣營等同就是僵持在那裡，國民黨是要停擺多久。既然吳敦義已經當選，就不需要
+在中常會發動挺吳中常委逼宮，才能讓支持者冷靜下來，勝利者如果“整碗都端過去，連
+湯都不留”，這會影響基層對黨中央的觀感。
+
+　　蔡錦隆建議，按黨章規定下一屆的中央委員，現任黨主席可以提滿220名，吳敦義跟
+洪秀柱應該是可以溝通，不能因為提名問題，讓藍軍對新的黨主席產生不確定感，5月31
+日停開中常會就有這種疑慮，基層都在傳是贏的人要在中常會逼宮，要讓現任者的難堪，
+這是黨內第一大難題。
+
+　　吳敦義強調，上任最難處理的課題，還包括兩岸關係，如果吳還是用沿用馬英九那一
+套，2014、2016兩次選舉已經擺明走不通，這麼多民眾出來開罵，很值得我們思索國民黨
+未來要如何跟大陸互動。
+
+　　吳敦義向中評社說，兩岸現在是處於冷對峙，大陸對於民進黨不接觸也不理會，對於
+國民黨也是在觀察，如果國民黨還是扶不起的阿斗，國民黨也不用想要在兩岸關係獲得利
+多，因為大陸看台灣已經是不足為懼，光是大陸不理台灣，台灣社會都快受不了。
+
+　　至於吳敦義執掌國民黨後是否會走本土化路線。吳敦義認為，如果吳敦義要穩住藍軍
+的是氣勢跟團結，必須從中間路線出發，這是可以預期，大陸會理解台灣社會的變化，應
+該也會很清楚唯有國民黨才能推動兩岸關係發展，因為民進黨蔡政府未來執政期間，還是
+會擁抱“台獨”來灌輸天然獨的概念，所以必須要靠國民黨也要承擔台灣的社會輿論導正
+工作。
+
+4.完整新聞連結 (或短網址):
+<a href="https://goo.gl/VImvzp" target="_blank" rel="nofollow">https://goo.gl/VImvzp</a>
+<a href="http://hkpic.crntt.com/upload/201705/31/104698684.jpg" target="_blank" rel="nofollow">http://hkpic.crntt.com/upload/201705/31/104698684.jpg</a>
+<div class="richcontent"><img src="http://hkpic.crntt.com/upload/201705/31/104698684.jpg" alt="" /></div><a href="http://hkpic.crntt.com/upload/201705/31/104698686.jpg" target="_blank" rel="nofollow">http://hkpic.crntt.com/upload/201705/31/104698686.jpg</a>
+<div class="richcontent"><img src="http://hkpic.crntt.com/upload/201705/31/104698686.jpg" alt="" /></div>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.46.140.251</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1496286387.A.594.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1496286387.A.594.html</span></a>
+
+
+Zphoenix 板規四，政治問卦，水桶3個月、原文刪除
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> Zphoenix (細雨雙羊湖)                                 </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 淹水成這樣 柯P還要選嗎?                                         </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Fri Jun  2 12:17:00 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+
+最近各大媒體都在報導花蓮王要上洛的消息，
+反觀柯P民調倒數第2，老百姓水深火熱，
+整個淡水都跑在水裡變泥水了
+
+板上的柯粉這種情況還有辦法護航下去嗎?
+
+-----
+Sent from JPTT on my Asus ASUS_Z00ED.
+
+--
+
+  「<span class="b4">ご</span><span class="hl">めん､</span><span class="f5 hl">ユ</span><span class="f0 b5">リ</span><span class="f5 hl">カ｡</span>
+<span class="f5 hl">           </span><span class="hl">ご</span><span class="f6 b4 hl">め</span>ん､<span class="f6 hl">ルリル</span><span class="f0 b6">リ</span><span class="f6 hl">｡</span>
+<span class="f6 hl">                  </span>ごめ<span class="f5 b4 hl">ん</span><span class="f0 hl">､</span><span class="f1">みんな</span><span class="f0 b1">…</span><span class="f1">…」</span>
+
+                        <span class="f1 b1 hl">《</span><span class="f0 b1 hl">アキ</span>ト<span class="hl">、還ら</span><span class="f0 b1 hl">ず</span><span class="f1 b1 hl">》</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.160.164.58</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1496377025.A.AAD.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1496377025.A.AAD.html</span></a>
+
+
+a055035 板規九，未滿二十繁體中文字鬧板，警告一次，水桶7日
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> a055035 (tomato)                                      </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 受困在學校該怎麼辦？                                            </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Fri Jun  2 12:44:32 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+瑞芳火車停駛，回家的路全淹水
+該怎麼辦？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.204.195.36</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1496378675.A.200.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1496378675.A.200.html</span></a>
+
+
+alanchi 板規四，政治問卦，水桶3個月、原文刪除
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> alanchi (alan)                                        </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 台北市排水系統                                                  </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Fri Jun  2 13:00:50 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+台北市不能停班停課的元兇
+是不是因為排水系統太好了？
+我真後悔當初投柯P
+雖然我還不能投票
+
+有沒有柯市長的八卦？
+<a href="http://i.imgur.com/2kum4CU.jpg" target="_blank" rel="nofollow">http://i.imgur.com/2kum4CU.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="2kum4CU"><a href="//imgur.com/2kum4CU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.214.49.114</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1496379653.A.99C.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1496379653.A.99C.html</span></a>
+
+
+HMTking 板規四，政治問卦，水桶3個月
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> HMTking ()                                            </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 新北暴雨 市長人呢？                                             </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Fri Jun  2 13:24:52 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+
+
+   新北暴雨 災情慘重
+
+   新北市長侯友宜人在哪呢？
+
+   不用出來負責嗎？
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.115.131.217</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1496381095.A.5DB.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1496381095.A.5DB.html</span></a>
+
+
+DA5566 板規四，政治問卦，水桶3個月、原文刪除
+
+
+<span class="f4 b7"> 作者 </span><span class="b4"> DA5566 (打5566)                                       </span><span class="f4 b7"> 看板 </span><span class="b4"> Gossiping </span>
+<span class="f4 b7"> 標題 </span><span class="b4"> [問卦] 如果今天台北市長是連勝文                                        </span>
+<span class="f4 b7"> 時間 </span><span class="b4"> Thu Jun  1 10:03:36 2017                                               </span>
+<span class="f6">───────────────────────────────────────</span>
+
+
+各位30mm的蛇蛇們早安
+
+阿肥我啊 早上通勤經過劍潭站看到那顆破球的時候靈光一現
+
+如果是我國民救星且一身皺褶的勝文哥哥當選台北市長的話
+
+台北市又會有什麼不同ㄋ?
+
+
+1.
+首先! 他絕不會放任理成營造惡性倒閉讓北藝中心到現在都蓋不出來der
+
+預算要多少有多少~ 蓋的人開心~ 大家都有錢分開心~ 我們政府很有錢嘛
+
+蓋出來北藝中心一年內別塌掉就好
+
+
+2.
+再來 為了台灣未來有一個屬於自己室內棒球場(ㄧㄢˇㄔㄤˋㄏㄨㄟˋ)的大巨蛋~
+
+球場標準不合格又怎樣? 逃生出口不夠又怎樣? 蓋得像馬桶又怎麼樣?
+
+一定會跟大雄好好一起為了台北市建設而努力蓋好的
+
+3.
+還有什麼幫忙想一下啊
+
+
+--
+
+有八卦ㄇ?
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.24.20.53</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1496282621.A.984.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1496282621.A.984.html</span></a>
+
+--
+<a href="http://i.imgur.com/0f0aWOv.png" target="_blank" rel="nofollow">http://i.imgur.com/0f0aWOv.png</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0f0aWOv"><a href="//imgur.com/0f0aWOv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.22.61
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496384650.A.73C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496384650.A.73C.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #給我錢</span><span class="push-ipdatetime"> 06/02 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">henry3744</span><span class="f3 push-content">: 錢</span><span class="push-ipdatetime"> 06/02 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SkySwimmer</span><span class="f3 push-content">: 錢</span><span class="push-ipdatetime"> 06/02 14:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happy27727</span><span class="f3 push-content">: money</span><span class="push-ipdatetime"> 06/02 14:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MORIH</span><span class="f3 push-content">: 自殺潮</span><span class="push-ipdatetime"> 06/02 14:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neverfor</span><span class="f3 push-content">: #$$$$$</span><span class="push-ipdatetime"> 06/02 14:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxasqw0246</span><span class="f3 push-content">: 下雨天 大家都憂鬱的自殺了</span><span class="push-ipdatetime"> 06/02 14:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tamama000</span><span class="f3 push-content">: 我要下雨天的顏色</span><span class="push-ipdatetime"> 06/02 14:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: smith56不只一次了吧</span><span class="push-ipdatetime"> 06/02 14:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IbakaBlock</span><span class="f3 push-content">: 之前是smith5566</span><span class="push-ipdatetime"> 06/02 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IbakaBlock</span><span class="f3 push-content">: 阿不對，是smith5656才對</span><span class="push-ipdatetime"> 06/02 14:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aaaa714714</span><span class="f3 push-content">: 柯P那篇超好笑</span><span class="push-ipdatetime"> 06/02 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 阿那三個同一個人啊，要不要申請多重帳號查詢</span><span class="push-ipdatetime"> 06/02 14:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">remarkand</span><span class="f3 push-content">: 版主wwwww123要不要順便桶一下 ？版主發錢 ！</span><span class="push-ipdatetime"> 06/02 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IbakaBlock</span><span class="f3 push-content">: 我在查查看吧，也要有違規事證才能送</span><span class="push-ipdatetime"> 06/02 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">IbakaBlock</span><span class="f3 push-content">: 例如水桶中分身發文或分身超貼之類的</span><span class="push-ipdatetime"> 06/02 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JonDoe297</span><span class="f3 push-content">: 發錢啦</span><span class="push-ipdatetime"> 06/02 14:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 這麼認真幹嘛 之前狂嘴的某w也不會來推文</span><span class="push-ipdatetime"> 06/02 15:39
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496384650.A.73C.html?cacheKey=2052-1091585&offset=11223&offset-sig=3a1e3e2af57c566459a07d36de45f4b531aa87af" data-longpollurl="/v1/longpoll?id=16f8c8714f14ab65fdf97945c3de057426078b78" data-offset="11223"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

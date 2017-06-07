@@ -1,0 +1,208 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496239025.A.744.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 誇張！政府花5千萬整修古蹟，屋主上網賣 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="新北市政府歷年未償債務餘額概況
+不含自償性債務，僅統計一般一年期以上+一年期以下債務
+2013年   892億元
+2014年  1101億元
+2015年  1228億元
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 誇張！政府花5千萬整修古蹟，屋主上網賣">
+<meta property="og:description" content="新北市政府歷年未償債務餘額概況
+不含自償性債務，僅統計一般一年期以上+一年期以下債務
+2013年   892億元
+2014年  1101億元
+2015年  1228億元
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496239025.A.744.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496239025.A.744.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kim (＠＠＠＠＠＠＠)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 誇張！政府花5千萬整修古蹟，屋主上網賣</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 21:57:01 2017</span></div>
+<span class="f2">※ 引述《clark2644 (Buddy Lee)》之銘言：
+</span><span class="f6">: 風傳媒Stormmedia
+</span><span class="f6">: 誇張！政府花5千萬整修古蹟，屋主上網賣近6千萬
+</span><span class="f6">: 蔡孟筑 2017年05月30日 15:47 風傳媒
+</span><span class="f6">: <a href="https://goo.gl/vEM0pW" target="_blank" rel="nofollow">https://goo.gl/vEM0pW</a>
+</span><span class="f6">: 新北市市定古蹟「臺陽礦業公司」平溪招待所29日出現在房屋交易網，以「新北市平溪日
+</span><span class="f6">: 式建築古蹟」開價5888萬元。新北市文化局表示，古蹟所有人若移轉古蹟所有權，依規定
+</span><span class="f6">: 需事先通知主管機關，否恐面臨相關罰則。（取自歌手蕭敬騰「跟我玩」MV）
+</span><span class="f6">: 新北市市定古蹟「臺陽礦業公司」平溪招待所，29日突然在知名房屋交易網站發佈出售訊
+</span><span class="f6">: 息，以「新北市平溪日式建築古蹟」開價5888萬元，而該網頁今（30）日已下架。新北市
+</span><span class="f6">: 文化局表示，古蹟所有人逕自移轉古蹟所有權，未依規定事先通知主管機關，恐面臨相關
+</span><span class="f6">: 罰則。
+</span><span class="f6">: 新北文化局:古蹟並非不能買賣，但應事先通知主管機關
+</span><span class="f6">: 新北市文化局文化資產科長楊智能表示，法令並未規定古蹟不能買賣，但買賣前應先通知
+</span><span class="f6">: 主管機關，主管機關也有優先承購權，有接受補助的古蹟也有相關約束，須依簽訂的相關
+</span><span class="f6">: 規範走，他表示，事前並沒有接獲屋主通知要出售招待所，會盡快發文通知屋主，改善不
+</span><span class="f6">: 符合規定程序的部分，並開會討論洽購事宜。
+</span><span class="f6">: <a href="http://imgur.com/jDdQ4TB" target="_blank" rel="nofollow">http://imgur.com/jDdQ4TB</a>
+</span><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="jDdQ4TB"><a href="//imgur.com/jDdQ4TB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f6">: 新北市市定古蹟「臺陽礦業公司」平溪招待所29日出現在房屋交易網，30日該網站已將此
+</span><span class="f6">: 撤下來。（翻攝自網路）
+</span><span class="f6">: 「台北炭礦株式會社」（臺陽礦業公司前身）從民國初年進入平溪地區開發煤礦，60年代
+</span><span class="f6">: 菁桐的石底煤礦，質佳量大，原名石底俱樂部的臺陽礦業公司平溪招待所建於1940年，做
+</span><span class="f6">: 為公司福利、招待貴賓、官員與會議用，當地人俗稱「CIUB」，招待所面積202坪，為日
+</span><span class="f6">: 本和洋折衷式木造建築，建材取自台灣檜木，窗櫺、門花作工細緻具工藝價值，1986年臺
+</span><span class="f6">: 陽將建物賣給王華飛，後改名渠蓮精舍。
+</span><span class="f6">: 文化局指出，臺陽礦業公司平溪招待所建物本體於民國2003年經文化局公告指定為古蹟，
+</span><span class="f6">: 為古蹟修復活化再利用，於2007年完成古蹟調查研究，同時向中央爭取古蹟修復工程經費
+</span><span class="f6">: 補助，並於2012年3月完成修復工程，現由古蹟所有人負責營運管理，採預約制供民眾參
+</span><span class="f6">: 觀。
+</span><span class="f6">: 文史工作者林文清表示，政府花5000萬元整修，屋主再以近6000萬元脫手，擔心此例一開
+</span><span class="f6">: ，未來難免出現有心人士，申請文資認定後，向政府申請經費整修，再開高價轉售，在適
+</span><span class="f6">: 法性及信賴保護原則下，應加以思索修復計劃的主客雙方的相關現狀。
+</span><span class="f6">: 新北文化局：最高可處100萬元罰鍰
+</span><span class="f6">: 文化局指出，依據文資法第107條規定，移轉私有古蹟未事先通知主管機關者，可處新台
+</span><span class="f6">: 幣10萬元以上100萬元以下罰鍰。另外，古蹟所有權人也應善盡古蹟管理維護責任，若未
+</span><span class="f6">: 依主管機關核定計畫落實，依文資法第106條規定也可處新台幣30萬元以上200萬元以下罰
+</span><span class="f6">: 鍰。
+</span><span class="f6">: 文化局強調，一定會要求古蹟所有人落實管理維護之責任，私有古蹟歷史建築等文化資產
+</span><span class="f6">: 一樣也都是公共財，不管所有權人歸屬為何，市府一定都會確保文化資產的安全與價值。
+</span><span class="f6">: <a href="http://www.storm.mg/article/274739" target="_blank" rel="nofollow">http://www.storm.mg/article/274739</a>
+</span><span class="f6">: 挖 政府出錢翻修 賺六千萬 五千萬是不是該吐回來呢
+</span>
+
+新北市政府歷年未償債務餘額概況
+
+不含自償性債務，僅統計一般一年期以上+一年期以下債務
+
+2013年   892億元
+2014年  1101億元
+2015年  1228億元
+2016年  1367億元
+2017/4  1443億元
+
+資料來源
+
+2013~2015年
+新北市主計處統計資料庫
+<a href="http://pxweb.bas.ntpc.gov.tw/pxweb/dialog/statfile9_n.asp" target="_blank" rel="nofollow">http://pxweb.bas.ntpc.gov.tw/pxweb/dialog/statfile9_n.asp</a>
+
+2016~2017年
+新北市財政局
+<a href="http://www.finance.ntpc.gov.tw/download/index.php?type_id=10480" target="_blank" rel="nofollow">http://www.finance.ntpc.gov.tw/download/index.php?type_id=10480</a>
+
+
+.........有沒有人告訴我，最近新北有哪些重大建設？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.231.111.236
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496239025.A.744.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496239025.A.744.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">js52666</span><span class="f3 push-content">: 彩王：看我幹嘛</span><span class="push-ipdatetime"> 05/31 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxyxx</span><span class="f3 push-content">: 我更好奇馬英九留下什麼重大建設...........</span><span class="push-ipdatetime"> 05/31 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f953024</span><span class="f3 push-content">: 八咖囧活動變多</span><span class="push-ipdatetime"> 05/31 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jesil</span><span class="f3 push-content">: 不是有剪了不少嗎   你都沒看新聞?</span><span class="push-ipdatetime"> 05/31 21:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 有啊，請了很多網軍呢。<a href="http://tinyurl.com/yay2ycra" target="_blank" rel="nofollow">http://tinyurl.com/yay2ycra</a></span><span class="push-ipdatetime"> 05/31 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mecca</span><span class="f3 push-content">: 新北超會花@@</span><span class="push-ipdatetime"> 05/31 21:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Diaw01</span><span class="f3 push-content">: 幹 太聰明了 我想到都不敢這樣做</span><span class="push-ipdatetime"> 05/31 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lucianbear</span><span class="f3 push-content">: 某些人的口袋 超重大建設</span><span class="push-ipdatetime"> 05/31 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vow70</span><span class="f3 push-content">: 往上找幾頁被推爆的那篇就是了</span><span class="push-ipdatetime"> 05/31 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frank01</span><span class="f3 push-content">: 就屋主自己違法賣，這樣也要帶風向,綠吱煩不煩啊</span><span class="push-ipdatetime"> 05/31 22:00
+</span></div>
+政府就算沒圖利，也算失職一椿吧！
+花錢幫人整建，然後沒好好追蹤，
+給人這樣亂搞的機會。
+
+話說要是發生在台北市，
+你也可以罵柯文哲啊！
+明倫公宅假動工，不也被罵了？
+<span class="f2">※ 編輯: kim (36.231.111.236), 05/31/2017 22:03:06
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainf</span><span class="f3 push-content">: 綠吱多不行喔，有本事叫人出來阿</span><span class="push-ipdatetime"> 05/31 22:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rainf</span><span class="f3 push-content">: <a href="/bbs/Gossiping/M.1496234775.A.E4F.html" target="_blank" rel="nofollow">#1PBhiNvF</a> 給你參考一下 或許可以找到同伴</span><span class="push-ipdatetime"> 05/31 22:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 怎樣比都輸大高雄！大高雄邁向3000億大關了</span><span class="push-ipdatetime"> 05/31 22:06
+</span></div>
+不想提花媽了，我很不喜歡她......
+<span class="f2">※ 編輯: kim (36.231.111.236), 05/31/2017 22:18:00
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">markoo</span><span class="f3 push-content">: 政府花錢整建為何不能成為所有權人之一@@?</span><span class="push-ipdatetime"> 05/31 22:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496239025.A.744.html?cacheKey=2052-7905530&offset=4893&offset-sig=53e6c262ec0566e36f0eeb18a7d779d10f1cde7e" data-longpollurl="/v1/longpoll?id=db7a57bfff591c05ff2a9b8c812fb19cb42e1494" data-offset="4893"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

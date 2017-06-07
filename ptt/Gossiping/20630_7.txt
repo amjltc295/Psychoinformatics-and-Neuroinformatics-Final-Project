@@ -1,0 +1,185 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495358131.A.043.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 北韓下午再試射飛彈 型號尚未公布 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由時報 Chu7-iu5 si5-po3 Liberty Times
+2.完整新聞標題:
+北韓下午再試射飛彈 型號尚未公布
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 北韓下午再試射飛彈 型號尚未公布">
+<meta property="og:description" content="1.媒體來源:
+自由時報 Chu7-iu5 si5-po3 Liberty Times
+2.完整新聞標題:
+北韓下午再試射飛彈 型號尚未公布
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495358131.A.043.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495358131.A.043.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">SonyXperiaZ3 (ソニーモバイル)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 北韓下午再試射飛彈 型號尚未公布</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 21 17:15:27 2017</span></div>
+1.媒體來源:
+自由時報 Chu7-iu5 si5-po3 Liberty Times
+
+2.完整新聞標題:
+北韓下午再試射飛彈 型號尚未公布
+
+3.完整新聞內文:
+<a href="http://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpqszCHV.jpg" target="_blank" rel="nofollow">http://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpqszCHV.jpg</a>
+<div class="richcontent"><img src="http://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpqszCHV.jpg" alt="" /></div>北韓今天再傳試射飛彈。圖為北韓領導人金正恩。（路透）
+
+〔即時新聞／綜合報導〕<span class="f3 hl">北韓又射了！南韓《韓聯社》報導，北韓今天（21日）又傳試射
+</span><span class="f3 hl">飛彈，目前詳細型號不明，若消息屬實，將是北韓今年第8次試射飛彈。</span>
+
+報導指出，北韓今天下午要傳出試射飛彈，不過型號仍未確認，消息由南韓聯合參謀本部
+報告。
+
+北韓14日才成功試射「火星12型」（Hwasong-12）中長程飛彈，高度達到2111.5公里、飛
+行距離787公里，飛行約30分鐘後落入日本海。北韓領導人金正恩昨天表示，北韓現時已
+經成為「東方核強國」及「亞洲火箭霸主」。
+
+
+4.完整新聞連結 (或短網址):
+<a href="http://news.ltn.com.tw/news/world/breakingnews/2074555" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/world/breakingnews/2074555</a>
+
+5.備註:
+金大箍閣射囉~~
+
+--
+                               <span class="b1 hl">Sony Xperia Z3</span>
+ <a href="http://imgur.com/D226sjS" target="_blank" rel="nofollow">http://imgur.com/D226sjS</a> <a href="http://imgur.com/0rfkOs8" target="_blank" rel="nofollow">http://imgur.com/0rfkOs8</a> <a href="http://imgur.com/SOlianu" target="_blank" rel="nofollow">http://imgur.com/SOlianu</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="D226sjS"><a href="//imgur.com/D226sjS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="0rfkOs8"><a href="//imgur.com/0rfkOs8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="SOlianu"><a href="//imgur.com/SOlianu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div> <a href="http://imgur.com/g4Gd7pz" target="_blank" rel="nofollow">http://imgur.com/g4Gd7pz</a> <a href="http://imgur.com/gaky8qP" target="_blank" rel="nofollow">http://imgur.com/gaky8qP</a> <a href="http://imgur.com/If4XWmY" target="_blank" rel="nofollow">http://imgur.com/If4XWmY</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="g4Gd7pz"><a href="//imgur.com/g4Gd7pz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="gaky8qP"><a href="//imgur.com/gaky8qP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="If4XWmY"><a href="//imgur.com/If4XWmY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>                            <span class="b4 hl">Samsung Galaxy Note7</span>
+ <a href="http://imgur.com/JO6IkIq" target="_blank" rel="nofollow">http://imgur.com/JO6IkIq</a> <a href="http://imgur.com/VAT8mLH" target="_blank" rel="nofollow">http://imgur.com/VAT8mLH</a> <a href="http://imgur.com/d2DRv8W" target="_blank" rel="nofollow">http://imgur.com/d2DRv8W</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="JO6IkIq"><a href="//imgur.com/JO6IkIq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="VAT8mLH"><a href="//imgur.com/VAT8mLH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="d2DRv8W"><a href="//imgur.com/d2DRv8W"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div> <a href="http://imgur.com/LHfMNkh" target="_blank" rel="nofollow">http://imgur.com/LHfMNkh</a> <a href="http://imgur.com/bkEUNEu" target="_blank" rel="nofollow">http://imgur.com/bkEUNEu</a> <a href="http://imgur.com/iDvofan" target="_blank" rel="nofollow">http://imgur.com/iDvofan</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="LHfMNkh"><a href="//imgur.com/LHfMNkh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="bkEUNEu"><a href="//imgur.com/bkEUNEu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="iDvofan"><a href="//imgur.com/iDvofan"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.37.238
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495358131.A.043.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495358131.A.043.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hkcdc</span><span class="f3 push-content">: 阿~~~~~~</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 雄三</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 射惹</span><span class="push-ipdatetime"> 05/21 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 我下午也射很多</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: ㄏㄏ就看準你美國不敢打</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dayaju</span><span class="f3 push-content">: 這次會不會跟上次一樣射成功呢</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kingrichman</span><span class="f3 push-content">:   真屌 完全不鳥美中</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Zuleta</span><span class="f3 push-content">: 反正文在寅也要徹薩德了 多射幾發吧</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KurakiMaki</span><span class="f3 push-content">: 廢物川普XD，4月時推特叫很大聲也不敢打啊</span><span class="push-ipdatetime"> 05/21 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KurakiMaki</span><span class="f3 push-content">: 川普已經被看穿手腳了拉</span><span class="push-ipdatetime"> 05/21 17:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mecca</span><span class="f3 push-content">: 看川寶無點  科科</span><span class="push-ipdatetime"> 05/21 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KurakiMaki</span><span class="f3 push-content">: 前幾天航母才從橫須賀往朝鮮開出，結果北韓今天照射</span><span class="push-ipdatetime"> 05/21 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KurakiMaki</span><span class="f3 push-content">: 想找理由說航母還沒到位也下不了台階了</span><span class="push-ipdatetime"> 05/21 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geordie</span><span class="f3 push-content">: 滿臉豆花的是XDD吧</span><span class="push-ipdatetime"> 05/21 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn00295120</span><span class="f3 push-content">: 唉，空單週五平倉惹</span><span class="push-ipdatetime"> 05/21 17:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AndyWT</span><span class="f3 push-content">: 開始覺得北韓是老美養的 射飛彈推銷薩德順便嗆支那管不住</span><span class="push-ipdatetime"> 05/21 17:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">njnjy</span><span class="f3 push-content">: 射飛彈而已 美國底線是北韓進行核爆</span><span class="push-ipdatetime"> 05/21 17:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alladult</span><span class="f3 push-content">: 核武簡單,難的是飛彈,川普再不打,總統位子可能坐不久</span><span class="push-ipdatetime"> 05/21 17:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baseguard</span><span class="f3 push-content">: 川普完全被看衰小了</span><span class="push-ipdatetime"> 05/21 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hw1</span><span class="f3 push-content">: 川普又裝死了</span><span class="push-ipdatetime"> 05/21 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 川普:不要看我 啦啦啦</span><span class="push-ipdatetime"> 05/21 17:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ace4</span><span class="f3 push-content">: 美國什麼時候很忍受不了?</span><span class="push-ipdatetime"> 05/21 17:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ANICEGAME</span><span class="f3 push-content">: 試夠了沒可以正式啟用了吧</span><span class="push-ipdatetime"> 05/21 17:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2935373</span><span class="f3 push-content">: 真打了就是中國直接和南韓接壤  少了北韓緩衝 再平衡東</span><span class="push-ipdatetime"> 05/21 18:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a2935373</span><span class="f3 push-content">: 亞勢力可不簡單 川普會自找麻煩？</span><span class="push-ipdatetime"> 05/21 18:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">brad001</span><span class="f3 push-content">: 阿~~~~~射惹</span><span class="push-ipdatetime"> 05/21 18:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gg889g8</span><span class="f3 push-content">: 小胖根本是在幫川普 之前南韓蕯德不太想買單</span><span class="push-ipdatetime"> 05/21 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">h73o1012</span><span class="f3 push-content">: 大碗公噩耗</span><span class="push-ipdatetime"> 05/21 18:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peter7944</span><span class="f3 push-content">: 飛500公里 算成功了</span><span class="push-ipdatetime"> 05/21 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 薩德必須裝設了啦 這個根本沒疑問了</span><span class="push-ipdatetime"> 05/21 18:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 我看小胖搞不好在跟美國唱雙簧</span><span class="push-ipdatetime"> 05/21 18:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">linshoyo</span><span class="f3 push-content">: 哈 嘴炮二人組</span><span class="push-ipdatetime"> 05/21 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coldcolour</span><span class="f3 push-content">: 射 都射 射越多  薩德就越不可能撤</span><span class="push-ipdatetime"> 05/21 20:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wo2323</span><span class="f3 push-content">: ㄏㄏ就看準你美國不敢打    +1</span><span class="push-ipdatetime"> 05/22 00:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495358131.A.043.html?cacheKey=2052-39863168&offset=4939&offset-sig=f2b632808b7b6fe73cd4992e78975c4921b6d6d8" data-longpollurl="/v1/longpoll?id=37056605039903fd0809e1093530c45c3925c371" data-offset="4939"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

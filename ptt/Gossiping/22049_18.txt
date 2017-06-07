@@ -1,0 +1,154 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496308665.A.64A.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 以後不用再找Wifi了！微軟發表Win10「永 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這我打死也不會買，
+永久連線，不就表示不能斷網了
+不能斷網 壞處很多，
+浪費流量、容易被駭、容易跳出廣告...
+還有不能安裝未授權軟體了，
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 以後不用再找Wifi了！微軟發表Win10「永">
+<meta property="og:description" content="這我打死也不會買，
+永久連線，不就表示不能斷網了
+不能斷網 壞處很多，
+浪費流量、容易被駭、容易跳出廣告...
+還有不能安裝未授權軟體了，
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496308665.A.64A.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496308665.A.64A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">teddy98 (小迪)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 以後不用再找Wifi了！微軟發表Win10「永</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 17:17:40 2017</span></div>
+這我打死也不會買，
+
+永久連線，不就表示不能斷網了
+
+不能斷網 壞處很多，
+
+浪費流量、容易被駭、容易跳出廣告...
+
+還有不能安裝未授權軟體了，
+
+連常用的軟體，
+
+MATLAB、Altium Designer安裝時會被檢查授權了
+
+凡是安裝要斷網後才能破解的都不能用了啦GG
+
+如果以後永久連線的功能實現，
+
+想必沒人要用WIN10了....
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.234.58.146
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496308665.A.64A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496308665.A.64A.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 可以拆電池</span><span class="push-ipdatetime"> 06/01 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flora11883</span><span class="f3 push-content">: Winxp+1</span><span class="push-ipdatetime"> 06/01 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angraer</span><span class="f3 push-content">: 那你可以去地下室裝破解</span><span class="push-ipdatetime"> 06/01 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">juncat</span><span class="f3 push-content">: 阿防毒然體都有斷網功能了 以後怎麼會少了手動斷網設定</span><span class="push-ipdatetime"> 06/01 17:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keyman616</span><span class="f3 push-content">: 桌機會有影響嗎</span><span class="push-ipdatetime"> 06/01 17:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maplefff</span><span class="f3 push-content">: 你學校連matlab都沒買喔，哪間啊</span><span class="push-ipdatetime"> 06/01 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">psy21</span><span class="f3 push-content">: win 10 可以開飛航模式啊</span><span class="push-ipdatetime"> 06/01 17:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wake7078</span><span class="f3 push-content">: 你知即使道關機也還在連線嗎</span><span class="push-ipdatetime"> 06/01 17:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">treeson</span><span class="f3 push-content">: 後面那個實在不是理由</span><span class="push-ipdatetime"> 06/01 17:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wario2014</span><span class="f3 push-content">: 生命會自已找出路，想太多</span><span class="push-ipdatetime"> 06/01 17:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsairay</span><span class="f3 push-content">: 你要付網路費才能上網的,不要想太多</span><span class="push-ipdatetime"> 06/01 17:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assassinzero</span><span class="f3 push-content">: 別用matlab了...</span><span class="push-ipdatetime"> 06/01 17:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin793156</span><span class="f3 push-content">: ....可以關掉吧...應該是指跟手機一樣可以一直連</span><span class="push-ipdatetime"> 06/01 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lin793156</span><span class="f3 push-content">: 不代表不能關吧</span><span class="push-ipdatetime"> 06/01 17:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mnhyuiop</span><span class="f3 push-content">: 你不會開機嗎</span><span class="push-ipdatetime"> 06/01 18:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tedpc</span><span class="f3 push-content">: 就知道你不懂怎麼樣加防火牆規則</span><span class="push-ipdatetime"> 06/01 19:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenweichih</span><span class="f3 push-content">: 一定可以關吧</span><span class="push-ipdatetime"> 06/01 23:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496308665.A.64A.html?cacheKey=2052-12426748&offset=2279&offset-sig=1e3d1ba92133a345cdcbc589cb024aa74899cf2b" data-longpollurl="/v1/longpoll?id=da08952bb912b19cdee224581b2d668ebebc323b" data-offset="2279"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

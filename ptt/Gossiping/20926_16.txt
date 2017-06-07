@@ -1,0 +1,655 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495552023.A.F5C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>閱讀文章 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="───────────────────────────────────────
+◆ 投票名稱: 八卦板板主初選-B
+───────────────────────────────────────
+◆ 投票中止於: 05/23/2017 23:05:57 Tue
+◆ 票選題目描述:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+
+<meta property="og:description" content="───────────────────────────────────────
+◆ 投票名稱: 八卦板板主初選-B
+───────────────────────────────────────
+◆ 投票中止於: 05/23/2017 23:05:57 Tue
+◆ 票選題目描述:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495552023.A.F5C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495552023.A.F5C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content">───────────────────────────────────────
+◆ 投票名稱: 八卦板板主初選-B
+
+───────────────────────────────────────
+◆ 投票中止於: 05/23/2017 23:05:57 Tue
+
+
+◆ 票選題目描述:
+
+
+依　　據：生活娛樂館組規 2013 修訂版 v2.0
+主　　旨：公告本板2014年補選板主之徵選辦法、選舉辦法與選舉須知。
+公告事項：
+
+　　　　一、［選舉種類］
+
+              本板即日起徵選新任<span class="f3 hl">板主一名</span>。
+
+
+
+            補充：
+
+┌─────────────────────────────────────┐
+│ 文章代碼(AID): <a href="/bbs/Gossiping/M.1477931579.A.7E3.html" target="_blank" rel="nofollow"><span class="hl">#1O5t8xVZ </span>(Gossiping)</a> [ptt.cc] [公告] 新板主上任 (kasion/ │
+│ 文章網址: <span class="hl"><a href="https://www.ptt.cc/bbs/Gossiping/M.1477931579.A.7E3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1477931579.A.7E3.html</a>       </span>│
+│ 這一篇文章值 10 Ptt幣                                                    │
+└─────────────────────────────────────┘ 
+
+                  staff23板主下台後剩餘的任期至6/30，還有約一個半月，
+
+                  因此將選出一名板主接替他的位置，
+
+                  新任板主任期預計將為<span class="f3 hl">2017/5/23~2017/6/30</span>。
+
+
+　　　　二、［參選限制與規範］
+
+　　　　　　參選板主基本限制與規範為：
+
+　　　　　　1.依據生活娛樂館組規規定
+　　　　　　　新增之板主須符合 <span class="f3 hl">登入300/發表200 </span><span class="f1 hl">註冊時間滿一年</span>。
+　　　　　　
+            2.在本板有發文權限。
+
+　　　　　　3.<span class="f3 hl">同意板主任期制</span>之任期限制及板主自律規範及內部處理準則
+              不得異議。
+
+            4.願意接受每週板主群板務處理之評比。
+                                                   
+            5.非中華民國國民不得參選及擔任ＰＴＴ八卦板主。
+
+　　　　三、［參選辦法］
+　　　　　　自本公告張貼起，<span class="f3 hl">以[參選] ID　為標題</span>，於本板張貼參選政見。
+
+            參選內容需完整說明下列事項：　　　　　
+             1.參選理由、參選期望
+　　　　　   2.預計採用的管理方式、競選政見
+               <span class="f5 hl">(曾任本板板主者請務必列出在任時間與政績供板友參考)</span>
+　　　　　   3.每週可以管理看板的時間　　　　
+　　　　　   4.其他補充，如認為自己適合擔任板主的優勢
+　　　
+        四、［參選注意事項］
+　　　　　   1.不符參選資格卻貼文、政見過少、不切實際，視為惡意參選。
+　　　　　   2.<span class="f3 hl">惡意參選，文章依板規第九條：〔鬧板〕處分</span>。
+             3.有熱心、耐心及抗壓性佳。
+             4.參選人如有賄選行為者將會喪失參選資格。
+
+　　　　五、［選舉日期進程］
+　　　　　　欲參選板主者，請自本公告後開始張貼參選文。
+
+　　　　　　當有六人以上張貼參選文，則自<span class="f3 hl">第六人</span>張貼參選政見後<span class="f2 hl">24小時</span>停止報名    
+           ，站方資格審查完畢後，若合格候選人不足六人則重新開放報名審核後，
+             開始舉行板主投票。
+
+　　　　五、［選舉日期進程］
+　　　　　　欲參選板主者，請自本公告後開始張貼參選文。
+
+　　　　　　當有六人以上張貼參選文，則自<span class="f3 hl">第六人</span>張貼參選政見後<span class="f2 hl">24小時</span>停止報名
+            ，站方資格審查完畢後，若合格候選人不足六人則重新開放報名審核後，
+             開始舉行板主投票。
+
+            投票期為<span class="f5 hl">五天</span>。投票期間參選人於任何版面受劣文懲處皆不另行公告。
+           <span class="f3 hl"> (備位板主如遭退文或本板水桶無法於應就任時就任即喪失當選資格)</span>
+
+  　　　　　投票結果開出後，依票數高低順序決定當選順序，若同票，則先發表政
+            見之參選人為較高順位當選人，若高順位當選人因退文仍有 4天以上可
+            消、水桶或ID過長無法擔任者，由次低順位當選人遞補之。立即呈報站
+            方選舉結果，並請站方執行上任程序。　　
+　　　
+        六.當選板主不論人數，落選第一位高票者為備取板主，若當選該位板主因故
+           請辭或遭罷免時，板主將先詢問接任意願，延續該板主任期至屆滿為止。
+           PS.若該板主任期不足一個月，則遇缺不補，待選出新任期板主
+           <span class="f3 hl">(備位板主如遭退文或本板水桶無法於應就任時就任即喪失當選資格)</span>      
+
+        七.板主選舉參選人若超過26名系統可一頁設定之人數，將採兩階段選舉，第一
+           階段均分兩票匭，每一票匭各六票，每一票匭前五高票者，進入第二階段選
+           舉，每一次階段選舉期間各為五天。
+
+        八、如有未盡事宜，另行公告之。
+                              
+
+◆投票結果:(共有 809 人投票,每人最多可投 2 票)
+    選    項                                   總票數  得票率  得票分布
+    J10A                                        27 票   3.34%    2.06%
+    defendant                                   75 票   9.27%    5.73%
+    tn00270144                                  21 票   2.60%    1.60%
+    mother                                      40 票   4.94%    3.05%
+    god060119                                   10 票   1.24%    0.76%
+    wuyiulin                                    17 票   2.10%    1.30%
+    GSHARP                                      27 票   3.34%    2.06%
+    XDDDD5566                                   49 票   6.06%    3.74%
+    HellKitty                                  116 票  14.34%    8.85%
+    kof2200                                     20 票   2.47%    1.53%
+    man790810                                    8 票   0.99%    0.61%
+    jkf790207                                   10 票   1.24%    0.76%
+    Ommmmmm5566                                119 票  14.71%    9.08%
+    kimgordon                                  283 票  34.98%   21.60%
+    cefywo             　                       28 票   3.46%    2.14%
+    CavendishJr                                156 票  19.28%   11.91%
+    forever07                                   23 票   2.84%    1.76%
+    diefishfish                                188 票  23.24%   14.35%
+    kkabcd                                      64 票   7.91%    4.89%
+    winter2683                                  16 票   1.98%    1.22%
+    zaqqaz                                      13 票   1.61%    0.99%
+───────────────────────────────────────
+◆ 使用者建議：
+
+<span class="f6">○使用者</span><span class="f6 hl"> CavendishJr </span><span class="f6">的建議：</span>
+    姆咪姆咪心動動
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> ybz612 </span><span class="f6">的建議：</span>
+    \AYAYA/
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> killerchi </span><span class="f6">的建議：</span>
+    到底怎麼出去啦 幹
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> IbakaBlock </span><span class="f6">的建議：</span>
+    愛滋噁爛毒趴亂肛甲最好全都槍斃
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> vivihk215 </span><span class="f6">的建議：</span>
+    B組的候選人有些太討人厭了
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> butaewb </span><span class="f6">的建議：</span>
+    嗨
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> limoncool </span><span class="f6">的建議：</span>
+    蹦蹦跳姆咪
+    姆咪姆咪心動動
+    媽的智障
+
+<span class="f6">○使用者</span><span class="f6 hl"> asllto383 </span><span class="f6">的建議：</span>
+    無
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> Assisi </span><span class="f6">的建議：</span>
+    嘻嘻
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> angel07 </span><span class="f6">的建議：</span>
+    Trishula, Dragon of the Ice Barrier
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> jkf790207 </span><span class="f6">的建議：</span>
+    逆轟高灰
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> fantasibear </span><span class="f6">的建議：</span>
+    第二組
+            廢到爆
+                    怎麼辦
+
+<span class="f6">○使用者</span><span class="f6 hl"> Orzer </span><span class="f6">的建議：</span>
+    上啊，我的排骨酥配花學姐 酥花公路喇
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> sleepyuan </span><span class="f6">的建議：</span>
+    我要當版主
+    拜託
+    投我
+
+<span class="f6">○使用者</span><span class="f6 hl"> wasijohn </span><span class="f6">的建議：</span>
+    板主發錢啊幹
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> heinse </span><span class="f6">的建議：</span>
+    姆咪姆咪
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> LTSC1980 </span><span class="f6">的建議：</span>
+    KMT即將重返農藥
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> keroro39 </span><span class="f6">的建議：</span>
+    檢舉姬就算不會上我哈是
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> bigbo </span><span class="f6">的建議：</span>
+    死魚魚去死吧
+    ( ︶︿︶)_╭∩╮
+    ( ︶︿︶)_╭∩╮
+
+<span class="f6">○使用者</span><span class="f6 hl"> ryan7893w </span><span class="f6">的建議：</span>
+    誠心誠意推薦jkf
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> s90011 </span><span class="f6">的建議：</span>
+    74團可以全部去死嗎?
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> kurohanaito </span><span class="f6">的建議：</span>
+    花學姊!!!
+    得第一
+    
+
+<span class="f6">○使用者</span><span class="f6 hl"> applejone </span><span class="f6">的建議：</span>
+    不要再讓老屁股當選了 選上又辭 又參選 不是很強調要給年輕人機會?
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> Waitaha </span><span class="f6">的建議：</span>
+    死肥豬跩三小
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> Sony2470GM </span><span class="f6">的建議：</span>
+    馬的一堆黨工參選 
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> tn00270144 </span><span class="f6">的建議：</span>
+    安安
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> barlin </span><span class="f6">的建議：</span>
+    這組第二票實在沒啥人能投ㄆㄆ
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> rrr518 </span><span class="f6">的建議：</span>
+    過氣蟲蟲加油!! 死魚魚加油!!!
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> mother </span><span class="f6">的建議：</span>
+    火星章魚
+    ~(@o@)~    ~(@o@)~    ~(@o@)~    ~(@o@)~    ~(@o@)~    ~(@o@)~    ~(@o@)~
+     /|||\      /|||\      /|||\      /|||\      /|||\      /|||\      /|||\
+
+<span class="f6">○使用者</span><span class="f6 hl"> vincent81614 </span><span class="f6">的建議：</span>
+    我好帥
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> awfulday </span><span class="f6">的建議：</span>
+    才一個月是要選個毛蛋阿
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> crazytaxi123 </span><span class="f6">的建議：</span>
+    檢舉王 強勢回歸
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> Anonym5566 </span><span class="f6">的建議：</span>
+    死魚 死魚 得第一
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> haiduc </span><span class="f6">的建議：</span>
+    檢舉王滾蛋！檢舉王滾蛋！檢舉王滾蛋！
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> oshua </span><span class="f6">的建議：</span>
+    泥巴沾好沾滿
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> wuke </span><span class="f6">的建議：</span>
+    我投檢舉王ㄏㄏ
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> qxpbyd </span><span class="f6">的建議：</span>
+     
+     
+     
+
+<span class="f6">○使用者</span><span class="f6 hl"> chinnez </span><span class="f6">的建議：</span>
+    四插甲甲贏面大
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> SonyXperiaZ3 </span><span class="f6">的建議：</span>
+    我愛花學姊
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> opengaydoor </span><span class="f6">的建議：</span>
+    幹你娘機掰
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> momoispig </span><span class="f6">的建議：</span>
+    幹 好想知道你的100分會給怎樣的人
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> engineer1 </span><span class="f6">的建議：</span>
+    再說一次 聽說投票可以徵女友
+    麻煩看到這段訊息趕快站內我
+    你難道不知道 第一個通常會有禮物嗎QQ
+
+<span class="f6">○使用者</span><span class="f6 hl"> LJer </span><span class="f6">的建議：</span>
+    希望八卦版少點仇恨 多點歡樂 少點非理性 多點理性討論 少點愚笨 多點智慧
+    感恩
+    
+
+<span class="f6">○使用者</span><span class="f6 hl"> SHUAN1110 </span><span class="f6">的建議：</span>
+    死魚一票
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> MorningGlory </span><span class="f6">的建議：</span>
+    小狗汪汪汪 猴子老鼠吱吱叫 叫三小叫 操
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> god060119 </span><span class="f6">的建議：</span>
+    安安 我有錢了 這代表什麼相信我不用多說吧
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> david7112123 </span><span class="f6">的建議：</span>
+    姆咪姆咪 讚啦！
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> dameontree </span><span class="f6">的建議：</span>
+    Curry &lt;3
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> sheng76314 </span><span class="f6">的建議：</span>
+    甲甲食屎
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> belleaya </span><span class="f6">的建議：</span>
+    <a href="https://www.youtube.com/watch?v=8A2t_tAjMz8" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=8A2t_tAjMz8</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/8A2t_tAjMz8" frameborder="0" allowfullscreen></iframe></div></div></div>    <a href="https://www.youtube.com/watch?v=VQtonf1fv_s" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=VQtonf1fv_s</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/VQtonf1fv_s" frameborder="0" allowfullscreen></iframe></div></div></div>    <a href="http://imgur.com/Yhi6rPc.jpg" target="_blank" rel="nofollow">http://imgur.com/Yhi6rPc.jpg</a>  <a href="http://imgur.com/nE341Ed.jpg" target="_blank" rel="nofollow">http://imgur.com/nE341Ed.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="Yhi6rPc"><a href="//imgur.com/Yhi6rPc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="nE341Ed"><a href="//imgur.com/nE341Ed"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<span class="f6">○使用者</span><span class="f6 hl"> iamfenixsc </span><span class="f6">的建議：</span>
+    @@
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> cy4v </span><span class="f6">的建議：</span>
+    希姆咻咻咻~~~~~
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> arthurwang </span><span class="f6">的建議：</span>
+    56不能亡
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> ott </span><span class="f6">的建議：</span>
+     mother 一票   hellkitty 一票   mother 是因為日劇  HK 是因為上新聞
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> AndyWT </span><span class="f6">的建議：</span>
+    詐彈魔也敢出來選別鬧了好嗎
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> leoon </span><span class="f6">的建議：</span>
+    可以禁止劉宇參選嗎???
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> claymath </span><span class="f6">的建議：</span>
+    死魚跟檢舉王加油 一定要上阿
+    Y^^Y
+    
+
+<span class="f6">○使用者</span><span class="f6 hl"> ODFans </span><span class="f6">的建議：</span>
+    雖然都不太認識 不過ID有5566的優先選擇
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> mazz </span><span class="f6">的建議：</span>
+    OAO          OAO           OAO
+         OAO           OAO          OAO
+    OAO          OAO           OAO
+
+<span class="f6">○使用者</span><span class="f6 hl"> genie529 </span><span class="f6">的建議：</span>
+    啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+    啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+    啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+<span class="f6">○使用者</span><span class="f6 hl"> purplvampire </span><span class="f6">的建議：</span>
+    除了死魚魚外...你們是誰啊?雜魚?
+    
+    
+
+
+<span class="f6">○使用者</span><span class="f6 hl"> Mews </span><span class="f6">的建議：</span>
+    希望新進的菜逼八能夠坦一點 我們需要新鮮的肝 之前的有夠草莓當沒幾天就倒
+    
+    
+
+
+───────────────────────────────────────
+◆ 總票數 = 1310 票
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">r30385</span><span class="f3 push-content">: 你誰啊 怎麼有中文ID</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Skydier</span><span class="f3 push-content">: 死魚第二高欸 ㄏㄏㄏ</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YU0121</span><span class="f3 push-content">: 完了</span><span class="push-ipdatetime"> 05/23 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ga502020</span><span class="f3 push-content">: 你誰啦</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anper</span><span class="f3 push-content">: 媽的 死魚魚還這麼多票喔</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GGrunrundela</span><span class="f3 push-content">: 姆咪</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tripleb</span><span class="f3 push-content">: 誰啊= =</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ogogcat</span><span class="f3 push-content">: 你誰啦</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tasogare</span><span class="f3 push-content">: 這組好弱</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pixiv</span><span class="f3 push-content">: \花學姊/</span><span class="push-ipdatetime"> 05/23 23:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">web946719</span><span class="f3 push-content">: 死魚又要重返農藥了嗎</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahaha0204</span><span class="f3 push-content">: 唯一支持死魚</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pengjoker</span><span class="f3 push-content">: 讓死魚再次偉大/</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckkpolice</span><span class="f3 push-content">: 好想知道你的100分會給怎樣的人</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 幹 吊車尾</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TrueTears</span><span class="f3 push-content">: 這組居然是排骨酥湯第一</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cka</span><span class="f3 push-content">: 所以是各一個嗎?</span><span class="push-ipdatetime"> 05/23 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 選我啦&gt;&lt;</span><span class="push-ipdatetime"> 05/23 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 排骨酥就是你了</span><span class="push-ipdatetime"> 05/23 23:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 第2選區好少人投票</span><span class="push-ipdatetime"> 05/23 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yspen</span><span class="f3 push-content">: 這一組超弱的啊</span><span class="push-ipdatetime"> 05/23 23:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HAL10000</span><span class="f3 push-content">: 一群廢票回收桶，下去領五百啦</span><span class="push-ipdatetime"> 05/23 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 可能是大家覺得只能投一個票匭吧</span><span class="push-ipdatetime"> 05/23 23:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spaceview</span><span class="f3 push-content">: 在這區拿第一沒什麼好驕傲的啊XD</span><span class="push-ipdatetime"> 05/23 23:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cka</span><span class="f3 push-content">: 這區大部分都沒看過 所以不知道怎麼投</span><span class="push-ipdatetime"> 05/23 23:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 9.2和五毛弄了一堆分身帳號來......死魚，呵呵</span><span class="push-ipdatetime"> 05/23 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 難道有人不知道糞坑會過來灌票嗎? 所以不管怎樣都要投</span><span class="push-ipdatetime"> 05/23 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 排骨酥湯www</span><span class="push-ipdatetime"> 05/23 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 站方應該也不知道怎麼處理五毛大量註冊帳號吧!</span><span class="push-ipdatetime"> 05/23 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">secret1414</span><span class="f3 push-content">: 這組我沒投</span><span class="push-ipdatetime"> 05/23 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SonyXperiaZ3</span><span class="f3 push-content">: 死魚和那個HellKitty票數好多喔 幹 幹 9.2滾!!</span><span class="push-ipdatetime"> 05/23 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: 排骨酥大加油啊！</span><span class="push-ipdatetime"> 05/23 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SonyXperiaZ3</span><span class="f3 push-content">: 我愛花學姊</span><span class="push-ipdatetime"> 05/23 23:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 投不投不是重點，有一天當五毛假帳號夠多時就好笑了</span><span class="push-ipdatetime"> 05/23 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 死魚也能有188票喔？雞排發出來再說吧</span><span class="push-ipdatetime"> 05/23 23:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vivihk215</span><span class="f3 push-content">: 這組誰知道要怎麼投阿</span><span class="push-ipdatetime"> 05/23 23:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">walkdog0603</span><span class="f3 push-content">: 棉花糖大加油 支持你</span><span class="push-ipdatetime"> 05/23 23:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 他們自己黨工旗下帳號來投就好了拉!誰管一般人來投</span><span class="push-ipdatetime"> 05/23 23:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cul287</span><span class="f3 push-content">: 可以請世雄出來謝票嗎?</span><span class="push-ipdatetime"> 05/23 23:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qxpbyd</span><span class="f3 push-content">: 死魚雞排還沒發 投的是蔡逼把喔</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 這邊就雜魚組阿　根本不想投</span><span class="push-ipdatetime"> 05/23 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 就他們9.2和五毛黨工在投阿</span><span class="push-ipdatetime"> 05/23 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">valen147</span><span class="f3 push-content">: 這組票數加一加跟四差的票數差不多XD</span><span class="push-ipdatetime"> 05/23 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">uglyfinger</span><span class="f3 push-content">: 站方高層也沒要處理，人家有一天就用人海戰術控制你了</span><span class="push-ipdatetime"> 05/23 23:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vivihk215</span><span class="f3 push-content">: 這候選人裡面應該有五毛吧XD</span><span class="push-ipdatetime"> 05/23 23:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leo921080931</span><span class="f3 push-content">: 這組超若</span><span class="push-ipdatetime"> 05/23 23:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 非中華民國籍不能參選啦..</span><span class="push-ipdatetime"> 05/23 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ommmmmm5566</span><span class="f3 push-content">: 謝謝投給我的大家！下一輪也請大家支持我&gt;&lt;</span><span class="push-ipdatetime"> 05/23 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tassatul</span><span class="f3 push-content">: 這裡都沒什麼人氣 幫QQ</span><span class="push-ipdatetime"> 05/23 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deathsong</span><span class="f3 push-content">: 當選無效!提出當選無效之術!</span><span class="push-ipdatetime"> 05/23 23:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ackes</span><span class="f3 push-content">: 別海洋56上就好  反串又誣衊的  很噁</span><span class="push-ipdatetime"> 05/23 23:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MiamiKotori</span><span class="f3 push-content">: Make Diefish great again~~~</span><span class="push-ipdatetime"> 05/24 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justalk333</span><span class="f3 push-content">: 某板主怎麼要槍斃人啊？以為自己是ISIS?</span><span class="push-ipdatetime"> 05/24 00:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eterbless</span><span class="f3 push-content">: 對照這篇的票數 上面那篇根本灌出來的</span><span class="push-ipdatetime"> 05/24 10:18
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495552023.A.F5C.html?cacheKey=2052-39064499&offset=17177&offset-sig=df8f13be39ad1bd4c342fde0142d2dbb2881f3fe" data-longpollurl="/v1/longpoll?id=7113ea68bdb5e84f0b05a6a03fc23aeecd434b6c" data-offset="17177"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

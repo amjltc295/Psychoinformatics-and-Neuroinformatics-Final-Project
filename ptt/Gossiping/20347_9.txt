@@ -1,0 +1,184 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495145026.A.8AB.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 桃園客運新車啓用 工會成員控遭惡意資遣 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+新頭殼
+2.完整新聞標題:
+桃園客運新車啓用 工會成員控遭惡意資遣、調班
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 桃園客運新車啓用 工會成員控遭惡意資遣">
+<meta property="og:description" content="1.媒體來源:
+新頭殼
+2.完整新聞標題:
+桃園客運新車啓用 工會成員控遭惡意資遣、調班
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495145026.A.8AB.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495145026.A.8AB.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">HoshinoAsuka (ほしのあすか)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 桃園客運新車啓用 工會成員控遭惡意資遣</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 19 06:03:42 2017</span></div>
+1.媒體來源:
+
+新頭殼
+
+2.完整新聞標題:
+
+桃園客運新車啓用 工會成員控遭惡意資遣、調班
+
+3.完整新聞內文:
+
+新頭殼newtalk | 鍾孟軒 桃園市報導 發布 2017.05.18 | 11:51
+
+臺灣汽車客運產業工會今 (18) 日上午現身在「桃園客運新車啟用典禮」想對桃園市長鄭
+文燦表達訴求，不料鄭文燦並未出席活動，而是由桃園市交通局局長劉慶豐前往出席典禮
+。「司機被打壓、市長請幫忙！」臺灣汽車客運產業工會在典禮場外被警方以紅龍限制抗
+議範圍，典禮開始前，許多桃客主管幹部與員工協助警方不讓抗議員工進入會場。
+
+典禮開始前，工會成員尚未到場，《新頭殼》記者試圖進入典禮會場採訪，卻遭桃園客運
+督導課課長黃富安阻擋。隨後工會成員到達典禮現場，開始喊著口號，表達訴求。「要協
+商、不要打壓、市長幫幫忙！」
+
+原企業工會理事范光明因為幫其他司機爭取權益，而遭公司藉故開除，目前正在勞資爭議
+的期間。范光明表示，桃園客運違法多年，要求司機超時工作，未依規定發放加班費，4
+月27日也呼籲市政府與公司處理此事，但雙方企圖冷處理，毫無反應。「今天所有的訴求
+都是要求公司合法，並非不合理的要求。」
+
+桃產總秘書吳嘉浤指出，桃園市政府從104年1月份至今，兩年來共遭開罰14件、裁罰金額
+累積349萬元，從一開始的超時工作問題、沒有七休一，到後面到加班費不足的問題、司
+機的退休金也未足額提撥都被開罰，我們必須問市政府，在這麼多的開罰記錄，桃園客運
+體制造成司機過勞，也影響乘客與用路安全，桃園市政府是否能有實際作為？
+
+上月月底同樣一批人前往桃園市政府前抗議，要求市府介入調查公司違法與處理勞資糾紛
+，當時勞工局邀請抗議司機與聲援團體一起前往辦公室討論，做出必須要先有「窗口」的
+結論，因此在桃產總的協助下，申請成立「臺灣汽車客運產業工會」，經過兩週卻還遲遲
+未審核，吳嘉浤表示「勞工局的程序都已經跑完了，就只差鄭文燦審核通過。」
+
+然而桃園客運得知員工要另外成立產業工會，竟以調動班表作為打壓手段。臺灣汽車客運
+產業工會要求，希望市政府能盡快核發工會牌照，並請鄭文燦召開協調會議，也支持員工
+追討桃園客運公司五年來違法苛扣的加班費，且強力監督，禁止桃園客運以任何手段打壓
+員工。
+
+臺灣汽車客運產業工會詢問黃富安是否能夠代表公司回應？黃富安則說「我不會回應你們
+！」並說有任何事情直接找企業工會，可以自己處理，要求對方以正常管道進行對話。交
+通局長劉慶豐受訪則回應，具他自己所瞭解，桃園客運都有在和對方協商，之間的紛爭勞
+動局也有按照程序處理。劉慶豐最後並未上前關心抗議司機，直接上車離去。
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="https://newtalk.tw/news/view/2017-05-18/87002" target="_blank" rel="nofollow">https://newtalk.tw/news/view/2017-05-18/87002</a>
+
+5.備註:
+
+鄭文胖: 你們這堆大叔又不像華航空姐會有版面 我也可以看風向露臉 甩你喔? ^.&lt;
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.172.225
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495145026.A.8AB.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495145026.A.8AB.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WeasoN</span><span class="f3 push-content">: 無智楊</span><span class="push-ipdatetime"> 05/19 06:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">remarkand</span><span class="f3 push-content">: 桃園客運老板後台很硬喔 …原po…</span><span class="push-ipdatetime"> 05/19 06:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">badkidXD</span><span class="f3 push-content">: 六隻牛</span><span class="push-ipdatetime"> 05/19 06:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yesonline</span><span class="f3 push-content">: 劉慶豐最後並未上前關心抗議司機....</span><span class="push-ipdatetime"> 05/19 06:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fufufugogogo</span><span class="f3 push-content">: 顏色不對 噓</span><span class="push-ipdatetime"> 05/19 06:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chunglee</span><span class="f3 push-content">: 這家不是那個誰的?</span><span class="push-ipdatetime"> 05/19 06:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GSHARP</span><span class="f3 push-content">: #人正真好</span><span class="push-ipdatetime"> 05/19 06:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aaron910135</span><span class="f3 push-content">: 吳家產業不意外</span><span class="push-ipdatetime"> 05/19 06:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gogen</span><span class="f3 push-content">: 五羊 : 不雙不要當，司機滿街</span><span class="push-ipdatetime"> 05/19 07:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chanollili</span><span class="f3 push-content">: 無脖熊：氣到中風都好了</span><span class="push-ipdatetime"> 05/19 07:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Shadouie</span><span class="f3 push-content">: 叫周瑜？也不想想桃客是誰的產業 廠廠</span><span class="push-ipdatetime"> 05/19 09:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xulzj524</span><span class="f3 push-content">: 如果當初周瑜沒選上 這群人還有露臉的可能性嗎 希望桃園</span><span class="push-ipdatetime"> 05/19 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xulzj524</span><span class="f3 push-content">: 有其他公司可以來搶~~</span><span class="push-ipdatetime"> 05/19 10:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495145026.A.8AB.html?cacheKey=2052-35360952&offset=3850&offset-sig=9daa97fa2a80e34831060d1e32d74676c95e102b" data-longpollurl="/v1/longpoll?id=6854d5c7ed6729bdad7cdcd50517e05a0befe6a1" data-offset="3850"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

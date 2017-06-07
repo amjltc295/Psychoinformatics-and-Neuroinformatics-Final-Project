@@ -1,0 +1,304 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496218716.A.145.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [ＦＢ] FB看到的硬幣魔術解說 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="其實我看到的想法跟他想得差不多
+但是我的看法是影片&#34;前製&#34;而不是配合&#34;後製&#34;
+魔術師通常會有用手法 用機關之類的做法
+但是歸根究柢手法跟機關都很難不被發現破綻
+所以魔術師會用一些動作手法來轉移目標
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [ＦＢ] FB看到的硬幣魔術解說">
+<meta property="og:description" content="其實我看到的想法跟他想得差不多
+但是我的看法是影片&#34;前製&#34;而不是配合&#34;後製&#34;
+魔術師通常會有用手法 用機關之類的做法
+但是歸根究柢手法跟機關都很難不被發現破綻
+所以魔術師會用一些動作手法來轉移目標
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496218716.A.145.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496218716.A.145.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">smalltwo (獎金獵人)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [ＦＢ] FB看到的硬幣魔術解說</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 31 16:18:34 2017</span></div>
+其實我看到的想法跟他想得差不多
+但是我的看法是影片&#34;前製&#34;而不是配合&#34;後製&#34;
+魔術師通常會有用手法 用機關之類的做法
+但是歸根究柢手法跟機關都很難不被發現破綻
+
+所以魔術師會用一些動作手法來轉移目標
+避免看魔術的人發現真正的問題
+像是介紹美女助手~你的目光就很自然地去看美女對吧~~
+首先這魔術表演的其實是一個近距離魔術
+我就先問一個最簡單的問題
+近距離魔術結果評審在台下、觀眾這遠..是哪招?
+怎不邀請一位評審上台見證(當然從觀眾席找自己人也是魔術師常用的手法)
+
+其實真正的手法就在這裡..魔術師希望大家看&#34;螢幕&#34;
+而不是看桌面..
+接下來魔術師就會以影片上的動作
+在桌上展示不怎麼驚人的近距離魔術
+用手法變硬幣 翻牌後變花瓣一類的
+但是驚人的那個部分其實是透過不斷的排練與影片同步製造出來的
+台上真正的情況只有攝影大哥知道
+台下的評審看不到桌面.在二樓的觀眾沒望遠鏡根本看不清桌面
+只要舉止動作分毫不差
+再加上被刻意誤導去看螢幕
+就是節目上完美展示的視頻魔術..
+這是個精彩的表演
+在場的觀眾和評審就透過大螢幕觀看到了魔術~
+
+<span class="f2">※ 引述《B42297 (余秉)》之銘言：
+</span><span class="f6">: ＦＢ卦點說明：美國實境秀硬幣魔術表演的手法解說,剛在朋友臉書看到的,真的是這樣嗎？
+</span><span class="f6">: ＦＢ連結：
+</span><span class="f6">: <a href="https://m.facebook.com/story.php?story_fbid=1525297360823184&amp;id=100000288046102" target="_blank" rel="nofollow">https://m.facebook.com/story.php?story_fbid=1525297360823184&amp;id=100000288046102</a>
+</span><span class="f6">: ＦＢ內容：台灣人的魔法台灣人破解
+</span><span class="f6">: 有關今天很夯的魔術秀,我的看法是這樣的....
+</span><span class="f6">: 我還是很尊重魔術的
+</span><span class="f6">: 連結有影片,看完之後蠻好奇美國實境秀居然這樣配合？還是不是這樣?有請相關科系解釋 謝謝
+</span><span class="f6">: -----
+</span><span class="f6">: Sent from JPTT on my Asus ASUS_Z017DA.
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.51.167.168
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496218716.A.145.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496218716.A.145.html</a>
+</span><span class="f2">※ 編輯: smalltwo (123.51.167.168), 05/31/2017 16:19:30
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: 評審不是看攝影機嗎 難道攝影機也是蔡準備的</span><span class="push-ipdatetime"> 05/31 16:25
+</span></div>或許我還說的不是很清楚
+簡單來說
+螢幕上的影片是預錄的
+攝影師也是魔術的一部分
+而魔術師只是配合影片展示一套
+近距離馬上被識破遠看看不出所以然的近距離魔術
+而觀眾評審看的都是預錄的螢幕 而不是桌面
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">carter7013</span><span class="f3 push-content">: 這樣叫造假</span><span class="push-ipdatetime"> 05/31 16:31
+</span></div>魔術不造假??那你真的看到魔法師了~~
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 美國達人秀會賠上自己公信力來為這種低級手法抬轎嗎?</span><span class="push-ipdatetime"> 05/31 16:32
+</span></div>為什麼你會認為是低級手法??
+能夠騙倒全場觀眾的
+不是魔術是什麼???
+公信力??當你先入為主的以為台上的一切都是你所認為的一切
+那就是魔術的成功呀
+你以為攝影師是達人秀的人??有人告訴你嗎?
+你以為影片是現場轉播的??有人告訴你嗎?
+但是他成功的讓你以為是那樣
+那就是他厲害的手法 他的設計成功
+如果當場被識破.那就是他的失敗
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 你乾脆說全場觀眾都被收買 轉播畫面是後製的好了...</span><span class="push-ipdatetime"> 05/31 16:34
+</span></div>你扯哪去了
+魔術就是要透過各種手法去騙現場的觀眾呀...
+我不是一直在說.影像是前製.而不是後製的~
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 後製當然是低級手法 你知不知道YIF之前的事被噴多慘?</span><span class="push-ipdatetime"> 05/31 16:36
+</span></div>就跟你說了不是後製..你到底有沒有看我寫了啥呀...
+流程如下
+1.錄製一段影片
+2.不斷排練跟影片動作完全一致
+3.現場演出,螢幕撥出1的影片
+哪裡說到後製了
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ArSaBuLu</span><span class="f3 push-content">: 這個不叫造假 再怎麼說 娛樂事業以創造最大盈利為主</span><span class="push-ipdatetime"> 05/31 16:36
+</span></div><span class="f2">※ 編輯: smalltwo (123.51.167.168), 05/31/2017 16:38:48
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tommy421</span><span class="f3 push-content">: YIF 拿了補助金就消失了 幾千萬耶~~</span><span class="push-ipdatetime"> 05/31 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ekoj</span><span class="f3 push-content">: 用影片後製？ 這樣每部電影都超魔術了</span><span class="push-ipdatetime"> 05/31 16:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 推文到底哪隻眼睛看到我說後製影片...</span><span class="push-ipdatetime"> 05/31 16:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 明明說的是預錄好現場撥放..怎有人一直看成後製....</span><span class="push-ipdatetime"> 05/31 16:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 賽門那種雞巴郎才不會陪你演戲</span><span class="push-ipdatetime"> 05/31 16:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 賽門那個機掰人看不到桌面..只會看到螢幕</span><span class="push-ipdatetime"> 05/31 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 當然有這種可能性 不過可能性大概跟0差不多</span><span class="push-ipdatetime"> 05/31 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 他是被騙倒的那個</span><span class="push-ipdatetime"> 05/31 16:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 事先準備叫&#34;前置&#34; 修改影片叫&#34;後製&#34; 你想說的是哪個?</span><span class="push-ipdatetime"> 05/31 16:45
+</span></div>我連流程都寫給你了...你還在那邊後製修改影片....
+<span class="f2">※ 編輯: smalltwo (123.51.167.168), 05/31/2017 16:46:28
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 影片前製指的是編劇導演預算那些 別自己亂給定義</span><span class="push-ipdatetime"> 05/31 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 原Po寫的是另一種手法 類似有些舞台魔術 這點ok</span><span class="push-ipdatetime"> 05/31 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ruln</span><span class="f3 push-content">: 老實說 So what?</span><span class="push-ipdatetime"> 05/31 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 我說的影片前製是只表演前就已經拍好螢幕上的影片.而不</span><span class="push-ipdatetime"> 05/31 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 是一堆人跳針說的表演完後製撥出</span><span class="push-ipdatetime"> 05/31 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 那就是&#34;前置後製影片&#34;啊... 說後製有問題嗎?</span><span class="push-ipdatetime"> 05/31 16:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 所以是啥低級手法?就算你在現場你還是一樣會被騙倒呀</span><span class="push-ipdatetime"> 05/31 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 只是我不認為這種手法會被AGT的製作單位採用 就這樣</span><span class="push-ipdatetime"> 05/31 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 看著在台上拿著攝影機的人就以為那是達人秀派的人</span><span class="push-ipdatetime"> 05/31 16:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 大家看完YIF影片第一時間都很震驚 知道是後製之後呢?</span><span class="push-ipdatetime"> 05/31 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 看著螢幕上撥出的影片就以為是現場那位攝影師即時轉播的</span><span class="push-ipdatetime"> 05/31 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: YIF的影片是現場配合演出..我說的是現場都被騙倒...</span><span class="push-ipdatetime"> 05/31 16:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 你到底懂不懂你說的後製跟我說的差在哪...</span><span class="push-ipdatetime"> 05/31 16:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 你的前置就是他們講的後製 這只是文字差異而已</span><span class="push-ipdatetime"> 05/31 16:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: YIF的魔術你在現場會一棒敲下去說你在演三小~</span><span class="push-ipdatetime"> 05/31 16:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 重點是AGT會不會陪你這樣玩而已 如果會 那就會</span><span class="push-ipdatetime"> 05/31 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 這魔術你在現場的氛圍安排你只會跟著喊怎可能</span><span class="push-ipdatetime"> 05/31 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 其實也沒什麼好吵的</span><span class="push-ipdatetime"> 05/31 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 我能理解你的講法 問題在於你不能接受這是低級手法啊</span><span class="push-ipdatetime"> 05/31 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 類似的手法明明就很常被各種魔術師使用呀...</span><span class="push-ipdatetime"> 05/31 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 用各種安排讓你錯以為看到的是真的.當下就驚嘆不已</span><span class="push-ipdatetime"> 05/31 16:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 現在說破了你就說那是低級手法..問題是這手法你做不到</span><span class="push-ipdatetime"> 05/31 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 而且你就算在現場.照樣會被騙倒</span><span class="push-ipdatetime"> 05/31 17:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 照你說法 YIF現場配合算低級 但收買攝影師卻是高級?</span><span class="push-ipdatetime"> 05/31 17:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 你真的都不管別人說啥耶...誰跟你說收買攝影師了....</span><span class="push-ipdatetime"> 05/31 17:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 台上的人就是演出的一部分,用來讓你以為那是真的</span><span class="push-ipdatetime"> 05/31 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: &#34;你以為攝影師是達人秀的人??有人告訴你嗎?&#34; 你說的</span><span class="push-ipdatetime"> 05/31 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 他就不是達人秀的人呀.他是用來騙你的第一個點</span><span class="push-ipdatetime"> 05/31 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 跟收買一點關係都沒有.他就是演出者之一</span><span class="push-ipdatetime"> 05/31 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: miracle你還說他懂..我看他從頭到尾都不懂...</span><span class="push-ipdatetime"> 05/31 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 試問收買攝影師跟攝影師是自己人的差異???</span><span class="push-ipdatetime"> 05/31 17:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: AGT又不是沒攝影師，會閒來沒事放一個路人上去拍攝?</span><span class="push-ipdatetime"> 05/31 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 我去表演我自己帶了助手上台假裝是攝影師.你會說我收買</span><span class="push-ipdatetime"> 05/31 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 攝影師??pigofwind..因為他根本不是上去拍攝的...</span><span class="push-ipdatetime"> 05/31 17:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 他是上台讓台下的觀眾評審以為他是上去拍攝即時影像</span><span class="push-ipdatetime"> 05/31 17:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pigofwind</span><span class="f3 push-content">: 我不覺得AGT會陪你這樣玩，你只是硬要找出個說法而已</span><span class="push-ipdatetime"> 05/31 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 觀眾相信螢幕畫面沒後製是因為美國達人秀公信力</span><span class="push-ipdatetime"> 05/31 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: AGT又不會干預表演者在台上的表演內容.而且不會透露給</span><span class="push-ipdatetime"> 05/31 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 如果真要拿公信力來玩 你說的那些手法都可有可無</span><span class="push-ipdatetime"> 05/31 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 評審知道...你還記得表演者說這表演只在達人秀表演嗎</span><span class="push-ipdatetime"> 05/31 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mayday79715</span><span class="f3 push-content">: 鬼扯 就算是好了啦 東西一樣給你 你做的出來嗎？</span><span class="push-ipdatetime"> 05/31 17:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 有很多事你就算到手法怎做的.你就是做不來.劇本寫好了</span><span class="push-ipdatetime"> 05/31 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 你可以找潘瑋柏來演或者找金士傑來演.兩個效果截然不同</span><span class="push-ipdatetime"> 05/31 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 這是個娛樂表演.跟其他唱歌跳舞丟球的沒兩樣.我只是點破</span><span class="push-ipdatetime"> 05/31 17:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 大家重點不在桌上怎變得.而是誰上你以為關鍵在桌上的...</span><span class="push-ipdatetime"> 05/31 17:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 你的邏輯很有問題，你的意思就是直指整個表演都是節目</span><span class="push-ipdatetime"> 05/31 17:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 製作出來的，評審跟觀眾都被整個製作團隊欺騙囉</span><span class="push-ipdatetime"> 05/31 17:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 重點就是AGT會不會讓你這樣玩啊</span><span class="push-ipdatetime"> 05/31 17:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 魔術本來就是騙觀眾沒錯 重點是會不會用這種手法</span><span class="push-ipdatetime"> 05/31 17:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 你知道你這樣的說法，等於指控這節目為了收視率，而不</span><span class="push-ipdatetime"> 05/31 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 顧公正性欺騙大眾嗎？這只要被爆出來，你覺得後果是電</span><span class="push-ipdatetime"> 05/31 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 視台願意見到的嗎？就只為了一次的效果？</span><span class="push-ipdatetime"> 05/31 17:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 如果是一般魔術節目 整集都是後製或前置也不奇怪</span><span class="push-ipdatetime"> 05/31 17:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mirac1e</span><span class="f3 push-content">: 我不否定你說的手法 但這是AGT 我只能說可能性很小</span><span class="push-ipdatetime"> 05/31 17:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 製作團隊???製作團隊又不會干預表演者表演的項目..</span><span class="push-ipdatetime"> 05/31 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: miracle那真的得看現場是否真的都被騙倒瞜.就像那個機掰</span><span class="push-ipdatetime"> 05/31 17:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 評審.他都被騙倒的話.其實魔術表演的還挺不錯的.不是嗎</span><span class="push-ipdatetime"> 05/31 17:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 不是也有騙不倒評審的當場被打臉嗎...</span><span class="push-ipdatetime"> 05/31 17:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 至於smallxxoo..魔術就是場騙人秀..要看魔法請不要進場</span><span class="push-ipdatetime"> 05/31 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 你整篇邏輯不就是說，魔術師製作了一個影片，然後請電</span><span class="push-ipdatetime"> 05/31 17:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 視台把他投射到螢幕上，然後魔術師同步只是做動作而已</span><span class="push-ipdatetime"> 05/31 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: ，請問你，魔術師要把影片投射到螢幕的這部分，電視台</span><span class="push-ipdatetime"> 05/31 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 製作團隊不需要先知道內容嗎？如果知道了還同意，就等</span><span class="push-ipdatetime"> 05/31 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 於是共犯欺騙大眾，電視台會為了一個人而這樣做？</span><span class="push-ipdatetime"> 05/31 17:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: smallxxoo你對魔術的期待到底是什麼</span><span class="push-ipdatetime"> 05/31 17:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 大家都知道魔術是騙人的，我要問你的是，你的邏輯到底</span><span class="push-ipdatetime"> 05/31 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 有沒有想過成不成立？魔術師本身騙人沒錯，但是電視台</span><span class="push-ipdatetime"> 05/31 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 會賠上公信力一起騙人？這就是你最大的盲點，也無法說</span><span class="push-ipdatetime"> 05/31 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 有部電影大魔術師你看過嗎??你怎會期待七聖法是真的呢</span><span class="push-ipdatetime"> 05/31 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 服人的地方，管我對魔術表演的看法有何關係啊</span><span class="push-ipdatetime"> 05/31 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 照你的說法所有的魔術師都不該上電視表演.因為會賠上電</span><span class="push-ipdatetime"> 05/31 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 視台的公信力對吧.電視台沒揭穿魔術師的手段就是沒公信</span><span class="push-ipdatetime"> 05/31 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 誰跟你期待魔術是真的，你不要跳針，只要回答這麼大的</span><span class="push-ipdatetime"> 05/31 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 節目電視台，會不會賠上公信力來一起騙人</span><span class="push-ipdatetime"> 05/31 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 這只是個魔術表演.而現場觀眾看得也都讚嘆不已.表演完畢</span><span class="push-ipdatetime"> 05/31 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 誰能還原?這跟公信力到底有啥關係</span><span class="push-ipdatetime"> 05/31 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 電視台不配合表演魔術難道要當場揭穿魔術師??</span><span class="push-ipdatetime"> 05/31 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 誰都知道魔術是騙人的好不好，是你的邏輯說，這次的表</span><span class="push-ipdatetime"> 05/31 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smallxxoo</span><span class="f3 push-content">: 演，整個電視台都一起騙人的把戲</span><span class="push-ipdatetime"> 05/31 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 你講的公信力就很可笑呀....所以你不是就認為電視台不該</span><span class="push-ipdatetime"> 05/31 17:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 配合魔術師?實際上電視台做了啥?讓表演者上台.播放影片</span><span class="push-ipdatetime"> 05/31 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">id0221</span><span class="f3 push-content">: 影片也是魔術師聲東擊西的一部分</span><span class="push-ipdatetime"> 05/31 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 還有呢??沒有了呀~~~其他表演者沒放過影片?其他表演者</span><span class="push-ipdatetime"> 05/31 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">id0221</span><span class="f3 push-content">: 這樣理解就可以了吧</span><span class="push-ipdatetime"> 05/31 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 都沒有助手?你對魔術的期待真的越來越怪了...</span><span class="push-ipdatetime"> 05/31 17:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 是呀.只要透過影片呈現結果吸引觀眾目光就達到目的了</span><span class="push-ipdatetime"> 05/31 17:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 實際上桌子上表演個很容易抓包的近距離魔術就好</span><span class="push-ipdatetime"> 05/31 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">id0221</span><span class="f3 push-content">: 那問題就不是在魔術上面啊</span><span class="push-ipdatetime"> 05/31 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">id0221</span><span class="f3 push-content">: 是節目要不要配合這樣的魔術而已</span><span class="push-ipdatetime"> 05/31 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">id0221</span><span class="f3 push-content">: 只是節目都播出了所以應該=w=</span><span class="push-ipdatetime"> 05/31 17:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 現場的大螢幕平時是拿來直播台上狀況用的 如果配合表</span><span class="push-ipdatetime"> 05/31 18:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 演者撥放經過後製的影片 勢必有損節目公信力...</span><span class="push-ipdatetime"> 05/31 18:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 所以製作單位在哪一集告訴你台上的螢幕是直播台上狀況用</span><span class="push-ipdatetime"> 05/31 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: ?還是你先入為主的這樣認為?</span><span class="push-ipdatetime"> 05/31 18:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 觀看魔術的時候,如果你真心想破解手法.請務必把所有你看</span><span class="push-ipdatetime"> 05/31 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 到感覺到的都畫上一個問號.不要把任何先入為主的想法帶</span><span class="push-ipdatetime"> 05/31 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcod</span><span class="f3 push-content">: 你講的不無可能，噓的就別理他了，很多人也覺得師父不會騙人</span><span class="push-ipdatetime"> 05/31 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 入,不然就當成一場秀來看吧.</span><span class="push-ipdatetime"> 05/31 18:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 江湖一點訣說破不值錢~~拿來用在魔術上再適合不過</span><span class="push-ipdatetime"> 05/31 18:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 的確 想法別被侷限住 手法有優劣之分 何必一開始就覺</span><span class="push-ipdatetime"> 05/31 18:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 得是最無聊 最不合情理那種...</span><span class="push-ipdatetime"> 05/31 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 話說 我個人認為桌子應該有經特殊設計 表演過程中桌</span><span class="push-ipdatetime"> 05/31 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: 子在硬幣閃現/消失時一直不自然晃動</span><span class="push-ipdatetime"> 05/31 19:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunshinecan</span><span class="f3 push-content">: <a href="http://imgur.com/jlOCcMb" target="_blank" rel="nofollow">http://imgur.com/jlOCcMb</a> 硬幣應該是被收入暗格了(?</span><span class="push-ipdatetime"> 05/31 20:07
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="jlOCcMb"><a href="//imgur.com/jlOCcMb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496218716.A.145.html?cacheKey=2052-2772087&offset=14689&offset-sig=d3f530cb107ec4825f0cdbceda480bf3ed6c1e68" data-longpollurl="/v1/longpoll?id=22297007fe210630faa1b045cfe12b6576ace035" data-offset="14689"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

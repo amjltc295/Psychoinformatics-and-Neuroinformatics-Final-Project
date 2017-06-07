@@ -1,0 +1,366 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495002553.A.737.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 西非的海鮮消失了，全是中國漁船的錯？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+風傳媒
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 西非的海鮮消失了，全是中國漁船的錯？">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+風傳媒
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495002553.A.737.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495002553.A.737.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">DrStrange (至尊魔法師)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 西非的海鮮消失了，全是中國漁船的錯？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 14:29:09 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+風傳媒
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+西非的海鮮消失了，全是中國漁船的錯？
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+環保組織和專家們說，外國漁船利用西非國家的監管和執法不力大肆捕撈，導致西非漁業
+資源面臨枯竭。在這些外國漁船中，數量眾多的中國漁船越來越成為環保組織和媒體關注
+的焦點。有分析將西非的問題歸咎於中國的「掠奪式」捕撈，也有專家說，永續性的漁業
+開發需要共同行動，需要各國和每個人的努力。
+
+多國競捕
+
+瑪麗安·特能·恩達耶（Marianne Teneng Ndaye）是塞內加爾東部漁村若阿勒-法久特（
+Joal-Fadiouth）一個魚類加工貿易聯合會的負責人。她對《路透社》說：「外國水產工
+廠和拖網漁船的行為把我們吸乾了。」
+
+根據綠色和平的說法，西非水域的外國漁船有400多艘，主要來自中國和歐洲國家。這些
+漁船中有數十艘大型拖網漁船，每艘一年的捕撈量就超過一千多艘塞內加爾傳統漁船捕撈
+量的總和。
+
+綠色和平的海洋生物學專家約翰·霍瑟瓦爾（John Hocevar）對美國之音說：「我們有很
+多來自中國、韓國、甚至意大利和西班牙等歐洲國家的大型漁船。他們利用西非國家監管
+和執法的不足，事實上是從各個非洲社區那裡偷魚。」
+
+遠洋擴張
+
+在這些外國漁船中，大多數來自中國。中國擁有世界上最多的遠洋捕撈船。中國漁業年鑑
+的統計數據顯示，2015年，中國遠洋漁船擁有量為2512艘，比2014年增加52艘。綠色和平
+說，這個規模是美國的10倍。
+
+事實上，不僅是西非，中國的遠洋捕撈船也前仆後繼地開赴其他漁業資源較為豐富的水域
+。中國的漁業年鑑說，中國2015年遠洋捕撈產量為219.20萬噸，比上一年增長大約8%。
+
+美國華盛頓大學西雅圖分校兼職講師、研究中國漁業的專家馬碧珊（Tabitha Mallory）
+說， 中國遠洋漁船規模的擴張始於上世紀80年代，當時主要是出於糧食保障的考量，因
+為中國近海漁業面臨過度捕撈的局面。她說，中國遠洋產業在後來的繼續擴張則更多的是
+受到經濟就業壓力和利潤的驅動，以及配合中國政府所說的「走出去」戰略。
+
+她說：「我認為，背後的動機非常複雜。最開始是糧食安全，同時也是受到經濟壓力，不
+僅是失業問題，還有利潤驅使。此外，擴大遠洋船隊也有助於增加中國在全球的存在和影
+響。」
+
+中國問題
+
+不過，中國遠洋船隊在西非及其他地方的漁業活動並不總是給中國帶來正面影響。綠色和
+平的霍瑟瓦爾說：「中國對西非來說已經成為了一個重大問題。」
+
+兩年前，綠色和平的一份有關西非漁業資源的調查報告說，中國遠洋漁業企業在西非海域
+長期存在各種非法、不報告或不管制（Illegal, unreported and unregulated fishing
+, IUU）的捕撈行為，包括謊報漁船噸位、無牌捕魚、使用非法漁網，情況嚴重。
+
+今年2月，綠色和平的「希望號」（Esperanza）輪船再次在西非水域開展調研，為期兩個
+多月，期間還與塞拉利昂、幾內亞和幾內亞比紹這些國家的漁業官員進行了三週的聯合巡
+航。
+
+綠色和平在最近發布的調研簡報中說，他們在巡航中登上了37艘漁船進行檢查，發現10多
+艘漁船存在違法違規行為，包括漁網網眼過小、在許可範圍之外作業以及割鰭棄鯊。
+
+在塞拉利昂的一次檢查行動中，綠色和平發現四艘漁船存在非法捕撈行為，其中有兩艘中
+國船。綠色和平說，中國漁船攜帶或使用了網眼尺寸不符合規定的漁網、缺少正規的航海
+和捕撈日誌、缺少當地法律要求的在別國卸貨的許可，有一艘漁船上還有70袋鯊魚屍體。
+
+在這次聯合行動中，塞拉利昂、幾內亞和幾內亞比紹的當局共扣押了11艘涉嫌非法捕撈的
+漁船，並處以罰款，其中七艘來自中國。
+
+綠色和平「希望號」調研項目的負責人帕維爾·克林克哈莫斯（Pavel Klinckhamers）
+參與了巡航。他對美國之音說：“我認為這是很高的數量，尤其是他們都事先知道我們會
+進行檢查。”
+
+他說，那些漁船都聽到了風聲，一些中國漁船還收到了有關綠色和平和漁業官員將展開檢
+查的通知。
+
+政府補貼
+
+另一個引起爭議的是中國政府給予遠洋漁船的巨額補貼。馬碧珊說，這些補貼主要以燃油
+補貼為主，有一些是造船和稅收補貼。
+
+綠色和平的一項調查說，政府給予遠洋捕撈產業的燃油補貼從2006年的2.8億多人民幣增
+加到2014年的超過26億人民幣，而且這些補貼占到一些漁業公司營業外收入的很大一部分
+，甚至關乎企業的盈利與否。
+
+馬碧珊對中國的遠洋漁業做過深入研究。她說：「補貼確實扭曲這個產業的經濟，讓一些
+原本在沒有補貼的情況下沒有利潤可言的遠洋捕撈變得有利可圖。」
+
+一些分析人士認為，正因為有了這些補貼，才使得一些環保意識不強的中國漁民有能力把
+網撒向全世界。《紐約時報》援引新加坡南洋理工大學的研究員張宏洲的話說：“對於中
+國領導人來說，確保水產品的穩定供應不僅僅關乎經濟良好運行，還關乎社會穩定和政治
+合法性。”
+
+西非受損
+
+包括過度捕撈和非法捕撈在內的不可持續的漁業方式導致全球漁業資源不斷減少。聯合國
+糧農組織的數據顯示，全球大約30%的魚類種群面臨過度捕撈，近60%的魚類種群已被充分
+開發。
+
+西非的問題看起來更為嚴重。赫爾曼·科恩曾經擔任美國駐塞內加爾和岡比亞大使和負責
+非洲事務的助理國務卿。他對美國之音說：「非法捕撈不僅導致漁業資源枯竭，還奪走了
+一些靠捕魚為生的人們的生計。」
+
+他說，一位索馬里人曾經對他說，他們本來靠海吃海，以捕魚為生，但是外來的捕魚船來
+了之後，搶走了他們的營生，他們別無他法，只能去做海盜。
+
+綠色和平的霍瑟瓦爾說： 「非法捕撈造成這個地區每年大約20億美元的經濟損失，以及
+可能大約3000個就業機會的喪失。而且還導致沿海居民家庭難以維持溫飽，難以繼續以捕
+魚為生，而這是他們世世代代的生活方式。」
+
+世界銀行的數據顯示，在塞內加爾，將近20%的勞動力人口，也就是大約60萬人，從事漁
+業工作，而且在這個國家民眾的飲食結構中，魚類占到動物蛋白攝入的75%。
+
+全怪中國？
+
+綠色和平「希望號」最新的研究指出，涉嫌違規違法的漁船還有一些本地和其他國家的漁
+船。但是，中國漁船數量之多以及非法行為佔比之高似乎讓中國問題變得尤為突出。
+
+《紐約時報》在5月3日的一篇社論以《中國想吃魚，非洲人挨餓》（China Wants Fish,
+So Africa Goes Hungry）為題說，幾年前，來自歐盟、俄羅斯和中國的工業漁船把塞內
+加爾和非洲西北部其他國家近海的資源撈得乾乾淨淨，損害這些國家的沿海經濟，如今，
+情況沒有好轉，但是中國成為了主要的「掠食者」，而且中國的漁船為了滿足日益增長的
+需求，毫不猶豫地違法違規。
+
+中國外交部發言人耿爽最近在回應七艘中國漁船被西非國家當局扣押事件時說，中國政府
+一貫反對任何形式的非法捕撈，並要求漁業企業遵守法規，保護海洋生態環境。
+
+馬碧珊說，中國有個詞叫「擦邊球」，中國的漁業活動或許就可以用這個詞來形容。
+
+她說：「他們可以說，他們確實是遵守法律條文的，但是他們並不一定遵循法律的精神。
+尤其是他們在西非的漁業活動，沒有受到多少當地政府的管理，方式非常不可持續。」
+
+綠色和平的海洋環保人士在「希望號」聯合巡航的行動日誌中提到，中國漁船上的中國漁
+民普遍對當地的法律法規不熟悉。
+
+不過馬碧珊也表示，如果認為是中國人「食有魚」的巨大胃口將西非的漁業資源推向了瀕
+臨枯竭的邊緣，並不是十分準確。
+
+她說：「不僅是中國。中國從西非捕撈的魚，其中很多去了歐洲，上了歐洲消費者的餐桌
+，也有很多是進口回了中國，因為中國對名貴品種的需求不斷增加，而且中國國內還大量
+營銷從遠方捕到的海鮮。歐洲、美國和日本對魚類的需求都非常大。現實是，在世界其他
+國家的遠洋捕撈漁船減少捕撈活動之後，中國填補了進來。」
+
+《紐時》的社評也承認，中國不是唯一的問題所在。文章說，歐盟也與非洲國家達成協議
+，從他們的水域捕撈魚類，以解決本地區漁獲不足以滿足需求的問題；美國企業也從中國
+和其他漁船購買水產品，其中很多都加工成了寵物食品；俄羅斯和日本也在全球捕撈魚類
+。
+
+但是，中國沒有加入或者批准一些國際性的保護海洋漁業資源的協定，讓外界對於中國何
+時成為負責任的海洋大國表示懷疑。
+
+去年6月，聯合國糧農組織的《港口國措施協定》正式生效。這項全稱是「港口國家預防
+、制止和消除非法、不報告和不管制捕魚行為的協定」 的協定旨在預防非法捕撈的魚品
+通過各港口進入國際市場。根據協議，外國漁船入港須事先通知併申請許可，各國將根據
+國際最低標準對船隻做例行檢查，違規的船隻將被拒絕使用港口或某些港口服務，並將建
+立信息共享網絡。
+
+截至今年5月7日，已有包括幾內亞、塞內加爾、美國和歐盟在內的46個國家和地區簽署和
+批准了這項協定。中國尚未加入這項協定。
+
+積極發展
+
+馬碧珊說，中國正在逐漸認識到，中國遠洋捕撈船隊在海外的一些行為部分導致了漁業資
+源的過度開發，這些行為也會直接影響到中國的國際聲譽。
+
+在綠色和平和西非當地政府展開聯合巡航並有四艘中國漁船在塞拉利昂被發現涉嫌非法捕
+撈之後，中國駐塞拉利昂大使吳鵬與中資漁業企業召開了座談會，強調漁企應當切實遵守
+有關國際公約和塞拉利昂的漁業法規，合法開發利用塞拉利昂的漁業資源，確保漁業產業
+的可持續發展。塞拉利昂漁業部官員也受邀出席座談會，向中資漁企介紹了當地的法律法
+規。
+
+此外，中國表示到2019年將大幅減少對遠洋捕撈產業的燃油補貼。不過專家們說，這項承
+諾將如何落實，還有待觀望。馬碧珊認為，如果中國能夠加入或批准一些國際性的漁業資
+源保護協議，將會是更為積極的信號。
+
+共同行動
+
+她也指出，漁業資源的可持續管理和開發需要集體行動，除非所有參與者一起合作，否則
+就無法產生「集體的善意」（collective goodwill）。
+
+觀察人士說，西非非法捕魚問題嚴重也是由於外國漁船利用了那裡的腐敗和執法不力。
+
+綠色和平的霍瑟瓦爾說，如果西非國家能夠進行區域合作將會有所裨益，包括信息共享，
+形成共同的漁業管理機制，讓當地漁民在漁業管理政策制定中有更大的發言權，提高對非
+法捕撈漁船的罰款。
+
+科恩大使也認為，需要幫助加強西非國家的監管能力。他說：「他們必須獲得必須的設備
+和人員進行執法。我認為，如果他們需要幫助，應當提出請求。他們可以從世界銀行、美
+國或歐盟那裡獲得幫助。」
+
+他說，在1981年到1990年間，美國曾經為幾內亞比紹、塞內加爾和毛里塔尼亞資助過一個
+漁業保護項目。這個項目由美國海岸警衛隊管理，為這些國家提供巡邏船和飛機，幫助監
+管非法捕魚活動。
+
+馬碧珊認為，如果中國能夠利用自身資源協助西非國家的海警和漁業部門的官員進行漁業
+管理，那麼既能確保西非漁業資源的可持續利用，也能提升中國的國際形象和聲譽。
+
+當然，參與者還包括消費者。霍瑟瓦爾說，在美國，他們會向銷售海鮮的企業和商家問責
+，確保消費者買到的是以合法、道德和可持續的方式捕撈的海鮮。
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="http://www.storm.mg/article/267334" target="_blank" rel="nofollow">http://www.storm.mg/article/267334</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+
+
+
+
+
+--
+<a href="https://youtu.be/Lt-U_t2pUHI" target="_blank" rel="nofollow">https://youtu.be/Lt-U_t2pUHI</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/Lt-U_t2pUHI" frameborder="0" allowfullscreen></iframe></div></div></div><a href="https://youtu.be/HSzx-zryEgM" target="_blank" rel="nofollow">https://youtu.be/HSzx-zryEgM</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/HSzx-zryEgM" frameborder="0" allowfullscreen></iframe></div></div></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.138.98.239
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495002553.A.737.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495002553.A.737.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: 一帶一路</span><span class="push-ipdatetime"> 05/17 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 五樓臭海鮮</span><span class="push-ipdatetime"> 05/17 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfbt</span><span class="f3 push-content">: 蓋</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SnakeO</span><span class="f3 push-content">: 西方國家造那甚麼大船還指責別人?全世界的漁業都一樣賤</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jan58912</span><span class="f3 push-content">: 改革成功</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sysop5566</span><span class="f3 push-content">: 蝗蟲</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Newtype</span><span class="f3 push-content">: 台灣也沒了</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SnakeO</span><span class="f3 push-content">: 魚線的盡頭這部紀錄片幾年前就有了</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 西非沒有弩砲戰船嗎?</span><span class="push-ipdatetime"> 05/17 14:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skydog0119</span><span class="f3 push-content">: 搶糧搶錢</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wolve</span><span class="f3 push-content">: 狼性你敢嘴</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tokyo730714</span><span class="f3 push-content">: 支那：中國砸了多少錢在非洲 撈一下會死喔</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heinse</span><span class="f3 push-content">: 螂性</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: 華人就是短視近利</span><span class="push-ipdatetime"> 05/17 14:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tin123210</span><span class="f3 push-content">: 隻字未提台灣欸，我以為台灣漁民撈很大也會被抓出來講</span><span class="push-ipdatetime"> 05/17 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james13112</span><span class="f3 push-content">: 人形蟑螂概念</span><span class="push-ipdatetime"> 05/17 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tokyo730714</span><span class="f3 push-content">: 台灣撈很大沒錯 但是要比蝗禍應該還是比不上強國</span><span class="push-ipdatetime"> 05/17 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kokunmai</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 05/17 14:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">enhppren</span><span class="f3 push-content">: 支持海盜</span><span class="push-ipdatetime"> 05/17 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ru04hj4</span><span class="f3 push-content">: 中國是最棒的 亂說話</span><span class="push-ipdatetime"> 05/17 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">psampras</span><span class="f3 push-content">: 海盜準備好了</span><span class="push-ipdatetime"> 05/17 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yaming123</span><span class="f3 push-content">: 中國在塞內加爾沒投資嗎？撈幾隻魚而已</span><span class="push-ipdatetime"> 05/17 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">candymm</span><span class="f3 push-content">: 中國=世界癌症</span><span class="push-ipdatetime"> 05/17 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AngelMAyCry</span><span class="f3 push-content">: 螂性，懂?</span><span class="push-ipdatetime"> 05/17 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amurorei</span><span class="f3 push-content">: 蝗蟲不是叫假的。每月捐款給綠色和平沒有白捐。</span><span class="push-ipdatetime"> 05/17 15:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 支那人＝蝗蟲，所到之處寸草不留</span><span class="push-ipdatetime"> 05/17 15:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vulu04u04</span><span class="f3 push-content">: 支持一帶一路....以後連魚是什麼都沒看過</span><span class="push-ipdatetime"> 05/17 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jkasc28s</span><span class="f3 push-content">: 其實台灣垃圾漁民行為也一樣，科科</span><span class="push-ipdatetime"> 05/17 17:37
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495002553.A.737.html?cacheKey=2052-41878024&offset=12122&offset-sig=f9df2b53ca966980571673ed82a64e1a7151254d" data-longpollurl="/v1/longpoll?id=7fdd3bf18dbb16eac27908ab86c88371a6f8f5c1" data-offset="12122"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

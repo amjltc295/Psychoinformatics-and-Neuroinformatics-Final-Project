@@ -1,0 +1,216 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495801219.A.3CC.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 蕭敬騰領軍 華碩歡慶ZenFone熱銷5百萬台 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合財經網
+2.完整新聞標題:
+蕭敬騰領軍 華碩歡慶ZenFone熱銷5百萬台
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 蕭敬騰領軍 華碩歡慶ZenFone熱銷5百萬台">
+<meta property="og:description" content="1.媒體來源:
+聯合財經網
+2.完整新聞標題:
+蕭敬騰領軍 華碩歡慶ZenFone熱銷5百萬台
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495801219.A.3CC.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495801219.A.3CC.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Perkins (波波)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 蕭敬騰領軍 華碩歡慶ZenFone熱銷5百萬台</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 20:20:16 2017</span></div>
+1.媒體來源:
+
+聯合財經網
+
+2.完整新聞標題:
+蕭敬騰領軍 華碩歡慶ZenFone熱銷5百萬台
+
+3.完整新聞內文:
+電腦品牌廠華碩將於6月3日、4日舉辦「ZenFone狂歡趴」，今天釋出完整演唱陣容，除了
+代言人蕭敬騰外，還有郭靜、蔡旻佑、吳汶芳、孫盛希、傅又宣、陳零九、王大文。
+
+華碩表示，ZenFone系列智慧型手機自開賣以來，於台灣熱銷超過500萬台，最新ZenFone 3
+的5.5吋機種累積售出超過26萬台，穩坐萬元級距智慧型手機單一機種銷售冠軍。
+
+另外，華碩指出，ZenFone 2 Laser自2015年開賣以來仍持續熱銷中，累積已超越87.4萬台
+，在5千元級距機種排行榜中遙遙領先。
+
+為再次感謝消費者熱情支持，華碩將於6月3日、4日在華山1914文化創意產業園區戶外廣場
+舉辦「ZenFone狂歡趴」，今天再釋出完整演唱陣容，除代言人蕭敬騰之外，還有純愛教主
+郭靜、人氣創作歌手蔡旻佑、吳汶芳、孫盛希、傅又宣、陳零九以及王大文等超強卡司輪
+番獻唱。
+
+華碩更推出500萬慶期間限定加碼優惠，6月3日、4日於光華商圈任一實體門市購買ZenFone
+3全系列手機，當日憑發票及手機可至華山文創園區活動會場服務處兌換Zenpower乙個；
+6月5日至18日期間，於全台指定實體門市購買指定款手機，贈送ZenPower乙個。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="https://money.udn.com/money/story/5641/2487684" target="_blank" rel="nofollow">https://money.udn.com/money/story/5641/2487684</a>
+
+5.備註:
+這幾年台灣手機能賣的真的剩ZENFONE系列了
+只是沒想到華碩竟然光在台灣就可以超過五百萬台
+反觀HTC......
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.167.165.6
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495801219.A.3CC.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495801219.A.3CC.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OGCOGCOGCOGC</span><span class="f3 push-content">: 神機</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yu1988</span><span class="f3 push-content">: 蕭大俠有被七進七出嗎？</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplebfly</span><span class="f3 push-content">: ZF3真的是支好手機,便宜好用</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div>真的cp值超高 出這麼久了還是王者
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfbt</span><span class="f3 push-content">: 再反觀</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darvish072</span><span class="f3 push-content">: 子龍機</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RockManX8</span><span class="f3 push-content">: ZF3真的是神機</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div>ZF3真的是神機+1
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cheinshin</span><span class="f3 push-content">: ←Zenfone3使用者</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">GodHelpMe</span><span class="f3 push-content">: 蕭先生至今還在讀技術學院進修部  遲遲不肯當兵</span><span class="push-ipdatetime"> 05/26 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 臺灣之光</span><span class="push-ipdatetime"> 05/26 20:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Axis999</span><span class="f3 push-content">: HTC是中國貨啊，主打歐美中國市場的 台灣沒在乎</span><span class="push-ipdatetime"> 05/26 20:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x04nonesuchx</span><span class="f3 push-content">: ZF3 真的爽用 CP爆表的代名詞</span><span class="push-ipdatetime"> 05/26 20:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sad0soul</span><span class="f3 push-content">: zoom機主推個</span><span class="push-ipdatetime"> 05/26 20:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 從第一代開始用 真的一代比一代好</span><span class="push-ipdatetime"> 05/26 20:22
+</span></div>進步看的到 很強的一個系列
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pinhanpaul</span><span class="f3 push-content">: new Zen4什麼時候要出</span><span class="push-ipdatetime"> 05/26 20:23
+</span></div>不是說快要出了嗎 規格提升
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dreamer48763</span><span class="f3 push-content">: 看不出來推文是反諷還是真心的</span><span class="push-ipdatetime"> 05/26 20:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isalin</span><span class="f3 push-content">: ZF3好用</span><span class="push-ipdatetime"> 05/26 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 是真的好用阿　手機板也都正面評價</span><span class="push-ipdatetime"> 05/26 20:24
+</span></div>難能可貴的是造型也很好看
+<span class="f2">※ 編輯: Perkins (118.167.165.6), 05/26/2017 20:25:48
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 這次3真的不錯</span><span class="push-ipdatetime"> 05/26 20:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a77942002</span><span class="f3 push-content">: ZF3 根本是為了銷高通沒人用的CPU?! 創造的奇蹟</span><span class="push-ipdatetime"> 05/26 20:24
+</span></div>625神U好嗎......
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: h是自己趕客人，不一樣吧</span><span class="push-ipdatetime"> 05/26 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaletra</span><span class="f3 push-content">: 花大錢給代言人  消費者買爛貨出任務</span><span class="push-ipdatetime"> 05/26 20:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 還在那出任務的 真的很大多數人想法不太同</span><span class="push-ipdatetime"> 05/26 20:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">syensyens</span><span class="f3 push-content">: 華碩好用</span><span class="push-ipdatetime"> 05/26 20:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CM15</span><span class="f3 push-content">: zf3那種性價比，銷晶片我可以接受。某 H的 S3令人印象深刻</span><span class="push-ipdatetime"> 05/26 20:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 出任務是ZF2吧　該更新資訊啦</span><span class="push-ipdatetime"> 05/26 20:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Kapersky</span><span class="f3 push-content">: 主機板我是送過幾次 ZF3 還真的沒送過</span><span class="push-ipdatetime"> 05/26 20:26
+</span></div><span class="f2">※ 編輯: Perkins (118.167.165.6), 05/26/2017 20:26:56
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bathilda</span><span class="f3 push-content">: ZF3 空機多少錢</span><span class="push-ipdatetime"> 05/26 20:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peter750804</span><span class="f3 push-content">: 我家就貢獻4台</span><span class="push-ipdatetime"> 05/26 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nvalue</span><span class="f3 push-content">: &lt;-- ZF3 使用者</span><span class="push-ipdatetime"> 05/26 20:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a77942002</span><span class="f3 push-content">: 沒幾家用 華碩敢用真的賭對了</span><span class="push-ipdatetime"> 05/26 20:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 買低階的7千初扣網購折價券　不知道有啥好嫌</span><span class="push-ipdatetime"> 05/26 20:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">artist0918</span><span class="f3 push-content">: 我還在用Laser2用好多年了沒壞過。。。</span><span class="push-ipdatetime"> 05/26 20:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bathilda</span><span class="f3 push-content">: 如果台灣賣五百萬台，等於沒四個人就有一個人買，好厲害</span><span class="push-ipdatetime"> 05/26 20:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JudgmentLin</span><span class="f3 push-content">: 蕭大俠七進七出戰子龍</span><span class="push-ipdatetime"> 05/26 20:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">love1987817</span><span class="f3 push-content">: 真假 我身邊都蘋果欸</span><span class="push-ipdatetime"> 05/26 20:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">apple00</span><span class="f3 push-content">: ZF2送2次了 想換了....</span><span class="push-ipdatetime"> 05/26 20:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: 我還在用ZF5</span><span class="push-ipdatetime"> 05/26 20:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">asters</span><span class="f3 push-content">: 2 laser 玩遊戲有夠lag...</span><span class="push-ipdatetime"> 05/26 20:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CoffeeandTea</span><span class="f3 push-content">: ZF3不錯，質感也好</span><span class="push-ipdatetime"> 05/26 20:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gepenny</span><span class="f3 push-content">: zf3靠625才由黑翻紅的 居然說沒人用的CPU? XDDD</span><span class="push-ipdatetime"> 05/26 21:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluestar99</span><span class="f3 push-content">: 除了子龍任務之外 一直都不錯吧</span><span class="push-ipdatetime"> 05/26 21:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryama</span><span class="f3 push-content">: zf3.552我台哥大7990，一般通訊行減2000</span><span class="push-ipdatetime"> 05/26 21:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ULSHAN</span><span class="f3 push-content">: 好用+1 支持台灣產業</span><span class="push-ipdatetime"> 05/26 21:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poorpoor2</span><span class="f3 push-content">: ZF3很棒, 又耐操</span><span class="push-ipdatetime"> 05/26 21:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OAO030</span><span class="f3 push-content">: zf3真心好用 洗刷掉前代子龍污名</span><span class="push-ipdatetime"> 05/26 21:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sars7125889</span><span class="f3 push-content">: 真的讚...玩遊戲也很順</span><span class="push-ipdatetime"> 05/26 21:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 我家貢獻五支</span><span class="push-ipdatetime"> 05/26 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linch416</span><span class="f3 push-content">: ZF3真的神機，真心不騙</span><span class="push-ipdatetime"> 05/26 22:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s4552752</span><span class="f3 push-content">: 我拿zf3</span><span class="push-ipdatetime"> 05/26 22:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sontocant</span><span class="f3 push-content">: 好用 很適合送家裡長輩</span><span class="push-ipdatetime"> 05/26 22:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxian30201</span><span class="f3 push-content">: 最近我爸想換 不玩遊戲 推薦32還64G啊？！</span><span class="push-ipdatetime"> 05/26 22:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">snoopy638</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 05/26 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ch02761018</span><span class="f3 push-content">: zenUI有點肥之外，其他真的還不錯</span><span class="push-ipdatetime"> 05/26 23:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AUwalker</span><span class="f3 push-content">: zf2出的時候也喊神機，出來3才有人敢講出任務；等4出來</span><span class="push-ipdatetime"> 05/27 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AUwalker</span><span class="f3 push-content">: 才會再有人追封3是任務機啦</span><span class="push-ipdatetime"> 05/27 09:17
+</span></div><span class="f2">※ </span><span class="f2 hl">cjol</span><span class="f2">:轉錄至看板 Stock</span>                                           05/28 15:24
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffwei66</span><span class="f3 push-content">: 低階 中階 無 NFC 功能 失敗。</span><span class="push-ipdatetime"> 05/30 06:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495801219.A.3CC.html?cacheKey=2052-1968137&offset=7544&offset-sig=9e1c4c2fe7c57f38342b06f96df1edc351c56988" data-longpollurl="/v1/longpoll?id=ba490978eef6352a63c44c2ee059351d0850fd55" data-offset="7544"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,186 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495498090.A.890.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 碼農到底是什麼意思? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="軟體工程師都會自嘲為碼農
+例子碼農兩字大多都可以直接替換成工程師
+可是真的講到碼農 人家又覺得是貶義
+工程師不太算貶吧 而且還很多工程師教別人不要當碼農 要當工程師
+可是碼農不就是工程師嗎?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 碼農到底是什麼意思?">
+<meta property="og:description" content="軟體工程師都會自嘲為碼農
+例子碼農兩字大多都可以直接替換成工程師
+可是真的講到碼農 人家又覺得是貶義
+工程師不太算貶吧 而且還很多工程師教別人不要當碼農 要當工程師
+可是碼農不就是工程師嗎?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495498090.A.890.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495498090.A.890.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">iamsheep (??)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 碼農到底是什麼意思?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 08:08:08 2017</span></div>
+軟體工程師都會自嘲為碼農
+
+例子碼農兩字大多都可以直接替換成工程師
+
+可是真的講到碼農 人家又覺得是貶義
+
+工程師不太算貶吧 而且還很多工程師教別人不要當碼農 要當工程師
+
+可是碼農不就是工程師嗎?
+
+整個意義很不明 有無八卦?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.228.193.90
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495498090.A.890.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495498090.A.890.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arrenwu</span><span class="f3 push-content">: Code Monkey</span><span class="push-ipdatetime"> 05/23 08:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 訓練有素的 猴子</span><span class="push-ipdatetime"> 05/23 08:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivorysoap</span><span class="f3 push-content">: IT狗</span><span class="push-ipdatetime"> 05/23 08:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 比猴子好聽了</span><span class="push-ipdatetime"> 05/23 08:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Granatha</span><span class="f3 push-content">: 版上一堆monkey 啊</span><span class="push-ipdatetime"> 05/23 08:09
+</span></div>不管講多難聽他都是工程師的代稱啊?
+到底意思跟工程師有什麼不同?
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lucifiel1618</span><span class="f3 push-content">: 跟不要當母豬要當台女一個概念</span><span class="push-ipdatetime"> 05/23 08:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnkofe</span><span class="f3 push-content">: 土法鍊鋼是碼農，聰明的寫程式是工程師</span><span class="push-ipdatetime"> 05/23 08:09
+</span></div>所以當工程師稱自己是碼農時 是在告訴別人自己程式寫的爛嗎?
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 回收業者會說你觀念錯了它是農夫的一種。</span><span class="push-ipdatetime"> 05/23 08:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">somefatguy</span><span class="f3 push-content">: 就幫忙打碼的</span><span class="push-ipdatetime"> 05/23 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 教主那種上大聯盟的 我們這種連農場3A都沒資格</span><span class="push-ipdatetime"> 05/23 08:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 就單純聽命行事寫code的打工仔啊</span><span class="push-ipdatetime"> 05/23 08:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 真的有本事能做核心演算法開發的人沒幾個好嗎</span><span class="push-ipdatetime"> 05/23 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 對一間公司來講這種人也不需要多</span><span class="push-ipdatetime"> 05/23 08:13
+</span></div>這樣的人不是本來就該站公司大部分嗎?
+人人都想照自己搞 公司怎麼運作?那這樣一堆人是在貶低什麼?
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 只會照著主管指示 或是系統規格文件 寫code</span><span class="push-ipdatetime"> 05/23 08:14
+</span></div>這樣不是應該的嗎? RD通通不聽主管指示 也不照文件做 這樣不是很糟糕?
+<span class="f2">※ 編輯: iamsheep (36.228.193.90), 05/23/2017 08:16:00
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 台灣一堆工程師會說工作用不到工數線代機率，90%就是這種</span><span class="push-ipdatetime"> 05/23 08:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 只不過是title掛個工程是比較好聽而已</span><span class="push-ipdatetime"> 05/23 08:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 實際上就只是個坐冷氣辦公室的工人</span><span class="push-ipdatetime"> 05/23 08:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnhmj</span><span class="f3 push-content">: 寫程式碼的工人 = 碼工</span><span class="push-ipdatetime"> 05/23 08:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 就生產員.   果農、菜農、碼農</span><span class="push-ipdatetime"> 05/23 08:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 自稱當然要謙虛點，不管講多難聽;還是你不懂什麼叫自謙？</span><span class="push-ipdatetime"> 05/23 08:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sali921</span><span class="f3 push-content">: 現代農夫呀  辛苦的要死  人家吃米的不管你去死</span><span class="push-ipdatetime"> 05/23 08:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 你可能要先搞清楚真正的RD是在幹麻...</span><span class="push-ipdatetime"> 05/23 08:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chses910372</span><span class="f3 push-content">: 種出馬賽克的人</span><span class="push-ipdatetime"> 05/23 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ChungLi5566</span><span class="f3 push-content">: 主管不一定懂code 有時候主管要求的寫法很沒效能</span><span class="push-ipdatetime"> 05/23 08:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fransice7</span><span class="f3 push-content">: 陳之藩：訓練有素的狗</span><span class="push-ipdatetime"> 05/23 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 雖然說台灣科技業的RD大部分也都只是掛名的假RD</span><span class="push-ipdatetime"> 05/23 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chses910372</span><span class="f3 push-content">: 台灣只有騙子和勞工是真的</span><span class="push-ipdatetime"> 05/23 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 矽谷的真RD部門很多是要有博士或10年以上經驗才進得去的</span><span class="push-ipdatetime"> 05/23 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 就算當到公司副總，也一堆人自稱只是在公司打雜的...</span><span class="push-ipdatetime"> 05/23 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 根本不需要去講解真正的管理者和打雜的有什麼差別吧..</span><span class="push-ipdatetime"> 05/23 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 雖然事實上，很多公司也沒有真正英明的管理者</span><span class="push-ipdatetime"> 05/23 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 真正RD在做的工作其實跟讀博班在做的事很像</span><span class="push-ipdatetime"> 05/23 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SILee</span><span class="f3 push-content">: 所以有真正有志在搞RD的公司是會優先聘博士來的</span><span class="push-ipdatetime"> 05/23 08:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsuan8871</span><span class="f3 push-content">: O(n^2) 和 O(Logn) 的差別</span><span class="push-ipdatetime"> 05/23 08:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mecca</span><span class="f3 push-content">: Melon</span><span class="push-ipdatetime"> 05/23 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 碼卡農..</span><span class="push-ipdatetime"> 05/23 08:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coolrr</span><span class="f3 push-content">: 養馬的吧</span><span class="push-ipdatetime"> 05/23 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Refauth</span><span class="f3 push-content">: 年薪百萬的猴子。</span><span class="push-ipdatetime"> 05/23 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ujay1990</span><span class="f3 push-content">: 這是自謙，有些人想當碼農也不一定有人要</span><span class="push-ipdatetime"> 05/23 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: code fucker</span><span class="push-ipdatetime"> 05/23 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kemusi</span><span class="f3 push-content">: 專門在做av碼塞克的人</span><span class="push-ipdatetime"> 05/23 08:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkucuh</span><span class="f3 push-content">: 我演算法都忘光光了。</span><span class="push-ipdatetime"> 05/23 08:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sean90330</span><span class="f3 push-content">: 會打hello world都是</span><span class="push-ipdatetime"> 05/23 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mathrew</span><span class="f3 push-content">: 就打電動 農怪 延伸義，專門農code</span><span class="push-ipdatetime"> 05/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">camerara</span><span class="f3 push-content">: 程序猿</span><span class="push-ipdatetime"> 05/23 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 碼農&gt;程式猿</span><span class="push-ipdatetime"> 05/23 09:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 在網路自稱的驕傲感來說，自稱碼農的比較有傲氣</span><span class="push-ipdatetime"> 05/23 09:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TheWho</span><span class="f3 push-content">: 在鍵盤上耕耘 懂?</span><span class="push-ipdatetime"> 05/23 09:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">goorfree</span><span class="f3 push-content">: 都只能幫人打工的</span><span class="push-ipdatetime"> 05/23 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 採集 比特幣 的農夫   董?</span><span class="push-ipdatetime"> 05/23 10:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuangJC</span><span class="f3 push-content">: 那有沒有鮑農 :P</span><span class="push-ipdatetime"> 05/23 12:48
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495498090.A.890.html?cacheKey=2052-37738237&offset=5975&offset-sig=fdf606414665dcf68751e84c2fe2895eea560f91" data-longpollurl="/v1/longpoll?id=55c3a5ce8a5af7322e7d7e212e5a76550633c96f" data-offset="5975"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

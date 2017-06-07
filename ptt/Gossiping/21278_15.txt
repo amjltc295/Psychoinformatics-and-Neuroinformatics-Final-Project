@@ -1,0 +1,175 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495779680.A.878.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 八千多億找谷歌進來玩無人車有搞頭? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="Google 無人車領先業界的技術
+但是由於是小客車
+高昂的設備要走入消費市場還有一段路
+台灣不能找谷歌來玩大型公共運輸系統??
+給一個城市，交通、法規、硬體跟著磨
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 八千多億找谷歌進來玩無人車有搞頭?">
+<meta property="og:description" content="Google 無人車領先業界的技術
+但是由於是小客車
+高昂的設備要走入消費市場還有一段路
+台灣不能找谷歌來玩大型公共運輸系統??
+給一個城市，交通、法規、硬體跟著磨
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495779680.A.878.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495779680.A.878.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hugh509 ((0_ 0))</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 八千多億找谷歌進來玩無人車有搞頭?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri May 26 14:21:17 2017</span></div>
+Google 無人車領先業界的技術
+但是由於是小客車
+高昂的設備要走入消費市場還有一段路
+
+台灣不能找谷歌來玩大型公共運輸系統??
+給一個城市，交通、法規、硬體跟著磨
+到時候小客車成熟，直接無縫接軌
+讓無人駕駛可以直接全台上路
+
+8000多億
+
+比站內關冷氣、減車廂
+預期高貴開發區成漫漫荒野
+用會計手法盈利的軌道計畫還有前途吧?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.252.32.103
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495779680.A.878.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495779680.A.878.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">seabox</span><span class="f3 push-content">: 有</span><span class="push-ipdatetime"> 05/26 14:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kent</span><span class="f3 push-content">: google導航爛成那樣 算了啦</span><span class="push-ipdatetime"> 05/26 14:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Gossiking</span><span class="f3 push-content">: 這樣哪有油水撈</span><span class="push-ipdatetime"> 05/26 14:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mazz</span><span class="f3 push-content">: 沒</span><span class="push-ipdatetime"> 05/26 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tryagain24</span><span class="f3 push-content">: 很餓 別這樣</span><span class="push-ipdatetime"> 05/26 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 有搞頭阿　台灣交通狹窄擁擠三寶多　開發成功當然有前途</span><span class="push-ipdatetime"> 05/26 14:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zz2895341</span><span class="f3 push-content">: 他媽的 你當台灣很大？？</span><span class="push-ipdatetime"> 05/26 14:23
+</span></div>跟大小有什麼關係?
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lcall</span><span class="f3 push-content">: 在台灣沒人汙根本搞不起來</span><span class="push-ipdatetime"> 05/26 14:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zz2895341</span><span class="f3 push-content">: 再說 扶植外商有啥好處？而且還是花國家的錢</span><span class="push-ipdatetime"> 05/26 14:23
+</span></div>吸趴，技術邊做邊學啊
+到時候車子也還是要在國內保養維修
+先走搞不好還能有代工出口硬體的能力
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: 小提醒: 計程車的人力成本只有1/4，無人車只比計程車便宜</span><span class="push-ipdatetime"> 05/26 14:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hcwang1126</span><span class="f3 push-content">: 推你</span><span class="push-ipdatetime"> 05/26 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: 一些的話，應不適合做為大眾運輸工具</span><span class="push-ipdatetime"> 05/26 14:24
+</span></div>未來交通最大的成本是運輸時間，無人駕駛會是趨勢
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pillliq</span><span class="f3 push-content">: 當初兩兆雙星不是滿成功的</span><span class="push-ipdatetime"> 05/26 14:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zy116pj</span><span class="f3 push-content">: zz2895341廢到笑,所以拿去給人肥比較好??</span><span class="push-ipdatetime"> 05/26 14:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithuang</span><span class="f3 push-content">: 確實這部分台灣有其競爭力應該爭取，因為只要在台灣能成</span><span class="push-ipdatetime"> 05/26 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithuang</span><span class="f3 push-content">: 功克服艱困的路況，世界上就沒有任何地方比會失敗了</span><span class="push-ipdatetime"> 05/26 14:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: google是世界級企業 沒道理要把專利授權給你</span><span class="push-ipdatetime"> 05/26 14:27
+</span></div>Google有玩的項目有不玩的，顯然他們喜歡做技術本位
+硬體的開發合作，就是台灣的強項
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Leo4891</span><span class="f3 push-content">: 無人駕駛　　省時　快速　安全　沒爭議　就是趨勢</span><span class="push-ipdatetime"> 05/26 14:28
+</span></div>人類駕車不說事故或路線判斷，光是煞停效應就浪費一堆時間
+<span class="f2">※ 編輯: hugh509 (111.252.32.103), 05/26/2017 14:31:46
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tobryant</span><span class="f3 push-content">: 沒肥水撈 沒搞頭</span><span class="push-ipdatetime"> 05/26 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: 無人駕駛的駕駛方式很保守 以不出事為原則</span><span class="push-ipdatetime"> 05/26 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: 跟人類駕駛相比不會有省時快速的優勢</span><span class="push-ipdatetime"> 05/26 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a8521abcd</span><span class="f3 push-content">: 〈台北都會〉《台北》無人小巴 最快8月試跑公車專用道</span><span class="push-ipdatetime"> 05/26 14:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: 我不認為協助google開發以後 google就會授權給我們賣</span><span class="push-ipdatetime"> 05/26 14:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ciswww</span><span class="f3 push-content">: 台北那個無人小巴只是來練功的</span><span class="push-ipdatetime"> 05/26 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fidelity77</span><span class="f3 push-content">: 小黃駕駛馬上會抗議</span><span class="push-ipdatetime"> 05/26 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxx789654123</span><span class="f3 push-content">: 認真回 台灣不是沒錢,是上位者沒得貪</span><span class="push-ipdatetime"> 05/26 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pokemonchine</span><span class="f3 push-content">: 沒油水撈喇</span><span class="push-ipdatetime"> 05/26 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 這樣會沒辦法錢沾</span><span class="push-ipdatetime"> 05/26 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 無人公共運輸系統屌在可以配合號誌 全程不停紅綠燈</span><span class="push-ipdatetime"> 05/26 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 地面輕軌那種低能垃圾淘汰技術 鬼島好意思稱前瞻 笑死</span><span class="push-ipdatetime"> 05/26 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 而且無人系統可以24小時 每5-10分鐘發一班</span><span class="push-ipdatetime"> 05/26 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 可以解決當初低能高鐵搞出的接駁賽康</span><span class="push-ipdatetime"> 05/26 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 還有觀光路線問題也能順便解決 特別是中南部</span><span class="push-ipdatetime"> 05/26 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soyghcg</span><span class="f3 push-content">: 還能大幅度改善偏鄉 公共運輸</span><span class="push-ipdatetime"> 05/26 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dendrimer</span><span class="f3 push-content">: 應該會常常出車禍</span><span class="push-ipdatetime"> 05/26 19:26
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495779680.A.878.html?cacheKey=2052-1838191&offset=4464&offset-sig=66a212660d476fa24150f73fb4ac6256a451f614" data-longpollurl="/v1/longpoll?id=3280db9abda68681c0400a6746fadf99bb59b06d" data-offset="4464"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

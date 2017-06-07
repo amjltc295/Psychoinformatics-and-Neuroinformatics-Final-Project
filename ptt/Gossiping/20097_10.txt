@@ -1,0 +1,211 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494986981.A.AC2.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 陳星被檢方傳喚　為何沒被發現？原因曝光 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="看來有人不知道刑事訴訟法的規定：
+第一，本案是他字案，也就是犯罪事實或犯罪人不明確，陳星不是以被告或犯罪嫌疑人之
+身份接受，而是以關係人（證人）身份接受傳喚。
+第二，搜索要搜索票，搜索票由法院開立，本案犯罪事實不明，無法申請搜索票，也不符
+合緊急搜索的要件，除非當事人同意，檢警是無權搜索的。
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 陳星被檢方傳喚　為何沒被發現？原因曝光">
+<meta property="og:description" content="看來有人不知道刑事訴訟法的規定：
+第一，本案是他字案，也就是犯罪事實或犯罪人不明確，陳星不是以被告或犯罪嫌疑人之
+身份接受，而是以關係人（證人）身份接受傳喚。
+第二，搜索要搜索票，搜索票由法院開立，本案犯罪事實不明，無法申請搜索票，也不符
+合緊急搜索的要件，除非當事人同意，檢警是無權搜索的。
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494986981.A.AC2.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494986981.A.AC2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">treasurehill (寶藏巖公社)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 陳星被檢方傳喚　為何沒被發現？原因曝光</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 10:09:38 2017</span></div>
+看來有人不知道刑事訴訟法的規定：
+
+第一，本案是他字案，也就是犯罪事實或犯罪人不明確，陳星不是以被告或犯罪嫌疑人之
+身份接受，而是以關係人（證人）身份接受傳喚。
+
+第二，搜索要搜索票，搜索票由法院開立，本案犯罪事實不明，無法申請搜索票，也不符
+合緊急搜索的要件，除非當事人同意，檢警是無權搜索的。
+
+<span class="f2">※ 引述《tony121010 (我是來亂的)》之銘言：
+</span><span class="f6">: 1.媒體來源:
+</span><span class="f6">: 蘋果日報
+</span><span class="f6">: 2.完整新聞標題:
+</span><span class="f6">: 陳星被檢方傳喚　為何沒被發現？原因曝光
+</span><span class="f6">: 3.完整新聞內文:
+</span><span class="f6">: 2017年05月17日07:10
+</span><span class="f6">: 陳星已經被南檢傳喚過，當時為何沒被外界發現？
+</span><span class="f6">: 《蘋果》曾報導， 補教名師陳星於9號晚間發出聲明強調「和林奕含只是婚外情非誘姦
+</span>」
+<span class="f6">: 。台南地檢署當天也證實，已依法傳喚陳星到案吳說明，並經其同意，搜索其住處帶回
+</span>相關
+<span class="f6">: 物證解析。
+</span><span class="f6">: 檢方指出，台南地檢署是在5號把傳票送交陳星，以他字案被告製作筆錄。檢方製作陳
+</span>星
+<span class="f6">: 筆錄時，詢問他是否願意讓檢警搜索，獲得陳星答應後，早就在台北等候的檢察事務官
+</span>就
+<span class="f6">: 進入陳星家中，帶回相關證據。
+</span><span class="f6">: 《周刊王》報導，由於陳星曾在南部教書，也認識不少藍營人士，所以得知被傳喚，即
+</span>透
+<span class="f6">: 過關係與南檢協商，希望在下午5點過後才前往。當天就由友人開車，在多次與檢方確
+</span>認
+<span class="f6">: 後，透過引導將車開進地下室，搭電梯到指定樓層接受訊問；過程約2-3個小時，最後
+</span>再
+<span class="f6">: 由友人載回中部住處，躲避外界。（即時新聞中心／綜合報導）
+</span><span class="f6">: 4.完整新聞連結 (或短網址):
+</span><span class="f6">: <a href="http://www.appledaily.com.tw/realtimenews/article/local/20170517/1120078" target="_blank" rel="nofollow">http://www.appledaily.com.tw/realtimenews/article/local/20170517/1120078</a>
+</span><span class="f6">: 5.備註:
+</span>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.216.226.155
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494986981.A.AC2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494986981.A.AC2.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">luckyalbert</span><span class="f3 push-content">: 證人？？</span><span class="push-ipdatetime"> 05/17 10:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 小說寫的那麼清楚 陳跟林都應該開拘票把人押來問清楚啊</span><span class="push-ipdatetime">05/17 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 所以一般證人有這麼禮遇嗎? 為啥很多抱怨檢方很不耐煩</span><span class="push-ipdatetime">05/17 10:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pinkkate</span><span class="f3 push-content">: 小說不能當證據啊</span><span class="push-ipdatetime"> 05/17 10:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TatsuyaShiba</span><span class="f3 push-content">: 二樓你......</span><span class="push-ipdatetime">05/17 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 不過新聞寫被告耶     證人?</span><span class="push-ipdatetime"> 05/17 10:14
+</span></div>
+他字案哪來的被告啦
+
+<a href="https://www.moj.gov.tw/ct.asp?xItem=26879&amp;ctNode=96&amp;mp=001" target="_blank" rel="nofollow">https://www.moj.gov.tw/ct.asp?xItem=26879&amp;ctNode=96&amp;mp=001</a>
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chong17</span><span class="f3 push-content">: 三小證人？</span><span class="push-ipdatetime">05/17 10:14
+</span></div>
+<a href="https://tinatien.wordpress.com/2008/08/29/%E4%BD%95%E8%AC%82%E4%BB%96%E5%AD%97" target="_blank" rel="nofollow">https://tinatien.wordpress.com/2008/08/29/%E4%BD%95%E8%AC%82%E4%BB%96%E5%AD%97</a>
+%E6%A1%88/
+
+所謂偵字案，即是檢察官已將某人設定為被告，此時這個被告享有任何訴訟法上被告的所
+有權利，且此時檢察官於偵查終結後，不是起訴，就是不起訴或緩起訴，一定要對外的公
+示，且詳載事實理由。而若為他字案，即是檢察官<span class="f0">只是懷疑某人涉嫌，但是尚未有證據支</span>
+<span class="f0">持</span>，因此先以他字案為偵查，此時被懷疑者稱為關係人，而檢察官若進一步偵查發現其確
+有重嫌，即會將他字案轉為偵字案，若發現無涉嫌可能，即以行政簽結的方式終結該案，
+此種方式，無庸對外公示，當然也沒有說明理由的必要。至於到底在什麼情況下，可以是
+偵或他字案，解釋上，若檢察官只是單純懷疑，是為他字案，若達於合理懷疑，則為偵字
+案，但是此抽象用語明顯容易造成檢察官的恣意操弄，而產生以下的影響.
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 所以一般證人有這麼禮遇嗎? 為啥很多抱怨檢方很不耐煩</span><span class="push-ipdatetime"> 05/17 10:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tiphareth</span><span class="f3 push-content">: 等一下又有人說小說是線索不是證據</span><span class="push-ipdatetime">05/17 10:21
+</span></div><span class="f2">※ 編輯: treasurehill (49.216.226.155), 05/17/2017 10:22:20
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roro1984</span><span class="f3 push-content">: 49.216</span><span class="push-ipdatetime">05/17 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roro1984</span><span class="f3 push-content">: 補噓</span><span class="push-ipdatetime">05/17 10:26
+</span></div><span class="f2">※ 編輯: treasurehill (49.216.226.155), 05/17/2017 10:32:52
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Orzer</span><span class="f3 push-content">: &#34;多次&#34;與檢方確認後，還&#34;引導&#34;到地下室，這是一般證人？？</span><span class="push-ipdatetime">05/17 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Orzer</span><span class="f3 push-content">: 有多少一般證人是&#34;多次&#34;與檢方確認後，透過&#34;引導&#34;將車開進</span><span class="push-ipdatetime">05/17 10:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Orzer</span><span class="f3 push-content">: 地下室</span><span class="push-ipdatetime"> 05/17 10:33
+</span></div>第ꂠ177ē
+證人不能到場或有其他必要情形，得於聽取當事人及辯護人之意見後，就其所在或於其所
+在地法院訊問之。前項情形，證人所在與法院間有聲音及影像相互傳送之科技設備而得直
+接訊問，經法院認為適當者，得以該設備訊問之。當事人、辯護人及代理人得於前二項訊
+問證人時在場並得詰問之；其訊問之日時及處所，應預行通知之。第二項之情形，於偵查
+中準用之。
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilw4e</span><span class="f3 push-content">: 證人要怎樣去你也要管？住海邊啊？</span><span class="push-ipdatetime">05/17 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chong17</span><span class="f3 push-content">: 在多個案件中，證人有其必要性，證人不到，檢察官是有權</span><span class="push-ipdatetime"> 05/17 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chong17</span><span class="f3 push-content">: 拘提證人</span><span class="push-ipdatetime">05/17 10:35
+</span></div><span class="f2">※ 編輯: treasurehill (49.216.226.155), 05/17/2017 10:38:13
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 對阿 發傳票根本就是笑話 發拘票把雙方押來講簡單明快</span><span class="push-ipdatetime"> 05/17 10:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icar</span><span class="f3 push-content">: 和檢方確認是人權吧,台灣人自認沒人權放棄權益,真是教育失敗</span><span class="push-ipdatetime"> 05/17 10:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 他字案對他們來說太深了 反正沒直接抓去關都是背後勢力</span><span class="push-ipdatetime"> 05/17 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edvoyage</span><span class="f3 push-content">: 被告有緘默權/辯護權，證人沒有，用證人身分有時候不利</span><span class="push-ipdatetime"> 05/17 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chong17</span><span class="f3 push-content">: 證人還要請律師喔～ XDDDD</span><span class="push-ipdatetime"> 05/17 11:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kid725</span><span class="f3 push-content">: 失智列車正常發揮中</span><span class="push-ipdatetime"> 05/17 11:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxxtakoxxx</span><span class="f3 push-content">: 認真解釋法律推，但你會被打成工讀生</span><span class="push-ipdatetime"> 05/17 11:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Orzer</span><span class="f3 push-content">: 實務上都是法院發出證人出庭通知書要你出庭，廠廠</span><span class="push-ipdatetime"> 05/17 11:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 抱歉喔，法院還真的會跟被告和證人橋時間的</span><span class="push-ipdatetime"> 05/17 11:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 證人不出庭，法院浪費庭期作白工再浪費傳票</span><span class="push-ipdatetime"> 05/17 11:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy2011</span><span class="f3 push-content">: 渣歸渣但他字案真的就不是被告</span><span class="push-ipdatetime"> 05/17 13:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy2011</span><span class="f3 push-content">: 對了因為是證人法院還要給車馬費</span><span class="push-ipdatetime"> 05/17 13:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SinkLife</span><span class="f3 push-content">: 知識推</span><span class="push-ipdatetime"> 05/17 13:17
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494986981.A.AC2.html?cacheKey=2052-49327635&offset=5976&offset-sig=8db6d11e61662da87a0d9b23e82db432d57c3d1f" data-longpollurl="/v1/longpoll?id=e281941d3958aa412bfd6439fc344e21f8e6ec57" data-offset="5976"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

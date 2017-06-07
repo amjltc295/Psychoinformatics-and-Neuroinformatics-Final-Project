@@ -1,0 +1,190 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495552837.A.EAF.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 現在all in 比特幣好嗎 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="看到這篇來回一下好了
+https://coinmarketcap.com/
+比特幣的市值大概是37b
+蘋果的市值:807b
+Google市值:670b
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 現在all in 比特幣好嗎">
+<meta property="og:description" content="看到這篇來回一下好了
+https://coinmarketcap.com/
+比特幣的市值大概是37b
+蘋果的市值:807b
+Google市值:670b
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495552837.A.EAF.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495552837.A.EAF.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Souseasou3 (Almighty)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 現在all in 比特幣好嗎</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 23 23:20:31 2017</span></div>
+<span class="f2">※ 引述《DeathEraser (擦)》之銘言：
+</span><span class="f6">: 安安
+</span><span class="f6">: 聽說比特幣現在還在炒翻天
+</span><span class="f6">: 現在入場來得及嗎
+</span><span class="f6">: 把房子抵押all in
+</span><span class="f6">: 有機會變成台灣巴菲特嗎
+</span><span class="f6">: 誠心發問
+</span>看到這篇來回一下好了
+
+<a href="https://coinmarketcap.com/" target="_blank" rel="nofollow">https://coinmarketcap.com/</a>
+
+比特幣的市值大概是37b
+
+蘋果的市值:807b
+
+Google市值:670b
+
+黃金市值就不是google跟蘋果的數量級了
+
+給五樓補充
+
+然後比特幣在日本已經合法囉:D
+
+<a href="https://www.youtube.com/watch?v=FfJG6iVeRfI&amp;t=181s" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=FfJG6iVeRfI&amp;t=181s</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/FfJG6iVeRfI" frameborder="0" allowfullscreen></iframe></div></div></div>
+影片中的妹子挑戰用比特幣在日本旅行
+
+然後比特幣現在面臨的問題是交易量太大區塊塞車的問題
+
+也有多種解決方法出來了剩下的就是各大礦場達成共識
+
+至於下一個比特幣出現了沒
+
+個人認為以太幣很有淺力
+
+以太幣(ether)相較於比特幣不只區塊大小
+
+還支援了&#34;智能合約&#34;的功能
+
+所謂的智能合約
+
+理論上所有中心化的東西
+
+如:uber、airbnb、dropbox......
+
+(不要懷疑，去中心化的dropbox以經做出來了: <a href="https://storj.io/)" target="_blank" rel="nofollow">https://storj.io/)</a>
+
+這些去中心化的應用(dapp)都建立在以太坊(ethereum)上
+
+如果這波&#34;去中心化&#34;革命有起來的話
+
+以太幣的漲幅是很可怕的.....
+
+小弟大概知道這麼多
+
+還請神人補充:D
+
+比特幣跟以太幣在台灣好不好買呢?
+
+只要在maicoin就買的到囉: <a href="https://www.maicoin.com/" target="_blank" rel="nofollow">https://www.maicoin.com/</a>
+
+只是頗坑而已
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.71.242.242
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495552837.A.EAF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495552837.A.EAF.html</a>
+</span><span class="f2">※ 編輯: Souseasou3 (219.71.242.242), 05/23/2017 23:22:02
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hijkxyzuw</span><span class="f3 push-content">: 用程式寫的合約，有點強。</span><span class="push-ipdatetime"> 05/23 23:22
+</span></div>有了這個法院就掰了
+<span class="f2">※ 編輯: Souseasou3 (219.71.242.242), 05/23/2017 23:24:10
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 人類社會將會從神治、人治、法治轉變到區塊治</span><span class="push-ipdatetime"> 05/23 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 這種社會型態的轉變才是區塊鍊科技最恐怖的地方</span><span class="push-ipdatetime"> 05/23 23:26
+</span></div>這篇釣到版主了XD
+<span class="f2">※ 編輯: Souseasou3 (219.71.242.242), 05/23/2017 23:26:49
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 專業文我才想要正經一下 XDD</span><span class="push-ipdatetime"> 05/23 23:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fx0926</span><span class="f3 push-content">: 感謝分享新知識！！</span><span class="push-ipdatetime"> 05/23 23:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 狂</span><span class="push-ipdatetime"> 05/23 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fx0926</span><span class="f3 push-content">: MaiCoin超坑，等於手續費12~15%</span><span class="push-ipdatetime"> 05/24 00:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495552837.A.EAF.html?cacheKey=2052-46373406&offset=2184&offset-sig=563675519ca150d42d3dad670e41218d7ce097f4" data-longpollurl="/v1/longpoll?id=2846f87c2c358e796f4b58639c1cb9dc85995871" data-offset="2184"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

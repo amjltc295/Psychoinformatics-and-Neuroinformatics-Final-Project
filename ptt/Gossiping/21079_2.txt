@@ -1,0 +1,212 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495640072.A.CC3.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 為何手機版的鄉民都推HTC 的U11呀? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="    跟中壢選民的標準起手式有異曲同工之妙。
+: 但是今非昔比
+: 仔細觀察這幾年htc這間公司最多人吐槽的地方可以列出以下幾點
+: 中階機低規高賣
+: 自身特點拔的拔或著跟最開始的功能差異非常多
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 為何手機版的鄉民都推HTC 的U11呀?">
+<meta property="og:description" content="    跟中壢選民的標準起手式有異曲同工之妙。
+: 但是今非昔比
+: 仔細觀察這幾年htc這間公司最多人吐槽的地方可以列出以下幾點
+: 中階機低規高賣
+: 自身特點拔的拔或著跟最開始的功能差異非常多
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495640072.A.CC3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495640072.A.CC3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ILike58 (小菊花)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 為何手機版的鄉民都推HTC 的U11呀?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 24 23:34:31 2017</span></div>
+<span class="f2">※ 引述《Qoo20811 (小兔兔&lt;3)》之銘言：
+</span><span class="f6">: 小兔兔我是鍵盤手機分析師
+</span><span class="f6">: 其實認真講啦
+</span><span class="f6">: 肥宅我以前並不討厭htc這間公司啦
+</span><span class="f6">: 畢竟我前兩支手機都是這間公司的
+</span><span class="f6">: 一台是DHD另一台是XE
+</span><span class="f6">: 到現在我都還蠻懷念那時候的SenseUI
+</span><span class="f6">: 在那iOS不越獄超難用和安卓2.X的時代
+</span><span class="f6">: SenseUI很多地方設計的實在是有夠實用
+</span>
+    跟中壢選民的標準起手式有異曲同工之妙。
+
+<span class="f6">: 但是今非昔比
+</span><span class="f6">: 仔細觀察這幾年htc這間公司最多人吐槽的地方可以列出以下幾點
+</span><span class="f6">: 中階機低規高賣
+</span><span class="f6">: 自身特點拔的拔或著跟最開始的功能差異非常多
+</span><span class="f6">: 例如m8的雙鏡頭、完美10的boomsound、SenseUI越改越像原生安卓
+</span><span class="f6">: 再加上幾乎每代旗艦機都有問題
+</span><span class="f6">: m7紫光、m8似乎沒有值得嘉許、m9邊框自裂、完美10受潮
+</span><span class="f6">: 別忘了以上的瑕疵再配合現在htc的維修品質
+</span><span class="f6">: 真的只能幫買以上幾台的人QQ
+</span><span class="f6">: 綜合起來真的完全沒有買htc的必要點
+</span>
+    根據前述，抓些網路耳熟能詳的點，
+    我以為是長年使用htc旗艦的支持者，恨鐵不成鋼。
+
+<span class="f6">: 至於最新這台U11
+</span><span class="f6">: 不用跟我談什麼CP值
+</span><span class="f6">: 請htc的粉粉捫心自問這間公司還有本事跟三星、Apple這類的公司出一樣價格的手機嗎?
+</span><span class="f6">: 連Sony的品牌價值都遠大於你了
+</span><span class="f6">: 你哪來的本事賣那價格
+</span>
+    一般人手機兩三年更換一次，規格穩定比較重要還是品牌價值？
+    開台幾十年的老BMW笑剛買audi lexus的人品牌價值？
+
+<span class="f6">: 粉粉也不用說U11用S835賣19K超值喇
+</span><span class="f6">: 人家小米6跟你同樣的SOC也才賣大概2499RMB折合台幣也不超過12000
+</span><span class="f6">: 下個月還有1+5等更高CP值的手機出現
+</span><span class="f6">: 只是人家在這價位玩多久了
+</span>
+    你以為一週一更新實在好貼心嗎？
+    小米這些大陸牌重新定義電子產品開發週期，EVT完就可以直接MP了。
+    DVT還沒跑完就可以EOL開始下個案子的EVT了。
+
+<span class="f6">: 你htc大爺現在才殺入這價位而且還更貴
+</span><span class="f6">: 也因此只能端出更好的功能來取勝了
+</span><span class="f6">: 好在這次相機等功能都還不錯的樣子
+</span><span class="f6">: 但是也先不用用DxO造神
+</span><span class="f6">: 手機相機我只相信盲測評分
+</span>
+    嗯，很像考不及格的人說我才不信出來的成績，我書有讀懂就好啦。
+
+<span class="f6">: 至於肥宅我開始討厭htc還有一個地方啦
+</span><span class="f6">: 就是htc的腦粉腦殘程度堪比智障低能兒果粉
+</span><span class="f6">: 我就拿U11來當例子
+</span><span class="f6">: 當初Sony、Samsung、Apple等手機廠推出防水手機時
+</span><span class="f6">: 不少htc粉粉在那質問說手機要防水幹嘛誰沒事會把手機丟進水裡
+</span><span class="f6">: 結果U11&#34;終於&#34;有防水了htc粉就高潮了
+</span><span class="f6">: 當初iPhone拔掉3.5mm耳機孔時
+</span><span class="f6">: 也不少知名H粉再拿嘲笑說智障蘋果
+</span><span class="f6">: 時至今日htc近幾代手機也沒有耳機孔了
+</span><span class="f6">: H粉開始說藍芽耳機和Type-c接頭耳機才是未來的趨勢
+</span><span class="f6">: U11有個邊框壓感功能跟iPhone6s的3D Touch實在有87%像
+</span><span class="f6">: 只是一個是壓邊框一個是壓螢幕
+</span><span class="f6">: 人家壓螢幕的功能還比你多
+</span><span class="f6">: 可是當初3D Touch出來時h粉說這雞肋功能誰會用
+</span><span class="f6">: 到現在邊框壓感被h粉說成改變時代的創新功能
+</span><span class="f6">: <a href="http://imgur.com/9EagCAk.jpg" target="_blank" rel="nofollow">http://imgur.com/9EagCAk.jpg</a>
+</span><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="9EagCAk"><a href="//imgur.com/9EagCAk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><span class="f6">: 總結來說還是老話一句啦
+</span><span class="f6">: 手機板推薦的手機
+</span><span class="f6">: 認真說真的不要買
+</span><span class="f6">: 看看過往的例子就知道
+</span><span class="f6">: 七進七出的子龍機
+</span><span class="f6">: 死雞死到爽的LG G4
+</span><span class="f6">: 炸到買不到的諾特七
+</span><span class="f6">: 潮到變真潮牌的完美10
+</span><span class="f6">: 今天手機板粉粉推薦你買U11
+</span><span class="f6">: 你敢買嗎?
+</span><span class="f6">: 我是不敢買喇XDDD
+</span>
+    很像知道閣下的品味如何，亮出來分析下優點吧。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.2.212
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495640072.A.CC3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495640072.A.CC3.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lpgg33044304</span><span class="f3 push-content">: 喔 好喔</span><span class="push-ipdatetime"> 05/24 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">godofaluba</span><span class="f3 push-content">: 喔,拍拍手 下去領乖乖一包</span><span class="push-ipdatetime"> 05/24 23:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toya123</span><span class="f3 push-content">: 評分高分 根本沒用 正常也用不到 潮跟品牌忠誠度有用多了</span><span class="push-ipdatetime"> 05/24 23:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">force5566</span><span class="f3 push-content">: 評價再高不如擺個咬一口的蘋果</span><span class="push-ipdatetime"> 05/24 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Asbtt</span><span class="f3 push-content">: 安卓都垃圾免洗機。不用爭了。手機辦只是卓二版。</span><span class="push-ipdatetime"> 05/24 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwf0322</span><span class="f3 push-content">: 92.apk</span><span class="push-ipdatetime"> 05/24 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OforU</span><span class="f3 push-content">: 木耳: 我光南99元的耳機 打趴你IE80 評分高根本沒用</span><span class="push-ipdatetime"> 05/24 23:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deitly</span><span class="f3 push-content">: 中國手機真的有夠爛，問題一堆還開後門</span><span class="push-ipdatetime"> 05/25 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">act265</span><span class="f3 push-content">: 他開頭就寫他是鍵盤分析師了，打出這篇不意外</span><span class="push-ipdatetime"> 05/25 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Howard1420</span><span class="f3 push-content">: 小米那個相機......</span><span class="push-ipdatetime"> 05/25 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">max123</span><span class="f3 push-content">: 拿火腿腸標誌的的手機感覺像是懶叫只有3公分還要現醜</span><span class="push-ipdatetime"> 05/25 00:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k37440</span><span class="f3 push-content">: 東比西比最後還是買蘋果ㄏㄏ 買手機搞到好像買電腦</span><span class="push-ipdatetime"> 05/25 00:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">william12tw</span><span class="f3 push-content">: 中肯</span><span class="push-ipdatetime"> 05/26 09:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495640072.A.CC3.html?cacheKey=2052-1079731&offset=4111&offset-sig=9b48e0ac7f0a786942fd7bf68e28b2c0714c162b" data-longpollurl="/v1/longpoll?id=ba0a5b16115e5304a705550da874b96db0ebdff1" data-offset="4111"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

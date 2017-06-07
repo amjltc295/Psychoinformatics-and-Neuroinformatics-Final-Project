@@ -1,0 +1,328 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496396888.A.E43.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[爆卦] 2018年的夏天可望能發現第五種力 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="終於要發現螺旋之力了啊！
+https://www.youtube.com/watch?v=Cz7RI4MTQqM
+https://goo.gl/sMols4
+Keck Observatory Sheds Light on ‘Fifth Force’
+By W. M. Keck Observatory on Maunakea
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[爆卦] 2018年的夏天可望能發現第五種力">
+<meta property="og:description" content="終於要發現螺旋之力了啊！
+https://www.youtube.com/watch?v=Cz7RI4MTQqM
+https://goo.gl/sMols4
+Keck Observatory Sheds Light on ‘Fifth Force’
+By W. M. Keck Observatory on Maunakea
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496396888.A.E43.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496396888.A.E43.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">STAV72 (刁民黨黨務主委)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 2018年的夏天可望能發現第五種力</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 17:47:59 2017</span></div>
+
+終於要發現螺旋之力了啊！
+
+<a href="https://www.youtube.com/watch?v=Cz7RI4MTQqM" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=Cz7RI4MTQqM</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/Cz7RI4MTQqM" frameborder="0" allowfullscreen></iframe></div></div></div>
+<a href="https://goo.gl/sMols4" target="_blank" rel="nofollow">https://goo.gl/sMols4</a>
+
+Keck Observatory Sheds Light on ‘Fifth Force’
+By W. M. Keck Observatory on Maunakea
+Posted May 31, 2017, 10:22 AM HST
+
+The orbits of two stars, S0-2 and S0-38, located near the Milky Way’s
+supermassive black hole, will be used to test Einstein’s Theory of General
+Relativity and potentially generate new gravitational models. IMAGE CREDIT:
+S. SAKAI/A.GHEZ/W. M. KECK OBSERVATORY/ UCLA GALACTIC CENTER GROUP.
+W. M. Keck Observatory data has led to a first-of-its-kind test of Einstein’
+s Theory of General Relativity.
+
+A UCLA-led team has discovered a new way of probing the hypothetical fifth
+force of nature using two decades of observations at Maunakea’s W. M. Keck
+Observatory, the world’s most scientifically productive ground-based
+telescope.
+
+There are four known forces in the universe: electromagnetic force, strong
+nuclear force, weak nuclear force and gravitational force. Physicists know
+how to make the first three work together, but gravity is the odd one out.
+For decades, there have been theories that a fifth force ties gravity to the
+others, but no one has been able to prove it thus far.
+
+
+UCLA Professor of Astrophysics and Galactic Center Group Director Andrea
+Ghez, a Keck Observatory astronomer and recipient of the 2015 Bakerian Medal.
+IMAGE CREDIT: KYLE ALEXANDER.
+“This is really exciting,” said Andrea Ghez, director of the UCLA Galactic
+Center Group and co-author of the study. “It’s taken us 20 years to get
+here, but now our work on studying stars at the center of our galaxy is
+opening up a new method of looking at how gravity works.”
+
+The research is published in the current issue of Physical Review Letters.
+
+Ghez and her co-workers analyzed extremely sharp images of the center of our
+galaxy taken with Keck Observatory’s adaptive optics (AO). Ghez used this
+cutting-edge system to track the orbits of stars near the supermassive black
+hole located at the center of the Milky Way. Their stellar path, driven by
+gravity created from the supermassive black hole, could give clues to the
+fifth force.
+
+“By watching the stars move over 20 years using very precise measurements
+taken from Keck Observatory data, you can see and put constraints on how
+gravity works,” said Ghez. “If gravitation is driven by something other
+than Einstein’s theory of General Relativity, you’ll see small variations
+in the orbital paths of the stars.”
+
+This is the first time the fifth force theory has been tested in a strong
+gravitational field such as the one created by the supermassive black hole at
+the center of the Milky Way. Historically, measurements of our solar system’
+s gravity created by our sun have been used to try and detect the fifth
+force, but that has proven difficult because its gravitational field is
+relatively weak.
+
+“It’s exciting that we can do this because we can ask a very fundamental
+question—how does gravity work?” said Ghez. “Einstein’s theory describes
+it beautifully well, but there’s lots of evidence showing the theory has
+holes. The mere existence of supermassive black holes tells us that our
+current theories of how the universe works are inadequate to explain what a
+black hole is.”
+
+Ghez and her team, including lead author Aurelien Hees and co-author Tuan Do,
+both of UCLA, are looking forward to summer of 2018. That is when the star
+S0-2 will be at its closest distance to our galaxy’s supermassive black
+hole. This will allow the team to witness the star being pulled at maximum
+gravitational strength—a point where any deviations to Einstein’s theory is
+expected to be the greatest.
+
+About Adaptive Optics
+W. M. Keck Observatory is a distinguished leader in the field of adaptive
+optics (AO), a breakthrough technology that removes the distortions caused by
+the turbulence in the Earth’s atmosphere. Keck Observatory pioneered the
+astronomical use of both natural guide star (NGS) and laser guide star
+adaptive optics (LGS AO) and our current systems now deliver images three to
+four times sharper than the Hubble Space Telescope. AO has imaged the four
+massive planets orbiting the star HR8799, measured the mass of the giant
+black hole at the center of our Milky Way Galaxy, discovered new supernovae
+in distant galaxies, and identified the specific stars that were their
+progenitors.
+
+About W. M. Keck Observatory
+The W. M. Keck Observatory operates the largest, most scientifically
+productive telescopes on Earth. The two, 10-meter optical/infrared telescopes
+on the summit of Maunakea on the Island of Hawaii feature a suite of advanced
+instruments including imagers, multi-object spectrographs, high-resolution
+spectrographs, integral-field spectrometers, and world-leading laser guide
+star adaptive optics systems. The Observatory is a private 501(c) 3
+non-profit organization and a scientific partnership of the California
+Institute of Technology, the University of California, and NASA.
+
+大意↓
+
+目前科學界認為四種基本自然力維繫著從小到粒子，大到宇宙星體之間的穩定狀態。強核
+力和弱核力作用於微觀世界，強核力讓原子核聚合在一起，弱核力導致某些原子的放射性
+衰變。引力和電磁力作用於宏觀世界，電磁力讓分子結合在一起，引力讓星體和星系間保
+持穩定不至於在運轉中互相脫離。
+
+在這四種力中，引力是人類還不知道如何創造和控制的最後一種。在它應該掌控的範圍中
+，有些現象引力學說也解釋不清，比如，天文學家在對宇宙的觀測中發現，宇宙中的引力
+要比其中所有可見物質能夠產生的還多。無數星系都在持續高速運動和運轉中，按目前的
+理論計算，宇宙中可觀察到的物質間產生的引力，是無法讓眾多星系維繫在一起而不分崩
+離析的。
+
+為了解釋這種現象，科學家認為宇宙中可能存在著一種看不見的暗物質，它能產生星系間
+足夠大的引力讓星系保持穩定運行。但目前為止還未能找到證明暗物質存在的證據，一些
+物理學家認為，引力應從四大基本自然力中去除。還有些物理學家提出，宇宙中可能存在
+著另外不被了解的第五種自然基本力，它可以填補目前理論中的漏洞。
+
+現在這個研究小組提出了對第五種力理論的測試方法，即檢測宇宙中引力極強的地方。該
+團隊使用夏威夷凱克天文台的望遠鏡捕獲銀河系中心高清晰度圖片，這樣他們將能追蹤銀
+河系中心有著強大引力的超大黑洞附近的恆星運行軌跡，並觀察引力對於恆星運行軌道的
+影響。他們將在接下來的二十年裡持續觀察和追蹤這些恆星，以獲得關於引力或第五種力
+對於恆星影響的結論。
+
+Ghez教授說，如果引力是由愛因斯坦廣義相對論以外的東西驅動的，那麼恆星的軌道將會
+出現微小變化。
+
+研究團隊正期待著2018年的夏天，屆時，一顆名為S0-2的恆星將運行至與銀河系中心超大
+黑洞最接近的位置，它將受到最強的引力作用。那時，愛因斯坦引力理論產生的偏差將可
+能達到最大，有望給出第五種自然基本力是否存在的證據。
+
+<a href="https://www.youtube.com/watch?v=yRavrj4r1Xw" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=yRavrj4r1Xw</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/yRavrj4r1Xw" frameborder="0" allowfullscreen></iframe></div></div></div>
+
+--
+你知道嗎?人體由75兆獨立細胞組成.在我們死之前,他們通常不會一直伴隨我們﹍有一些能
+存活幾天,而另一些能存活幾年.我們不會受它們的壽命影響,它們會被新的細胞所代替,這
+能幫助我們維持自身.我覺得沒人會爭論我們會因為這個進程而丟失形象,很明顯,我們在不
+斷地轉變.那麼,我們是如何保持原樣的?連續不斷的思維和感知造成一些序列連續性,也就
+是我們自己.我們的意識不是我們大腦的一部分,而是不斷湧現的實體.讓你的身體死去,繼
+續活在數據天堂的群星裡.    <a href="https://youtu.be/K5CECc7zXQ4?t=16m20s" target="_blank" rel="nofollow">https://youtu.be/K5CECc7zXQ4?t=16m20s</a>    《SOMA》
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/K5CECc7zXQ4" frameborder="0" allowfullscreen></iframe></div></div></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.117.244.101
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496396888.A.E43.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496396888.A.E43.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nautasechs</span><span class="f3 push-content">: 喔喔</span><span class="push-ipdatetime"> 06/02 17:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ComeThrough</span><span class="f3 push-content">: 恩恩跟我想的一樣</span><span class="push-ipdatetime"> 06/02 17:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tiffcmh</span><span class="f3 push-content">: 肥宅汁粒！！！！</span><span class="push-ipdatetime"> 06/02 17:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Icanmakeit</span><span class="f3 push-content">: 不推別人以為我看不懂</span><span class="push-ipdatetime"> 06/02 17:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: may the force be with you</span><span class="push-ipdatetime"> 06/02 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">elec1141</span><span class="f3 push-content">: 螺旋丸</span><span class="push-ipdatetime"> 06/02 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KENDO777</span><span class="f3 push-content">: 這個我國小就學過了</span><span class="push-ipdatetime"> 06/02 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FFFFFFFF</span><span class="f3 push-content">: 我der王汁力rrrr</span><span class="push-ipdatetime"> 06/02 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: 螺旋丸</span><span class="push-ipdatetime"> 06/02 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">E6300</span><span class="f3 push-content">: 瓦力</span><span class="push-ipdatetime"> 06/02 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ispy03532003</span><span class="f3 push-content">: 超能力系終於要出現了，就決定是你了，勇吉拉</span><span class="push-ipdatetime"> 06/02 17:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lucifer648</span><span class="f3 push-content">: 神速力啊傻逼</span><span class="push-ipdatetime"> 06/02 17:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HKtoyz5566</span><span class="f3 push-content">: RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  大玉螺旋丸</span><span class="push-ipdatetime"> 06/02 17:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">greedypeople</span><span class="f3 push-content">: 羅傑羅姆表示</span><span class="push-ipdatetime"> 06/02 17:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WWWWW123</span><span class="f3 push-content">: 肛力啦</span><span class="push-ipdatetime"> 06/02 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dreamer48763</span><span class="f3 push-content">: 查克拉</span><span class="push-ipdatetime"> 06/02 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gino0717</span><span class="f3 push-content">: 萌力</span><span class="push-ipdatetime"> 06/02 17:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lionplay5566</span><span class="f3 push-content">: 是這樣哦</span><span class="push-ipdatetime"> 06/02 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">negatron</span><span class="f3 push-content">: 十年前就想過\，只是沒有仔細研究罷了</span><span class="push-ipdatetime"> 06/02 17:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EfiwymsiAros</span><span class="f3 push-content">: 黏滯力 肥宅超高</span><span class="push-ipdatetime"> 06/02 17:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EGOiST40</span><span class="f3 push-content">: 螺旋力 阿強一號</span><span class="push-ipdatetime"> 06/02 17:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bye2007</span><span class="f3 push-content">: 樂觀其成嚕  印象中已有好幾個挑戰重力不是基本力的理論</span><span class="push-ipdatetime"> 06/02 17:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ashuya</span><span class="f3 push-content">: 西蒙!</span><span class="push-ipdatetime"> 06/02 18:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 原力</span><span class="push-ipdatetime"> 06/02 18:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ltjfw2012</span><span class="f3 push-content">: 沒錯 和我想的一樣</span><span class="push-ipdatetime"> 06/02 18:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2016596</span><span class="f3 push-content">: 幾年前我就想出來了</span><span class="push-ipdatetime"> 06/02 18:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assassinje</span><span class="f3 push-content">: 嗯嗯 跟我想的一樣</span><span class="push-ipdatetime"> 06/02 18:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CactusFlower</span><span class="f3 push-content">: 天元突破!!!!!</span><span class="push-ipdatetime"> 06/02 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shcjosh</span><span class="f3 push-content">: 原力</span><span class="push-ipdatetime"> 06/02 18:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fedona</span><span class="f3 push-content">: 有如常識</span><span class="push-ipdatetime"> 06/02 18:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Fuzishan</span><span class="f3 push-content">: 恩恩 跟我想的差不多</span><span class="push-ipdatetime"> 06/02 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CharAznabule</span><span class="f3 push-content">: 快推！不然以為我看不懂</span><span class="push-ipdatetime"> 06/02 18:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">l92Kbps</span><span class="f3 push-content">: 在大都丹力</span><span class="push-ipdatetime"> 06/02 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">harden5566</span><span class="f3 push-content">: 可惡= =   我才在準備寫這個論文   馬的</span><span class="push-ipdatetime"> 06/02 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">event1408472</span><span class="f3 push-content">: 樓上新梗</span><span class="push-ipdatetime"> 06/02 18:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ricky1111w</span><span class="f3 push-content">: 原文第8行與第7行的文法錯了</span><span class="push-ipdatetime"> 06/02 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">avans</span><span class="f3 push-content">: 推翻譯</span><span class="push-ipdatetime"> 06/02 18:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bye2007</span><span class="f3 push-content">: 這篇是原po翻譯的喔？推翻譯</span><span class="push-ipdatetime"> 06/02 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">barrylu246</span><span class="f3 push-content">: 我還以為大家都知道了</span><span class="push-ipdatetime"> 06/02 18:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cwind07</span><span class="f3 push-content">: 簡單 不就解械咒  去去，武器走!!</span><span class="push-ipdatetime"> 06/02 18:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">spider8320</span><span class="f3 push-content">: <a href="http://i.imgur.com/rbOoo7e.jpg" target="_blank" rel="nofollow">http://i.imgur.com/rbOoo7e.jpg</a></span><span class="push-ipdatetime"> 06/02 18:26
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="rbOoo7e"><a href="//imgur.com/rbOoo7e"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RIFF</span><span class="f3 push-content">: 推翻譯</span><span class="push-ipdatetime"> 06/02 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sheagia</span><span class="f3 push-content">: 用愛發電力</span><span class="push-ipdatetime"> 06/02 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HIDEI524</span><span class="f3 push-content">: 我還以為大家都知道呢</span><span class="push-ipdatetime"> 06/02 18:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j147589</span><span class="f3 push-content">: 相信相信自己的自己！</span><span class="push-ipdatetime"> 06/02 18:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyprayer</span><span class="f3 push-content">: 業力</span><span class="push-ipdatetime"> 06/02 18:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sky99</span><span class="f3 push-content">: 原力</span><span class="push-ipdatetime"> 06/02 18:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imhideji</span><span class="f3 push-content">: 光子力呢</span><span class="push-ipdatetime"> 06/02 18:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 人類終於要發現原力啦</span><span class="push-ipdatetime"> 06/02 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">idlewolf</span><span class="f3 push-content">: 這麼少人推天元突破梗喔? 看來魯肥我真的老了</span><span class="push-ipdatetime"> 06/02 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abd86731</span><span class="f3 push-content">: 高中生：幹！</span><span class="push-ipdatetime"> 06/02 18:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wind1729</span><span class="f3 push-content">: 女子力</span><span class="push-ipdatetime"> 06/02 19:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MaBumblerQQ</span><span class="f3 push-content">: 拉仙萬~</span><span class="push-ipdatetime"> 06/02 19:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king22649</span><span class="f3 push-content">: 暗物質暗能量應該可以順便一起解決</span><span class="push-ipdatetime"> 06/02 19:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: ＠＠</span><span class="push-ipdatetime"> 06/02 19:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orny</span><span class="f3 push-content">: @@</span><span class="push-ipdatetime"> 06/02 19:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Koibito</span><span class="f3 push-content">: 這國立編譯館版本就有教啦，後來新課綱刪掉了？</span><span class="push-ipdatetime"> 06/02 19:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">choco7</span><span class="f3 push-content">: 紅嚴螺旋!!!!</span><span class="push-ipdatetime"> 06/02 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tonsin2976</span><span class="f3 push-content">: 軟Q之力不遠了</span><span class="push-ipdatetime"> 06/02 20:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holybless</span><span class="f3 push-content">: 拉先萬</span><span class="push-ipdatetime"> 06/02 20:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccjj8</span><span class="f3 push-content">: 瓦力</span><span class="push-ipdatetime"> 06/02 20:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">m768977569</span><span class="f3 push-content">: 來自東方的神秘力量</span><span class="push-ipdatetime"> 06/02 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">photoshark</span><span class="f3 push-content">: 所以意思是如果觀察行為不符合愛因斯坦理論則存在第五</span><span class="push-ipdatetime"> 06/02 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">photoshark</span><span class="f3 push-content">: 力這個邏輯</span><span class="push-ipdatetime"> 06/02 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: 肥宅的油花也會偏移呢？也是有什麼特殊的作用力嗎？(￣</span><span class="push-ipdatetime"> 06/02 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: ー￣)</span><span class="push-ipdatetime"> 06/02 23:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiy75</span><span class="f3 push-content">: 業力</span><span class="push-ipdatetime"> 06/02 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jitaomef</span><span class="f3 push-content">: 真假?!</span><span class="push-ipdatetime"> 06/03 01:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hua0722</span><span class="f3 push-content">: 以前王葛格出賽東方都會有神秘業力</span><span class="push-ipdatetime"> 06/03 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">handsomecat</span><span class="f3 push-content">: 原力</span><span class="push-ipdatetime"> 06/03 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">link5566</span><span class="f3 push-content">: 恩恩 我小時候觀察鮭魚逆流就發現這件事了</span><span class="push-ipdatetime"> 06/03 11:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lina7inverse</span><span class="f3 push-content">: 有看有推</span><span class="push-ipdatetime"> 06/03 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: @ @</span><span class="push-ipdatetime"> 06/03 14:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loloman</span><span class="f3 push-content">: may force be with you!</span><span class="push-ipdatetime"> 06/04 07:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496396888.A.E43.html?cacheKey=2052-1181339&offset=14856&offset-sig=c9a32c62ba8ac21f74a28bad6b5052897758b646" data-longpollurl="/v1/longpoll?id=4e39a91f2f61d4a79a5227725e95673401b1d9a6" data-offset="14856"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,249 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496754709.A.97E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 年輕人買不起房 李茂生：犧牲建商救國就 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="房屋稅課徵市值2%？？
+我們把所有情況假設一下好了。
+第一種：所有房屋皆課
+一間建坪30坪的10年15樓高大樓在使用自用住宅跟不考慮地段加乘的情況下每年所繳的房
+屋稅大概是2到3萬
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 年輕人買不起房 李茂生：犧牲建商救國就">
+<meta property="og:description" content="房屋稅課徵市值2%？？
+我們把所有情況假設一下好了。
+第一種：所有房屋皆課
+一間建坪30坪的10年15樓高大樓在使用自用住宅跟不考慮地段加乘的情況下每年所繳的房
+屋稅大概是2到3萬
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496754709.A.97E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496754709.A.97E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">xxx311429 ()</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 年輕人買不起房 李茂生：犧牲建商救國就</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 21:11:46 2017</span></div>
+<span class="f2">※ 引述《PeterU (友露安)》之銘言：
+</span><span class="f6">:   建商空屋或個人擁有第二戶以上
+</span><span class="f6">:   房屋稅每年課徵市值2%
+</span><span class="f6">:   市場上就會有一堆房子要脫手了
+</span><span class="f6">:   這麼簡單的方法
+</span><span class="f6">:   很多人也提議很久了
+</span><span class="f6">:   政府就是不做
+</span><span class="f6">:   真奇怪
+</span>房屋稅課徵市值2%？？
+
+我們把所有情況假設一下好了。
+
+第一種：所有房屋皆課
+
+一間建坪30坪的10年15樓高大樓在使用自用住宅跟不考慮地段加乘的情況下每年所繳的房
+屋稅大概是<span class="f3 hl">2到3萬</span>
+
+假設每坪40萬，那麼總價就是1200萬，<span class="f3 hl">市價2%就是24萬</span>
+
+24-3=21
+
+哇靠，他媽光每年的房屋稅<span class="f1 hl">就要多繳21萬</span>，如果你爸媽有房子的話你爸媽大概會第一個飛
+起來。
+
+台灣房地產直接死刑。
+
+結論：自用住宅不能課市值2%
+
+第二種情況：只針對第二戶以上非自用住宅或建商空屋課稅
+
+會被課到這種稅的大概只有兩種人：
+
+第一種叫做有餘錢買房給爸媽住；第二種叫誠實報稅的房東。
+
+第一種人房子所有權基本不會在父母身上 ，因為父母過世繼承回來還要被多課遺產稅。
+
+第二種人就更好玩了，21/12=1.75
+
+房東每年多付出21萬的成本，你覺得他會吞下去還是叫你出？
+
+每個月多漲你1萬7500的房租，而且租越大漲越多，真棒。
+
+那你問短進短出的投資客呢？
+你大概不知道世界上有一種東西叫“人頭”。
+
+用人頭下去背，每個都是情況一；用自用住宅直接解套爽歪歪。
+
+<span class="f1 hl">當年奢侈稅就是這樣被玩死</span>才有現在的房地合一，房地合一不好解但是還是可以解，而且
+政府的房地合一目標看的不是只有房地產稅金這塊，後面可以牽很多出來，要講會扯太多
+，略過。
+
+
+那建商呢？
+跟房東一樣，你覺得他吞下去還是灌到你身上？
+
+再不然你以後大概會看到預售的時候都直接clean、完銷紅不浪沒有空屋，然後每戶都直
+接賣紅單。
+
+當一家雞排漲10元你可以選擇吃別家，但當每家都漲10元呢？
+
+你還是要吞下去，除非你以後不吃雞排。
+
+
+
+<span class="f3 hl">提問：可不可以市價2%課房屋稅呢？</span>
+
+<span class="f6 hl">Welcome to Ghost Island</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.204.149.205
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496754709.A.97E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496754709.A.97E.html</a>
+</span><span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:13:16
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lpllpllpl</span><span class="f3 push-content">: 不吃雞排改吃魯味啊~</span><span class="push-ipdatetime">06/06 21:13
+</span></div>難怪李來希要睡北車惹
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">barbarian72</span><span class="f3 push-content">: 所以權是什麼？</span><span class="push-ipdatetime">06/06 21:13
+</span></div>打太快
+<span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:14:34
+</span><span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:15:22
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">barbarian72</span><span class="f3 push-content">: 第二句怪怪的</span><span class="push-ipdatetime">06/06 21:15
+</span></div>手機挑字很盧洨…
+<span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:16:06
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">barbarian72</span><span class="f3 push-content">: 打完要校對一下啦</span><span class="push-ipdatetime">06/06 21:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StarTouching</span><span class="f3 push-content">: 很好啊 轉嫁給房客 那麼好日子的假象就會被戳破了</span><span class="push-ipdatetime">06/06 21:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">reko7379</span><span class="f3 push-content">: 建商沒那麼多現金啦！每個案都紅單那來這麼多人頭？？</span><span class="push-ipdatetime">06/06 21:22
+</span></div>建商規模跟推案量
+<span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:24:18
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 你就算只課0.01%的稅 還是會轉嫁給房客</span><span class="push-ipdatetime">06/06 21:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leocat</span><span class="f3 push-content">: 動動腦，你以為這樣房價還會那麼高嗎？</span><span class="push-ipdatetime">06/06 21:25
+</span></div>XD
+
+有兩種情況，一種是都不要買大家一起死，一種是幫有錢房東做到死。
+
+我是覺得後者會比較接近現實啦。
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 要用人頭 就加窩裡反條款 抓到罰市價 檢舉人分3成</span><span class="push-ipdatetime">06/06 21:26
+</span></div>那可能你要先跑路XD
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 還有 既然叫&#34;空屋稅&#34; 就是租不出去 才跟持有人課重稅</span><span class="push-ipdatetime">06/06 21:27
+</span></div>人頭。
+<span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:32:42
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 逼持有大量房產的人 降低租金或售價</span><span class="push-ipdatetime">06/06 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donation12</span><span class="f3 push-content">: 覺得逃漏稅的房東還是該先抓一抓.....</span><span class="push-ipdatetime">06/06 21:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DF801580</span><span class="f3 push-content">: 想很多，但立委不會立這些法的</span><span class="push-ipdatetime"> 06/06 21:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DF801580</span><span class="f3 push-content">: 最有機會的時機已過，要等下次選舉前了</span><span class="push-ipdatetime">06/06 21:30
+</span></div>雖然房價可以靠土地活用來對抗，但現階段QE還是主要的問題
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 空屋稅 可以讓房東誠實報稅啊 誠實申報房租收人 繳稅</span><span class="push-ipdatetime">06/06 21:31
+</span></div>通常啦，只要房東每個月少你一點租金，承租人都會當作沒看到。
+
+在錢的面前不要太相信人性。
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 不然 就當 空屋處理 被課高%的空屋稅</span><span class="push-ipdatetime">06/06 21:32
+</span></div><span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 21:37:54
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fytnship</span><span class="f3 push-content">: 1.房價降了稅也就跟著降 2.想轉嫁也得先找到房客</span><span class="push-ipdatetime"> 06/06 21:41
+</span></div>我這樣子說好了
+
+要把上述例子市價課稅降到跟現在房屋稅差不多大概是總價200萬啦，一間30坪10年的15
+樓高大樓200萬？
+
+當年26煙火亂射的時候也沒有這種價格。
+
+除非你打算三代同堂繼續擠一間啦，不然不是要買就是要租，不然房客要找真的不難。
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fytnship</span><span class="f3 push-content">: 所以 1.第二戶起累進加重持有稅 2.惡意逃漏稅者判刑</span><span class="push-ipdatetime">06/06 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fytnship</span><span class="f3 push-content">: 用人頭被查到就是惡意逃漏稅</span><span class="push-ipdatetime">06/06 21:43
+</span></div>其實現在稅捐法的41到43條都有最重5年以下的有期徒刑啦，只是效果呢……？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fytnship</span><span class="f3 push-content">: 然後溫哥華已對第二戶起的空屋徵收1%空屋稅</span><span class="push-ipdatetime">06/06 21:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fytnship</span><span class="f3 push-content">: 雖然當初是要訂為稅率範圍在0.5%至2%間 最高真的會到2%</span><span class="push-ipdatetime">06/06 21:50
+</span></div><span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/06/2017 22:34:16
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JamesForrest</span><span class="f3 push-content">: 要不要堵而已啦</span><span class="push-ipdatetime">06/06 23:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mynewid</span><span class="f3 push-content">: 美加紐澳日本都是實價1%,你是在大聲什麼</span><span class="push-ipdatetime"> 06/06 23:58
+</span></div>可是你講的幾個國家最近房地產都井噴耶……？
+
+我現在這樣問你就好了啊，每年多掏20萬出來繳房屋稅看你要不要啊。
+
+<span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/07/2017 00:29:13
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">devilsudo</span><span class="f3 push-content">: 其實第二棟空屋稅還是有效，順便提高保障房屋持有人權</span><span class="push-ipdatetime"> 06/07 00:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">devilsudo</span><span class="f3 push-content">: 力這類配套做好並非無法操作</span><span class="push-ipdatetime">06/07 00:28
+</span></div>沒有說不能操作，只是在人頭除不盡、現金給又生的情況下，很難有什麼作為
+<span class="f2">※ 編輯: xxx311429 (180.204.149.205), 06/07/2017 00:34:08
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">youga</span><span class="f3 push-content">: 你根本不懂經濟學的彈性 唸完書再來</span><span class="push-ipdatetime"> 06/07 01:06
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496754709.A.97E.html?cacheKey=2052-10501200&offset=5919&offset-sig=23a9084ef195a746c17dba93341eefbd31ea7a7b" data-longpollurl="/v1/longpoll?id=078468a539989d0e24b9017166734f2f2e5b7f19" data-offset="5919"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

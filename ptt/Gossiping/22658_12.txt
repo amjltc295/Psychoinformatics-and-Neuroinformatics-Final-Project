@@ -1,0 +1,166 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496686083.A.AA7.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 哪些物理值是有上限的? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="速度  宇宙內所有物質的速度不會&gt;光速  所以速度有上限
+那麼溫度有上限嗎？ 溫度有絕對0度是下限值  核融合什麼的據說可以幾億度
+此外  密度有上限嗎？  撇開大霹靂一開始那個無限大
+那是很抽象數學上的奇點  真實物理化學中密度有上限嗎？
+還有哪些物理量值是有上下限度的?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 哪些物理值是有上限的?">
+<meta property="og:description" content="速度  宇宙內所有物質的速度不會&gt;光速  所以速度有上限
+那麼溫度有上限嗎？ 溫度有絕對0度是下限值  核融合什麼的據說可以幾億度
+此外  密度有上限嗎？  撇開大霹靂一開始那個無限大
+那是很抽象數學上的奇點  真實物理化學中密度有上限嗎？
+還有哪些物理量值是有上下限度的?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496686083.A.AA7.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496686083.A.AA7.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">harry901 (harry901)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 哪些物理值是有上限的?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 02:08:00 2017</span></div>
+速度  宇宙內所有物質的速度不會&gt;光速  所以速度有上限
+
+那麼溫度有上限嗎？ 溫度有絕對0度是下限值  核融合什麼的據說可以幾億度
+
+此外  密度有上限嗎？  撇開大霹靂一開始那個無限大
+那是很抽象數學上的奇點  真實物理化學中密度有上限嗎？
+
+還有哪些物理量值是有上下限度的?
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.42.90.12
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496686083.A.AA7.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496686083.A.AA7.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fonghai</span><span class="f3 push-content">: 五樓屁眼沒極限</span><span class="push-ipdatetime"> 06/06 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tim121507</span><span class="f3 push-content">: 5樓肛門沒有限度</span><span class="push-ipdatetime"> 06/06 02:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XiaoFatZhai</span><span class="f3 push-content">: 五樓肛門能屈能伸</span><span class="push-ipdatetime"> 06/06 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jeff9453</span><span class="f3 push-content">: 輕輕鬆鬆陷害毀天滅地蓋</span><span class="push-ipdatetime"> 06/06 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lampashake</span><span class="f3 push-content">: 五樓肛門裡面一堆洨</span><span class="push-ipdatetime"> 06/06 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">king72433</span><span class="f3 push-content">: 生命值最多100% 補再多都沒用</span><span class="push-ipdatetime"> 06/06 02:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jetaime851</span><span class="f3 push-content">: 和學妹是永遠的冰點</span><span class="push-ipdatetime"> 06/06 02:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takeyourtime</span><span class="f3 push-content">: 五樓太慘了</span><span class="push-ipdatetime"> 06/06 02:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LausuTsai</span><span class="f3 push-content">: 我只知道有些人的智商是沒有下限的</span><span class="push-ipdatetime"> 06/06 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MgcnVanish</span><span class="f3 push-content">: 誰跟你說絕對0度是下限了?那只是目前已知所有物質</span><span class="push-ipdatetime"> 06/06 02:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MgcnVanish</span><span class="f3 push-content">: 都會結冰的溫度 不代表溫度不會更低好嗎</span><span class="push-ipdatetime"> 06/06 02:18
+</span></div>額  如果沒有這個下限  熱力學定律會都不符合物理現象
+<span class="f2">※ 編輯: harry901 (114.42.90.12), 06/06/2017 02:19:36
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MgcnVanish</span><span class="f3 push-content">: 提供你一個 終端速度 自己去查吧</span><span class="push-ipdatetime"> 06/06 02:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cs410567cs</span><span class="f3 push-content">: MgcnVanish 文組別來亂好嗎 終端速度 我笑了</span><span class="push-ipdatetime"> 06/06 02:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MgcnVanish</span><span class="f3 push-content">: 呵 他都說物理了</span><span class="push-ipdatetime"> 06/06 02:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">context</span><span class="f3 push-content">: 五樓自肥</span><span class="push-ipdatetime"> 06/06 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 台巴子賤畜低能無下限</span><span class="push-ipdatetime"> 06/06 02:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaduoray</span><span class="f3 push-content">: 速度有極限吧 最快就是光速</span><span class="push-ipdatetime"> 06/06 02:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r7895566</span><span class="f3 push-content">: 10樓文組？ 溫度跟終端速度有啥關係 廠廠</span><span class="push-ipdatetime"> 06/06 02:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">itachi830220</span><span class="f3 push-content">: 10樓，你真的知道自己在講什麼嗎？</span><span class="push-ipdatetime"> 06/06 02:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hanchueh</span><span class="f3 push-content">: 結冰個頭 是絕對熵為零的溫度好嗎？</span><span class="push-ipdatetime"> 06/06 02:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hanchueh</span><span class="f3 push-content">: 正常情況下密度當然有上限 不同原子的電子相排斥</span><span class="push-ipdatetime"> 06/06 02:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverywings</span><span class="f3 push-content">: 效率最大100趴</span><span class="push-ipdatetime"> 06/06 02:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverywings</span><span class="f3 push-content">: 下限就普朗克常數吧</span><span class="push-ipdatetime"> 06/06 02:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">waloloo</span><span class="f3 push-content">: 65535</span><span class="push-ipdatetime"> 06/06 03:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xavier0963</span><span class="f3 push-content">: 文組，笑了。終端速度，是流體力學的吧</span><span class="push-ipdatetime"> 06/06 04:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 299792458</span><span class="push-ipdatetime"> 06/06 05:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 溫度目前已知沒上限</span><span class="push-ipdatetime"> 06/06 05:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 但以後不知到</span><span class="push-ipdatetime"> 06/06 05:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 講到熵 這又是很長的故事 提世：和解微方不能解要找積分因</span><span class="push-ipdatetime"> 06/06 05:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 子有關</span><span class="push-ipdatetime"> 06/06 05:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 我前一個帳號物理版上常po文章 這個帳號就少多了</span><span class="push-ipdatetime"> 06/06 05:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bellas</span><span class="f3 push-content">: 以前有次有人問 hypersphere我回了回的我好累就越來越不想</span><span class="push-ipdatetime"> 06/06 06:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XDDDpupu5566</span><span class="f3 push-content">: 10樓沒下限啊！</span><span class="push-ipdatetime"> 06/06 06:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DON3000</span><span class="f3 push-content">: 文組在那邊丟臉</span><span class="push-ipdatetime"> 06/06 08:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yichenglee</span><span class="f3 push-content">: 普朗克常數</span><span class="push-ipdatetime"> 06/06 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maime55</span><span class="f3 push-content">: 10樓文組不意外</span><span class="push-ipdatetime"> 06/06 11:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yiddishqq</span><span class="f3 push-content">: 有聽過普朗克溫度嗎</span><span class="push-ipdatetime"> 06/06 11:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496686083.A.AA7.html?cacheKey=2052-2733645&offset=4374&offset-sig=24da01d7b2a1cf8cd3c636edea35a8a3a6a0482b" data-longpollurl="/v1/longpoll?id=05d93f9e9195226c7d27af960a3ce14b7d5592e8" data-offset="4374"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

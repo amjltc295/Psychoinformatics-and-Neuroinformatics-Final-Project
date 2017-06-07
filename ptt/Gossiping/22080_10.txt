@@ -1,0 +1,159 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496324758.A.67F.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 青年低薪 科技部提解方 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="構
+: 有努力、就有機會」的氛圍，除了多個人才培育方案外、並規劃創投環境，並舉辦國際
+投
+: 媒合會，讓優秀年輕團隊走上舞台，被國際創投看見。
+: 科技部長陳良基今天參與科技部及國發會共同舉辦的首屆「InnoVEX」國際投資媒合會
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 青年低薪 科技部提解方">
+<meta property="og:description" content="構
+: 有努力、就有機會」的氛圍，除了多個人才培育方案外、並規劃創投環境，並舉辦國際
+投
+: 媒合會，讓優秀年輕團隊走上舞台，被國際創投看見。
+: 科技部長陳良基今天參與科技部及國發會共同舉辦的首屆「InnoVEX」國際投資媒合會
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496324758.A.67F.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496324758.A.67F.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">deitly (一萬光年的愛情)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 青年低薪 科技部提解方</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 21:45:55 2017</span></div>
+<span class="f2">※ 引述《XXXXGGYY ((4X鮑))》之銘言：
+</span><span class="f6">: 青年低薪 科技部提解方
+</span><span class="f6">: 2017-06-01 11:53聯合報 記者林良齊╱即時報導
+</span><span class="f6">: 近年來青年低薪的問題不斷被提起，科技部盼建立一個適合當代年輕人的創業環境，建
+</span>構
+<span class="f6">: 有努力、就有機會」的氛圍，除了多個人才培育方案外、並規劃創投環境，並舉辦國際
+</span>投
+<span class="f6">: 媒合會，讓優秀年輕團隊走上舞台，被國際創投看見。
+</span><span class="f6">: 科技部長陳良基今天參與科技部及國發會共同舉辦的首屆「InnoVEX」國際投資媒合會
+</span>，?
+<span class="f6">: 請來自各國的國際創投及台灣新創代表團隊交流，未來科技部也打算在1年舉辦至少3場
+</span>的
+<span class="f6">: 際媒合會，希望把台灣打造成亞太新創投資熱區。
+</span><span class="f6">: 科技部表示，近年來的低薪化、失望感，重重壓在年輕人身上，科技部有責任為青年建
+</span>構
+<span class="f6">: 有努力、就有機會」的環境。陳良基說，為了達到目的，選送博士赴矽谷、人才回流列
+</span>車
+<span class="f6">: 建置智慧自造者基地、國際媒合環境，明年起更透過前瞻基礎建設投入50億元建置高速
+</span>運
+<span class="f6">: 平台，希望讓台灣團隊被世界看見。
+</span><span class="f6">: <a href="https://udn.com/news/story/7269/2496709?from=udn-ch1_breaknews-1-0-news" target="_blank" rel="nofollow">https://udn.com/news/story/7269/2496709?from=udn-ch1_breaknews-1-0-news</a>
+</span>
+花50億建高速平台!?
+不會解決問題就別硬提解方了
+不然只會亂耗費公帑
+
+要提高薪資
+就趕走低薪外勞,不要開放低薪白領
+在加少子化效應, 薪水怎麼可能不漲?
+
+不做事都比你做一堆事有用
+哀 文組還是能混則混就好
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.115.199.91
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496324758.A.67F.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496324758.A.67F.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xoyster</span><span class="f3 push-content">: 嗯</span><span class="push-ipdatetime"> 06/01 21:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 你怎麼不用trashpoking發文阿</span><span class="push-ipdatetime">06/01 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 還是這隻才是你本尊阿?</span><span class="push-ipdatetime"> 06/01 21:50
+</span></div>有差膩?
+<span class="f2">※ 編輯: deitly (59.115.199.91), 06/01/2017 21:50:59
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 當然有差阿，趕快把你住新北投朱立倫的事情勇敢講出來</span><span class="push-ipdatetime">06/01 22:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 為什麼一直不敢講這件事?</span><span class="push-ipdatetime"> 06/01 22:01
+</span></div>崩潰啥啊
+<span class="f2">※ 編輯: deitly (59.115.210.171), 06/01/2017 22:04:26
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anti87</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 06/01 22:16
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496324758.A.67F.html?cacheKey=2052-12465244&offset=2070&offset-sig=8ef47244363ecae0a7d071ee850027fabcebaaa7" data-longpollurl="/v1/longpoll?id=61492ecb905565018c216d933ebb69fbe5a99387" data-offset="2070"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

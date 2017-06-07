@@ -1,0 +1,363 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496067952.A.EA5.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 警察猛催油門開罰 大學生申訴成功貼網打 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+自由
+2.完整新聞標題:
+傻眼！警察猛催油門開罰 大學生申訴成功貼網打臉
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 警察猛催油門開罰 大學生申訴成功貼網打">
+<meta property="og:description" content="1.媒體來源:
+自由
+2.完整新聞標題:
+傻眼！警察猛催油門開罰 大學生申訴成功貼網打臉
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496067952.A.EA5.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496067952.A.EA5.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">a0921387223 (kawabangaga)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 警察猛催油門開罰 大學生申訴成功貼網打</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 22:25:48 2017</span></div>
+1.媒體來源:
+自由
+
+2.完整新聞標題:
+傻眼！<span class="f3 hl">警察猛催油門開罰</span> 大學生<span class="f1 hl">申訴成功貼網打臉</span>
+
+3.完整新聞內文:
+〔記者張瑞楨／台中報導〕台中市鍾姓大學生，3月20日被警察以機車排氣改裝為由開罰
+，他不斷解釋，自己是因車禍損壞而換裝排氣管，<span class="f2 hl">有監理站的合格證明</span>，但台中市警局三
+分局的員警，仍是執意開罰單，更令這位大學生傻眼的是，警察要他發動機車，由警察猛
+催油門，<span class="f1 hl">把引擎轉數拉到將近1萬轉</span>，<span class="f3 hl">發出龐大噪音</span>，再據此認定他的排氣管不合格而開
+罰，鍾男歷經2個多月申訴成功，他把整個過程貼到網路上，呼籲警察切勿擾民，各界應
+重視合法改裝汽機車權益。
+
+
+上述錄影畫面，是3月20日晚間於台中市東區大智國小旁，被中市警局三分局的員警攔查
+，鍾姓大學生見警察猛盯著排氣管，他感覺不妙，趕緊開行車記錄器拍下過程。
+錄影畫面顯示，鍾姓大學生向警察解釋，他因車禍機車零件損壞，才會更換非原廠的排氣
+管，他的手機內，<span class="f3 hl">有監理站檢驗合格的證書（電子檔）</span>，不過，他把證書拿給警察看，員
+警連瞄一眼都不願意，只是猛盯著排氣管看，之後，要求他發動引擎，再由員警催油門，
+<span class="f3 hl">把引擎轉數拉到1萬轉</span>。
+
+鍾姓大學生看傻了眼，他說，他買這輛車至今，從未如此狂催油門，任何汽機車轉數拉到
+近1萬轉，噪音都會很大，警察再依據噪音，指機車的消音器違規拆除而開罰，他質疑警
+方不講道理，他拒絕收罰單。
+
+鍾姓大學生說，他打1999市民專線，也寫信到市長信箱，全都石沈大海，
+<span class="f2 hl">只有第三分局員警「打來兇我」</span>，<span class="f1 hl">並堅持員警沒誤判，開單程序合理</span>
+，他遲至<span class="f3 hl">申訴成功之後，才把整段過程貼到網路</span>，是要呼籲警察不要擾民
+，「很多車友正受苦著」，合法權益要尊重。
+
+中市警局三分局交通組長謝有昌說，鍾姓大學生不是出示證明公文正本，而是出示手機拍
+攝照片，另外，值勤員警也擔心，鍾姓大學生檢驗合格之後，又拆掉排氣管，因此，才會
+用<span class="f3 hl">催油門與棍子插入排氣管內等方法</span>，確認是否拿掉消音器，不過，員警不是專業者，測
+試手法恐引發爭議。
+
+他指出，本月初已經規定，針對是否拔除消音器，「原則上」不再用上述舊方法測試，而
+是會同環保人員用專業儀器檢測，不過，如果是砲管、直通管等，一看就知道違規的汽機
+車，可以直接開罰，如有爭議，再請環保局等單位釐清。
+
+4.完整新聞連結 (或短網址):
+<a href="http://m.ltn.com.tw/news/society/breakingnews/2082833" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/society/breakingnews/2082833</a>
+
+5.備註:
+耳朵當分貝機厲害厲害
+
+桶棍拉萬轉 果然專業
+
+唉唷抓40台一支嘉獎好像不錯喔
+
+結果那位警察呢??是不是又跟當年揮棍的那樣一樣
+
+人間蒸發@@?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.223.122.184
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496067952.A.EA5.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496067952.A.EA5.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 可悲警犬</span><span class="push-ipdatetime"> 05/29 22:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elec1141</span><span class="f3 push-content">: 南蠻</span><span class="push-ipdatetime"> 05/29 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XWSL</span><span class="f3 push-content">: 台中8+9.</span><span class="push-ipdatetime"> 05/29 22:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kid725</span><span class="f3 push-content">: 垃圾鴿</span><span class="push-ipdatetime"> 05/29 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 一萬轉，正常人會這樣騎車？</span><span class="push-ipdatetime"> 05/29 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 就賊頭啊</span><span class="push-ipdatetime"> 05/29 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiyoe</span><span class="f3 push-content">: 台灣根本是高科技國家 眼睛測超速 耳朵測噪音 還有什麼</span><span class="push-ipdatetime"> 05/29 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tonica</span><span class="f3 push-content">: 一萬轉機車已經內傷</span><span class="push-ipdatetime"> 05/29 22:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 警察不意外</span><span class="push-ipdatetime"> 05/29 22:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kiyoe</span><span class="f3 push-content">: 勁戰最可以拉到1萬轉？</span><span class="push-ipdatetime"> 05/29 22:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nowitzki0207</span><span class="f3 push-content">: Good噪音滾</span><span class="push-ipdatetime"> 05/29 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OrzOGC</span><span class="f3 push-content">: 鴿子的水準本來就這樣,有牌流氓</span><span class="push-ipdatetime"> 05/29 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scarbywind</span><span class="f3 push-content">: 一萬轉怎麼知道的</span><span class="push-ipdatetime"> 05/29 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 然後這種警察也不會處分你放心  只要警界不處分這種莫</span><span class="push-ipdatetime"> 05/29 22:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XWSL</span><span class="f3 push-content">: 一萬葉配</span><span class="push-ipdatetime"> 05/29 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 名其妙擾民的警察 就不要怪民間仇警  不尊重法律不尊重</span><span class="push-ipdatetime"> 05/29 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy90498</span><span class="f3 push-content">: 警察責任都是你們警察</span><span class="push-ipdatetime"> 05/29 22:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hiimjack</span><span class="f3 push-content">: 嗯嗯 標準警察素質 看到這邊我就放心惹</span><span class="push-ipdatetime"> 05/29 22:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Colantoni</span><span class="f3 push-content">: 這也太扯了</span><span class="push-ipdatetime"> 05/29 22:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">star1023</span><span class="f3 push-content">: 8+警</span><span class="push-ipdatetime"> 05/29 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LaplaceDemon</span><span class="f3 push-content">: 阿就賊頭阿  很意外嗎</span><span class="push-ipdatetime"> 05/29 22:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 怎麼知道機車一萬轉</span><span class="push-ipdatetime"> 05/29 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winu</span><span class="f3 push-content">: 叫這警鴿催完油門用嘴含住排氣管，幹</span><span class="push-ipdatetime"> 05/29 22:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wasureta</span><span class="f3 push-content">: 在一萬一千轉之前 踩緊油門！</span><span class="push-ipdatetime"> 05/29 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">as7766332211</span><span class="f3 push-content">: 單子會有執勤人名字吧</span><span class="push-ipdatetime"> 05/29 22:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leoz69927</span><span class="f3 push-content">: 警察會用一萬種理由護航 不意外</span><span class="push-ipdatetime"> 05/29 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiyoe</span><span class="f3 push-content">: 台中第三分局立德派出所 員警 林世明</span><span class="push-ipdatetime"> 05/29 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tokeep</span><span class="f3 push-content">: 只會鍵盤哭哭唷.根本不痛不癢</span><span class="push-ipdatetime"> 05/29 22:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tmwolf</span><span class="f3 push-content">: 普通機車那種叫哀號啊，求救訊號當然大聲</span><span class="push-ipdatetime"> 05/29 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leoz69927</span><span class="f3 push-content">: 機車上有轉速表壓 用眼睛看就知道了</span><span class="push-ipdatetime"> 05/29 22:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cloudwolf</span><span class="f3 push-content">: 我只想知道 硬要違法開單跟嗆聲的員警 受到啥處罰?</span><span class="push-ipdatetime"> 05/29 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kingrichman</span><span class="f3 push-content">:  警察不懂法用一堆奇奇怪怪方法開罰，直接申訴就好</span><span class="push-ipdatetime"> 05/29 22:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">james13112</span><span class="f3 push-content">: 有轉速表啊 沒眼睛看喔</span><span class="push-ipdatetime"> 05/29 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xu3jo45p4</span><span class="f3 push-content">: 萬轉…</span><span class="push-ipdatetime"> 05/29 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 警察人肉測量儀，你敢嘴!?</span><span class="push-ipdatetime"> 05/29 22:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stevenkuo</span><span class="f3 push-content">: 條子阿部拉 罵他流氓會森七七</span><span class="push-ipdatetime"> 05/29 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sandwich1028</span><span class="f3 push-content">: 錯就錯，硬凹最可恥</span><span class="push-ipdatetime"> 05/29 22:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">link5566</span><span class="f3 push-content">: 立中柱我也不敢拉到一萬耶... 真扯</span><span class="push-ipdatetime"> 05/29 22:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">relaxcloud</span><span class="f3 push-content">: 為啥亂開單的警察都不用受罰，這樣還想談警察的權?</span><span class="push-ipdatetime"> 05/29 22:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">birdman0131</span><span class="f3 push-content">: 拉基  準備被上司幹到一萬轉</span><span class="push-ipdatetime"> 05/29 22:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">juncat</span><span class="f3 push-content">: 我知道警察想抓那些亂改車的8+9 但拜託在專業點讓人心服</span><span class="push-ipdatetime"> 05/29 22:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantasibear</span><span class="f3 push-content">: 智障學校畢業的 哈哈</span><span class="push-ipdatetime"> 05/29 22:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ksxo</span><span class="f3 push-content">: 一個案例也可以說到全部的警察</span><span class="push-ipdatetime"> 05/29 22:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PPPGGG</span><span class="f3 push-content">: 反正跟打人的一樣瞬間沒有這個人存在拉</span><span class="push-ipdatetime"> 05/29 22:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">t700</span><span class="f3 push-content">: 到底有誰閒著沒事會把公文正本放身上？警察真的有病</span><span class="push-ipdatetime"> 05/29 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ceowu</span><span class="f3 push-content">: 勁戰嗎？原廠有轉速表啊，我催到底大約7.8千轉</span><span class="push-ipdatetime"> 05/29 22:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a1995840420</span><span class="f3 push-content">: 87</span><span class="push-ipdatetime"> 05/29 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: 監理站有很大的問題  那影片聲音明明很大聲竟然是合格的</span><span class="push-ipdatetime"> 05/29 23:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 樓上耳朵也是儀器嗎？不就好棒棒</span><span class="push-ipdatetime"> 05/29 23:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 一萬轉誰的車聲音都很大好嗎？多讀點書再來</span><span class="push-ipdatetime"> 05/29 23:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: 如果到一萬轉聲音太大聲當然也不能給過</span><span class="push-ipdatetime"> 05/29 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 呵呵 誰會沒事拉轉到10000</span><span class="push-ipdatetime"> 05/29 23:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 重點是有儀器，監理站也驗合格了</span><span class="push-ipdatetime"> 05/29 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: 所以我說是監理站的問題阿  轉速不是重點  是聲音</span><span class="push-ipdatetime"> 05/29 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 哪裡看的出來1萬轉？</span><span class="push-ipdatetime"> 05/29 23:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 問題是你的耳朵是儀器嗎？車都用儀器驗過了</span><span class="push-ipdatetime"> 05/29 23:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 所以呢，以後車都給teddy72聽一下，看有沒有違規，因</span><span class="push-ipdatetime"> 05/29 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 為teddy72的耳朵比儀器還準喔</span><span class="push-ipdatetime"> 05/29 23:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: 我是說監理站標準放太低  不要鬼打牆</span><span class="push-ipdatetime"> 05/29 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LOVEMS</span><span class="f3 push-content">: 問題是有一萬轉聲音還合格的機車嗎？</span><span class="push-ipdatetime"> 05/29 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 有些鄉民連轉速表都不知道我也是醉了</span><span class="push-ipdatetime"> 05/29 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YJM1106</span><span class="f3 push-content">: 最大馬力5001rpm以上的，取其1/2轉速作為檢測值，這大學</span><span class="push-ipdatetime"> 05/29 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YJM1106</span><span class="f3 push-content">: 生是騎moto gp的廠車喔</span><span class="push-ipdatetime"> 05/29 23:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 是你才鬼打牆，你以為你誰，標準還需要teddy72來制定</span><span class="push-ipdatetime"> 05/29 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dlsh610252</span><span class="f3 push-content">: 機車怎麼看1萬轉?盲點</span><span class="push-ipdatetime"> 05/29 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zliang</span><span class="f3 push-content">: 別鬧了...一萬轉哪台車不吵啊 ?</span><span class="push-ipdatetime"> 05/29 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 有轉速表！</span><span class="push-ipdatetime"> 05/29 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zliang</span><span class="f3 push-content">: 現在機車不是都有轉速表嗎....</span><span class="push-ipdatetime"> 05/29 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 現在很多車都有轉速表配備！</span><span class="push-ipdatetime"> 05/29 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Alphaplus</span><span class="f3 push-content">: 是真的滿大聲的</span><span class="push-ipdatetime"> 05/29 23:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 轉速表不是廢話嗎？問題是哪裡顯示1萬轉了</span><span class="push-ipdatetime"> 05/29 23:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: 我哪裡說我要制定標準阿?  到底誰鬼打牆阿?</span><span class="push-ipdatetime"> 05/29 23:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">avans</span><span class="f3 push-content">: 面板會有轉速，是沒騎過機車阿!</span><span class="push-ipdatetime"> 05/29 23:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lazo</span><span class="f3 push-content">: 這種垃圾改車竟然合格，監理站是放水吧</span><span class="push-ipdatetime"> 05/29 23:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: teddy72不是嫌監理站標準太低嗎？自己寫的話自己看好</span><span class="push-ipdatetime"> 05/29 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">:  <a href="http://i.imgur.com/KlWYPe5.jpg" target="_blank" rel="nofollow">http://i.imgur.com/KlWYPe5.jpg</a></span><span class="push-ipdatetime"> 05/29 23:21
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="KlWYPe5"><a href="//imgur.com/KlWYPe5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: Jay111101可以看到轉速表指針都到快到底了</span><span class="push-ipdatetime"> 05/29 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: 是我個人嫌阿  但大眾可以接受我就沒意見阿</span><span class="push-ipdatetime"> 05/29 23:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 要是不了解勁戰四代轉速表位置，請自行google</span><span class="push-ipdatetime"> 05/29 23:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">richard0800</span><span class="f3 push-content">: 推 kiyoe: 台中第三分局立德派出所 員警 林世明</span><span class="push-ipdatetime"> 05/29 23:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 我相信監理站儀器還是比你耳朵測得清楚</span><span class="push-ipdatetime"> 05/29 23:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 快笑死，這樣看的出轉速，那用耳朵聽噪音也沒問題了啊</span><span class="push-ipdatetime"> 05/29 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vyeight</span><span class="f3 push-content">: 帥  警察自以為權力很大就耍屌</span><span class="push-ipdatetime"> 05/29 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zliang</span><span class="f3 push-content">: 快笑死  是不是還要開個教學教怎麼看轉速表 XDDD</span><span class="push-ipdatetime"> 05/29 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">:  <a href="http://i.imgur.com/B0qPuZg.jpg" target="_blank" rel="nofollow">http://i.imgur.com/B0qPuZg.jpg</a></span><span class="push-ipdatetime"> 05/29 23:26
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="B0qPuZg"><a href="//imgur.com/B0qPuZg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 呵呵連google都不去查，就說看不懂轉速表</span><span class="push-ipdatetime"> 05/29 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: Jay111101沒關係就由我這個小魯妹教你怎麼看</span><span class="push-ipdatetime"> 05/29 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxxg00w0</span><span class="f3 push-content">: 一萬轉 接下來只要引擎出問題就可以求償啦</span><span class="push-ipdatetime"> 05/29 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 請看左邊指針，單位為1000，影片明顯指針都快到底了，</span><span class="push-ipdatetime"> 05/29 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 你這樣還看不懂轉速表，您還是坐大眾運輸工具吧</span><span class="push-ipdatetime"> 05/29 23:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zliang</span><span class="f3 push-content">: 不過其實新聞是寫近萬轉 我的車催到底只能8K多 QQ</span><span class="push-ipdatetime"> 05/29 23:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 是近萬轉，不過我的車都不敢一下子就拉轉到6000傷車</span><span class="push-ipdatetime"> 05/29 23:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qaz223gy</span><span class="f3 push-content">: 馬的垃圾警察這樣做 一般的機車很容易被搞壞</span><span class="push-ipdatetime"> 05/29 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 而且還一發動就拉高轉，哎可憐的引擎</span><span class="push-ipdatetime"> 05/29 23:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwejoezxc33</span><span class="f3 push-content">: 一定是9.2</span><span class="push-ipdatetime"> 05/29 23:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pig14283105</span><span class="f3 push-content">: 推文有人不會看轉速表是哪招…</span><span class="push-ipdatetime"> 05/29 23:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: Jay111101不喜歡自己google,我教他了</span><span class="push-ipdatetime"> 05/29 23:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">suileen</span><span class="f3 push-content">: 連轉速表都不會看的垃圾還是閉嘴吧</span><span class="push-ipdatetime"> 05/29 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">patchiang13</span><span class="f3 push-content">: 連轉速表都不知道，可能平常都走路吧</span><span class="push-ipdatetime"> 05/29 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">suileen</span><span class="f3 push-content">: 車子架起中柱拉轉的確可以拉到萬轉</span><span class="push-ipdatetime"> 05/29 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arishina</span><span class="f3 push-content">: 速克達拉到萬轉早就不知道胚到哪去，檔車才能原地空檔萬</span><span class="push-ipdatetime"> 05/29 23:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arishina</span><span class="f3 push-content">: 轉，吃人夠夠喔</span><span class="push-ipdatetime"> 05/29 23:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tongiwo</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 05/29 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">libur</span><span class="f3 push-content">: 鴿子只敢兇一般民眾啦。</span><span class="push-ipdatetime"> 05/29 23:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">toshbio</span><span class="f3 push-content">: 支持警察</span><span class="push-ipdatetime"> 05/29 23:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 照片糊成那樣還要硬拗，工讀生帶風向也帶的太牽強了吧</span><span class="push-ipdatetime"> 05/30 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flare5566</span><span class="f3 push-content">: 還好沒當面嗆耳朵比監理站準 光這句就可以控妨礙公務然</span><span class="push-ipdatetime"> 05/30 00:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flare5566</span><span class="f3 push-content">: 後壓制逮捕了吧</span><span class="push-ipdatetime"> 05/30 00:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: Jay111101沒關係在座的大家都知道你看不懂轉速表，你在</span><span class="push-ipdatetime"> 05/30 00:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 硬凹也只是顯得你沒常識罷了</span><span class="push-ipdatetime"> 05/30 00:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 啊，對不起把你臉打腫了XD但我好喜歡</span><span class="push-ipdatetime"> 05/30 00:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 你們就繼續自嗨吧！我是google不到怎麼看轉速表，不過</span><span class="push-ipdatetime"> 05/30 00:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 至少查的到幾個固定id在帶風向，想騙不懂車的人跟風</span><span class="push-ipdatetime"> 05/30 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 樓上承認了，他看不懂轉速表，所以他根本不懂車，大家</span><span class="push-ipdatetime"> 05/30 00:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 請原諒他</span><span class="push-ipdatetime"> 05/30 00:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 騙不懂車的跟風，倒是有你這種不懂車的人亂評論，還亂</span><span class="push-ipdatetime"> 05/30 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 噓文，不懂裝懂</span><span class="push-ipdatetime"> 05/30 00:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppc</span><span class="f3 push-content">: 警察也是有好的啊 剛好遇到不好的而已</span><span class="push-ipdatetime"> 05/30 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 這麼糊的照片要看出轉速，這種超高技術當然google不到</span><span class="push-ipdatetime"> 05/30 00:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 啊！樓上工讀生要不要考慮去csi？不要窩在鬼島浪費才能</span><span class="push-ipdatetime"> 05/30 00:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jay111101</span><span class="f3 push-content">: 了</span><span class="push-ipdatetime"> 05/30 00:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 如果你連指針都看不到，那你眼睛真的不適合開車或騎車</span><span class="push-ipdatetime"> 05/30 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 你坐大眾運輸工具好一點</span><span class="push-ipdatetime"> 05/30 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 你知道你現在說出來的話只會顯得你不懂車又亂評論</span><span class="push-ipdatetime"> 05/30 00:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 去csi倒是不用，不過你到底有沒有google轉速表，我倒是</span><span class="push-ipdatetime"> 05/30 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 很好奇</span><span class="push-ipdatetime"> 05/30 00:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kkes50717</span><span class="f3 push-content">: 所以拉到10000轉聲音很大應該也是你想像不到的事吧</span><span class="push-ipdatetime"> 05/30 00:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lin7226004</span><span class="f3 push-content">: 這種垃圾鴿子一堆再來跟我說要爭警權 廠廠</span><span class="push-ipdatetime"> 05/30 00:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 南部不意外</span><span class="push-ipdatetime"> 05/30 00:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godbar</span><span class="f3 push-content">: 那個分局喔 不意外啦 一堆鴿子都有故事 呵呵</span><span class="push-ipdatetime"> 05/30 01:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 然後剪綵朱繼續帶風向</span><span class="push-ipdatetime"> 05/30 01:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a72737363</span><span class="f3 push-content">: 改裝就改裝  扯什麼車禍</span><span class="push-ipdatetime"> 05/30 01:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 萬轉是新聞自己加的 根本沒拉到萬轉</span><span class="push-ipdatetime"> 05/30 01:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 樓上kk更好笑,你沒發現在警察催油門之前亮點就在接近底</span><span class="push-ipdatetime"> 05/30 01:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 的位置嗎?  你要不要自己去拉你的機車看像警察那樣拉</span><span class="push-ipdatetime"> 05/30 01:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 拉的到萬轉才有鬼</span><span class="push-ipdatetime"> 05/30 01:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 好啦 就算看不出轉速 請問一下這樣是幾分貝?</span><span class="push-ipdatetime"> 05/30 01:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 警察用耳朵檢驗固然有問題 但要說警察拉到萬轉麻反請檢</span><span class="push-ipdatetime"> 05/30 01:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 查自己的眼睛</span><span class="push-ipdatetime"> 05/30 01:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 測酒駕還會叫你吹酒測器 現在覺得分貝超標不用分貝計喔</span><span class="push-ipdatetime"> 05/30 01:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 測量方式固然有問題 但有沒有拉到萬轉是另外一回事</span><span class="push-ipdatetime"> 05/30 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 那你要去靠北記者R</span><span class="push-ipdatetime"> 05/30 02:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 這很顯然沒拉到萬轉 卻有人硬要說就是萬轉了</span><span class="push-ipdatetime"> 05/30 02:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 就記者啊? 記者就愛寫小說阿</span><span class="push-ipdatetime"> 05/30 02:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 我誤會你了QQ 原來你是在執著於萬轉的人</span><span class="push-ipdatetime"> 05/30 02:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 我就是在說萬轉這點啊 有常識都知道小速克達立中柱要拉</span><span class="push-ipdatetime"> 05/30 02:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 萬轉早就噴出去了...</span><span class="push-ipdatetime"> 05/30 02:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jj840917</span><span class="f3 push-content">: 又不是檔車可以掛空檔狂拉....</span><span class="push-ipdatetime"> 05/30 02:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">andante6851</span><span class="f3 push-content">: 有牌流氓不易外</span><span class="push-ipdatetime"> 05/30 02:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: <a href="https://www.youtube.com/watch?v=pOZ09zGa2CU" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=pOZ09zGa2CU</a> 原影片</span><span class="push-ipdatetime"> 05/30 02:13
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/pOZ09zGa2CU" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 他有提到因為胎有磨過 不然就出去了 原影片是提到快萬</span><span class="push-ipdatetime"> 05/30 02:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wklxbiwee</span><span class="f3 push-content">: 轉</span><span class="push-ipdatetime"> 05/30 02:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">job5786</span><span class="f3 push-content">: 幹不是出示公文正本這種理由都講的出來 警察素質真屌</span><span class="push-ipdatetime"> 05/30 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winger</span><span class="f3 push-content">: 這種警察還不能罵吶，罵了當場把你打趴，告你妨礙公務，順</span><span class="push-ipdatetime"> 05/30 02:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winger</span><span class="f3 push-content">: 便嗆你在美國早就把你斃了，在台灣當警察好辛苦好沒尊嚴</span><span class="push-ipdatetime"> 05/30 02:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rabbit61677</span><span class="f3 push-content">: 先不論排氣管，這警察辦事完全是預設立場啊</span><span class="push-ipdatetime"> 05/30 02:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rabbit61677</span><span class="f3 push-content">: 又不是在抓毒品，老百姓要提供證明也不鳥</span><span class="push-ipdatetime"> 05/30 02:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xuein</span><span class="f3 push-content">: 好想知道，到底是誰下令查緝改裝車，又沒有給警察一個合理</span><span class="push-ipdatetime"> 05/30 03:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xuein</span><span class="f3 push-content">: 的規範範圍內行使職權！</span><span class="push-ipdatetime"> 05/30 03:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tigertanktwo</span><span class="f3 push-content">: 油門不摧哪知道你的引擎聲，路上一堆改裝機車聲音超</span><span class="push-ipdatetime"> 05/30 04:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tigertanktwo</span><span class="f3 push-content">: 大不是假的</span><span class="push-ipdatetime"> 05/30 04:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">teddy72</span><span class="f3 push-content">: <a href="http://imgur.com/a/0w4Xh" target="_blank" rel="nofollow">http://imgur.com/a/0w4Xh</a>  為什麼前後排氣口不同?</span><span class="push-ipdatetime"> 05/30 06:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AUwalker</span><span class="f3 push-content">: 警察：你在大聲什麼啦</span><span class="push-ipdatetime"> 05/30 07:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwqwaas</span><span class="f3 push-content">: 明明自己騎走時就靠北吵，而且為什麼記者拍時有裝消音塞</span><span class="push-ipdatetime"> 05/30 07:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">qwqwaas</span><span class="f3 push-content">: 話說影片又沒拍清楚轉速表指針 你說萬轉就萬轉?</span><span class="push-ipdatetime"> 05/30 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 覺青不意外</span><span class="push-ipdatetime"> 05/30 08:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 這聲音不像萬轉啊…</span><span class="push-ipdatetime"> 05/30 08:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fuhaho</span><span class="f3 push-content">: 聽起來倒是改裝管的聲音</span><span class="push-ipdatetime"> 05/30 08:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">j7862278622</span><span class="f3 push-content">: 警察不意外 智商低</span><span class="push-ipdatetime"> 05/30 08:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onixs</span><span class="f3 push-content">: 警察的回應根本沒針對重點！！厲害！</span><span class="push-ipdatetime"> 05/30 08:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 以前有同類型事件被申訴成功以後再有相同事件 要懲處</span><span class="push-ipdatetime"> 05/30 08:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 可因為基層反彈 所以不了了之 所以才會同樣的事件明明前案</span><span class="push-ipdatetime"> 05/30 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YesHi</span><span class="f3 push-content">: 聽聲音 真的很吵.....</span><span class="push-ipdatetime"> 05/30 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 有申訴成功的案例 但還是有員警繼續開出這種會被撤銷的</span><span class="push-ipdatetime"> 05/30 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 罰單</span><span class="push-ipdatetime"> 05/30 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YesHi</span><span class="f3 push-content">: 然後 看起來 只是普通摧油門而已...</span><span class="push-ipdatetime"> 05/30 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 這方面真的很難取捨 只能靠警察判斷了</span><span class="push-ipdatetime"> 05/30 08:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LJer</span><span class="f3 push-content">: 不然要罰他們他們可能就不做了</span><span class="push-ipdatetime"> 05/30 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YesHi</span><span class="f3 push-content">: 自己騎走就很吵啊+1</span><span class="push-ipdatetime"> 05/30 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">torahiko</span><span class="f3 push-content">: 沒消音塞吵得要死還說自己沒改喔 小屁孩</span><span class="push-ipdatetime"> 05/30 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cospergod</span><span class="f3 push-content">: 改車族水準</span><span class="push-ipdatetime"> 05/30 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ali810622</span><span class="f3 push-content">: 明明就很吵……</span><span class="push-ipdatetime"> 05/30 09:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 應該8500 就斷油了</span><span class="push-ipdatetime"> 05/30 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orze04</span><span class="f3 push-content">: 垃圾</span><span class="push-ipdatetime"> 05/30 10:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctbdog</span><span class="f3 push-content">: 為了小小的罰單業績奬金就失去了人格</span><span class="push-ipdatetime"> 05/30 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jiapie</span><span class="f3 push-content">: 影片裡面有罰單內容: <a href="http://i.imgur.com/Mu3eXNl.jpg" target="_blank" rel="nofollow">http://i.imgur.com/Mu3eXNl.jpg</a></span><span class="push-ipdatetime"> 05/30 15:18
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="Mu3eXNl"><a href="//imgur.com/Mu3eXNl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Chengzer</span><span class="f3 push-content">: 很多警渣違法執勤,但都沒受到應有的處罰,好警常被拖累</span><span class="push-ipdatetime"> 05/30 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 所以監理站測的時候有拔消音器嗎?</span><span class="push-ipdatetime"> 05/30 16:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Khadgar</span><span class="f3 push-content">: 馬的那隻teddy以後驗他的車最好都是把引擎拉到壞掉...</span><span class="push-ipdatetime"> 05/30 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Khadgar</span><span class="f3 push-content">: 不過會講這麼愚蠢的話會不會是連機車都沒有的超魯阿</span><span class="push-ipdatetime"> 05/30 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">poikm302</span><span class="f3 push-content">: 所以只有驗車的時候把消音塞裝回去的對吧，以為我沒改過</span><span class="push-ipdatetime"> 05/30 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poikm302</span><span class="f3 push-content">: 車啊？</span><span class="push-ipdatetime"> 05/30 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 一萬轉，應該錄影下來然後告毀損！</span><span class="push-ipdatetime"> 05/30 16:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496067952.A.EA5.html?cacheKey=2052-2024704&offset=22089&offset-sig=8974be2fa1e4c62036c8b43b14b555c4fe4b4433" data-longpollurl="/v1/longpoll?id=27a3df85bcad628fd30529fb17448303cd723e1e" data-offset="22089"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

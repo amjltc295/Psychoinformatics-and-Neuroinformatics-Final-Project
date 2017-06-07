@@ -1,0 +1,171 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495721144.A.4A9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 有沒有文字上色的八卦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="各位晚安
+大家都知道PTT的文字可以上色
+像這樣
+個人認為這個是PTT僅次於賭盤第二好玩的東西
+有沒有文字上色的八卦?
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 有沒有文字上色的八卦">
+<meta property="og:description" content="各位晚安
+大家都知道PTT的文字可以上色
+像這樣
+個人認為這個是PTT僅次於賭盤第二好玩的東西
+有沒有文字上色的八卦?
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495721144.A.4A9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495721144.A.4A9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">mazz (現世失敗者   梅茲)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有沒有文字上色的八卦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 22:05:40 2017</span></div>
+
+<span class="f2">※ 八卦板務請到 GossipPicket 檢舉板詢問</span>
+<span class="f2">※ a.張貼問卦請注意，充實文章內容、</span><span class="f3 hl">是否有專板</span><span class="f2">，</span><span class="f5 hl">本板並非萬能問板</span><span class="f2">。</span>
+<span class="f2">※ b.一天只能張貼 &#34;</span><span class="f2 hl">兩則</span><span class="f1">&#34; 問卦，</span><span class="f6 hl">自刪及被刪也算兩篇之內</span><span class="f2">，</span>
+<span class="f2">※   超貼者將被水桶，請注意!</span>
+<span class="f2">※ c.</span><span class="f3 b4 hl">本看板嚴格禁止政治問卦</span><span class="f2">，</span><span class="f6 b1 hl">發文問卦前請先仔細閱讀相關板規</span><span class="f2">。</span>
+<span class="f2">※ d.</span><span class="f3 b1 hl">一行文</span><span class="f2">、</span><span class="b1 hl">未滿20字視同鬧板</span><span class="f1">，請注意！</span>
+<span class="f2">※ (↑看完提醒請刪除ctrl + y)</span>
+
+各位晚安
+
+大家都知道PTT的文字可以上色
+
+<span class="f3 b5 hl">像這樣</span>
+
+個人認為這個是PTT僅次於賭盤<span class="f6 hl">第二好玩</span>的東西
+
+有沒有文字上色的<span class="f3 hl">八</span><span class="f3 hl">卦</span>?
+
+
+這一行字字很多，而<span class="f4">且</span>會一直閃爍，就是要<span class="f4">讓</span>你看得很煩躁啦哈哈
+
+以下開放點顏色
+
+--
+大象和駱駝在吵架
+大象:<span class="f3 hl">我不想和奶子長在背上的人說話!
+</span>駱駝:<span class="f2 hl">我也不爽看到老二長在臉上的人!
+</span>一條蛇爬過，聽到他們的對話就開始笑
+大象和駱駝異口同聲地說:
+ <span class="f1 hl">閉嘴!你這臉長在老二上的怪咖!</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.227.53.20
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495721144.A.4A9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495721144.A.4A9.html</a>
+</span><span class="f1 hl">→ </span><span class="f3 hl">seth5421</span><span class="f3">: </span><span class="f3 b3 hl">我要五樓ㄋㄟㄋㄟ的顏色</span>                                05/25 22:06
+<span class="f1 hl">→ </span><span class="f3 hl">james732</span><span class="f3">: 我要五樓被</span><span class="f6 hl">肛</span><span class="f3">的顏射                                   </span> 05/25 22:06
+<span class="hl">推 </span><span class="f3 hl">johnwu</span><span class="f3">: </span><span class="f2 b4">五樓內褲的顏色</span>                                          05/25 22:06
+怎麼都是五樓
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siuosiuo</span><span class="f3 push-content">: 要怎麼上色？</span><span class="push-ipdatetime"> 05/25 22:06
+</span></div>Ctrl+c 產生*[m
+在中間輸入顏色碼，像這樣 *[1;33m
+後面的字就會有顏色  像*[1;33m黃色 就會變成<span class="f3 hl">黃色</span>
+<span class="f2">※ 編輯: mazz (61.227.53.20), 05/25/2017 22:09:09
+</span><span class="hl">推 </span><span class="f3 hl">chadmu</span><span class="f3">: </span><span class="f2 b2 hl">我要香草的顏色</span>                                          05/25 22:07
+<span class="hl">推 </span><span class="f3 hl">rchih</span><span class="f3">: 我要五樓</span><span class="f5 hl">肥宅</span><span class="f3">奶的顏色                                    </span> 05/25 22:07
+紫色奶頭
+<span class="hl">推 </span><span class="f3 hl">nicky1245</span><span class="f3">: </span><span class="f1 b7 hl">我</span><span class="f2 b7 hl">要</span><span class="f3 b7 hl">七</span><span class="f4 b7 hl">彩</span><span class="f5 b7 hl">的</span><span class="f6 b7 hl">顏</span><span class="f0 b7 hl">色</span>                                       05/25 22:08
+<span class="f1 hl">噓 </span><span class="f3 hl">momoispig</span><span class="f3">: </span><span class="b6 hl">我</span><span class="f5 b6 hl">要</span><span class="f4 b6 hl">彩</span><span class="f3 b6 hl">虹</span><span class="f2 b6 hl">ㄉ</span><span class="f1 b6 hl">顏</span><span class="f4 b6 hl">色</span>                                       05/25 22:08
+<span class="hl">推 </span><span class="f3 hl">YuiiAnitima</span><span class="f3">: </span><span class="f4 hl">G</span><span class="f1 hl">o</span><span class="f3 hl">o</span><span class="f4 hl">g</span><span class="f2 hl">l</span><span class="f1 hl">e </span><span class="f4 b7 hl">facebook</span> <span class="f0 b7">You</span><span class="b1">Tube</span> <span class="f6 hl">twitter </span><span class="b5 hl">ebay</span>               05/25 22:09
+<span class="f2">※ 編輯: mazz (61.227.53.20), 05/25/2017 22:15:51
+</span><span class="hl">推 </span><span class="f3 hl">choco7</span><span class="f3">: 我要</span><span class="f2 hl">一</span><span class="f2 hl">字</span><span class="f2 hl">四</span><span class="f2 hl">色</span>                                            05/25 22:11
+一個字最多兩個顏色R
+<span class="f1 hl">→ </span><span class="f3 hl">fuhu66</span><span class="f3">: 請幫我的 </span><span class="f4 hl">G</span><span class="f1 hl">o</span><span class="f3 hl">o</span><span class="f4 hl">g</span><span class="f2 hl">l</span><span class="f1 hl">e</span>                                         05/25 22:12
+<span class="hl">推 </span><span class="f3 hl">gs951117</span><span class="f3">: 我要</span><span class="f0">正妹女朋友</span><span class="f3">的顏色                                 </span> 05/25 22:12
+               <span class="f3"> ↗請開燈 </span>
+<span class="f2">※ 編輯: mazz (61.227.53.20), 05/25/2017 22:18:31
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">js52666</span><span class="f3 push-content">: Test版有教</span><span class="push-ipdatetime"> 05/25 22:17
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495721144.A.4A9.html?cacheKey=2052-1458448&offset=3213&offset-sig=edd1e310ee04f86e472101c144ea89412ab40abb" data-longpollurl="/v1/longpoll?id=bcfdbb87d0ed36f66644c3436b1fa1e6b969e55f" data-offset="3213"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

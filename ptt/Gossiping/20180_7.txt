@@ -1,0 +1,219 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495031594.A.415.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 數學不好的鄉民當初怎麼考好數乙的 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="小弟真的對數學有很大的障礙
+以前做過性向測驗 我在圖形這方面是完完全全的智障
+函數 三角 直線與圓 平面向量 空間向量 空間中的平面與直線 圓錐曲線 都是我的障礙
+大概就排組機率統計還可以看吧(可是也很垃圾)
+這些我有障礙的章節8成數乙都不考了
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 數學不好的鄉民當初怎麼考好數乙的">
+<meta property="og:description" content="小弟真的對數學有很大的障礙
+以前做過性向測驗 我在圖形這方面是完完全全的智障
+函數 三角 直線與圓 平面向量 空間向量 空間中的平面與直線 圓錐曲線 都是我的障礙
+大概就排組機率統計還可以看吧(可是也很垃圾)
+這些我有障礙的章節8成數乙都不考了
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495031594.A.415.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495031594.A.415.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">jasonkao08 (果皇賽高)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 數學不好的鄉民當初怎麼考好數乙的</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 22:33:11 2017</span></div>
+小弟真的對數學有很大的障礙
+以前做過性向測驗 我在圖形這方面是完完全全的智障
+
+函數 三角 直線與圓 平面向量 空間向量 空間中的平面與直線 圓錐曲線 都是我的障礙
+
+大概就排組機率統計還可以看吧(可是也很垃圾)
+
+這些我有障礙的章節8成數乙都不考了
+但是有考的函數範圍我還是一知半解
+數學好的人很難理解我的障礙
+假設問一個可能真的不難的題目
+那個被我問的人可能就一臉OS：
+這題不就是這樣嗎= =?
+可是聽他講解之後我還是不懂
+
+有數學不好但是指考最後衝到頂標以上的鄉民
+能跟我分享當初準備指考的時候怎麼準備數學的嗎？
+
+
+--
+知道我是誰嗎？神樹峰學園綿木蜜雪兒，知道吧，我就是蜜蜜！想當年我手拿著防災頭巾
+，
+<a href="http://i.imgur.com/ESZ7xuZ.jpg" target="_blank" rel="nofollow">http://i.imgur.com/ESZ7xuZ.jpg</a>
+<div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="ESZ7xuZ"><a href="//imgur.com/ESZ7xuZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.247.109.241</span>
+<span class="f2">※ 文章網址: </span><a href="https://www.ptt.cc/bbs/Gossiping/M.1495031594.A.415.html" target="_blank" rel="nofollow"><span class="f2">https://www.ptt.cc/bbs/Gossiping/M.1495031594.A.415.html</span></a>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 隨便考都90</span><span class="push-ipdatetime">05/17 22:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 準備數甲數乙就會100惹</span><span class="push-ipdatetime">05/17 22:34
+</span></div>我是那種遇到考難的那年就會特別爛爛到最底的那種 EX:98數乙
+<span class="f2">※ 編輯: jasonkao08 (27.247.109.241), 05/17/2017 22:34:53</span>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa23512b</span><span class="f3 push-content">: 這裡數乙都100</span><span class="push-ipdatetime">05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">scoutking85</span><span class="f3 push-content">: 我數學超爛,當年數乙40,給你參考</span><span class="push-ipdatetime">05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rex1009</span><span class="f3 push-content">: 數乙要準備喔</span><span class="push-ipdatetime">05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 死背阿 數乙根本簡單到爆</span><span class="push-ipdatetime">05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Diaw01</span><span class="f3 push-content">: 我數學超爛 為了逃避數乙 我就考數甲了 給你參考</span><span class="push-ipdatetime">05/17 22:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wegoWU</span><span class="f3 push-content">: 線性規劃??  出題率很高</span><span class="push-ipdatetime">05/17 22:35
+</span></div>這個是我唯一能把握的哈哈
+<span class="f2">※ 編輯: jasonkao08 (27.247.109.241), 05/17/2017 22:36:14</span>
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">klarc</span><span class="f3 push-content">: 我拚死拚活地學 數乙差0.4分達到高標</span><span class="push-ipdatetime">05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wegoWU</span><span class="f3 push-content">: 我在學校都考1.20分的  指考考50幾</span><span class="push-ipdatetime">05/17 22:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wegoWU</span><span class="f3 push-content">: 進考場突然靈光一閃  原本不熟的矩陣題被我解出來</span><span class="push-ipdatetime"> 05/17 22:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wegoWU</span><span class="f3 push-content">: 現在重看那一題  根本完全不會</span><span class="push-ipdatetime">05/17 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joe19941004</span><span class="f3 push-content">: 排列組合念好啊，就窮舉法而已</span><span class="push-ipdatetime">05/17 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">geniushowie</span><span class="f3 push-content">: 等明年學測吧</span><span class="push-ipdatetime">05/17 22:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a94037501</span><span class="f3 push-content">: 數乙比學測簡單</span><span class="push-ipdatetime">05/17 22:38
+</span></div>我今年學測剛好均標
+<span class="f2">※ 編輯: jasonkao08 (27.247.109.241), 05/17/2017 22:39:35</span>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sookie</span><span class="f3 push-content">: 高中數學沒什麼要處理圖形的吧？國中比較多</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wegoWU</span><span class="f3 push-content">: 排列組合可以用爆破法</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">deep77092</span><span class="f3 push-content">: 考完充滿信心</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gustavvv</span><span class="f3 push-content">: 我都改念文組 選我正解</span><span class="push-ipdatetime">05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aluman</span><span class="f3 push-content">: 就照公式算啊 說明書都給你了</span><span class="push-ipdatetime">05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">apple790815</span><span class="f3 push-content">: 誰跟你考數乙，學測就上了Y</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SEEDA</span><span class="f3 push-content">: 我數甲比數乙高耶  是不是太大意惹</span><span class="push-ipdatetime"> 05/17 22:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm023347599</span><span class="f3 push-content">: 數乙頂標都80幾 有什麼難的</span><span class="push-ipdatetime"> 05/17 22:40
+</span></div>目標94up
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LeoYuri</span><span class="f3 push-content">: 數學是數甲不好，數乙之前超簡單的。。。</span><span class="push-ipdatetime"> 05/17 22:41
+</span></div><span class="f2">※ 編輯: jasonkao08 (27.247.109.241), 05/17/2017 22:41:47</span>
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyodiy</span><span class="f3 push-content">: 我數乙考68分就超高標了   高標才50而已</span><span class="push-ipdatetime">05/17 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ssum3</span><span class="f3 push-content">: 數乙超廢</span><span class="push-ipdatetime">05/17 22:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">metero0000</span><span class="f3 push-content">: 數甲99數乙100給你參考</span><span class="push-ipdatetime"> 05/17 22:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 不知道，反正我92(在校平均60)</span><span class="push-ipdatetime"> 05/17 22:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JugarXE</span><span class="f3 push-content">: 把統計名詞看一看，數乙就有基本分了</span><span class="push-ipdatetime"> 05/17 22:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robin90295</span><span class="f3 push-content">: 數乙題型背一下</span><span class="push-ipdatetime"> 05/17 22:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anper</span><span class="f3 push-content">: 我95年 數乙89   頂標92 幹</span><span class="push-ipdatetime"> 05/17 22:48
+</span></div>那年頂標88吧
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaywen</span><span class="f3 push-content">: 數乙32分 報到</span><span class="push-ipdatetime">05/17 22:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zence</span><span class="f3 push-content">: 數乙超爛報到</span><span class="push-ipdatetime">05/17 22:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arthur0919</span><span class="f3 push-content">: 我是考數甲的 不過做數學就是先把題目分類 是哪個單</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arthur0919</span><span class="f3 push-content">: 元的哪個觀念 然後解法有1 2 3 通常1是速解 2是慢一點</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arthur0919</span><span class="f3 push-content">: 點可以當驗算 三就是爆破 大概想個兩到三遍想不出來就</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">arthur0919</span><span class="f3 push-content">: 可以考慮爆破了（當然是全部寫完再來算）</span><span class="push-ipdatetime"> 05/17 22:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aaaa714714</span><span class="f3 push-content">: 課本算過一遍就85了</span><span class="push-ipdatetime"> 05/17 22:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yulo</span><span class="f3 push-content">: 數乙念數甲就好了啊</span><span class="push-ipdatetime"> 05/17 23:00
+</span></div>數甲天書我看不懂
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starry505</span><span class="f3 push-content">: 數乙手寫0分啦</span><span class="push-ipdatetime"> 05/17 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wasitora</span><span class="f3 push-content">: 學測3級分  指考有到前標  只寫會的七題左右 其他留白</span><span class="push-ipdatetime"> 05/17 23:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wasitora</span><span class="f3 push-content">: 避免不確定的題目被倒扣應該是訣竅</span><span class="push-ipdatetime">05/17 23:09
+</span></div>100年開始單選取消倒扣
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mattiswe098</span><span class="f3 push-content">: 個人認為數乙沒有80的都要去測智商</span><span class="push-ipdatetime"> 05/17 23:10
+</span></div>啊不就還好我目前寫98 99年歷屆都有80以上
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Akris1113</span><span class="f3 push-content">: 數乙真的比學測簡單</span><span class="push-ipdatetime">05/17 23:11
+</span></div>今年學測難爆了 不過應該是我比較廢
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arthur0919</span><span class="f3 push-content">: 數甲89的心得XD</span><span class="push-ipdatetime">05/17 23:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king181239</span><span class="f3 push-content">: 沒考的報到</span><span class="push-ipdatetime">05/17 23:16
+</span></div><span class="f2">※ 編輯: jasonkao08 (27.247.109.241), 05/17/2017 23:18:55
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DeclicayPOOH</span><span class="f3 push-content">: 我同學105學測5級,指考數乙92</span><span class="push-ipdatetime"> 05/17 23:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fracs</span><span class="f3 push-content">: 高中性向測驗其他都很正常甚至較高 空間被叫去複測</span><span class="push-ipdatetime"> 05/17 23:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fracs</span><span class="f3 push-content">: 測完之後輔導老師確定我沒看錯題目 就siu乳地說沒事了</span><span class="push-ipdatetime"> 05/17 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">orzorza3r</span><span class="f3 push-content">: 好好準備數甲 數乙就輕鬆滿分囉</span><span class="push-ipdatetime"> 05/17 23:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fracs</span><span class="f3 push-content">: 回去上課吧 我記得空間圖形我拿了十幾二十分可以判定障礙</span><span class="push-ipdatetime"> 05/17 23:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smhead</span><span class="f3 push-content">: 數乙是文組在準備的吧?</span><span class="push-ipdatetime"> 05/17 23:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smhead</span><span class="f3 push-content">: 你提的那些我感覺都滿基本的，建議還是看懂它吧</span><span class="push-ipdatetime"> 05/17 23:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Julinka</span><span class="f3 push-content">: 我數乙個位數 給你參考哦</span><span class="push-ipdatetime"> 05/17 23:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OdaTakeda</span><span class="f3 push-content">: 我那年有倒扣 還有1600多人數乙100分</span><span class="push-ipdatetime"> 05/17 23:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">OdaTakeda</span><span class="f3 push-content">: 我就是95年的XD 錯一個選項只剩96分</span><span class="push-ipdatetime"> 05/17 23:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DankeTe</span><span class="f3 push-content">: 準備數甲就好 數乙根本甭準備就很高分</span><span class="push-ipdatetime"> 05/17 23:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miohee</span><span class="f3 push-content">: 矩陣</span><span class="push-ipdatetime"> 05/18 00:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chni</span><span class="f3 push-content">: 只考過學測</span><span class="push-ipdatetime"> 05/18 04:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ahemaha</span><span class="f3 push-content">: 我考28分 給你參考</span><span class="push-ipdatetime"> 05/18 09:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wittyjin</span><span class="f3 push-content">: 換人問或換自己的思考方法，總之有問題一定要弄懂</span><span class="push-ipdatetime"> 05/18 13:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dante45678</span><span class="f3 push-content">: 猜C，不會的寫1</span><span class="push-ipdatetime"> 05/18 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiauji</span><span class="f3 push-content">: 數乙簡單到提早交卷會比較高分</span><span class="push-ipdatetime"> 05/18 14:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiho5678</span><span class="f3 push-content">: 100年文組60分 總分48X多 給你參考</span><span class="push-ipdatetime"> 05/18 15:04
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495031594.A.415.html?cacheKey=2052-48218677&offset=9007&offset-sig=1398d3973c1ed1ea191195bc642b84759620d4d0" data-longpollurl="/v1/longpoll?id=dc47c189a3e35264618039d6cc0c8e43ad280553" data-offset="9007"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

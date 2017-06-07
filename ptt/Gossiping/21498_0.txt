@@ -1,0 +1,212 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495939633.A.06B.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 自強號的CP 值是不是超低？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="拿客運嘴自強我真的是森77
+我大學都搭國光桃園高雄
+每逢連假必塞，最高塞過八小時半。
+他媽的真的要死了
+而且客運廁所那麼小間又會震==
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 自強號的CP 值是不是超低？">
+<meta property="og:description" content="拿客運嘴自強我真的是森77
+我大學都搭國光桃園高雄
+每逢連假必塞，最高塞過八小時半。
+他媽的真的要死了
+而且客運廁所那麼小間又會震==
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495939633.A.06B.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495939633.A.06B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">wuyiulin (龍破壞劍士-巴斯達布雷達)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 自強號的CP 值是不是超低？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sun May 28 10:47:10 2017</span></div>
+<span class="f2">※ 引述《goipait (GoGo)》之銘言：
+</span><span class="f6">: 搭自強號 CP 值真的超低
+</span><span class="f6">: 不管長短程都特別慢，
+</span><span class="f6">: 有時候甚至跟莒光號沒兩樣
+</span><span class="f6">: 甚至更慢的都有，
+</span><span class="f6">: 去鐵路局網站查時刻表，台北到屏東隨便都要五個小時以上，
+</span><span class="f6">: 連搭客運都沒這麼久。
+</span><span class="f6">: 車廂其實也沒比較好，
+</span><span class="f6">: 有些老舊的自強號還是持續服役中
+</span><span class="f6">: 現在很多客運都強調有免費 wifi 可以使用，
+</span><span class="f6">: 液晶電視可以看電影啥，
+</span><span class="f6">: 就算是和欣等比較高級的客運也沒有自強號這麼貴
+</span><span class="f6">: (台北到高雄單程全票要843元)
+</span><span class="f6">: 而且又常常誤點，自強號誤點率最高
+</span><span class="f6">: 不如把自強號當做比較貴的區間車，
+</span><span class="f6">: 讚
+</span><span class="f6">: ※ 引述《JPChinbotsu (滯台支那人/皇民終結者)》之銘言：
+</span><span class="f6">: : 如題
+</span><span class="f6">: : 而且台鐵又要漲價
+</span><span class="f6">: : 台鐵除了普悠瑪有能力跟高鐵一拼之外
+</span><span class="f6">: : 其他車種定位很不明，
+</span><span class="f6">: : 自強號停靠站超級多
+</span><span class="f6">: : 除了車廂舒適度
+</span><span class="f6">: : 根本跟莒光號差不了多少
+</span><span class="f6">: : 是因為台鐵列車太少
+</span><span class="f6">: : 無法設定更多車種嗎？
+</span><span class="f6">: : 例如普悠瑪班次加班
+</span><span class="f6">: : 不夠車子由自強接取任務
+</span><span class="f6">: : 這次返鄉
+</span><span class="f6">: : 如果要省錢還不如坐客運
+</span><span class="f6">: : 省更多，時間跟台鐵卻差不了多少
+</span><span class="f6">: : 有掛嗎
+</span><span class="f6">: : -----
+</span><span class="f6">: : Sent from JPTT on my HTC_M8x.
+</span>
+
+拿客運嘴自強我真的是森77
+
+我大學都搭國光桃園高雄
+每逢連假必塞，最高塞過八小時半。
+他媽的真的要死了
+
+而且客運廁所那麼小間又會震==
+車上還沒賣吃的
+不能看小說又容易暈車
+
+我覺得客運只能平日搭
+假日遇到塞車你真的會怪你媽
+為什麼同學都可以搭高鐵、自強？
+我們家比較窮還是我不是妳生的？
+
+所以後來我都自己騎機車，大概六小時半還可以吹風。
+油錢大概250左右，給你參考。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.47.161.247
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495939633.A.06B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495939633.A.06B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Costco5566</span><span class="f3 push-content">: 250不含折舊好便宜</span><span class="push-ipdatetime">05/28 10:48
+</span></div>我機車都沒在賣的，沒有折舊問題喇 爽
+<span class="f2">※ 編輯: wuyiulin (114.47.161.247), 05/28/2017 10:49:20
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kahn298</span><span class="f3 push-content">: 客運車上那狗幹味道真的沒暈車也想吐 有專業人士知道那</span><span class="push-ipdatetime">05/28 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kahn298</span><span class="f3 push-content">: 到底三小味道嗎</span><span class="push-ipdatetime">05/28 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hardware</span><span class="f3 push-content">: 騎車六小時不可能</span><span class="push-ipdatetime">05/28 10:49
+</span></div>我昨天一點出發 九點半到家
+雙載 還休息一個半小時
+我自己騎還會快一點
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YishengSu</span><span class="f3 push-content">: 回家感覺很快 所以我選客運 出門壓力大選高鐵</span><span class="push-ipdatetime">05/28 10:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PttXiangMing</span><span class="f3 push-content">: 統聯那味道真的受不了</span><span class="push-ipdatetime">05/28 10:50
+</span></div><span class="f2">※ 編輯: wuyiulin (114.47.161.247), 05/28/2017 10:50:58
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kahn298</span><span class="f3 push-content">: 不只統聯阿 計程車上面也是那味道 到底是什麼東西會散發</span><span class="push-ipdatetime">05/28 10:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kahn298</span><span class="f3 push-content">: 那味道啊</span><span class="push-ipdatetime">05/28 10:51
+</span></div>啊災 還好我狗幹自帶鼻塞技能
+<span class="f2">※ 編輯: wuyiulin (114.47.161.247), 05/28/2017 10:51:42
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RealGeforce</span><span class="f3 push-content">: 台鐵車站值班範例：<a href="http://i.imgur.com/ZpQmGWp.jpg" target="_blank" rel="nofollow">http://i.imgur.com/ZpQmGWp.jpg</a></span><span class="push-ipdatetime">05/28 10:53
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="ZpQmGWp"><a href="//imgur.com/ZpQmGWp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 騎車累很多 回到家就躺平了</span><span class="push-ipdatetime">05/28 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">raku</span><span class="f3 push-content">: 不賣還是折舊阿 除非你的車都不會壞</span><span class="push-ipdatetime">05/28 10:58
+</span></div>好啦 很難算OAO
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">g581637</span><span class="f3 push-content">: 騎61?</span><span class="push-ipdatetime">05/28 11:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g581637</span><span class="f3 push-content">: 我機車走平面到台中-高雄 3.5hr</span><span class="push-ipdatetime">05/28 11:02
+</span></div>我是走66跟61沒錯
+不過台南高雄沒快速可以走
+比較慢
+<span class="f2">※ 編輯: wuyiulin (114.47.161.247), 05/28/2017 11:04:21
+</span><span class="f2">※ 編輯: wuyiulin (114.47.161.247), 05/28/2017 11:06:03
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">johnny</span><span class="f3 push-content">: 不會坐高鐵ㄇ</span><span class="push-ipdatetime"> 05/28 11:13
+</span></div>你大學回家都自己花錢再來嘴
+謝謝指教
+<span class="f2">※ 編輯: wuyiulin (114.47.161.247), 05/28/2017 11:25:24
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">u155247</span><span class="f3 push-content">: 那個味道我猜是，封閉空間內黴菌滋生+人體皮膚碎屑+毛髮</span><span class="push-ipdatetime"> 05/28 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">u155247</span><span class="f3 push-content">: 與汗水油脂+食物殘渣+座椅絨布上的塵蟎與微生物+劣質香水</span><span class="push-ipdatetime"> 05/28 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">u155247</span><span class="f3 push-content">: 與化學清潔劑，大Guy 4這樣，基本上對人體無害</span><span class="push-ipdatetime"> 05/28 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maniaque</span><span class="f3 push-content">: 北高抓 360KM , 60KM/HR ,偶爾超速一下,6小時不難吧...</span><span class="push-ipdatetime"> 05/28 11:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maniaque</span><span class="f3 push-content">: 只是,騎這麼快又那麼久,一個精神不濟,可能就是七天後了</span><span class="push-ipdatetime"> 05/28 11:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">derekgao</span><span class="f3 push-content">: 一台老豪邁騎20年以上沒問題，算折舊是算什麼意思的？</span><span class="push-ipdatetime"> 05/28 11:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tikitaka</span><span class="f3 push-content">: 阿就會計沒學好在裝懂 呵呵</span><span class="push-ipdatetime"> 05/28 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james2266</span><span class="f3 push-content">: 長途騎機車不會划算，表面上只看到油錢，折舊保養都沒</span><span class="push-ipdatetime"> 05/28 16:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james2266</span><span class="f3 push-content">: 看到，安全考量更沒想到</span><span class="push-ipdatetime"> 05/28 16:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">james2266</span><span class="f3 push-content">: 說客運優於自強的也是，輸適度安全都沒考量到，火車遇</span><span class="push-ipdatetime"> 05/28 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">james2266</span><span class="f3 push-content">: 到事故，好幾年才聽到一個掛掉</span><span class="push-ipdatetime"> 05/28 16:03
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495939633.A.06B.html?cacheKey=2052-456843&offset=4685&offset-sig=cc4364959ea30e256e8d3c265f286dcca9f2682d" data-longpollurl="/v1/longpoll?id=886107096596e35993240949b393a85ee772f11e" data-offset="4685"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

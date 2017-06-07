@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496472665.A.CA9.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 遊戲王三張神之卡強弱排名 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="雖然這問題常被問過很多次，但好像沒有標準答案。
+歐貝利斯克的巨神兵
+攻防固定4000，
+特殊能力-將我方兩隻怪獸作為祭品，可破壞對方場上所有怪獸
+歐西里斯的天空龍
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 遊戲王三張神之卡強弱排名">
+<meta property="og:description" content="雖然這問題常被問過很多次，但好像沒有標準答案。
+歐貝利斯克的巨神兵
+攻防固定4000，
+特殊能力-將我方兩隻怪獸作為祭品，可破壞對方場上所有怪獸
+歐西里斯的天空龍
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496472665.A.CA9.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496472665.A.CA9.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">osakakobe (菜菜子)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 遊戲王三張神之卡強弱排名</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 14:51:01 2017</span></div>
+雖然這問題常被問過很多次，但好像沒有標準答案。
+
+歐貝利斯克的巨神兵
+攻防固定4000，
+特殊能力-將我方兩隻怪獸作為祭品，可破壞對方場上所有怪獸
+
+歐西里斯的天空龍
+攻擊防禦＝手牌數x1000，
+特殊能力-召雷彈:對方怪獸召喚時攻擊或防禦減2000，低於2000時，對方怪獸直接被破壞
+
+太陽神的翼神龍，動畫中地位高於上述兩張神之卡
+攻擊防禦＝3隻祭品怪獸能力加總
+特殊能力
+1、犧牲我方怪獸和生命值 使生命值剩1點，犧牲值可轉換為攻擊力
+2、犧牲生命值1000點，破壞對方1隻怪獸
+
+三幻神誰最強誰最弱?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.240.89.36
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496472665.A.CA9.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496472665.A.CA9.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 都廢物 有種跟我扣血流牌組打</span><span class="push-ipdatetime"> 06/03 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gint5566</span><span class="f3 push-content">: 過氣遊戲</span><span class="push-ipdatetime"> 06/03 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cul287</span><span class="f3 push-content">: 5張統狗 直接判敗</span><span class="push-ipdatetime"> 06/03 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gannimade</span><span class="f3 push-content">: 拉的翼神龍</span><span class="push-ipdatetime"> 06/03 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ipadmini6</span><span class="f3 push-content">: 不可質疑歐西里斯的自婊龍</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a222317168</span><span class="f3 push-content">: 實體卡巨神兵最弱</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkkk666</span><span class="f3 push-content">: 巨神兵穩穩打</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 最汎用的是天空龍</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wl01459388</span><span class="f3 push-content">: 其實巨神兵是根柱子</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilove1530</span><span class="f3 push-content">: 漫畫的巨神兵有個最上級能力，精神能力max ATK無限大</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div>動畫也有 攻擊力無限大太犯規了
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aceapple</span><span class="f3 push-content">: 巨神兵</span><span class="push-ipdatetime"> 06/03 14:53
+</span></div><span class="f2">※ 編輯: osakakobe (111.240.89.36), 06/03/2017 14:54:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 因為太汎用 出來不是被打臉就是當戰犯</span><span class="push-ipdatetime"> 06/03 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaym19</span><span class="f3 push-content">: 巨神兵暴力硬碾</span><span class="push-ipdatetime"> 06/03 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WhiteMage</span><span class="f3 push-content">: 黑暗大法師</span><span class="push-ipdatetime"> 06/03 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vector</span><span class="f3 push-content">: 遇到武藤遊戲都是廢物卡</span><span class="push-ipdatetime"> 06/03 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s1612316</span><span class="f3 push-content">: 規則好多 我直接抄傢伙尻歪對方比較快</span><span class="push-ipdatetime"> 06/03 14:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TheRock5566</span><span class="f3 push-content">:    天空龍 &gt; 翼神龍 &gt; 巨神兵</span><span class="push-ipdatetime"> 06/03 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">swbthj</span><span class="f3 push-content">: 漫畫是翼神龍最強 天空龍最爛</span><span class="push-ipdatetime"> 06/03 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 覺得天空龍最屌 巨神兵是廢物 翼神龍還可以</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bee0316</span><span class="f3 push-content">: 死翼</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsx1678904</span><span class="f3 push-content">: 太陽神後來有強化耶 變蠻強的 但是效果條件算難</span><span class="push-ipdatetime"> 06/03 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsx1678904</span><span class="f3 push-content">: 歐西里斯召雷彈太狗了</span><span class="push-ipdatetime"> 06/03 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">haozaira</span><span class="f3 push-content">: 我覺得遠古巨龍很猛</span><span class="push-ipdatetime"> 06/03 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivan1408</span><span class="f3 push-content">: 天空龍吧基本上2000以下全部都廢卡了</span><span class="push-ipdatetime"> 06/03 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MUSTANG33</span><span class="f3 push-content">: 太陽神單卡最廢 後來才出蛋蛋跟不死鳥型態</span><span class="push-ipdatetime"> 06/03 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 你又不會唸古埃及文，召喚不出太陽神啊</span><span class="push-ipdatetime"> 06/03 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RINPE</span><span class="f3 push-content">: 有google 怕什麼古埃及文</span><span class="push-ipdatetime"> 06/03 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freezeshot</span><span class="f3 push-content">: 邪神-恐懼根源</span><span class="push-ipdatetime"> 06/03 15:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppo7741</span><span class="f3 push-content">: 召喚不出來都沒有我用個儀式怪獸或守墓牌組就屌打</span><span class="push-ipdatetime"> 06/03 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hayate232</span><span class="f3 push-content">: 天空龍就好像是你打爐石丟了死翼被便羊一樣的風險</span><span class="push-ipdatetime"> 06/03 16:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chang7741</span><span class="f3 push-content">: 法老王：沒用，規則我說了算</span><span class="push-ipdatetime"> 06/03 16:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">slc172</span><span class="f3 push-content">: 拔插頭無敵</span><span class="push-ipdatetime"> 06/03 16:42
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496472665.A.CA9.html?cacheKey=2052-2025254&offset=4050&offset-sig=048161c54e6e1ea04e79b345f97afa359db205ef" data-longpollurl="/v1/longpoll?id=7fd700ee721310f9aaa7c4cdfa2d9e16255f8057" data-offset="4050"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

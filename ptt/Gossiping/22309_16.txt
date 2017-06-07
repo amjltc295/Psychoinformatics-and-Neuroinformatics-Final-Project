@@ -1,0 +1,156 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496472881.A.D0D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] Android 之父正式發表新手機 Essential - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="這還是一隻android手機 essential在兩個月前的名字叫做
+Andy Rubin&#39;s stealth start up(Andy Rubin的蜜蜜新創)
+還有另一間叫做stealth X 好像在做穿戴式裝置
+是在palo alto Fry&#39;s的舊址倉庫改造而成的辦公空間
+這家公司的後盾有軟銀+鴻海 來頭不小
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] Android 之父正式發表新手機 Essential">
+<meta property="og:description" content="這還是一隻android手機 essential在兩個月前的名字叫做
+Andy Rubin&#39;s stealth start up(Andy Rubin的蜜蜜新創)
+還有另一間叫做stealth X 好像在做穿戴式裝置
+是在palo alto Fry&#39;s的舊址倉庫改造而成的辦公空間
+這家公司的後盾有軟銀+鴻海 來頭不小
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496472881.A.D0D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496472881.A.D0D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">bluebluelan (積陰德積積陰陰德)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] Android 之父正式發表新手機 Essential</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 14:54:38 2017</span></div>
+<span class="f6">: 殼不怕摔。
+</span><span class="f6">: 硬體上，Essential 也採用相當高規格的配件，包含高通 835 處理器、4G 記憶體、
+</span><span class="f6">:  128GB 儲存空間等，前置相機達 800 萬畫素、能錄製 4K 影片，後製相機則有 1300 萬
+</span><span class="f6">: 畫素，並有感光鏡頭幫助低光源環境拍攝。
+</span><span class="f6">: 此產品定價 699 美元，雖然尚未透露上市時間，但確定會先從美國作為第一銷售市場。
+</span><span class="f6">: 4.新聞連結：
+</span><span class="f6">: <a href="http://www.techbang.com/posts/51577" target="_blank" rel="nofollow">http://www.techbang.com/posts/51577</a>
+</span><span class="f6">: 5.備註:
+</span><span class="f6">: A.上一個模組化手機的是 2013 年的 Phonebloks 概念：
+</span><span class="f6">: <a href="http://technews.tw/2017/04/17/the-world-just-isnt-ready-for-modular-phones/" target="_blank" rel="nofollow">http://technews.tw/2017/04/17/the-world-just-isnt-ready-for-modular-phones/</a>
+</span><span class="f6">: B.概念很好，但光是各家廠商之間的協定，到底能否做得出來，又是另外一條漫長的路
+</span><span class="f6">: C.如果真的普及，那以後工具人可以多開啟一條手機組裝技能樹 XD
+</span>
+這還是一隻android手機 essential在兩個月前的名字叫做
+
+Andy Rubin&#39;s stealth start up(Andy Rubin的蜜蜜新創)
+
+還有另一間叫做stealth X 好像在做穿戴式裝置
+
+是在palo alto Fry&#39;s的舊址倉庫改造而成的辦公空間
+
+這家公司的後盾有軟銀+鴻海 來頭不小
+
+裡頭的成員幾乎是全明星隊 google glass的produce manager  google l7工程師
+
+intel verteran 還有幾個台灣人資歷也是很驚人
+
+然而同樣在這個倉庫的還有很多硬體新創公司 有興趣可以關注playground
+
+<a href="https://www.essential.com/" target="_blank" rel="nofollow">https://www.essential.com/</a> 這支手機能模組化 他們機構一定超級強XDD
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 24.5.244.173
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496472881.A.D0D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496472881.A.D0D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 又重回組裝之路啦！哈哈哈</span><span class="push-ipdatetime"> 06/03 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tf010714</span><span class="f3 push-content">: 蜜蜜新創 姆咪</span><span class="push-ipdatetime"> 06/03 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonder007</span><span class="f3 push-content">: 沒錯一定是超爆幹強的模組機 不是只有配件能模組化而已</span><span class="push-ipdatetime"> 06/03 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wonder007</span><span class="f3 push-content">: 市面上那些外接360鏡頭、充電deck 都該被這隻淘汰惹</span><span class="push-ipdatetime"> 06/03 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">agong</span><span class="f3 push-content">: 電競廠商不是也要加入</span><span class="push-ipdatetime"> 06/03 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 一般人對於這些市場的接受度還是少啊</span><span class="push-ipdatetime"> 06/03 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LIONDODO</span><span class="f3 push-content">: 這種的模組化接受程度可以啦，就是外接配件</span><span class="push-ipdatetime"> 06/03 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LIONDODO</span><span class="f3 push-content">: 不是google那台積木機那麼前進的模組化</span><span class="push-ipdatetime"> 06/03 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LIONDODO</span><span class="f3 push-content">: 像sony也有類似的磁充底座跟外接鏡頭</span><span class="push-ipdatetime"> 06/03 15:09
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496472881.A.D0D.html?cacheKey=2052-2023855&offset=2297&offset-sig=e6414c150497fd9e73aaa50b4d57c822f54101b6" data-longpollurl="/v1/longpoll?id=a29aee9253480dc68aeb519a4c9af164ca203d71" data-offset="2297"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

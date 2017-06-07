@@ -1,0 +1,171 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496036007.A.596.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] line是不是壞掉了？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="事情是這樣子的，我的line已經超過一個多禮拜都沒新訊息了，但我已更新到最新版本。
+我試著傳給幾個最近新認識的好朋友，就是之前幫忙修電腦時認識的幾個學妹，但都是未
+讀的狀態，之前為了先確認電腦狀況，有先加line，上禮拜大家都聊的很開心，還說好之
+後再聊的。
+所以我想說line是不是壞了？你們的也會這個樣子嗎？想說這滿嚴重的，新聞怎麼沒報？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] line是不是壞掉了？">
+<meta property="og:description" content="事情是這樣子的，我的line已經超過一個多禮拜都沒新訊息了，但我已更新到最新版本。
+我試著傳給幾個最近新認識的好朋友，就是之前幫忙修電腦時認識的幾個學妹，但都是未
+讀的狀態，之前為了先確認電腦狀況，有先加line，上禮拜大家都聊的很開心，還說好之
+後再聊的。
+所以我想說line是不是壞了？你們的也會這個樣子嗎？想說這滿嚴重的，新聞怎麼沒報？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496036007.A.596.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496036007.A.596.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">meimeibibi (HAHA)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] line是不是壞掉了？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 29 13:33:24 2017</span></div>
+事情是這樣子的，我的line已經超過一個多禮拜都沒新訊息了，但我已更新到最新版本。
+我試著傳給幾個最近新認識的好朋友，就是之前幫忙修電腦時認識的幾個學妹，但都是未
+讀的狀態，之前為了先確認電腦狀況，有先加line，上禮拜大家都聊的很開心，還說好之
+後再聊的。
+
+所以我想說line是不是壞了？你們的也會這個樣子嗎？想說這滿嚴重的，新聞怎麼沒報？
+有沒有line壞了的八卦？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.137.18.229
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496036007.A.596.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496036007.A.596.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frank753951</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mews</span><span class="f3 push-content">: ４　合理懷疑被鎖了 重辦吧</span><span class="push-ipdatetime"> 05/29 13:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wtfman</span><span class="f3 push-content">: 可憐</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishkira</span><span class="f3 push-content">: 4，趕快刪掉</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxcxxx</span><span class="f3 push-content">: 提供一下ID  我LINE你試試</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeff</span><span class="f3 push-content">: 是啊 我也有相同狀況喔</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: 不忍噓</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxboy06</span><span class="f3 push-content">: 你快看看fb是不是也壞惹</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ken890126</span><span class="f3 push-content">: QQ 快檢查其他社群軟體還有沒有正常的</span><span class="push-ipdatetime"> 05/29 13:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yuugen2</span><span class="f3 push-content">: 哈哈哈哈哈哈，幫 QQ</span><span class="push-ipdatetime"> 05/29 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akway</span><span class="f3 push-content">: 4 壞了 請洽line客服詢問</span><span class="push-ipdatetime"> 05/29 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ck0987515477</span><span class="f3 push-content">: 有笑有推</span><span class="push-ipdatetime"> 05/29 13:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hydehsiao</span><span class="f3 push-content">: 幫QQ</span><span class="push-ipdatetime"> 05/29 13:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starbucks16</span><span class="f3 push-content">: 幫QQ</span><span class="push-ipdatetime"> 05/29 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">obdv</span><span class="f3 push-content">: 幫你用line問我朋友好惹</span><span class="push-ipdatetime"> 05/29 13:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coyoteY</span><span class="f3 push-content">: 老梗惹</span><span class="push-ipdatetime"> 05/29 13:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Whitening</span><span class="f3 push-content">: 不是LINE壞了，是你的人際關係壞了</span><span class="push-ipdatetime"> 05/29 13:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yzkeroro</span><span class="f3 push-content">: 如果你是肥宅的話這是正常設定喔</span><span class="push-ipdatetime"> 05/29 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zozoz</span><span class="f3 push-content">: 快去吃粽子　別發廢文</span><span class="push-ipdatetime"> 05/29 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JasonX5566</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzzz8931</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kaneshiro5</span><span class="f3 push-content">: 粽子好吃 我家有多的要分你嗎QQ</span><span class="push-ipdatetime"> 05/29 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q13461346</span><span class="f3 push-content">: 快傳給媽媽說「我想ㄘ粽子」</span><span class="push-ipdatetime"> 05/29 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 可憐</span><span class="push-ipdatetime"> 05/29 13:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">serendipity</span><span class="f3 push-content">:          肥宅台男悲歌</span><span class="push-ipdatetime"> 05/29 13:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenny60710</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PKboy</span><span class="f3 push-content">: 傳給學妹:我幹破妳的臭雞掰。就能修好了，很靈你試試</span><span class="push-ipdatetime"> 05/29 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 爛</span><span class="push-ipdatetime"> 05/29 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">superbob</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fcorners</span><span class="f3 push-content">: 幫工具人QQ</span><span class="push-ipdatetime"> 05/29 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkjjkkjj</span><span class="f3 push-content">: 習慣就好</span><span class="push-ipdatetime"> 05/29 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MASAMIFANS</span><span class="f3 push-content">: 推PKBOY   有效喔</span><span class="push-ipdatetime"> 05/29 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">redcarp0702</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 13:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tw2000</span><span class="f3 push-content">: 原來你也壞了，我還以為只有你這樣QQ</span><span class="push-ipdatetime"> 05/29 13:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tw2000</span><span class="f3 push-content">:                                         我</span><span class="push-ipdatetime"> 05/29 13:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tslf0125</span><span class="f3 push-content">: 哈哈哈哈哈哈哈哈QQ</span><span class="push-ipdatetime"> 05/29 14:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SoLaYo</span><span class="f3 push-content">: HAHA</span><span class="push-ipdatetime"> 05/29 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">starfishfish</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tony5361627</span><span class="f3 push-content">: 哈哈哈哈哈哈 嗚嗚嗚嗚嗚嗚嗚嗚 QWQ</span><span class="push-ipdatetime"> 05/29 14:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jiouje</span><span class="f3 push-content">: 4</span><span class="push-ipdatetime"> 05/29 14:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aliensoul</span><span class="f3 push-content">: 回家吃粽子吧 拍拍</span><span class="push-ipdatetime"> 05/29 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">svel</span><span class="f3 push-content">: 原來是line壞了啊!我還以為是我沒朋友呢!</span><span class="push-ipdatetime"> 05/29 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willie40105</span><span class="f3 push-content">: 幫QQ</span><span class="push-ipdatetime"> 05/29 18:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">germing</span><span class="f3 push-content">: (￣ー￣)</span><span class="push-ipdatetime"> 05/29 18:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XfirmamentX</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/29 19:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kindredd</span><span class="f3 push-content">: 幫Q_Q</span><span class="push-ipdatetime"> 05/29 20:28
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496036007.A.596.html?cacheKey=2052-1859889&offset=5377&offset-sig=38aa77ce7a08b1c629be88d1ae414e727b0aaccd" data-longpollurl="/v1/longpoll?id=a3c82234b6d690c3e442480f31d80e66216289d9" data-offset="5377"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

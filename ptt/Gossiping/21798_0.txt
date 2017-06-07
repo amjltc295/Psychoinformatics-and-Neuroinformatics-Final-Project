@@ -1,0 +1,148 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496137285.A.05C.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[問卦] 跟AlphaGo下一色棋能贏嗎？ - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="AlphaGo看似無可披敵
+不管是一打多還是下快棋都是屌打人類
+但是如果改下一色棋呢？
+強如倉田二段下一色棋也差點輸給進藤光
+會不會這就是AlphaGo的弱點呢？
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[問卦] 跟AlphaGo下一色棋能贏嗎？">
+<meta property="og:description" content="AlphaGo看似無可披敵
+不管是一打多還是下快棋都是屌打人類
+但是如果改下一色棋呢？
+強如倉田二段下一色棋也差點輸給進藤光
+會不會這就是AlphaGo的弱點呢？
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496137285.A.05C.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496137285.A.05C.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">downstairs (樓下)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 跟AlphaGo下一色棋能贏嗎？</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 17:41:22 2017</span></div>
+AlphaGo看似無可披敵
+
+不管是一打多還是下快棋都是屌打人類
+
+但是如果改下一色棋呢？
+
+強如倉田二段下一色棋也差點輸給進藤光
+
+會不會這就是AlphaGo的弱點呢？
+
+
+有沒有跟AlphaGo下一色棋能贏的八卦？
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.157.203
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496137285.A.05C.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496137285.A.05C.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cena0605</span><span class="f3 push-content">: 你覺得電腦會比人容易出錯嗎</span><span class="push-ipdatetime"> 05/30 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ck321</span><span class="f3 push-content">: 會輸更慘吧</span><span class="push-ipdatetime"> 05/30 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Qinsect</span><span class="f3 push-content">: 樓下老婆</span><span class="push-ipdatetime"> 05/30 17:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">oook</span><span class="f3 push-content">: 死更快</span><span class="push-ipdatetime"> 05/30 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Kumasa</span><span class="f3 push-content">: 更難贏</span><span class="push-ipdatetime"> 05/30 17:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kyo90637</span><span class="f3 push-content">: 電腦可以直接記住自己下的位置 人一個恍神就輸了</span><span class="push-ipdatetime"> 05/30 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 跟阿發狗比散步，鐵贏</span><span class="push-ipdatetime"> 05/30 17:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">WhiteMage</span><span class="f3 push-content">: BetaGo</span><span class="push-ipdatetime"> 05/30 17:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Qoo20811</span><span class="f3 push-content">: 一色就是頭臭母豬</span><span class="push-ipdatetime"> 05/30 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">signm</span><span class="f3 push-content">: 廢話</span><span class="push-ipdatetime"> 05/30 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Aeryzephyr</span><span class="f3 push-content">: 這只會對人類更不利阿...</span><span class="push-ipdatetime"> 05/30 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f953024</span><span class="f3 push-content">: 你覺得電腦不會用flag記嗎... 對電腦來說幾色都沒差</span><span class="push-ipdatetime"> 05/30 17:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kopuck</span><span class="f3 push-content">: ................</span><span class="push-ipdatetime"> 05/30 17:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jarviswang12</span><span class="f3 push-content">: 一日迷？</span><span class="push-ipdatetime"> 05/30 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wpwsiance</span><span class="f3 push-content">: 這問題...難怪人腦被電腦越甩越遠...</span><span class="push-ipdatetime"> 05/30 17:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">razghot1597</span><span class="f3 push-content">: 電腦不會問這種問題，所以人類還是可以贏的</span><span class="push-ipdatetime"> 05/30 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xul4m4vu6666</span><span class="f3 push-content">: 文組喔</span><span class="push-ipdatetime"> 05/30 18:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 文組又要背鍋了，幫QQ</span><span class="push-ipdatetime"> 05/30 18:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">joss0207</span><span class="f3 push-content">: 找王聖芳去下一子棋</span><span class="push-ipdatetime"> 05/30 18:20
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496137285.A.05C.html?cacheKey=2052-2688513&offset=2365&offset-sig=3820ebcd43c0f060e63fc86771746f276573f4ef" data-longpollurl="/v1/longpoll?id=0dd024e06767aecb83ce883b4821863988dcdc91" data-offset="2365"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

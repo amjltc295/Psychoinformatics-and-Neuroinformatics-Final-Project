@@ -1,0 +1,210 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496471513.A.B82.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Fw: [新聞] 北中部淹水 賴清德：別再批評錢花到哪裡 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="作者: jiern (jiern) 看板: Tainan
+標題: [新聞] 北中部淹水 賴清德：別再批評錢花到哪裡
+時間: Sat Jun  3 14:25:12 2017
+北中部淹水 賴清德：別再批評錢花到哪裡了
+2017-06-03 聯合報
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Fw: [新聞] 北中部淹水 賴清德：別再批評錢花到哪裡">
+<meta property="og:description" content="作者: jiern (jiern) 看板: Tainan
+標題: [新聞] 北中部淹水 賴清德：別再批評錢花到哪裡
+時間: Sat Jun  3 14:25:12 2017
+北中部淹水 賴清德：別再批評錢花到哪裡了
+2017-06-03 聯合報
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496471513.A.B82.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496471513.A.B82.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">jiern (jiern)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Fw: [新聞] 北中部淹水 賴清德：別再批評錢花到哪裡</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Jun  3 14:31:52 2017</span></div>
+<span class="f2">※ [本文轉錄自 <a href="/bbs/Tainan/M.1496471114.A.2BF.html" target="_blank" rel="nofollow">Tainan 看板 #1PCbPAA_</a> ]
+</span>
+作者: jiern (jiern) 看板: Tainan
+標題: [新聞] 北中部淹水 賴清德：別再批評錢花到哪裡
+時間: Sat Jun  3 14:25:12 2017
+
+北中部淹水 賴清德：別再批評錢花到哪裡了
+
+2017-06-03 聯合報
+
+此波梅雨鋒面挾帶西南氣流為台灣北部、中部帶來驚人雨量，造成北台灣及中台灣多處淹
+水，釀成嚴重災情，目前台南平地出現陣雨，雨量主要落在山區，台南市長賴清德表示，
+藉由這次豪大雨，呼籲各界支持前瞻基礎建設的水環境部分，也希望未來別再有其他縣市
+淹水，不但不給予同情，反而批評「錢花到哪裡去了」的聲音出現。
+
+賴清德說，這次豪大雨造成北部、中南部嚴重災情，可看出前瞻基礎建設的「水環境」相
+當重要，在第一次政黨輪替之前，行政院編治水預算一年二、三十億，根本不可能解決治
+水問題，所以全台灣只要下大雨就會淹水，南部更是嚴重。
+
+他說，直到陳水扁當任總統、謝長廷擔任行政院長時期提出治水特別預算8年800億，易淹
+水城市才有足夠經費有計劃地進行治水工作，十多年來發揮效果；近年淹水主要是因氣候
+變遷，短時強降雨，這波台北、新北3個小時就下到400毫米，6個小時下到600毫米，已超
+過本身的防洪保護量。
+
+<span class="f3 hl">賴清德表示，過去在南部淹水時，有少數人沒有同情南部民眾，反而在罵「錢花到哪裡去</span>
+<span class="f3 hl">了」</span>，但這次淹水可清楚看見，由於氣候變遷造成短時強降雨，雨量、時雨量都超過防洪
+標準，即使北部花那麼多錢還是照淹，「雨下到哪就淹到哪」，不能因此說治水沒有效果
+，否定政府治水的辛苦、民眾淹水的痛苦以及治水展現的成效。
+
+新聞
+<a href="https://udn.com/news/story/6656/2501515" target="_blank" rel="nofollow">https://udn.com/news/story/6656/2501515</a>
+
+======================
+
+賴清德：三爺溪淹水30年 我3年解決
+
+2014年03月07日
+
+他舉整治淹了30年的三爺溪為例，中央估約需60億，但中央經費無法立即到位，淹水問題
+又不能等，水利局於是採應急工程，由市府自編預算，趕在今年汛期前，可望解決仁德、
+永康區淹水惡夢，「<span class="f3 hl">淹30年的痛苦，我花3年解決，大家都覺得不可思議。」</span>
+
+
+
+
+
+台南淹水引民怨 加速辦理三爺溪排水整治拓寬計畫
+
+2016-09-07 聯合報
+
+昨天豪大雨，造成台南地區多處淹水，<span class="f3 hl">立委陳亭妃今天表示，已向中央水利署長王瑞德要</span>
+<span class="f3 hl">求加速辦理三爺溪排水整治拓寬計畫，</span><span class="f2 hl">徹底解決淹水問題</span>。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.139.94.167
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Tainan/M.1496471114.A.2BF.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Tainan/M.1496471114.A.2BF.html</a>
+</span>
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc)
+</span><span class="f2">※ 轉錄者: jiern (223.139.94.167), 06/03/2017 14:31:52
+</span><span class="f2">※ 編輯: jiern (223.139.94.167), 06/03/2017 14:32:07
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">formatted</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 06/03 14:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Roger5566</span><span class="f3 push-content">: 閉嘴 水災還要來作秀</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Flyroach</span><span class="f3 push-content">: 刪推文耶　</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 不能批評?花了多少錢在機場上，結果每年都淹</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nixon</span><span class="f3 push-content">: 沒問題, 以後KMT上台這樣吃錢就不要再出來靠北</span><span class="push-ipdatetime"> 06/03 14:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ridecule</span><span class="f3 push-content">: 吃屎</span><span class="push-ipdatetime"> 06/03 14:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KEYSOLIDER</span><span class="f3 push-content">: 推 繼續擋 看國民堂怎麼選</span><span class="push-ipdatetime"> 06/03 14:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">just206</span><span class="f3 push-content">: 機場那個是先天問題吧</span><span class="push-ipdatetime"> 06/03 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">melonlon</span><span class="f3 push-content">: 蛤？雖然我票投你 可是這件事你真的是在講幹話</span><span class="push-ipdatetime"> 06/03 14:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tchachavsky</span><span class="f3 push-content">: 賴半天 沒法勸童 作秀了 輸了</span><span class="push-ipdatetime"> 06/03 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 人民無權質疑政府把預算花到哪 不能質疑成效？</span><span class="push-ipdatetime"> 06/03 14:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 什麼邏輯</span><span class="push-ipdatetime"> 06/03 14:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cheinshin</span><span class="f3 push-content">: 沒說錯啊</span><span class="push-ipdatetime"> 06/03 14:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">superjim</span><span class="f3 push-content">: dpp政客就只會推卸責任</span><span class="push-ipdatetime"> 06/03 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donnybillzed</span><span class="f3 push-content">: F姊又出現了</span><span class="push-ipdatetime"> 06/03 14:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 是要釐清阿 這樣才能讓預算的效果最大化 不是把錢灑錯</span><span class="push-ipdatetime"> 06/03 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 地方</span><span class="push-ipdatetime"> 06/03 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SilentBob</span><span class="f3 push-content">: 賴狗屎幹你娘</span><span class="push-ipdatetime"> 06/03 14:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">e7660239</span><span class="f3 push-content">: 我大柯神任鎮的垃圾 乖乖去舔我大顆p打覽趴</span><span class="push-ipdatetime"> 06/03 14:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jesiuty</span><span class="f3 push-content">: 扁哥：啾咪</span><span class="push-ipdatetime"> 06/03 14:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rockchangnew</span><span class="f3 push-content">: 打預防針吧，之前屁自己多厲害，快被老天打臉了。</span><span class="push-ipdatetime"> 06/03 14:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kerodo</span><span class="f3 push-content">: 出來搶功勞了，真虧坐那多年市長</span><span class="push-ipdatetime"> 06/03 14:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Joey818</span><span class="f3 push-content">:  賴神變賴皮鬼了</span><span class="push-ipdatetime"> 06/03 14:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">znck</span><span class="f3 push-content">: 反正都會淹水 那幹嘛要花錢治水 還治得2266</span><span class="push-ipdatetime"> 06/03 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neilisme</span><span class="f3 push-content">: 去年才淹水的 還有臉提3年解決喔 真是不可思議</span><span class="push-ipdatetime"> 06/03 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">edison</span><span class="f3 push-content">: 顏色對了, 賴皮也沒關係</span><span class="push-ipdatetime"> 06/03 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pounil</span><span class="f3 push-content">: 覺青的吹捧選擇 民調最高 瀨尿也能變賴神</span><span class="push-ipdatetime"> 06/03 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pippen456</span><span class="f3 push-content">: 9.2聽不懂</span><span class="push-ipdatetime"> 06/03 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">obdv</span><span class="f3 push-content">: 預算不是都編到前瞻去了  當然治不了水阿</span><span class="push-ipdatetime"> 06/03 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s881720</span><span class="f3 push-content">: 外科：內科不EY</span><span class="push-ipdatetime"> 06/03 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Or3</span><span class="f3 push-content">: 台南這幾天根本沒下什麼雨 不是等於沒有淹水</span><span class="push-ipdatetime"> 06/03 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chenyw</span><span class="f3 push-content">: 鋒面又北轉不會南下就開始嘴砲了</span><span class="push-ipdatetime"> 06/03 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yangweiisi</span><span class="f3 push-content">: 賴皮先生，臺南雨又沒下那麼大當然不會淹...</span><span class="push-ipdatetime"> 06/03 20:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yangweiisi</span><span class="f3 push-content">: 不要往臉上貼金好不好</span><span class="push-ipdatetime"> 06/03 20:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">linchen1121</span><span class="f3 push-content">: 台灣亂編亂花預算的情形非常嚴重，而且大部分很難檢</span><span class="push-ipdatetime"> 06/03 21:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linchen1121</span><span class="f3 push-content">: 驗成效，只有治水這項在天災時無法混過去</span><span class="push-ipdatetime"> 06/03 21:58
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496471513.A.B82.html?cacheKey=2052-2021195&offset=5973&offset-sig=fd5c566127d3683433f6870171c7202ff3fa232a" data-longpollurl="/v1/longpoll?id=3c1a87b2ce036c2bb426ec4b58a8eb13e68ec5df" data-offset="5973"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

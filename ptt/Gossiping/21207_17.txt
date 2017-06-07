@@ -1,0 +1,195 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495725204.A.E38.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「聰明基因」找到了  跟自閉症高度相關 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="「聰明基因」找到了  跟自閉症高度相關
+2017/5/25
+knowing
+https://goo.gl/TEKKa3
+根據統計，在數以萬計的受測人中，智商測驗結果的差異有20%來自基因，其中與聰明基
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「聰明基因」找到了  跟自閉症高度相關">
+<meta property="og:description" content="「聰明基因」找到了  跟自閉症高度相關
+2017/5/25
+knowing
+https://goo.gl/TEKKa3
+根據統計，在數以萬計的受測人中，智商測驗結果的差異有20%來自基因，其中與聰明基
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495725204.A.E38.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495725204.A.E38.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">AaronEckhar (Aaron)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「聰明基因」找到了  跟自閉症高度相關</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 25 23:13:21 2017</span></div>
+「聰明基因」找到了  跟自閉症高度相關
+
+2017/5/25
+knowing
+<a href="https://goo.gl/TEKKa3" target="_blank" rel="nofollow">https://goo.gl/TEKKa3</a>
+
+根據統計，在數以萬計的受測人中，智商測驗結果的差異有20%來自基因，其中與聰明基
+因關連性最明顯的是造成自閉症特質的基因。
+
+根據《中央社》，《自然遺傳學》（Nature Genetics）期刊發表的研究結果指出，在歐
+洲裔7萬8000人的調查研究中，智商測驗結果差異有20%來自「聰明基因」。研究人員還表
+示，人類基因組有2萬5000多個基因，而其中的「聰明基因」也和其他特質相關連，比如
+嬰兒時期頭比較大、身材高大以及能否成功戒菸等等，其中最強烈的關連之一是自閉症。
+
+另一方面，在罹患精神分裂症或肥胖的人身上，缺少特定聰明基因的現象較普遍。
+
+智商傳承自母親？
+
+根據英國《衛報》，在眾多被歸類為能被調節的基因 (conditioned genes)中，有些在來
+自母系遺傳的基因影響中才能運作。
+
+科學家利用遺傳修正的老鼠來做實驗，發現被施以更多母親基因的老鼠頭部較大、身材較
+小，施以更多父親基因的老鼠則相反。父親基因的細胞累積在涉及侵略、性交、食物相關
+的系統，而母親基因的細胞則發現在控制推理、思考、語言的大腦皮層中。
+
+人類畢竟與老鼠不同，所以研究人員從1994年開始訪問14至22歲的年輕人，想證實老鼠實
+驗觀察到的結果。結果在12686位受訪者中，去掉社經地位與教育程度的影響，發現智商
+果然是遺傳自母親。
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.136.53.48
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495725204.A.E38.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495725204.A.E38.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ridecule</span><span class="f3 push-content">: 聰明有屁用</span><span class="push-ipdatetime"> 05/25 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">iPadProPlus</span><span class="f3 push-content">: 五樓甲甲</span><span class="push-ipdatetime"> 05/25 23:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whathefuc</span><span class="f3 push-content">: 難怪我這麼邊緣</span><span class="push-ipdatetime">05/25 23:13
+</span></div><span class="f2">※ 編輯: AaronEckhar (220.136.53.48), 05/25/2017 23:14:46
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flux</span><span class="f3 push-content">: 胖的人身上，缺少特定聰明基因的現象較普遍。</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noreg0393933</span><span class="f3 push-content">: 五樓肛門自閉，被甲甲通開</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">The5F</span><span class="f3 push-content">: 難怪八卦鄉民都很聰明</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 林奕含</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LeaveTaiwan</span><span class="f3 push-content">: 難怪我很自閉 有準有推</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">noreg0393933</span><span class="f3 push-content">: 幹，垃圾新聞</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lindeman5566</span><span class="f3 push-content">: 八卦躍升ptt最聰明版</span><span class="push-ipdatetime"> 05/25 23:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hiojvd</span><span class="f3 push-content">: 先看是不是英國研究</span><span class="push-ipdatetime"> 05/25 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 醒醒 是自閉基因不是肥宅基因</span><span class="push-ipdatetime"> 05/25 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 肥宅的自閉 和自閉症的自閉 完全不一樣</span><span class="push-ipdatetime"> 05/25 23:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shadowdio</span><span class="f3 push-content">: 幹 好準! 是不是偷偷觀察我</span><span class="push-ipdatetime"> 05/25 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 在罹患精神分裂症或肥胖的人身上，缺少特定聰明基因</span><span class="push-ipdatetime"> 05/25 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: &#34;肥胖的人身上，缺少特定聰明基因的現象較普遍&#34;</span><span class="push-ipdatetime"> 05/25 23:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BRANFORD</span><span class="f3 push-content">: 肥胖和缺少 要上色啊</span><span class="push-ipdatetime"> 05/25 23:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">voyhanxu</span><span class="f3 push-content">: 所以肥宅比較聰明囉，就是在說我嘛！</span><span class="push-ipdatetime"> 05/25 23:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd09090</span><span class="f3 push-content">: 自閉和聰明一線之間</span><span class="push-ipdatetime"> 05/25 23:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">edward13</span><span class="f3 push-content">: 這樣精子銀行會沒生意  冰那麼多沒個洨用</span><span class="push-ipdatetime"> 05/25 23:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nolag</span><span class="f3 push-content">: 遺傳到母性基因的公老鼠是母基因還是公基因？</span><span class="push-ipdatetime"> 05/25 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jetaime851</span><span class="f3 push-content">: 肥胖和愚蠢相當</span><span class="push-ipdatetime"> 05/25 23:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AGIknight</span><span class="f3 push-content">: 還好林義函自殺了，不然她生的小孩肯定是個智障</span><span class="push-ipdatetime"> 05/25 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LunLin9590</span><span class="f3 push-content">: 快搞自閉，不然會被說跟9.2智商一樣</span><span class="push-ipdatetime"> 05/25 23:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoyunnnn</span><span class="f3 push-content">: 我好聰明(づ・ω・)づ</span><span class="push-ipdatetime"> 05/25 23:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TaiwanKimchi</span><span class="f3 push-content">: 還肥宅比較聰明呢</span><span class="push-ipdatetime"> 05/25 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ducamao</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 05/25 23:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">podon</span><span class="f3 push-content">: 所以肥宅智商低，難怪八卦廢文超多</span><span class="push-ipdatetime"> 05/25 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wmigrant</span><span class="f3 push-content">: 整篇不知所云 記者一定要抄外電嗎</span><span class="push-ipdatetime"> 05/25 23:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TaiwanKimchi</span><span class="f3 push-content">: 笨要怪你媽了</span><span class="push-ipdatetime"> 05/25 23:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rainbow321</span><span class="f3 push-content">: 肥宅都很自閉欸</span><span class="push-ipdatetime"> 05/25 23:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oncemore</span><span class="f3 push-content">: =邊緣人的自閉不叫自閉好嗎  有家人是的你只會崩潰而已</span><span class="push-ipdatetime"> 05/25 23:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dageegee</span><span class="f3 push-content">: 廢宅基因</span><span class="push-ipdatetime"> 05/25 23:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">monkeyeden</span><span class="f3 push-content">: 肥宅要崩潰惹，快逃</span><span class="push-ipdatetime"> 05/25 23:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">osmanthusjo</span><span class="f3 push-content">: 照片是男孩還是女孩?</span><span class="push-ipdatetime"> 05/25 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AirPenguin</span><span class="f3 push-content">: 老婆還是挑聰明點的好...</span><span class="push-ipdatetime"> 05/25 23:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tkc7</span><span class="f3 push-content">: 難怪一堆理工宅宅都很自閉</span><span class="push-ipdatetime"> 05/25 23:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tonyfenny321</span><span class="f3 push-content">: 這篇新聞寫得沒頭沒尾的 記者看懂內容再發新聞好嗎</span><span class="push-ipdatetime"> 05/25 23:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccjj8</span><span class="f3 push-content">: 肥宅算聰明還是笨？</span><span class="push-ipdatetime"> 05/25 23:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SinkLife</span><span class="f3 push-content">: 原文標題是 smart genes account for 20% of lntellieng</span><span class="push-ipdatetime"> 05/25 23:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SinkLife</span><span class="f3 push-content">: ence</span><span class="push-ipdatetime"> 05/25 23:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waei2020</span><span class="f3 push-content">: 英國研究都是屁</span><span class="push-ipdatetime"> 05/26 00:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 肥胖的人身上，缺少特定聰明基因的現象較普遍。</span><span class="push-ipdatetime"> 05/26 00:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assotr</span><span class="f3 push-content">: 難怪八卦板智障這麼多...</span><span class="push-ipdatetime"> 05/26 00:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Junneo</span><span class="f3 push-content">: 研究這個是有洨用，研究老爸是誰比較實在</span><span class="push-ipdatetime"> 05/26 00:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ksxo</span><span class="f3 push-content">: 看特徵 感覺姚明很聰明</span><span class="push-ipdatetime"> 05/26 00:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t81511270</span><span class="f3 push-content">: 完了 確定智商 遺傳媽媽惹 不能亂罵小孩笨</span><span class="push-ipdatetime"> 05/26 00:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fingertip</span><span class="f3 push-content">: 看了推文相信肥宅超笨</span><span class="push-ipdatetime"> 05/26 00:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495725204.A.E38.html?cacheKey=2052-1599211&offset=6336&offset-sig=ca6b9d7d9810e4520211942041e66368ccb122ac" data-longpollurl="/v1/longpoll?id=728c8a35900977d2f76b827419a8eb8b69b1f205" data-offset="6336"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,548 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494994216.A.589.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 非核家園前 燃煤發電佔比飆至50% - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="人家原文說得很清楚
+是在講能源分散問題
+不要過度集中在一種發電之上
+且特別也舉了燃氣為例
+台電目前僅有兩座儲氣場
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 非核家園前 燃煤發電佔比飆至50%">
+<meta property="og:description" content="人家原文說得很清楚
+是在講能源分散問題
+不要過度集中在一種發電之上
+且特別也舉了燃氣為例
+台電目前僅有兩座儲氣場
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494994216.A.589.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494994216.A.589.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">hamasakiayu (ayumi)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 非核家園前 燃煤發電佔比飆至50%</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Wed May 17 12:10:13 2017</span></div>
+<span class="f2">※ 引述《elmotze (On my way)》之銘言：
+</span><span class="f6">: ※ 引述《bb77339911 (吳淑珍的世足夢)》之銘言：
+</span><span class="f6">: : 飯盒可能都文組不了解，
+</span><span class="f6">: : 永遠只會跳針喊核廢料、喊核災風險
+</span><span class="f6">: : 任何選擇都會有風險，風險大或小而已
+</span><span class="f6">: : 但我們都會選擇風險最小的路徑
+</span><span class="f6">:   Well, 偷渡了核電 = 風險最小的路徑.
+</span>
+人家原文說得很清楚
+
+是在講能源分散問題
+
+不要過度集中在一種發電之上
+
+且特別也舉了燃氣為例
+
+台電目前僅有兩座儲氣場
+
+在離峰時間有14天儲量
+
+在尖峰(夏季)只有7天
+
+目前在蓋兩座，一座被抗議中，一座還在橋
+
+而我們只剩下九年
+
+你直接化約成&#34;核電 = 風險最小&#34;
+
+這刀斷章取義未免用得太快吧
+
+<span class="f6">:   核電是屬於低機率風險, 但發生後可能有高後續成本的發電方式;
+</span><span class="f6">:   且後續成本可能超過這片土地的負荷能力.
+</span>
+1.你說可能，到底可能性有多少？每多少爐年發生一次？
+
+2.你說負荷能力，請問負荷能力到底是多少？超過又是會超過多少？
+
+這你能說清嗎？
+
+是否我也能說你在偷渡 &#34;核能 = 危險&#34;的概念呢？
+
+短短兩句，你說了兩句可能
+
+到底多可能
+
+你卻刻意不講明
+
+原文討論的是一種選擇
+
+你有沒有提供給別人足夠的資訊讓人選擇？
+
+今天要搞非核可以
+
+我們把所有目前在台灣可行的發電方法攤開
+
+分析利弊，討論成本
+
+最後讓大家選擇才公平吧
+
+如果不漲電價、供電穩定、沒有汙染要廢核，我也支持
+
+但跟你說用燃氣廢核電價要漲三成(核研所計算)
+
+颱風來阻礙船期，可能導致燃氣存量不足，三不五時就要分區限電
+
+在這個條件之下要廢核，我就要想想了
+
+<span class="f6">: : 而要降低風險，大家都清楚，
+</span><span class="f6">: : 不要把雞蛋放在同一個籃子裡
+</span><span class="f6">: : 現在選擇零核電，把天燃氣比例拉到50%
+</span><span class="f6">: : 這不就是在增加臺灣能源風險嗎？
+</span><span class="f6">:   蔡英文的能源政策是20%綠能/50%天然氣/30%燃煤.
+</span><span class="f6">:   目前的能源配置約是5%綠能/15%核電/40%燃氣/40%燃煤.
+</span><span class="f6">:  (水力/汽電共生佔比太小故略去, 燃油併燃煤計)
+</span>
+水力發電約3.4%
+
+燃油約    4.4%
+
+汽電共生約2.6%
+
+目前綠能佔比約在5%左右
+
+你跟我說水力/汽電共生太小略去 = =
+
+加加起來也有5-6%了
+
+現在備用容量率號稱8%
+
+備轉容量率可能已經低於4%
+
+給你略去，此時此刻的台灣立刻陷入限電
+
+<span class="f6">:   簡單的比較一下就知道大致上是綠能取代核電;
+</span><span class="f6">:   削減10%燃煤, 以天然氣取代.
+</span>
+燃煤根據李世光自己的說法
+
+到2020年將佔整整台灣50%
+
+所以削減的是20%燃煤
+
+<span class="f6">:   各種主要發電方式都有優點和缺點.
+</span><span class="f6">:   只是目前看起來, 核能的缺點(損害發生後規模不容易確定)比較不被接受而已.
+</span>
+如果用發電類型來看
+
+核能與燃煤為基載發電
+
+燃氣與綠能為尖、中載發電
+
+發電理想佔比基載55-65%、中載15-30%、尖載10-15%
+
+現在我們在看一下政府的規劃
+
+到2025年要減少核能與燃煤合計約莫30-35%左右的基載發電
+
+剩餘的基載僅僅剩下燃煤的30%
+
+相差理想比例25-35%
+
+更別提
+
+由於綠能發電特性的問題
+
+屬於高度不穩定的發電
+
+因此在電網之中必須要配合燃氣發電來配套
+
+如最近經濟部很愛講的東吉島微電網
+
+說他們可以全用綠能過活
+
+但實際上為了電網的穩定
+
+即便綠能滿載，也超過島民需求用量
+
+這時的燃油發電也不能停機
+
+理想的狀態下
+
+你有多少綠能發電，最好就同時準備多少得然氣發電備援
+
+由這個角度看
+
+特別砍掉燃煤與核能這種基載發電
+
+面對高達20%的綠能
+
+你的燃氣發電僅僅50%夠嗎？
+
+
+
+稍為對能源有點概念的人
+
+就可以輕易看出來現在蔡英文的能源規劃有多瞎
+
+如果你真要廢核
+
+學學德國行嗎？
+
+備用容量率拉高到140%
+
+重啟褐煤發電
+
+花了近二十年，已經把綠電比例拉高到30%之後
+
+再來想，要到2050年才達到零煤
+
+為什麼同樣廢核
+
+到了我國就要在九年內
+
+減少核能12-16%的同時，還要減少整整20%的燃煤
+
+不說你立場是否非核
+
+光看這個計畫
+
+你不覺得現在我們的政府是選擇了一條風險很大的道路嗎？
+
+如果你在回頭看今天李世光的發言
+
+他講了一堆&#34;若&#34;
+
+若新改建火力能順利上線
+
+若緊急發電機組能及時完成
+
+若核二燃料池改裝能夠順利完成
+
+這樣就一定不會缺電
+
+那請問，如果不小心有個&#34;若&#34;沒完成呢？
+
+
+--
+噓 <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="f79c929b8e3945b739453944">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>: 噗~最近才跟專包政府工程的包商泡過茶                03/06 23:58
+→ <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="056e60697ccbb745cbb7cbb6">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>: 聽到核廢料桶油漆刷一刷了事，嚇的尿都快噴出來啦XD   03/06 23:58
+→ <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="09626c6570c7bb49c7bbc7ba">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>: 噗~小hama要不要問問馬殷邦博士啊XD                  03/07 00:28
+
+<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="987e11187c233d7c2538f3fdf4e1562ad8562a562b7f17267d04307e141f7e2e11713e347e362f711a3e7d15027d3b337e2e117d3314702f077d17287103237d0814">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>謀
+將核廢料的桶子隨便用油漆塗塗嗎？                         <a href="/bbs/Gossiping/M.1457279296.A.095.html" target="_blank" rel="nofollow">#1Mt5502L (Gossiping)</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.230.204.98
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494994216.A.589.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494994216.A.589.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray2501</span><span class="f3 push-content">: 然後台灣經濟就死掉了   大家的選擇，所以就這樣吧</span><span class="push-ipdatetime"> 05/17 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k88888g</span><span class="f3 push-content">: 跟反核智障講人話 聽的懂？</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 反正DPP討厭高產值高就業機會高耗電的產業阿呵呵</span><span class="push-ipdatetime"> 05/17 12:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alanswill</span><span class="f3 push-content">: 反核的可能沒嘗過台中火力發電廠造成的空氣品質，絕對</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billionaire</span><span class="f3 push-content">: 漲價即可</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alanswill</span><span class="f3 push-content">: 好聞</span><span class="push-ipdatetime"> 05/17 12:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ten9di9</span><span class="f3 push-content">: 台中人吸廢氣給反核用電超爽的</span><span class="push-ipdatetime"> 05/17 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mbttar25</span><span class="f3 push-content">: 文組就專長寫作文帶風向 跟他們要求事實數據太強人所難</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mbttar25</span><span class="f3 push-content">: 了</span><span class="push-ipdatetime"> 05/17 12:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arjai</span><span class="f3 push-content">: 通篇凸顯了政客凌駕專業的危險還有無知者真的很無知</span><span class="push-ipdatetime"> 05/17 12:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miha80425</span><span class="f3 push-content">: 住龍井吸了20年中電北送 北部人反核 南部人說南電北送</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">miha80425</span><span class="f3 push-content">: 南部北部他媽都去吃大便</span><span class="push-ipdatetime"> 05/17 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Forfun1168</span><span class="f3 push-content">: 哎呀，這個空心政府根本無心於台灣的未來，很多事根</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Forfun1168</span><span class="f3 push-content">: 本只是敷衍了事，以拖待變，你對它認真就輸了</span><span class="push-ipdatetime"> 05/17 12:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: <a href="http://i.imgur.com/unbKeNU.jpg" target="_blank" rel="nofollow">http://i.imgur.com/unbKeNU.jpg</a></span><span class="push-ipdatetime"> 05/17 12:32
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="unbKeNU"><a href="//imgur.com/unbKeNU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kngs555</span><span class="f3 push-content">: 南電沒比中電北送高,但還是有送</span><span class="push-ipdatetime"> 05/17 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seekfine</span><span class="f3 push-content">: 值得一推</span><span class="push-ipdatetime"> 05/17 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkchen</span><span class="f3 push-content">: 若用愛發電能商業運轉.其實台灣也有機會不缺電...</span><span class="push-ipdatetime"> 05/17 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunchen0201</span><span class="f3 push-content">: 事在人為 相信DPP一定能達成2025非核家園 唱衰省省吧</span><span class="push-ipdatetime"> 05/17 12:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 這篇蠻中肯的，但蔡真的一心搞爛台灣的電力產業</span><span class="push-ipdatetime"> 05/17 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keelpie</span><span class="f3 push-content">: 搞爛？是餓8年了急著搶東西吃</span><span class="push-ipdatetime"> 05/17 12:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digodi</span><span class="f3 push-content">: 若</span><span class="push-ipdatetime"> 05/17 12:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nonoah</span><span class="f3 push-content">: 別忘了還有巴黎協議書</span><span class="push-ipdatetime"> 05/17 12:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">impact999</span><span class="f3 push-content">: 中肯阿 但反核人就愛腦充血噴人 專業擺在面前也沒用</span><span class="push-ipdatetime"> 05/17 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">impact999</span><span class="f3 push-content">: 瑞典在1980年就決定廢核 後來又反悔 為得是什麼?</span><span class="push-ipdatetime"> 05/17 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 不要給我漲電價就好了，我管蔡母豬要用什麼發電</span><span class="push-ipdatetime"> 05/17 13:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Meerz</span><span class="f3 push-content">: 啪啪啪臉腫腫的</span><span class="push-ipdatetime"> 05/17 13:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">elmotze</span><span class="f3 push-content">: 雖然自稱是顧慮風險, 但實際上是主張放棄目標.</span><span class="push-ipdatetime"> 05/17 13:12
+</span></div>
+我也沒要佔民意多數的反核放棄目標
+
+但有幾個問題麻煩你們認真面對一下
+
+五年前2012蔡英文跟馬英九選總統
+
+喊出2025非核家園
+
+中間沒選上的時候，民進黨都在幹橋馬英九綠能發展緩慢
+
+都在刻意護航核能
+
+(雖然核四馬英九封的，非核家園首度入法也是馬搞得)
+
+我們就先接受這個說法
+
+馬在非核上是零進度
+
+2016年蔡英文再選總統，喊得還是2025非核家園
+
+你覺得真的沒問題嗎？
+
+光是綠能的佔比上，2025目標就喊到20%
+
+日本預計2030年，比我們晚五年
+
+目標才設在8.7%
+
+花的時間比人少
+
+目標卻是人家的將近兩倍
+
+同時還要放棄12%的核能，20%的燃煤
+
+你真心覺得這樣設計非核家園期程沒問題？
+
+合乎常人認知的風險？
+
+還是一場豪賭？
+
+
+
+
+其次
+
+蔡英文原本的政見就是2025非核家園
+
+核1-3按期程除役
+
+核4停建
+
+好的，我想請問那為啥核1-2現在就有兩部機組不讓運轉？
+
+現在2025年到了嗎？
+
+還是這兩部機組除役年限到了？
+
+兩部機組可以產生大量的
+
+但我們現在寧願花錢讓他停機
+
+改用燃氣替代
+
+導致備用容量率直落
+
+數年之間缺電警訊頻傳
+
+讓台積電張忠謀都出來表態
+
+請問
+
+這是合乎風險操作的非核家園進程
+
+還是只是迫於民粹壓力之下的作為？
+
+
+
+下篇已經有人提了德國了
+
+我再提一次
+
+期備用容量率140%
+
+火力發電佔比超過一半以上
+
+換言之，根本就不用綠能發電
+
+僅憑境內的火發就足夠供應德國社會需求
+
+他們還又歐陸電網調節電力
+
+缺光缺風時買電
+
+高光高風時可以賣電賺取外匯補貼綠能的高成本
+
+人家好幾年前就修法通過綠能附加費用
+
+佔了電費比重高達三成
+
+而今他們電費高達10-12元(最近浮動較大)
+
+他們的綠能附加費用就差不多等於台灣的平均電費
+
+但德國人願意負擔高出我國數倍的電價
+
+又梅克爾表示必須給高用電的工業大戶電力費用減免
+
+因為如果這些製造業移出德國會造成失業
+
+人民失業便無法去承擔非核的高成本
+
+上述內容全部都是德國政治人物制定的政策與作法
+
+請問
+
+我國的政客們
+
+哪個去認真思考過了？
+
+你備用容量率夠高嗎？
+
+人家德國不夠高，就先重啟了褐煤
+
+但我們卻在低於10%的狀況下，要求禁燒比較沒那麼汙染的生煤
+
+再來你的電費敢漲嗎？
+
+核研所的研究，全燃氣替代也不過漲三成
+
+也就是漲一元左右
+
+有漲嗎？沒有
+
+而我國工業用電電費居然比民生用電還高
+
+這在25個主要國家內，僅有四國如此，我國就是其一
+
+德國的工業電費5元多，是民生用電的1/2
+
+elmotze大
+
+我看你多次對於政策發言
+
+相信你也是關心時政，有熱血的青年
+
+我想請問
+
+你真心認為蔡政府的非核家園政策有顧慮到風險？
+
+而我們對這個政策提出批評
+
+只是為反對而反對，想要你們放棄目標嗎？
+
+希望你回答我
+
+
+
+實話說
+
+反核人選上總統要推非核家園
+
+我雖然不滿意
+
+民主國家我也只能接受
+
+但既然你們很愛講德國
+
+先學學德國人怎麼搞
+
+先告訴民眾這樣搞下去的成本花費是甚麼行嗎？
+
+請問這個要求算過分嗎？
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EvoLancer</span><span class="f3 push-content">: 2025非核家園本身就是誇大不實的廣告 尤其是現在又說綠</span><span class="push-ipdatetime"> 05/17 13:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EvoLancer</span><span class="f3 push-content">: 電取代核電 更是不切實際</span><span class="push-ipdatetime"> 05/17 13:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EvoLancer</span><span class="f3 push-content">: 事實上綠電可更吃土地資源</span><span class="push-ipdatetime"> 05/17 13:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nobody741</span><span class="f3 push-content">: 用愛發電啦   你不懂啦</span><span class="push-ipdatetime"> 05/17 13:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">schopan</span><span class="f3 push-content">: 別和文組討論數字拉</span><span class="push-ipdatetime"> 05/17 13:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">diiky</span><span class="f3 push-content">: 反核就弱智~~講也講不聽</span><span class="push-ipdatetime"> 05/17 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WindSucker</span><span class="f3 push-content">: 鬼島</span><span class="push-ipdatetime"> 05/17 14:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TNLang</span><span class="f3 push-content">: 文組政客看不懂數據啦</span><span class="push-ipdatetime"> 05/17 14:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bahamutuh</span><span class="f3 push-content">: 水力發電3.4%太小故略去 風力加太陽能約1%怎麼不略去?</span><span class="push-ipdatetime"> 05/17 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wailman</span><span class="f3 push-content">: 推!!這篇厲害!!</span><span class="push-ipdatetime"> 05/17 14:57
+</span></div><span class="f2">※ 編輯: hamasakiayu (61.230.204.98), 05/17/2017 15:20:50
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">QuendarT</span><span class="f3 push-content">: 民營綠電對dpp利益很大，dpp才敢這樣搞啦</span><span class="push-ipdatetime"> 05/17 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">QuendarT</span><span class="f3 push-content">: 不然之前反核黑台電的為啥都dpp流的？利益利益利益</span><span class="push-ipdatetime"> 05/17 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">toshbio</span><span class="f3 push-content">: 中南部人想吸廢氣就讓他們吸嘛 為他們想那麼多幹嘛 不小</span><span class="push-ipdatetime"> 05/17 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toshbio</span><span class="f3 push-content">: 心還會被打成9.2</span><span class="push-ipdatetime"> 05/17 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">renu186667</span><span class="f3 push-content">: 李世光虧他還是應力所教授...真的是換個位置就換個腦</span><span class="push-ipdatetime"> 05/17 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justice2008</span><span class="f3 push-content">: 李世光也有老闆啊 你老闆說要這樣搞 你會拍拍屁股走</span><span class="push-ipdatetime"> 05/17 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justice2008</span><span class="f3 push-content">: 人 還是繼續拍馬屁XD</span><span class="push-ipdatetime"> 05/17 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 他根本是很弱的部長 目前是因為沒人要當才繼續頂著</span><span class="push-ipdatetime"> 05/17 15:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gogoyamaha</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/17 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">borissun</span><span class="f3 push-content">: 因為小英只想拿紙上談兵拼連任，拼歷史定位</span><span class="push-ipdatetime"> 05/17 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyprayer</span><span class="f3 push-content">: 推 台灣會落成今天這種地步 就是缺乏理性導致</span><span class="push-ipdatetime"> 05/17 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tonybin</span><span class="f3 push-content">: H大辛苦你了...</span><span class="push-ipdatetime"> 05/17 18:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyprayer</span><span class="f3 push-content">: 台灣身為民粹國家代表 自然無法理性面對數據</span><span class="push-ipdatetime"> 05/17 18:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">revorea</span><span class="f3 push-content">: 世道是民粹極左崛起，專業理性治國的失敗主義份子閃邊去</span><span class="push-ipdatetime"> 05/17 19:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">twpisces</span><span class="f3 push-content">: 這話題值得討論</span><span class="push-ipdatetime"> 05/17 22:38
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494994216.A.589.html?cacheKey=2052-41826858&offset=11579&offset-sig=290d7c31ab7248f51caf28e6a4f448439d9d210d" data-longpollurl="/v1/longpoll?id=cc80cb21e422ab1c8a7b27da00c9d79f2651a589" data-offset="11579"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

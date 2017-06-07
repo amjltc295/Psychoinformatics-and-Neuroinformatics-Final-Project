@@ -1,0 +1,168 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496733368.A.295.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 強制二段左轉誰權責？ 網友怒：只會推給 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合報 記者雷光涵╱即時報導
+2.完整新聞標題:
+強制二段左轉誰權責？ 網友怒：只會推給地方
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 強制二段左轉誰權責？ 網友怒：只會推給">
+<meta property="og:description" content="1.媒體來源:
+聯合報 記者雷光涵╱即時報導
+2.完整新聞標題:
+強制二段左轉誰權責？ 網友怒：只會推給地方
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496733368.A.295.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496733368.A.295.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">selina974 (二段式ａ鬼)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 強制二段左轉誰權責？ 網友怒：只會推給</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Jun  6 15:16:05 2017</span></div>
+1.媒體來源:
+聯合報 記者雷光涵╱即時報導
+
+2.完整新聞標題:
+強制二段左轉誰權責？ 網友怒：只會推給地方
+
+3.完整新聞內文:
+交通部回應，解除禁行慢車道及解除強制二段式左轉要回歸地方權責、因地制宜，在國發
+會平台提案的台灣機車路權促進會臉書粉專留言爆怒氣，認為中央推給地方政府，現行交
+通道路規範因地方涉入管理，道路規畫才會千奇百怪。
+參與提案的網友說，提案的重點在解除「強制」二段式左轉，不是廢止所有的二段式左轉
+，是否閱讀能力太差。他們主張的是，能來得及提前進入快車道的機車直接左轉，來不及
+兩段左轉。
+
+有人說，交通部要實施新的交通政策，只要三讀通過就可執行，無需地方政同意，如今要
+廢除不合時宜交通政策，還要地方政府同意，不知道那個政府單位比較大，到底誰說的算
+。
+
+網友聲援，又是中央推給地方，所以經過第一個縣市要全部兩段式，到了第二個縣市不用
+兩段式。
+
+4.完整新聞連結 (或短網址):
+<a href="https://udn.com/news/story/7266/2507079?utm_source=udnplus&amp;utm_medium=fb" target="_blank" rel="nofollow">https://udn.com/news/story/7266/2507079?utm_source=udnplus&amp;utm_medium=fb</a>
+<a href="https://goo.gl/we4f4M" target="_blank" rel="nofollow">https://goo.gl/we4f4M</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.233.117.1
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496733368.A.295.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496733368.A.295.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2712802</span><span class="f3 push-content">: 機車有夠煩人</span><span class="push-ipdatetime"> 06/06 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PPTAlex</span><span class="f3 push-content">: 我有四輪也有兩輪~兩段轉很好阿~安全又不用七天到家</span><span class="push-ipdatetime"> 06/06 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 獨步全球敢嘴?</span><span class="push-ipdatetime"> 06/06 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ssas1115577</span><span class="f3 push-content">: 你不會直接左轉幹嘛逼別人陪你兩段轉？</span><span class="push-ipdatetime"> 06/06 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">backid</span><span class="f3 push-content">: 好個鳥啦！直接左轉會七天到家的人還是別上路了y</span><span class="push-ipdatetime"> 06/06 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crossmyheart</span><span class="f3 push-content">: 騎機車的真的無敵煩 塑膠車都去填海啦</span><span class="push-ipdatetime"> 06/06 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mmmbop</span><span class="f3 push-content">: 騎機車的還不起來革命 真是一盤散沙</span><span class="push-ipdatetime"> 06/06 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PPTAlex</span><span class="f3 push-content">: 一堆3寶八加九~常常就這樣晚七天到</span><span class="push-ipdatetime"> 06/06 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptt80357</span><span class="f3 push-content">: 邏輯正確</span><span class="push-ipdatetime"> 06/06 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">robinsonXD</span><span class="f3 push-content">: 什麼都推地方，那乾脆連縣市也廢了好了</span><span class="push-ipdatetime"> 06/06 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">preisner</span><span class="f3 push-content">: 來不及的就會硬要切</span><span class="push-ipdatetime"> 06/06 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 很好丫 三寶和8+9早點消失 交通會更好</span><span class="push-ipdatetime"> 06/06 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 煩死了，大路口二段式本來就比較安全了</span><span class="push-ipdatetime"> 06/06 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 高雄式左轉誰負責?</span><span class="push-ipdatetime"> 06/06 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 直行追撞亂切的機車算誰的？</span><span class="push-ipdatetime"> 06/06 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">akuser</span><span class="f3 push-content">: 人人開車就沒有機車問題了</span><span class="push-ipdatetime"> 06/06 15:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lon925004</span><span class="f3 push-content">: 開放直接左轉 只會讓三寶現形</span><span class="push-ipdatetime"> 06/06 15:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xu3jo45p4</span><span class="f3 push-content">: 三寶現形很好啊，天擇</span><span class="push-ipdatetime"> 06/06 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aegisWIsL</span><span class="f3 push-content">: 不給直接左轉三寶依舊是三寶不會比較好</span><span class="push-ipdatetime"> 06/06 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ayenyayaya</span><span class="f3 push-content">: 開放直接左轉把三寶都撞死就剩會騎車的了</span><span class="push-ipdatetime"> 06/06 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">atiss</span><span class="f3 push-content">: 台灣就這麼丁點大，每個縣市規範不一樣是怎樣？</span><span class="push-ipdatetime"> 06/06 15:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">playerd</span><span class="f3 push-content">: 提早進入左轉道跟著車流和燈號走哪會不安全</span><span class="push-ipdatetime"> 06/06 16:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">winiS</span><span class="f3 push-content">: 撇太快怎會安全？</span><span class="push-ipdatetime"> 06/06 16:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yayaorz</span><span class="f3 push-content">: 這邊一堆四輪不會變換車道的，真危險</span><span class="push-ipdatetime"> 06/06 17:09
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496733368.A.295.html?cacheKey=2052-2762536&offset=3689&offset-sig=807e1ad24b45069d04f99d5a61ffe3aaf4b2051d" data-longpollurl="/v1/longpoll?id=36e5b53f455e86e9ae3414bf38af452615bbabbf" data-offset="3689"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,160 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496402446.A.8ED.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 2貨櫃進口液晶螢幕　夾藏大陸香菇 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+蘋果
+2.完整新聞標題:
+2貨櫃進口液晶螢幕　夾藏大陸香菇
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 2貨櫃進口液晶螢幕　夾藏大陸香菇">
+<meta property="og:description" content="1.媒體來源:
+蘋果
+2.完整新聞標題:
+2貨櫃進口液晶螢幕　夾藏大陸香菇
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496402446.A.8ED.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496402446.A.8ED.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">AsahiBeer (朝日啤酒)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 2貨櫃進口液晶螢幕　夾藏大陸香菇</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Fri Jun  2 19:20:43 2017</span></div>
+1.媒體來源:
+蘋果
+
+2.完整新聞標題:
+2貨櫃進口液晶螢幕　夾藏大陸香菇
+
+3.完整新聞內文:
+保3總隊第2大隊日前接獲密報，有一批從香港裝運出口的液晶面板，疑夾藏走私大陸香菇
+，保3會同關務署高雄關，昨日至基隆港查驗，因擔心損壞液晶面板，查緝人員不敢大意
+，保3總隊用高科技X光檢查儀及警犬執檢，發現影像異常，警犬也作出嗅到走私物品動作
+，查緝人員隨即開櫃，果然查獲大批夾藏香菇。
+查緝人員發現2只40呎貨櫃內，都有夾藏走私香菇，目前正清點中，詳細數量及價值，尚
+待清點後得知，保3總隊將依違反懲治走私條例、海關緝私條例依法予以偵辦，並擴大追
+查幕後走私集團。
+保3總隊長周幼偉表示，端午節前後，國內香菇等農產品需求量大增，私梟走私大陸廉價
+香菇進口，意圖販售圖謀暴利，造成國內香菇價格崩跌，嚴重打擊國內菇農生計，且未經
+檢疫，恐將嚴重危害民眾身體健康。(突發中心蔡進男／基隆報導)
+
+4.完整新聞連結 (或短網址):
+
+<a href="https://goo.gl/fCihwa" target="_blank" rel="nofollow">https://goo.gl/fCihwa</a>
+
+
+5.備註:
+
+曾幾何時液晶面板比香菇不值錢了.....
+
+
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.176.151.103
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496402446.A.8ED.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496402446.A.8ED.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Yude0109</span><span class="f3 push-content">: ^Q^</span><span class="push-ipdatetime"> 06/02 19:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YESGOTO</span><span class="f3 push-content">: 面板QQ</span><span class="push-ipdatetime"> 06/02 19:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">octobird</span><span class="f3 push-content">: 因為最近天氣潮濕，導致液晶螢幕長出香菇</span><span class="push-ipdatetime"> 06/02 19:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BF109Pilot</span><span class="f3 push-content">: 樓下藍獸</span><span class="push-ipdatetime"> 06/02 19:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joumay</span><span class="f3 push-content">: 菇農新突破 用液晶螢幕養出菇菇 超強的~~~</span><span class="push-ipdatetime"> 06/02 19:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">libraghost</span><span class="f3 push-content">: 現在還有菇農種香菇唷，我還以為都進口的嘞</span><span class="push-ipdatetime"> 06/02 19:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">will0620</span><span class="f3 push-content">: 受潮</span><span class="push-ipdatetime"> 06/02 19:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nagisaK</span><span class="f3 push-content">: 走私香菇有賺頭??</span><span class="push-ipdatetime"> 06/02 19:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 螢幕會被沒收拍賣嗎？</span><span class="push-ipdatetime"> 06/02 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">q76211635</span><span class="f3 push-content">: 香菇還比面板賺嗎?????</span><span class="push-ipdatetime"> 06/02 19:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shcjosh</span><span class="f3 push-content">: 以為是毒品迷幻菇，結果真的是香菇</span><span class="push-ipdatetime"> 06/02 19:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">strategy</span><span class="f3 push-content">: 進大陸便宜的包裝成台灣菇，當然有利潤</span><span class="push-ipdatetime"> 06/02 20:32
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496402446.A.8ED.html?cacheKey=2052-1322100&offset=2327&offset-sig=d350decf6be0160fe47f97b07863c6fb23d27ed2" data-longpollurl="/v1/longpoll?id=b4138b7f3c844b1566561ab0ceef02c46605f091" data-offset="2327"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,332 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495093713.A.7F6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 受歧視的聽障生(?)PO出對話記錄了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="鍵盤正義人士超級多
+外面大家眼睛看到的飲料店
+進去一定要的：煮茶+調飲料+接單子+騎車外送
+左膠和覺青整天只會慣老闆慣老闆的喊，根本不管實際情況
+反正點個飲料喊喊社會正義就是潮
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 受歧視的聽障生(?)PO出對話記錄了">
+<meta property="og:description" content="鍵盤正義人士超級多
+外面大家眼睛看到的飲料店
+進去一定要的：煮茶+調飲料+接單子+騎車外送
+左膠和覺青整天只會慣老闆慣老闆的喊，根本不管實際情況
+反正點個飲料喊喊社會正義就是潮
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495093713.A.7F6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495093713.A.7F6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">imsphzzz (大法師)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 受歧視的聽障生(?)PO出對話記錄了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 15:48:32 2017</span></div>
+<span class="f2">※ 引述《lpajoe (直諒多聞)》之銘言：
+</span><span class="f6">: 先附上連結
+</span><span class="f6">: <a href="https://goo.gl/FcdNc9" target="_blank" rel="nofollow">https://goo.gl/FcdNc9</a>
+</span><span class="f6">: 前幾天一直找記者爆料說，
+</span><span class="f6">: 自己受到就業歧視的聽障生，
+</span><span class="f6">: 今天貼出和店家老闆的對話紀錄了。
+</span><span class="f6">: 詳情大意如下：
+</span><span class="f6">: 盧生：布哥，我早上確認班表發現有個地方
+</span><span class="f6">: 0513我只能上晚班怎麼辦
+</span><span class="f6">: 盧生：我要照昨天教的流程找人代班嗎
+</span><span class="f6">: 盧生：另外我昨天沒有卡可以打(進站與離站都沒打)，
+</span><span class="f6">: 昨天臨走前帶我的淳禾說我會幫我處理，
+</span><span class="f6">: 大概是這樣(?
+</span><span class="f6">: 老闆：沒關係 晚點來再調整
+</span><span class="f6">: 卡今天拿給你 昨天忘了
+</span><span class="f6">: 盧生：好
+</span><span class="f6">: 老闆：Mike 昨天第一天還行嗎
+</span><span class="f6">: 盧生：昨天可以，覺得櫃檯站一個禮拜就能夠徹底的上手
+</span><span class="f6">: 也是淳禾很能以及很願意帶我
+</span><span class="f6">: 有抓到跟他相處共事的節奏哈哈
+</span><span class="f6">: 她昨天晚上回家時也有敲我說希望他這過程不會太兇
+</span><span class="f6">: 讓我嚇到或難過哈哈
+</span><span class="f6">: 會繼續加油der
+</span><span class="f6">: 老闆：學習過程會比較辛苦一些  加油
+</span><span class="f6">: 她人其實很好 呵呵
+</span><span class="f6">: 盧生：布哥我的班表調整好後跟我說喔~ 還是我今天六點到班你會在?
+</span><span class="f6">: 老闆：13號你可以上幾點
+</span><span class="f6">: 盧生：六點
+</span><span class="f6">: 老闆：好
+</span><span class="f6">: 盧生：好好奇再跟你確認，我們晚班下班的打卡是幾點
+</span><span class="f6">: (筆記
+</span><span class="f6">: 老闆：那就六點
+</span><span class="f6">: 盧生：好!
+</span><span class="f6">: 老闆：我們下班通常是2230
+</span><span class="f6">: 盧生：好~十點半，我記得了
+</span><span class="f6">: 老闆：但是我們有個原則 提早收完可以提早走 但是在兩個前提下
+</span><span class="f6">: 比如你們就2220收完 打卡打2220 但是薪水算到2230
+</span><span class="f6">: 盧生：(筆記
+</span><span class="f6">: 老闆：重點是第一 要收乾淨 工作要做完確實
+</span><span class="f6">: 不要隔天早班來看到一堆沒收好
+</span><span class="f6">: 第二 收完一起走 我不接受a員工收完自己的就先閃人
+</span><span class="f6">: 留給b員工自己慢慢收 ab一起離開
+</span><span class="f6">: 盧生：喔喔喔瞭解
+</span><span class="f6">: 老闆：因為我們是一個團隊要彼此幫忙
+</span><span class="f6">: 盧生：昨天是那個淳禾說我可以先走我才走的
+</span><span class="f6">: 老闆：了解 沒關係
+</span><span class="f6">: 盧生：像這樣情形應該可以吧
+</span><span class="f6">: 重點是要互相幫忙收是否哈哈
+</span><span class="f6">: 老闆：是
+</span><span class="f6">: 盧生：之後有問題再跟您請教
+</span><span class="f6">: 老闆：然後我感覺的出來 你想很快的學習上手 但是有時候不要操之過急
+</span><span class="f6">: 盧生：QWQ
+</span><span class="f6">: 豪
+</span><span class="f6">: 老闆：你放心 我們一定會給你足夠的時間
+</span><span class="f6">: 重點是教你的你都能夠吸收  內化
+</span><span class="f6">: 那就足夠了
+</span><span class="f6">: ---------(隔了一天，盧生已離職後)------------
+</span><span class="f6">: 盧生：對了老闆，可以把我從群組剔除，又或是等我還了那個衣服再踢也行
+</span><span class="f6">: 老闆：你可以自行退出 我不喜歡踢人 呵呵
+</span><span class="f6">: 盧生：老闆，我真的沒辦法勝任這個工作嗎?
+</span><span class="f6">: 我會努力做好也無法嗎?
+</span><span class="f6">: 老闆：真的   應該無法
+</span><span class="f6">: 盧生：大概有什麼原因可以給我這個整理嗎
+</span><span class="f6">: 作為初求職的新鮮人 想好好的再整理 因為真的有點唐突
+</span><span class="f6">: 是另有隱情或是不喜歡我之類的原因嗎
+</span><span class="f6">: 老闆：真的主要是跟客戶的溝通上有問題
+</span><span class="f6">: 盧生：那現場單的表現 我算克服了嗎
+</span><span class="f6">: 老闆：那個還好
+</span><span class="f6">: 盧生：所以主要真的是電話單的問題是否
+</span><span class="f6">: 老闆：對 現場單的今天我比較沒看到你怎麼應對 我不確定
+</span><span class="f6">: 盧生：老闆，我衣服可能暫時性的不會還你，
+</span><span class="f6">: 會被我列為證物，我會先跟法扶單位以及聽障人相關協會
+</span><span class="f6">: 甚至是勞動單位，在之後聯席召開記者會
+</span><span class="f6">: 老闆：你現在是什麼意思
+</span><span class="f6">: 盧生：記得你說你是學marketing的
+</span><span class="f6">: 想和你做個簡短的說明
+</span><span class="f6">: 然後在這裡跟你補充
+</span><span class="f6">: 我之前是在社會福利與衛生環境的立法委員那邊上班
+</span><span class="f6">: 說錯，是做法案助理的實習
+</span><span class="f6">: 你目前很明確的觸犯就業歧視與勞基法相關規範
+</span><span class="f6">: 包括沒有給合同的違反僱用，以及並沒有合理資遣
+</span><span class="f6">: 召開記者會對我而言並不難
+</span><span class="f6">: 你想清楚再我說辛苦你了這陣子
+</span><span class="f6">: 老闆：Mike 我們真的希望你可以一起工作
+</span><span class="f6">: 盧生：期限給你明天中午吧
+</span><span class="f6">: 老闆：可是你電話客人需求聽不到現場客戶需求也都有困難
+</span><span class="f6">: 盧生：你想清楚再和我說
+</span><span class="f6">: 老闆：請問你希望怎麼做
+</span><span class="f6">: 盧生：你們母公司是春水堂，剛跟企業界對話過，
+</span><span class="f6">: 他們不是也挺注重企業形象，召開記者會諸如此類，
+</span><span class="f6">: 都有可能動搖你的加盟權
+</span><span class="f6">: 我覺得看你怎麼說
+</span><span class="f6">: ------------------------------------
+</span><span class="f6">: 通篇看完，歧視什麼的根本不是重點
+</span><span class="f6">: 重點是
+</span><span class="f6">: 「老闆，為了你的加盟權，你打算付出什麼」
+</span><span class="f6">: 不用你，是歧視；
+</span><span class="f6">: 用了你，你不堪用，解僱你，是歧視。
+</span><span class="f6">: 先嗆聲的似乎不是老闆，而是盧生啊！
+</span><span class="f6">: 這樣他真的算是他口中的歧視嗎?
+</span><span class="f6">: 題外話：我跟老闆不認識，我只是因為在盧生的fb留了中立言論，
+</span><span class="f6">: 而被盧生封鎖了，所以來這問卦。
+</span>
+鍵盤正義人士超級多
+
+外面大家眼睛看到的飲料店
+
+進去一定要的：煮茶+調飲料+接單子+騎車外送
+
+左膠和覺青整天只會慣老闆慣老闆的喊，根本不管實際情況
+
+反正點個飲料喊喊社會正義就是潮
+
+反正飲料店打工仔都是他們奴
+
+科科
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.139.88.33
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495093713.A.7F6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495093713.A.7F6.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 為了你的加盟權，你打算付出什麼?</span><span class="push-ipdatetime">05/18 15:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hankdai</span><span class="f3 push-content">: 支持盧生 支持聽障 萬歲</span><span class="push-ipdatetime">05/18 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 為什麼覺青自己不開手搖飲料店只想開咖啡店</span><span class="push-ipdatetime">05/18 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 老闆面試是隨便面試的喔?</span><span class="push-ipdatetime">05/18 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Yuwuen</span><span class="f3 push-content">: 你可以去抗議健保給付阿</span><span class="push-ipdatetime">05/18 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rrr518</span><span class="f3 push-content">: 耶耶 所以全部的老闆都抓起來！</span><span class="push-ipdatetime">05/18 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 賣公平交易咖啡比較潮 賣社會正義奶茶比較弱嗎</span><span class="push-ipdatetime">05/18 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fengliyoung</span><span class="f3 push-content">: 這種飲料店外送至少都占三成了</span><span class="push-ipdatetime">05/18 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovekimbum</span><span class="f3 push-content">: 其實身障生還是覺得找公家 學校那種限定身障生身份的</span><span class="push-ipdatetime">05/18 15:50
+</span></div><span class="f2">※ 編輯: imsphzzz (101.139.88.33), 05/18/2017 15:52:36
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovekimbum</span><span class="f3 push-content">: 工讀比較好 還沒人搶</span><span class="push-ipdatetime"> 05/18 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Herricle</span><span class="f3 push-content">: 老闆讓他試看看  結果不行... 面試直接拒絕更快被告</span><span class="push-ipdatetime"> 05/18 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langrisser</span><span class="f3 push-content">: 你想清楚再跟我說</span><span class="push-ipdatetime"> 05/18 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 之前看加盟展好了啦超大杯不是只要五萬自備款嗎</span><span class="push-ipdatetime">05/18 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fengliyoung</span><span class="f3 push-content">: 咖啡店不用外送啊</span><span class="push-ipdatetime">05/18 15:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 你想清楚再告訴我，明天中午之前</span><span class="push-ipdatetime">05/18 15:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saisai34</span><span class="f3 push-content">: 老闆應該做合理分工如煮茶3人調飲料3人接單3人外送6人</span><span class="push-ipdatetime">05/18 15:51
+</span></div>
+我是老闆幹嘛不請一個會兩種以上技能的？
+科科 覺青飲料店
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">daniel3658</span><span class="f3 push-content">: 肢障人士應徵粗工表示可勝任 結果搬不動被開除也算74?</span><span class="push-ipdatetime">05/18 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">libraayu</span><span class="f3 push-content">: 然後一杯賣300嗎..</span><span class="push-ipdatetime">05/18 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 面試拒絕說要找接電話的就沒問題了 很難懂嗎 =_=</span><span class="push-ipdatetime">05/18 15:51
+</span></div>
+有飲料店只徵接電話的？我笑了
+還是你敢說，因為你有聽障所以不符合我們要的？想被告？
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saisai34</span><span class="f3 push-content">: 負責拿起電話喊人來接聽電話3人</span><span class="push-ipdatetime">05/18 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 所以覺青飲料店同時段會請12個人?</span><span class="push-ipdatetime">05/18 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 你沒做過吧 有的專門煮茶 有的專門櫃台接單 然後大家都要</span><span class="push-ipdatetime">05/18 15:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cesty</span><span class="f3 push-content">: 怎麼不會? 成本 那是啥?</span><span class="push-ipdatetime">05/18 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 會搖飲料</span><span class="push-ipdatetime">05/18 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saisai34</span><span class="f3 push-content">: 理想情況一間飲料店不含老闆至少需要18個員工</span><span class="push-ipdatetime">05/18 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hsnumax</span><span class="f3 push-content">: 粗工可以面試時測試啊...你沒看過清潔人員招考?</span><span class="push-ipdatetime">05/18 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rinatwo</span><span class="f3 push-content">: 我覺得合理的飲料店應該要有一百個員工</span><span class="push-ipdatetime">05/18 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 那可以有的專門不會煮茶接單不會搖只負責拿起電話叫人來接</span><span class="push-ipdatetime">05/18 15:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 嗎 正常聽覺人可以應徵這種缺嗎</span><span class="push-ipdatetime">05/18 15:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saisai34</span><span class="f3 push-content">: 樓上那個特別給身心障礙人士的缺</span><span class="push-ipdatetime">05/18 15:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 別爭 下次請一個專門搖飲料的大奶妹 大家說好鋪好</span><span class="push-ipdatetime">05/18 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">smalltwo</span><span class="f3 push-content">: 所以時薪是多少</span><span class="push-ipdatetime">05/18 15:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hankdai</span><span class="f3 push-content">: 豪～</span><span class="push-ipdatetime">05/18 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 原來要18個員工阿 所以三坪大含廚房請問碰到奶子怎麼辦阿</span><span class="push-ipdatetime">05/18 15:54
+</span></div><span class="f2">※ 編輯: imsphzzz (101.139.88.33), 05/18/2017 15:57:37
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 這樣去打個工被告性騷擾賺的都不夠賠阿</span><span class="push-ipdatetime">05/18 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 那全部請大奶妹就好啦</span><span class="push-ipdatetime">05/18 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">top1683</span><span class="f3 push-content">: 133</span><span class="push-ipdatetime">05/18 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 大奶妹會告大奶妹嗎?</span><span class="push-ipdatetime">05/18 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 不知道 告看看 有機會吧</span><span class="push-ipdatetime">05/18 15:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 我現在知道為啥我家附近的八方都請二度就業婦女或外配</span><span class="push-ipdatetime">05/18 15:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 呃 1個煮茶+外送 1個櫃台+電話（支援搖飲料）  1個搖飲</span><span class="push-ipdatetime">05/18 15:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 料 就夠了</span><span class="push-ipdatetime">05/18 15:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 3個就夠了 一堆沒做過飲料店在那邊嘴</span><span class="push-ipdatetime">05/18 15:58
+</span></div>
+飲料店有專職一項的？
+你才沒做過吧？
+至少都嘛要會兩種技能以上
+而且店員的替換率那麼高，我是沒看過專職接電話的啦
+我只看過專職外送的(菜鳥)
+你去的飲料店可能不一樣
+<span class="f2">※ 編輯: imsphzzz (101.139.88.33), 05/18/2017 16:02:21
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 尖峰加到5個 忙但是夠</span><span class="push-ipdatetime"> 05/18 15:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fengliyoung</span><span class="f3 push-content">: 我在大學旁邊打工最多也才5人 多大間啊要18人</span><span class="push-ipdatetime"> 05/18 15:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 覺青開飲料店應該三天就倒惹</span><span class="push-ipdatetime"> 05/18 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ggloser</span><span class="f3 push-content">: 你去小7應徵說你只會收銀行嗎？</span><span class="push-ipdatetime"> 05/18 15:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 我也覺得應該多多請二度就業跟外配 比較不認識什麼立委</span><span class="push-ipdatetime"> 05/18 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: 很多店裡下午根本只有兩個人 外送多的甚至只剩一個都有</span><span class="push-ipdatetime"> 05/18 16:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: s開頭鄉民 開店一定倒 XD 你這樣人力成本要佔幾成阿?</span><span class="push-ipdatetime"> 05/18 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">imsphzzz</span><span class="f3 push-content">: 覺青是不是都活在平行世界？</span><span class="push-ipdatetime"> 05/18 16:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 煮茶+外送? 我怎麼記得綠茶7分鐘要起鍋? 是要送對面?</span><span class="push-ipdatetime"> 05/18 16:04
+</span></div><span class="f2">※ 編輯: imsphzzz (101.139.88.33), 05/18/2017 16:07:08
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">abaush</span><span class="f3 push-content">: 以該生專業，說不定不給面試一樣被吉...</span><span class="push-ipdatetime"> 05/18 16:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 真的 請二度就業才好用 媽媽為了小孩生活費 做得服服貼</span><span class="push-ipdatetime"> 05/18 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill79925</span><span class="f3 push-content">: 貼的 也不會抱怨 找記者找立委</span><span class="push-ipdatetime"> 05/18 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">f124</span><span class="f3 push-content">: 覺醒都在家裡靠父母養的 什麼都用腦去補完就夠摟</span><span class="push-ipdatetime"> 05/18 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 講詳細一點 總共5個 2人煮茶+外送 3人搖+櫃台+電話+外送</span><span class="push-ipdatetime"> 05/18 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">siyaoran</span><span class="f3 push-content">: 結論:面試都不會 這老闆也太廢</span><span class="push-ipdatetime"> 05/18 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 這樣分配還聽不懂的我也沒辦法</span><span class="push-ipdatetime"> 05/18 16:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 覺青都超愛理論，難怪在那性壓迫說這是性解放</span><span class="push-ipdatetime"> 05/18 16:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 真的喔 搭配一例一休 請問請幾個呢</span><span class="push-ipdatetime"> 05/18 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 煮茶的茶葉下去就可以出去外送 起鍋又不是只有煮茶的會</span><span class="push-ipdatetime"> 05/18 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 還是5個都上30天?</span><span class="push-ipdatetime"> 05/18 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 阿煮茶的可以搭配外送 其他站櫃檯的不能接訂單 不能搖飲料</span><span class="push-ipdatetime"> 05/18 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 性壓迫性解放跟著有什麼關係我也不了 但你87%不懂性解放</span><span class="push-ipdatetime"> 05/18 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 是什麼意思</span><span class="push-ipdatetime"> 05/18 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 卻要專門開缺給一個不能聽電話 專門煮茶的?</span><span class="push-ipdatetime"> 05/18 16:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sixf0ld</span><span class="f3 push-content">: 櫃台的3個人都不能接單不能搖？ 你在講啥？</span><span class="push-ipdatetime"> 05/18 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">siyaoran</span><span class="f3 push-content">: 開店最貴的不是人力是店租... 不過只敢吭軟柿子員工</span><span class="push-ipdatetime"> 05/18 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: 講白話一點他到底會做什麼? 看起來只能接單還未必接的好</span><span class="push-ipdatetime"> 05/18 16:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">imsphzzz</span><span class="f3 push-content">: 樓上你歧視喔</span><span class="push-ipdatetime"> 05/18 16:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">birdy590</span><span class="f3 push-content">: 所以我才恭喜他把未來聽障生在這一塊的就業機會殺光了</span><span class="push-ipdatetime"> 05/18 16:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BENCH5566</span><span class="f3 push-content">: 講得好像你知道實際情況似的 你老闆？</span><span class="push-ipdatetime"> 05/18 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leo6315</span><span class="f3 push-content">: 我要說是老闆絕對不會請聽障生 嚇都嚇死了 這麼多學店奴</span><span class="push-ipdatetime"> 05/18 16:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leo6315</span><span class="f3 push-content">: 工可以用 這種垃圾覺青真的活該被開除</span><span class="push-ipdatetime"> 05/18 16:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s605171995</span><span class="f3 push-content">: 沒有專職的，除了煮茶其他三個月內都要會</span><span class="push-ipdatetime"> 05/18 16:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s605171995</span><span class="f3 push-content">: 只是一個時段只會負責一個崗位</span><span class="push-ipdatetime"> 05/18 16:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 學店才會奴，那位聽障生是成大的喔～你認知錯了</span><span class="push-ipdatetime"> 05/18 16:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 覺青不是很會87%說要18位～理論定義很講，做得就87%不像</span><span class="push-ipdatetime"> 05/18 16:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ivoice</span><span class="f3 push-content">: 是台大 職能治療</span><span class="push-ipdatetime"> 05/18 16:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495093713.A.7F6.html?cacheKey=2052-40089791&offset=12453&offset-sig=b7e82508085e12fb4befcfa5b37fa732c9394c7f" data-longpollurl="/v1/longpoll?id=360c22237005ccb85fae1490f7133c1779c08b1f" data-offset="12453"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,231 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495449854.A.D22.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [問卦] 中國在哪些領域領先台灣了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="就目前來看，
+國民黨:只想盡可能的能撈就撈，不可能想這麼遠。事實上，他們連一個盡職的買辦或帶路黨都做不好，只能當豬隊友或撤後腿的。
+民進黨: 整體想法還停留在地方諸侯的思維，所以它的戰略思維最高也只在如何取得與維護執政權。
+要它們提高到國家的高度去思考台灣在國際中的長久跟全球戰略根本沒那個腦。
+這就是為什麼你感受不到現在這個政府到底要把台灣帶到那?因為連它自己也不知道!!
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [問卦] 中國在哪些領域領先台灣了">
+<meta property="og:description" content="就目前來看，
+國民黨:只想盡可能的能撈就撈，不可能想這麼遠。事實上，他們連一個盡職的買辦或帶路黨都做不好，只能當豬隊友或撤後腿的。
+民進黨: 整體想法還停留在地方諸侯的思維，所以它的戰略思維最高也只在如何取得與維護執政權。
+要它們提高到國家的高度去思考台灣在國際中的長久跟全球戰略根本沒那個腦。
+這就是為什麼你感受不到現在這個政府到底要把台灣帶到那?因為連它自己也不知道!!
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495449854.A.D22.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495449854.A.D22.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">angell543 (公民很忙)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] 中國在哪些領域領先台灣了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon May 22 18:44:06 2017</span></div>
+<span class="f2">※ 引述《chenglap (無想流流星拳)》之銘言：
+</span><span class="f6">: ※ 引述《Townshend (the WHO)》之銘言：
+</span><span class="f6">: : 雖然中國是敵對中的國家
+</span><span class="f6">: : 不過平心而論
+</span><span class="f6">: : 中國在某些科技領域已經海放台灣國了
+</span><span class="f6">: : 航太--中國好像已經能送人上太空了
+</span><span class="f6">: : 核彈--中國幾十年前就能研發氫彈了
+</span><span class="f6">: : 汽車工業--聽說BYD的車主遇到開納智捷的人都會好心的問要幫忙拖車嗎
+</span><span class="f6">: : 飛機工業--雖然不確定會不會掉下來 不過能做出飛機已經贏台灣了
+</span><span class="f6">: : 還有哪些呢？
+</span><span class="f6">: : 感覺台灣停滯不前很久了 在這些項目還有機會追上中國嗎？
+</span><span class="f6">: 是「大戰略」.
+</span><span class="f6">: 中共有過萬個不好或落後的地方, 但是有一點是無可質疑地比臺灣好的, 就
+</span><span class="f6">: 是戰略. 當初這個國家建立, 就是因為在戰略上比國民黨勝一籌. 雖說共產
+</span><span class="f6">: 黨是有蘇聯的援助, 但一開始比國民黨人數少和弱是事實, 透過遊擊戰, 間
+</span><span class="f6">: 諜滲透, 收買, 以及各種以弱擊強的戰略, 共產黨卻擊敗了國民黨, 是因為
+</span><span class="f6">: 戰略上比較優勝, 這點跑不了.
+</span><span class="f6">: 這是早在 1949 年這兩岸形勢確立時, 就已經是比臺灣強的東西. 而在大部
+</span><span class="f6">: 份時間下, 中共的戰略都是頗為優秀的, 不要忘了的是, 雖然共產黨擊敗了
+</span><span class="f6">: 國民黨, 但得回的是一個不論經濟與心靈都經歷過大規模破壞的殘破落後國
+</span><span class="f6">: 家, 而且很快就夾在了冷戰美蘇兩強對抗的形勢下.
+</span><span class="f6">: 就像今天臺灣夾著中美兩國之間一樣, 那並不是一種很輕易的形勢. 在初期
+</span><span class="f6">: 征服收編了大量前國民黨的部隊和人員, 他們其實並不穩定, 很可能是見風
+</span><span class="f6">: 駛舵的倒回去, 政權建立得快崩潰也可以很快. 在外交上中共還未是聯合國
+</span><span class="f6">: 的成員, 海外華人幾乎都是親國民黨的, 他們的權力是相當不穩的. 再加上
+</span><span class="f6">: 共產黨內部的鬥爭, 錯誤的經濟方式, 導致的各種內部問題, 可說是內外交
+</span><span class="f6">: 烈的狀態.
+</span><span class="f6">: 面對這麼惡劣的情況, 中共能夠經過, 跟他們的戰略理性很有關係.
+</span><span class="f6">: 從韓戰, 去到越戰, 去到珍寶島衝突, 改投美國陣營, 取得原子彈技術牽制
+</span><span class="f6">: 蘇聯, 取代中華民國奪得聯合國常任理事國的位子, 而且偷偷的把香港和澳
+</span><span class="f6">: 門從殖民地名單剔除, 最後再取得香港, 利用香港取得資本去改革開放. 而
+</span><span class="f6">: 且雖然網絡上常常說「惹毛共產黨會怎樣怎樣」, 實際上你要看歷史的話,
+</span><span class="f6">: 他們在戰略上幾乎沒有意氣用事的動作.
+</span><span class="f6">: 例如六七暴動時, 那些滲透在香港的左派工會想要中國立即吞拼香港, 他們
+</span><span class="f6">: 並沒有這樣做. 幾場對外軍事衝突雖然是失去領土, 經常自行撤兵, 但幾乎
+</span><span class="f6">: 都穩定了國內的形勢. 多數都是做做樣子, 做出政治效果後不胡亂投入. 完
+</span><span class="f6">: 全實現了克勞維爾「戰爭論」裡講「軍事是政治的延伸」, 讓軍事為政治服
+</span><span class="f6">: 務而不會沉溺戰爭. 在六四時很多人都以為會和美國的關係冷卻, 但實際上
+</span><span class="f6">: 根本沒有破裂, 反而有效利用了美國的市場引致了經濟榮景. 透過鐵腕鎮壓
+</span><span class="f6">: 新疆, 取得干涉中亞以及穆斯林事務的入場券, 牽制俄羅斯, 例如在八十年
+</span><span class="f6">: 代的蘇聯入侵阿富汗中, 就提供大量武器給塔利班, 成功的把蘇聯拖入泥沼
+</span><span class="f6">: , 並在重建中扮演重要角色.
+</span><span class="f6">: 你可以看到, 中國在戰略上是以全球格局宏觀, 非常計算和理性的, 而即使
+</span><span class="f6">: 跌跌撞撞, 你不能否認他總是不斷的取得更好的位置. 而且也良好地配合自
+</span><span class="f6">: 身的經濟發展, 並經常以國際政治的獲益, 去安撫國內政治的傷害.
+</span><span class="f6">: 相對而言, 臺灣, 不論你是否喜歡國民黨也好, 不能否認, 很多知識和觀念
+</span><span class="f6">: 既然是從當年戰敗的國民黨繼承下來, 臺灣在戰略上整體的觀念和格局, 都
+</span><span class="f6">: 不及中國, 是否有長遠和全球的佈局? 真的是問號, 從結果上也看不出來.
+</span><span class="f6">: 在討論時也常有孤立傾向, 就是不願意把臺灣放在全球格局, 以及對其他國
+</span><span class="f6">: 家的戰略價值, 怎樣的合縱連橫, 或者怎樣牽制主要的敵人, 這些似乎沒有
+</span><span class="f6">: 被臺灣當成重點, 而且很多消極的東西. 臺灣總體來說戰略上很被動而且狹
+</span><span class="f6">: 窄.
+</span><span class="f6">: 投降主義的就不說了, 但例如說, 臺灣守株待兔真的等到了中國變弱, 之後
+</span><span class="f6">: 要怎樣做去確保自己的優勢呢? 哪天突然中共崩潰了, 臺灣要怎樣做呢? 好
+</span><span class="f6">: 像真的沒見過這樣的討論, 感覺好像大魔王被擊倒了, 大家鬆一口氣, 然後
+</span><span class="f6">: 就解甲歸田不問世事的感覺, 而沒有去計劃在之後的形勢臺灣要怎樣獲得更
+</span><span class="f6">: 大的利益. 或者長期維持自己的安全, 例如英國有大陸平衡政策, 保持歐洲
+</span><span class="f6">: 不會出現能威脅自己的強權, 但臺灣這方面好像真的是一片白紙, 連民間的
+</span><span class="f6">: 討論都不多見.
+</span><span class="f6">: 這樣, 真的機會到達時, 只怕臺灣也是抓不住居多吧? 一個有利臺灣千年存
+</span><span class="f6">: 在繁達的國際權力架構和框架是怎樣的? 中國可能崩潰, 美國可能衰落, 但
+</span><span class="f6">: 不等於臺灣就能以此得利, 一旦沒有了美國的保護和貿易秩序, 臺灣要怎樣
+</span><span class="f6">: 自處? 這些好像也沒甚麼人在認真的討論.
+</span><span class="f6">: 在這點上, 臺灣似乎是一直都沒打算追上去. 這點是一直都及不上中國的,
+</span><span class="f6">: 而中國的各項經濟, 科技上的領先, 都是建立在他們大戰略的合理和遠見上
+</span><span class="f6">: , 在這麼龐大的憤青傻瓜的底下, 中國的最深入處, 卻藏了一枚很理性的腦
+</span><span class="f6">: 袋. 臺灣是否有? 不知道, 未來是否會有? 不知道.
+</span>
+
+
+就目前來看，
+
+國民黨:只想盡可能的能撈就撈，不可能想這麼遠。事實上，他們連一個盡職的買辦或帶路黨都做不好，只能當豬隊友或撤後腿的。
+
+
+
+民進黨: 整體想法還停留在地方諸侯的思維，所以它的戰略思維最高也只在如何取得與維護執政權。
+要它們提高到國家的高度去思考台灣在國際中的長久跟全球戰略根本沒那個腦。
+
+這就是為什麼你感受不到現在這個政府到底要把台灣帶到那?因為連它自己也不知道!!
+它會的只有南部執政縣市(辛福城市)的那一套罷了。我幾乎可以預測未來只會越來越南部化了(低薪，勞動條件差，年輕人外移)。
+
+
+
+目前檯面上有比較長遠想法的恐怕只有台北市那個狂人市長了，事實上，當一個市長在想
+
+“50年後我們要留一個怎麼樣的台北市給子孫?”
+
+就已經在以天龍國的角度去思考天龍國的長遠戰略了。不論從財政或接納新事物的方面來看都有比較長遠的規劃。
+
+
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.161.199
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495449854.A.D22.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495449854.A.D22.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XYZ669538</span><span class="f3 push-content">: 優質文</span><span class="push-ipdatetime"> 05/22 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sony2008</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a2603</span><span class="f3 push-content">: 樓下科黑9.2</span><span class="push-ipdatetime"> 05/22 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wab56789</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 18:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zmimoboy</span><span class="f3 push-content">: 沒錯!!!他不一定做得好 但他想的是更未來</span><span class="push-ipdatetime"> 05/22 18:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Forthelife</span><span class="f3 push-content">: 結果有規劃的是一個意外的普通阿伯</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ra9999</span><span class="f3 push-content">: 哥不管怎麼看，中國唯一最強的技能，一定是點到滿等的貪腐</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ra9999</span><span class="f3 push-content">: ，海放全世界，某中國人還直播，百姓就是被黨卷養的豬，</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ra9999</span><span class="f3 push-content">: 雖然臺灣也沒多好就是了</span><span class="push-ipdatetime"> 05/22 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 看怎麼花錢就知道了啊 藍綠餓很久了</span><span class="push-ipdatetime"> 05/22 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">victoryman</span><span class="f3 push-content">: 推 真分析</span><span class="push-ipdatetime"> 05/22 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abram</span><span class="f3 push-content">:  Everything</span><span class="push-ipdatetime"> 05/22 19:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heci1941</span><span class="f3 push-content">: 柯p！柯p！柯p！</span><span class="push-ipdatetime"> 05/22 19:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deony</span><span class="f3 push-content">: 只有柯p能超越柯p，其餘藍綠廢物可以滾去死惹</span><span class="push-ipdatetime"> 05/22 19:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uuuu120</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">avans</span><span class="f3 push-content">: 可惜柯P勢力單薄，要結夥就要放棄理念，但選他就是因為理念</span><span class="push-ipdatetime"> 05/22 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay0108</span><span class="f3 push-content">: 藍綠容不下柯p這種人啦，沒看選舉快到被修理成這樣</span><span class="push-ipdatetime"> 05/22 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aptiva</span><span class="f3 push-content">: 推 唯一支持柯p</span><span class="push-ipdatetime"> 05/22 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aptiva</span><span class="f3 push-content">: 柯p 加油！！</span><span class="push-ipdatetime"> 05/22 20:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aptiva</span><span class="f3 push-content">: 垃圾不分藍綠</span><span class="push-ipdatetime"> 05/22 20:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tuna0214</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 05/22 20:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">codehard</span><span class="f3 push-content">: 柯黑會來噓 幫推</span><span class="push-ipdatetime"> 05/22 20:52
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495449854.A.D22.html?cacheKey=2052-36742243&offset=7096&offset-sig=09bbcf640644fb49883d7249f717326fc0a1c7de" data-longpollurl="/v1/longpoll?id=95a271909f5754f53529f5b11892bfc7d756d866" data-offset="7096"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

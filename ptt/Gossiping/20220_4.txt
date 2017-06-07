@@ -1,0 +1,242 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495067914.A.1A4.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 斐濟突撤館 立委質疑是中國給台灣難看 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+自由時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 斐濟突撤館 立委質疑是中國給台灣難看">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+自由時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495067914.A.1A4.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495067914.A.1A4.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">a828203 (催化劑)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 斐濟突撤館 立委質疑是中國給台灣難看</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu May 18 08:38:31 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+自由時報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+斐濟突撤館 立委質疑是中國給台灣難看
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+2017-05-18
+
+外交部：不會撤駐斐處 持續實質交流
+
+〔記者呂伊萱、楊淳卉、鍾麗華／台北報導〕斐濟駐華貿易暨觀光代表處上週突撤離台灣
+，外交部次長吳志中昨表示，我國與斐濟關係良好，斐濟撤館是因經濟因素考量不得不的
+決定，「我們也很遺憾」。
+
+至於我方的因應及後續作為，外交部表示，不會撤我駐斐濟代表處，外館仍維持正常運作
+，持續實質交流。
+
+立委認為與奈及利亞案些許雷同
+
+民進黨立委羅致政與王定宇分析指出，今年初曾爆出中國操弄我國與奈及利亞關係，迫台
+灣駐奈代表處遷出首都並更名。而我駐斐單位名稱為中華民國駐斐濟商務代表團，與奈及
+利亞皆是台灣少數非邦交國卻能使用「中華民國」國號的代表處，兩案有些許雷同之處。
+但羅也指出，與中國在奈案大做文章相比，斐濟撤處一案雖然時機敏感，但觀察中國反應
+，政治因素應較小。
+
+王定宇則建議政府要確認背後有無中國因素，並適時讓國人了解台灣處境，不須粉飾太平
+。
+
+外交部稱斐濟基於經濟考量撤館
+
+國民黨立委盧秀燕在立法院外交及國防委員會質詢時驚爆，斐濟駐華貿易暨觀光代表處已
+於上週三突然撤館離台；吳志中答詢時證實此事，強調事前都有掌握相關資訊，但斐濟地
+緣政治和經濟考量非我方可著墨，尊重斐濟政府不得不的決定，外交部「也很遺憾」。
+
+外交部指出，斐濟駐台代表鄔凱瑞接獲政府訓令表示將裁撤該處，告知我外交部並說明稱
+，撤館是斐濟政府通盤檢視其派駐全球館處後所做成的決定。
+
+盧秀燕詢問，為何斐濟撤館時是由斐濟駐中國使館人員來台清點？吳志中回應，斐濟首都
+派人來台，而斐濟與中國有邦交，撤館由附近使館人員協助是正常作業程序。
+
+中國近日舉辦一帶一路高峰論壇，中國「新華社」報導稱斐濟總理姆拜尼馬拉馬會見中國
+國家主席習近平時，斐方堅持一中政策，希望和中國共同深化合作。盧秀燕質疑斐濟撤館
+是中國「要給台灣難看」。
+
+對於這是否中國打壓台灣外交的警訊？總統府發言人林鶴明說，長期以來，中國一直在國
+際打壓台灣，但就府方了解，斐濟是針對各國駐館調整。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+<a href="http://news.ltn.com.tw/news/focus/paper/1103212" target="_blank" rel="nofollow">http://news.ltn.com.tw/news/focus/paper/1103212</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+斐濟小檔案
+
+斐濟共和國（斐濟語：Fiji，英語：Fiji）為位於南太平洋，萬那杜以東、東加以西、吐
+瓦魯以南的群島國家，由330個島嶼組成（一半為無人島，而維提島和瓦努阿島兩個主要
+島嶼的人口佔全國的87%）。國家名稱是源自東加文中的「島嶼」，並且轉為斐濟文中的
+「Viti」。
+
+歷史
+
+早在17世紀，便有東南亞裔人士抵達斐濟定居，比歐洲的探險家要早一些。
+
+1643年，荷蘭探險家阿貝爾·塔斯曼抵達斐濟，是首位踏足此地的歐洲人。
+
+1871年，斐濟王國成立，這是首個統一斐濟群島的政權。
+
+1874年，英國吞併斐濟，成立斐濟殖民地。
+
+斐濟於1970年從英國獨立，1987年發生了兩起軍事政變，第一次是有人不滿政府由當地的
+印度裔壟斷，第二次是要求廢除君主立憲，實施共和制，以總統取代總督，其國家名稱也
+從當時的「斐濟自治領」改為「斐濟共和國」。1990年改名「斐濟主權民主共和國」。
+
+1998年再改為「斐濟群島共和國」。
+
+2006年5月6日，議會選舉舉行。5月18日，選舉委員會確認，在眾議院的71個議席中，團
+結的斐濟黨獲得36個席位，斐濟工黨得到31個議席，聯合人民黨獲得兩個議席，其餘兩個
+議席為獨立競選人獲得。團結的斐濟黨領導人萊塞尼亞·恩加拉塞宣誓就職總理。
+
+2006年12月5日，斐濟武裝部隊司令弗蘭克·姆拜尼馬拉馬稱，軍方已完全接管政府並控
+制了全國，解除總理恩加拉塞的職務，他本人暫時代行總統職務。12月6日，過渡政府
+總理喬納·塞尼蘭加卡利宣誓就職。2007年1月4日，姆拜尼馬拉馬宣布將總統職務交
+還給約瑟法·伊洛伊洛。1月5日，姆拜尼馬拉馬宣誓就任過渡政府總理。
+
+2011年，恢復原國號「斐濟共和國」。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.167.134.149
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495067914.A.1A4.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495067914.A.1A4.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SupCat</span><span class="f3 push-content">: 這還需要質疑？</span><span class="push-ipdatetime"> 05/18 08:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GonVolcano</span><span class="f3 push-content">: 少來，是給中華民國難看好嗎</span><span class="push-ipdatetime"> 05/18 08:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JamesGO</span><span class="f3 push-content">: 不管好看難看，國力弱就是看人臉色。</span><span class="push-ipdatetime"> 05/18 08:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hellogym</span><span class="f3 push-content">: 廢話 不然咧 人家就是要給你難看 你能怎樣</span><span class="push-ipdatetime"> 05/18 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nixon</span><span class="f3 push-content">: 那經濟因素撤館就不關中國的事囉</span><span class="push-ipdatetime"> 05/18 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dayaju</span><span class="f3 push-content">: 就是給你難堪啊 不然呢 自由</span><span class="push-ipdatetime"> 05/18 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 難看? 無感</span><span class="push-ipdatetime"> 05/18 08:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daniel3658</span><span class="f3 push-content">: 肥宅：沒差 我只要改個名字 班上正妹都會跟我當朋友ww</span><span class="push-ipdatetime"> 05/18 08:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">het97306</span><span class="f3 push-content">: 有差嗎？中國幾時給台灣好看了！！</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">EXIONG</span><span class="f3 push-content">: 一個吞下去的概念</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vaiking0120</span><span class="f3 push-content">: 就是要逼台灣人吞下一個中國</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy199113</span><span class="f3 push-content">: 民進黨爛 蔡英文下台</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aben15</span><span class="f3 push-content">: 楚門最想去的地方</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vaiking0120</span><span class="f3 push-content">: 跟中國政府和中國人講啦 寧可死也不吞</span><span class="push-ipdatetime"> 05/18 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">daniel3658</span><span class="f3 push-content">: 小英：中華台北沒矮化、拜託讓我們進WHA(大口吞)</span><span class="push-ipdatetime"> 05/18 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fzrpower</span><span class="f3 push-content">: 然後呢 ? 全世界早都知道現在中國不給台灣好臉色了</span><span class="push-ipdatetime"> 05/18 08:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coollfd</span><span class="f3 push-content">: 蔡英狗一粒一休害的啦</span><span class="push-ipdatetime"> 05/18 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EX37</span><span class="f3 push-content">: 無感</span><span class="push-ipdatetime"> 05/18 08:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hihjktw</span><span class="f3 push-content">: 質疑屁啦。根本就是</span><span class="push-ipdatetime"> 05/18 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wailman</span><span class="f3 push-content">: 很多政策要改就堅持下去吧，不要左轉右轉後回到原來的路</span><span class="push-ipdatetime"> 05/18 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wailman</span><span class="f3 push-content">: ，又造成傷害，那真的很瞎。</span><span class="push-ipdatetime"> 05/18 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">machiusheng</span><span class="f3 push-content">: 又是一袋一鹿</span><span class="push-ipdatetime"> 05/18 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yrhhimamr</span><span class="f3 push-content">: 反正那小國也沒對台灣有什麼大投資</span><span class="push-ipdatetime"> 05/18 08:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">u304027</span><span class="f3 push-content">: 不用自己貼金了，本來就跟我們沒有邦交，沒用就撤了</span><span class="push-ipdatetime"> 05/18 08:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gn1384181</span><span class="f3 push-content">: 被害妄想症?</span><span class="push-ipdatetime"> 05/18 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">slashlin</span><span class="f3 push-content">: kmt立委不意外  故意扯後腿公開這種小事</span><span class="push-ipdatetime"> 05/18 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gtcb</span><span class="f3 push-content">: 斐濟堅持一個中國,台灣還跟他們維持關係？</span><span class="push-ipdatetime"> 05/18 09:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mklistwso</span><span class="f3 push-content">: 撤中華民國就是支持台灣國，中國有夠蠢的，演給中國看</span><span class="push-ipdatetime"> 05/18 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mklistwso</span><span class="f3 push-content">: 讓牠們嗨一下。</span><span class="push-ipdatetime"> 05/18 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stvn2567</span><span class="f3 push-content">: 外交休克</span><span class="push-ipdatetime"> 05/18 12:59
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495067914.A.1A4.html?cacheKey=2052-49336373&offset=6763&offset-sig=fc844f8ccf23a69385bd7e43d7e6013fdc727917" data-longpollurl="/v1/longpoll?id=3c1aab2a99ba3f232ac47eaa9dd563e479189eba" data-offset="6763"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

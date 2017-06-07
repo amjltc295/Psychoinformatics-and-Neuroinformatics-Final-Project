@@ -1,0 +1,180 @@
+https://www.ptt.cc/bbs/Gossiping/M.1494914771.A.32E.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 「猝睡症」作祟 女大生差點以為自己... - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+   聯合新聞網
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:
+   「猝睡症」作祟 女大生差點以為自己通了靈
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 「猝睡症」作祟 女大生差點以為自己...">
+<meta property="og:description" content="1.媒體來源:
+   聯合新聞網
+※ 例如蘋果日報、奇摩新聞
+2.完整新聞標題:
+   「猝睡症」作祟 女大生差點以為自己通了靈
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1494914771.A.32E.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1494914771.A.32E.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">alba51241 (力卜工一)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 「猝睡症」作祟 女大生差點以為自己...</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 16 14:06:08 2017</span></div>
+1.媒體來源:
+   聯合新聞網
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+
+2.完整新聞標題:
+   「猝睡症」作祟 女大生差點以為自己通了靈
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+
+3.完整新聞內文:
+   台中有名楊姓女大生從國中開始就有白天精神不繼、晚上卻睡不著的症狀，後來發現自己
+晚上常發生鬼壓床，半夢半醒間也常聽見去世親友的叮嚀，情緒激動時還會突然無力倒地
+，就醫多次但症狀都未見改善，家人都以為她撞邪，帶她到廟宇請師傅協助卻都沒用，直
+到醫院檢查才發現，原來是「猝睡症」作怪。
+
+光田綜合醫院睡眠醫學中心主任楊鈞百解釋，「猝睡症」為一種較少見、白天過度嗜睡的
+神經疾病，主要原因是中樞神經對睡眠和清醒的控制有問題，常伴隨下視丘一種重要的神
+經傳導物質稱作食慾素或叫下視丘分泌素低下，主要症狀包含白天過度嗜睡，無力猝倒，
+睡眠麻痺俗稱鬼壓床，以及將睡前或將醒前幻覺。
+
+楊鈞百指出，白天嗜睡通常是猝睡症最先出現的症狀，病人常常在不適當的時候突然睡著
+，如吃飯、走路或開車中，可是儘管白天過度嗜睡，夜間卻常睡不好，尤其患者比一般人
+容易出現睡眠麻痺症狀，這是發生在剛入睡時或剛醒來時，意識已清醒但無法控制全身肌
+肉而無力的現象，俗稱「鬼壓床」。
+
+在症狀發生時，也常伴隨將睡前或將醒前的幻覺，包括奇怪的影像或聲音，甚至觸覺、移
+動的感覺，常常使病患感到害怕，也易被誤認為幻覺或妄想等精神疾病。 楊鈞百表示，
+除了睡眠問題以外，突然短暫喪失肌肉力量的猝倒是猝睡症最特別且最重要的症狀，常在
+白天嗜睡現象後出現，發作時間僅短暫幾秒鐘到幾分鐘都有可能，發作過程病人是清醒的
+且通常很快就能完全恢復，有時患者會在猝倒後睡著，被誤會是癲癇發作。
+
+猝倒程度有輕微像頭垂、臉鬆、下巴墜、口齒不清等，也可能嚴重到身體完全無力跌倒，
+通常在強烈的情緒變化如大笑、忿怒、或受到驚嚇時引發。
+
+楊鈞百提醒，猝睡症如果沒有被察覺並加以適當處理會嚴重影響正常生活，但若藉由正確
+的藥物和心理治療，除了晚間睡眠充足外，並安排每天3、4次白天小睡10至20分鐘，維持
+情緒不要劇烈波動以避免誘發症狀產生，幾乎都可以正常生活，在學習與工作上有不錯的
+表現。
+
+
+
+4.完整新聞連結 (或短網址):
+   <a href="https://udn.com/news/story/7266/2465801" target="_blank" rel="nofollow">https://udn.com/news/story/7266/2465801</a>
+
+5.備註:
+   人比鬼可怕  鬼沒事也中招
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.62.99.20
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1494914771.A.32E.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1494914771.A.32E.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">highyes</span><span class="f3 push-content">: 五樓被男鬼壓床</span><span class="push-ipdatetime"> 05/16 14:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dodomilk</span><span class="f3 push-content">: 壹岐日和是你</span><span class="push-ipdatetime"> 05/16 14:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frommr</span><span class="f3 push-content">: 五樓都跟魔神仔肛肛豪</span><span class="push-ipdatetime"> 05/16 14:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sofaly</span><span class="f3 push-content">: 請尊重01(靈異)共識</span><span class="push-ipdatetime"> 05/16 14:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rriver</span><span class="f3 push-content">: d card?</span><span class="push-ipdatetime"> 05/16 14:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkIllusion</span><span class="f3 push-content">: 我是鬼王 有正妹要跟我祭改嗎?</span><span class="push-ipdatetime"> 05/16 14:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 明明就是通靈</span><span class="push-ipdatetime"> 05/16 14:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leamaSTC</span><span class="f3 push-content">: 未來的索菲亞www</span><span class="push-ipdatetime"> 05/16 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">matto</span><span class="f3 push-content">: 阿不就流川楓</span><span class="push-ipdatetime"> 05/16 14:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whccpl</span><span class="f3 push-content">: 好笑的是家屬反應 先去廟裡問事</span><span class="push-ipdatetime"> 05/16 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">glacialfire</span><span class="f3 push-content">: 白天精神不繼 晚上睡不著，不是每個大學生都這樣嗎？</span><span class="push-ipdatetime"> 05/16 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">g8330330</span><span class="f3 push-content">: 轉媽佛</span><span class="push-ipdatetime"> 05/16 14:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">whiteseyes</span><span class="f3 push-content">: 補充維他命阿幹</span><span class="push-ipdatetime"> 05/16 14:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">king00000000</span><span class="f3 push-content">: 廢物大學生表示，原來我也病了</span><span class="push-ipdatetime"> 05/16 14:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ddfg</span><span class="f3 push-content">: 靈魂出竅=通靈?!</span><span class="push-ipdatetime"> 05/16 14:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fc3s4321</span><span class="f3 push-content">: 靠盃精神不濟不先看醫生？</span><span class="push-ipdatetime"> 05/17 09:34
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1494914771.A.32E.html?cacheKey=2052-37968048&offset=3775&offset-sig=958fabb57ddde6dab5b6b14417db361037727001" data-longpollurl="/v1/longpoll?id=41bab531d9f58eaec475fde7f8bb8fec5e4140ed" data-offset="3775"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

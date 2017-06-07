@@ -1,0 +1,211 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496331623.A.B96.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 台灣寶可夢迷串連抗議 要向任天堂求償5?1 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="自由時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+台灣寶可夢迷串連抗議 要向任天堂求償5億比特幣
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 台灣寶可夢迷串連抗議 要向任天堂求償5?1">
+<meta property="og:description" content="自由時報
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+台灣寶可夢迷串連抗議 要向任天堂求償5億比特幣
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496331623.A.B96.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496331623.A.B96.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">dedeka (得得卡)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 台灣寶可夢迷串連抗議 要向任天堂求償5?1</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jun  1 23:40:21 2017</span></div>
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+自由時報
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+台灣寶可夢迷串連抗議 要向任天堂求償5億比特幣
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+〔記者鄭旭凱／綜合報導〕日本任天堂公司去年推出的寶可夢遊戲，一度造成全球瘋狂抓
+寶，5月20日起台灣卻有上千寶迷的遊戲突然遭封鎖，讓耗費無數精神與金錢玩遊戲的寶
+迷幾乎崩潰，日前有近百名寶迷聚集台北三重開元公園集體表達抗議，正串聯希望集體向
+任天堂公司提告、求償，喊價5億比特幣。
+
+去年造成全球瘋狂的寶可夢遊戲，如今半數以上已經退燒，但仍有許多忠實的寶迷每天勤
+於抓寶、打道館、訓練寶物，為了追尋稀有怪的行蹤或查詢寶可夢的IV值，做為是否強力
+栽培的依據，許多寶迷常使用外IV GO和ALL G查詢。
+
+不料這些寶迷近日都遭到影鎖，也就是畫面中只出現小怪，許多等級較高的寶可夢全部失
+蹤，這讓苦心打怪的寶迷幾近崩潰。
+
+一位陳姓寶可夢訓練師日前在臉書社團及LINE群族發起連署，針對寶可夢遊戲被封鎖，他
+認為大家都花了不少錢買幸運蛋、孵蛋器及櫻花等，任天堂隨意亂封鎖，已嚴重影響玩家
+的權益。
+
+一位寶迷表示，她媽媽的寶可夢被封鎖，生活樂趣突然被剝奪，「都快瘋了！」
+
+也有寶迷反應，任天堂這次的封鎖行動重點應該是抓「飛人」（利用電腦程式變更地點定
+位，不用外出就能到世界各地抓寶的人），這用意值得肯定，但飛人沒抓到，卻導致許多
+一天到頭東奔西跑忙抓寶的老寶訓練師受害，相當不合理。
+
+寶迷表示，將串聯寶迷集體向日本任天堂公司抗議、求償，不少人每天花費超過10小時打
+寶可夢，被封鎖後導致的精神損失確實相當大。
+
+不過也有民眾認為，比特幣是總量恆定，2140年達上限2100萬個，但此次寶迷們喊出求償
+5億比特幣，應該是顯示民眾已到達相當憤怒的程度。
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+<a href="http://m.ltn.com.tw/news/life/breakingnews/2085870" target="_blank" rel="nofollow">http://m.ltn.com.tw/news/life/breakingnews/2085870</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+人人都是雷洛
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.137.121.147
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496331623.A.B96.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496331623.A.B96.html</a>
+</span><span class="f2">※ 編輯: dedeka (223.137.121.147), 06/01/2017 23:41:24
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wyvernlee</span><span class="f3 push-content">: 這真的過氣了，剩下誰在玩 ?</span><span class="push-ipdatetime"> 06/01 23:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bonfferoni</span><span class="f3 push-content">: ㄆ</span><span class="push-ipdatetime"> 06/01 23:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OGCOGCOGCOGC</span><span class="f3 push-content">: 5億比特幣XDDD</span><span class="push-ipdatetime"> 06/01 23:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j55888819</span><span class="f3 push-content">: 三寶+寶</span><span class="push-ipdatetime"> 06/01 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hogu134</span><span class="f3 push-content">: 外掛吵屁 滾啦</span><span class="push-ipdatetime"> 06/01 23:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KINGTIGERX</span><span class="f3 push-content">: 過氣</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 為什麼是彼特幣..</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">x04nonesuchx</span><span class="f3 push-content">: XDDD</span><span class="push-ipdatetime"> 06/01 23:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rasaze</span><span class="f3 push-content">: 干任天堂屁事啊......</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">youareabitch</span><span class="f3 push-content">: 1:7W 台幣 你要他們付5E  87才付= =</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nobeldd</span><span class="f3 push-content">: 彼特幣 普夫幣 尤匹幣 蟻王幣</span><span class="push-ipdatetime"> 06/01 23:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CBING</span><span class="f3 push-content">: 顆顆  五億比特幣，台灣人果然都智障</span><span class="push-ipdatetime"> 06/01 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HisVol</span><span class="f3 push-content">: 小常識：比特幣全部挖完也才2千1百萬</span><span class="push-ipdatetime"> 06/01 23:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CharleneTsai</span><span class="f3 push-content">: 對 我剛也在想 比特幣挖到現在也沒有5E啊 笑死</span><span class="push-ipdatetime"> 06/01 23:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dkfs789</span><span class="f3 push-content">: 一群87</span><span class="push-ipdatetime"> 06/01 23:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">elvic041402</span><span class="f3 push-content">: 糞GAME也能玩十小時？</span><span class="push-ipdatetime"> 06/01 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lucifer666</span><span class="f3 push-content">: 用了什麼他們自己知道</span><span class="push-ipdatetime"> 06/01 23:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwvvkai</span><span class="f3 push-content">: 飛人被抓了哦</span><span class="push-ipdatetime"> 06/01 23:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">antiasus</span><span class="f3 push-content">: 卡早睏卡有眠,五億勒</span><span class="push-ipdatetime"> 06/01 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iqnine</span><span class="f3 push-content">: ……………</span><span class="push-ipdatetime"> 06/01 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bighdogs</span><span class="f3 push-content">: 腦殘沒藥醫</span><span class="push-ipdatetime"> 06/01 23:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">diskdie7045</span><span class="f3 push-content">: 關任天堂屁事、明明遊戲是另外一家開發的</span><span class="push-ipdatetime"> 06/01 23:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">casd82</span><span class="f3 push-content">: ...任天堂？？？</span><span class="push-ipdatetime"> 06/01 23:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ttQoQ</span><span class="f3 push-content">: 5e = =</span><span class="push-ipdatetime"> 06/01 23:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">devilkool</span><span class="f3 push-content">: 老任一定島(1/1)</span><span class="push-ipdatetime"> 06/01 23:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Boyzone</span><span class="f3 push-content">: 干任天堂屁事</span><span class="push-ipdatetime"> 06/02 00:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alen0303</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 06/02 00:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ElrosHsun</span><span class="f3 push-content">: 老三寶連比特幣限量2000多萬都不知道</span><span class="push-ipdatetime"> 06/02 00:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">annie790321</span><span class="f3 push-content">: 搞錯對象了吧？</span><span class="push-ipdatetime"> 06/02 00:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">FIRZEN45</span><span class="f3 push-content">: 任天堂…  XDDD</span><span class="push-ipdatetime"> 06/02 00:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">eric525498</span><span class="f3 push-content">: 先帶腦</span><span class="push-ipdatetime"> 06/02 00:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KJC1004</span><span class="f3 push-content">: 任天堂：好啊等我籌到五億比特幣 (然後就沒有然後了呵呵</span><span class="push-ipdatetime"> 06/02 00:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e86117934</span><span class="f3 push-content">: 每天才十小時，菜逼八別笑死人。</span><span class="push-ipdatetime"> 06/02 00:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">erickruklin</span><span class="f3 push-content">: 喜憨自以為趕流行哦，還比特幣勒</span><span class="push-ipdatetime"> 06/02 00:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purineboy</span><span class="f3 push-content">: 2140年？</span><span class="push-ipdatetime"> 06/02 00:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oiolo</span><span class="f3 push-content">: 傻了才提這鬼數字</span><span class="push-ipdatetime"> 06/02 00:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b00668880</span><span class="f3 push-content">: 開雷達的外掛狗哭哭哦</span><span class="push-ipdatetime"> 06/02 00:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MasCat</span><span class="f3 push-content">: 雖然遊戲出錯很該死 不過還是要推三寶不意外</span><span class="push-ipdatetime"> 06/02 01:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Nyarlathotep</span><span class="f3 push-content">: 北七，玩了那麼久還不知道5這遊戲是哪家公司做的?</span><span class="push-ipdatetime"> 06/02 01:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lulocke</span><span class="f3 push-content">: 老任只授權IP吧 ...</span><span class="push-ipdatetime"> 06/02 01:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">senma</span><span class="f3 push-content">: 自己愛玩過氣遊戲齁 幫QQ</span><span class="push-ipdatetime"> 06/02 01:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pttfatman</span><span class="f3 push-content">: 五億日幣都不可能會付 還比特幣</span><span class="push-ipdatetime"> 06/02 02:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: pmgo不是任天堂的 比特幣總數也沒有5億 是來搞笑的嗎</span><span class="push-ipdatetime"> 06/02 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: 比特幣可不是跟鈔票一樣拿張紙上面寫個5億就有的</span><span class="push-ipdatetime"> 06/02 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">johnny3</span><span class="f3 push-content">: 比較像貴金屬 東西就這麼多 市場自己決定他的價值</span><span class="push-ipdatetime"> 06/02 03:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 退休軍公教每天花十小時抓寶，沒寶抓生命如同行屍走肉</span><span class="push-ipdatetime"> 06/02 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ChicagoFire</span><span class="f3 push-content">: 狗幹低能兒</span><span class="push-ipdatetime"> 06/02 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mimikyu</span><span class="f3 push-content">: 亂封鎖?呵呵 自己做了什麼自己心裡有數</span><span class="push-ipdatetime"> 06/02 10:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mimikyu</span><span class="f3 push-content">: 自己愛用外掛又愛該</span><span class="push-ipdatetime"> 06/02 10:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496331623.A.B96.html?cacheKey=2052-12475107&offset=7108&offset-sig=7ffa9fe54e996e386c3542cf31a7a922265b64ea" data-longpollurl="/v1/longpoll?id=7123becc8bf0e79ef564da7922b150b6284db0f6" data-offset="7108"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

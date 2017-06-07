@@ -1,0 +1,261 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495844311.A.FE6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 立委公布林奕含PTT帳號　曾發文控訴卻反 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+nownews
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 立委公布林奕含PTT帳號　曾發文控訴卻反">
+<meta property="og:description" content="1.媒體來源:
+※ 例如蘋果日報、奇摩新聞
+nownews
+2.完整新聞標題:
+※ 標題沒有寫出來 ---&gt; 依照板規刪除文章
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495844311.A.FE6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495844311.A.FE6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">a828203 (催化劑)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 立委公布林奕含PTT帳號　曾發文控訴卻反</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 27 08:18:28 2017</span></div>
+1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+nownews
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章</span>
+
+立委公布林奕含PTT帳號　曾發文控訴卻反遭嘲諷
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者退文，貼廣告也會被退文喔!</span>
+
+女作家林奕含疑遭誘姦案持續延燒，立委林俊憲近日參加電視節目錄影時，再公布林奕含
+的PTT帳號，而該帳號在2014年時就曾發文，號召其他有類似經驗的受害者站出來，與她
+一起打倒這些老師，但卻反遭網友嘲諷。
+
+林俊憲近日在電視節目中表示，經過網路位址比對，證實林奕含的PTT帳號就是「
+ooutputt」，而這個帳號在2014年5月23日曾以「小杯」為名，發表一篇名為「X心補習班
+不倫 請幫轉ptt八卦」的文章，內容提到自己與已婚、有小孩的國文補教名師「陳X」在
+一起過，兩人分開後她相當痛苦，後來也發現「在我之後還有誰，誰之後還有誰。」
+
+「小杯」也提到，如果對方告訴她只是玩玩的話，她當然不會跟他在一起，也說自己曾「
+自殺過幾次、進出加護病房、出現過精神分裂的症狀，住進精神病房」，之後交的男友，
+聽到她這段經歷，就吃吃她的豆腐，再嫌棄地離開，讓她直說自己「付出的代價真的夠了
+。」
+
+「小杯」更在文章中爆出，這名「陳X」老師曾告訴她，還有3名分別教物理、數學、英文
+的補教名師，「都跟女學生超亂的」。最後，她也表示，儘管自己說的是事實，儘管有更
+噁心的事沒說，也可能會被上述幾名老師控告誹謗，但自己勢單力薄，呼籲與她有相同經
+驗的人可以跟她聯絡，與她一起「打倒這些老師。」
+
+這篇文章當初在PTT也引起不少討論，部分網友留言聲援，但也有許多網友嘲諷她「裝什
+麼可憐？都知道自己是小三了」、「已婚、有小孩，破壞人家家庭也很可惡」，由於時值
+升學季，更有不少網友認為是補習班為招生放出的黑函，也讓林俊憲感嘆，當初她的文章
+未能被重視，等到人走了才喚起社會對這起事件的重視。
+
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+
+<a href="http://www.nownews.com/n/2017/05/26/2539450" target="_blank" rel="nofollow">http://www.nownews.com/n/2017/05/26/2539450</a>
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，</span><span class="f5 hl">被刪或自刪也算額度內</span><span class="f2">，</span><span class="f3 hl">超貼者水桶</span><span class="f2">，請注意</span>
+
+這方向有點亂啊
+
+到底是誰的錯比較大?
+
+林女? 陳男?
+
+風向一變再變，要支持誰?
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.167.134.163
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495844311.A.FE6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495844311.A.FE6.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sawkuanwoo</span><span class="f3 push-content">: 又要變成ptt的錯了</span><span class="push-ipdatetime"> 05/27 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 唉 他真的很可憐</span><span class="push-ipdatetime"> 05/27 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cger</span><span class="f3 push-content">: 工讀生喇XD</span><span class="push-ipdatetime"> 05/27 08:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">axzs1111</span><span class="f3 push-content">: 五樓的錯   五樓右肩關節唇破裂</span><span class="push-ipdatetime"> 05/27 08:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwww</span><span class="f3 push-content">: 這新聞還是很重要  證實</span><span class="push-ipdatetime"> 05/27 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ridecule</span><span class="f3 push-content">: 又要開始黑鄉民了</span><span class="push-ipdatetime"> 05/27 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 昨天看新聞 也是有個女生被有婦之夫騙懷孕了 他一直狂罵男</span><span class="push-ipdatetime"> 05/27 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 生騙他</span><span class="push-ipdatetime"> 05/27 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">peterwww</span><span class="f3 push-content">: 雖然早就知道</span><span class="push-ipdatetime"> 05/27 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LEBR0NJAMES6</span><span class="f3 push-content">: 幹 記者怎不幫阿翰討公道 想帶風向黑喔</span><span class="push-ipdatetime"> 05/27 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 女生真的要慎選對向</span><span class="push-ipdatetime"> 05/27 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn01914712</span><span class="f3 push-content">: 哀 垃圾陳興 老二應該沒乾過</span><span class="push-ipdatetime"> 05/27 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">imjj012</span><span class="f3 push-content">: 所以真的是她喔</span><span class="push-ipdatetime"> 05/27 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pokyhoyo</span><span class="f3 push-content">: 沒死=鄉民義憤填膺打擊小三 死了=鄉民逼死良家婦女</span><span class="push-ipdatetime"> 05/27 08:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">max123</span><span class="f3 push-content">: 小三母豬 晨星各錯一半</span><span class="push-ipdatetime"> 05/27 08:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fbiciamib123</span><span class="f3 push-content">: 鄉民害死人你我都推一把</span><span class="push-ipdatetime"> 05/27 08:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hongtm</span><span class="f3 push-content">: 希望他在另外一個世界沒痛苦</span><span class="push-ipdatetime"> 05/27 08:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JCS15</span><span class="f3 push-content">: <a href="http://i.imgur.com/bIwog2e.png" target="_blank" rel="nofollow">http://i.imgur.com/bIwog2e.png</a></span><span class="push-ipdatetime"> 05/27 08:23
+</span></div><div class="richcontent"><blockquote class="imgur-embed-pub" lang="en" data-id="bIwog2e"><a href="//imgur.com/bIwog2e"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rv0918</span><span class="f3 push-content">: 立委一定對 聽他的</span><span class="push-ipdatetime"> 05/27 08:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 什麼議員根本沒有料啊幹，都看PTT辦案</span><span class="push-ipdatetime"> 05/27 08:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">steven211</span><span class="f3 push-content">: 難怪她只詛咒阿和跟阿翰的支持者 因為她自己本身是....</span><span class="push-ipdatetime"> 05/27 08:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pokyhoyo</span><span class="f3 push-content">: 當初小模也是媒體瘋狂帶風向 最後無罪=鄉民逼死人</span><span class="push-ipdatetime"> 05/27 08:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">max123</span><span class="f3 push-content">: 我已經懶得說DDP立委了喇 跟KMT一樣</span><span class="push-ipdatetime"> 05/27 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wayne1027</span><span class="f3 push-content">: 幹~不就一個憂鬱症母豬笨的被男人玩弄自殺~是要吵多久</span><span class="push-ipdatetime"> 05/27 08:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">error123</span><span class="f3 push-content">: 一個暈船小三，一個道德淪喪。散了散了，沒鄉民事。</span><span class="push-ipdatetime"> 05/27 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rv0918</span><span class="f3 push-content">: 鄉民哪來fb留言...</span><span class="push-ipdatetime"> 05/27 08:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 那葛0很多的男人會不會因為一句</span><span class="push-ipdatetime"> 05/27 08:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Dinenger</span><span class="f3 push-content">: 極黑的不倫射惹ㄦ 被黑 哈哈射惹</span><span class="push-ipdatetime"> 05/27 08:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 那時候剛好在看極黑的不倫希爾特的卡通壓QQ</span><span class="push-ipdatetime"> 05/27 08:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d90493</span><span class="f3 push-content">: 出不了頭的小林就是小杯</span><span class="push-ipdatetime"> 05/27 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kaodio</span><span class="f3 push-content">: 看起來都抄這裡的啊= =根本不是南檢查出來的…</span><span class="push-ipdatetime"> 05/27 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 不知道林大立委公布PTT帳號前，有沒有去觀落陰徵求同意</span><span class="push-ipdatetime"> 05/27 08:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 我有點好奇那篇我為啥沒推文...極黑的史萊姆我記得我也</span><span class="push-ipdatetime"> 05/27 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 有看啊</span><span class="push-ipdatetime"> 05/27 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: 性自主果然是個笑話，對這社會鬧出多少風波</span><span class="push-ipdatetime"> 05/27 08:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hms5232</span><span class="f3 push-content">: 沒證據你要我信個屁</span><span class="push-ipdatetime"> 05/27 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluebluelan</span><span class="f3 push-content">: obov: 極黑的不倫射惹ㄦ</span><span class="push-ipdatetime"> 05/27 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f58rtht</span><span class="f3 push-content">: 一個拿得起放不下 一個卑鄙無恥</span><span class="push-ipdatetime"> 05/27 08:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 那葛動畫就是個萌妹子被人從後面插會變成史萊姆的故事</span><span class="push-ipdatetime"> 05/27 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 然後漫畫後面亂畫崩掉惹QQ</span><span class="push-ipdatetime"> 05/27 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: QQ</span><span class="push-ipdatetime"> 05/27 08:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 那葛露鮑魚給主角看的扁乃叫啥名字</span><span class="push-ipdatetime"> 05/27 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a000000000</span><span class="f3 push-content">: 卡資米嗎</span><span class="push-ipdatetime"> 05/27 08:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 阿翰真的是倒了八輩子的血楣</span><span class="push-ipdatetime"> 05/27 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 我沒再記名字欸 那部太黑了 我不想記住史萊姆的名字QQ</span><span class="push-ipdatetime"> 05/27 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 被誣告，被女版公審，澄清之後還要被林小姐酸死全家</span><span class="push-ipdatetime"> 05/27 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 反正再萌萌達的妹子都會變成史萊姆QQ</span><span class="push-ipdatetime"> 05/27 08:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 如果萬一阿翰也去自殺，當初罵他的女版鄉民會覺得有</span><span class="push-ipdatetime"> 05/27 08:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Zuleta</span><span class="f3 push-content">: XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 05/27 08:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 罪惡感嗎??</span><span class="push-ipdatetime"> 05/27 08:30
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">One102bird</span><span class="f3 push-content">: 這新聞到底還要吵多久?</span><span class="push-ipdatetime"> 05/27 08:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppptttqaz</span><span class="f3 push-content">: 極黑後面超無言的，女體畫得不錯就能這樣嗎</span><span class="push-ipdatetime"> 05/27 08:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GalLe5566</span><span class="f3 push-content">: 就劇情崩掉了 我看到一百多話已經不知道他們再衝三小了</span><span class="push-ipdatetime"> 05/27 08:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newstyle</span><span class="f3 push-content">: 選舉到了，立委要表演</span><span class="push-ipdatetime"> 05/27 08:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aynmeow</span><span class="f3 push-content">: 我看兩話就知道這一定爛尾</span><span class="push-ipdatetime"> 05/27 08:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 樓上是在討論極黑的不倫射惹ㄦ....不是，我的意思是</span><span class="push-ipdatetime"> 05/27 08:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 極黑的布倫希爾德嗎??</span><span class="push-ipdatetime"> 05/27 08:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 挖靠，推個極黑的布倫希爾德也要被黑，obov好可憐</span><span class="push-ipdatetime"> 05/27 08:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ImBBCALL</span><span class="f3 push-content">: 許姓教師就自殺惹啊，沒人會自責</span><span class="push-ipdatetime"> 05/27 08:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">axzs1111</span><span class="f3 push-content">: 後面一整個爛尾    明明是很好發揮的題材  幹你娘岡本倫</span><span class="push-ipdatetime"> 05/27 08:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kuoeight</span><span class="f3 push-content">: 馬的 ptt關掉啦  一點用都沒有</span><span class="push-ipdatetime"> 05/27 08:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">organ63521</span><span class="f3 push-content">: obov當時有夠靠北XDDD</span><span class="push-ipdatetime"> 05/27 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 根本一堆看不懂動漫梗的在亂而已rrrrr</span><span class="push-ipdatetime"> 05/27 08:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JackTheRippe</span><span class="f3 push-content">: 結果真的是不倫就好笑了</span><span class="push-ipdatetime"> 05/27 08:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazwsx176</span><span class="f3 push-content">: 要學會等待，等風向確立了再來跟風</span><span class="push-ipdatetime"> 05/27 08:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 74團孤陋寡聞，沒聽過極黑的布倫希爾德也要砲別人，</span><span class="push-ipdatetime"> 05/27 08:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">KingKingCold</span><span class="f3 push-content">: 真恐怖QQ</span><span class="push-ipdatetime"> 05/27 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">winterjoker</span><span class="f3 push-content">: 來了來了，又是你我都推了一把的言論</span><span class="push-ipdatetime"> 05/27 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">mack860120</span><span class="f3 push-content">: 三小啦 PTT辦案喔</span><span class="push-ipdatetime"> 05/27 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Cardasakg</span><span class="f3 push-content">: 你看完她寫的書就知道，從一開始就沒有強姦</span><span class="push-ipdatetime"> 05/27 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">prkfcpr</span><span class="f3 push-content">: ptt什麼時候變申訴單位了？</span><span class="push-ipdatetime"> 05/27 09:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">avrw</span><span class="f3 push-content">: 她應該出來主張&#34;通姦無罪，劈腿萬歲&#34;，才不會被酸民酸。</span><span class="push-ipdatetime"> 05/27 09:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">junior8858</span><span class="f3 push-content">: 鄉民沒說錯R</span><span class="push-ipdatetime"> 05/27 09:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Yinmomaster</span><span class="f3 push-content">: 別太苛責74團了 讓他們發洩一下吧</span><span class="push-ipdatetime"> 05/27 09:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">liuda</span><span class="f3 push-content">: 幹你爸的60歲皺懶叫硬督未成年少女，幹幹幹喪盡天良！</span><span class="push-ipdatetime"> 05/27 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blademaster</span><span class="f3 push-content">: 鄉民害死人還有臉罵陳星....</span><span class="push-ipdatetime"> 05/27 09:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">error123</span><span class="f3 push-content">: 所以婚外情怎麼了? 最多道德缺失，賭濫殺小</span><span class="push-ipdatetime"> 05/27 09:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gx9900824</span><span class="f3 push-content">: 乾鄉民屁事</span><span class="push-ipdatetime"> 05/27 09:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realmd</span><span class="f3 push-content">: 陳興真厲害，能讓立委變成工讀生，發文證明是小三</span><span class="push-ipdatetime"> 05/27 09:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a795610</span><span class="f3 push-content">: 陳星如果有留下證據也是蠻笨的啦</span><span class="push-ipdatetime"> 05/27 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack0216</span><span class="f3 push-content">: 一堆工讀生哦</span><span class="push-ipdatetime"> 05/27 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gin10791</span><span class="f3 push-content">: 慘惹 當年開嘲諷的要見笑轉生氣改當工讀生惹</span><span class="push-ipdatetime"> 05/27 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guogu</span><span class="f3 push-content">: 沒錯，你我都推了一把！有沒有人要開懺悔大會啊？</span><span class="push-ipdatetime"> 05/27 11:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 林俊憲真的是北七北七的 這個一公佈不就證實 她當年是</span><span class="push-ipdatetime"> 05/27 11:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 知情的18歲第三者</span><span class="push-ipdatetime"> 05/27 11:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aa1052026</span><span class="f3 push-content">: 林大立委真的是豬隊友 該文章一出 馬上打一堆人的臉</span><span class="push-ipdatetime"> 05/27 12:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justeit</span><span class="f3 push-content">: 利用斯德哥爾摩症的混亂來混淆視聽太爽啊</span><span class="push-ipdatetime"> 05/27 14:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">conundrum</span><span class="f3 push-content">: 本來就很多鄉民說話都很難聽  老鼠屎</span><span class="push-ipdatetime"> 05/27 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wike</span><span class="f3 push-content">: 阿彌陀佛 阿彌陀佛 阿彌陀佛 阿彌陀佛 阿彌陀佛 阿彌陀佛</span><span class="push-ipdatetime"> 05/29 00:35
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495844311.A.FE6.html?cacheKey=2052-2016751&offset=11213&offset-sig=353bc8c793bd0b32904791016c5561b47a18f79c" data-longpollurl="/v1/longpoll?id=01e13e4e64cf977d6e5b22fcd808039562b628e7" data-offset="11213"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

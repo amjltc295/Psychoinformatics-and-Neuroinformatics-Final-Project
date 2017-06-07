@@ -1,0 +1,206 @@
+https://www.ptt.cc/bbs/Gossiping/M.1495258654.A.0B6.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Re: [新聞] 缺乏軟實力！李開復：台灣根本沒機會發展 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="三十年前AI剛出來的時候, 這樣講的人也是很多.
+但AI這幾十年發展的和龜爬一樣, 後面發展的網路反而先行超車普及世界.
+AI本身牽涉到的理論太多, 每走一步都要大量的科研.
+有生之年能先顛覆幾個行業就算不錯了.
+: 李開復從一九八○年代即參與人工智慧相關研究，從申請博士入學、就學期間，以及微軟
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="Re: [新聞] 缺乏軟實力！李開復：台灣根本沒機會發展">
+<meta property="og:description" content="三十年前AI剛出來的時候, 這樣講的人也是很多.
+但AI這幾十年發展的和龜爬一樣, 後面發展的網路反而先行超車普及世界.
+AI本身牽涉到的理論太多, 每走一步都要大量的科研.
+有生之年能先顛覆幾個行業就算不錯了.
+: 李開復從一九八○年代即參與人工智慧相關研究，從申請博士入學、就學期間，以及微軟
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1495258654.A.0B6.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1495258654.A.0B6.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">l42857 (~.~)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [新聞] 缺乏軟實力！李開復：台灣根本沒機會發展</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat May 20 13:37:31 2017</span></div>
+<span class="f2">※ 引述《KILLE (啃)》之銘言：
+</span><span class="f6">:         缺乏軟實力！李開復：台灣根本沒機會發展AI
+</span><span class="f6">: 「AI即將徹底顛覆所有行業，影響力超過工業革命及互聯網革命。」李開復說，「我覺得
+</span><span class="f6">: 有責任讓人們了解，AI是一個偉大、幸福卻又恐怖的事物。」
+</span>
+三十年前AI剛出來的時候, 這樣講的人也是很多.
+但AI這幾十年發展的和龜爬一樣, 後面發展的網路反而先行超車普及世界.
+AI本身牽涉到的理論太多, 每走一步都要大量的科研.
+有生之年能先顛覆幾個行業就算不錯了.
+
+<span class="f6">: 李開復從一九八○年代即參與人工智慧相關研究，從申請博士入學、就學期間，以及微軟
+</span><span class="f6">: 、蘋果、谷歌時期，涉獵的技術橫跨語音辨識、演算法、深度學習、人工神經網路等。近
+</span><span class="f6">: 二至三年間，創新工場更斥資約一．三億美元投資了四十多家AI新創公司，涵蓋無人車、
+</span><span class="f6">: 人臉辨識、智慧金融等。
+</span>
+創新工場從09年開始至今, 投資那麼多公司, 大概只有豌豆莢和知乎算是大成功.
+現在這一兩年投的東西有什麼大發展嗎? 呵呵.
+
+個人認為李開復癌症後判斷力已經沒有以前好了.
+
+<span class="f6">: 台灣錯過四波科技革命
+</span><span class="f6">: 嘆無軟實力，落後中、美
+</span><span class="f6">: 但李開復投資的公司大多是中國企業，當被問及對台廠的看法時，他嘆了一口氣，直言台
+</span><span class="f6">: 灣的法律和市場都不具備AI發展的先決條件，「台灣根本沒有機會！」
+</span>
+反觀馬雲認為是台灣有大批人才但企業家不會用.
+想要大筆投資台灣新創企業. (一直浮不出台面主要是與台灣政府投審會有些問題.)
+
+你要相信馬雲呢? 還是李開復?
+
+<span class="f6">: 李開復說，「台灣錯失了軟體、互聯網、搜尋引擎、社交網路四波重大變革，台灣的銀行
+</span><span class="f6">: 思想非常古老，法律非常落後！沒有技術、資金、應用情境、實驗場域，以及能識別並幫
+</span>
+在中國說台灣法律落後, 我都不知道該說什麼.
+
+個人雖然不是法律專業,
+但歹知道中國人大在今年年底才要實施&#34;民法總則篇&#34;.
+(只有總則, 其他民法的內容都還沒定好喔..)
+
+之前只有一本非常模糊的民法通則, 中國法院之前民事怎麼判的根本是謎.
+
+中國稅法也是另一個怪獸, 根本就是要逼人送禮,
+相信所有的台商(其實包括中國商人也是)都對中國稅法痛恨到極點.
+
+<span class="f6">: 助創業的VC（創投），更沒有大數據及市場可推動AI發展！」因此李開復說，台灣在PC時
+</span><span class="f6">: 代雖擁有硬體優勢，但在著重軟硬整合的AI時代，已明顯落後中、美。
+</span><span class="f6">: 值得慶幸的是，台廠在生產晶片和電子產品上仍具優勢。李開復語氣一緩，笑著說，重要
+</span><span class="f6">: 廠商如台積電、鴻海仍保有競爭力，「台積電聯手英特爾（Intel）加速研發AI計算平台
+</span><span class="f6">: ，並在生產環節使用AI技術提高生產力。鴻海的工業機器人、精密設計、硬體生產等，在
+</span><span class="f6">: 機器人、自動駕駛等領域，也還會在AI時代扮演重要角色。」
+</span>
+嗯嗯. 所以台灣AI在工業相關AI有優勢.
+
+<span class="f6">: 只是，除了這幾家大公司，在軟體及創業機會上，李開復搖搖頭，「台灣沒有軟實力，我
+</span><span class="f6">: 不認為台灣有任何AI創業機會！如果年輕人對AI有興趣，想創業，還是往大市場發展吧！
+</span><span class="f6">: 像是中國、美國。」
+</span>
+嗯嗯. 所以台灣AI產業沒救了......!! 怎麼和前一段合不起來啊?
+有這麼快自己打自己臉的嗎?
+
+<span class="f6">: 論及年輕人就業機會，李開復警告，現在的大學生就是AI將要取代的第一批人，所以一定
+</span><span class="f6">: 要加強實力，思考自己最擅長、熱愛的工作是什麼？才有辦法找到立足之地。「數學好的
+</span><span class="f6">: 理工科頂尖學子，快點把AI課程學好，努力進七大黑洞公司工作，就能知道這些全球頂尖
+</span><span class="f6">: 企業在做什麼，並參與其中。」（編按：七大黑洞公司指谷歌、臉書、亞馬遜、微軟、百
+</span>
+李開復在中國工作久了, 也沾染到中國科技業那種浮燥的氣氛.
+
+理工科就一定要做AI嗎? 研所論文是AI的我現在不知道幾年沒碰AI, 還不是好好的.
+矽谷多的是頂尖強者作不同的研究領域.
+
+--
+
+BTW, 版上許多人都說硬體比軟體 low.
+
+某個 a很多0 的男人肯定不同意,
+人家就是在矽谷作硬體的, 年薪可能版上90%的人一輩子都達不到.
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.167.134.7
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1495258654.A.0B6.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1495258654.A.0B6.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rr78</span><span class="f3 push-content">: 沒有支付寶的國家怎麼樣都是爛</span><span class="push-ipdatetime"> 05/20 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fategg</span><span class="f3 push-content">: 馬雲跟李講的不是一樣? 就是政府整個法令制定跟不上時代</span><span class="push-ipdatetime"> 05/20 13:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">autoupdate</span><span class="f3 push-content">: 認同台灣法律很落後</span><span class="push-ipdatetime"> 05/20 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">autoupdate</span><span class="f3 push-content">: 立委專門開後門</span><span class="push-ipdatetime"> 05/20 13:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knives</span><span class="f3 push-content">: 原來台灣法律不落後喔</span><span class="push-ipdatetime"> 05/20 13:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwxr</span><span class="f3 push-content">: 有民主就有一切 沒民主就是個屁</span><span class="push-ipdatetime"> 05/20 13:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lkklee123</span><span class="f3 push-content">: 台灣還詐騙法是很先進</span><span class="push-ipdatetime"> 05/20 13:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baseguard</span><span class="f3 push-content">: AI這方面台灣就是嚴重落後中國毫無懸念</span><span class="push-ipdatetime"> 05/20 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eemail</span><span class="f3 push-content">: AI就是缺在計算能力吧 早有人提但硬體跟不上也可能卡住呀</span><span class="push-ipdatetime"> 05/20 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Parazicecum</span><span class="f3 push-content">: 他講的法律不是民法刑法那些好嗎......多瞭解一下再</span><span class="push-ipdatetime"> 05/22 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Parazicecum</span><span class="f3 push-content">: 還有台灣AI產業沒機會 是在說軟體方面 台灣的優勢在</span><span class="push-ipdatetime"> 05/22 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Parazicecum</span><span class="f3 push-content">: 於AI產業的硬體製造部分 你研究所做Ai的 看不懂這兩</span><span class="push-ipdatetime"> 05/22 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Parazicecum</span><span class="f3 push-content">: 個的差異...？</span><span class="push-ipdatetime"> 05/22 11:31
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1495258654.A.0B6.html?cacheKey=2052-37399407&offset=4626&offset-sig=2fcd6a6969706035e83ca1749f9c5af56725f4e1" data-longpollurl="/v1/longpoll?id=130c1f2cf8874ffa7408e30804229a6263c0bdec" data-offset="4626"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>

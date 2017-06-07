@@ -1,0 +1,206 @@
+https://www.ptt.cc/bbs/Gossiping/M.1496122706.A.E9D.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[新聞] 陸學森：事情都合理了才做 就遲了 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="1.媒體來源:
+聯合
+2.完整新聞標題:
+陸學森：事情都合理了才做 就遲了
+3.完整新聞內文:
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[新聞] 陸學森：事情都合理了才做 就遲了">
+<meta property="og:description" content="1.媒體來源:
+聯合
+2.完整新聞標題:
+陸學森：事情都合理了才做 就遲了
+3.完整新聞內文:
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Gossiping/M.1496122706.A.E9D.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.22/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1496122706.A.E9D.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">ORK ()</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 陸學森：事情都合理了才做 就遲了</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue May 30 13:38:23 2017</span></div>
+1.媒體來源:
+
+聯合
+
+2.完整新聞標題:
+
+陸學森：事情都合理了才做 就遲了
+
+3.完整新聞內文:
+
+
+兩年前的夏天，一輛十二萬元的GOGORO電動機車上市時，市場一片懷疑與譁然聲。兩年後
+的今天，GOGORO在台灣電動機車有八成市占率。睿能GOGORO創辦人陸學森接受本報專訪表
+示，「當每件事都合理了才去做，就太遲了，別人已經做完了」。
+
+陸學森的睿能創業歷程，是這句話的最佳詮釋。兩年前沒人聽過換電站時，睿能率先提出
+這種成本昂貴、卻節省時間的模式。睿能上周又宣布GOGORO 2上市，補助後僅只要四萬多
+元。市場預測，價格更親民的新系列，可能連傳統油車業者都將受影響。
+
+在台學到CP值 美國沒這字
+
+陸學森在發表會有感而發地說，「我在台灣學到一個字，叫做『ＣＰ值』」。他在專訪中
+解釋，「美國沒有這個字，我第一次聽到時很驚訝」。但他學到了，知道消費者要什麼。
+而且，去年三大車廠在競爭，機車價格掉蠻多的，「我們也不能離他們太遠」。
+
+賣不到台中？ 台中賣最好
+
+兩年內，睿能從不被看好到成為市場龍頭。中文不是主要使用語言的陸學森流利說出「對
+，當時很多人『酸』我」。有人質疑他倒閉了怎麼辦、電池算誰的，「這像結婚時就說，
+離婚怎麼辦？不會煮菜怎麼辦？」。有人預測他過了一百個換電站就會倒，但現在已經三
+百五十個換電站了。有人說過他賣不到台中，結果現在台中是他賣最好的市場。
+
+合理才做？別人已經做完了
+
+陸學森說，「如果每件事make sense，就太遲了；如果每件事make sense，別人已經做完
+了。」現在提到換電站，人們第一個想到的就會是睿能。
+
+只需要六秒的換電站，是睿能成功原因之一。陸學森說，政府問他願不願意把換電站開放
+使用，他當然願意。「你可以想，我們就是安卓（Android）」，換電平台供多人使用更
+有效率。「我們就是要成為電池專家，製造電池是非常難的，沒有摩托車製造商應該要擔
+心」。現在已有廠商願意合作，只是還不方便透露。
+
+電動車 快充是一條不對的路
+
+不過，台灣電動機車產業正出現「換電與充電」拉鋸戰，有些業者如中華車將重心放在快
+充。陸學森指出，「快充是一條不對的路」。一來，品質好的快充設備由個人負擔太貴了
+，但如果不是品質好的充電設備，消費者在晚上睡覺時還要擔心爆炸。換電站因為是共享
+經濟，每個人都會用到，所以可以負擔非常貴、品質又非常好的充電站。其次，快充不論
+發展多快也比不上換電站，而且民眾也不想讓充電站變成停車場。
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="https://goo.gl/kh6kqV" target="_blank" rel="nofollow">https://goo.gl/kh6kqV</a>
+
+5.備註:
+
+補助後僅只要四萬多元~~~是拿誰的錢補助??
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.43.74.17
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1496122706.A.E9D.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1496122706.A.E9D.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Wilkie</span><span class="f3 push-content">: 陸生現在改稱陸學森?</span><span class="push-ipdatetime"> 05/30 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ipadmini6</span><span class="f3 push-content">: 偷健保的陸生閉嘴</span><span class="push-ipdatetime"> 05/30 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yyc2008</span><span class="f3 push-content">: 自以為錢學森</span><span class="push-ipdatetime"> 05/30 13:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SE4NLN415</span><span class="f3 push-content">: 看到是港仔就知道玩的是什麼套路了</span><span class="push-ipdatetime"> 05/30 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yyc2008</span><span class="f3 push-content">: 其實我覺得什麼前瞻計畫 真的應該把它用在智能新創產業</span><span class="push-ipdatetime"> 05/30 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deepdish</span><span class="f3 push-content">: 台中沒捷運阿 這不是廢話</span><span class="push-ipdatetime"> 05/30 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ducah</span><span class="f3 push-content">: 台積電成立也拿了一大堆政府補助 應該也要酸到爆</span><span class="push-ipdatetime"> 05/30 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JyouItsu</span><span class="f3 push-content">: 靠政府補助閉嘴</span><span class="push-ipdatetime"> 05/30 13:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ducah</span><span class="f3 push-content">: 張忠謀應該也要閉嘴 三不五時上電視放啥屁</span><span class="push-ipdatetime"> 05/30 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yycbr</span><span class="f3 push-content">: 這麼貴</span><span class="push-ipdatetime"> 05/30 13:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ducah</span><span class="f3 push-content">: Elon Musk拿補助又虧錢 誰去把他嘴縫上</span><span class="push-ipdatetime"> 05/30 13:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LIONDODO</span><span class="f3 push-content">: 機車是適合換電池的，也好管理</span><span class="push-ipdatetime"> 05/30 13:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">testutw</span><span class="f3 push-content">: 到時候換電站人多又可以圍起來開店賣廣告</span><span class="push-ipdatetime"> 05/30 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">all0pha765</span><span class="f3 push-content">: 人家4學森欸</span><span class="push-ipdatetime"> 05/30 13:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">davidrockcom</span><span class="f3 push-content">: 拿補助但有做出東西就給推了</span><span class="push-ipdatetime"> 05/30 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ducah</span><span class="f3 push-content">: 張忠謀港仔又是美國人 就知道玩的是什麼套路了</span><span class="push-ipdatetime"> 05/30 13:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">citi</span><span class="f3 push-content">: 在台灣做品牌工業很可憐，一輩子賣手搖杯的命。</span><span class="push-ipdatetime"> 05/30 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">davidrockcom</span><span class="f3 push-content">: 反觀拿補助做拉嘰的四輪</span><span class="push-ipdatetime"> 05/30 13:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">v9300087</span><span class="f3 push-content">: 電動車搞可換電池 那一次不就換超多顆</span><span class="push-ipdatetime"> 05/30 13:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">harrychen413</span><span class="f3 push-content">: 森77</span><span class="push-ipdatetime"> 05/30 13:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ducah</span><span class="f3 push-content">: 前瞻計畫拿去做電動車? 嚴董開心的呢</span><span class="push-ipdatetime"> 05/30 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ducah</span><span class="f3 push-content">: 酸民之所以為酸民...</span><span class="push-ipdatetime"> 05/30 13:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Joey818</span><span class="f3 push-content">: <a href="https://www.youtube.com/watch?v=tnv-fYwzQmY" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=tnv-fYwzQmY</a></span><span class="push-ipdatetime"> 05/30 13:53
+</span></div><div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe class="youtube-player" type="text/html" src="//www.youtube.com/embed/tnv-fYwzQmY" frameborder="0" allowfullscreen></iframe></div></div></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opengaydoor</span><span class="f3 push-content">: 不是不能拿補助 是拿了要有成績出來 垃圾菌吃屎吧</span><span class="push-ipdatetime"> 05/30 13:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takase</span><span class="f3 push-content">: 有意思,至少知道他的想法是什麼</span><span class="push-ipdatetime"> 05/30 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">blue155305</span><span class="f3 push-content">: 垃圾車</span><span class="push-ipdatetime"> 05/30 14:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jimhall</span><span class="f3 push-content">: 又是靠補助...</span><span class="push-ipdatetime"> 05/30 14:04
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">u87803170</span><span class="f3 push-content">: 拿納稅人的錢去補助應屬開曼群島商...</span><span class="push-ipdatetime"> 05/30 14:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">poorpoor2</span><span class="f3 push-content">: 玻璃馬桶車</span><span class="push-ipdatetime"> 05/30 16:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yuinghoooo</span><span class="f3 push-content">: 肯改還不錯，之前秋的咧</span><span class="push-ipdatetime"> 05/30 17:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dreaming1943</span><span class="f3 push-content">: 至少比某L牌爭氣啊</span><span class="push-ipdatetime"> 05/30 18:23
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1496122706.A.E9D.html?cacheKey=2052-2417761&offset=5460&offset-sig=b8f3ad7d04702a4fd0eaab7969b50fe76e661d87" data-longpollurl="/v1/longpoll?id=732935596c14812985d09bc08d3987dc5ab597a4" data-offset="5460"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.22/bbs.js"></script>
+
+    </body>
+</html>
