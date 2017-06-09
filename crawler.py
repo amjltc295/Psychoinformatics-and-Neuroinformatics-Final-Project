@@ -10,7 +10,7 @@ def getPageText(link):
     if(link == 'empty'):
         pageText='This page has been deleted.'
     else:
-        pageText=requests.get(link, cookies={'over18':'1'}).text
+        pageText=requests.get(link, cookies={'over18':'1'}, timeout = 2).text
     #b = time.time()
     #print('get page text time:', b-a)
     return pageText
@@ -33,7 +33,7 @@ def getContent(soup):
 # search an article page
 def searchPage(link,keyWord):
     t = getPageText(link)
-    return searchText(t)
+    return searchText(t, keyWord)
 
 # search from file
 def searchText(text,keyWord):
@@ -81,7 +81,7 @@ def downloadPage(filename, forumName, page, link):
     a = time.time()
     pageText = getPageText(link)
     b = time.time()
-    directory = 'ptt/'+forumName+'/'
+    directory = 'ptt/'+forumName+'/'+str(page)+'/'
     if not os.path.exists(directory):
         os.makedirs(directory)
     filePath = directory+str(page)+'_'+filename+".txt"
@@ -118,6 +118,8 @@ def downloadForum(forumName, startPage, totalPage):
     pageNum=startPage
     N=totalPage
     for i in range(N): # 翻頁N次
+        if(N % 5 == 0):
+            time.sleep(2)
         articleCount=0
         prevPage='https://www.ptt.cc/bbs/'+forumName+'/index'+str(pageNum)+'.html'
         print('page', pageNum)
@@ -133,11 +135,17 @@ def downloadForum(forumName, startPage, totalPage):
             if(meta == NOT_EXIST):
                 link = 'empty'
                 print(link, end='')
-                downloadPage(str(articleCount), forumName, pageNum, link) #empty page
+                try:
+                    downloadPage(str(articleCount), forumName, pageNum, link) #empty page
+                except Exception as e:
+                    print('Error')
             else:
                 link = meta.get('href')
                 print(link, end='')
-                downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
+                try:    
+                    downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
+                except Exception as e:
+                    print('Error')
             articleCount += 1
         #next page
         pageNum -= 1
