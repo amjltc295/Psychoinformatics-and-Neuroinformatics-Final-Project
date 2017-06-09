@@ -143,36 +143,70 @@ def downloadForum(forumName, startPage, totalPage):
         pageNum -= 1
 
 #main
-def main(argv):
-    start = time.time()
-    if(argv[0] == '-d'):
-        if(len(argv)!= 4):
-            print('usage: -d "forumName" "startPage" "number of pages"')
+def main():
+    if(len(sys.argv) == 1): # no option
+        argv = ['-h']
+    else:
+        argv=sys.argv[1:]
+    
+    u_help = '-h'
+    u_download = '-d "forumName" "startPage" "number of pages"'
+    u_search = ['-s -w "forumName" "startPage" "number of pages"', 
+                '-s -f "forumName" "startPage" "number of pages"']
+
+    if(argv[0] == '-h'):
+        print('[OPTION]    | [USAGE]') 
+        print('HELP        |', u_help)
+        print('DOWNLOAD    |', u_download)
+        print('SEARCH      |')
+        print(' -from web  |', u_search[0])
+        print(' -from file |', u_search[1])
+    elif(argv[0] == '-d'):
+        if(len(argv) != 4):
+            print('usage:', u_download)
             sys.exit()
         else:
+            start = time.time()
             forumName = argv[1]
             startPage = int(argv[2])
             pages = int(argv[3])
+            #download forum from web
+            downloadForum(forumName, startPage, pages)
+            end = time.time()
+            print('time:', end - start, 'seconds')
 
-        #download forum from web
-        downloadForum(forumName, startPage, pages)
+    elif(argv[0] == '-s'):
+        # -s -w/-f "forumName" "startPage" "number of pages"
+        usage = 'usage: -s -w/-f "forumName" "startPage" "number of pages"'
+        keyword='推'
+        if(len(argv) != 5):
+            print(usage)
+            sys.exit()
+
+        forumName = argv[2]
+        startPage = int(argv[3])
+        pages = int(argv[4])
+        if(argv[1] == '-w'):
+            #search from web
+            searchForum(forumName, startPage, pages, keyword)
+        elif(argv[1] == '-f'):
+            #search from text file
+            directory = 'ptt/' + forumName + '/'
+            for j in range(startPage, startPage+pages):
+                for i in range(20):
+                    file = open(directory+str(j)+'_'+str(i)+'.txt', 'r')
+                    searchText(file.read(), keyword)
+                    file.close()
+        else:
+            print(usage)
+            sys.exit() 
+
     else:
         print('option not correct')
         sys.exit()
-    #search forum from web
-    #keyword='推'
-    #searchForum('Gossiping', startPage, pages, keyword)
 
-    #search from text file
-    '''
-    totalPage = 18
-    for i in range(totalPage):
-        file = open(foldername+'/'+str(i)+'.txt', 'r')
-        searchText(file.read(), keyword)
-    '''
-    end = time.time()
-    print('time:', end - start, 'seconds')
+    
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    main()
 
