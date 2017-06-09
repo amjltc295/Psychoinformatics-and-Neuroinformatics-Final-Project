@@ -117,13 +117,21 @@ def searchForum(forumName, startPage, totalPage, keyWord):
 def downloadForum(forumName, startPage, totalPage):
     pageNum=startPage
     N=totalPage
+    errorCount=0
     for i in range(N): # 翻頁N次
         if(N % 5 == 0):
             time.sleep(2)
         articleCount=0
         prevPage='https://www.ptt.cc/bbs/'+forumName+'/index'+str(pageNum)+'.html'
         print('page', pageNum)
-        pageText = getPageText(prevPage)
+        try:
+            pageText = getPageText(prevPage)
+        except Exception as e:
+            print('Error')
+            errorCount += 1
+            if(errorCount >= 3):
+                pageNum -= 1
+            continue
 
         soup = BeautifulSoup(pageText, 'lxml')
         articles = soup.find_all('div', 'r-ent')
@@ -135,10 +143,6 @@ def downloadForum(forumName, startPage, totalPage):
             if(meta == NOT_EXIST):
                 link = 'empty'
                 print(link, end='')
-                try:
-                    downloadPage(str(articleCount), forumName, pageNum, link) #empty page
-                except Exception as e:
-                    print('Error')
             else:
                 link = meta.get('href')
                 print(link, end='')
