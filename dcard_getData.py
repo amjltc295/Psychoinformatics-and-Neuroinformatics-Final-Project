@@ -161,7 +161,7 @@ class DcardWrapper:
                         try:
                             if not eachComment['hidden']:
                                 wordInComment = re.findall(eachWord, eachComment['content'])
-                                if not wordInComment:
+                                if wordInComment:
                                     wordResultWrapper.commentNum += len(wordInComment)
                                     if eachComment['gender'] == 'M':
                                         wordResultWrapper.fromMale += len(wordInComment)
