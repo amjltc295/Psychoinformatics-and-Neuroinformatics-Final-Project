@@ -29,7 +29,10 @@ cd <directory>
 ## Running the tests
 
 ```
+// For Dcard data
 python dcard_getData.py
+// For PTT data
+python crawler.py
 ```
 
 ### And coding style tests
@@ -51,8 +54,9 @@ Give an example
 
 ## License
 
-This project is licensed under ??? License
+MIT
 
 ## Acknowledgments
 
-* Thankd for Prof. T. R. Huang about the course
+* [Prof. Huang, Tsung-Ren](http://www.psy.ntu.edu.tw/index.php/members/faculty/fulltime-faculty/302-huang-tsung-ren)  Thanks for the course. We learn a lot.
+* Ya-Ting Shih  Thanks for the inspiration of this topic and helping of the survey.
