@@ -10,7 +10,7 @@ def getPageText(link):
     if(link == 'empty'):
         pageText='This page has been deleted.'
     else:
-        pageText=requests.get(link, cookies={'over18':'1'}).text
+        pageText=requests.get(link, cookies={'over18':'1'}, timeout = 2).text
     #b = time.time()
     #print('get page text time:', b-a)
     return pageText
@@ -33,7 +33,7 @@ def getContent(soup):
 # search an article page
 def searchPage(link,keyWord):
     t = getPageText(link)
-    return searchText(t)
+    return searchText(t, keyWord)
 
 # search from file
 def searchText(text,keyWord):
@@ -81,7 +81,7 @@ def downloadPage(filename, forumName, page, link):
     a = time.time()
     pageText = getPageText(link)
     b = time.time()
-    directory = 'ptt/'+forumName+'/'
+    directory = 'ptt/'+forumName+'/'+str(page)+'/'
     if not os.path.exists(directory):
         os.makedirs(directory)
     filePath = directory+str(page)+'_'+filename+".txt"
@@ -117,11 +117,21 @@ def searchForum(forumName, startPage, totalPage, keyWord):
 def downloadForum(forumName, startPage, totalPage):
     pageNum=startPage
     N=totalPage
+    errorCount=0
     for i in range(N): # 翻頁N次
+        if(N % 5 == 0):
+            time.sleep(2)
         articleCount=0
         prevPage='https://www.ptt.cc/bbs/'+forumName+'/index'+str(pageNum)+'.html'
         print('page', pageNum)
-        pageText = getPageText(prevPage)
+        try:
+            pageText = getPageText(prevPage)
+        except Exception as e:
+            print('Error')
+            errorCount += 1
+            if(errorCount >= 3):
+                pageNum -= 1
+            continue
 
         soup = BeautifulSoup(pageText, 'lxml')
         articles = soup.find_all('div', 'r-ent')
@@ -133,46 +143,82 @@ def downloadForum(forumName, startPage, totalPage):
             if(meta == NOT_EXIST):
                 link = 'empty'
                 print(link, end='')
-                downloadPage(str(articleCount), forumName, pageNum, link) #empty page
             else:
                 link = meta.get('href')
                 print(link, end='')
-                downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
+                try:    
+                    downloadPage(str(articleCount), forumName, pageNum, 'https://www.ptt.cc'+link)
+                except Exception as e:
+                    print('Error')
             articleCount += 1
         #next page
         pageNum -= 1
 
 #main
-def main(argv):
-    start = time.time()
-    if(argv[0] == '-d'):
-        if(len(argv)!= 4):
-            print('usage: -d "forumName" "startPage" "number of pages"')
+def main():
+    if(len(sys.argv) == 1): # no option
+        argv = ['-h']
+    else:
+        argv=sys.argv[1:]
+    
+    u_help = '-h'
+    u_download = '-d "forumName" "startPage" "number of pages"'
+    u_search = ['-s -w "forumName" "startPage" "number of pages"', 
+                '-s -f "forumName" "startPage" "number of pages"']
+
+    if(argv[0] == '-h'):
+        print('[OPTION]    | [USAGE]') 
+        print('HELP        |', u_help)
+        print('DOWNLOAD    |', u_download)
+        print('SEARCH      |')
+        print(' -from web  |', u_search[0])
+        print(' -from file |', u_search[1])
+    elif(argv[0] == '-d'):
+        if(len(argv) != 4):
+            print('usage:', u_download)
             sys.exit()
         else:
+            start = time.time()
             forumName = argv[1]
             startPage = int(argv[2])
             pages = int(argv[3])
+            #download forum from web
+            downloadForum(forumName, startPage, pages)
+            end = time.time()
+            print('time:', end - start, 'seconds')
 
-        #download forum from web
-        downloadForum(forumName, startPage, pages)
+    elif(argv[0] == '-s'):
+        # -s -w/-f "forumName" "startPage" "number of pages"
+        usage = 'usage: -s -w/-f "forumName" "startPage" "number of pages"'
+        keyword='推'
+        if(len(argv) != 5):
+            print(usage)
+            sys.exit()
+
+        forumName = argv[2]
+        startPage = int(argv[3])
+        pages = int(argv[4])
+        if(argv[1] == '-w'):
+            #search from web
+            searchForum(forumName, startPage, pages, keyword)
+        elif(argv[1] == '-f'):
+            #search from text file
+            directory = 'ptt/' + forumName + '/'
+            for j in range(startPage, startPage+pages):
+                for i in range(20):
+                    file = open(directory+str(j)+'_'+str(i)+'.txt', 'r')
+                    searchText(file.read(), keyword)
+                    file.close()
+        else:
+            print(usage)
+            sys.exit() 
+
     else:
         print('option not correct')
         sys.exit()
-    #search forum from web
-    #keyword='推'
-    #searchForum('Gossiping', startPage, pages, keyword)
 
-    #search from text file
-    '''
-    totalPage = 18
-    for i in range(totalPage):
-        file = open(foldername+'/'+str(i)+'.txt', 'r')
-        searchText(file.read(), keyword)
-    '''
-    end = time.time()
-    print('time:', end - start, 'seconds')
+    
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    main()
 
