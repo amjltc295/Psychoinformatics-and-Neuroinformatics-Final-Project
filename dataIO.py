@@ -80,7 +80,9 @@ class WordResultWrapper:
         self.fromMale = 0
         self.fromFemale = 0
         self.numInEachMonth = dict()
-
+        """ For PTT usage. """
+        self.articleCount = 0
+        self.commentCount = 0
     def printWordResult(self, toFile=sys.stdout):
         #Remove white space for Chinese characters
         wordLen = len(self.wordName)
