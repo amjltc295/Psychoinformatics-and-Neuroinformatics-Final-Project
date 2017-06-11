@@ -84,12 +84,12 @@ def getDate(text):
     return(date)
 
 # search an article page
-def searchPage(link,keyWord):
+def searchPage(link,keyWord,ww):
     t = getPageText(link)
-    return searchText(t, keyWord)
+    return searchText(t, keyWord, ww)
 
 # search from file
-def searchText(text,keyWord, ww = dataIO.WordResultWrapper(''), multi=False):
+def searchText(text,keyWord, ww = dataIO.WordResultWrapper(''), multi=True):
     #a = time.time()
     if(ww.wordName == ''):
         ww = dataIO.WordResultWrapper(keyWord)
@@ -206,7 +206,7 @@ def downloadPage(filename, forumName, page, link):
     f.close()
     print(' download to %s, time: %f' % (filePath, round(b-a, 2)))
 
-def searchForum(forumName, startPage, totalPage, keyWord):
+def searchForum(forumName, startPage, totalPage, keyWord, ww):
     pageNum=startPage
     N=totalPage
     for i in range(N): # 翻頁N次
@@ -226,7 +226,7 @@ def searchForum(forumName, startPage, totalPage, keyWord):
                 link = meta.get('href')
                 print(link)
 
-                searchPage('https://www.ptt.cc'+link, keyWord)
+                ww=searchPage('https://www.ptt.cc'+link, keyWord, ww)
         #next page
         pageNum -= 1
 
@@ -296,7 +296,7 @@ def main():
         print('HELP        |', u_help)
         print('DOWNLOAD    |', u_download)
         print('SEARCH      |')
-        print(' -from web  |', u_search[0])
+        print(' -from web  |', u_search[0], 'SOME PROBLEMS TO BE FIXED')
         print(' -from file |', u_search[1])
     elif(argv[0] == '-d'):
         if(len(argv) == 5):
@@ -345,18 +345,18 @@ def main():
             print(usage)
             sys.exit()
 
+        a = time.time()
+        ww = dataIO.WordResultWrapper(keyword)
         forumName = argv[2]
         startPage = int(argv[3])
         pages = int(argv[4])
         if(argv[1] == '-w'):
             #search from web
-            searchForum(forumName, startPage, pages, keyword)
+            searchForum(forumName, startPage, pages, keyword, ww)
         elif(argv[1] == '-f'):
             #search from text file
-            a = time.time()
             emptyFile = 0
             directory = 'ptt/' + forumName + '/'
-            ww = dataIO.WordResultWrapper(keyword)
             dw = DateWrapper()
             dw_total = DateWrapper()
             for j in range(startPage, startPage+pages):
@@ -398,18 +398,21 @@ def main():
                 print()
                 print('in these articles that contain:', keyword)
                 dw.printSummary() #print date that the article has keywords
+                sys.exit()
             else:
-                print('In', forumName, 'from page', startPage, 'to', startPage+pages-1)
                 print('Total articles:', pages*20 - emptyFile)
-                if(en_titleSearch): print('Total titles that contain', titleword, ':', a_count)
-                print('Total', keyword, 'in title:', ww.titleNum)
-                print('Total', keyword, 'in content:', ww.contentNum)
-                print('Total', keyword, 'in comment:', ww.commentNum)
-                print('Total articles that contain', keyword, ':', ww.articleCount)
-                print('Total pushes that contain', keyword, ':', ww.commentCount)
         else:
             print(usage)
-            sys.exit() 
+            sys.exit()
+
+        
+        print('In', forumName, 'from page', startPage, 'to', startPage+pages-1)
+        if(en_titleSearch): print('Total titles that contain', titleword, ':', a_count)
+        print('Total', keyword, 'in title:', ww.titleNum)
+        print('Total', keyword, 'in content:', ww.contentNum)
+        print('Total', keyword, 'in comment:', ww.commentNum)
+        print('Total articles that contain', keyword, ':', ww.articleCount)
+        print('Total pushes that contain', keyword, ':', ww.commentCount) 
 
     else:
         print('option not correct')

@@ -29,18 +29,14 @@ cd <directory>
 ## Running the tests
 
 ```
-python dcard_getData.py
+// For Dcard data
+python dcard_getData.py <forum name> <num of post to search>
+// For Dcard data with specific topic
+python dcard_getData.py <forum name> <num of post to search> <topic keyword>
+// For PTT data
+python crawler.py -h
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Built With
 
 
 ## Authors
@@ -49,10 +45,13 @@ Give an example
 
 * **Hsi-Sheng Mei** - *Initial work* - [jasonoscar88](https://github.com/jasonoscar88)
 
+
 ## License
 
-This project is licensed under ??? License
+MIT
+
 
 ## Acknowledgments
 
-* Thankd for Prof. T. R. Huang about the course
+* [Prof. Huang, Tsung-Ren](http://www.psy.ntu.edu.tw/index.php/members/faculty/fulltime-faculty/302-huang-tsung-ren)  Thanks for the course. We learn a lot.
+* Ya-Ting Shih  Thanks for the inspiration of this topic and helping of the survey.
