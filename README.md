@@ -30,20 +30,13 @@ cd <directory>
 
 ```
 // For Dcard data
-python dcard_getData.py
+python dcard_getData.py <forum name> <num of post to search>
+// For Dcard data with specific topic
+python dcard_getData.py <forum name> <num of post to search> <topic keyword>
 // For PTT data
-python crawler.py
+python crawler.py -h
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Built With
 
 
 ## Authors
@@ -52,9 +45,11 @@ Give an example
 
 * **Hsi-Sheng Mei** - *Initial work* - [jasonoscar88](https://github.com/jasonoscar88)
 
+
 ## License
 
 MIT
+
 
 ## Acknowledgments
 
