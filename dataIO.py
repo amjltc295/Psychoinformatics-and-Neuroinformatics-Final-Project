@@ -1,4 +1,5 @@
 import pickle
+import sys
 
 
 def readTextList(text_list_file):
@@ -62,11 +63,11 @@ class TypeResultWrapper:
     def addWord(self, wordResultWrapper):
         self.wordList.append(wordResultWrapper)
 
-    def printTypeResult(self):
-        print ("")
-        print ("#%s" % self.typeName)
+    def printTypeResult(self, toFile=sys.stdout):
+        print ("", file=toFile)
+        print ("#%s" % self.typeName, file=toFile)
         for eachWord in self.wordList:
-            eachWord.printWordResult()
+            eachWord.printWordResult(toFile)
 
 class WordResultWrapper:
 
@@ -75,13 +76,50 @@ class WordResultWrapper:
         self.titleNum = 0
         self.contentNum = 0
         self.commentNum = 0
+        self.postNum = 0 # Count just once in each post
         self.fromMale = 0
         self.fromFemale = 0
+        self.numInEachMonth = dict()
 
-    def printWordResult(self):
+    def printWordResult(self, toFile=sys.stdout):
         #Remove white space for Chinese characters
         wordLen = len(self.wordName)
         #English
         if len(self.wordName) == len(self.wordName.encode()):
             wordLen = 0
-        print ("%-*s %8d %8d %8d %8d %8d" % ((8-wordLen), self.wordName, self.titleNum, self.contentNum, self.commentNum, self.fromMale, self.fromFemale))
+        print ("%-*s %8d %8d %8d %8d %8d" % ((8-wordLen), self.wordName, self.titleNum, self.contentNum, self.commentNum, self.fromMale, self.fromFemale), file=toFile)
+        #self.printWordResultWithTime(toFile)
+
+    def printWordResultWithTime(self, toFile=sys.stdout):
+        if (self.numInEachMonth):
+            print ("Time    Num", file=toFile)
+            for year_month, num in self.numInEachMonth.items():
+                print ("%6s %d" % (year_month, num), file=toFile)
+        """
+        else:
+            print ("No result with time")
+        """
+
+    def addResult(self, place, num, gender="", time=""):
+        if (place == "title"):
+            self.titleNum += 1
+        elif (place == "content"):
+            self.contentNum += num
+        elif (place == "comment"):
+            self.commentNum += num
+        if (gender == 'M'):
+            self.fromMale += num
+        elif (gender == 'F'):
+            self.fromFemale += num
+        year = int(time[:4])
+        month = int(time[5:7])
+        year_month = year*100 + month
+        if (year_month in self.numInEachMonth):
+            self.numInEachMonth[year_month] += 1
+        else:
+            self.numInEachMonth[year_month] = 1
+
+
+
+
+

@@ -36,38 +36,38 @@ class DcardWrapper:
         self.word_list_dict = dict() #a dict with {"品德": ["母豬", "妓女"...], ...}
         self.forum_list = None
         self.searching_num = 10
+        self.totalPostNum = 0
+        self.totalCommentNum = 0
+        self.commentFromMale= 0
+        self.commentFromFemale = 0
         self.raw_result = list()
         self.result_list = [] #a list of result dict
         self.currentForum = ""
+        self.currentTitleTopic = ""
 
     def printInfo(self):
         print ("")
         print ("Forum: %s" % self.currentForum)
         print ("Number of articles to search: %d" % self.searching_num)
 
-    def printResult(self):
-        print ("")
-        print ("%-8s %8s %8s %8s %8s %8s" % ("Word in", "Title", "Content", "Comment", "Male", "Female"))
+    def printResult(self, toFile=sys.stdout):
+        print ("Forum: %s" % self.currentForum, file=toFile)
+        if (self.currentTitleTopic):
+            print ("Finding %s in title only." % self.currentTitleTopic, file=toFile)
+        print ("Total %d posts" % self.totalPostNum, file=toFile)
+        print ("Total %d comments (male %d / female %d)" % (self.totalCommentNum, self.commentFromMale, self.commentFromFemale), file=toFile)
+        print ("%-8s %8s %8s %8s %8s %8s" % ("Word in", "Title", "Content", "Comment", "Male", "Female"), file=toFile)
         for eachType in self.result_list:
-            eachType.printTypeResult()
+            eachType.printTypeResult(toFile)
 
 
 
-    def getWordDataFromForum(self, forumName, searching_num):
+    def getDataFromForum(self, forumName, searching_num):
+        """ Download posts data from forum. """
         self.searching_num = searching_num
         self.currentForum = forumName
-        self.printInfo()
-        #metadata_forums = dcard.forums.get()
-        """
-        for each in metadata_forums:
-            print (each['name'])
-            print (each['alias'])
-        forumName = 'relationship'
-        forumName = 'girl'
-        word = '婊'
-        """
-        print ("")
-        if not ( self.read_raw_result(forumName)):
+
+        if not (self.read_raw_result(forumName)):
             f = self.dcard.forums(forumName)
             print (self.searching_num, "Meta collecting ...", end=' ', flush=True)
             m = f.get_metas(num=self.searching_num)#, callback=get_words) #list
@@ -77,105 +77,153 @@ class DcardWrapper:
             p = self.dcard.posts(m).get(links=False)
             print ("Done.")
             print ("")
-            #result = [ next(p.results) for i in range(self.searching_num)]
-            #result = []
-            #print (type(next(p.results)))
-            #print (next(p.results))
-            #print (next(p.results))
-            """
-            for each in p.results:
-                print (each)
-                input("a:")
-            """
-            #print ("Result parsing ...", end=' ', flush=True)
-            #result = p.result()
-            #result = p.results
-            #print ("Done.")
+
+
+            count = 0
+            """ Searching the word in each articles, including title, cotent and comments. """
+            while count < self.searching_num or self.searching_num == -1:
+                try:
+                    eachPost = next(p.results)
+                    self.raw_result.append(eachPost)
+                except:
+                    self.searching_num = len(self.raw_result)
+                    break
+                else:
+                    print ("Downloading data in %s ...  %d / %d " % (forumName, count, self.searching_num), end='\r', flush=True)
+
+                if (count % 20000 == 0 and count > 1):
+                    self.write_raw_result(forumName)
+                    self.raw_result = []
+                count += 1
+
+            print ("Downloading data in %s ...  %d / %d     Done."
+                    % (forumName, self.searching_num, self.searching_num), end='\r', flush=True)
+
+        else:
+            print ("Error in getDataFromForum(): already download.")
+            return False
+        self.write_raw_result(forumName)
+
+    def searchWordFromData(self, forumName, searching_num, titleTopic=""):
+        self.searching_num = searching_num
+        self.currentForum = forumName
+        self.currentTitleTopic = titleTopic
+        self.printInfo()
+        print ("")
+        """ Download if no data found. """
+        if not ( self.read_raw_result(forumName)):
+            self.getDataFromForum(forumName, searching_num)
+
+        first_word = True #To count post num and comment num
         for typeName, wordList in self.word_list_dict.items():
             typeResultWrapper = dataIO.TypeResultWrapper(typeName)
             print ("")
             print ("#Type: ", typeName)
             for eachWord in wordList:
                 wordResultWrapper = dataIO.WordResultWrapper(eachWord)
-
                 count = 0
-                while count < self.searching_num or self.searching_num == -1:
-
-                    if len(self.raw_result) == self.searching_num:
-                        eachPost = self.raw_result[count]
-                        print ("Searching %s in %s ...  %d / %d " % (eachWord, forumName, count, self.searching_num), end='\r', flush=True)
-                    else:
-                        try:
-                            eachPost = next(p.results)
-                            self.raw_result.append(eachPost)
-                        except:
-                            self.searching_num = len(self.raw_result)
-                            break
-                        else:
-                            print ("Downloading data and searching %s in %s ...  %d / %d " % (eachWord, forumName, count, self.searching_num), end='\r', flush=True)
-
-                #for eachPost in result:
-                    count += 1
-                    #print (eachPost['comments'])
-                    try:
-                        wordInTitles = re.findall(eachWord, eachPost['title'])
-                    except:
+                """ Searching the word in each articles, including title, cotent and comments. """
+                while count < self.searching_num:
+                    if not len(self.raw_result) == self.searching_num:
+                        print ("ERROR in seaching: searching num %d > data num %d"
+                                % (self.searching_num, len(self.raw_result)))
+                        print ("Turn searching num into data num")
                         print ("")
-                        print ("Error key title: ", eachPost)
-                        continue
-                    else:
-                    #if wordInTitles:
-                        try:
-                            wordResultWrapper.titleNum += len(wordInTitles)
+                        self.searching_num = len(self.raw_result)
+                    eachPost = self.raw_result[count]
+                    print ("Searching %s in %s ...  %d / %d "
+                            % (eachWord, forumName, count, self.searching_num), end='\r', flush=True)
 
-                            if eachPost['gender'] == 'M':
-                                wordResultWrapper.fromMale += len(wordInTitles)
-                            elif eachPost['gender'] == 'F':
-                                wordResultWrapper.fromFemale += len(wordInTitles)
+                    """ There are errors to handle when getting large amount of data. """
+                    count += 1
+                    # Filter those with specific topic in title
+                    if (titleTopic != ""):
+                        try:
+                            if not (titleTopic in eachPost['title']):
+                                continue
                         except:
                             print ("")
                             print ("Error in title: ",  eachPost['title'])
                             continue
 
+                    # Searching word in titile
+                    try:
+                        wordInTitles = re.findall(eachWord, eachPost['title'])
+                        self.totalPostNum += 1 if first_word else 0
+                    except:
+                        print ("")
+                        print ("Error key title, post: ", eachPost)
+                        continue
+                    if wordInTitles:
+                        try:
+                            wordResultWrapper.addResult('title', len(wordInTitles),
+                                    eachPost['gender'], eachPost['createdAt'])
+                        except:
+                            print ("")
+                            print ("Error in title: ",  eachPost['title'])
+                            continue
+
+                    # Searching word in content of posts
                     try:
                         wordInContent = re.findall(eachWord, eachPost['content'])
                     except:
                         print ("")
-                        print ("Error key content: ", eachPost)
+                        print ("Error key content, post: ", eachPost)
                         continue
 
                     if wordInContent:
                         try:
-                            wordResultWrapper.contentNum += len(wordInContent)
-                            if eachPost['gender'] == 'M':
-                                wordResultWrapper.fromMale += len(wordInContent)
-                            elif eachPost['gender'] == 'F':
-                                wordResultWrapper.fromFemale += len(wordInContent)
+                            wordResultWrapper.addResult('content', len(wordInContent),
+                                    eachPost['gender'], eachPost['createdAt'])
                         except:
                             print ("")
-                            print ("Error in wordInContent: ", wordInContent)
-                            print ("Post: ", eachPost['content'])
+                            print ("Error in wordInContent, post: ", eachPost['content'])
                             continue
 
+                    # Searching word in comments of posts
                     for eachComment in eachPost['comments']:
                         try:
                             if not eachComment['hidden']:
+                                if first_word:
+                                    self.totalCommentNum += 1
+                                    if eachComment['gender'] == 'M':
+                                        self.commentFromMale += 1
+                                    elif eachComment['gender'] == 'F':
+                                        self.commentFromFemale += 1
+                                    else:
+                                        #Some comment without gender or from official
+                                        self.totalCommentNum -= 1
+
                                 wordInComment = re.findall(eachWord, eachComment['content'])
                                 if wordInComment:
-                                    wordResultWrapper.commentNum += len(wordInComment)
-                                    if eachComment['gender'] == 'M':
-                                        wordResultWrapper.fromMale += len(wordInComment)
-                                    elif eachComment['gender'] == 'F':
-                                        wordResultWrapper.fromFemale += len(wordInComment)
+                                    wordResultWrapper.addResult('comment', len(wordInComment),
+                                            eachComment['gender'], eachComment['createdAt'])
                         except:
                             print ("")
-                            print ("Error in eachComment: ", eachComment)
+                            print ("Error in searching eachComment: ", eachComment)
 
-                print ("Searching %s in %s ...  %d / %d               " % (eachWord, forumName, self.searching_num, self.searching_num))
+                print ("Searching %s in %s ...  %d / %d                  Done."
+                        % (eachWord, forumName, self.searching_num, self.searching_num))
                 typeResultWrapper.addWord(wordResultWrapper)
+                first_word = False
             self.result_list.append(typeResultWrapper)
+        print ("End of searching")
+        print ("")
         self.printResult()
-        self.write_raw_result(forumName)
+
+        directory = 'Dcard/result/'
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        filename = directory + '%s_%d_result%s.txt' % (self.currentForum, self.searching_num, titleTopic)
+        if os.path.isfile(filename):
+            print ("Warning: file %s already exists" % filename)
+            input("Continue?")
+        print ("File %s written." % filename)
+
+        with open(filename, 'w') as outFile:
+            self.printResult(outFile)
+        #self.writeResult()
+
 
     def write_raw_result(self, forumName):
         if not os.path.exists('./data'):
@@ -183,6 +231,8 @@ class DcardWrapper:
         filename = 'data/%s_%d_raw_result.dat' % (forumName, self.searching_num)
         if not os.path.isfile(filename):
             dataIO.writePickle(filename, self.raw_result)
+        else:
+            print ("File %s already exists" % filename)
 
     def read_raw_result(self, forumName):
         filename = 'data/%s_%d_raw_result.dat' % (forumName, self.searching_num)
@@ -201,9 +251,12 @@ def main(argv):
         dcardWrapper = DcardWrapper()
         forumName = argv[0]
         searching_num =  int(argv[1]) if argv[1] != 'i' else dcardWrapper.dcard.forums.infinite_page
-        with open('word_list_female.txt', 'r') as text_list_file:
+        with open('word_list.txt', 'r') as text_list_file:
             dcardWrapper.word_list_dict = dataIO.readTextList(text_list_file)
-        dcardWrapper.getWordDataFromForum(forumName, searching_num)
+        if (len(argv) == 2):
+            dcardWrapper.searchWordFromData(forumName, searching_num)
+        else:
+            dcardWrapper.searchWordFromData(forumName, searching_num, argv[2])
 
 
 if __name__ == "__main__":
