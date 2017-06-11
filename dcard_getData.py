@@ -124,6 +124,8 @@ class DcardWrapper:
                 count = 0
                 """ Searching the word in each articles, including title, cotent and comments. """
                 while count < self.searching_num:
+                    wordInTitles = wordInContent = wordInComment = []
+                    wordInPost = 0
                     if not len(self.raw_result) == self.searching_num:
                         print ("ERROR in seaching: searching num %d > data num %d"
                                 % (self.searching_num, len(self.raw_result)))
@@ -143,7 +145,7 @@ class DcardWrapper:
                                 continue
                         except:
                             print ("")
-                            print ("Error in title: ",  eachPost['title'])
+                            print ("Error in title, post: ",  eachPost)
                             continue
 
                     # Searching word in titile
@@ -155,6 +157,7 @@ class DcardWrapper:
                         print ("Error key title, post: ", eachPost)
                         continue
                     if wordInTitles:
+                        wordInPost = 1
                         try:
                             wordResultWrapper.addResult('title', len(wordInTitles),
                                     eachPost['gender'], eachPost['createdAt'])
@@ -172,6 +175,7 @@ class DcardWrapper:
                         continue
 
                     if wordInContent:
+                        wordInPost = 1
                         try:
                             wordResultWrapper.addResult('content', len(wordInContent),
                                     eachPost['gender'], eachPost['createdAt'])
@@ -196,11 +200,15 @@ class DcardWrapper:
 
                                 wordInComment = re.findall(eachWord, eachComment['content'])
                                 if wordInComment:
+                                    wordInPost = 1
                                     wordResultWrapper.addResult('comment', len(wordInComment),
                                             eachComment['gender'], eachComment['createdAt'])
                         except:
                             print ("")
                             print ("Error in searching eachComment: ", eachComment)
+                    if (wordInPost):
+                        wordResultWrapper.postNum += 1
+
 
                 print ("Searching %s in %s ...  %d / %d                  Done."
                         % (eachWord, forumName, self.searching_num, self.searching_num))
