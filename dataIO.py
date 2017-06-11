@@ -87,7 +87,9 @@ class WordResultWrapper:
         #English
         if len(self.wordName) == len(self.wordName.encode()):
             wordLen = 0
-        print ("%-*s %8d %8d %8d %8d %8d" % ((8-wordLen), self.wordName, self.titleNum, self.contentNum, self.commentNum, self.fromMale, self.fromFemale), file=toFile)
+        print ("%-*s %8d %8d %8d  %8d %8d %8d"
+                % ((8-wordLen), self.wordName, self.titleNum, self.contentNum, self.commentNum, (self.titleNum+self.contentNum+self.commentNum), self.fromMale, self.fromFemale),
+                file=toFile)
         #self.printWordResultWithTime(toFile)
 
     def printWordResultWithTime(self, toFile=sys.stdout):

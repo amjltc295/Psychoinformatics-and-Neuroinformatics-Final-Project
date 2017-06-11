@@ -56,7 +56,7 @@ class DcardWrapper:
             print ("Finding %s in title only." % self.currentTitleTopic, file=toFile)
         print ("Total %d posts" % self.totalPostNum, file=toFile)
         print ("Total %d comments (male %d / female %d)" % (self.totalCommentNum, self.commentFromMale, self.commentFromFemale), file=toFile)
-        print ("%-8s %8s %8s %8s %8s %8s" % ("Word in", "Title", "Content", "Comment", "Male", "Female"), file=toFile)
+        print ("%-8s %8s %8s %8s %8s %8s %8s" % ("Word in", "Title", "Content", "Comment", "Total", "Male", "Female"), file=toFile)
         for eachType in self.result_list:
             eachType.printTypeResult(toFile)
 
