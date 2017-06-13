@@ -5,6 +5,40 @@ import time
 import dataIO
 import sys, os
 
+class DateWrapper:
+    def __init__(self):
+        self.Jun=[]
+        self.May=[]
+        self.Apr=[]
+    def addDate(self, str):
+        month=str[:3]
+        date=int(str[3:])
+        if(month=='Jun'):
+            self.Jun.append(date)
+        elif(month=='May'):
+            self.May.append(date)
+        elif(month=='Apr'):
+            self.Apr.append(date)
+    def printSummary(self):
+        for j in range(1,31):
+            count=0
+            for i in self.Apr:
+                if(i==j): count += 1
+            print('Apr', j, ':', count)
+        print('')
+        for j in range(1,32):
+            count=0
+            for i in self.May:
+                if(i==j): count += 1
+            print('May', j, ':', count)
+        print('')
+        for j in range(1,31):
+            count=0
+            for i in self.Jun:
+                if(i==j): count += 1
+            print('Jun', j, ':', count)
+
+
 def getPageText(link):
     #a = time.time()
     if(link == 'empty'):
@@ -16,19 +50,38 @@ def getPageText(link):
     return pageText
 
 def getTitle(soup):
-    return soup.find('span', 'article-meta-value').getText()
+    s=soup.find_all('span', 'article-meta-value')
+    return s[2].getText()
+
+def getTitleFromText(text):
+    soup = BeautifulSoup(text, 'lxml')
+    #title
+    return getTitle(soup)
 
 def getContent(soup):
     s=soup.find_all('span', 'f6')
     for i in s:
         i.decompose()
-    content = soup.find(id="main-content").text
-    target_front = u'時間'
-    target_back = u'※ 發信站: 批踢踢實業坊(ptt.cc),'
-    content = content.split(target_back)
-    content = content[0].split(target_front)
-    main_content = content[1]
+
+    content = soup.find(id="main-content")
+    s1 = content.find_all('div', 'article-metaline')
+    for i in s1:
+        i.decompose()
+    s2 = content.find_all('div', 'article-metaline-right')
+    for i in s2:
+        i.decompose()
+
+    target_back = '※ 發信站: 批踢踢實業坊(ptt.cc)'
+    content = content.text.split(target_back)
+    main_content = content[0]
     return main_content
+
+def getDate(text):
+    soup = BeautifulSoup(text, 'lxml')
+    s=soup.find_all('span', 'article-meta-value')
+    timeStr=s[3].text
+    date=timeStr[4:10]
+    return(date)
 
 # search an article page
 def searchPage(link,keyWord):
@@ -36,29 +89,80 @@ def searchPage(link,keyWord):
     return searchText(t, keyWord)
 
 # search from file
-def searchText(text,keyWord):
+def searchText(text,keyWord, ww = dataIO.WordResultWrapper(''), multi=False):
     #a = time.time()
-    ww = dataIO.WordResultWrapper(keyWord)
+    if(ww.wordName == ''):
+        ww = dataIO.WordResultWrapper(keyWord)
     soup = BeautifulSoup(text, 'lxml')
     #title
     title = getTitle(soup)
-    ww.titleNum = searchKeyword(title,keyWord)
+    if(multi):
+        n_t = searchMultiKeyword(title,keyWord)
+    else:
+        n_t = searchKeyword(title,keyWord)
+    ww.titleNum += n_t
     #content
     content = getContent(soup)
-    ww.contentNum = searchKeyword(content,keyWord)
+    if(multi):
+        n_ct = searchMultiKeyword(content,keyWord)
+    else:
+        n_ct = searchKeyword(content,keyWord)
+    ww.contentNum += n_ct
     #pushes
     pushes = soup.find_all('div', 'push')
+    n_cm_total = 0
     for push in pushes:
-        #state = push.find('span', 'hl push-tag').getText()
-        #state2 = push.find('span', 'f1 hl push-tag').getText()
         #ptt_id = push.find('span', 'f3 hl push-userid').getText()
         comment = push.find('span', 'f3 push-content').getText()
-        #print(comment)
-        ww.commentNum += searchKeyword(comment,keyWord)
-    ww.printWordResult()
-    #b = time.time()
-    #print('search keyword time:', b-a)
+        if(multi):
+            n_cm = searchMultiKeyword(comment,keyWord)
+        else:
+            n_cm = searchKeyword(comment,keyWord)
+        if(n_cm != 0):
+            #print(comment)
+            ww.commentCount += 1
+        n_cm_total += n_cm
+    ww.commentNum += n_cm_total
+
+    if(n_t + n_ct + n_cm_total != 0):
+        ww.articleCount += 1
+
     return ww
+
+# search from file
+def searchText_Date(text,keyWord, dw, multi=False):
+    #a = time.time()
+    soup = BeautifulSoup(text, 'lxml')
+    #title
+    dateStr = getDate(text)
+    title = getTitle(soup)
+    if(multi):
+        n_t = searchMultiKeyword(title,keyWord)
+    else:
+        n_t = searchKeyword(title,keyWord)
+    #content
+    content = getContent(soup)
+    if(multi):
+        n_ct = searchMultiKeyword(content,keyWord)
+    else:
+        n_ct = searchKeyword(content,keyWord)
+    #pushes
+    pushes = soup.find_all('div', 'push')
+    n_cm_total = 0
+    for push in pushes:
+        #ptt_id = push.find('span', 'f3 hl push-userid').getText()
+        comment = push.find('span', 'f3 push-content').getText()
+        if(multi):
+            n_cm = searchMultiKeyword(comment,keyWord)
+        else:
+            n_cm = searchKeyword(comment,keyWord)
+        n_cm_total += n_cm
+
+    if(n_t + n_ct + n_cm_total != 0):
+        print(dateStr)
+        dw.addDate(dateStr)
+
+    return dw
 
 # get the number of previous page
 def getPrevPage(soup):
@@ -75,6 +179,18 @@ def searchKeyword(text,word):
         if(a>=0):
             count+=1
             text=text[a+len(word):]
+    return count
+
+def searchMultiKeyword(text,wordList):
+    count=0
+    for word in wordList:
+        a=0
+        subtext=text
+        while(a>=0):
+            a=text.find(word)
+            if(a>=0):
+                count+=1
+                text=text[a+len(word):]
     return count
 
 def downloadPage(filename, forumName, page, link):
@@ -154,6 +270,15 @@ def downloadForum(forumName, startPage, totalPage):
         #next page
         pageNum -= 1
 
+def downloadMissingPage(forumName, startPage, endPage):
+    for page in range(startPage, endPage+1):
+        directory = 'ptt/' + forumName + '/' + str(page) + '/'
+        if not os.path.isdir(directory):
+            try:
+                print('page', page, 'missing')
+                downloadForum(forumName, page, 1)
+            except Exception as e:
+                 print('Error')
 #main
 def main():
     if(len(sys.argv) == 1): # no option
@@ -174,7 +299,17 @@ def main():
         print(' -from web  |', u_search[0])
         print(' -from file |', u_search[1])
     elif(argv[0] == '-d'):
-        if(len(argv) != 4):
+        if(len(argv) == 5):
+            if(argv[1] == '-m'):
+                start = time.time()
+                forumName = argv[2]
+                startPage = int(argv[3])
+                endPage = int(argv[4])
+                #download forum from web
+                downloadMissingPage(forumName, startPage, endPage)
+                end = time.time()
+                print('time:', end - start, 'seconds')
+        elif(len(argv) != 4):
             print('usage:', u_download)
             sys.exit()
         else:
@@ -190,7 +325,22 @@ def main():
     elif(argv[0] == '-s'):
         # -s -w/-f "forumName" "startPage" "number of pages"
         usage = 'usage: -s -w/-f "forumName" "startPage" "number of pages"'
-        keyword='推'
+        keyword=['母豬', '女森','台女', '74團', '騎士團', '處女']
+        #keyword=['渣男']
+        #keyword=['母豬']
+        #keyword=['74團','騎士團']
+        #keyword=['母豬', '女森', '台女']
+        #keyword=['甲甲','臭甲']
+        #keyword=['奕含','房思琪','陳星','陳興']
+
+        multi=True # multi keyword OR not
+        en_titleSearch=True # Use title to filter OR not
+        searchDate=False # print date distribution OR word summary
+
+        if(en_titleSearch): 
+            titleword=['女作家','A女','奕含','房思琪','陳星','陳興','C師']
+            #titleword=['女']
+        a_count = 0
         if(len(argv) != 5):
             print(usage)
             sys.exit()
@@ -203,12 +353,60 @@ def main():
             searchForum(forumName, startPage, pages, keyword)
         elif(argv[1] == '-f'):
             #search from text file
+            a = time.time()
+            emptyFile = 0
             directory = 'ptt/' + forumName + '/'
+            ww = dataIO.WordResultWrapper(keyword)
+            dw = DateWrapper()
+            dw_total = DateWrapper()
             for j in range(startPage, startPage+pages):
+                print('page', j)
                 for i in range(20):
-                    file = open(directory+str(j)+'_'+str(i)+'.txt', 'r')
-                    searchText(file.read(), keyword)
-                    file.close()
+                    try:
+                        file = open(directory+str(j)+'/'+str(j)+'_'+str(i)+'.txt', 'r')
+                        text = file.read()
+                        title = getTitleFromText(text)
+                        if(en_titleSearch):
+                            in_title=False 
+                            for t in titleword:
+                                if(title.find(t)!= -1): 
+                                    #print(t, 'in title')
+                                    in_title=True
+                            if(in_title): 
+                                print(title)
+                                a_count += 1
+                                dateStr=getDate(text)
+                                dw_total.addDate(dateStr)
+                                if(searchDate):
+                                    dw = searchText_Date(text, keyword, dw, multi)
+                                else:
+                                    ww = searchText(text, keyword, ww, multi)
+                        else:
+                            if(searchDate):
+                                dw = searchText_Date(text, keyword, dw, multi)
+                            else:
+                                ww = searchText(text, keyword, ww, multi)
+                        file.close()
+                    except Exception as e:
+                        emptyFile += 1
+            b = time.time()
+            print('Total time:', round(b-a, 2))
+            if(searchDate):
+                print()
+                print('titles that contain:', titleword)
+                dw_total.printSummary() #print date the the title has titlewords
+                print()
+                print('in these articles that contain:', keyword)
+                dw.printSummary() #print date that the article has keywords
+            else:
+                print('In', forumName, 'from page', startPage, 'to', startPage+pages-1)
+                print('Total articles:', pages*20 - emptyFile)
+                if(en_titleSearch): print('Total titles that contain', titleword, ':', a_count)
+                print('Total', keyword, 'in title:', ww.titleNum)
+                print('Total', keyword, 'in content:', ww.contentNum)
+                print('Total', keyword, 'in comment:', ww.commentNum)
+                print('Total articles that contain', keyword, ':', ww.articleCount)
+                print('Total pushes that contain', keyword, ':', ww.commentCount)
         else:
             print(usage)
             sys.exit() 
