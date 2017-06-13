@@ -4,6 +4,8 @@
 
 Discriminative words reseach for PTT and DCard.
 
+See the result [here](https://www.dcard.tw/f/all/p/226598921).
+
 
 ## Getting Started
 
@@ -41,9 +43,9 @@ python crawler.py -h
 
 ## Authors
 
-* **Ya-Liang Chang** - *Initial work* - [amjltc295](https://github.com/amjltc295)
+* **Ya-Liang Chang** - *Initial work for Dcard* - [amjltc295](https://github.com/amjltc295)
 
-* **Hsi-Sheng Mei** - *Initial work* - [jasonoscar88](https://github.com/jasonoscar88)
+* **Hsi-Sheng Mei** - *Initial work for PTT* - [jasonoscar88](https://github.com/jasonoscar88)
 
 
 ## License
